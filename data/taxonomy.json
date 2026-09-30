@@ -1,0 +1,277 @@
+{
+ "version": "1.0",
+ "principles": [
+  "Source text is authoritative. Metadata is secondary and never justifies altering the text.",
+  "If a value cannot be supported by the text or the source document, leave it empty or use 'Not specified'. Do not guess.",
+  "Every value carries provenance: source (stated in the document), computed (derived by a script), ai (suggested by an AI model), or human (entered or confirmed by a reviewer). Human values are never overwritten.",
+  "Every AI value carries a confidence (high, medium, low) and one sentence of evidence that points to the text.",
+  "The library records what sources state. It never asserts that a piece is legal or eligible for any league."
+ ],
+ "fields": {
+  "record_type": {
+   "label": "Record type",
+   "multi": false,
+   "definition": "What kind of record this is.",
+   "assign_when": "Cutting for a single performed selection; Program for a POI with several selections; Unsegmented Text when a file could not be split.",
+   "do_not_assign_when": "Do not use Program for a single-source cutting.",
+   "examples": [],
+   "values": {
+    "Cutting": "One performable cutting of a published work.",
+    "Program": "A program built from several selections (POI).",
+    "Unsegmented Text": "Text that could not be split into cuttings and needs a person."
+   }
+  },
+  "record_status": {
+   "label": "Record status",
+   "multi": false,
+   "definition": "Whether the record appears in the library.",
+   "assign_when": "Archived only by a reviewer.",
+   "do_not_assign_when": "Never delete; archive instead.",
+   "examples": [],
+   "values": {
+    "Active": "Shown in the library.",
+    "Archived": "Hidden but kept in the database."
+   }
+  },
+  "event": {
+   "label": "Event",
+   "multi": false,
+   "definition": "The interpretation event the cutting was prepared for, as the uploader filed it.",
+   "assign_when": "The event is stated in the filing or the source.",
+   "do_not_assign_when": "Do not infer the event from the text.",
+   "examples": [
+    "File in a folder named 'Any Gender DI': Dramatic Interpretation."
+   ],
+   "values": {
+    "Dramatic Interpretation": "Serious solo interpretation.",
+    "Humorous Interpretation": "Humorous solo interpretation.",
+    "Duo Interpretation": "Two performers.",
+    "Program Oral Interpretation": "Thematic program of two or more genres.",
+    "Poetry": "Poetry interpretation.",
+    "Prose": "Prose interpretation.",
+    "Storytelling": "Storytelling.",
+    "Other": "Another event."
+   }
+  },
+  "literary_form": {
+   "label": "Literary form of the source work",
+   "multi": false,
+   "definition": "The form of the published work the cutting comes from.",
+   "assign_when": "The form is stated in the source or evident from the text layout (stage directions and speaker labels mean Drama; lineated verse means Poetry).",
+   "do_not_assign_when": "Do not assign from tone or topic.",
+   "examples": [
+    "Speaker labels and stage directions: Drama."
+   ],
+   "values": {
+    "Prose": "Fiction in sentences and paragraphs.",
+    "Poetry": "Writing arranged in verse lines.",
+    "Drama": "A play or screenplay.",
+    "Nonfiction": "Essay, memoir, journalism, transcript or other factual writing.",
+    "Mixed": "More than one form in the cutting.",
+    "Not specified": "The form cannot be determined from the record."
+   }
+  },
+  "tone": {
+   "label": "Overall tone",
+   "multi": true,
+   "definition": "The overall register of the cutting, distinct from the specific emotions played.",
+   "assign_when": "The register is evident from word choice and situation.",
+   "do_not_assign_when": "Do not list emotions; do not assign from the topic alone.",
+   "examples": [
+    "A comic account of a funeral: Lighthearted, Ironic."
+   ],
+   "values": {
+    "Lighthearted": "Buoyant, amusing or breezy.",
+    "Earnest": "Sincere and heartfelt.",
+    "Serious": "Grave; weighty subject treated soberly.",
+    "Bittersweet": "Happiness and sadness together.",
+    "Dark": "Bleak or disturbing.",
+    "Ironic": "Meaning differs from the surface statement.",
+    "Satirical": "Mocks people, institutions or customs to criticise them.",
+    "Whimsical": "Playful and fanciful."
+   }
+  },
+  "content_warnings": {
+   "label": "Content warnings",
+   "multi": true,
+   "definition": "Sensitive content that is present in the cutting text.",
+   "assign_when": "The text contains or directly describes the content.",
+   "do_not_assign_when": "Do not assign for a topic mentioned only in the introduction or the source block.",
+   "examples": [
+    "A narrator describes a shooting: Violence, Death, War/Trauma."
+   ],
+   "values": {
+    "Death": "A death occurs or is described.",
+    "Grief": "Mourning or bereavement is central.",
+    "Violence": "Physical violence occurs or is described.",
+    "Abuse": "Physical, emotional or sexual abuse of a person.",
+    "Sexual Content": "Sexual acts or explicit references.",
+    "Sexual Assault": "Rape or sexual assault.",
+    "Self-harm": "Deliberate self-injury.",
+    "Suicide": "Suicide or suicidal thoughts.",
+    "Substance Use": "Drugs or alcohol use.",
+    "Discrimination/Slurs": "Discrimination, hate speech or slurs.",
+    "Mental Health": "Mental illness is depicted.",
+    "War/Trauma": "War, mass violence or traumatic events."
+   }
+  },
+  "difficulty": {
+   "label": "Difficulty",
+   "multi": false,
+   "definition": "How demanding the cutting is to perform well.",
+   "assign_when": "Sustained demands are evident (many characters, dialect, wide emotional range).",
+   "do_not_assign_when": "Do not assign from length alone.",
+   "examples": [],
+   "values": {
+    "Beginner": "One voice, a simple arc.",
+    "Intermediate": "A few characters or shifts.",
+    "Advanced": "Many characters, rapid shifts, dialect or a very wide emotional range."
+   }
+  },
+  "performance_demands": {
+   "label": "Performance demands",
+   "multi": true,
+   "definition": "Skills the text clearly requires.",
+   "assign_when": "The text clearly requires it (many labelled speakers, written dialect, stated physical business).",
+   "do_not_assign_when": "Do not assign for one speaker with one voice.",
+   "examples": [],
+   "values": {
+    "Character Differentiation": "Several distinct characters.",
+    "Vocal Variety": "Wide vocal range or rapid pacing changes.",
+    "Dialect": "A dialect is stated or written.",
+    "Physicality": "Physical business is stated.",
+    "Pacing/Timing Control": "Pauses, beats or rhythm drive the piece."
+   }
+  },
+  "audience_level": {
+   "label": "Suggested audience level",
+   "multi": false,
+   "definition": "A suggestion only, never a claim of appropriateness.",
+   "assign_when": "Judged from content warnings and complexity; always labelled AI-suggested.",
+   "do_not_assign_when": "Do not assign when content warnings have not been assessed.",
+   "examples": [],
+   "values": {
+    "Middle School": "Little mature content.",
+    "High School": "Suitable for general high school use.",
+    "Upper High School (mature content)": "Contains mature content; reviewer discretion.",
+    "Not assessed": "No suggestion made."
+   }
+  },
+  "rights_status": {
+   "label": "Rights status",
+   "multi": false,
+   "definition": "What is known about permission to host this cutting.",
+   "assign_when": "Only a reviewer sets Permission on file or Public domain (per source), and records the basis in rights_note.",
+   "do_not_assign_when": "Never set automatically.",
+   "examples": [],
+   "values": {
+    "Not assessed": "Nobody has checked.",
+    "Permission on file": "A reviewer holds written permission.",
+    "Public domain (per source)": "The source states it is public domain.",
+    "Removal requested": "A takedown request is pending; the record is hidden.",
+    "Removed": "Taken down after a request."
+   }
+  },
+  "duplicate_status": {
+   "label": "Duplicate status",
+   "multi": false,
+   "definition": "Relationship to other records.",
+   "assign_when": "Exact: identical spoken words. Near: same piece with small differences.",
+   "do_not_assign_when": "Other cuttings of the same source work are not duplicates.",
+   "examples": [],
+   "values": {
+    "Unique": "No duplicate found.",
+    "Exact Duplicate": "Same words as another record.",
+    "Near Duplicate": "Very similar to another record.",
+    "Related Version": "Another cut of the same piece."
+   }
+  },
+  "timing_status": {
+   "label": "Estimated timing against a league limit",
+   "multi": false,
+   "definition": "Where the estimate falls against a stated limit and grace period. Describes the estimate only.",
+   "assign_when": "Computed from the estimate and league_limits.json.",
+   "do_not_assign_when": "Never implies legality or eligibility.",
+   "examples": [],
+   "values": {
+    "Within limit": "Estimate is at or under the limit.",
+    "Within grace period": "Estimate is over the limit but within the stated grace.",
+    "Over limit": "Estimate is over the limit plus grace.",
+    "Uncertain (range crosses a threshold)": "The fast-to-slow range straddles a limit.",
+    "No limit set": "No limit has been entered for this league and event."
+   }
+  },
+  "source_citation": {
+   "label": "Source citation in the file",
+   "multi": false,
+   "definition": "How completely the file cites its published source.",
+   "assign_when": "Complete: a publisher and an ISBN or date are given. Partial: some are given. Not stated: neither.",
+   "do_not_assign_when": "Does not say the source is eligible for any league.",
+   "examples": [],
+   "values": {
+    "Complete": "Publisher and ISBN or date stated.",
+    "Partial": "Some citation details stated.",
+    "Not stated": "No citation details stated."
+   }
+  },
+  "yes_no": {
+   "label": "Yes or no",
+   "multi": false,
+   "definition": "A plain yes/no flag.",
+   "assign_when": "Computed.",
+   "do_not_assign_when": "",
+   "examples": [],
+   "values": {
+    "Yes": "Yes.",
+    "No": "No."
+   }
+  },
+  "review_status": {
+   "label": "Data-quality status",
+   "multi": false,
+   "definition": "Computed on every build.",
+   "assign_when": "Computed.",
+   "do_not_assign_when": "Not edited by hand.",
+   "examples": [],
+   "values": {
+    "Verified": "A person has checked the record.",
+    "High Confidence": "No open issues.",
+    "Needs Review": "Unclassified or flagged.",
+    "Missing Metadata": "Title, author or work is not specified.",
+    "Possible Duplicate": "Matches another record."
+   }
+  },
+  "metadata_confidence": {
+   "label": "Metadata confidence",
+   "multi": false,
+   "definition": "Average confidence of AI-assigned fields (computed).",
+   "assign_when": "Computed.",
+   "do_not_assign_when": "",
+   "examples": [],
+   "values": {
+    "High": "",
+    "Medium": "",
+    "Low": ""
+   }
+  },
+  "intro_boundary": {
+   "label": "Introduction boundary",
+   "multi": false,
+   "definition": "How the split between introduction and performance text was found.",
+   "assign_when": "Computed by the parser.",
+   "do_not_assign_when": "",
+   "examples": [],
+   "values": {
+    "High": "Font change and a 'Title by Author' line agree.",
+    "Medium": "Font change only, hand-checked or flagged for checking.",
+    "Not applicable": "The file has no introduction."
+   }
+  }
+ },
+ "free_text_fields": {
+  "themes": "Short noun phrases for what the cutting is about. Only themes the text supports.",
+  "subject_matter": "One sentence describing what happens in the cutting.",
+  "setting": "Place and situation; mark inferred settings as '(implied)'."
+ },
+ "speaking_rate_note": "See data/pace.json. Pace is a placeholder estimate until the director tunes it."
+}

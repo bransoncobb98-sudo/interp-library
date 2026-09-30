@@ -1,0 +1,126 @@
+{
+ "version": "1.0",
+ "note": "Limits as found on the dates of the lookup. grace_seconds null means not stated / Not set. These describe time only and never say a piece is legal.",
+ "limits": [
+  {
+   "league": "TFA",
+   "event": "Dramatic Interpretation",
+   "max_seconds": 600,
+   "grace_seconds": 30,
+   "includes_introduction": true,
+   "confidence": "medium",
+   "source_url": "https://www.tabroom.com/index/tourn/index.mhtml?webpage_id=20371&tourn_id=22938",
+   "source_note": "TFA brief event descriptions as posted on a tournament page; the TFA Constitution is the authority. Verify."
+  },
+  {
+   "league": "TFA",
+   "event": "Humorous Interpretation",
+   "max_seconds": 600,
+   "grace_seconds": 30,
+   "includes_introduction": true,
+   "confidence": "medium",
+   "source_url": "https://www.tabroom.com/index/tourn/index.mhtml?webpage_id=20371&tourn_id=22938",
+   "source_note": "TFA brief event descriptions as posted on a tournament page; the TFA Constitution is the authority. Verify."
+  },
+  {
+   "league": "TFA",
+   "event": "Duo Interpretation",
+   "max_seconds": 600,
+   "grace_seconds": 30,
+   "includes_introduction": true,
+   "confidence": "medium",
+   "source_url": "https://www.tabroom.com/index/tourn/index.mhtml?webpage_id=20371&tourn_id=22938",
+   "source_note": "TFA brief event descriptions as posted on a tournament page; the TFA Constitution is the authority. Verify."
+  },
+  {
+   "league": "NSDA",
+   "event": "Dramatic Interpretation",
+   "max_seconds": 600,
+   "grace_seconds": 30,
+   "includes_introduction": true,
+   "confidence": "medium-high",
+   "source_url": "https://s3.amazonaws.com/tabroom-files/tourns/29985/postings/53412/MainSpeechEventRules.pdf",
+   "source_note": "NSDA main speech event rules (2023-24 copy). Multiple judges must agree that the grace period was exceeded. Verify against the current NSDA manual."
+  },
+  {
+   "league": "NSDA",
+   "event": "Humorous Interpretation",
+   "max_seconds": 600,
+   "grace_seconds": 30,
+   "includes_introduction": true,
+   "confidence": "medium-high",
+   "source_url": "https://s3.amazonaws.com/tabroom-files/tourns/29985/postings/53412/MainSpeechEventRules.pdf",
+   "source_note": "NSDA main speech event rules (2023-24 copy). Multiple judges must agree that the grace period was exceeded. Verify against the current NSDA manual."
+  },
+  {
+   "league": "NSDA",
+   "event": "Duo Interpretation",
+   "max_seconds": 600,
+   "grace_seconds": 30,
+   "includes_introduction": true,
+   "confidence": "medium-high",
+   "source_url": "https://s3.amazonaws.com/tabroom-files/tourns/29985/postings/53412/MainSpeechEventRules.pdf",
+   "source_note": "NSDA main speech event rules (2023-24 copy). Multiple judges must agree that the grace period was exceeded. Verify against the current NSDA manual."
+  },
+  {
+   "league": "NSDA",
+   "event": "Program Oral Interpretation",
+   "max_seconds": 600,
+   "grace_seconds": 30,
+   "includes_introduction": true,
+   "confidence": "medium-high",
+   "source_url": "https://s3.amazonaws.com/tabroom-files/tourns/29985/postings/53412/MainSpeechEventRules.pdf",
+   "source_note": "NSDA main speech event rules (2023-24 copy). Multiple judges must agree that the grace period was exceeded. Verify against the current NSDA manual."
+  },
+  {
+   "league": "NSDA",
+   "event": "Storytelling",
+   "max_seconds": 300,
+   "grace_seconds": null,
+   "includes_introduction": null,
+   "confidence": "low-medium",
+   "source_url": "https://www.tabroom.com/index/tourn/index.mhtml?webpage_id=25584&tourn_id=28654",
+   "source_note": "A tournament page describing the event; grace period not stated."
+  },
+  {
+   "league": "UIL",
+   "event": "Prose",
+   "max_seconds": 420,
+   "grace_seconds": null,
+   "includes_introduction": true,
+   "confidence": "medium-high",
+   "source_url": "https://www.uiltexas.org/files/academics/Poetry_and_Prose_Interpretation.pdf",
+   "source_note": "UIL contest manual: over seven minutes is disqualified. A 2011 Leaguer answer says no grace seconds and that the limit includes introduction and transitions. Verify."
+  },
+  {
+   "league": "TFA",
+   "event": "Prose",
+   "max_seconds": 420,
+   "grace_seconds": null,
+   "includes_introduction": null,
+   "confidence": "low-medium",
+   "source_url": "https://www.tabroom.com/index/tourn/index.mhtml?webpage_id=26088&tourn_id=28529",
+   "source_note": "Tournament summary only; grace period not stated."
+  },
+  {
+   "league": "UIL",
+   "event": "Poetry",
+   "max_seconds": 420,
+   "grace_seconds": null,
+   "includes_introduction": true,
+   "confidence": "medium-high",
+   "source_url": "https://www.uiltexas.org/files/academics/Poetry_and_Prose_Interpretation.pdf",
+   "source_note": "UIL contest manual: over seven minutes is disqualified. A 2011 Leaguer answer says no grace seconds and that the limit includes introduction and transitions. Verify."
+  },
+  {
+   "league": "TFA",
+   "event": "Poetry",
+   "max_seconds": 420,
+   "grace_seconds": null,
+   "includes_introduction": null,
+   "confidence": "low-medium",
+   "source_url": "https://www.tabroom.com/index/tourn/index.mhtml?webpage_id=26088&tourn_id=28529",
+   "source_note": "Tournament summary only; grace period not stated."
+  }
+ ]
+}

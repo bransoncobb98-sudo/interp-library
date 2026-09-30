@@ -1,0 +1,149 @@
+[
+ {
+  "source_file": "26 Pebbles - DI.pdf",
+  "kind": "artifact",
+  "contains": "'l'",
+  "reason": "Present in the source PDF's own text; kept as printed. ('people l that')",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "After the Death of Anna Gonzales - DI.pdf",
+  "kind": "artifact",
+  "contains": "'Y'",
+  "reason": "Present in the source PDF's own text; kept as printed.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Beyond Magenta - DI.pdf",
+  "kind": "artifact",
+  "contains": "'V'",
+  "reason": "Present in the source PDF's own text; kept as printed. ('Matthew V' in the loudspeaker line)",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Book Thief - DI.pdf",
+  "kind": "artifact",
+  "contains": "'U'",
+  "reason": "Present in the source PDF's own text; kept as printed. ('U Krakovianki')",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Every Brilliant Thing - DI.pdf",
+  "kind": "artifact",
+  "contains": "'h'",
+  "reason": "Present in the source PDF's own text; kept as printed. ('h ad three hundred')",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Ill Tell You at Sunrise - DI.pdf",
+  "kind": "artifact",
+  "contains": "'l'",
+  "reason": "Present in the source PDF's own text; kept as printed. ('If l could')",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Nefert-iti - DI.pdf",
+  "kind": "artifact",
+  "contains": "'l'",
+  "reason": "Present in the source PDF's own text; kept as printed.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Zooman and the Sign - DI.pdf",
+  "kind": "artifact",
+  "contains": "'l'",
+  "reason": "Present in the source PDF's own text; kept as printed. ('if l eva saw')",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "After I Was Thrown in the River - DI.pdf",
+  "kind": "artifact",
+  "contains": "'t- fast'",
+  "reason": "Present in the source PDF's own text; kept as printed. (a stutter: \"fast- fast\")",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Aunt Leaf - DI.pdf",
+  "kind": "artifact",
+  "contains": "'t- and'",
+  "reason": "Present in the source PDF's own text; kept as printed. (a dash used as a pause)",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Fear (from Seven Signs of Life) - DI.pdf",
+  "kind": "artifact",
+  "contains": "'d- everything'",
+  "reason": "Present in the source PDF's own text; kept as printed. (a dash used as a pause)",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Sharpies - DI.pdf",
+  "kind": "artifact",
+  "contains": "'f- centered'",
+  "reason": "Present in the source PDF's own text; kept as printed. ('self- centered' is typed with a space)",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "My Children My Africa - DI.pdf",
+  "kind": "truncated",
+  "contains": "near him up there",
+  "reason": "Present in the source PDF's own text; kept as printed. The cutting's last word has no punctuation in the PDF.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Zooman and the Sign - DI.pdf",
+  "kind": "truncated",
+  "contains": "ZOOMAN",
+  "reason": "Present in the source PDF's own text; kept as printed. The last line is sign text in capitals with no full stop.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Act of Devotion - DI.pdf",
+  "kind": "balance",
+  "contains": "'['",
+  "reason": "Present in the source PDF's own text; kept as printed. The source closes a bracket with '}'.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Act of Devotion - DI.pdf",
+  "kind": "length",
+  "contains": "2795",
+  "reason": "Present in the source PDF's own text; kept as printed. Long cutting; flagged as information only.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Book Thief - DI.pdf",
+  "kind": "balance",
+  "contains": "'['",
+  "reason": "Present in the source PDF's own text; kept as printed. ('[and[' typed in the source).",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "26 Pebbles - DI.pdf",
+  "kind": "balance",
+  "contains": "performance_text has 29",
+  "reason": "Present in the source PDF's own text; kept as printed.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Therac 25 - DI.pdf",
+  "kind": "balance",
+  "contains": "performance_text has 33",
+  "reason": "Present in the source PDF's own text; kept as printed.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Widows and Children First - DI.pdf",
+  "kind": "balance",
+  "contains": "introduction_text has 0",
+  "reason": "Present in the source PDF's own text; kept as printed. The ')' characters are list markers '1)' and '2)'.",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Nefert-iti - DI.pdf",
+  "kind": "artifact",
+  "contains": "'m-\\nyou'",
+  "reason": "Present in the source PDF's own text; kept as printed. (a verse line ending \"who I am-\" before \"you know who I am-\")",
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ }
+]

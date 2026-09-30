@@ -1,0 +1,12 @@
+{
+ "version": "1.0",
+ "note": "PLACEHOLDER. 150 wpm is the assistant's estimate, not a sourced figure. Tune per event after comparing estimates with real run times.",
+ "default": {
+  "words_per_minute": 150,
+  "range_words_per_minute": [
+   135,
+   165
+  ]
+ },
+ "per_event": {}
+}

@@ -1,0 +1,11 @@
+{
+ "enabled": true,
+ "max_text_chars": 20000,
+ "min_words": 15,
+ "max_pdf_mb": 5,
+ "max_pdf_pages": 20,
+ "max_submissions_per_hour": 5,
+ "notice": "Submissions are added straight away and have not been reviewed.",
+ "takedown_contact": "Not set",
+ "takedown_notice": "To request removal of a cutting, use the Request removal button on the record. The record is hidden immediately."
+}

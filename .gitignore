@@ -1,0 +1,8 @@
+backups/
+exports/
+__pycache__/
+*.pyc
+.env
+data/portal_auth.json
+data/.db.lock
+data/*.tmp

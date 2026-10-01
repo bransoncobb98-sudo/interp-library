@@ -1,0 +1,6 @@
+{
+ "note": "Files deliberately left out of the library. Matched against the file name (not the path). They stay in incoming/ and are reported as excluded, never ingested.",
+ "rules": [
+  {"pattern": "^SpeechGeek[ -](Presents|Season)", "reason": "Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included."}
+ ]
+}

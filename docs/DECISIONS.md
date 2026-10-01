@@ -19,3 +19,7 @@
   5. Mushroom Cloud Press prose: PDFs only (Word and Pages copies ignored).
   6. "Needs to be classified" zip: event stored as "Not specified".
   7. OCR is allowed for image-only PDFs, run in the Codespace; OCR text is flagged for proofreading.
+- The 8 SpeechGeek collections inside the event folders (Female-Female Duo Vol 1 to 5, HIlarious Vol 1 to 3) and the
+  collection copies in the zip are left out too (rule in data/excluded_files.json).
+- The single pieces cut from SpeechGeek collections in the zip are included; their editor's letter stays out of the
+  performance text (a parser for that layout is still to be written).

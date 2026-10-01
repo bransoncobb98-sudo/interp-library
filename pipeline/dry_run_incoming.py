@@ -18,6 +18,7 @@ import json
 import multiprocessing
 import os
 import random
+import re
 import sys
 import traceback
 from pathlib import Path
@@ -28,6 +29,7 @@ import ilib as I          # noqa: E402
 OUT = I.ROOT / "reports" / "dry_run"
 CACHE = OUT / "cache"
 MAP = I.load_json(I.DATA / "incoming_map.json", {}).get("folders", {})
+EXCLUDE = [(re.compile(x["pattern"]), x["reason"]) for x in (I.load_json(I.DATA / "excluded_files.json", {}) or {}).get("rules", [])]
 VERSION = "1"                                        # bump to invalidate cached results after a parser change
 
 
@@ -103,6 +105,10 @@ def main():
     for f in files:
         sha = I.sha1_file(I.ROOT / f)
         info = folder_info(os.path.dirname(f).replace(os.sep, "/"))
+        why = next((reason for rx, reason in EXCLUDE if rx.search(os.path.basename(f))), None)
+        if why:
+            rows.append({"path": f, "sha1": sha, "status": "excluded by decision: " + why, **info})
+            continue
         if sha in lib_sha and not a.include_library:
             rows.append({"path": f, "sha1": sha, "status": "in library (same bytes) as " + str(lib_sha[sha]), **info})
         elif sha in first_of:
@@ -133,6 +139,8 @@ def main():
 
 
 def kind(status):
+    if status.startswith("excluded"):
+        return "excluded by decision"
     if status.startswith("refused:"):
         return status
     return status.split(" as ")[0].split(" of ")[0].split(":")[0] if not status.startswith("parsed;") else "parsed, duplicate text"

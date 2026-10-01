@@ -25,6 +25,7 @@ import ilib as I          # noqa: E402
 import layouts as L       # noqa: E402
 import repairs as RP      # noqa: E402
 
+EXCLUDED = (I.load_json(I.DATA / "excluded_files.json", {}) or {}).get("rules", [])
 AWARD_LINE = re.compile(r"^(19|20)\d\d\s+(National|State|District|Regional|NIETOC|NCFL|TOC)\b", re.I)
 
 
@@ -196,6 +197,10 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
         name = os.path.basename(p)
         if name.startswith("._"):
             continue                                     # macOS metadata file, not a PDF
+        why = next((x["reason"] for x in EXCLUDED if re.search(x["pattern"], name)), None)
+        if why:
+            out("  EXCLUDED: %s - %s" % (name, why))
+            continue
         sha = I.sha1_file(p)
         if name in name_to_sha:
             if name_to_sha[name] == sha:

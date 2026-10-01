@@ -70,16 +70,6 @@
    "character_count": 25,
    "word_count": 1521,
    "intro_word_count": 92,
-   "estimated_seconds_body": 608,
-   "estimated_seconds_with_intro": 645,
-   "estimated_range_with_intro": [
-    587,
-    717
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -159,18 +149,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -223,16 +201,6 @@
    "character_count": 3,
    "word_count": 1952,
    "intro_word_count": 152,
-   "estimated_seconds_body": 781,
-   "estimated_seconds_with_intro": 842,
-   "estimated_range_with_intro": [
-    765,
-    935
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -319,18 +287,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -379,16 +335,6 @@
    "character_count": null,
    "word_count": 1984,
    "intro_word_count": 67,
-   "estimated_seconds_body": 794,
-   "estimated_seconds_with_intro": 820,
-   "estimated_range_with_intro": [
-    746,
-    912
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -471,18 +417,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -534,16 +468,6 @@
    "character_count": 2,
    "word_count": 2795,
    "intro_word_count": 123,
-   "estimated_seconds_body": 1118,
-   "estimated_seconds_with_intro": 1167,
-   "estimated_range_with_intro": [
-    1061,
-    1297
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -626,18 +550,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -688,16 +600,6 @@
    "character_count": 1,
    "word_count": 1672,
    "intro_word_count": 55,
-   "estimated_seconds_body": 669,
-   "estimated_seconds_with_intro": 691,
-   "estimated_range_with_intro": [
-    628,
-    768
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -780,18 +682,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -847,16 +737,6 @@
    "character_count": 4,
    "word_count": 2014,
    "intro_word_count": 110,
-   "estimated_seconds_body": 806,
-   "estimated_seconds_with_intro": 850,
-   "estimated_range_with_intro": [
-    772,
-    944
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -939,18 +819,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -999,16 +867,6 @@
    "character_count": null,
    "word_count": 1032,
    "intro_word_count": 120,
-   "estimated_seconds_body": 413,
-   "estimated_seconds_with_intro": 461,
-   "estimated_range_with_intro": [
-    419,
-    512
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -1091,18 +949,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -1158,16 +1004,6 @@
    "character_count": 6,
    "word_count": 956,
    "intro_word_count": 166,
-   "estimated_seconds_body": 382,
-   "estimated_seconds_with_intro": 449,
-   "estimated_range_with_intro": [
-    408,
-    499
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -1250,18 +1086,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -1320,16 +1144,6 @@
    "character_count": 9,
    "word_count": 1721,
    "intro_word_count": 162,
-   "estimated_seconds_body": 688,
-   "estimated_seconds_with_intro": 753,
-   "estimated_range_with_intro": [
-    685,
-    837
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -1409,18 +1223,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -1483,16 +1285,6 @@
    "character_count": 13,
    "word_count": 1151,
    "intro_word_count": 149,
-   "estimated_seconds_body": 460,
-   "estimated_seconds_with_intro": 520,
-   "estimated_range_with_intro": [
-    473,
-    578
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -1572,18 +1364,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -1635,16 +1415,6 @@
    "character_count": 2,
    "word_count": 1204,
    "intro_word_count": 129,
-   "estimated_seconds_body": 482,
-   "estimated_seconds_with_intro": 533,
-   "estimated_range_with_intro": [
-    485,
-    592
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -1728,18 +1498,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -1794,16 +1552,6 @@
    "character_count": 5,
    "word_count": 2127,
    "intro_word_count": 214,
-   "estimated_seconds_body": 851,
-   "estimated_seconds_with_intro": 936,
-   "estimated_range_with_intro": [
-    851,
-    1040
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -1883,18 +1631,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -1954,16 +1690,6 @@
    "character_count": 10,
    "word_count": 1277,
    "intro_word_count": 104,
-   "estimated_seconds_body": 511,
-   "estimated_seconds_with_intro": 552,
-   "estimated_range_with_intro": [
-    502,
-    614
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -2043,18 +1769,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -2103,16 +1817,6 @@
    "character_count": null,
    "word_count": 1352,
    "intro_word_count": 0,
-   "estimated_seconds_body": 541,
-   "estimated_seconds_with_intro": 541,
-   "estimated_range_with_intro": [
-    492,
-    601
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -2199,18 +1903,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -2264,16 +1956,6 @@
    "character_count": 4,
    "word_count": 2103,
    "intro_word_count": 7,
-   "estimated_seconds_body": 841,
-   "estimated_seconds_with_intro": 844,
-   "estimated_range_with_intro": [
-    767,
-    938
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -2356,18 +2038,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -2416,16 +2086,6 @@
    "character_count": null,
    "word_count": 1297,
    "intro_word_count": 92,
-   "estimated_seconds_body": 519,
-   "estimated_seconds_with_intro": 556,
-   "estimated_range_with_intro": [
-    505,
-    617
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -2508,18 +2168,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -2572,16 +2220,6 @@
    "character_count": 3,
    "word_count": 1151,
    "intro_word_count": 81,
-   "estimated_seconds_body": 460,
-   "estimated_seconds_with_intro": 493,
-   "estimated_range_with_intro": [
-    448,
-    548
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -2664,18 +2302,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -2727,16 +2353,6 @@
    "character_count": 2,
    "word_count": 1620,
    "intro_word_count": 9,
-   "estimated_seconds_body": 648,
-   "estimated_seconds_with_intro": 652,
-   "estimated_range_with_intro": [
-    592,
-    724
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -2816,18 +2432,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -2878,16 +2482,6 @@
    "character_count": 1,
    "word_count": 2368,
    "intro_word_count": 101,
-   "estimated_seconds_body": 947,
-   "estimated_seconds_with_intro": 988,
-   "estimated_range_with_intro": [
-    898,
-    1097
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -2970,18 +2564,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -3034,16 +2616,6 @@
    "character_count": 1,
    "word_count": 2178,
    "intro_word_count": 106,
-   "estimated_seconds_body": 871,
-   "estimated_seconds_with_intro": 914,
-   "estimated_range_with_intro": [
-    831,
-    1015
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -3126,18 +2698,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -3186,16 +2746,6 @@
    "character_count": null,
    "word_count": 810,
    "intro_word_count": 103,
-   "estimated_seconds_body": 324,
-   "estimated_seconds_with_intro": 365,
-   "estimated_range_with_intro": [
-    332,
-    406
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -3278,18 +2828,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -3345,16 +2883,6 @@
    "character_count": 4,
    "word_count": 1266,
    "intro_word_count": 118,
-   "estimated_seconds_body": 506,
-   "estimated_seconds_with_intro": 554,
-   "estimated_range_with_intro": [
-    503,
-    615
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -3438,18 +2966,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -3498,16 +3014,6 @@
    "character_count": null,
    "word_count": 1901,
    "intro_word_count": 77,
-   "estimated_seconds_body": 760,
-   "estimated_seconds_with_intro": 791,
-   "estimated_range_with_intro": [
-    719,
-    879
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -3590,18 +3096,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -3653,16 +3147,6 @@
    "character_count": 2,
    "word_count": 2047,
    "intro_word_count": 157,
-   "estimated_seconds_body": 819,
-   "estimated_seconds_with_intro": 882,
-   "estimated_range_with_intro": [
-    801,
-    980
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -3745,18 +3229,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -3807,16 +3279,6 @@
    "character_count": 1,
    "word_count": 1038,
    "intro_word_count": 34,
-   "estimated_seconds_body": 415,
-   "estimated_seconds_with_intro": 429,
-   "estimated_range_with_intro": [
-    390,
-    476
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -3899,18 +3361,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -3959,16 +3409,6 @@
    "character_count": null,
    "word_count": 1453,
    "intro_word_count": 86,
-   "estimated_seconds_body": 581,
-   "estimated_seconds_with_intro": 616,
-   "estimated_range_with_intro": [
-    560,
-    684
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -4051,18 +3491,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -4114,16 +3542,6 @@
    "character_count": 2,
    "word_count": 1474,
    "intro_word_count": 142,
-   "estimated_seconds_body": 590,
-   "estimated_seconds_with_intro": 646,
-   "estimated_range_with_intro": [
-    588,
-    718
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -4210,18 +3628,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -4274,16 +3680,6 @@
    "character_count": 3,
    "word_count": 1666,
    "intro_word_count": 137,
-   "estimated_seconds_body": 666,
-   "estimated_seconds_with_intro": 721,
-   "estimated_range_with_intro": [
-    656,
-    801
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -4363,18 +3759,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -4426,16 +3810,6 @@
    "character_count": 2,
    "word_count": 1031,
    "intro_word_count": 161,
-   "estimated_seconds_body": 412,
-   "estimated_seconds_with_intro": 477,
-   "estimated_range_with_intro": [
-    433,
-    530
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -4515,18 +3889,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -4579,16 +3941,6 @@
    "character_count": 1,
    "word_count": 1420,
    "intro_word_count": 140,
-   "estimated_seconds_body": 568,
-   "estimated_seconds_with_intro": 624,
-   "estimated_range_with_intro": [
-    567,
-    693
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -4671,18 +4023,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -4734,16 +4074,6 @@
    "character_count": 2,
    "word_count": 1423,
    "intro_word_count": 118,
-   "estimated_seconds_body": 569,
-   "estimated_seconds_with_intro": 616,
-   "estimated_range_with_intro": [
-    560,
-    685
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -4829,18 +4159,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -4893,16 +4211,6 @@
    "character_count": 3,
    "word_count": 1164,
    "intro_word_count": 114,
-   "estimated_seconds_body": 466,
-   "estimated_seconds_with_intro": 511,
-   "estimated_range_with_intro": [
-    465,
-    568
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -4986,18 +4294,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -5048,16 +4344,6 @@
    "character_count": 1,
    "word_count": 1069,
    "intro_word_count": 149,
-   "estimated_seconds_body": 428,
-   "estimated_seconds_with_intro": 487,
-   "estimated_range_with_intro": [
-    443,
-    541
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -5137,18 +4423,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -5202,16 +4476,6 @@
    "character_count": 4,
    "word_count": 1024,
    "intro_word_count": 111,
-   "estimated_seconds_body": 410,
-   "estimated_seconds_with_intro": 454,
-   "estimated_range_with_intro": [
-    413,
-    504
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -5295,18 +4559,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -5358,16 +4610,6 @@
    "character_count": 2,
    "word_count": 1925,
    "intro_word_count": 139,
-   "estimated_seconds_body": 770,
-   "estimated_seconds_with_intro": 826,
-   "estimated_range_with_intro": [
-    751,
-    917
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -5447,18 +4689,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -5509,16 +4739,6 @@
    "character_count": null,
    "word_count": 2349,
    "intro_word_count": 174,
-   "estimated_seconds_body": 940,
-   "estimated_seconds_with_intro": 1009,
-   "estimated_range_with_intro": [
-    917,
-    1121
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -5604,18 +4824,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -5664,16 +4872,6 @@
    "character_count": null,
    "word_count": 1100,
    "intro_word_count": 116,
-   "estimated_seconds_body": 440,
-   "estimated_seconds_with_intro": 486,
-   "estimated_range_with_intro": [
-    442,
-    540
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -5759,18 +4957,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -5822,16 +5008,6 @@
    "character_count": 2,
    "word_count": 1331,
    "intro_word_count": 129,
-   "estimated_seconds_body": 532,
-   "estimated_seconds_with_intro": 584,
-   "estimated_range_with_intro": [
-    531,
-    649
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -5911,18 +5087,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -5975,16 +5139,6 @@
    "character_count": 3,
    "word_count": 1403,
    "intro_word_count": 142,
-   "estimated_seconds_body": 561,
-   "estimated_seconds_with_intro": 618,
-   "estimated_range_with_intro": [
-    562,
-    687
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -6067,18 +5221,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -6133,16 +5275,6 @@
    "character_count": 2,
    "word_count": 1606,
    "intro_word_count": 77,
-   "estimated_seconds_body": 642,
-   "estimated_seconds_with_intro": 673,
-   "estimated_range_with_intro": [
-    612,
-    748
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -6222,18 +5354,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -6282,16 +5402,6 @@
    "character_count": null,
    "word_count": 2223,
    "intro_word_count": 84,
-   "estimated_seconds_body": 889,
-   "estimated_seconds_with_intro": 923,
-   "estimated_range_with_intro": [
-    839,
-    1025
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -6374,18 +5484,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -6434,16 +5532,6 @@
    "character_count": null,
    "word_count": 1518,
    "intro_word_count": 146,
-   "estimated_seconds_body": 607,
-   "estimated_seconds_with_intro": 666,
-   "estimated_range_with_intro": [
-    605,
-    740
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -6523,18 +5611,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -6583,16 +5659,6 @@
    "character_count": null,
    "word_count": 1187,
    "intro_word_count": 29,
-   "estimated_seconds_body": 475,
-   "estimated_seconds_with_intro": 486,
-   "estimated_range_with_intro": [
-    442,
-    540
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Within limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Within limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -6675,18 +5741,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -6738,16 +5792,6 @@
    "character_count": 2,
    "word_count": 2034,
    "intro_word_count": 108,
-   "estimated_seconds_body": 814,
-   "estimated_seconds_with_intro": 857,
-   "estimated_range_with_intro": [
-    779,
-    952
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Over limit",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Over limit"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -6826,18 +5870,6 @@
     "character_count": {
      "origin": "computed"
     },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
-     "origin": "computed"
-    },
     "text_layout": {
      "origin": "computed"
     }
@@ -6874,11 +5906,11 @@
    "source_pages": 5,
    "source_layout": "di_cutting",
    "introduction_text": "Two distinct but intersecting worlds: One is the place where 15-year-old Zooman prowls the streets, mugging old ladies and cutting people who get in his way. The other is where the members of the Tate family, hard-working, decent people with blue collar jobs, try to make a life for themselves in a neighborhood overwhelmed by violence and distrust.\n\nWhen 12-year-old Jinny Tate is murdered the two worlds collide and the Bystander Syndrome, (that’s what it's called when a person witnesses a crime, emergency or an individual in need of help and does nothing) becomes shockingly real.\n\nZooman and the Sign by Charles Fuller",
-   "performance_text": "A young black man steps forward, looking at the audience contemptuously. He is wearing a mesh and plastic, green and white baseball cap tilted to the side. A red T-shirt, with the inscription \"ME\" on it, hangs outside a pair of slacks or dungarees designed with two large pockets, one on each side. He is wearing high top sneaks. There are several thin gold and silver chains around his neck.\n\nZOOMAN: (Pg 3) (Casually) I just killed somebody. Little girl, I think. Me and Stockholm turned the comer of this street? -- and there's Gustav from uptown, and this little b**** has to be sittin' on her front steps playin' jacks! But I had tol' Gustav if l eva saw [him] around the Avenue, I'd blow him away. (Shrugs) So I started shootin' and she jes' got hit by one of the strays, that's all. She ain't had no business bein' out there. That street is a war zone -- ain't nobody see her, we was runnin'! And in that neighborhood you supposed to stay indoors, anyway! (Pause) She was in the wrong place at the wrong time -- how am I supposed to feel guilty over somethin' like that?\n\nRACHEL: (Pg 4) I keep seeing her, Reuben -- feeling her all over the room. And I want to reach out and straighten her hair, touch her dress. And I know she's gone- (Pg 7-8) (She is quiet for a moment) This morning, she got up -- took her forever to get her clothes on. She messed around with her food. I told her I was going to call you if she kept it up. But I made her go outside, Reuben -- I made her!\n\nREUBEN: This is not your fault.\n\nRACHEL: She just got on my nerves so bad - I told her three times to clean up that mess she left in her room -- three times! (Quietly) You shoulda been here.\n\nREUBEN: I'm here now -- and I was here the weekend . . .\n\nRACHEL: (Interrupting) Are you going to stay this time or leave -- or what? Because I really can't take it, Reuben! It's too much to ask me to do by myself right now -- I can't deal with this! (Saddened again). I just feel so damn empty! I keep expecting her to come stomping down the stairs—or hear her music playing! How do you get used to an empty room? (Pause) Reuben? You remember the time she put on all my makeup? You shoulda seen her that day -- lipstick from one end of her face to the other -- powder in her hair -- cologne all over – (Shakes her head) She was so much a girl! (beat) (Pg 9) She's the baby, Reuben -- how could they take the baby? (She begins to cry) (The doorbell rings – Reuben opens the door).\n\nJACKSON: (Pg 13-14) Hello, I'm Donald Jackson -- I live down the street? My wife, she was in the back hangin' clothes when it happened. By the time she got to the front door, them boys was halfway up the block. She didn't see nothin'-and me, I was at work, -- but my wife said there was something y'all might want to know- Cop told her he went to every house on the block and not one person claim they saw anything.\n\nREUBEN: What? There's forty-fifty families around here!\n\nJACKSON: It seemed strange to my wife too, 'cause she said when she came outside, everybody in the block was on their porch. About half on your side, and most of them on my side.\n\nRACHEL: (Pg 15) (Shouting) They were all out there! I saw Mrs. Smith standing by her front door. Dottie Henson was hanging out her window! They all saw it. They were all outside when those boys ran through here! They watched her die! (Breaks down crying) I saw them! I saw them! I saw them! ***** Scene*****\n\nZOOMAN: (Pg 16) When you got nothin’ to do, come to the Zoo! (Quieter) First couple hours are the worse. The big, blue fools are probably sweeping the neighborhood by now, picking up everybody in sight. (Sudden mood swing) I got up this mornin' and felt like killing somebody! So what? Gustav is just lucky it ain't him! (beat) I got picked up twenty-one times las' year! Every time somebody black did somethin' and the cops didn't have a name? They busted me! All young n*****s look alike! I was in Juvenile \"D\" eighteen months. (Pause) (Pg 17) Tomorrow's my little sista's' birthday! Not my sista here -- a half sista in Birmingham -- she'll be ten. She's down there with my fatha's people. ***** Scene*****\n\nREUBEN: I'm tellin' you, Rachel, it was like they didn't know me! Mr. Davis, and Gibson down the street? They didn't even answer the door! I go down the street to Julius Williams' house, and he acts like he didn't know we had a daughter! Not one damn person on the block claims they saw anything! (Pg 18) What happens if the police catch the boys they think did it, and nobody comes forward to identify them? They go free? Me and Rachel been livin' here fifteen-sixteen years! Jinny was born on this block! And they all act like strangers -- what's wrong with them?\n\nRACHEL: (Pg 22) I don't want to live here anymore! You can't walk the streets -- And nobody gives a damn! I even had to call the police myself -- leave my baby because I didn't hear a siren! They stood on their porches with their mouths open! What if it had been Grace's little girl, Denise? Or Mr. Davis' granddaughter Phyllis? (On the verge of tears) (Pg 24) Reuben, I think I'm just gonna explode and die in a minute! And keep exploding -- and dying, and dying -- over, and over, and over. *****Scene – 3 days later after Jinny’s funeral*****\n\nREUBEN: (Pg 26) Losing Jinny was like waking up and discovering the sun had a hole in it. She had a way of smiling at you, made you feel somebody had given you a gift. I wanted to see her grown -- bring a boy around here for me to meet -- do something-be something! Twelve years old ain't nothin'! (Slight pause) So, I went downtown this morning, and had this sign made to hang over our porch. Get these folks off their asses. It sure can't hurt nobody. But maybe it'll make somebody come forward. (hangs the sign – he looks up)\n\nVOICE OVER: THE KlLLERS OF OUR DAUGHTER JINNY ARE FREE ON THE STREETS BECAUSE OUR NEIGHBORS WILL NOT JDENTJFY THEM! *****Scene – a day later*****\n\nGRACE: (Pg 31-32) (Doorbell rings, outside) Rachel. It's me honey, Grace! (Rachel opens the door) How you feelin', girl? I just dropped by to pay my respects. I think I woulda went out of my mind if it hada been Denise-I don't know how you can stand it. They'd-a had to carry me to the hospital! They'd-a had to strap me down! (Pause, then business-like) I am really sorry it happened, Rachel. (Pg 33) I want to ask you one thing. Why did you let Reuben hang that sign? He's got people around here climbing the walls! Don't none of them appreciate it -- they planning to hold a block meeting about it. (Pause) And the truth is, it makes the whole street look bad. Thing like that lumps the good with the bad -- and every time you tum around black folks are saying something terrible about each other! \"We can't get together -- our men ain't no good -- everywhere we live is a slum!\" And Reuben's sign makes this look like the worse place in the world! That's y'alls private business!\n\nRACHEL: Seems like a killing on the block would be everybody's business. . .\n\nGRACE: The Tates ain't no better than nobody else! I didn't see the Tates get excited when those hoodlums raped Lou Jefferson's little girl -- or robbed my place! Why should anybody go out of their way for them? I didn't hang up no sign!\n\nRACHEL: (Pg 35) Get the hell out of here, Grace - Get out! (Grace exits angrily; Reuben enters) (Pg 39-40) I’m sick of that sign! We're supposed to be in mourning -- We lost Jinny three days ago -- why are you doing this now?\n\nREUBEN: Rachel, that sign hasn't hurt anybody unless they feel guilty.\n\nRACHEL: It is making people hate us, Reuben! You're making this a sideshow!\n\nREUBEN: The sideshow was the day they ran through here, shot up the street, killed our daughter, and nobody on this block did anything about it! (Pg 47) That sign doesn't come down until someone comes forward. (Pg 49-50) It’s the principle of the thing. (Phone rings, Reuben answers) Hello? 'Who? Sergeant. Harrison? (Listens, then quietly hangs up; he turns to Rachel) They caught one of 'em -- he's fifteen. (Disturbed) There were two of 'em. They picked up some kid named Stockholm and he told on the other one -- boy they call Zooman.\n\nI never thought of them as that young. *****Scene*****\n\nZOOMAN: (Pg 40-41) It's no fun being on the run. But I happen to know, if a black kills a black, and they don't catch you right away, they liable to forget about it (Slight pause) I ain't really worried yet. But them signs? Ain't nobody ever pulled that before! Killings, rapes, drugs - goin' on every day and nobody says nothin'! (Pg 42) Who [does] he think he is? Sendin' people afta me, like I'm some animal! If he wants to blame somebody -- you don't leave no little girl sittin' on her steps by herself nowadays! He shoulda known better -- what kinda fatha is he? (Pause) (Pg 54) I'll be off your streets soon, don't worry -- I just got one more thing to do. (Zooman starts boldly toward the Tate house, hollering, a knife in his hand) Hey! This is Zooman out here! (He reaches up and begins to rip and tear at the sign) Don't nobody do this shit! You don't send people after me! You hear that? This is Zoo man you [messin’] with! Come on out! (Shots are fired through the window of the Tate residence. The shot hits Zooman and knocks him down) I'm Zooman. F*** you! (Zooman dies)\n\nRACHEL: (Pg 56) Oh, Reuben -- oh my God, Reuben.\n\nREUBEN: I know, baby. I know.\n\nVOICE OVER: (as Reuben hangs another sign on his porch) HERE, LESTER TOHNSON WAS KJLLED. HE WILL BE MJSSED BY FAMJLY AND FRJENDS. HE WAS KNOWN AS ZOOMAN",
+   "performance_text": "A young black man steps forward, looking at the audience contemptuously. He is wearing a mesh and plastic, green and white baseball cap tilted to the side. A red T-shirt, with the inscription \"ME\" on it, hangs outside a pair of slacks or dungarees designed with two large pockets, one on each side. He is wearing high top sneaks. There are several thin gold and silver chains around his neck.\n\nZOOMAN: (Pg 3) (Casually) I just killed somebody. Little girl, I think. Me and Stockholm turned the comer of this street? -- and there's Gustav from uptown, and this little b**** has to be sittin' on her front steps playin' jacks! But I had tol' Gustav if I eva saw [him] around the Avenue, I'd blow him away. (Shrugs) So I started shootin' and she jes' got hit by one of the strays, that's all. She ain't had no business bein' out there. That street is a war zone -- ain't nobody see her, we was runnin'! And in that neighborhood you supposed to stay indoors, anyway! (Pause) She was in the wrong place at the wrong time -- how am I supposed to feel guilty over somethin' like that?\n\nRACHEL: (Pg 4) I keep seeing her, Reuben -- feeling her all over the room. And I want to reach out and straighten her hair, touch her dress. And I know she's gone- (Pg 7-8) (She is quiet for a moment) This morning, she got up -- took her forever to get her clothes on. She messed around with her food. I told her I was going to call you if she kept it up. But I made her go outside, Reuben -- I made her!\n\nREUBEN: This is not your fault.\n\nRACHEL: She just got on my nerves so bad - I told her three times to clean up that mess she left in her room -- three times! (Quietly) You shoulda been here.\n\nREUBEN: I'm here now -- and I was here the weekend . . .\n\nRACHEL: (Interrupting) Are you going to stay this time or leave -- or what? Because I really can't take it, Reuben! It's too much to ask me to do by myself right now -- I can't deal with this! (Saddened again). I just feel so damn empty! I keep expecting her to come stomping down the stairs—or hear her music playing! How do you get used to an empty room? (Pause) Reuben? You remember the time she put on all my makeup? You shoulda seen her that day -- lipstick from one end of her face to the other -- powder in her hair -- cologne all over – (Shakes her head) She was so much a girl! (beat) (Pg 9) She's the baby, Reuben -- how could they take the baby? (She begins to cry) (The doorbell rings – Reuben opens the door).\n\nJACKSON: (Pg 13-14) Hello, I'm Donald Jackson -- I live down the street? My wife, she was in the back hangin' clothes when it happened. By the time she got to the front door, them boys was halfway up the block. She didn't see nothin'-and me, I was at work, -- but my wife said there was something y'all might want to know- Cop told her he went to every house on the block and not one person claim they saw anything.\n\nREUBEN: What? There's forty-fifty families around here!\n\nJACKSON: It seemed strange to my wife too, 'cause she said when she came outside, everybody in the block was on their porch. About half on your side, and most of them on my side.\n\nRACHEL: (Pg 15) (Shouting) They were all out there! I saw Mrs. Smith standing by her front door. Dottie Henson was hanging out her window! They all saw it. They were all outside when those boys ran through here! They watched her die! (Breaks down crying) I saw them! I saw them! I saw them! ***** Scene*****\n\nZOOMAN: (Pg 16) When you got nothin’ to do, come to the Zoo! (Quieter) First couple hours are the worse. The big, blue fools are probably sweeping the neighborhood by now, picking up everybody in sight. (Sudden mood swing) I got up this mornin' and felt like killing somebody! So what? Gustav is just lucky it ain't him! (beat) I got picked up twenty-one times las' year! Every time somebody black did somethin' and the cops didn't have a name? They busted me! All young n*****s look alike! I was in Juvenile \"D\" eighteen months. (Pause) (Pg 17) Tomorrow's my little sista's' birthday! Not my sista here -- a half sista in Birmingham -- she'll be ten. She's down there with my fatha's people. ***** Scene*****\n\nREUBEN: I'm tellin' you, Rachel, it was like they didn't know me! Mr. Davis, and Gibson down the street? They didn't even answer the door! I go down the street to Julius Williams' house, and he acts like he didn't know we had a daughter! Not one damn person on the block claims they saw anything! (Pg 18) What happens if the police catch the boys they think did it, and nobody comes forward to identify them? They go free? Me and Rachel been livin' here fifteen-sixteen years! Jinny was born on this block! And they all act like strangers -- what's wrong with them?\n\nRACHEL: (Pg 22) I don't want to live here anymore! You can't walk the streets -- And nobody gives a damn! I even had to call the police myself -- leave my baby because I didn't hear a siren! They stood on their porches with their mouths open! What if it had been Grace's little girl, Denise? Or Mr. Davis' granddaughter Phyllis? (On the verge of tears) (Pg 24) Reuben, I think I'm just gonna explode and die in a minute! And keep exploding -- and dying, and dying -- over, and over, and over. *****Scene – 3 days later after Jinny’s funeral*****\n\nREUBEN: (Pg 26) Losing Jinny was like waking up and discovering the sun had a hole in it. She had a way of smiling at you, made you feel somebody had given you a gift. I wanted to see her grown -- bring a boy around here for me to meet -- do something-be something! Twelve years old ain't nothin'! (Slight pause) So, I went downtown this morning, and had this sign made to hang over our porch. Get these folks off their asses. It sure can't hurt nobody. But maybe it'll make somebody come forward. (hangs the sign – he looks up)\n\nVOICE OVER: THE KILLERS OF OUR DAUGHTER JINNY ARE FREE ON THE STREETS BECAUSE OUR NEIGHBORS WILL NOT IDENTIFY THEM! *****Scene – a day later*****\n\nGRACE: (Pg 31-32) (Doorbell rings, outside) Rachel. It's me honey, Grace! (Rachel opens the door) How you feelin', girl? I just dropped by to pay my respects. I think I woulda went out of my mind if it hada been Denise-I don't know how you can stand it. They'd-a had to carry me to the hospital! They'd-a had to strap me down! (Pause, then business-like) I am really sorry it happened, Rachel. (Pg 33) I want to ask you one thing. Why did you let Reuben hang that sign? He's got people around here climbing the walls! Don't none of them appreciate it -- they planning to hold a block meeting about it. (Pause) And the truth is, it makes the whole street look bad. Thing like that lumps the good with the bad -- and every time you tum around black folks are saying something terrible about each other! \"We can't get together -- our men ain't no good -- everywhere we live is a slum!\" And Reuben's sign makes this look like the worse place in the world! That's y'alls private business!\n\nRACHEL: Seems like a killing on the block would be everybody's business. . .\n\nGRACE: The Tates ain't no better than nobody else! I didn't see the Tates get excited when those hoodlums raped Lou Jefferson's little girl -- or robbed my place! Why should anybody go out of their way for them? I didn't hang up no sign!\n\nRACHEL: (Pg 35) Get the hell out of here, Grace - Get out! (Grace exits angrily; Reuben enters) (Pg 39-40) I’m sick of that sign! We're supposed to be in mourning -- We lost Jinny three days ago -- why are you doing this now?\n\nREUBEN: Rachel, that sign hasn't hurt anybody unless they feel guilty.\n\nRACHEL: It is making people hate us, Reuben! You're making this a sideshow!\n\nREUBEN: The sideshow was the day they ran through here, shot up the street, killed our daughter, and nobody on this block did anything about it! (Pg 47) That sign doesn't come down until someone comes forward. (Pg 49-50) It’s the principle of the thing. (Phone rings, Reuben answers) Hello? 'Who? Sergeant. Harrison? (Listens, then quietly hangs up; he turns to Rachel) They caught one of 'em -- he's fifteen. (Disturbed) There were two of 'em. They picked up some kid named Stockholm and he told on the other one -- boy they call Zooman.\n\nI never thought of them as that young. *****Scene*****\n\nZOOMAN: (Pg 40-41) It's no fun being on the run. But I happen to know, if a black kills a black, and they don't catch you right away, they liable to forget about it (Slight pause) I ain't really worried yet. But them signs? Ain't nobody ever pulled that before! Killings, rapes, drugs - goin' on every day and nobody says nothin'! (Pg 42) Who [does] he think he is? Sendin' people afta me, like I'm some animal! If he wants to blame somebody -- you don't leave no little girl sittin' on her steps by herself nowadays! He shoulda known better -- what kinda fatha is he? (Pause) (Pg 54) I'll be off your streets soon, don't worry -- I just got one more thing to do. (Zooman starts boldly toward the Tate house, hollering, a knife in his hand) Hey! This is Zooman out here! (He reaches up and begins to rip and tear at the sign) Don't nobody do this shit! You don't send people after me! You hear that? This is Zoo man you [messin’] with! Come on out! (Shots are fired through the window of the Tate residence. The shot hits Zooman and knocks him down) I'm Zooman. F*** you! (Zooman dies)\n\nRACHEL: (Pg 56) Oh, Reuben -- oh my God, Reuben.\n\nREUBEN: I know, baby. I know.\n\nVOICE OVER: (as Reuben hangs another sign on his porch) HERE, LESTER TOHNSON WAS KILLED. HE WILL BE MISSED BY FAMILY AND FRIENDS. HE WAS KNOWN AS ZOOMAN",
    "text_raw": "A young black man steps forward, looking at the audience contemptuously. He is wearing a mesh\nand plastic, green and white baseball cap tilted to the side. A red T-shirt, with the inscription\n\"ME\" on it, hangs outside a pair of slacks or dungarees designed with two large pockets, one on\neach side. He is wearing high top sneaks. There are several thin gold and silver chains around\nhis neck.\nZOOMAN: (Pg 3) (Casually) I just killed somebody. Little girl, I think. Me and Stockholm turned\nthe comer of this street? -- and there's Gustav from uptown, and this little b**** has to be\nsittin' on her front steps playin' jacks! But I had tol' Gustav if l eva saw [him] around the\nAvenue, I'd blow him away. (Shrugs) So I started shootin' and she jes' got hit by one of the\nstrays, that's all. She ain't had no business bein' out there. That street is a war zone -- ain't\nnobody see her, we was runnin'! And in that neighborhood you supposed to stay indoors,\nanyway! (Pause) She was in the wrong place at the wrong time -- how am I supposed to feel\nguilty over somethin' like that?\nRACHEL: (Pg 4) I keep seeing her, Reuben -- feeling her all over the room. And I want to reach\nout and straighten her hair, touch her dress. And I know she's gone- (Pg 7-8) (She is quiet\nfor a moment) This morning, she got up -- took her forever to get her clothes on. She\nmessed around with her food. I told her I was going to call you if she kept it up. But I made\nher go outside, Reuben -- I made her!\nREUBEN: This is not your fault.\nRACHEL: She just got on my nerves so bad - I told her three times to clean up that mess she left\nin her room -- three times! (Quietly) You shoulda been here.\nREUBEN: I'm here now -- and I was here the weekend . . .\nRACHEL: (Interrupting) Are you going to stay this time or leave -- or what? Because I really can't\ntake it, Reuben! It's too much to ask me to do by myself right now -- I can't deal with this!\n(Saddened again). I just feel so damn empty! I keep expecting her to come stomping down\nthe stairs—or hear her music playing! How do you get used to an empty room? (Pause)\nReuben? You remember the time she put on all my makeup? You shoulda seen her that day\n-- lipstick from one end of her face to the other -- powder in her hair -- cologne all over –\n(Shakes her head) She was so much a girl! (beat) (Pg 9) She's the baby, Reuben -- how could\nthey take the baby? (She begins to cry) (The doorbell rings – Reuben opens the door).\nJACKSON: (Pg 13-14) Hello, I'm Donald Jackson -- I live down the street? My wife, she was in\nthe back hangin' clothes when it happened. By the time she got to the front door, them\nboys was halfway up the block. She didn't see nothin'-and me, I was at work, -- but my wife\nsaid there was something y'all might want to know- Cop told her he went to every house on\nthe block and not one person claim they saw anything.\nREUBEN: What? There's forty-fifty families around here!\nJACKSON: It seemed strange to my wife too, 'cause she said when she came outside, everybody\nin the block was on their porch. About half on your side, and most of them on my side.\nRACHEL: (Pg 15) (Shouting) They were all out there! I saw Mrs. Smith standing by her front\ndoor. Dottie Henson was hanging out her window! They all saw it. They were all outside\nwhen those boys ran through here! They watched her die! (Breaks down crying) I saw\nthem! I saw them! I saw them!\n***** Scene*****\nZOOMAN: (Pg 16) When you got nothin’ to do, come to the Zoo! (Quieter) First couple hours\nare the worse. The big, blue fools are probably sweeping the neighborhood by now, picking\nup everybody in sight. (Sudden mood swing) I got up this mornin' and felt like killing\nsomebody! So what? Gustav is just lucky it ain't him! (beat) I got picked up twenty-one\ntimes las' year! Every time somebody black did somethin' and the cops didn't have a name?\nThey busted me! All young n*****s look alike! I was in Juvenile \"D\" eighteen months.\n(Pause) (Pg 17) Tomorrow's my little sista's' birthday! Not my sista here -- a half sista in\nBirmingham -- she'll be ten. She's down there with my fatha's people.\n***** Scene*****\nREUBEN: I'm tellin' you, Rachel, it was like they didn't know me! Mr. Davis, and Gibson down\nthe street? They didn't even answer the door! I go down the street to Julius Williams'\nhouse, and he acts like he didn't know we had a daughter! Not one damn person on the\nblock claims they saw anything! (Pg 18) What happens if the police catch the boys they\nthink did it, and nobody comes forward to identify them? They go free? Me and Rachel\nbeen livin' here fifteen-sixteen years! Jinny was born on this block! And they all act like\nstrangers -- what's wrong with them?\nRACHEL: (Pg 22) I don't want to live here anymore! You can't walk the streets -- And nobody\ngives a damn! I even had to call the police myself -- leave my baby because I didn't hear a\nsiren! They stood on their porches with their mouths open! What if it had been Grace's little\ngirl, Denise? Or Mr. Davis' granddaughter Phyllis? (On the verge of tears) (Pg 24) Reuben, I\nthink I'm just gonna explode and die in a minute! And keep exploding -- and dying, and\ndying -- over, and over, and over.\n*****Scene – 3 days later after Jinny’s funeral*****\nREUBEN: (Pg 26) Losing Jinny was like waking up and discovering the sun had a hole in it. She\nhad a way of smiling at you, made you feel somebody had given you a gift. I wanted to see\nher grown -- bring a boy around here for me to meet -- do something-be something! Twelve\nyears old ain't nothin'! (Slight pause) So, I went downtown this morning, and had this sign\nmade to hang over our porch. Get these folks off their asses. It sure can't hurt nobody. But\nmaybe it'll make somebody come forward. (hangs the sign – he looks up)\nVOICE OVER: THE KlLLERS OF OUR DAUGHTER JINNY ARE FREE ON THE STREETS BECAUSE OUR\nNEIGHBORS WILL NOT JDENTJFY THEM!\n*****Scene – a day later*****\nGRACE: (Pg 31-32) (Doorbell rings, outside) Rachel. It's me honey, Grace! (Rachel opens the\ndoor) How you feelin', girl? I just dropped by to pay my respects. I think I woulda went out\nof my mind if it hada been Denise-I don't know how you can stand it. They'd-a had to carry\nme to the hospital! They'd-a had to strap me down! (Pause, then business-like) I am really\nsorry it happened, Rachel. (Pg 33) I want to ask you one thing. Why did you let Reuben hang\nthat sign? He's got people around here climbing the walls! Don't none of them appreciate it\n-- they planning to hold a block meeting about it. (Pause) And the truth is, it makes the\nwhole street look bad. Thing like that lumps the good with the bad -- and every time you\ntum around black folks are saying something terrible about each other! \"We can't get\ntogether -- our men ain't no good -- everywhere we live is a slum!\" And Reuben's sign\nmakes this look like the worse place in the world! That's y'alls private business!\nRACHEL: Seems like a killing on the block would be everybody's business. . .\nGRACE: The Tates ain't no better than nobody else! I didn't see the Tates get excited when\nthose hoodlums raped Lou Jefferson's little girl -- or robbed my place! Why should anybody\ngo out of their way for them? I didn't hang up no sign!\nRACHEL: (Pg 35) Get the hell out of here, Grace - Get out! (Grace exits angrily; Reuben enters)\n(Pg 39-40) I’m sick of that sign! We're supposed to be in mourning -- We lost Jinny three\ndays ago -- why are you doing this now?\nREUBEN: Rachel, that sign hasn't hurt anybody unless they feel guilty.\nRACHEL: It is making people hate us, Reuben! You're making this a sideshow!\nREUBEN: The sideshow was the day they ran through here, shot up the street, killed our\ndaughter, and nobody on this block did anything about it! (Pg 47) That sign doesn't come\ndown until someone comes forward. (Pg 49-50) It’s the principle of the thing. (Phone rings,\nReuben answers) Hello? 'Who? Sergeant. Harrison? (Listens, then quietly hangs up; he turns\nto Rachel) They caught one of 'em -- he's fifteen. (Disturbed) There were two of 'em. They\npicked up some kid named Stockholm and he told on the other one -- boy they call Zooman.\nI never thought of them as that young.\n*****Scene*****\nZOOMAN: (Pg 40-41) It's no fun being on the run. But I happen to know, if a black kills a black,\nand they don't catch you right away, they liable to forget about it (Slight pause) I ain't really\nworried yet. But them signs? Ain't nobody ever pulled that before! Killings, rapes, drugs -\ngoin' on every day and nobody says nothin'! (Pg 42) Who [does] he think he is? Sendin'\npeople afta me, like I'm some animal! If he wants to blame somebody -- you don't leave no\nlittle girl sittin' on her steps by herself nowadays! He shoulda known better -- what kinda\nfatha is he? (Pause) (Pg 54) I'll be off your streets soon, don't worry -- I just got one more\nthing to do. (Zooman starts boldly toward the Tate house, hollering, a knife in his hand) Hey!\nThis is Zooman out here! (He reaches up and begins to rip and tear at the sign) Don't\nnobody do this shit! You don't send people after me! You hear that? This is Zoo man you\n[messin’] with! Come on out! (Shots are fired through the window of the Tate residence. The\nshot hits Zooman and knocks him down) I'm Zooman. F*** you! (Zooman dies)\nRACHEL: (Pg 56) Oh, Reuben -- oh my God, Reuben.\nREUBEN: I know, baby. I know.\nVOICE OVER: (as Reuben hangs another sign on his porch) HERE, LESTER TOHNSON WAS\nKJLLED. HE WILL BE MJSSED BY FAMJLY AND FRJENDS. HE WAS KNOWN AS ZOOMAN",
    "intro_raw": "Two distinct but intersecting worlds: One is the place where 15-year-old Zooman prowls the\nstreets, mugging old ladies and cutting people who get in his way. The other is where the\nmembers of the Tate family, hard-working, decent people with blue collar jobs, try to make a life\nfor themselves in a neighborhood overwhelmed by violence and distrust.\nWhen 12-year-old Jinny Tate is murdered the two worlds collide and the Bystander Syndrome,\n(that’s what it's called when a person witnesses a crime, emergency or an individual in need of\nhelp and does nothing) becomes shockingly real.\nZooman and the Sign by Charles Fuller",
    "text_layout": "prose",
-   "text_hash": "c630fac5fe688f6955227365f0d87a7bdc2bcf54",
+   "text_hash": "b07147551798b028fa9d996ec8e9b83294b42cd1",
    "intro_boundary": "High",
    "intro_boundary_method": "font+byline (agree)",
    "teaser_present": "Yes",
@@ -6893,16 +5925,6 @@
    "character_count": 6,
    "word_count": 1541,
    "intro_word_count": 108,
-   "estimated_seconds_body": 616,
-   "estimated_seconds_with_intro": 660,
-   "estimated_range_with_intro": [
-    600,
-    733
-   ],
-   "timing_flags": {
-    "TFA (limit 10:00 + 30s grace, medium confidence)": "Uncertain (range crosses a threshold)",
-    "NSDA (limit 10:00 + 30s grace, medium-high confidence)": "Uncertain (range crosses a threshold)"
-   },
    "source_citation": "Complete",
    "web_only_source": "No",
    "tone": [],
@@ -6917,14 +5939,22 @@
    "duplicate_status": "Unique",
    "duplicate_of": [],
    "also_appears_in": [],
-   "ingest_notes": [],
+   "ingest_notes": [
+    "Text repair: 'if l eva saw' -> 'if I eva saw' in performance_text (Font-encoding error in the source PDF's text layer: lowercase L where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.",
+    "Text repair: 'THE KlLLERS OF OUR DAUGHTER' -> 'THE KILLERS OF OUR DAUGHTER' in performance_text (Font-encoding error in the source PDF's text layer: lowercase L where capital I is printed. Same error class as the approved corrections; found by the assistant on 2026-09-30. Approved: director, 2026-09-30 (error class)). The text before repair is kept in text_raw.",
+    "Text repair: 'JDENTJFY' -> 'IDENTIFY' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.",
+    "Text repair: 'KJLLED' -> 'KILLED' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.",
+    "Text repair: 'MJSSED' -> 'MISSED' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.",
+    "Text repair: 'FAMJLY' -> 'FAMILY' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.",
+    "Text repair: 'FRJENDS' -> 'FRIENDS' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw."
+   ],
    "qc_flags": [
     "no_work_title_stated",
     "unclassified"
    ],
    "human_verified": false,
    "date_added": "2026-09-30",
-   "date_updated": "2026-09-30",
+   "date_updated": "2026-10-01",
    "date_verified": "",
    "provenance": {
     "title": {
@@ -6980,18 +6010,6 @@
      "origin": "computed"
     },
     "character_count": {
-     "origin": "computed"
-    },
-    "estimated_seconds_body": {
-     "origin": "computed"
-    },
-    "estimated_seconds_with_intro": {
-     "origin": "computed"
-    },
-    "estimated_range_with_intro": {
-     "origin": "computed"
-    },
-    "timing_flags": {
      "origin": "computed"
     },
     "text_layout": {

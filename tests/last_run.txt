@@ -1,0 +1,166 @@
+== 2026-10-01 19:41:07 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
+
+===== python3 pipeline/build.py
+repair applied: Text repair: 'if l eva saw' -> 'if I eva saw' in performance_text (Font-encoding error in the source PDF's text layer: lowercase L where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.
+repair applied: Text repair: 'THE KlLLERS OF OUR DAUGHTER' -> 'THE KILLERS OF OUR DAUGHTER' in performance_text (Font-encoding error in the source PDF's text layer: lowercase L where capital I is printed. Same error class as the approved corrections; found by the assistant on 2026-09-30. Approved: director, 2026-09-30 (error class)). The text before repair is kept in text_raw.
+repair applied: Text repair: 'JDENTJFY' -> 'IDENTIFY' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.
+repair applied: Text repair: 'KJLLED' -> 'KILLED' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.
+repair applied: Text repair: 'MJSSED' -> 'MISSED' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.
+repair applied: Text repair: 'FAMJLY' -> 'FAMILY' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.
+repair applied: Text repair: 'FRJENDS' -> 'FRIENDS' in performance_text (Font-encoding error in the source PDF's text layer: capital J where capital I is printed. Approved: director, 2026-09-30). The text before repair is kept in text_raw.
+Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
+
+===== python3 tests/verify_ingest.py
+PASS  PDF files in sources/ equals files in the register  46 vs 46
+PASS  records = files - byte-identical copies  45 = 46 - 1
+PASS  record IDs are unique and sequential
+PASS  every file with an INTRODUCTION heading has a record with introduction text  45 files by text search, 44 records with introductions
+PASS  only the publisher script lacks an introduction  ['Consequences by Aaron Fraire.pdf']
+PASS  source blocks: text search finds all but the two-column file  explained difference: ['Therac 25 - DI.pdf'] (heading shares a line with award text in layout mode)
+PASS  bucketed words are within 15% of the file's total words (titles, bylines and footers are the remainder)  worst deviation 2.7%
+PASS  every record validates against the schema and taxonomy  []
+PASS  unknown values are 'Not specified', never blank, for source fields
+PASS  exact duplicates are recorded, not deleted: the two Live to Tell files share one record
+PASS  every AI value has a confidence and evidence
+PASS  no run-time estimates or league timing flags are stored (removed at the director's request)  read from the raw file, not through load_db, which drops these fields
+PASS  performance text contains no section headings or footers
+
+all checks passed
+
+===== python3 pipeline/qc_scan.py
+records scanned: 45 | records with findings: 1
+finding kinds: {'name variant': 1}
+
+IC-0031  Life Support - DI.pdf
+   [name variant] byline author 'Stephanie Summerville' but introduction ends 'by Stephanie Summerfield.'
+
+===== python3 pipeline/repairs.py
+IC-0045  Zooman and the Sign - DI.pdf: 'if l eva saw' -> 'if I eva saw'  [applied]
+IC-0045  Zooman and the Sign - DI.pdf: 'THE KlLLERS OF OUR DAUGHTER' -> 'THE KILLERS OF OUR DAUGHTER'  [applied]
+IC-0045  Zooman and the Sign - DI.pdf: 'JDENTJFY' -> 'IDENTIFY'  [applied]
+IC-0045  Zooman and the Sign - DI.pdf: 'KJLLED' -> 'KILLED'  [applied]
+IC-0045  Zooman and the Sign - DI.pdf: 'MJSSED' -> 'MISSED'  [applied]
+IC-0045  Zooman and the Sign - DI.pdf: 'FAMJLY' -> 'FAMILY'  [applied]
+IC-0045  Zooman and the Sign - DI.pdf: 'FRJENDS' -> 'FRIENDS'  [applied]
+DECLINED, KEPT AS PRINTED  Zooman and the Sign - DI.pdf: 'LESTER TOHNSON' -> 'LESTER JOHNSON'
+
+===== python3 tests/test_build_site.py
+PASS  build succeeds  Built 45 record(s): 43 shown on the site -> site/index.html; exports in exports/
+
+PASS  the page carries its data as one JSON object
+PASS  removal requested record: its ID is nowhere in the page
+PASS  removal requested record: a passage of its text is nowhere in the page   But always in the back of my mind, I wished I was
+PASS  removal requested record: its title is not listed
+PASS  archived record: its ID is nowhere in the page
+PASS  archived record: a passage of its text is nowhere in the page  They increase the production of bodies and their e
+PASS  archived record: its title is not listed
+PASS  takedown reason and email are nowhere in the page
+PASS  the page lists exactly the visible records (counted from the database file)  43 on page, 43 expected
+PASS  page records carry only allowed fields
+PASS  private and removed field names appear nowhere in the page
+PASS  text is stored unaltered: every page text equals the database text
+PASS  no raw '<' in the embedded data (so text cannot close the script tag)
+PASS  Zooman: the approved errors are corrected in the stored text
+PASS  Zooman: corrected words are present
+PASS  Zooman: the raw extraction still has the original characters
+PASS  Zooman: seven repairs are logged in ingest_notes
+PASS  Zooman: the proposed LESTER TOHNSON change is NOT applied
+PASS  Zooman: word count unchanged by the repairs  (1541, 1541)
+PASS  a second build changes nothing in the database (repairs are idempotent)
+PASS  no run-time fields in the database file
+PASS  SQLite export holds every record, hidden ones included  45
+PASS  SQLite full-text search finds Zooman  ['IC-0045']
+PASS  CSV and JSON exports exist
+PASS  'Permission on file' without a reviewer and a rights note stops the build  ERROR: IC-0012: rights status 'Permission on file' may only be set by a reviewer, with the basis in rights_note
+
+1 error(s); nothing saved or built.
+
+PASS  ... and nothing is saved
+PASS  a repair whose text is not found stops the build  ERROR: IC-0020 (Fontaine - DI.pdf): 'NO SUCH TEXT 123' occurs 0 times in performance_text; a repair needs exactly one. Nothing changed.
+
+PASS  ... and nothing is saved
+
+all checks passed
+
+===== python3 tests/test_classify.py
+PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
+
+PASS  --queue writes ceil(waiting / 40) batch files  2 files for 45 records
+PASS  batch-001.md holds at most 40 records  40
+PASS  batch-001.md gives the full rules for literary_form
+PASS  batch-001.md gives the full rules for tone
+PASS  batch-001.md gives the full rules for content_warnings
+PASS  batch-001.md gives the full rules for difficulty
+PASS  batch-001.md gives the full rules for performance_demands
+PASS  batch-001.md gives the full rules for audience_level
+PASS  batch-001.md marks the introduction as context only and says where warnings come from
+PASS  batch-002.md holds at most 40 records  5
+PASS  batch-002.md gives the full rules for literary_form
+PASS  batch-002.md gives the full rules for tone
+PASS  batch-002.md gives the full rules for content_warnings
+PASS  batch-002.md gives the full rules for difficulty
+PASS  batch-002.md gives the full rules for performance_demands
+PASS  batch-002.md gives the full rules for audience_level
+PASS  batch-002.md marks the introduction as context only and says where warnings come from
+PASS  every waiting record is queued exactly once  45 queued, 45 waiting
+PASS  a record's performance text appears in its batch unaltered
+PASS  --dry-run applies nothing  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+dry run: nothing written
+PASS  the example applies all 8 values with origin ai, confidence and evidence  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261001-194118-EXAMPLE-IC-0014.json
+PASS  ... source values are untouched
+PASS  ... the reply and a report are archived in data/classifications/  ['20261001-194118-EXAMPLE-IC-0014.json', '20261001-194118-EXAMPLE-IC-0014.report.json']
+PASS  ... record no longer queued
+PASS  an invalid taxonomy value is rejected  IC-0001.audience_level: needs content_warnings assessed for the same record | IC-0001.author: not a field the AI may supply | IC-0001.difficulty: confidence must be high, medium or low | IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead | IC-0001.subject_matter: evidence is required | IC-0001.tone: not allowed values: ['Gloomy'] | IC-0002.content_warnings: evidence quotes the introduction or source block, not the performance text: "*as a translator, it's luiselli's task"
+PASS  a bad confidence is rejected
+PASS  a missing evidence is rejected
+PASS  a non-classifiable field is rejected
+PASS  audience_level without content warnings is rejected
+PASS  a placeholder value is rejected
+PASS  content warnings quoting only the introduction are rejected
+PASS  a reviewer value is skipped, not overwritten  ['IC-0003.tone']
+PASS  an unknown ID is reported
+PASS  nothing was applied
+PASS  ... and the records are unchanged
+PASS  the rejections are listed on screen  applied: 0 | protected (skipped): 1 | rejected: 7 | unknown IDs: 1
+  REJECTED IC-0001.audience_level: needs content_warnings assessed for the same record
+  REJECTED IC-0001.author: not a field the AI may supply
+  REJECTED IC-0001.difficulty: confidence must be high, medium or low
+  REJECTED IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead
+  REJECTED IC-0001.subject_matter: evidence is required
+  REJECTED IC-0001.tone: not allowed values: ['Gloomy']
+  REJECTED IC-00
+PASS  the database still builds after classification  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
+
+
+all checks passed
+
+===== python3 tests/test_incremental_ingest.py
+PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
+
+PASS  re-running a file already in the library exits cleanly  files given: 1 | new records: 0 | identical copies: 0 | already in the library: 1 | failures: 0
+PASS  ... reports it as already in the library
+PASS  ... leaves cuttings.json byte-for-byte unchanged
+PASS  ... leaves source_files.json unchanged
+PASS  identical copy under a new name creates no record  45 -> 45
+PASS  ... the existing record lists it in also_appears_in (and keeps the earlier copy)  ['Live to Tell - DI (1).pdf', 'Live to Tell copy 2.pdf']
+PASS  ... the register gains one entry pointing at the existing record  {'file': 'Live to Tell copy 2.pdf', 'sha1': '50d52a8b46896aee87cd2a89f825f96e741830d1', 'bytes': 151537, 'identical_copy_of': 'IC-0032', 'layout': 'identical copy (not parsed again)', 'pages': None}
+PASS  ... no other record changed
+PASS  a re-saved copy with the same text is parsed into one new record  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
+  IC-0046 Fontaine resaved.pdf: Exact Duplicate of IC-0020
+wrote 1 new record(s) to /tmp/ilib-test-_fwcrzwx/data/cuttings.json
+PASS  ... it is marked Exact Duplicate of the existing record  ('Exact Duplicate', ['IC-0020'])
+PASS  ... the existing record lists the new file in also_appears_in
+PASS  ... the new record's ID follows the last ID  IC-0046
+PASS  re-running every file in sources/ changes nothing  files given: 4 | new records: 0 | identical copies: 0 | already in the library: 4 | failures: 0
+PASS  a changed file under an existing name is refused  SED: Live to Tell - DI.pdf - a different file with this name is already in the library; rename it and try again
+Nothing written because some files failed. Fix the parser or rename the file and re-run.
+PASS  ... and nothing is written
+PASS  a reviewer-set duplicate status is not overwritten by a later ingest
+
+all checks passed
+
+===== python3 pipeline/classify.py --queue
+45 record(s) queued in 2 batch file(s): batch-001.md, batch-002.md
+
+== OVERALL: ALL STEPS PASSED

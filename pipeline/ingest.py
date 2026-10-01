@@ -214,8 +214,8 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
             continue
         parsed = L.parse_pdf(p, force=layout)
         entry["layout"], entry["pages"] = parsed["layout"], parsed.get("pages")
-        if parsed["layout"] == "unrecognised":
-            failures.append((p, "no parser matched this layout"))
+        if parsed["layout"] not in [n for n, _, _ in L.PARSERS]:
+            failures.append((p, "%s: %s" % (parsed["layout"], " ".join(parsed.get("notes", [])))))
             continue
         ok, detail = L.conservation(parsed)
         if not ok:

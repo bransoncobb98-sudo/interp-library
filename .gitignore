@@ -7,3 +7,4 @@ data/portal_auth.json
 data/.db.lock
 data/*.tmp
 harness_tmp/
+reports/dry_run/cache/

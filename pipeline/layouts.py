@@ -54,12 +54,37 @@ class Line:
         return "Line(p%d %r %s)" % (self.page, self.text[:40], self.font)
 
 
-def read_lines(pdf_path):
-    """Return (lines, n_pages) for every non-empty text line in the PDF."""
+def column_gap_lines(page):
+    """Count text lines with a wide gap that straddles the middle of the page (a sign of two columns).
+    Returns (lines with such a gap, lines with two or more words)."""
+    rows = collections.defaultdict(list)
+    for w in page.extract_words(use_text_flow=False, keep_blank_chars=False):
+        rows[round(w["top"] / 3)].append(w)
+    mid, width, hits, multi = page.width / 2, page.width, 0, 0
+    for ws in rows.values():
+        if len(ws) < 2:
+            continue
+        multi += 1
+        ws.sort(key=lambda w: w["x0"])
+        if any(b["x0"] - a["x1"] >= 18 and a["x1"] < mid + 0.12 * width and b["x0"] > mid - 0.12 * width
+               for a, b in zip(ws, ws[1:])):
+            hits += 1
+    return hits, multi
+
+
+TWO_COLUMN_SHARE = 0.25          # share of multi-word lines with a mid-page gap above which a file is treated as two-column
+
+
+def read_lines(pdf_path, stats=None):
+    """Return (lines, n_pages) for every non-empty text line in the PDF.  If a dict is given as stats,
+    stats["column_gap_share"] is set to the share of multi-word lines with a mid-page gap."""
     lines = []
+    gap_hits = gap_multi = 0
     with pdfplumber.open(pdf_path) as pdf:
         n = len(pdf.pages)
         for pn, page in enumerate(pdf.pages, 1):
+            h, m = column_gap_lines(page)
+            gap_hits, gap_multi = gap_hits + h, gap_multi + m
             for raw in page.extract_text_lines(layout=False, strip=True, return_chars=True):
                 text = raw["text"].strip()
                 if not text:
@@ -82,6 +107,8 @@ def read_lines(pdf_path):
                 ln.bold_lead = lead
                 ln.italic = sum(1 for c in chars if "Italic" in c["fontname"]) / len(chars) > 0.6
                 lines.append(ln)
+    if stats is not None:
+        stats["column_gap_share"] = gap_hits / gap_multi if gap_multi else 0.0
     return lines, n
 
 
@@ -407,10 +434,18 @@ def conservation(result):
 
 
 def parse_pdf(path, force=None):
-    lines, n = read_lines(path)
+    stats = {}
+    lines, n = read_lines(path, stats)
+    share = round(stats["column_gap_share"], 3)
+    if share > TWO_COLUMN_SHARE and force is None:
+        # the line reader would run straight across both columns and scramble the text, which the
+        # word-conservation check cannot see, so refuse rather than parse
+        return {"layout": "two_column (no parser yet)", "pages": n, "all_lines": lines, "column_gap_share": share,
+                "notes": ["%.0f%% of lines have a gap across the middle of the page: two columns." % (100 * share)]}
     for name, det, par in PARSERS:
         if (force and name == force) or (not force and det(lines)):
             r = par(lines, n)
             r["all_lines"] = lines
+            r["column_gap_share"] = share
             return r
-    return {"layout": "unrecognised", "pages": n, "all_lines": lines, "notes": ["No parser matched this layout."]}
+    return {"layout": "unrecognised", "pages": n, "all_lines": lines, "column_gap_share": share, "notes": ["No parser matched this layout."]}

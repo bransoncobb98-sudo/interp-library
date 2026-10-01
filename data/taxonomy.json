@@ -50,7 +50,8 @@
     "Poetry": "Poetry interpretation.",
     "Prose": "Prose interpretation.",
     "Storytelling": "Storytelling.",
-    "Other": "Another event."
+    "Other": "Another event.",
+    "Not specified": "The uploader did not file it under an event."
    }
   },
   "literary_form": {

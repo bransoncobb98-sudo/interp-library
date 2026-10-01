@@ -1,0 +1,27 @@
+{
+ "note": "Event and filing label for each upload folder, as the director filed them. The longest matching folder wins. The filing label is stored exactly as filed (performer_category_as_filed); it is never a rule about who may perform a piece. Decisions of 2026-10-01: Duo and Duet are Duo Interpretation; the 'Needs to be classified' zip has no event.",
+ "folders": {
+  "incoming/DI": {"event": "Dramatic Interpretation", "filing_label": ""},
+  "incoming/DI/Any Gender DI": {"event": "Dramatic Interpretation", "filing_label": "Any Gender"},
+  "incoming/DI/Female DIs": {"event": "Dramatic Interpretation", "filing_label": "Female DIs"},
+  "incoming/DI/Male DIs": {"event": "Dramatic Interpretation", "filing_label": "Male DIs"},
+  "incoming/HI": {"event": "Humorous Interpretation", "filing_label": ""},
+  "incoming/HI/Any Gender HI": {"event": "Humorous Interpretation", "filing_label": "Any Gender HI"},
+  "incoming/HI/Female HIs": {"event": "Humorous Interpretation", "filing_label": "Female HIs"},
+  "incoming/HI/Male HIs": {"event": "Humorous Interpretation", "filing_label": "Male HIs"},
+  "incoming/Duo-Duet": {"event": "Duo Interpretation", "filing_label": ""},
+  "incoming/Duo-Duet/Any-Any Duos & Duets": {"event": "Duo Interpretation", "filing_label": "Any-Any Duos & Duets"},
+  "incoming/Duo-Duet/F-F Duos & Duets": {"event": "Duo Interpretation", "filing_label": "F-F Duos & Duets"},
+  "incoming/Duo-Duet/M-F Duos & Duets": {"event": "Duo Interpretation", "filing_label": "M-F Duos & Duets"},
+  "incoming/Duo-Duet/M-M Duos & Duets": {"event": "Duo Interpretation", "filing_label": "M-M Duos & Duets"},
+  "incoming/Poetry/Any Gender Poetry": {"event": "Poetry", "filing_label": "Any Gender Poetry"},
+  "incoming/Poetry/Poetry Female": {"event": "Poetry", "filing_label": "Poetry Female"},
+  "incoming/Poetry/Poetry Male": {"event": "Poetry", "filing_label": "Poetry Male"},
+  "incoming/Prose": {"event": "Prose", "filing_label": ""},
+  "incoming/Prose/Prose Any Gender": {"event": "Prose", "filing_label": "Prose Any Gender"},
+  "incoming/Prose/Prose- Female": {"event": "Prose", "filing_label": "Prose- Female"},
+  "incoming/Prose/Prose- Male": {"event": "Prose", "filing_label": "Prose- Male"},
+  "incoming/POI Program Starter": {"event": "Program Oral Interpretation", "filing_label": "POI Program Starter"},
+  "incoming/Needs to be classified (zip)": {"event": "Not specified", "filing_label": "Needs to be classified"}
+ }
+}

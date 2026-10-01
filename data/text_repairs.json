@@ -16,8 +16,8 @@
   {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "FRJENDS", "to": "FRIENDS",
    "reason": "Font-encoding error in the source PDF's text layer: capital J where capital I is printed.", "approved": "director, 2026-09-30"}
  ],
- "proposed_not_applied": [
+ "declined": [
   {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "LESTER TOHNSON", "to": "LESTER JOHNSON",
-   "reason": "Probably a typing error rather than a font error (T for J). Waiting for the director's decision; not applied."}
+   "reason": "Probably a typing error rather than a font error (T for J). Declined by the director on 2026-10-01: kept as printed."}
  ]
 }

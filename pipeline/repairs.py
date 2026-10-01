@@ -85,8 +85,8 @@ def main():
         r = by_file.get(rp["source_file"])
         state = "NO RECORD" if not r else ("applied" if note_for(rp) in r["ingest_notes"] else "waiting (runs on next build)")
         print("%-8s %s: '%s' -> '%s'  [%s]" % (r["id"] if r else "-", rp["source_file"], rp["from"], rp["to"], state))
-    for rp in (I.load_json(PATH, {}) or {}).get("proposed_not_applied", []):
-        print("PROPOSED, NOT APPLIED  %s: '%s' -> '%s'" % (rp["source_file"], rp["from"], rp["to"]))
+    for rp in (I.load_json(PATH, {}) or {}).get("declined", []):
+        print("DECLINED, KEPT AS PRINTED  %s: '%s' -> '%s'" % (rp["source_file"], rp["from"], rp["to"]))
     return 0
 
 

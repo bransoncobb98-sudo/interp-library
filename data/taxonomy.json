@@ -186,21 +186,6 @@
     "Related Version": "Another cut of the same piece."
    }
   },
-  "timing_status": {
-   "label": "Estimated timing against a league limit",
-   "multi": false,
-   "definition": "Where the estimate falls against a stated limit and grace period. Describes the estimate only.",
-   "assign_when": "Computed from the estimate and league_limits.json.",
-   "do_not_assign_when": "Never implies legality or eligibility.",
-   "examples": [],
-   "values": {
-    "Within limit": "Estimate is at or under the limit.",
-    "Within grace period": "Estimate is over the limit but within the stated grace.",
-    "Over limit": "Estimate is over the limit plus grace.",
-    "Uncertain (range crosses a threshold)": "The fast-to-slow range straddles a limit.",
-    "No limit set": "No limit has been entered for this league and event."
-   }
-  },
   "source_citation": {
    "label": "Source citation in the file",
    "multi": false,
@@ -270,8 +255,7 @@
  },
  "free_text_fields": {
   "themes": "Short noun phrases for what the cutting is about. Only themes the text supports.",
-  "subject_matter": "One sentence describing what happens in the cutting.",
-  "setting": "Place and situation; mark inferred settings as '(implied)'."
+  "subject_matter": "One sentence describing what happens in the cutting."
  },
- "speaking_rate_note": "See data/pace.json. Pace is a placeholder estimate until the director tunes it."
+ "timing_note": "Run-time estimates and league timing flags are not part of this library (director's decision, 2026-09-30). Word counts are kept."
 }

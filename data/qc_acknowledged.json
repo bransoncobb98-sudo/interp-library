@@ -53,7 +53,8 @@
   "kind": "artifact",
   "contains": "'l'",
   "reason": "Present in the source PDF's own text; kept as printed. ('if l eva saw')",
-  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+  "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person",
+  "resolved": "2026-09-30: corrected in the stored text by data/text_repairs.json (director approved). No longer expected to appear."
  },
  {
   "source_file": "After I Was Thrown in the River - DI.pdf",
@@ -145,5 +146,12 @@
   "contains": "'m-\\nyou'",
   "reason": "Present in the source PDF's own text; kept as printed. (a verse line ending \"who I am-\" before \"you know who I am-\")",
   "verified": "2026-09-30, against the PDF text layer by the assistant; not yet by a person"
+ },
+ {
+  "source_file": "Zooman and the Sign - DI.pdf",
+  "kind": "artifact",
+  "contains": "'s'",
+  "reason": "Present in the source PDF's own text; kept as printed. The source censors a slur as 'n*****s', which leaves a single 's' after the asterisks. Surfaced on 2026-10-01 once the earlier 'l' error was corrected.",
+  "verified": "2026-10-01, against pdftotext output of the PDF by the assistant; not yet by a person"
  }
 ]

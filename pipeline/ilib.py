@@ -7,7 +7,6 @@ AI never overwrites source or human values, unknown stays "Not specified", and
 nothing is deleted.
 """
 import datetime
-import fcntl
 import hashlib
 import json
 import os
@@ -15,6 +14,11 @@ import re
 import tempfile
 import threading
 from pathlib import Path
+
+try:                       # file locking is Linux/macOS only; Windows can read and build but not lock
+    import fcntl
+except ImportError:        # pragma: no cover
+    fcntl = None
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -43,8 +47,9 @@ def load_json(path, default=None):
 
 
 TAX = load_json(TAX_PATH)
-PACE = load_json(DATA / "pace.json")
-LIMITS = (load_json(DATA / "league_limits.json") or {}).get("limits", [])
+# Run-time estimates and league timing flags were removed at the director's request (2026-09-30).
+# These computed fields may still exist in older databases and are dropped on load.
+OBSOLETE_FIELDS = ("estimated_seconds_body", "estimated_seconds_with_intro", "estimated_range_with_intro", "timing_flags")
 
 
 def vocab(key):
@@ -105,10 +110,6 @@ FIELDS = [
     F("character_count", "int", "Text", "Number of distinct speaker labels; empty if the text has no labels.", editable=False),
     F("word_count", "int", "Text", "Spoken words in the performance text (see count rules).", editable=False),
     F("intro_word_count", "int", "Text", "Words in the introduction.", editable=False),
-    F("estimated_seconds_body", "int", "Timing", "Estimated time for the performance text alone.", editable=False),
-    F("estimated_seconds_with_intro", "int", "Timing", "Estimated time for performance text plus introduction.", editable=False),
-    F("estimated_range_with_intro", "list", "Timing", "[fastest, slowest] seconds with introduction.", editable=False, default=[]),
-    F("timing_flags", "obj", "Timing", "Per league: status of the estimate against the stated limit. Says nothing about legality.", editable=False, default={}),
     # checks
     F("source_citation", "enum", "Source checks", "How completely the file cites its published source.", "source_citation", editable=False),
     F("web_only_source", "enum", "Source checks", "Only a web link is given as the source.", "yes_no", editable=False),
@@ -160,6 +161,9 @@ def load_db():
         for f in FIELDS:
             if f.name not in r:
                 r[f.name] = blank_default(f)
+        for k in OBSOLETE_FIELDS:
+            r.pop(k, None)
+            r["provenance"].pop(k, None)
     return db
 
 
@@ -246,46 +250,6 @@ def speaker_labels(text):
     return seen
 
 
-# ---------------------------------------------------------------- timing --
-def pace_for(event):
-    p = (PACE.get("per_event") or {}).get(event) or PACE["default"]
-    return p["words_per_minute"], p["range_words_per_minute"]
-
-
-def seconds_for(words, wpm):
-    return round(words / wpm * 60)
-
-
-def fmt_duration(sec):
-    m, s = divmod(int(sec), 60)
-    return "%d:%02d" % (m, s)
-
-
-def limit_status(seconds, limit, grace):
-    if seconds <= limit:
-        return "Within limit"
-    if grace is not None and seconds <= limit + grace:
-        return "Within grace period"
-    return "Over limit"
-
-
-def timing_flags(rec):
-    flags = {}
-    wpm, (lo, hi) = pace_for(rec["event"])
-    words = (rec["word_count"] or 0) + (rec["intro_word_count"] or 0)
-    est, fast, slow = seconds_for(words, wpm), seconds_for(words, hi), seconds_for(words, lo)
-    for row in LIMITS:
-        if row["event"] != rec["event"]:
-            continue
-        sts = {limit_status(x, row["max_seconds"], row["grace_seconds"]) for x in (fast, est, slow)}
-        label = "%s (limit %s%s, %s)" % (
-            row["league"], fmt_duration(row["max_seconds"]),
-            " + %ss grace" % row["grace_seconds"] if row["grace_seconds"] else ", no grace stated",
-            row["confidence"] + " confidence")
-        flags[label] = (next(iter(sts)) if len(sts) == 1 else "Uncertain (range crosses a threshold)")
-    return flags
-
-
 # ------------------------------------------------------------- derivation --
 CONF_SCORE = {"high": 1.0, "medium": 0.6, "low": 0.3}
 
@@ -299,18 +263,10 @@ def derive(rec):
     labels = speaker_labels(perf)
     rec["speaker_labels"] = labels
     rec["character_count"] = len(labels) if labels else None
-    wpm, (lo, hi) = pace_for(rec["event"])
-    rec["estimated_seconds_body"] = seconds_for(rec["word_count"], wpm)
-    tot = rec["word_count"] + rec["intro_word_count"]
-    rec["estimated_seconds_with_intro"] = seconds_for(tot, wpm)
-    rec["estimated_range_with_intro"] = [seconds_for(tot, hi), seconds_for(tot, lo)]
-    rec["timing_flags"] = timing_flags(rec)
     paras = [p for p in perf.split("\n\n") if p.strip()]
     verse = sum(1 for p in paras if "\n" in p)
     rec["text_layout"] = "prose" if not verse else ("verse" if verse / max(1, len(paras)) >= 0.4 else "mixed")
-    for k in ("word_count", "intro_word_count", "text_hash", "speaker_labels", "character_count",
-              "estimated_seconds_body", "estimated_seconds_with_intro", "estimated_range_with_intro",
-              "timing_flags", "text_layout"):
+    for k in ("word_count", "intro_word_count", "text_hash", "speaker_labels", "character_count", "text_layout"):
         set_prov(rec, k, "computed")
 
     scores = [CONF_SCORE[p["confidence"]] for p in rec["provenance"].values()
@@ -388,6 +344,9 @@ _THREAD_LOCK = threading.Lock()
 class DbLock:
     """Thread lock plus file lock so the portal, review tool and command-line tools never write together."""
     def __enter__(self):
+        if fcntl is None:
+            raise RuntimeError("Database locking needs Linux or macOS (the fcntl module). "
+                               "Run this command in the Codespace or the Docker container, not on Windows.")
         _THREAD_LOCK.acquire()
         DATA.mkdir(exist_ok=True)
         self.f = open(DATA / ".db.lock", "w")

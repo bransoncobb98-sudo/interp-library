@@ -108,14 +108,24 @@ def main():
     a = ap.parse_args()
     db = I.load_db()
     ack = I.load_json(I.DATA / "qc_acknowledged.json", []) or []
+    # An acknowledgement says a finding is present in the source PDF itself.  It must give a reason.
+    # "resolved" marks one whose cause was since corrected (for example by text_repairs.json).
+    live = [x for x in ack if not x.get("resolved")]
+    bad_ack = [x for x in ack if not (x.get("reason") or "").strip()]
+    used = set()
     out = {}
     for r in db["records"]:
-        fl = [(k, m) for k, m in scan_record(r)
-              if not any(x["source_file"] == r["source_file"] and x["kind"] == k and x["contains"] in m for x in ack)]
+        fl = []
+        for k, m in scan_record(r):
+            hit = [i for i, x in enumerate(live) if x["source_file"] == r["source_file"] and x["kind"] == k and x["contains"] in m]
+            used.update(hit)
+            if not hit:
+                fl.append((k, m))
         if fl:
             out[r["id"]] = {"file": r["source_file"], "findings": fl}
+    stale = [x for i, x in enumerate(live) if i not in used]
     if a.json:
-        print(json.dumps(out, indent=1))
+        print(json.dumps({"findings": out, "stale_acknowledgements": stale, "acknowledgements_without_reason": bad_ack}, indent=1))
         return 0
     kinds = {}
     for rid, d in out.items():
@@ -127,6 +137,14 @@ def main():
         print("\n%s  %s" % (rid, d["file"]))
         for k, msg in d["findings"]:
             print("   [%s] %s" % (k, msg))
+    if stale:
+        print("\nAcknowledgements that no longer match any finding (check, then mark 'resolved' or remove the cause):")
+        for x in stale:
+            print("   %s [%s] %r" % (x["source_file"], x["kind"], x["contains"]))
+    if bad_ack:
+        print("\nAcknowledgements without a reason (every one needs a reason):")
+        for x in bad_ack:
+            print("   %s [%s] %r" % (x["source_file"], x["kind"], x["contains"]))
     return 0
 
 

@@ -57,8 +57,13 @@ check("unknown values are 'Not specified', never blank, for source fields",
       all(r[k] for r in recs for k in ("title", "author", "work_title", "publisher", "isbn", "publication_date_raw", "cutter")))
 check("exact duplicates are recorded, not deleted: the two Live to Tell files share one record",
       any(r["source_file"].startswith("Live to Tell") and "Live to Tell - DI (1).pdf" in r["also_appears_in"] for r in recs))
-check("no AI values exist yet (classification not run)", not any(p.get("origin") == "ai" for r in recs for p in r["provenance"].values()))
-check("every record has timing estimates and league flags", all(r["estimated_seconds_with_intro"] > 0 and r["timing_flags"] for r in recs))
+check("every AI value has a confidence and evidence",
+      all(p.get("confidence") in ("high", "medium", "low") and p.get("evidence")
+          for r in recs for p in r["provenance"].values() if p.get("origin") == "ai"))
+check("no run-time estimates or league timing flags are stored (removed at the director's request)",
+      not re.search(r'"(estimated_seconds_body|estimated_seconds_with_intro|estimated_range_with_intro|timing_flags)"',
+                    open(ROOT / "data" / "cuttings.json", encoding="utf-8").read()),
+      "read from the raw file, not through load_db, which drops these fields")
 check("performance text contains no section headings or footers",
       not any(re.search(r"(?m)^\s*(SOURCE INFORMATION|AWARD HISTORY|AWARDS|INTRODUCTION|(Page )?\d+ of \d+)\s*$", r["performance_text"]) for r in recs))
 print("\n%d checks failed" % len(fails) if fails else "\nall checks passed")

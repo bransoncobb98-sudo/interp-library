@@ -1,0 +1,23 @@
+{
+ "note": "Corrections to extracted text, approved by the director. Each 'from' must occur exactly once in the named field of the record from 'source_file', or the build stops. The extracted text before repair stays in text_raw / intro_raw, and every applied repair is logged in the record's ingest_notes.",
+ "repairs": [
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "if l eva saw", "to": "if I eva saw",
+   "reason": "Font-encoding error in the source PDF's text layer: lowercase L where capital I is printed.", "approved": "director, 2026-09-30"},
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "THE KlLLERS OF OUR DAUGHTER", "to": "THE KILLERS OF OUR DAUGHTER",
+   "reason": "Font-encoding error in the source PDF's text layer: lowercase L where capital I is printed. Same error class as the approved corrections; found by the assistant on 2026-09-30.", "approved": "director, 2026-09-30 (error class)"},
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "JDENTJFY", "to": "IDENTIFY",
+   "reason": "Font-encoding error in the source PDF's text layer: capital J where capital I is printed.", "approved": "director, 2026-09-30"},
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "KJLLED", "to": "KILLED",
+   "reason": "Font-encoding error in the source PDF's text layer: capital J where capital I is printed.", "approved": "director, 2026-09-30"},
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "MJSSED", "to": "MISSED",
+   "reason": "Font-encoding error in the source PDF's text layer: capital J where capital I is printed.", "approved": "director, 2026-09-30"},
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "FAMJLY", "to": "FAMILY",
+   "reason": "Font-encoding error in the source PDF's text layer: capital J where capital I is printed.", "approved": "director, 2026-09-30"},
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "FRJENDS", "to": "FRIENDS",
+   "reason": "Font-encoding error in the source PDF's text layer: capital J where capital I is printed.", "approved": "director, 2026-09-30"}
+ ],
+ "proposed_not_applied": [
+  {"source_file": "Zooman and the Sign - DI.pdf", "field": "performance_text", "from": "LESTER TOHNSON", "to": "LESTER JOHNSON",
+   "reason": "Probably a typing error rather than a font error (T for J). Waiting for the director's decision; not applied."}
+ ]
+}

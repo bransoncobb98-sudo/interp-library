@@ -1,0 +1,44 @@
+{
+ "IC-0014": {
+  "literary_form": {
+   "value": "Drama",
+   "confidence": "high",
+   "evidence": "A published script (SpeechGeek copyright page) spoken under the speaker label \"INTERROGATOR.\""
+  },
+  "tone": {
+   "value": ["Dark", "Ironic"],
+   "confidence": "medium",
+   "evidence": "Jokes such as \"Charming, right?\" and the closing \"God bless America.\" sit on top of an account of torture."
+  },
+  "content_warnings": {
+   "value": ["Violence", "Abuse", "Suicide", "Substance Use", "War/Trauma"],
+   "confidence": "high",
+   "evidence": "The speaker describes torture (\"hook his ass up to a generator\"), a colleague's suicide (\"he hung himself right there\"), drinking (\"a very high functioning alcoholic\") and wartime Iraq (\"Welcome to Iraq\")."
+  },
+  "difficulty": {
+   "value": "Advanced",
+   "confidence": "medium",
+   "evidence": "One voice, but it swings from banter (\"This room has carpet.\") to horror (\"the only screaming left is yours\") many times."
+  },
+  "performance_demands": {
+   "value": ["Vocal Variety", "Pacing/Timing Control"],
+   "confidence": "medium",
+   "evidence": "Written pauses and shifts such as \"Now that...is a great question\" and the outburst \"YES! I’ve had enough.\" drive the piece."
+  },
+  "audience_level": {
+   "value": "Upper High School (mature content)",
+   "confidence": "high",
+   "evidence": "Torture, suicide, alcohol and profanity are described directly in the performance text."
+  },
+  "themes": {
+   "value": ["Moral cost of torture", "Duty and complicity", "Conscience"],
+   "confidence": "medium",
+   "evidence": "\"what we do destroys people\" and the last line \"and my conscience.\""
+  },
+  "subject_matter": {
+   "value": "A CIA interrogator with six days left in Iraq talks a new recruit through the job in the base break room and reveals what it has done to him.",
+   "confidence": "high",
+   "evidence": "\"So, I got six days left\" and \"this is the break room\"."
+  }
+ }
+}

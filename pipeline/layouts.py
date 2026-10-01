@@ -1,6 +1,6 @@
 """Layout parsers for interp cutting PDFs.
 
-Layouts recognised so far (see data/source_profiles.json to force one):
+Layouts recognised so far (force one with: python pipeline/ingest.py FILE --layout NAME):
 
   di_cutting        Title, "By Author", optional teaser text, an "INTRODUCTION"
                     heading (Arial Black) followed by the introduction set in

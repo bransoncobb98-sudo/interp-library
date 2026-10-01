@@ -6,3 +6,4 @@ __pycache__/
 data/portal_auth.json
 data/.db.lock
 data/*.tmp
+harness_tmp/

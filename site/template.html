@@ -1,0 +1,651 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>__SITE_TITLE__</title>
+<style>
+:root{
+  --base:112.5%;
+  --paper:#F4F5F7; --sheet:#FFFFFF; --ink:#1C2533; --muted:#4A5565; --rule:#CDD3DB; --edge:#8892A0;
+  --accent:#1F4E79; --accent-dark:#163A5B; --wash:#E4EDF6;
+  --warn-bg:#FFF3D6; --warn-ink:#5C3B00; --warn-line:#B7791F; --ok-bg:#E8F3EC; --ok-ink:#173F29; --ok-line:#2F7D4F; --focus:#0A58CA;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Cambria,Georgia,serif;
+  --sans:"Avenir Next","Segoe UI","Helvetica Neue",Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html{font-size:var(--base)}
+body{margin:0;background:var(--paper);color:var(--ink);font:1rem/1.55 var(--sans);color-scheme:light}
+a{color:var(--accent)} a:hover{color:var(--accent-dark)}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.skip{position:absolute;left:-999px;top:0;background:#fff;padding:.6rem 1rem;z-index:10}
+.skip:focus{left:0}
+[hidden]{display:none!important}
+
+.masthead{display:flex;flex-wrap:wrap;gap:.75rem 1.5rem;align-items:center;justify-content:space-between;max-width:80rem;margin:0 auto;padding:1rem 1.25rem}
+.brand{font:700 1.4rem/1.1 var(--serif);color:var(--ink);text-decoration:none}
+.brand small{display:block;font:400 .85rem var(--sans);color:var(--muted);margin-top:.2rem}
+.tools{display:flex;gap:.5rem;align-items:center;font-size:.9rem;color:var(--muted)}
+
+.btn{font:inherit;font-weight:600;min-height:44px;padding:.5rem 1.1rem;border:2px solid var(--accent);background:var(--accent);color:#fff;border-radius:6px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;justify-content:center}
+.btn:hover{background:var(--accent-dark);border-color:var(--accent-dark);color:#fff}
+.btn.quiet{background:#fff;color:var(--accent)}
+.btn.quiet:hover{background:var(--wash);color:var(--accent-dark)}
+.btn.small{min-height:40px;padding:.25rem .7rem;font-size:.9rem}
+.btn.danger{background:#fff;color:#7A1414;border-color:#7A1414}
+
+.finder{max-width:80rem;margin:0 auto;padding:1rem 1.25rem 0}
+.finder h1{font:600 clamp(1.8rem,4vw,2.6rem)/1.15 var(--serif);margin:.5rem 0 1rem}
+.searchbar{display:flex;gap:.5rem;max-width:52rem}
+.searchbar input{flex:1;min-width:0;font:inherit;font-size:1.15rem;padding:.7rem .9rem;border:2px solid var(--edge);border-radius:6px;background:#fff;color:var(--ink);min-height:52px}
+.hint{margin:.75rem 0 0;color:var(--muted);font-size:.95rem}
+.hint button{font:inherit;font-size:.95rem;background:none;border:0;padding:.15rem .25rem;color:var(--accent);text-decoration:underline;cursor:pointer;min-height:32px}
+.understood{margin:.75rem 0 0;display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;min-height:2rem}
+.understood .lead{color:var(--muted);font-size:.95rem;margin-right:.25rem}
+.understood .ignored{color:var(--muted);font-size:.9rem;flex-basis:100%}
+.pill{display:inline-flex;align-items:center;gap:.35rem;border:1px solid var(--accent);background:var(--wash);color:var(--accent-dark);border-radius:999px;padding:.1rem .3rem .1rem .7rem;font-size:.92rem}
+.pill.not{border-style:dashed}
+.pill button{font:inherit;width:28px;height:28px;border-radius:50%;border:0;background:transparent;color:var(--accent-dark);cursor:pointer;font-size:1.1rem;line-height:1}
+.pill button:hover{background:#fff}
+.browse{margin:1rem 0 0;display:flex;flex-wrap:wrap;gap:.4rem}
+.browse button{font:inherit;font-size:.92rem;min-height:40px;padding:.2rem .8rem;border:1px solid var(--edge);background:#fff;color:var(--ink);border-radius:999px;cursor:pointer}
+.browse button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.browse button .n{color:var(--muted);margin-left:.3rem}
+.browse button[aria-pressed=true] .n{color:#fff}
+.browse button:disabled{opacity:.55;cursor:default}
+
+.layout{display:grid;grid-template-columns:19rem minmax(0,1fr);gap:2rem;max-width:80rem;margin:1.5rem auto 0;padding:0 1.25rem 3rem;align-items:start}
+.filters{position:sticky;top:1rem;max-height:calc(100vh - 2rem);overflow:auto;padding-right:.25rem}
+.filters>summary{font:600 1.05rem var(--serif);cursor:pointer;padding:.5rem 0;min-height:44px;display:flex;align-items:center}
+.filters .fhead{display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem}
+.facet{border-top:1px solid var(--rule);padding:.1rem 0}
+.facet>summary{cursor:pointer;font-weight:600;padding:.6rem 0;min-height:44px;display:flex;align-items:center}
+.facet fieldset{border:0;margin:0;padding:0 0 .6rem}
+.facet .fnote{font-size:.85rem;color:var(--muted);margin:0 0 .4rem}
+.opt{display:flex;gap:.6rem;align-items:flex-start;padding:.3rem 0;min-height:36px;cursor:pointer}
+.opt input{width:1.15rem;height:1.15rem;margin-top:.2rem;accent-color:var(--accent)}
+.opt .c{color:var(--muted);margin-left:auto;padding-left:.5rem;font-variant-numeric:tabular-nums}
+.more>summary{font-weight:600;color:var(--accent);cursor:pointer;padding:.7rem 0;min-height:44px;display:flex;align-items:center}
+.unclassified{font-size:.9rem;color:var(--warn-ink);background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:6px;padding:.5rem .7rem;margin:.5rem 0}
+
+.rhead{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.5rem 1rem;align-items:baseline;border-bottom:2px solid var(--ink);padding-bottom:.4rem}
+.rhead h2,.rsec h2{font:600 1.45rem var(--serif);margin:0}
+.rhead label{font-size:.9rem;color:var(--muted)}
+.rhead select{font:inherit;font-size:.9rem;min-height:40px;margin-left:.3rem;padding:.2rem .4rem;border:1px solid var(--edge);border-radius:4px;background:#fff}
+.rsec{margin-top:2rem}
+.rsec>p{margin:.3rem 0 0;color:var(--muted)}
+.entries{list-style:none;margin:0;padding:0}
+.entry{padding:1.3rem 0;border-top:1px solid var(--rule)}
+.entry:first-child{border-top:0}
+.entry h3{font:600 1.4rem/1.25 var(--serif);margin:0 0 .15rem}
+.entry h3 a{color:var(--ink);text-decoration:none}
+.entry h3 a:hover{color:var(--accent);text-decoration:underline}
+.who{margin:0;font-size:1.05rem}
+.src{display:flex;flex-wrap:wrap;gap:0 1.5rem;margin:.2rem 0 .6rem;color:var(--muted);font-size:.92rem}
+.src div{display:flex;gap:.35rem}
+.src dt{font-weight:600}.src dd{margin:0}
+.tags{list-style:none;margin:.35rem 0 0;padding:0;display:flex;flex-wrap:wrap;gap:.35rem}
+.chip{display:inline-block;border:1px solid var(--edge);border-radius:4px;padding:.05rem .55rem;font-size:.88rem;background:#fff}
+.chip.soft{border-style:dashed;background:transparent;color:var(--muted)}
+.chip.warn{background:var(--warn-bg);color:var(--warn-ink);border-color:var(--warn-line)}
+.chip.ai::after{content:" (AI-suggested)";color:var(--muted);font-size:.8rem}
+.why{margin:.6rem 0 0;padding:.5rem .75rem;border-left:4px solid var(--edge);background:#fff;font-size:.93rem}
+.why b{font-weight:600}
+.entry .btn{margin-top:.8rem}
+.empty{padding:1.5rem;background:#fff;border:1px solid var(--rule);border-radius:6px;margin-top:1rem}
+.empty p{margin:.3rem 0}
+
+/* ---- detail page ---- */
+.detail{max-width:56rem;margin:0 auto;padding:0 1.25rem 3rem}
+.crumbs{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.5rem;align-items:center;margin:.5rem 0 1rem}
+.crumbs .pn{display:flex;gap:.5rem}
+.detail h1{font:600 clamp(1.7rem,4vw,2.4rem)/1.15 var(--serif);margin:.25rem 0 .3rem;outline:none}
+.byline{margin:0 0 1rem;font-size:1.1rem}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:.55rem 1.5rem;margin:1rem 0;padding:1rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.facts div{min-width:0}.facts dt{font-weight:600;font-size:.9rem;color:var(--muted)}.facts dd{margin:0;overflow-wrap:anywhere}
+.facts dd .lab{font-size:.8rem;color:var(--muted)}
+.actions{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0;align-items:center}
+.toggle{display:inline-flex;gap:.45rem;align-items:center;min-height:44px;font-size:.95rem}
+.toggle input{width:1.15rem;height:1.15rem;accent-color:var(--accent)}
+.notice{margin:1rem 0;padding:.75rem 1rem;border:1px solid var(--warn-line);background:var(--warn-bg);color:var(--warn-ink);border-radius:6px;font-size:.95rem}
+.notice.ok{background:var(--ok-bg);border-color:var(--ok-line);color:var(--ok-ink)}
+.badge{display:inline-block;border:1px solid var(--edge);border-radius:4px;padding:0 .45rem;font-size:.85rem;background:#fff}
+.sheet{background:var(--sheet);border:1px solid var(--rule);max-width:42rem;margin:1.5rem auto;padding:clamp(1.5rem,6vw,3.5rem)}
+.sheet h2{font:600 1rem var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 1rem}
+.sheet.intro{background:#FAFBFC}
+.sheet.intro .lines p{font-style:italic}
+.lines p{font:1.2rem/1.85 var(--serif);margin:0 0 1.1rem;max-width:36em;overflow-wrap:anywhere}
+.lines p.verse{white-space:pre-line}
+.lines em.dir{color:var(--muted)}
+.lines b.spk{font-family:var(--sans);font-size:.9em;letter-spacing:.03em}
+.lines .pg{color:var(--muted);font-family:var(--sans);font-size:.8em}
+body.hide-pg .pg{display:none}
+.detail section{margin-top:2rem}
+.detail h2.sec{font:600 1.35rem var(--serif);margin:0 0 .5rem}
+.detail details{border-top:1px solid var(--rule);padding:.2rem 0}
+.detail details>summary{cursor:pointer;font-weight:600;padding:.6rem 0;min-height:44px;display:flex;align-items:center}
+pre.raw{white-space:pre-wrap;font:.92rem/1.5 ui-monospace,Menlo,Consolas,monospace;background:#fff;border:1px solid var(--rule);border-radius:4px;padding:.7rem .9rem;margin:.4rem 0;overflow-wrap:anywhere}
+p.small{font-size:.9rem;color:var(--muted);margin:.2rem 0 .4rem}
+table.prov{border-collapse:collapse;width:100%;font-size:.9rem;display:block;overflow-x:auto}
+table.prov th,table.prov td{border-bottom:1px solid var(--rule);padding:.4rem .6rem;text-align:left;vertical-align:top}
+table.prov th{font-weight:600;background:#fff}
+.simlist{list-style:none;margin:0;padding:0}
+.simlist li{padding:.7rem 0;border-top:1px solid var(--rule)}
+.simlist a{font:600 1.1rem var(--serif)}
+dialog{border:1px solid var(--edge);border-radius:8px;max-width:36rem;width:92vw;padding:1.2rem}
+dialog::backdrop{background:rgba(28,37,51,.45)}
+dialog h2{font:600 1.3rem var(--serif);margin:0 0 .6rem}
+dialog label{display:block;font-weight:600;margin:.8rem 0 .25rem}
+dialog textarea,dialog input[type=email]{width:100%;font:inherit;padding:.5rem;border:1px solid var(--edge);border-radius:4px}
+dialog textarea{min-height:7rem}
+dialog .row{display:flex;gap:.5rem;justify-content:flex-end;margin-top:1rem;flex-wrap:wrap}
+.print-head,.print-foot{display:none}
+footer.site{max-width:80rem;margin:0 auto;padding:1.5rem 1.25rem 2.5rem;color:var(--muted);font-size:.88rem;border-top:1px solid var(--rule)}
+
+@media (max-width:900px){
+  .layout{grid-template-columns:1fr;gap:1rem}
+  .filters{position:static;max-height:none;border:1px solid var(--rule);border-radius:6px;background:#fff;padding:0 .9rem}
+  .searchbar{flex-direction:column}
+  .searchbar .btn{width:100%}
+}
+@media print{
+  body{background:#fff;font-size:12pt}
+  .no-print,.masthead,footer.site,.skip,dialog{display:none!important}
+  .detail{max-width:none;padding:0}
+  .sheet{border:0;padding:0;margin:0 0 1.2rem;max-width:none;background:#fff}
+  .lines p{font-size:12.5pt;line-height:1.6}
+  .print-head{display:block;margin-bottom:1rem}
+  .print-head h1{font:600 18pt var(--serif);margin:0}
+  .print-head p{margin:.1rem 0;font-size:11pt}
+  .print-foot{display:block;margin-top:1.5rem;font-size:9pt;color:#333;border-top:1px solid #999;padding-top:.4rem}
+}
+</style>
+</head>
+<body class="hide-pg">
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead no-print">
+  <a class="brand" href="#/" id="brand"></a>
+  <div class="tools" role="group" aria-label="Text size">
+    <span aria-hidden="true">Text size</span>
+    <button class="btn quiet small" id="smaller" aria-label="Make text smaller">A&minus;</button>
+    <button class="btn quiet small" id="larger" aria-label="Make text larger">A+</button>
+  </div>
+</header>
+<main id="main" tabindex="-1"></main>
+<footer class="site no-print" id="foot"></footer>
+<dialog id="rm" aria-labelledby="rmh"></dialog>
+
+<script>
+const LIB = /*__LIBRARY_DATA__*/null;
+(function(){
+"use strict";
+const RECS = LIB.records, TAX = LIB.taxonomy, CFG = LIB.config;
+const $ = (s, el=document) => el.querySelector(s);
+const $$ = (s, el=document) => Array.from(el.querySelectorAll(s));
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const vals = (r, f) => { const v = r[f]; return Array.isArray(v) ? v : (v ? [v] : []); };
+const NS = "Not specified";
+const known = v => v && v !== NS && v !== "Not assessed";
+const assessed = (r, f) => !!(r.provenance && r.provenance[f] && ["ai","human"].includes(r.provenance[f].origin));
+const isAI = (r, f) => !!(r.provenance && r.provenance[f] && r.provenance[f].origin === "ai");
+
+const PRIORITY = ["event","tone","content_warnings","difficulty","audience_level","literary_form","teaser_present","character_bucket"];
+const ADVANCED = LIB.facets.filter(f => !PRIORITY.includes(f));
+const LABEL = Object.fromEntries(Object.entries(TAX).map(([k,v]) => [k, v.label]));
+LABEL.review_status = "Data-quality status";
+LABEL.exclude_warnings = "Leave out content";
+const fieldLabel = k => LABEL[k] || k.replace(/_/g," ").replace(/^./, c => c.toUpperCase());
+const CLASSIFIED = ["tone","content_warnings","difficulty","audience_level","literary_form","performance_demands"];
+const anyClassified = RECS.some(r => CLASSIFIED.some(f => assessed(r, f)));
+
+/* ---------------- text size ---------------- */
+let scale = 112.5;
+try { scale = parseFloat(localStorage.getItem("il-scale")) || 112.5; } catch(e){}
+function applyScale(){ document.documentElement.style.setProperty("--base", scale + "%"); try{ localStorage.setItem("il-scale", scale); }catch(e){} }
+$("#smaller").onclick = () => { scale = Math.max(90, scale - 12.5); applyScale(); };
+$("#larger").onclick = () => { scale = Math.min(175, scale + 12.5); applyScale(); };
+applyScale();
+$("#brand").innerHTML = esc(CFG.title) + (CFG.tagline || CFG.organisation ? "<small>" + esc([CFG.tagline, CFG.organisation].filter(Boolean).join(" · ")) + "</small>" : "");
+document.title = CFG.title;
+$("#foot").innerHTML = "<p>Source, credit and copyright information is kept as given in the uploaded files. Copyright remains with the authors and publishers. " +
+  "Values marked AI-suggested have not been checked by a person; open a cutting and choose &ldquo;How this was classified&rdquo; to see the evidence. " +
+  "This library records what its sources state. It does not say whether a piece is eligible for any league or tournament.</p>" +
+  (CFG.takedown_notice ? "<p>" + esc(CFG.takedown_notice) + "</p>" : "") +
+  (CFG.takedown_contact ? "<p>Removal requests: " + esc(CFG.takedown_contact) + "</p>" : "") +
+  "<p>Library data generated " + esc(LIB.generated) + ".</p>";
+
+/* ---------------- natural-language parsing ---------------- */
+const P = (f, vs) => vs.map(v => [f, v]);
+const EV = n => "(?:" + n + ")";
+// Each entry: re (tested on the lower-cased query), parts: [{label, any:[[field,value],...], text?: regex tested on themes/subject}]
+const LEX = [
+  {re:/\b(?:dramatic interp(?:retation)?|d\.?i\.?)\b/, parts:[{label:"Dramatic Interpretation", any:P("event",["Dramatic Interpretation"])}]},
+  {re:/\b(?:humou?rous interp(?:retation)?|h\.?i\.?)\b/, parts:[{label:"Humorous Interpretation", any:P("event",["Humorous Interpretation"])}]},
+  {re:/\b(?:duo(?: interp(?:retation)?)?)\b/, parts:[{label:"Duo Interpretation", any:P("event",["Duo Interpretation"])}]},
+  {re:/\b(?:poi|program oral interp(?:retation)?|program)\b/, parts:[{label:"Program Oral Interpretation", any:P("event",["Program Oral Interpretation"])}]},
+  {re:/\bstorytelling\b/, parts:[{label:"Storytelling", any:P("event",["Storytelling"])}]},
+  {re:/\b(?:poetry|poems?|verse)\b/, parts:[{label:"Poetry", any:P("event",["Poetry"]).concat(P("literary_form",["Poetry"]))}]},
+  {re:/\bprose\b/, parts:[{label:"Prose", any:P("event",["Prose"]).concat(P("literary_form",["Prose"]))}]},
+  {re:/\b(?:plays?|drama|scripts?|screenplays?)\b/, parts:[{label:"From a play or script", any:P("literary_form",["Drama"])}]},
+  {re:/\b(?:novels?|fiction|short stor(?:y|ies))\b/, parts:[{label:"From fiction", any:P("literary_form",["Prose"])}]},
+  {re:/\b(?:memoirs?|non-?fiction|essays?|true stor(?:y|ies)|transcripts?|journalism)\b/, parts:[{label:"Nonfiction", any:P("literary_form",["Nonfiction"])}]},
+  {re:/\bdramatic\b/, parts:[{label:"Dramatic Interpretation", any:P("event",["Dramatic Interpretation"])}]},
+  {re:/\b(?:funny|humou?rous|comic|comedic|comedy|lighthearted|light-hearted|hilarious)\b/, parts:[{label:"Funny", any:P("tone",["Lighthearted","Whimsical","Satirical"]).concat(P("event",["Humorous Interpretation"]))}]},
+  {re:/\b(?:serious|heavy|intense|grave)\b/, parts:[{label:"Serious", any:P("tone",["Serious","Dark"])}]},
+  {re:/\b(?:dark|bleak|disturbing)\b/, parts:[{label:"Dark", any:P("tone",["Dark"])}]},
+  {re:/\bbittersweet\b/, parts:[{label:"Bittersweet", any:P("tone",["Bittersweet"])}]},
+  {re:/\b(?:ironic|irony)\b/, parts:[{label:"Ironic", any:P("tone",["Ironic"])}]},
+  {re:/\b(?:satire|satirical)\b/, parts:[{label:"Satirical", any:P("tone",["Satirical"])}]},
+  {re:/\b(?:whimsical|playful)\b/, parts:[{label:"Whimsical", any:P("tone",["Whimsical"])}]},
+  {re:/\b(?:earnest|heartfelt|sincere|uplifting|hopeful|inspiring|inspirational)\b/, parts:[{label:"Earnest", any:P("tone",["Earnest"])}]},
+  {re:/\b(?:beginners?|easy|novice|first[- ]year|simple)\b/, parts:[{label:"Beginner difficulty", any:P("difficulty",["Beginner"])}]},
+  {re:/\bintermediate\b/, parts:[{label:"Intermediate difficulty", any:P("difficulty",["Intermediate"])}]},
+  {re:/\b(?:advanced|hard|challenging|difficult|varsity)\b/, parts:[{label:"Advanced difficulty", any:P("difficulty",["Advanced"])}]},
+  {re:/\bmiddle school\b/, parts:[{label:"Suggested for middle school", any:P("audience_level",["Middle School"])}]},
+  {re:/\b(?:with|has|having) (?:a )?teaser\b/, parts:[{label:"Has a teaser", any:P("teaser_present",["Yes"])}]},
+  {re:/\b(?:no|without) (?:a )?teaser\b/, parts:[{label:"No teaser", any:P("teaser_present",["No"])}]},
+  {re:/\b(?:many|multiple|several|lots of) (?:characters|voices|speakers)\b/, parts:[{label:"Several labelled speakers", any:P("character_bucket",["4 to 6 labelled speakers","7 or more labelled speakers"])}]},
+  {re:/\b(?:two|2|three|3) (?:characters|voices|speakers)\b/, parts:[{label:"2 to 3 labelled speakers", any:P("character_bucket",["2 to 3 labelled speakers"])}]},
+  {re:/\b(?:dialects?|accents?)\b/, parts:[{label:"Dialect", any:P("performance_demands",["Dialect"])}]},
+  {re:/\b(?:grief|grieving|mourning|bereavement)\b/, parts:[{label:"Grief", any:P("content_warnings",["Grief"]), text:/\bgrie|\bmourn|\bloss\b/}]},
+  {re:/\b(?:death|dying)\b/, parts:[{label:"Death", any:P("content_warnings",["Death"]), text:/\bdeath|\bdying|\bdies\b/}]},
+  {re:/\b(?:war|soldiers?|combat|holocaust|genocide)\b/, parts:[{label:"War or trauma", any:P("content_warnings",["War/Trauma"]), text:/\bwar\b|soldier|combat|holocaust|genocide/}]},
+  {re:/\bmental (?:health|illness)\b|\bdepression\b/, parts:[{label:"Mental health", any:P("content_warnings",["Mental Health"]), text:/mental|depress/}]},
+  {re:/\b(?:racism|discrimination|prejudice|civil rights)\b/, parts:[{label:"Discrimination", any:P("content_warnings",["Discrimination/Slurs"]), text:/racis|discriminat|prejudice|civil rights/}]},
+];
+// "no suicide", "without violence": leave out records whose assessed content warnings include it
+const NEG = [
+  [/\bsuicide\b/, "Suicide"], [/\bself[- ]harm\b/, "Self-harm"], [/\bviolen(?:ce|t)\b/, "Violence"], [/\babuse\b/, "Abuse"],
+  [/\bsexual assault\b|\brape\b/, "Sexual Assault"], [/\bsex(?:ual)?(?: content)?\b/, "Sexual Content"], [/\b(?:drugs?|alcohol|substance(?: use)?)\b/, "Substance Use"],
+  [/\bslurs?\b|\bdiscrimination\b/, "Discrimination/Slurs"], [/\bdeath\b/, "Death"], [/\bgrief\b/, "Grief"], [/\bwar\b/, "War/Trauma"], [/\bmental health\b/, "Mental Health"],
+];
+const NEG_RE = /\b(?:no|without|not about|avoid(?:ing)?|free of|nothing about)\s+(?:any\s+)?((?:self[- ]harm|sexual assault|sexual content|mental health|substance use|[a-z-]+))\b/g;
+const TIME_RE = /\b(?:under|less than|shorter than|over|more than|longer than|about|around|up to|at most)?\s*\d+(?:\.\d+)?\s*(?:-|to)?\s*\d*\s*(?:min(?:ute)?s?|sec(?:ond)?s?)\b/g;
+const VAGUE_TIME_RE = /\b(?:short|long|quick|brief)\b/g;
+const STOP = new Set("a an the for to of in on at and or with about that this is are be it its me my i we you please some something need needs want wants looking look find get give show any good great nice piece pieces cutting cuttings interp interpretation selection selections script scripts student students competition tournament speech debate preferably prefer maybe really very like would could should one ones also just only who whose what which from by as if has have having".split(" "));
+
+function parseQuery(q){
+  let s = " " + (q || "").toLowerCase().replace(/[“”]/g,'"').replace(/[’‘]/g,"'") + " ";
+  const constraints = [], excludes = [], ignored = [];
+  s = s.replace(TIME_RE, m => { if (m.trim()) ignored.push(m.trim()); return " "; });
+  s = s.replace(NEG_RE, (m, what) => {
+    const hit = NEG.find(([re]) => re.test(what));
+    if (hit && !excludes.includes(hit[1])) excludes.push(hit[1]);
+    return hit ? " " : m;
+  });
+  for (const e of LEX) { if (e.re.test(s)) { e.parts.forEach(p => constraints.push({...p})); s = s.replace(new RegExp(e.re.source, "g"), " "); } }
+  s = s.replace(VAGUE_TIME_RE, m => { ignored.push(m); return " "; });
+  const terms = s.split(/[^\p{L}\p{N}'-]+/u).map(t => t.replace(/^['-]+|['-]+$/g,"")).filter(t => t.length > 1 && !STOP.has(t));
+  return {constraints, excludes, terms, ignored};
+}
+
+/* ---------------- search model ---------------- */
+function hayOf(r){
+  if (r._h) return r._h;
+  const strong = [r.title, r.author, r.work_title, r.publisher, r.cutter].join(" ").toLowerCase();
+  const mid = [(r.themes||[]).join(" "), r.subject_matter, (r.tone||[]).join(" "), (r.content_warnings||[]).join(" "), r.literary_form, r.event].join(" ").toLowerCase();
+  const text = (r.introduction_text + " " + r.performance_text).replace(/\([^()]*\)/g," ").toLowerCase();
+  return (r._h = {strong, mid, text});
+}
+function stem(t){ return t.length > 4 ? t.replace(/(ies)$/,"y").replace(/(es|s)$/,"") : t; }
+function termScore(r, t){
+  const h = hayOf(r), re = new RegExp("\\b" + stem(t).replace(/[.*+?^${}()|[\]\\]/g,"\\$&"));
+  return (re.test(h.strong) ? 5 : 0) + (re.test(h.mid) ? 3 : 0) + (re.test(h.text) ? 1 : 0);
+}
+const emptyWord = (r, f) => (["tone","content_warnings","difficulty","audience_level","literary_form","performance_demands"].includes(f) && !assessed(r, f)) ? "not yet classified" : "none";
+let state = {q:"", f:{}, x:new Set(), dismiss:new Set(), verified:false, sort:"title"};
+
+function buildConstraints(){
+  const cs = [], parsed = parseQuery(state.q);
+  parsed.constraints.forEach(c => { if (!state.dismiss.has(c.label)) cs.push({id:"q:"+c.label, label:c.label, kind:"query",
+    test:r => c.any.some(([f,v]) => vals(r,f).includes(v)) || (c.text ? c.text.test(hayOf(r).mid) : false),
+    want:c.label, actual:r => { const f = c.any[0][0]; return fieldLabel(f).toLowerCase() + ": " + (vals(r,f).join(", ") || emptyWord(r,f)); }}); });
+  const ex = new Set([...parsed.excludes, ...state.x]);
+  ex.forEach(w => { const lab = "Leave out: " + w; if (!state.dismiss.has(lab)) cs.push({id:"x:"+w, label:lab, kind: state.x.has(w) ? "facet-x" : "query", not:true,
+    test:r => assessed(r, "content_warnings") && !(r.content_warnings||[]).includes(w),
+    want:"no " + w.toLowerCase(), actual:r => assessed(r,"content_warnings") ? "content warnings include " + w : "content warnings not yet classified"}); });
+  parsed.terms.forEach(t => { if (!state.dismiss.has("Keyword: " + t)) cs.push({id:"t:"+t, label:"Keyword: " + t, kind:"term", term:t,
+    test:r => termScore(r,t) > 0, want:"the word “" + t + "”", actual:() => "not found"}); });
+  Object.entries(state.f).forEach(([f, set]) => { if (set.size) cs.push({id:"facet:"+f, label:fieldLabel(f) + ": " + [...set].join(" or "), kind:"facet", field:f,
+    test:r => [...set].some(v => vals(r,f).includes(v)),
+    want:fieldLabel(f) + " " + [...set].slice(0,3).join(" or ") + (set.size > 3 ? " or similar" : ""),
+    actual:r => vals(r,f).join(", ") || emptyWord(r,f)}); });
+  return {cs, parsed};
+}
+
+function run(){
+  const {cs, parsed} = buildConstraints();
+  const pool = RECS.filter(r => !state.verified || r.human_verified);
+  const score = r => cs.filter(c => c.kind === "term").reduce((a,c) => a + termScore(r, c.term), 0);
+  let exact = [], related = [];
+  if (!cs.length) exact = pool.map(r => ({r, unmet:[], met:0, score:0}));
+  else pool.forEach(r => {
+    const unmet = cs.filter(c => !c.test(r)), met = cs.length - unmet.length, x = {r, unmet, met, score:score(r)};
+    if (!unmet.length) exact.push(x); else if (met > 0) related.push(x);
+  });
+  const cmpTitle = (a,b) => a.r.title.localeCompare(b.r.title, undefined, {numeric:true});
+  const sorters = {best:(a,b) => b.score - a.score || cmpTitle(a,b), title:cmpTitle,
+    shortw:(a,b) => a.r.word_count - b.r.word_count || cmpTitle(a,b), longw:(a,b) => b.r.word_count - a.r.word_count || cmpTitle(a,b)};
+  exact.sort(sorters[state.sort] || sorters.title);
+  related.sort((a,b) => b.met - a.met || b.score - a.score || cmpTitle(a,b));
+  return {cs, parsed, pool, exact, related: related.slice(0, 12)};
+}
+
+function facetCounts(cs, pool){
+  const out = {};
+  LIB.facets.forEach(f => {
+    const others = cs.filter(c => c.id !== "facet:" + f), counts = {};
+    pool.forEach(r => { if (others.every(c => c.test(r))) vals(r,f).forEach(v => counts[v] = (counts[v]||0) + 1); });
+    out[f] = counts;
+  });
+  return out;
+}
+
+/* ---------------- URL state ---------------- */
+function stateToParams(){
+  const p = new URLSearchParams();
+  if (state.q) p.set("q", state.q);
+  Object.entries(state.f).forEach(([f,s]) => { if (s.size) p.set("f."+f, [...s].join("|")); });
+  if (state.x.size) p.set("xw", [...state.x].join("|"));
+  if (state.dismiss.size) p.set("x", [...state.dismiss].join("|"));
+  if (state.verified) p.set("v","1");
+  if (state.sort !== "title") p.set("s", state.sort);
+  return p;
+}
+function paramsToState(p){
+  state = {q:p.get("q")||"", f:{}, x:new Set((p.get("xw")||"").split("|").filter(Boolean)), dismiss:new Set((p.get("x")||"").split("|").filter(Boolean)), verified:p.get("v")==="1", sort:p.get("s")||"title"};
+  for (const [k,v] of p.entries()) if (k.startsWith("f.")) state.f[k.slice(2)] = new Set(v.split("|").filter(Boolean));
+}
+function route(){
+  const h = location.hash.slice(1) || "/", i = h.indexOf("?");
+  return {path: i < 0 ? h : h.slice(0,i), params: new URLSearchParams(i < 0 ? "" : h.slice(i+1))};
+}
+let muteHash = false;
+function writeHash(){
+  const q = stateToParams().toString(), h = "#/" + (q ? "?" + q : "");
+  try { history.replaceState(null, "", h); }
+  catch (e) { muteHash = true; location.hash = h; }   // some browsers block replaceState on file:// pages
+}
+
+/* ---------------- list page ---------------- */
+const BROWSE = [
+  {t:"Browse all", clear:true},
+  {t:"Dramatic", f:"event", v:["Dramatic Interpretation"]}, {t:"Humorous", f:"event", v:["Humorous Interpretation"]},
+  {t:"Duo", f:"event", v:["Duo Interpretation"]}, {t:"POI", f:"event", v:["Program Oral Interpretation"]},
+  {t:"Prose", f:"event", v:["Prose"]}, {t:"Poetry", f:"event", v:["Poetry"]}, {t:"Storytelling", f:"event", v:["Storytelling"]},
+  {t:"From a play", f:"literary_form", v:["Drama"]}, {t:"Nonfiction", f:"literary_form", v:["Nonfiction"]},
+  {t:"Has a teaser", f:"teaser_present", v:["Yes"]},
+];
+const sameSet = (set, arr) => set && set.size === arr.length && arr.every(v => set.has(v));
+
+function buildList(){
+  const main = $("#main");
+  main.innerHTML = `
+  <section class="finder no-print" aria-labelledby="h1">
+    <h1 id="h1">Find a cutting</h1>
+    <form class="searchbar" role="search" id="sform">
+      <label class="sr" for="q">Search</label>
+      <input id="q" type="search" autocomplete="off" placeholder="Search titles, authors, books, themes, words in the text...">
+      <button class="btn" type="submit">Search</button>
+    </form>
+    <p class="hint">Ask in plain words, for example
+      <button type="button" class="ex">dramatic piece about grief with no suicide</button>
+      <button type="button" class="ex">nonfiction with several characters</button></p>
+    <div class="understood" id="understood" aria-live="polite"></div>
+    <nav class="browse" aria-label="Browse by category" id="browse"></nav>
+  </section>
+  <div class="layout">
+    <details class="filters no-print" id="filters">
+      <summary id="fsum">Filters</summary>
+      <div class="fhead"><button type="button" class="btn quiet small" id="clear">Clear all filters</button></div>
+      ${anyClassified ? "" : '<p class="unclassified">Nothing is classified yet, so tone, content, difficulty and similar filters have no values. Events, teasers and speaker labels work now.</p>'}
+      <label class="opt"><input type="checkbox" id="vonly"> <span>Checked by a reviewer only</span></label>
+      <div id="facets"></div>
+    </details>
+    <section aria-label="Results" id="results"></section>
+  </div>`;
+  const fac = $("#facets");
+  const mk = (f, open) => `<details class="facet" data-f="${f}" ${open ? "open" : ""}><summary>${esc(fieldLabel(f))}</summary>
+    <fieldset><legend class="sr">${esc(fieldLabel(f))}</legend>${f === "audience_level" ? '<p class="fnote">AI-suggested. Not a judgement that a piece is appropriate.</p>' : ""}${Object.keys(TAX[f].values).map(v =>
+    `<label class="opt" data-v="${esc(v)}"><input type="checkbox" data-f="${f}" value="${esc(v)}"><span>${esc(v)}</span><span class="c"></span></label>`).join("")}</fieldset></details>`;
+  const mkx = () => `<details class="facet" data-fx="1"><summary>${esc(fieldLabel("exclude_warnings"))}</summary><fieldset><legend class="sr">Leave out content</legend>
+    <p class="fnote">Hides cuttings whose content warnings include these. Cuttings not yet classified are hidden too, because their content is unknown.</p>
+    ${Object.keys(TAX.content_warnings.values).map(v => `<label class="opt"><input type="checkbox" data-x="1" value="${esc(v)}"><span>${esc(v)}</span></label>`).join("")}</fieldset></details>`;
+  fac.innerHTML = PRIORITY.map((f,i) => mk(f, i < 4)).join("") + mkx() +
+    `<details class="more"><summary>More filters</summary>${ADVANCED.map(f => mk(f,false)).join("")}</details>`;
+  $("#filters").open = !window.matchMedia("(max-width:900px)").matches;
+
+  const setQ = v => { state.q = v; state.dismiss = new Set(); writeHash(); update(); };
+  $("#sform").addEventListener("submit", e => { e.preventDefault(); setQ($("#q").value); });
+  let t; $("#q").addEventListener("input", e => { clearTimeout(t); t = setTimeout(() => setQ(e.target.value), 250); });
+  $$(".ex").forEach(b => b.onclick = () => { $("#q").value = b.textContent; setQ(b.textContent); });
+  $("#clear").onclick = () => { state = {q:"", f:{}, x:new Set(), dismiss:new Set(), verified:false, sort:"title"}; writeHash(); syncControls(); update(); };
+  $("#vonly").onchange = e => { state.verified = e.target.checked; writeHash(); update(); };
+  fac.addEventListener("change", e => { const i = e.target;
+    if (i.dataset.x) { i.checked ? state.x.add(i.value) : state.x.delete(i.value); state.dismiss.delete("Leave out: " + i.value); writeHash(); update(); return; }
+    if (!i.dataset.f) return;
+    const set = state.f[i.dataset.f] = state.f[i.dataset.f] || new Set();
+    i.checked ? set.add(i.value) : set.delete(i.value); writeHash(); update(); });
+  $("#understood").addEventListener("click", e => { const b = e.target.closest("button[data-x]"); if (!b) return;
+    const w = b.dataset.x.replace(/^Leave out: /, "");
+    if (b.dataset.x.startsWith("Leave out: ") && state.x.has(w)) { state.x.delete(w); syncControls(); } else state.dismiss.add(b.dataset.x);
+    writeHash(); update(); });
+  $("#browse").addEventListener("click", e => { const b = e.target.closest("button[data-i]"); if (!b) return;
+    const d = BROWSE[+b.dataset.i];
+    if (d.clear) { state.f = {}; state.x = new Set(); state.q = ""; state.dismiss = new Set(); }
+    else if (sameSet(state.f[d.f], d.v)) delete state.f[d.f]; else state.f[d.f] = new Set(d.v);
+    writeHash(); syncControls(); update(); });
+  $("#results").addEventListener("change", e => { if (e.target.id === "sort") { state.sort = e.target.value; writeHash(); update(); } });
+  $("#results").addEventListener("click", e => { if (e.target.closest("[data-clear]")) $("#clear").click(); });
+}
+function syncControls(){
+  $("#q").value = state.q; $("#vonly").checked = state.verified;
+  $$("#facets input[data-f]").forEach(i => i.checked = !!(state.f[i.dataset.f] && state.f[i.dataset.f].has(i.value)));
+  $$("#facets input[data-x]").forEach(i => i.checked = state.x.has(i.value));
+}
+
+function chips(arr, cls=""){ return arr.length ? `<ul class="tags">${arr.map(t => `<li class="chip ${cls}">${esc(t)}</li>`).join("")}</ul>` : ""; }
+function entry(x, withWhy){
+  const r = x.r, q = stateToParams().toString();
+  const href = "#/c/" + r.id + (q ? "?from=" + encodeURIComponent(q) : "");
+  const cls = [r.event, known(r.literary_form) ? r.literary_form : "", r.difficulty ? r.difficulty + " difficulty" : "",
+    r.word_count + " spoken words", r.teaser_present === "Yes" ? "Teaser" : ""].filter(Boolean);
+  const cw = assessed(r, "content_warnings") && (r.content_warnings||[]).length ? `<p class="tags"><span class="chip warn">Content: ${esc(r.content_warnings.join(", "))}</span></p>` : "";
+  const why = withWhy && x.unmet.length ? `<p class="why"><b>Does not match:</b> ${x.unmet.map(c => esc(c.want) + " (this one: " + esc(c.actual(r)) + ")").join("; ")}</p>` : "";
+  return `<li class="entry"><h3><a href="${href}">${esc(r.title)}</a></h3>
+    <p class="who">${known(r.author) ? "By " + esc(r.author) : "Author not specified"}</p>
+    <dl class="src">${known(r.work_title) ? `<div><dt>From</dt><dd>${esc(r.work_title)}</dd></div>` : ""}${known(r.publisher) ? `<div><dt>Publisher</dt><dd>${esc(r.publisher)}</dd></div>` : ""}</dl>
+    <ul class="tags" aria-label="Details">${cls.map(t => `<li class="chip">${esc(t)}</li>`).join("")}</ul>
+    ${chips(r.tone || [], "soft")}${cw}${why}
+    <a class="btn" href="${href}">Open cutting<span class="sr">: ${esc(r.title)}</span></a></li>`;
+}
+
+function update(){
+  const res = run(), counts = facetCounts(res.cs, res.pool);
+  const u = [];
+  res.cs.filter(c => c.kind !== "facet").forEach(c => u.push(`<span class="pill${c.not ? " not" : ""}">${esc(c.label)}<button type="button" data-x="${esc(c.label)}" aria-label="Remove ${esc(c.label)}">&times;</button></span>`));
+  $("#understood").innerHTML = (u.length ? `<span class="lead">Searching for</span>${u.join("")}` : "") +
+    (res.parsed.ignored.length ? `<span class="ignored">Not used: &ldquo;${esc(res.parsed.ignored.join("”, “"))}&rdquo;. This library does not estimate run times.</span>` : "");
+  $$("#facets label.opt").forEach(l => {
+    const inp = $("input", l); if (inp.dataset.x) return;
+    const f = inp.dataset.f, v = l.dataset.v, n = (counts[f] || {})[v] || 0;
+    l.hidden = !(n > 0 || inp.checked); $(".c", l).textContent = n;
+  });
+  $$("#facets details.facet[data-f]").forEach(d => { d.hidden = !$$("label.opt:not([hidden])", d).length; });
+  const active = Object.values(state.f).reduce((a,s) => a + s.size, 0) + state.x.size + (state.verified ? 1 : 0);
+  $("#fsum").textContent = "Filters" + (active ? " (" + active + " active)" : "");
+  $("#browse").innerHTML = BROWSE.map((d,i) => {
+    const n = d.clear ? RECS.length : RECS.filter(r => d.v.some(v => vals(r,d.f).includes(v))).length;
+    const on = d.clear ? (!res.cs.length && !state.verified) : sameSet(state.f[d.f], d.v);
+    return (n === 0 && !on && !d.clear) ? "" : `<button type="button" data-i="${i}" aria-pressed="${on}">${esc(d.t)}<span class="n">${n}</span></button>`;
+  }).join("");
+  const hasQ = res.cs.length > 0;
+  let html = `<div class="rhead"><h2 id="rc" role="status">${hasQ ? "Exact matches (" + res.exact.length + ")" : "All cuttings (" + res.exact.length + ")"}</h2>
+    <label>Sort by <select id="sort">${[["title","Title"],["best","Best match"],["shortw","Fewest words first"],["longw","Most words first"]].map(([v,t]) => `<option value="${v}" ${state.sort===v?"selected":""}>${t}</option>`).join("")}</select></label></div>`;
+  if (!RECS.length) html += `<div class="empty"><p><b>The library is empty.</b></p></div>`;
+  else if (!res.exact.length) html += `<div class="empty"><p><b>No cutting matches every part of this search.</b></p><p>${res.related.length ? "Related results are listed below." : "Try removing a filter or a word."}</p><p><button class="btn quiet small" data-clear type="button">Clear search and filters</button></p></div>`;
+  else html += `<ul class="entries">${res.exact.map(x => entry(x,false)).join("")}</ul>`;
+  if (res.related.length) html += `<div class="rsec"><h2>Related results (${res.related.length})</h2><p>These meet some of your criteria but not all. Each one says what does not match.</p><ul class="entries">${res.related.map(x => entry(x,true)).join("")}</ul></div>`;
+  $("#results").innerHTML = html;
+}
+
+/* ---------------- detail page ---------------- */
+function origin(o){ return {ai:"AI-suggested", human:"Entered by reviewer", source:"From the source file", computed:"Calculated"}[o] || o; }
+function fmtVal(v){ if (Array.isArray(v)) return v.join("; ") || "None"; return v === "" || v == null ? "—" : String(v); }
+const PG = /\(Pg\.?\s*[\d\s,–-]+\)/g;
+const SPK = /^([A-Z][A-Z0-9 .'’/#&-]{0,28}:)(?=\s|$)/;
+function renderText(t){
+  return t.split(/\n\n+/).filter(p => p.trim()).map(p => {
+    let h = esc(p);
+    h = h.replace(/\((?!Pg\.?\s*\d)([^()]{1,400})\)/g, '<em class="dir">($1)</em>');
+    h = h.replace(PG, m => '<span class="pg">' + m + '</span>');
+    h = h.split("\n").map(line => line.replace(SPK, '<b class="spk">$1</b>')).join("\n");
+    return "<p" + (p.includes("\n") ? ' class="verse"' : "") + ">" + h + "</p>";
+  }).join("");
+}
+function orderFromParams(fromQs){
+  const saved = state; paramsToState(new URLSearchParams(fromQs || "")); const res = run();
+  const ids = res.exact.map(x => x.r.id).concat(res.related.map(x => x.r.id)); state = saved; return ids;
+}
+function plainText(r){
+  const pg = !document.body.classList.contains("hide-pg");
+  const strip = s => pg ? s : s.replace(PG, "").replace(/[ \t]{2,}/g, " ");
+  return r.title + (known(r.author) ? "\nBy " + r.author : "") + (r.introduction_text ? "\n\nINTRODUCTION\n" + strip(r.introduction_text) : "") +
+    "\n\n" + strip(r.performance_text) + "\n\nSource: " + r.source_file + (known(r.work_title) ? "; " + r.work_title : "") +
+    (known(r.publisher) ? "; " + r.publisher : "") + (known(r.copyright_notice) ? "\n" + r.copyright_notice : "");
+}
+async function copyText(r, btn){
+  const txt = plainText(r); let ok = false;
+  try { await navigator.clipboard.writeText(txt); ok = true; } catch(e) {
+    const ta = document.createElement("textarea"); ta.value = txt; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select();
+    try { ok = document.execCommand("copy"); } catch(_) {} ta.remove();
+  }
+  $("#copystatus").textContent = ok ? "Copied to clipboard." : "Copy failed. Select the text and copy it manually.";
+  btn.focus();
+}
+function assessedWord(r, f){
+  if (!assessed(r, f)) return "Not yet classified";
+  const v = vals(r, f); return v.length ? v.join(", ") : "None identified";
+}
+function removalDialog(r){
+  const d = $("#rm");
+  const canSend = CFG.takedown_api && /^https?:$/.test(location.protocol);
+  d.innerHTML = `<h2 id="rmh">Request removal of &ldquo;${esc(r.title)}&rdquo;</h2>` + (canSend ?
+    `<p>The cutting is hidden from the library straight away and stays hidden until a reviewer looks at the request.</p>
+     <form id="rmf" method="dialog"><label for="rmr">Reason (required)</label><textarea id="rmr" required maxlength="2000"></textarea>
+     <label for="rme">Email for a reply (optional)</label><input type="email" id="rme" maxlength="200" autocomplete="email">
+     <div id="rms" role="status"></div>
+     <div class="row"><button type="button" class="btn quiet" id="rmc">Cancel</button><button type="submit" class="btn danger" id="rmgo">Hide it and send the request</button></div></form>` :
+    `<p>This copy of the library cannot receive removal requests: it is a single page with no server behind it.</p>
+     <p>${CFG.takedown_contact ? "Send the request to " + esc(CFG.takedown_contact) + " and include the record ID " + esc(r.id) + "." : "Tell the person who gave you access to this library, and include the record ID " + esc(r.id) + "."}</p>
+     <div class="row"><button type="button" class="btn" id="rmc">Close</button></div>`);
+  d.showModal();
+  $("#rmc").onclick = () => d.close();
+  if (!canSend) return;
+  $("#rmf").addEventListener("submit", async e => {
+    e.preventDefault();
+    const reason = $("#rmr").value.trim(); if (!reason) { $("#rms").textContent = "Please give a reason."; return; }
+    $("#rmgo").disabled = true;
+    try {
+      const res = await fetch("/api/takedown", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({id:r.id, reason, email:$("#rme").value.trim()})});
+      const j = await res.json().catch(() => ({}));
+      if (!res.ok) { $("#rms").textContent = j.error || "The request was not sent."; $("#rmgo").disabled = false; return; }
+      const i = RECS.findIndex(x => x.id === r.id); if (i >= 0) RECS.splice(i, 1);
+      d.close(); location.hash = "#/"; alert(j.message || "Thank you. The cutting is now hidden.");
+    } catch (err) { $("#rms").textContent = "Could not reach the library. The request was not sent."; $("#rmgo").disabled = false; }
+  });
+}
+function buildDetail(id, fromQs){
+  const r = RECS.find(x => x.id === id), main = $("#main");
+  if (!r) { main.innerHTML = `<div class="detail"><p class="empty">No cutting with ID ${esc(id)} is in this library. <a href="#/">Return to search</a></p></div>`; return; }
+  const order = orderFromParams(fromQs), idx = order.indexOf(id);
+  const prev = idx > 0 ? order[idx-1] : null, next = idx >= 0 && idx < order.length-1 ? order[idx+1] : null;
+  const nav = tid => "#/c/" + tid + (fromQs ? "?from=" + encodeURIComponent(fromQs) : "");
+  const back = "#/" + (fromQs ? "?" + fromQs : "");
+  const aiCount = Object.values(r.provenance).filter(p => p.origin === "ai").length;
+  const cl = (k,v,extra) => known(v) && v !== "" ? `<div><dt>${k}</dt><dd>${esc(v)}${extra || ""}</dd></div>` : "";
+  const cla = (k,f) => `<div><dt>${k}</dt><dd>${esc(assessedWord(r,f))}${isAI(r,f) ? ' <span class="lab">(AI-suggested)</span>' : ""}</dd></div>`;
+  const provRows = Object.keys(r.provenance).filter(k => r.provenance[k].origin !== "computed" && !["performance_text","introduction_text","source_block_raw"].includes(k)).map(k => { const p = r.provenance[k];
+    return `<tr><th scope="row">${esc(fieldLabel(k))}</th><td>${esc(fmtVal(r[k]))}</td><td>${esc(origin(p.origin))}</td><td>${esc(p.confidence || "")}</td><td>${esc(p.evidence || "")}</td></tr>`; }).join("");
+  const hasPg = PG.test(r.performance_text + r.introduction_text); PG.lastIndex = 0;
+  main.innerHTML = `<article class="detail" aria-labelledby="dt">
+    <div class="print-head"><h1>${esc(r.title)}</h1>${known(r.author) ? `<p>By ${esc(r.author)}</p>` : ""}${known(r.work_title) ? `<p>From ${esc(r.work_title)}${known(r.publisher) ? ", " + esc(r.publisher) : ""}</p>` : ""}</div>
+    <div class="crumbs no-print"><a href="${back}">Return to search</a>
+      <span class="pn">${prev ? `<a class="btn quiet small" href="${nav(prev)}">Previous</a>` : ""}${next ? `<a class="btn quiet small" href="${nav(next)}">Next</a>` : ""}</span></div>
+    <header class="no-print"><h1 id="dt" tabindex="-1">${esc(r.title)}</h1>
+      <p class="byline">${known(r.author) ? "By " + esc(r.author) : "Author not specified"}</p>
+      ${chips(r.tone || [], "soft")}
+      <dl class="facts">
+        ${cl("From", r.work_title)}${cl("Publisher", r.publisher)}${cl("Publication date as stated", r.publication_date_raw)}${cl("ISBN or ISSN", r.isbn)}
+        ${cl("Event as filed", r.event)}${cl("Filed under", r.performer_category_as_filed)}
+        ${cla("Literary form", "literary_form")}${cla("Tone", "tone")}${cla("Content warnings", "content_warnings")}${cla("Difficulty", "difficulty")}
+        ${cla("Performance demands", "performance_demands")}
+        <div><dt>Suggested audience level</dt><dd>${assessed(r,"audience_level") && known(r.audience_level) ? esc(r.audience_level) + ' <span class="lab">(' + (isAI(r,"audience_level") ? "AI-suggested; " : "") + "a suggestion, not a judgement of appropriateness)</span>" : "Not assessed"}</dd></div>
+        <div><dt>Spoken words</dt><dd>${r.word_count} in the performance text; ${r.intro_word_count} in the introduction</dd></div>
+        <div><dt>Labelled speakers</dt><dd>${r.character_count ? r.character_count + " (" + esc(r.speaker_labels.join(", ")) + ")" : "No speaker labels in the text"}</dd></div>
+        <div><dt>Teaser before the introduction</dt><dd>${esc(r.teaser_present)}</dd></div>
+        <div><dt>Source citation in the file</dt><dd>${esc(r.source_citation)}${r.web_only_source === "Yes" ? " (web link only)" : ""}</dd></div>
+        <div><dt>Rights</dt><dd><span class="badge">${esc(r.rights_status)}</span></dd></div>
+      </dl>
+      ${r.human_verified ? `<p class="notice ok">Checked by a reviewer on ${esc(r.date_verified)}.</p>`
+        : `<p class="notice">Not yet checked by a person.${aiCount ? " " + aiCount + " values are AI-suggested; see &ldquo;How this was classified&rdquo; below." : ""}</p>`}
+      <div class="actions"><button class="btn" id="print" type="button">Print or save as PDF</button>
+        <button class="btn quiet" id="copy" type="button">Copy text</button>
+        ${hasPg ? '<label class="toggle"><input type="checkbox" id="pgt"> Show source page references (Pg&nbsp;N)</label>' : ""}
+        <button class="btn danger" id="rmb" type="button">Request removal</button>
+        <span id="copystatus" class="sr" role="status"></span></div>
+    </header>
+    ${r.introduction_text ? `<section class="sheet intro" aria-labelledby="ih"><h2 id="ih">Introduction</h2>
+      ${r.intro_boundary === "Medium" ? '<p class="small no-print">Where the introduction ends was found from the font alone and has not been checked by a person.</p>' : ""}
+      <div class="lines">${renderText(r.introduction_text)}</div></section>` : ""}
+    <section class="sheet" aria-labelledby="ph"><h2 id="ph">Performance text${r.teaser_present === "Yes" ? " (the teaser comes first, before the introduction is performed)" : ""}</h2>
+      <div class="lines">${renderText(r.performance_text)}</div></section>
+    <div class="print-foot">Source file: ${esc(r.source_file)}.${known(r.work_title) ? " From " + esc(r.work_title) + "." : ""}${known(r.publisher) ? " " + esc(r.publisher) + "." : ""}${known(r.isbn) ? " ISBN " + esc(r.isbn) + "." : ""} ${esc(r.attribution_note)}${known(r.copyright_notice) ? " " + esc(r.copyright_notice) : ""}</div>
+    <div class="no-print">
+    <section><h2 class="sec">Source and credits</h2>
+      <p class="small">Shown exactly as given in the file.</p>
+      ${r.source_block_raw ? `<pre class="raw">${esc(r.source_block_raw)}</pre>` : "<p>No source block in the file.</p>"}
+      <p><b>Copyright notice:</b> ${known(r.copyright_notice) ? esc(r.copyright_notice) : "None given in the file."}</p>
+      <p><b>Cutting credited to:</b> ${known(r.cutter) ? esc(r.cutter) : "Not credited in the file."}</p>
+      ${r.award_history_raw ? `<p><b>Award lines printed in the file</b></p><p class="small">As printed. Not checked, and not facts about this piece.</p><pre class="raw">${esc(r.award_history_raw)}</pre>` : ""}
+      <p class="small">${esc(r.attribution_note)} Source file: ${esc(r.source_file)}.</p>
+    </section>
+    ${(r.also_appears_in||[]).length ? `<section><h2 class="sec">Also appears in</h2><p class="small">These files contain the same text. The cutting is listed once.</p><ul class="simlist">${r.also_appears_in.map(f => `<li>${esc(f)}</li>`).join("")}</ul></section>` : ""}
+    ${(r.same_book||[]).length ? `<section><h2 class="sec">From the same book</h2><p class="small">Different pieces cut from the same published book. Not duplicates.</p><ul class="simlist">${r.same_book.map(x => `<li><a href="${nav(x.id)}">${esc(x.title)}</a><br><span>${known(x.author) ? "By " + esc(x.author) : ""}</span></li>`).join("")}</ul></section>` : ""}
+    ${(r.similar_versions||[]).length ? `<section><h2 class="sec">Other cuts of this piece</h2><p class="small">Nearly the same text, not identical.</p><ul class="simlist">${r.similar_versions.map(x => `<li><a href="${nav(x.id)}">${esc(x.title)}</a></li>`).join("")}</ul></section>` : ""}
+    <details><summary>How this was classified</summary><p>Every value shows where it came from. AI-suggested values include a confidence and the evidence used.</p>
+      <table class="prov"><thead><tr><th>Field</th><th>Value</th><th>Origin</th><th>Confidence</th><th>Evidence</th></tr></thead><tbody>${provRows}</tbody></table></details>
+    ${(r.ingest_notes||[]).length ? `<details><summary>Extraction notes</summary><ul>${r.ingest_notes.map(n => `<li>${esc(n)}</li>`).join("")}</ul></details>` : ""}
+    </div></article>`;
+  $("#print").onclick = () => window.print();
+  $("#copy").onclick = e => copyText(r, e.currentTarget);
+  $("#rmb").onclick = () => removalDialog(r);
+  if ($("#pgt")) { $("#pgt").checked = !document.body.classList.contains("hide-pg");
+    $("#pgt").onchange = e => { document.body.classList.toggle("hide-pg", !e.target.checked); try { localStorage.setItem("il-pg", e.target.checked ? "1" : "0"); } catch(_){} }; }
+  $("#dt").focus();
+}
+
+/* ---------------- router ---------------- */
+try { if (localStorage.getItem("il-pg") === "1") document.body.classList.remove("hide-pg"); } catch(e){}
+let listBuilt = false;
+function onRoute(){
+  if (muteHash) { muteHash = false; return; }
+  const {path, params} = route();
+  const m = path.match(/^\/c\/(IC-\d+)$/);
+  if (m && LIB.redirects && LIB.redirects[m[1]] && !RECS.find(x => x.id === m[1])) {      // a folded exact duplicate: show the record that stands for it
+    location.replace("#/c/" + LIB.redirects[m[1]] + (params.get("from") ? "?from=" + encodeURIComponent(params.get("from")) : "")); return;
+  }
+  if (m) { listBuilt = false; buildDetail(m[1], params.get("from") || ""); window.scrollTo(0,0); return; }
+  paramsToState(params);
+  if (!listBuilt || !$("#sform")) { buildList(); listBuilt = true; }
+  syncControls(); update();
+}
+window.addEventListener("hashchange", onRoute);
+window.__IL = {parseQuery, run, get state(){ return state; }, set state(s){ state = s; }};   // for automated tests only
+onRoute();
+})();
+</script>
+</body>
+</html>

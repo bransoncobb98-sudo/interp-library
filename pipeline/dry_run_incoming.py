@@ -58,8 +58,8 @@ def work(job):
     out = {"path": path, "sha1": sha, "code_version": ver, "event": info["event"], "filing_label": info["filing_label"]}
     try:
         parsed = L.parse_pdf(path)
-        out.update(layout=parsed["layout"], pages=parsed.get("pages"), column_gap_share=parsed.get("column_gap_share"),
-                   notes=parsed.get("notes", []))
+        out.update(layout=parsed["layout"], pages=parsed.get("pages"), two_column_pages=len(parsed.get("two_column_pages") or []),
+                   order=parsed.get("reading_order_agreement"), notes=parsed.get("notes", []))
         if parsed["layout"] not in [n for n, _, _ in L.PARSERS]:
             out["status"] = "refused: " + parsed["layout"]
         else:
@@ -72,7 +72,7 @@ def work(job):
                 keep = ("title", "author", "work_title", "publisher", "isbn", "publication_date_raw", "copyright_notice", "cutter",
                         "intro_boundary", "intro_boundary_method", "teaser_present", "word_count", "intro_word_count",
                         "character_count", "speaker_labels", "text_layout", "source_citation", "text_hash", "ingest_notes",
-                        "introduction_text", "performance_text", "source_block_raw")
+                        "introduction_text", "performance_text", "source_block_raw", "text_raw")
                 out["record"] = {k: rec[k] for k in keep}
                 out["qc"] = Q.scan_record(rec)
                 out["status"] = "parsed"
@@ -92,7 +92,8 @@ def main():
                     help="also parse files already in the library (to check the parsers and the two-column threshold on them)")
     a = ap.parse_args()
     root = I.ROOT / a.folder
-    files = sorted(str(p.relative_to(I.ROOT)) for p in root.rglob("*") if p.is_file() and p.suffix.lower() == ".pdf")
+    files = sorted(str(p.relative_to(I.ROOT)) for p in root.rglob("*")
+                   if p.is_file() and p.suffix.lower() == ".pdf" and not p.name.startswith("._"))   # ._ files are macOS metadata, not PDFs
     reg = I.load_json(I.DATA / "source_files.json", []) or []
     lib_sha = {e["sha1"]: e.get("record") or e.get("identical_copy_of") for e in reg}
     db = I.load_db()                                   # read only
@@ -128,7 +129,7 @@ def main():
             r["status"] = "parsed; same text as " + seen_hash[h]
         else:
             seen_hash[h] = r["path"]
-    report(rows, ver)
+    report(rows, ver, {r["source_file_sha1"]: r for r in db["records"]})
 
 
 def kind(status):
@@ -137,17 +138,17 @@ def kind(status):
     return status.split(" as ")[0].split(" of ")[0].split(":")[0] if not status.startswith("parsed;") else "parsed, duplicate text"
 
 
-def report(rows, ver):
+def report(rows, ver, lib_by_sha):
     OUT.mkdir(parents=True, exist_ok=True)
     rows.sort(key=lambda r: r["path"])
-    cols = ["path", "event", "filing_label", "status", "layout", "pages", "column_gap_share", "intro_boundary", "words",
+    cols = ["path", "event", "filing_label", "status", "layout", "pages", "two_column_pages", "order", "intro_boundary", "words",
             "intro_words", "teaser", "speakers", "title", "author", "work_title", "publisher", "qc", "notes"]
     with open(OUT / "files.tsv", "w", encoding="utf-8") as f:
         f.write("\t".join(cols) + "\n")
         for r in rows:
             rec = r.get("record") or {}
             vals = [r["path"], r["event"], r["filing_label"], r["status"], r.get("layout", ""), r.get("pages", ""),
-                    r.get("column_gap_share", ""), rec.get("intro_boundary", ""), rec.get("word_count", ""),
+                    r.get("two_column_pages", ""), r.get("order", ""), rec.get("intro_boundary", ""), rec.get("word_count", ""),
                     rec.get("intro_word_count", ""), rec.get("teaser_present", ""), rec.get("character_count", ""),
                     rec.get("title", ""), rec.get("author", ""), rec.get("work_title", ""), rec.get("publisher", ""),
                     "; ".join(sorted({k for k, _ in r.get("qc", [])})), " | ".join(r.get("notes", []) + rec.get("ingest_notes", []))]
@@ -169,21 +170,44 @@ def report(rows, ver):
                       ("source citation", lambda r: r["record"]["source_citation"])):
         for v, n in collections.Counter(fn(r) for r in parsed).most_common():
             md.append("| %s: %s | %d |" % (label, v, n))
-    md += ["", "## Two-column measure (share of multi-word lines with a mid-page gap)", "",
-           "Files above %.2f are refused as two-column. A clean split between the groups means the threshold is safe." % 0.25, "",
-           "| Share | Parsed | Refused as two-column |", "|---|---|---|"]
-    for lo in [x / 20 for x in range(20)]:
-        p = sum(1 for r in parsed if lo <= (r.get("column_gap_share") or 0) < lo + 0.05)
-        q = sum(1 for r in rows if r["status"].startswith("refused: two_column") and lo <= r["column_gap_share"] < lo + 0.05)
-        if p or q:
-            md.append("| %.2f to %.2f | %d | %d |" % (lo, lo + 0.05, p, q))
+    md += ["", "## Reading order check", "",
+           "Share of 5-word runs in the extracted introduction and performance text that also appear in pdftotext's own",
+           "reading-order output. Files below %.2f are refused. Column mistakes keep every word but scramble the order." % 0.85, "",
+           "| Agreement | Parsed, one column | Parsed, some pages read as two columns | Refused |", "|---|---|---|---|"]
+    for lo in (0, 0.5, 0.7, 0.8, 0.85, 0.9, 0.95, 0.98):
+        hi = {0: 0.5, 0.5: 0.7, 0.7: 0.8, 0.8: 0.85, 0.85: 0.9, 0.9: 0.95, 0.95: 0.98, 0.98: 1.01}[lo]
+        inr = lambda r: r.get("order") is not None and lo <= r["order"] < hi                        # noqa: E731
+        md.append("| %.2f to %.2f | %d | %d | %d |" % (lo, min(hi, 1), sum(1 for r in parsed if inr(r) and not r.get("two_column_pages")),
+                  sum(1 for r in parsed if inr(r) and r.get("two_column_pages")),
+                  sum(1 for r in rows if r["status"].startswith("refused: reading order") and inr(r))))
+    md.append("| not measured | %d | %d | |" % (sum(1 for r in parsed if r.get("order") is None and not r.get("two_column_pages")),
+                                              sum(1 for r in parsed if r.get("order") is None and r.get("two_column_pages"))))
+    # regression: files already in the library must parse exactly as before
+    md += ["", "## Files already in the library, parsed again", ""]
+    diffs, same = [], 0
+    for r in rows:
+        old = lib_by_sha.get(r["sha1"])
+        if not old:
+            continue
+        if not r["status"].startswith("parsed"):
+            diffs.append("- `%s` (%s): now %s" % (r["path"], old["id"], r["status"]))
+            continue
+        rec = r["record"]
+        changed = [k for k in ("title", "author", "work_title", "publisher", "introduction_text", "source_block_raw", "text_raw")
+                   if rec[k] != old[k]]
+        if changed:
+            diffs.append("- `%s` (%s): differs in %s" % (r["path"], old["id"], ", ".join(changed)))
+        else:
+            same += 1
+    md += ["%d identical to the stored record (title, author, work, publisher, introduction, source block, raw text)." % same, ""] + diffs
     qc = collections.Counter(k for r in parsed for k, _ in r.get("qc", []))
     md += ["", "## QC findings in parsed files", "", "| Kind | Findings |", "|---|---|"] + ["| %s | %d |" % kv for kv in qc.most_common()]
     md += ["", "### First QC findings of each kind", ""]
     for k in qc:
         ex = [(r["path"], m) for r in parsed for kk, m in r.get("qc", []) if kk == k][:6]
         md += ["**%s**" % k, ""] + ["- `%s`: %s" % (p, m[:220]) for p, m in ex] + [""]
-    bad = [r for r in rows if r["status"] in ("conservation failed", "error") or r["status"].startswith("refused")]
+    bad = sorted((r for r in rows if r["status"] in ("conservation failed", "error") or r["status"].startswith("refused")),
+                 key=lambda r: (r["status"] != "error", r["status"], r["path"]))      # errors first
     md += ["## Not parsed (%d)" % len(bad), "", "| File | Status | Detail |", "|---|---|---|"]
     for r in bad[:400]:
         det = r.get("error", "").strip().splitlines()[-1:] or [json.dumps(r.get("conservation", "")) if r["status"] == "conservation failed" else " ".join(r.get("notes", []))]

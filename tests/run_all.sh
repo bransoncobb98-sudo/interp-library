@@ -5,7 +5,7 @@
 set -u
 cd "$(dirname "$0")/.."
 STEPS=("pipeline/build.py" "tests/verify_ingest.py" "pipeline/qc_scan.py" "pipeline/repairs.py"
-       "tests/test_build_site.py" "tests/test_classify.py" "tests/test_incremental_ingest.py" "pipeline/classify.py --queue")
+       "tests/test_columns.py" "tests/test_build_site.py" "tests/test_classify.py" "tests/test_incremental_ingest.py" "pipeline/classify.py --queue")
 {
   echo "== $(date -u '+%F %T') UTC | $(python3 --version 2>&1) | pdfplumber $(python3 -c 'import pdfplumber; print(pdfplumber.__version__)' 2>&1) | $(pdftotext -v 2>&1 | head -1)"
   status=0

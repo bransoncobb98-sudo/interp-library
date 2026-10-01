@@ -17,8 +17,9 @@ Each parser returns the same dictionary shape (see parse_pdf) in which EVERY
 text line of the PDF is placed in exactly one bucket.  ingest.py verifies this
 with a word-conservation test, so nothing can silently disappear or leak.
 """
-import re
+import bisect
 import collections
+import re
 import pdfplumber
 
 FOOTER_RE = re.compile(r"^(Page\s+)?\d+\s+of\s+\d+$", re.I)
@@ -48,68 +49,170 @@ def words(text):
 
 # ------------------------------------------------------------------ lines --
 class Line:
-    __slots__ = ("text", "x0", "x1", "top", "bottom", "page", "font", "size", "bold_lead", "italic")
+    __slots__ = ("text", "x0", "x1", "top", "bottom", "page", "col", "font", "size", "bold_lead", "italic")
 
     def __repr__(self):
         return "Line(p%d %r %s)" % (self.page, self.text[:40], self.font)
 
 
-def column_gap_lines(page):
-    """Count text lines with a wide gap that straddles the middle of the page (a sign of two columns).
-    Returns (lines with such a gap, lines with two or more words)."""
+
+
+class ColumnError(Exception):
+    """A page looks two-column but cannot be split without losing or cutting characters."""
+
+
+def _row_segments(chars):
+    """Group characters into text rows; return [(top, bottom, [(x0, x1), ...] merged spans)]."""
     rows = collections.defaultdict(list)
-    for w in page.extract_words(use_text_flow=False, keep_blank_chars=False):
-        rows[round(w["top"] / 3)].append(w)
-    mid, width, hits, multi = page.width / 2, page.width, 0, 0
-    for ws in rows.values():
-        if len(ws) < 2:
+    for c in chars:
+        rows[round(c["top"] / 3)].append(c)
+    out = []
+    for cs in rows.values():
+        spans = []
+        for c in sorted(cs, key=lambda c: c["x0"]):
+            if spans and c["x0"] - spans[-1][1] < 3:
+                spans[-1][1] = max(spans[-1][1], c["x1"])
+            else:
+                spans.append([c["x0"], c["x1"]])
+        out.append((min(c["top"] for c in cs), max(c["bottom"] for c in cs), spans))
+    return sorted(out)
+
+
+def find_gutter(page):
+    """Return the x position of a column gutter, or None for a one-column page.  A gutter is an x position in
+    the middle 30% of the page that almost no text row comes within 3 points of (at most 2 rows or 5%, such as
+    a full-width title or footer), with at least 20% of the page's characters on each side.  The two columns'
+    lines need not line up.  Of the widest such band, the middle is returned."""
+    chars = [c for c in page.chars if c["text"].strip()]
+    rows = _row_segments(chars)
+    if len(chars) < 150 or len(rows) < 8:
+        return None
+    left, _, right, _ = page.bbox
+    w = float(right - left)
+    allowed = max(2, 0.05 * len(rows))
+    xs0 = sorted(c["x0"] for c in chars)
+    xs1 = sorted(c["x1"] for c in chars)
+    ok = []
+    for x in range(int(left + w * 0.35), int(left + w * 0.65) + 1):
+        cross = sum(1 for _, _, spans in rows if any(a - 3 < x < b + 3 for a, b in spans))
+        n_left = bisect.bisect_right(xs1, x)
+        n_right = len(xs0) - bisect.bisect_left(xs0, x)
+        ok.append(cross <= allowed and min(n_left, n_right) >= 0.2 * len(chars))
+    best, run, start = (0, None), 0, None
+    for i, good in enumerate(ok + [False]):
+        if good:
+            start = i if run == 0 else start
+            run += 1
+        else:
+            if run > best[0]:
+                best = (run, start + run // 2)
+            run = 0
+    return int(left + w * 0.35) + best[1] if best[1] is not None and best[0] >= 6 else None
+
+
+def _crops(page, gx):
+    """Split a page into regions in reading order: runs of two-column rows become (left, right) crops and
+    rows that cross the gutter (titles, footers) become full-width crops.  Every character must land in
+    exactly one crop, or ColumnError is raised."""
+    chars = [c for c in page.chars if c["text"].strip()]
+    rows = _row_segments(chars)
+    kinds = ["full" if any(a - 3 < gx < b + 3 for a, b in spans) else "cols" for _, _, spans in rows]
+    runs = []
+    for (top, bottom, _), k in zip(rows, kinds):
+        if runs and runs[-1][0] == k:
+            runs[-1][2] = max(runs[-1][2], bottom)
+        else:
+            runs.append([k, top, bottom])
+    px0, py0, px1, py1 = page.bbox
+    regions = []
+    for i, (k, top, bottom) in enumerate(runs):
+        y0 = py0 if i == 0 else (runs[i - 1][2] + top) / 2
+        y1 = py1 if i == len(runs) - 1 else (bottom + runs[i + 1][1]) / 2
+        if k == "full":
+            regions.append((0, page.within_bbox((px0, y0, px1, y1))))
+        else:
+            regions.append((0, page.within_bbox((px0, y0, gx, y1))))
+            regions.append((1, page.within_bbox((gx, y0, px1, y1))))
+    got = sum(1 for _, r in regions for c in r.chars if c["text"].strip())
+    if got != len(chars):
+        raise ColumnError("page %s: %d characters on the page but %d in the column regions" % (page.page_number, len(chars), got))
+    return regions
+
+
+def _make_lines(region, pn, col):
+    out = []
+    for raw in region.extract_text_lines(layout=False, strip=True, return_chars=True):
+        text = raw["text"].strip()
+        if not text:
             continue
-        multi += 1
-        ws.sort(key=lambda w: w["x0"])
-        if any(b["x0"] - a["x1"] >= 18 and a["x1"] < mid + 0.12 * width and b["x0"] > mid - 0.12 * width
-               for a, b in zip(ws, ws[1:])):
-            hits += 1
-    return hits, multi
-
-
-TWO_COLUMN_SHARE = 0.25          # share of multi-word lines with a mid-page gap above which a file is treated as two-column
+        chars = [c for c in raw["chars"] if c["text"].strip()]
+        if not chars:
+            continue
+        fonts = collections.Counter((c["fontname"].split("+")[-1], round(c["size"])) for c in chars)
+        (fname, fsize), _ = fonts.most_common(1)[0]
+        ln = Line()
+        ln.text, ln.page, ln.col = text, pn, col
+        ln.x0, ln.x1, ln.top, ln.bottom = raw["x0"], raw["x1"], raw["top"], raw["bottom"]
+        ln.font, ln.size = fname, fsize
+        lead = ""
+        for c in sorted(chars, key=lambda c: c["x0"]):
+            if "Bold" in c["fontname"] or "Black" in c["fontname"]:
+                lead += c["text"]
+            else:
+                break
+        ln.bold_lead = lead
+        ln.italic = sum(1 for c in chars if "Italic" in c["fontname"]) / len(chars) > 0.6
+        out.append(ln)
+    return out
 
 
 def read_lines(pdf_path, stats=None):
-    """Return (lines, n_pages) for every non-empty text line in the PDF.  If a dict is given as stats,
-    stats["column_gap_share"] is set to the share of multi-word lines with a mid-page gap."""
-    lines = []
-    gap_hits = gap_multi = 0
+    """Return (lines, n_pages) for every non-empty text line in the PDF, in reading order.
+    Two-column pages are read left column then right column (see find_gutter); right-column lines are
+    shifted left so indentation reads the same in both columns, and carry col = 1.
+    If a dict is given as stats, stats["two_column_pages"] lists the page numbers read as two columns."""
+    lines, two = [], []
     with pdfplumber.open(pdf_path) as pdf:
         n = len(pdf.pages)
         for pn, page in enumerate(pdf.pages, 1):
-            h, m = column_gap_lines(page)
-            gap_hits, gap_multi = gap_hits + h, gap_multi + m
-            for raw in page.extract_text_lines(layout=False, strip=True, return_chars=True):
-                text = raw["text"].strip()
-                if not text:
-                    continue
-                chars = [c for c in raw["chars"] if c["text"].strip()]
-                if not chars:
-                    continue
-                fonts = collections.Counter((c["fontname"].split("+")[-1], round(c["size"])) for c in chars)
-                (fname, fsize), _ = fonts.most_common(1)[0]
-                ln = Line()
-                ln.text, ln.page = text, pn
-                ln.x0, ln.x1, ln.top, ln.bottom = raw["x0"], raw["x1"], raw["top"], raw["bottom"]
-                ln.font, ln.size = fname, fsize
-                lead = ""
-                for c in sorted(chars, key=lambda c: c["x0"]):
-                    if "Bold" in c["fontname"] or "Black" in c["fontname"]:
-                        lead += c["text"]
-                    else:
-                        break
-                ln.bold_lead = lead
-                ln.italic = sum(1 for c in chars if "Italic" in c["fontname"]) / len(chars) > 0.6
-                lines.append(ln)
+            gx = find_gutter(page)
+            if gx is None:
+                lines += _make_lines(page, pn, 0)
+                continue
+            two.append(pn)
+            page_lines = []
+            for col, region in _crops(page, gx):
+                page_lines += _make_lines(region, pn, col)
+            left = [l.x0 for l in page_lines if l.col == 0]
+            right = [l.x0 for l in page_lines if l.col == 1]
+            if left and right:
+                shift = min(right) - min(left)
+                for l in page_lines:
+                    if l.col == 1:
+                        l.x0, l.x1 = l.x0 - shift, l.x1 - shift
+            lines += page_lines
     if stats is not None:
-        stats["column_gap_share"] = gap_hits / gap_multi if gap_multi else 0.0
+        stats["two_column_pages"] = two
     return lines, n
+
+
+def reading_order_agreement(pdf_path, text, n=5):
+    """Share of the n-word runs in text that also occur in pdftotext's own reading-order output of the file
+    (an independent extractor that orders columns itself).  Scrambled column text scores low.  Returns None
+    if pdftotext is not installed or the text is too short."""
+    import subprocess
+    try:
+        ref = subprocess.run(["pdftotext", str(pdf_path), "-"], capture_output=True, text=True, timeout=60).stdout
+    except (OSError, subprocess.TimeoutExpired):
+        return None
+    # words written in capitals (speaker names, shouted words) are dropped from both sides: some files set
+    # speaker names in a margin column that pdftotext reads as a separate block
+    caps = {w.lower() for w in re.findall(r"\b[A-Z][A-Z'’]+\b", text)}
+    norm = lambda s: [w for w in re.findall(r"[a-z0-9]+", s.lower().replace("’", "'")) if w not in caps]     # noqa: E731
+    a, b = norm(text), norm(ref)
+    grams = lambda w: {" ".join(w[i:i + n]) for i in range(len(w) - n + 1)}   # noqa: E731
+    ga, gb = grams(a), grams(b)
+    return round(len(ga & gb) / len(ga), 3) if len(ga) >= 20 else None
 
 
 def is_heading(ln, name=None):
@@ -143,13 +246,13 @@ def lines_to_text(lines, notes=None):
     base = max(base, 0)
     width = max(l.x1 for l in lines) - base or 1
     hanging = sum(1 for l in lines if l.x0 > base + 8) / len(lines) > 0.5
-    gaps = [b.top - a.bottom for a, b in zip(lines, lines[1:]) if a.page == b.page and b.top > a.bottom - 1]
+    gaps = [b.top - a.bottom for a, b in zip(lines, lines[1:]) if (a.page, a.col) == (b.page, b.col) and b.top > a.bottom - 1]
     typical = sorted(gaps)[len(gaps) // 2] if gaps else 2.0
     paras, cur = [], [lines[0]]
     for prev, ln in zip(lines, lines[1:]):
-        if ln.page == prev.page:
+        if (ln.page, ln.col) == (prev.page, prev.col):
             gap = ln.top - prev.bottom
-        else:                                   # page break: new paragraph only if the sentence ended
+        else:                                   # page or column break: new paragraph only if the sentence ended
             gap = 99 if prev.text.rstrip().endswith(('.', '!', '?', '"', '”', ')', ']', '…')) else 0
         start = False
         if has_labels:
@@ -433,19 +536,28 @@ def conservation(result):
                 "performance_is_teaser_plus_body": perf_ok}
 
 
+ORDER_MIN = 0.85                # least share of 5-word runs that must match pdftotext's own reading order
+
+
 def parse_pdf(path, force=None):
     stats = {}
-    lines, n = read_lines(path, stats)
-    share = round(stats["column_gap_share"], 3)
-    if share > TWO_COLUMN_SHARE and force is None:
-        # the line reader would run straight across both columns and scramble the text, which the
-        # word-conservation check cannot see, so refuse rather than parse
-        return {"layout": "two_column (no parser yet)", "pages": n, "all_lines": lines, "column_gap_share": share,
-                "notes": ["%.0f%% of lines have a gap across the middle of the page: two columns." % (100 * share)]}
+    try:
+        lines, n = read_lines(path, stats)
+    except ColumnError as e:
+        return {"layout": "two_column (could not split cleanly)", "pages": None, "all_lines": [], "two_column_pages": [],
+                "notes": [str(e)]}
+    two = stats["two_column_pages"]
     for name, det, par in PARSERS:
         if (force and name == force) or (not force and det(lines)):
             r = par(lines, n)
-            r["all_lines"] = lines
-            r["column_gap_share"] = share
+            r["all_lines"], r["two_column_pages"] = lines, two
+            # independent check of reading order: column mistakes keep every word (so conservation passes)
+            # but put them in the wrong order
+            agree = reading_order_agreement(path, " ".join(l.text for l in r["intro_lines"] + r["performance_lines"]))
+            r["reading_order_agreement"] = agree
+            if agree is not None and agree < ORDER_MIN:
+                return {"layout": "reading order disagrees with pdftotext", "pages": n, "all_lines": lines,
+                        "two_column_pages": two, "reading_order_agreement": agree,
+                        "notes": ["Only %.0f%% of 5-word runs match pdftotext's reading order (%s parser)." % (100 * agree, name)]}
             return r
-    return {"layout": "unrecognised", "pages": n, "all_lines": lines, "column_gap_share": share, "notes": ["No parser matched this layout."]}
+    return {"layout": "unrecognised", "pages": n, "all_lines": lines, "two_column_pages": two, "notes": ["No parser matched this layout."]}

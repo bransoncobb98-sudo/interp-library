@@ -193,7 +193,10 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
     next_num = int(I.next_id(db).split("-")[1])
     new, entries, failures, skipped = [], [], [], []
     for p in sorted(paths, key=file_order):
-        name, sha = os.path.basename(p), I.sha1_file(p)
+        name = os.path.basename(p)
+        if name.startswith("._"):
+            continue                                     # macOS metadata file, not a PDF
+        sha = I.sha1_file(p)
         if name in name_to_sha:
             if name_to_sha[name] == sha:
                 skipped.append(name)                     # the same file again: nothing to do

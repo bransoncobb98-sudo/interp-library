@@ -1,4 +1,4 @@
-== 2026-10-01 23:48:12 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
+== 2026-10-02 00:30:56 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
 
 ===== python3 pipeline/build.py
 Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
@@ -40,10 +40,10 @@ DECLINED, KEPT AS PRINTED  Zooman and the Sign - DI.pdf: 'LESTER TOHNSON' -> 'LE
 ===== python3 tests/test_columns.py
 PASS  the 45 library records parse exactly as stored (title, author, work, publisher, ISBN, introduction, raw text, source block, boundary)
 info: original files with pages read as two columns (expected: none, or only a two-column source block): none
-FAIL  pdftotext -layout shows the test file in two columns
+PASS  pdftotext -layout shows the test file in two columns (right-column text set beside the left column)
 PASS  Burned Alive parses as di_cutting  di_cutting 
 PASS  page 1 is read as two columns  [1, 2, 3, 4, 5, 6]
-FAIL  reading order agrees with pdftotext  0.879
+PASS  reading order agrees with pdftotext  0.998
 PASS  title and author come from the left column  ('Burned Alive', 'Souad')
 PASS  introduction starts in the left column and continues into the right  Honor killings. Almost always, the victim is a woman; the killer a male family member. The woman’s offense is invariably
 PASS  introduction ends with the title-by-author line  rs; Souad was one of the “lucky” ones. This is her story. Burned Alive by Souad.
@@ -51,8 +51,7 @@ PASS  the teaser comes first in the performance text  (Pg 1) I am a girl. A girl
 PASS  left-column teaser is followed by the right-column text, not interleaved  (467, 485)
 PASS  no right-column words leaked into the teaser
 
-2 check(s) failed
-!!!!! FAILED: tests/test_columns.py
+all checks passed
 
 ===== python3 tests/test_build_site.py
 PASS  build succeeds  Built 45 record(s): 43 shown on the site -> site/index.html; exports in exports/
@@ -117,9 +116,9 @@ PASS  a record's performance text appears in its batch unaltered
 PASS  --dry-run applies nothing  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
 dry run: nothing written
 PASS  the example applies all 8 values with origin ai, confidence and evidence  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
-saved; reply archived as data/classifications/20261001-234904-EXAMPLE-IC-0014.json
+saved; reply archived as data/classifications/20261002-003138-EXAMPLE-IC-0014.json
 PASS  ... source values are untouched
-PASS  ... the reply and a report are archived in data/classifications/  ['20261001-234904-EXAMPLE-IC-0014.json', '20261001-234904-EXAMPLE-IC-0014.report.json']
+PASS  ... the reply and a report are archived in data/classifications/  ['20261002-003138-EXAMPLE-IC-0014.json', '20261002-003138-EXAMPLE-IC-0014.report.json']
 PASS  ... record no longer queued
 PASS  an invalid taxonomy value is rejected  IC-0001.audience_level: needs content_warnings assessed for the same record | IC-0001.author: not a field the AI may supply | IC-0001.difficulty: confidence must be high, medium or low | IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead | IC-0001.subject_matter: evidence is required | IC-0001.tone: not allowed values: ['Gloomy'] | IC-0002.content_warnings: evidence quotes the introduction or source block, not the performance text: "*as a translator, it's luiselli's task"
 PASS  a bad confidence is rejected
@@ -158,7 +157,7 @@ PASS  ... the register gains one entry pointing at the existing record  {'file':
 PASS  ... no other record changed
 PASS  a re-saved copy with the same text is parsed into one new record  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
   IC-0046 Fontaine resaved.pdf: Exact Duplicate of IC-0020
-wrote 1 new record(s) to /tmp/ilib-test-yefiaeoy/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-ayqs0eq4/data/cuttings.json
 PASS  ... it is marked Exact Duplicate of the existing record  ('Exact Duplicate', ['IC-0020'])
 PASS  ... the existing record lists the new file in also_appears_in
 PASS  ... the new record's ID follows the last ID  IC-0046
@@ -173,4 +172,4 @@ all checks passed
 ===== python3 pipeline/classify.py --queue
 45 record(s) queued in 2 batch file(s): batch-001.md, batch-002.md
 
-== OVERALL: SOME STEPS FAILED (search for !!!!! above)
+== OVERALL: ALL STEPS PASSED

@@ -1,4 +1,4 @@
-== 2026-10-02 16:35:58 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
+== 2026-10-02 18:06:13 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
 
 ===== python3 pipeline/build.py
 Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
@@ -60,10 +60,10 @@ all checks passed
 PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
 
 PASS  the program file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-wrote 1 new record(s) to /tmp/ilib-test-75d2c58c/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-7lhb6st9/data/cuttings.json
 
 PASS  the one-piece, two-source file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-wrote 1 new record(s) to /tmp/ilib-test-75d2c58c/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-7lhb6st9/data/cuttings.json
 
 PASS  program: one record of type Program  Program
 PASS  program: three selections, in order  [1, 2, 3]
@@ -184,9 +184,9 @@ PASS  a record's performance text appears in its batch unaltered
 PASS  --dry-run applies nothing  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
 dry run: nothing written
 PASS  the example applies all 8 values with origin ai, confidence and evidence  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
-saved; reply archived as data/classifications/20261002-163657-EXAMPLE-IC-0014.json
+saved; reply archived as data/classifications/20261002-180710-EXAMPLE-IC-0014.json
 PASS  ... source values are untouched
-PASS  ... the reply and a report are archived in data/classifications/  ['20261002-163657-EXAMPLE-IC-0014.json', '20261002-163657-EXAMPLE-IC-0014.report.json']
+PASS  ... the reply and a report are archived in data/classifications/  ['20261002-180710-EXAMPLE-IC-0014.json', '20261002-180710-EXAMPLE-IC-0014.report.json']
 PASS  ... record no longer queued
 PASS  an invalid taxonomy value is rejected  IC-0001.audience_level: needs content_warnings assessed for the same record | IC-0001.author: not a field the AI may supply | IC-0001.difficulty: confidence must be high, medium or low | IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead | IC-0001.subject_matter: evidence is required | IC-0001.tone: not allowed values: ['Gloomy'] | IC-0002.content_warnings: evidence quotes the introduction or source block, not the performance text: "*as a translator, it's luiselli's task"
 PASS  a bad confidence is rejected
@@ -225,7 +225,7 @@ PASS  ... the register gains one entry pointing at the existing record  {'file':
 PASS  ... no other record changed
 PASS  a re-saved copy with the same text is parsed into one new record  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
   IC-0046 Fontaine resaved.pdf: Exact Duplicate of IC-0020
-wrote 1 new record(s) to /tmp/ilib-test-e_sjogdj/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-n5yn8zsp/data/cuttings.json
 PASS  ... it is marked Exact Duplicate of the existing record  ('Exact Duplicate', ['IC-0020'])
 PASS  ... the existing record lists the new file in also_appears_in
 PASS  ... the new record's ID follows the last ID  IC-0046

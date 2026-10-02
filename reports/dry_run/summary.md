@@ -1,55 +1,55 @@
 # Dry run over incoming/
 
-Nothing was written to the database. Parser code version 31a645d0862c.
+Nothing was written to the database. Parser code version 815d4a400fa0.
 
 ## Files by folder
 
-| Folder | Files | byte-identical copy | excluded by decision | parsed | parsed, duplicate text | refused: di_cutting: sections not in the expected order | refused: mcp: sections not in the expected order | refused: reading order disagrees with pdftotext | refused: two_column (could not split cleanly) | refused: unrecognised |
-|---|---|---|---|---|---|---|---|---|---|---|
-| incoming/DI | 19 | 9 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| incoming/DI/Any Gender DI | 46 | 1 | 0 | 1 | 44 | 0 | 0 | 0 | 0 | 0 |
-| incoming/DI/Female DIs | 252 | 8 | 0 | 241 | 0 | 0 | 2 | 0 | 0 | 1 |
-| incoming/DI/Male DIs | 179 | 1 | 0 | 172 | 0 | 0 | 4 | 0 | 0 | 2 |
-| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 75 | 1 | 0 | 1 | 0 | 0 | 3 |
-| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 5 | 136 | 7 | 0 | 3 | 0 | 0 | 1 |
-| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 245 | 12 | 0 | 8 | 0 | 1 | 3 |
-| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 91 | 11 | 0 | 9 | 0 | 0 | 1 |
-| incoming/HI | 46 | 22 | 3 | 7 | 0 | 0 | 13 | 1 | 0 | 0 |
-| incoming/HI/Any Gender HI | 141 | 0 | 0 | 126 | 15 | 0 | 0 | 0 | 0 | 0 |
-| incoming/HI/Female HIs | 74 | 2 | 0 | 63 | 9 | 0 | 0 | 0 | 0 | 0 |
-| incoming/HI/Male HIs | 138 | 2 | 0 | 126 | 8 | 0 | 0 | 0 | 0 | 2 |
-| incoming/Needs to be classified (zip) | 195 | 13 | 8 | 43 | 0 | 0 | 18 | 0 | 17 | 96 |
-| incoming/POI Program Starter | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| incoming/Poetry/Any Gender Poetry | 260 | 2 | 0 | 247 | 3 | 1 | 0 | 0 | 0 | 7 |
-| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 117 | 3 | 0 | 0 | 0 | 0 | 2 |
-| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 65 | 2 | 0 | 0 | 0 | 0 | 3 |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 14 | 0 | 0 | 2 | 0 | 0 | 1 |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 17 | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 155 | 48 | 0 | 0 | 0 | 0 | 14 |
-| incoming/Prose/Prose- Female | 188 | 0 | 0 | 141 | 38 | 0 | 0 | 0 | 0 | 9 |
-| incoming/Prose/Prose- Male | 167 | 3 | 0 | 103 | 41 | 1 | 0 | 0 | 0 | 19 |
-| **Total** | 2785 | 103 | 16 | 2179 | 242 | 2 | 60 | 1 | 18 | 164 |
+| Folder | Files | byte-identical copy | excluded by decision | parsed | parsed, duplicate text | refused: di_cutting: sections not in the expected order | refused: mcp: sections not in the expected order | refused: two_column (could not split cleanly) | refused: unrecognised |
+|---|---|---|---|---|---|---|---|---|---|
+| incoming/DI | 19 | 9 | 0 | 10 | 0 | 0 | 0 | 0 | 0 |
+| incoming/DI/Any Gender DI | 46 | 1 | 0 | 1 | 44 | 0 | 0 | 0 | 0 |
+| incoming/DI/Female DIs | 252 | 8 | 0 | 243 | 0 | 0 | 0 | 0 | 1 |
+| incoming/DI/Male DIs | 179 | 1 | 0 | 175 | 0 | 0 | 1 | 0 | 2 |
+| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 75 | 1 | 0 | 1 | 0 | 3 |
+| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 5 | 139 | 7 | 0 | 0 | 0 | 1 |
+| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 253 | 12 | 0 | 0 | 1 | 3 |
+| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 99 | 11 | 0 | 1 | 0 | 1 |
+| incoming/HI | 46 | 22 | 3 | 15 | 0 | 0 | 6 | 0 | 0 |
+| incoming/HI/Any Gender HI | 141 | 0 | 0 | 126 | 15 | 0 | 0 | 0 | 0 |
+| incoming/HI/Female HIs | 74 | 2 | 0 | 63 | 9 | 0 | 0 | 0 | 0 |
+| incoming/HI/Male HIs | 138 | 2 | 0 | 126 | 8 | 0 | 0 | 0 | 2 |
+| incoming/Needs to be classified (zip) | 195 | 13 | 8 | 59 | 0 | 0 | 2 | 17 | 96 |
+| incoming/POI Program Starter | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| incoming/Poetry/Any Gender Poetry | 260 | 2 | 0 | 247 | 3 | 1 | 0 | 0 | 7 |
+| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 117 | 3 | 0 | 0 | 0 | 2 |
+| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 65 | 2 | 0 | 0 | 0 | 3 |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 14 | 0 | 0 | 2 | 0 | 1 |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 17 | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 155 | 48 | 0 | 0 | 0 | 14 |
+| incoming/Prose/Prose- Female | 188 | 0 | 0 | 141 | 38 | 0 | 0 | 0 | 9 |
+| incoming/Prose/Prose- Male | 167 | 3 | 0 | 103 | 41 | 1 | 0 | 0 | 19 |
+| **Total** | 2785 | 103 | 16 | 2227 | 242 | 2 | 13 | 18 | 164 |
 
-## Parsed files (2421)
+## Parsed files (2469)
 
 | Measure | Count |
 |---|---|
 | layout: di_cutting | 2094 |
+| layout: mcp | 182 |
 | layout: program | 154 |
-| layout: mcp | 134 |
 | layout: publisher_script | 39 |
 | introduction boundary: High | 1854 |
 | introduction boundary: Medium | 394 |
-| introduction boundary: Not applicable | 173 |
-| record type: Cutting | 2282 |
+| introduction boundary: Not applicable | 221 |
+| record type: Cutting | 2330 |
 | record type: Program | 139 |
 | teaser: Yes | 1628 |
-| teaser: No | 793 |
-| text layout: prose | 1707 |
-| text layout: mixed | 456 |
-| text layout: verse | 258 |
+| teaser: No | 841 |
+| text layout: prose | 1719 |
+| text layout: mixed | 476 |
+| text layout: verse | 274 |
 | source citation: Complete | 2307 |
-| source citation: Partial | 109 |
+| source citation: Partial | 157 |
 | source citation: Not stated | 5 |
 
 ## Reading order check
@@ -60,13 +60,13 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | Agreement | Parsed, one column | Parsed, some pages read as two columns | Refused |
 |---|---|---|---|
 | 0.00 to 0.50 | 0 | 0 | 0 |
-| 0.50 to 0.70 | 0 | 0 | 1 |
+| 0.50 to 0.70 | 0 | 0 | 0 |
 | 0.70 to 0.80 | 0 | 0 | 0 |
 | 0.80 to 0.85 | 0 | 0 | 0 |
 | 0.85 to 0.90 | 3 | 0 | 0 |
-| 0.90 to 0.95 | 1 | 1 | 0 |
-| 0.95 to 0.98 | 97 | 14 | 0 |
-| 0.98 to 1.00 | 1306 | 999 | 0 |
+| 0.90 to 0.95 | 3 | 1 | 0 |
+| 0.95 to 0.98 | 102 | 15 | 0 |
+| 0.98 to 1.00 | 1342 | 1003 | 0 |
 | not measured | 0 | 0 | |
 
 ## Files already in the library, parsed again
@@ -79,12 +79,12 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 
 | Kind | Findings |
 |---|---|
-| artifact | 699 |
-| truncated | 327 |
-| balance | 242 |
-| length | 79 |
+| artifact | 724 |
+| truncated | 334 |
+| balance | 243 |
+| length | 84 |
 | name variant | 54 |
-| mid-sentence start | 35 |
+| mid-sentence start | 37 |
 | leak | 26 |
 | font encoding | 23 |
 
@@ -162,73 +162,25 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 - `incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf`: ISBN line in performance_text: 'ranscript by Erica Mehl\n\nISBN: 978-1-61387-007-5\n\nCopyr'
 - `incoming/Poetry/Any Gender Poetry/Blessed are the Confused - PO.pdf`: publisher line in performance_text: 'ament before performing) Publisher: 897065 Records DK Date ('
 
-## Not parsed (245)
+## Not parsed (197)
 
 | File | Status | Detail |
 |---|---|---|
 | incoming/Poetry/Any Gender Poetry/Homesick - A Plea for our Planet - PO.pdf | refused: di_cutting: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Prose/Prose- Male/Jeffreys Moatmeal Accident - PR.pdf | refused: di_cutting: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/DI/Female DIs/MushroomCloud_ANewWorld.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/DI/Female DIs/MushroomCloud_GodIfYoureReally.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/DI/Male DIs/MushroomCloud_Brothers.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/DI/Male DIs/MushroomCloud_HistoryLesson.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/DI/Male DIs/MushroomCloud_MyPerfectFeet.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/DI/Male DIs/MushroomCloud_TallerToday.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - PinocchioNoStringsAttached.pages.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_GoodMorningGlory.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_MotherDaughter.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_TheUltimateDrama.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_40.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_BudsWithSpuds.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_CountdownToLove.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Face-Baggage.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_GR8TXTMSGWAR.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Minnesota.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_STOP.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_TheAssistant.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EveryonesGonnaDie.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EveryonesStillDead.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EverythingFallsOff.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_FrontPorchChronicles.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_HamiltonSasquatch.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_LuigiAndMario.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_PostInferno.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_Shrinkage.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheAltos.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/HI/MushroomCloud_BatmanAndRobin_BestMovieEver(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/HI/MushroomCloud_BlackFedora(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/HI/MushroomCloud_CityMorgue(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_HoHoHo(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_InvestigatorQ(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/HI/MushroomCloud_KidInControl(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/HI/MushroomCloud_LittleSuzySeesGod(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_MaryChoppins(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_Moonraker(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_Penny(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_RidgevilleTalintedShow(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/HI/MushroomCloud_TheAudacityOfNope(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_WilliamShakespearesJerseyShore(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_CalvinCoolidge.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_Camp.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Needs to be classified (zip)/MushroomCloud_DrWilderness.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_Finding Ryan.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_GeraldTheSpork.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_Girls.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_GreatIdeas.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_NewLeashOnLife.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_PhysicallyImpossible.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_RhymesWithOrange.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_SesameLifeOnTheStreets.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_SnowWhite.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_TableFor2PartyOf4.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_TheBoShow.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_TheDisappointingSon.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_VirtuallyDateable.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/Needs to be classified (zip)/MushroomCloud_iWant.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Needs to be classified (zip)/Play Descriptions - Mushroom Cloud Press - New Scripts 2024.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/A War Worth Fighting - Mushroom Cloud Press.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/_MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
-| incoming/HI/MushroomCloud_SarahGlowingOrb(1).pdf | refused: reading order disagrees with pdftotext | Only 63% of 5-word runs match pdftotext's reading order (mcp parser). |
 | incoming/Duo-Duet/M-F Duos & Duets/Little Footsteps - Serious - DUO.pdf | refused: two_column (could not split cleanly) | page 10: 303 characters on the page but 230 in the column regions |
 | incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Dads_Coming_Home.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
 | incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Rose_and_June.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |

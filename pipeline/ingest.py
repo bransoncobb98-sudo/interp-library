@@ -59,9 +59,11 @@ def build_record(rid, path, parsed, sha, event, filing_label):
     put("title", parsed["title"], "Title lines at the top of page 1")
     put("author", parsed["byline_author"], "Byline: By " + parsed["byline_author"]) if parsed["byline_author"] else None
     work = src.get("Book") or src.get("Magazine") or src.get("Journal") or src.get("Title")
-    if not work and parsed["layout"] == "publisher_script":
-        work = parsed["title"]
-    put("work_title", work, "Source block" if parsed["layout"] == "di_cutting" else "Copyright page heading")
+    standalone = parsed["layout"] == "publisher_script" or (parsed["layout"] == "mcp" and parsed.get("variant") != "classic")
+    if not work and standalone:
+        work = parsed["title"]                           # a script published on its own is its own work
+    put("work_title", work, {"di_cutting": "Source block", "publisher_script": "Copyright page heading",
+                             "mcp": "Published script (title page)"}.get(parsed["layout"], "Source block"))
     put("publisher", src.get("Publisher"), "Publisher: " + src.get("Publisher", ""))
     put("isbn", src.get("ISBN") or src.get("ISSN"), "ISBN/ISSN: " + (src.get("ISBN") or src.get("ISSN") or ""))
     put("publication_date_raw", src.get("Date"), "Date: " + src.get("Date", ""))
@@ -101,7 +103,7 @@ def build_record(rid, path, parsed, sha, event, filing_label):
     r["intro_raw"] = L.raw_text(parsed["intro_lines"])
     r["text_raw"] = L.raw_text(parsed["performance_lines"])
     r["intro_boundary_method"] = parsed["intro_method"]
-    if parsed["layout"] == "publisher_script":
+    if parsed["layout"] in ("publisher_script", "mcp"):
         r["intro_boundary"] = "Not applicable"
     elif parsed["intro_method"].startswith("font only"):
         r["intro_boundary"] = "Medium"

@@ -406,8 +406,12 @@ def split_header(lines, notes):
     """Return (title, byline_author, index of first line after the byline).  A byline that wraps (it ends with a
     comma, 'and', '&' or a title such as 'Dr.', or the next line starts with 'and') continues on the next line."""
     t, a, k = _split_header(lines, notes)
+    def name_tail(t):                   # the rest of a name that wrapped: a few capitalised words, no sentence ending
+        w = t.split()
+        return 0 < len(w) <= 3 and all(x[:1].isupper() for x in w) and not t.rstrip().endswith((".", "!", "?", ":"))
     while a and 0 < k < len(lines) and lines[k].page == 1 and lines[k].font == lines[k - 1].font and not is_heading(lines[k]) \
-            and (BYLINE_WRAP_RE.search(a.strip()) or re.match(r"(and|&)\s", lines[k].text.strip())):
+            and (BYLINE_WRAP_RE.search(a.strip()) or re.match(r"(and|&)\s", lines[k].text.strip())
+                 or (re.search(r"\b(and|&)\s+\S+(\s+\S+)?$", a.strip()) and name_tail(lines[k].text.strip()))):
         a = a.strip() + " " + lines[k].text.strip()
         k += 1
     return t, a, _absorb_byline_tail(lines, k)
@@ -681,9 +685,97 @@ def parse_program(lines, n_pages):
     }
 
 
+MCP_RE = re.compile(r"mushroom\s*cloud\s*press", re.I)
+PAGE_NO_RE = re.compile(r"^\d{1,3}$")
+COPY_RE = re.compile(r"^(©|\(c\)|�|Copyright)\s*(\d{4})\b\s*(.*)$", re.I)
+
+
+def detect_mcp(lines):
+    """Mushroom Cloud Press: the publisher's name on page 1 (cover page, notice block, or story header)."""
+    return not any(is_heading(l, "INTRODUCTION") for l in lines) and any(l.page == 1 and MCP_RE.search(l.text) for l in lines)
+
+
+def parse_mcp(lines, n_pages):
+    """Mushroom Cloud Press scripts, three variants:
+      cover   (2018 on): page 1 is a cover with 'Title:', 'Author:', a (c) line, 'Publication Date:', 'Published by'
+              and a permission notice; the script starts on page 2 with its title and a 'By' line.
+      series  ('Intriguing Interp Series', 2001-2005): title, a (c) line with the authors, a notice ending in
+              '... TO VERIFY.', then the script on the same page.
+      classic (Classic Prose Collection): 'Mushroom Cloud Press | Classic Prose Collection', title, 'By' line, story.
+    Bare page numbers are footers.  No introduction.  The notice is kept exactly as given."""
+    notes, src = [], {"Publisher": "Mushroom Cloud Press"}
+    footers = [l for l in lines if PAGE_NO_RE.match(l.text.strip()) or FOOTER_RE.match(l.text)]
+    body = [l for l in lines if l not in footers]
+    p1 = [l for l in body if l.page == 1]
+    texts = [l.text.strip() for l in p1]
+    title, author, copyright_notice = "", "", ""
+    if any(t.lower().startswith("title:") for t in texts) and any(t.lower().startswith("author:") for t in texts):
+        variant = "cover"
+
+        def after(label):
+            i = next(i for i, t in enumerate(texts) if t.lower().startswith(label))
+            rest_ = texts[i][len(label):].strip()
+            return rest_ or (texts[i + 1] if i + 1 < len(texts) else "")
+        title, author = after("title:"), after("author:")
+        m = next((re.search(r"Publication Date:\s*(.+)", t) for t in texts if "Publication Date" in t), None)
+        if m:
+            src["Date"] = m.group(1).strip()
+        i_c = next((i for i, t in enumerate(texts) if COPY_RE.match(t)), None)
+        copyright_notice = " ".join(texts[i_c:]) if i_c is not None else ""
+        header = p1
+        script = [l for l in body if l.page >= 2]
+        # the script's own title and 'By' line at the top of page 2
+        k = 0
+        while k < min(3, len(script)) and (script[k].text.strip().lower() == title.lower() or BYLINE_RE.match(script[k].text.strip())):
+            k += 1
+        header, script = header + script[:k], script[k:]
+    elif texts and texts[0].lower().startswith("mushroom cloud press |"):
+        variant = "classic"
+        src["Book"] = texts[0].split("|", 1)[1].strip()
+        title = texts[1] if len(texts) > 1 else ""
+        k = 2
+        if len(texts) > 2 and BYLINE_RE.match(texts[2]):
+            author = re.sub(r"^by\s+", "", texts[2], flags=re.I).strip()
+            k = 3
+        header, script = body[:k], body[k:]
+        notes.append("Classic Prose Collection story; the collection's ISBN and permission notice are in a separate file.")
+    else:
+        variant = "series"
+        i_c = next((i for i, t in enumerate(texts) if COPY_RE.match(t)), None)
+        i_v = next((i for i, t in enumerate(texts) if re.search(r"TO VERIFY\.?$", t)), None)
+        if i_c is None or i_v is None or i_v < i_c:
+            raise ValueError("Mushroom Cloud notice block not found")
+        title = " ".join(t for t in texts[:i_c] if t not in ("( )", "()"))
+        m = COPY_RE.match(texts[i_c])
+        author = re.split(r"\.\s+", m.group(3).strip())[0].rstrip(".")       # 'Name. Published by ...' -> 'Name'
+        src["Date"] = m.group(2)
+        copyright_notice = " ".join(texts[i_c:i_v + 1])
+        header, script = p1[:i_v + 1], body[len(p1[:i_v + 1]):]
+        # some files print the title and a 'By' line after the notice, at the top of the script
+        k = next((x for x in range(min(3, len(script))) if BYLINE_RE.match(script[x].text.strip())), None)
+        if k is not None:
+            if not title:
+                title = " ".join(l.text.strip() for l in script[:k])
+            author = re.sub(r"^by\s+", "", script[k].text.strip(), flags=re.I)
+            header, script = header + script[:k + 1], script[k + 1:]
+    notes.append("Mushroom Cloud Press, %s layout." % variant)
+    if author:
+        src["Author"] = author
+    if not copyright_notice:
+        notes.append("No copyright or permission notice in this file.")
+    return {
+        "layout": "mcp", "variant": variant, "pages": n_pages, "title": clean_chars(title), "byline_author": clean_chars(author),
+        "header_lines": header, "teaser_lines": [], "intro_lines": [], "body_lines": script, "performance_lines": script,
+        "source_lines": [], "source_fields": src, "back_lines": [], "back": {"cutter_credit": None}, "source_awards": [],
+        "source_notes": [], "headings": [], "footers": footers, "intro_method": "none (no introduction in this layout)",
+        "notes": notes, "copyright": re.sub(r"\s+", " ", clean_chars(copyright_notice)).strip(),
+    }
+
+
 PARSERS = [
     ("program", detect_program, parse_program),
     ("di_cutting", detect_di_cutting, parse_di_cutting),
+    ("mcp", detect_mcp, parse_mcp),
     ("publisher_script", detect_publisher_script, parse_publisher_script),
 ]
 

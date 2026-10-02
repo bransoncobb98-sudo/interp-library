@@ -46,7 +46,8 @@ if not f.exists():
     check("two-column test file present", False, str(f))
 else:
     lay = subprocess.run(["pdftotext", "-layout", "-l", "1", str(f), "-"], capture_output=True, text=True).stdout
-    check("pdftotext -layout shows the test file in two columns", "INTRODUCTION" in lay and "According to the Washington Post" in lay.split("\n")[0])
+    check("pdftotext -layout shows the test file in two columns (right-column text set beside the left column)",
+          any(l.find("According to the Washington Post") > 30 for l in lay.splitlines()))
     parsed = L.parse_pdf(str(f))
     check("Burned Alive parses as di_cutting", parsed["layout"] == "di_cutting", parsed["layout"] + " " + " ".join(parsed.get("notes", [])))
     if parsed["layout"] == "di_cutting":

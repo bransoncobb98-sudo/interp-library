@@ -197,22 +197,28 @@ def read_lines(pdf_path, stats=None):
 
 
 def reading_order_agreement(pdf_path, text, n=5):
-    """Share of the n-word runs in text that also occur in pdftotext's own reading-order output of the file
-    (an independent extractor that orders columns itself).  Scrambled column text scores low.  Returns None
-    if pdftotext is not installed or the text is too short."""
+    """Share of the n-word runs in text that also occur in pdftotext's own reading of the file, an independent
+    extractor.  pdftotext's normal mode and its -raw mode (content order) are both tried and the better score is
+    kept, because the two pdftotext programs in use (poppler and xpdf) order some pages differently.  Scrambled
+    column text matches neither.  Returns None if pdftotext is missing or the text is too short."""
     import subprocess
-    try:
-        ref = subprocess.run(["pdftotext", str(pdf_path), "-"], capture_output=True, text=True, timeout=60).stdout
-    except (OSError, subprocess.TimeoutExpired):
-        return None
     # words written in capitals (speaker names, shouted words) are dropped from both sides: some files set
     # speaker names in a margin column that pdftotext reads as a separate block
     caps = {w.lower() for w in re.findall(r"\b[A-Z][A-Z'’]+\b", text)}
     norm = lambda s: [w for w in re.findall(r"[a-z0-9]+", s.lower().replace("’", "'")) if w not in caps]     # noqa: E731
-    a, b = norm(text), norm(ref)
     grams = lambda w: {" ".join(w[i:i + n]) for i in range(len(w) - n + 1)}   # noqa: E731
-    ga, gb = grams(a), grams(b)
-    return round(len(ga & gb) / len(ga), 3) if len(ga) >= 20 else None
+    ga = grams(norm(text))
+    if len(ga) < 20:
+        return None
+    best = None
+    for mode in ([], ["-raw"]):
+        try:
+            ref = subprocess.run(["pdftotext"] + mode + [str(pdf_path), "-"], capture_output=True, text=True, timeout=60).stdout
+        except (OSError, subprocess.TimeoutExpired):
+            continue
+        score = round(len(ga & grams(norm(ref))) / len(ga), 3)
+        best = score if best is None else max(best, score)
+    return best
 
 
 def is_heading(ln, name=None):

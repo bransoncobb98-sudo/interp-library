@@ -25,3 +25,7 @@
   performance text (a parser for that layout is still to be written).
 - Programs (several selections, each with its own SOURCE INFORMATION block) are stored as one record with the
   selections listed in order, each with its own text and source exactly as printed (director, 2026-10-02).
+- Mushroom Cloud Press pieces (and all other publishers' scripts) are included regardless of their purchase-based
+  permission notices: the library is a search resource for the director's own students (director, 2026-10-02).
+  The assistant noted that the newer Mushroom Cloud notice permits performance only for competitors who bought the
+  script; each notice is stored and shown exactly as printed, and rights_status stays "Not assessed".

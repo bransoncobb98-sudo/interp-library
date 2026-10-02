@@ -1,50 +1,50 @@
 # Dry run over incoming/
 
-Nothing was written to the database. Parser code version 2cfe38374d32.
+Nothing was written to the database. Parser code version 92fd7bc731f9.
 
 ## Files by folder
 
-| Folder | Files | byte-identical copy | error | excluded by decision | parsed | parsed, duplicate text | refused: two_column (could not split cleanly) | refused: unrecognised |
+| Folder | Files | byte-identical copy | excluded by decision | parsed | parsed, duplicate text | refused: di_cutting: sections not in the expected order | refused: two_column (could not split cleanly) | refused: unrecognised |
 |---|---|---|---|---|---|---|---|---|
 | incoming/DI | 19 | 9 | 0 | 0 | 0 | 0 | 0 | 10 |
-| incoming/DI/Any Gender DI | 46 | 1 | 0 | 0 | 1 | 44 | 0 | 0 |
-| incoming/DI/Female DIs | 252 | 8 | 0 | 0 | 234 | 0 | 0 | 10 |
-| incoming/DI/Male DIs | 179 | 1 | 0 | 0 | 155 | 0 | 0 | 23 |
-| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 0 | 60 | 1 | 0 | 19 |
-| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 0 | 5 | 107 | 7 | 0 | 33 |
-| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 0 | 227 | 11 | 1 | 30 |
-| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 0 | 75 | 11 | 0 | 26 |
-| incoming/HI | 46 | 22 | 0 | 3 | 1 | 0 | 0 | 20 |
-| incoming/HI/Any Gender HI | 141 | 0 | 0 | 0 | 122 | 14 | 0 | 5 |
-| incoming/HI/Female HIs | 74 | 2 | 0 | 0 | 58 | 8 | 0 | 6 |
-| incoming/HI/Male HIs | 138 | 2 | 0 | 0 | 121 | 7 | 0 | 8 |
-| incoming/Needs to be classified (zip) | 195 | 13 | 0 | 8 | 23 | 0 | 17 | 134 |
-| incoming/POI Program Starter | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| incoming/Poetry/Any Gender Poetry | 260 | 2 | 1 | 0 | 155 | 3 | 0 | 99 |
-| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 0 | 87 | 3 | 0 | 32 |
-| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 0 | 52 | 2 | 0 | 16 |
+| incoming/DI/Any Gender DI | 46 | 1 | 0 | 1 | 44 | 0 | 0 | 0 |
+| incoming/DI/Female DIs | 252 | 8 | 0 | 238 | 0 | 0 | 0 | 6 |
+| incoming/DI/Male DIs | 179 | 1 | 0 | 162 | 0 | 0 | 0 | 16 |
+| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 62 | 1 | 0 | 0 | 17 |
+| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 5 | 109 | 7 | 0 | 0 | 31 |
+| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 231 | 12 | 0 | 1 | 25 |
+| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 77 | 11 | 0 | 0 | 24 |
+| incoming/HI | 46 | 22 | 3 | 1 | 0 | 0 | 0 | 20 |
+| incoming/HI/Any Gender HI | 141 | 0 | 0 | 123 | 15 | 0 | 0 | 3 |
+| incoming/HI/Female HIs | 74 | 2 | 0 | 59 | 9 | 0 | 0 | 4 |
+| incoming/HI/Male HIs | 138 | 2 | 0 | 123 | 8 | 0 | 0 | 5 |
+| incoming/Needs to be classified (zip) | 195 | 13 | 8 | 23 | 0 | 0 | 17 | 134 |
+| incoming/POI Program Starter | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| incoming/Poetry/Any Gender Poetry | 260 | 2 | 0 | 155 | 3 | 1 | 0 | 99 |
+| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 87 | 3 | 0 | 0 | 32 |
+| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 52 | 2 | 0 | 0 | 16 |
 | incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
 | incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 17 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 0 | 152 | 47 | 0 | 18 |
-| incoming/Prose/Prose- Female | 188 | 0 | 0 | 0 | 137 | 38 | 0 | 13 |
-| incoming/Prose/Prose- Male | 167 | 3 | 1 | 0 | 106 | 37 | 0 | 20 |
-| **Total** | 2785 | 103 | 2 | 16 | 1874 | 233 | 18 | 539 |
+| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 152 | 47 | 0 | 0 | 18 |
+| incoming/Prose/Prose- Female | 188 | 0 | 0 | 137 | 38 | 0 | 0 | 13 |
+| incoming/Prose/Prose- Male | 167 | 3 | 0 | 102 | 41 | 1 | 0 | 20 |
+| **Total** | 2785 | 103 | 16 | 1895 | 241 | 2 | 18 | 510 |
 
-## Parsed files (2107)
+## Parsed files (2136)
 
 | Measure | Count |
 |---|---|
-| layout: di_cutting | 2065 |
+| layout: di_cutting | 2094 |
 | layout: publisher_script | 42 |
-| introduction boundary: High | 1753 |
-| introduction boundary: Medium | 312 |
+| introduction boundary: High | 1781 |
+| introduction boundary: Medium | 313 |
 | introduction boundary: Not applicable | 42 |
-| teaser: Yes | 1507 |
-| teaser: No | 600 |
-| text layout: prose | 1559 |
-| text layout: mixed | 326 |
-| text layout: verse | 222 |
-| source citation: Complete | 2094 |
+| teaser: Yes | 1532 |
+| teaser: No | 604 |
+| text layout: prose | 1616 |
+| text layout: mixed | 329 |
+| text layout: verse | 191 |
+| source citation: Complete | 2123 |
 | source citation: Partial | 8 |
 | source citation: Not stated | 5 |
 
@@ -61,8 +61,8 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | 0.80 to 0.85 | 0 | 0 | 0 |
 | 0.85 to 0.90 | 3 | 0 | 0 |
 | 0.90 to 0.95 | 0 | 1 | 0 |
-| 0.95 to 0.98 | 82 | 4 | 0 |
-| 0.98 to 1.00 | 1158 | 859 | 0 |
+| 0.95 to 0.98 | 85 | 4 | 0 |
+| 0.98 to 1.00 | 1184 | 859 | 0 |
 | not measured | 0 | 0 | |
 
 ## Files already in the library, parsed again
@@ -75,13 +75,13 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 
 | Kind | Findings |
 |---|---|
-| artifact | 611 |
-| balance | 228 |
-| truncated | 215 |
-| length | 59 |
-| name variant | 28 |
-| mid-sentence start | 28 |
-| font encoding | 19 |
+| artifact | 605 |
+| balance | 231 |
+| truncated | 218 |
+| length | 61 |
+| mid-sentence start | 30 |
+| name variant | 29 |
+| font encoding | 20 |
 | leak | 18 |
 
 ### First QC findings of each kind
@@ -135,10 +135,10 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 
 - `incoming/DI/Any Gender DI/Zooman and the Sign - DI.pdf`: capital J where I is expected, possibly a text-layer error: FAMJLY, FRJENDS, JDENTJFY, KJLLED, MJSSED
 - `incoming/DI/Female DIs/Jewel - DI.pdf`: capital J where I is expected, possibly a text-layer error: MARJORIE
+- `incoming/DI/Female DIs/Palace of the End - Instruments of Yearning - DI.pdf`: capital J where I is expected, possibly a text-layer error: NEHRJAS
 - `incoming/DI/Female DIs/Runs Girl - DI.pdf`: capital J where I is expected, possibly a text-layer error: NJIDEKA
 - `incoming/DI/Female DIs/WWJD - DI.pdf`: capital J where I is expected, possibly a text-layer error: WWJD
 - `incoming/Duo-Duet/Any-Any Duos & Duets/Charlie and the Chocolate Factory - DUO.pdf`: capital J where I is expected, possibly a text-layer error: GPJOE
-- `incoming/Duo-Duet/Any-Any Duos & Duets/Gods Favorite - DUO.pdf`: capital J where I is expected, possibly a text-layer error: BENJAMIN
 
 **mid-sentence start**
 
@@ -158,12 +158,12 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 - `incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf`: ISBN line in performance_text: 'ranscript by Erica Mehl\n\nISBN: 978-1-61387-007-5\n\nCopyr'
 - `incoming/Poetry/Any Gender Poetry/Last Days - PO.pdf`: award text in performance_text: 'MN State Qualifier\n\n2008 National Qualifier\nIn the last hours, she k'
 
-## Not parsed (559)
+## Not parsed (530)
 
 | File | Status | Detail |
 |---|---|---|
-| incoming/Poetry/Any Gender Poetry/Homesick - A Plea for our Planet - PO.pdf | error | StopIteration |
-| incoming/Prose/Prose- Male/Jeffreys Moatmeal Accident - PR.pdf | error | StopIteration |
+| incoming/Poetry/Any Gender Poetry/Homesick - A Plea for our Planet - PO.pdf | refused: di_cutting: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Prose/Prose- Male/Jeffreys Moatmeal Accident - PR.pdf | refused: di_cutting: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Duo-Duet/M-F Duos & Duets/Little Footsteps - Serious - DUO.pdf | refused: two_column (could not split cleanly) | page 10: 303 characters on the page but 230 in the column regions |
 | incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Dads_Coming_Home.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
 | incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Rose_and_June.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
@@ -182,25 +182,15 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Pipe_Dreams_-_A_Mockumentary.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
 | incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Take_43.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
 | incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__The_General_Salute.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
-| incoming/DI/Female DIs/French Fries - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Mushroom Cloud - Babe.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_ANewWorld.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_GodIfYoureReally.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_HowToEatCatFood.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/Palace of the End - Instruments of Yearning - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/Silver Water - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Southern Utah - Another Tragedy - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/Stolen Moments - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Zlatas Diary - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Alien Boy - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Blackout - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Brief Moment in the Life of Angus Bethune - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Coax - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Dramatic Faces of Robin Williams - A Tribute - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Elephants Graveyard - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Fences - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Guns for Geeks - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Joey Pigza Swallowed the Key - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Looking a Lot Like Christmas - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/MushroomCloud_Brothers.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/MushroomCloud_HistoryLesson.pdf | refused: unrecognised | No parser matched this layout. |
@@ -213,7 +203,6 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/DI/Male DIs/MushroomCloud_Revolution.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/MushroomCloud_TallerToday.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/MushroomCloud_TheYearbook.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Perfect Moments - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Truth in Dreams - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Mushroom Cloud - Fighting Stance.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Mushroom Cloud - I Have Recently Returned.pdf | refused: unrecognised | No parser matched this layout. |
@@ -229,7 +218,6 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Duo-Duet/Any-Any Duos & Duets/Burning Down the House - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Complete Works of William Shakespeare Abridged-Revised - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Elephants Graveyard - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Fantastic Mr Fox - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Math Curse - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - After You.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Anxiety Versus You.pdf | refused: unrecognised | No parser matched this layout. |
@@ -243,10 +231,7 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - The Mulligan.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - The Organ Ordeal.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - The Perfect Son.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Playwriting 101 - The Rooftop Lesson - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/F-F Duos & Duets/A Girl_s Guide to Science_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Answsering 911 - Life in the Hot Seat - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Grandpa - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - A Dozen Red Flags(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - A.I. Speech Bot.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - D and Me(1).pdf | refused: unrecognised | No parser matched this layout. |
@@ -279,10 +264,7 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Unplugged.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/13 Things You Don_t Know By Swans_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/4-0_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Bar Mitzvah Boy - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Boy Gets Girl - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Dining Room - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Fat Pig - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Life Cycles - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - 20 Questions and a Motive for Murder.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - A Trip Through Monte Carla.pdf | refused: unrecognised | No parser matched this layout. |
@@ -305,9 +287,6 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Playdate.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_STOP.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_TheAssistant.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Time Flies - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Two Rooms - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Arrangement - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/Midnight Clear - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - Dinner Dilemma.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - Everything Bagel.pdf | refused: unrecognised | No parser matched this layout. |
@@ -332,26 +311,18 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheCommander.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheLoreOfTheDRings.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_ThePrincipalsOfDrugs.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Pillowman - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Complete Works of William Shakespeare Abridged-Revised - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Mushroom Cloud - Introvert_s Guide to Quarantine.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Mushroom Cloud - Nora Wants a Baby.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Any Gender HI/Puberty - The Game Show - HI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Any Gender HI/Time Flies - HI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Female HIs/Amazing Bone - HI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Female HIs/French Fries - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Female HIs/Mushroom Cloud - Dinosaurs Love Chips.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Female HIs/Mushroom Cloud - KTDs.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Female HIs/Mushroom Cloud - Talking to Teddy.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Female HIs/Mushroom Cloud - We Had Chemistry.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/5 Lessons I Learned in my First Year of Teaching_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Male HIs/Angelas Ashes - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/Confessions of a Burglar - HI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Male HIs/Cyclops - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/Mushroom Cloud - Dis-Orientation.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/Naked Mole Rat Gets Dressed - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/Story in Harlem Slang from Spunk - HI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Male HIs/Wanda Hickeys Night of Golden Memories - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_BadDetective(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_BlackFedora(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_CityMorgue(1).pdf | refused: unrecognised | No parser matched this layout. |
@@ -562,3 +533,32 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Poetry/Any Gender Poetry/Mrs Riberio and What Teachers Make - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Multi-Cultural Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Next Life Soundtrack - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Nice Thing About Counting Stars - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/No Child Left Behind - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Nothing New Here - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Ode to Blue-Collar Workers - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Of Loss and Grieving (A Collection) - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/On Being Transgender - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/On Childhood - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/On the Pulse of a Brave and Startling Truth - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Outside Ourselves - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Palestinian Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Parents - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Privilege to Complain - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Proud to be Latina-Latino - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Pursuit of Happiness and When the Bough Breaks - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Racial Profiling Poetry Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Rain Compilation - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Red White and Bruised - A Program.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Refugee Women - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Rest in Peace - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Scratch and Dent Dreams and Angelic Insanity - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Shosholoza and Hand Me Downs - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Silence is Not an Option - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Speaking Truth - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Standardized Education - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Stereotypically Asian - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Suicide Note(s) - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Symbols of the Holocaust - A Poetry Compilation - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Television Poetry Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Ten Thousand Stories - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |

@@ -26,6 +26,7 @@ import layouts as L       # noqa: E402
 import repairs as RP      # noqa: E402
 
 EXCLUDED = (I.load_json(I.DATA / "excluded_files.json", {}) or {}).get("rules", [])
+AWARDISH = re.compile(r"(?i)\b(qualifier|finalist|semifinalist|quarterfinalist|champion|winner|place|nietoc|ncfl|toc|tournament)\b")
 AWARD_LINE = re.compile(r"^(19|20)\d\d\s+(National|State|District|Regional|NIETOC|NCFL|TOC)\b", re.I)
 
 
@@ -78,12 +79,12 @@ def build_record(rid, path, parsed, sha, event, filing_label):
     back = parsed["back_lines"]
     i_aw = next((i for i, l in enumerate(back) if L.is_heading(l, "AWARD HISTORY") or L.is_heading(l, "AWARDS")), None)
     if i_aw is not None:
-        # everything printed under the award heading, dated or not, up to the next heading or page footer
+        # the award lines printed under the heading, dated or not; stop at the first line that is not an award
+        # (notes, links and credits that follow stay in back_matter_raw only)
         for l in back[i_aw + 1:]:
-            if L.is_heading(l):
+            if L.is_heading(l) or not AWARDISH.search(l.text) or len(l.text) > 90 or l.text.lstrip()[:1] in "*(" \
+                    or re.match(r"(?i)\s*(note|http|cutting\s+compliments)", l.text):
                 break
-            if re.match(r"(?i)\s*cutting\s+compliments\s+of", l.text):
-                continue                                 # a cutter credit, not an award
             awards.append(l.text)
     else:
         awards += [l.text for l in back if AWARD_LINE.match(l.text)]

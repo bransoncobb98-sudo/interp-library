@@ -63,4 +63,20 @@ else:
         i, j = perf.find("make fun of her."), perf.find("(Pg 2-3) It is a curse in my village")
         check("left-column teaser is followed by the right-column text, not interleaved", 0 < i < j, (i, j))
         check("no right-column words leaked into the teaser", "Washington Post" not in perf[:j])
+# (3) prose in two columns is joined into paragraphs; verse in two columns keeps its line breaks
+for rel, want in (("incoming/Prose/Prose Any Gender/Birds for Christmas - PR.pdf", "prose"),
+                  ("incoming/Poetry/Any Gender Poetry/Lion and Blue - PO.pdf", "verse")):
+    f = ROOT / rel
+    if not f.exists():
+        check("test file present: " + rel, False)
+        continue
+    parsed = L.parse_pdf(str(f))
+    rec = G.build_record("IC-T", str(f), parsed, "x", "Prose", "") if parsed["layout"] == "di_cutting" else None
+    check("%s is laid out as %s" % (f.name, want), rec is not None and rec["text_layout"] == want, rec and rec["text_layout"])
+
+# (4) a file whose section headings come in an unexpected order is refused, not crashed on
+f = ROOT / "incoming" / "Prose" / "Prose- Male" / "Jeffreys Moatmeal Accident - PR.pdf"
+if f.exists():
+    parsed = L.parse_pdf(str(f))
+    check("headings out of order: refused with a note, no crash", parsed["layout"].endswith("sections not in the expected order"), parsed["layout"])
 sys.exit(finish())

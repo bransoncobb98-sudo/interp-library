@@ -74,7 +74,19 @@ def build_record(rid, path, parsed, sha, event, filing_label):
     put("cutter", cutter, "Back matter: Cutting compliments of ...")
     back_raw = L.raw_text(parsed["back_lines"])
     r["back_matter_raw"] = back_raw
-    awards = list(parsed.get("source_awards", [])) + [l.text for l in parsed["back_lines"] if AWARD_LINE.match(l.text)]
+    awards = list(parsed.get("source_awards", []))
+    back = parsed["back_lines"]
+    i_aw = next((i for i, l in enumerate(back) if L.is_heading(l, "AWARD HISTORY") or L.is_heading(l, "AWARDS")), None)
+    if i_aw is not None:
+        # everything printed under the award heading, dated or not, up to the next heading or page footer
+        for l in back[i_aw + 1:]:
+            if L.is_heading(l):
+                break
+            if re.match(r"(?i)\s*cutting\s+compliments\s+of", l.text):
+                continue                                 # a cutter credit, not an award
+            awards.append(l.text)
+    else:
+        awards += [l.text for l in back if AWARD_LINE.match(l.text)]
     r["award_history_raw"] = "\n".join(awards)
 
     r["event"] = event

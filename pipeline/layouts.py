@@ -49,7 +49,7 @@ def words(text):
 
 # ------------------------------------------------------------------ lines --
 class Line:
-    __slots__ = ("text", "x0", "x1", "top", "bottom", "page", "col", "font", "size", "bold_lead", "italic")
+    __slots__ = ("text", "x0", "x1", "top", "bottom", "page", "col", "twocol", "font", "size", "bold_lead", "italic")
 
     def __repr__(self):
         return "Line(p%d %r %s)" % (self.page, self.text[:40], self.font)
@@ -129,17 +129,17 @@ def _crops(page, gx):
         y0 = py0 if i == 0 else (runs[i - 1][2] + top) / 2
         y1 = py1 if i == len(runs) - 1 else (bottom + runs[i + 1][1]) / 2
         if k == "full":
-            regions.append((0, page.within_bbox((px0, y0, px1, y1))))
+            regions.append((0, page.within_bbox((px0, y0, px1, y1)), False))
         else:
-            regions.append((0, page.within_bbox((px0, y0, gx, y1))))
-            regions.append((1, page.within_bbox((gx, y0, px1, y1))))
-    got = sum(1 for _, r in regions for c in r.chars if c["text"].strip())
+            regions.append((0, page.within_bbox((px0, y0, gx, y1)), True))
+            regions.append((1, page.within_bbox((gx, y0, px1, y1)), True))
+    got = sum(1 for _, r, _ in regions for c in r.chars if c["text"].strip())
     if got != len(chars):
         raise ColumnError("page %s: %d characters on the page but %d in the column regions" % (page.page_number, len(chars), got))
     return regions
 
 
-def _make_lines(region, pn, col):
+def _make_lines(region, pn, col, twocol=False):
     out = []
     for raw in region.extract_text_lines(layout=False, strip=True, return_chars=True):
         text = raw["text"].strip()
@@ -151,7 +151,7 @@ def _make_lines(region, pn, col):
         fonts = collections.Counter((c["fontname"].split("+")[-1], round(c["size"])) for c in chars)
         (fname, fsize), _ = fonts.most_common(1)[0]
         ln = Line()
-        ln.text, ln.page, ln.col = text, pn, col
+        ln.text, ln.page, ln.col, ln.twocol = text, pn, col, twocol
         ln.x0, ln.x1, ln.top, ln.bottom = raw["x0"], raw["x1"], raw["top"], raw["bottom"]
         ln.font, ln.size = fname, fsize
         lead = ""
@@ -166,23 +166,51 @@ def _make_lines(region, pn, col):
     return out
 
 
-def read_lines(pdf_path, stats=None):
+def source_award_row(page):
+    """If a row on this page reads 'SOURCE INFORMATION ... AWARD HISTORY' (two side-by-side blocks), return
+    (top of that row, x where the award block starts); else None."""
+    words = page.extract_words(use_text_flow=False, keep_blank_chars=False)
+    for i, w in enumerate(words[:-1]):
+        if w["text"].upper() == "SOURCE" and words[i + 1]["text"].upper().startswith("INFORMATION"):
+            info = words[i + 1]
+            for a in words:
+                if a["text"].upper() in ("AWARD", "AWARDS") and abs(a["top"] - w["top"]) < 3 and a["x0"] > info["x1"] + 20:
+                    return min(w["top"], a["top"]) - 1, a["x0"] - 4
+    return None
+
+
+def read_lines(pdf_path, stats=None, split_source_row=False):
     """Return (lines, n_pages) for every non-empty text line in the PDF, in reading order.
     Two-column pages are read left column then right column (see find_gutter); right-column lines are
     shifted left so indentation reads the same in both columns, and carry col = 1.
     If a dict is given as stats, stats["two_column_pages"] lists the page numbers read as two columns."""
-    lines, two = [], []
+    lines, two, split = [], [], []
     with pdfplumber.open(pdf_path) as pdf:
         n = len(pdf.pages)
         for pn, page in enumerate(pdf.pages, 1):
             gx = find_gutter(page)
             if gx is None:
-                lines += _make_lines(page, pn, 0)
+                sa = source_award_row(page) if split_source_row else None
+                if sa is None:
+                    lines += _make_lines(page, pn, 0)
+                    continue
+                # one column above; the side-by-side source and award blocks below are read as two columns
+                top, ax = sa
+                px0, py0, px1, py1 = page.bbox
+                above, below = page.within_bbox((px0, py0, px1, top)), page.within_bbox((px0, top, px1, py1))
+                n_chars = sum(1 for c in page.chars if c["text"].strip())
+                got = sum(1 for c in above.chars if c["text"].strip()) + sum(1 for c in below.chars if c["text"].strip())
+                if got != n_chars:
+                    raise ColumnError("page %d: source block split lost characters (%d of %d)" % (pn, got, n_chars))
+                lines += _make_lines(above, pn, 0)
+                for col, region, _ in _crops(below, ax):
+                    lines += _make_lines(region, pn, col)
+                split.append(pn)
                 continue
             two.append(pn)
             page_lines = []
-            for col, region in _crops(page, gx):
-                page_lines += _make_lines(region, pn, col)
+            for col, region, in_cols in _crops(page, gx):
+                page_lines += _make_lines(region, pn, col, in_cols)
             left = [l.x0 for l in page_lines if l.col == 0]
             right = [l.x0 for l in page_lines if l.col == 1]
             if left and right:
@@ -193,6 +221,7 @@ def read_lines(pdf_path, stats=None):
             lines += page_lines
     if stats is not None:
         stats["two_column_pages"] = two
+        stats["source_split_pages"] = split
     return lines, n
 
 
@@ -280,11 +309,18 @@ def lines_to_text(lines, notes=None):
             cur = [ln]
         else:
             cur.append(ln)
+    # on two-column pages a line is "short" against the width of its own column, not of the whole text
+    col_width = collections.defaultdict(float)
+    for l in lines:
+        if l.twocol:
+            col_width[(l.page, l.col)] = max(col_width[(l.page, l.col)], l.x1 - base)
     paras.append(cur)
 
     out = []
     for p in paras:
-        short = [l for l in p[:-1] if (l.x1 - base) < 0.85 * width]
+        tw = [col_width[(l.page, l.col)] for l in p if l.twocol]
+        pw = max(tw) if tw else width
+        short = [l for l in p[:-1] if (l.x1 - base) < 0.85 * pw]
         verse = len(p) >= 4 and len(short) / max(1, len(p) - 1) > 0.6
         texts = [clean_chars(l.text, notes) for l in p]
         if verse:
@@ -552,10 +588,23 @@ def parse_pdf(path, force=None):
     except ColumnError as e:
         return {"layout": "two_column (could not split cleanly)", "pages": None, "all_lines": [], "two_column_pages": [],
                 "notes": [str(e)]}
+    merged = [l for l in lines if "Black" in l.font and re.match(r"SOURCE INFORMATION\s+AWARDS?\b", l.text.strip().upper())]
+    if merged and not any(is_heading(l, "SOURCE INFORMATION") for l in lines):
+        # the source and award blocks sit side by side and were read as one; read that block as two columns
+        try:
+            lines, n = read_lines(path, stats, split_source_row=True)
+        except ColumnError as e:
+            return {"layout": "source block (could not split cleanly)", "pages": n, "all_lines": [], "two_column_pages": [],
+                    "notes": [str(e)]}
     two = stats["two_column_pages"]
     for name, det, par in PARSERS:
         if (force and name == force) or (not force and det(lines)):
-            r = par(lines, n)
+            try:
+                r = par(lines, n)
+            except (StopIteration, ValueError, IndexError):
+                # e.g. a program with several source blocks, or headings arranged across columns
+                return {"layout": "%s: sections not in the expected order" % name, "pages": n, "all_lines": lines,
+                        "two_column_pages": two, "notes": ["The section headings are not in the order this layout expects; needs a hand check."]}
             r["all_lines"], r["two_column_pages"] = lines, two
             # independent check of reading order: column mistakes keep every word (so conservation passes)
             # but put them in the wrong order

@@ -143,9 +143,9 @@ def _crops(page, gx):
     return regions
 
 
-def _make_lines(region, pn, col, twocol=False):
+def _make_lines(region, pn, col, twocol=False, y_tol=3):
     out = []
-    for raw in region.extract_text_lines(layout=False, strip=True, return_chars=True):
+    for raw in region.extract_text_lines(layout=False, strip=True, return_chars=True, y_tolerance=y_tol):
         text = raw["text"].strip()
         if not text:
             continue
@@ -183,7 +183,7 @@ def source_award_row(page):
     return None
 
 
-def read_lines(pdf_path, stats=None, split_source_row=False):
+def read_lines(pdf_path, stats=None, split_source_row=False, y_tol=3):
     """Return (lines, n_pages) for every non-empty text line in the PDF, in reading order.
     Two-column pages are read left column then right column (see find_gutter); right-column lines are
     shifted left so indentation reads the same in both columns, and carry col = 1.
@@ -196,7 +196,7 @@ def read_lines(pdf_path, stats=None, split_source_row=False):
             if gx is None:
                 sa = source_award_row(page) if split_source_row else None
                 if sa is None:
-                    lines += _make_lines(page, pn, 0)
+                    lines += _make_lines(page, pn, 0, y_tol=y_tol)
                     continue
                 # one column above; the side-by-side source and award blocks below are read as two columns
                 top, ax = sa
@@ -206,15 +206,15 @@ def read_lines(pdf_path, stats=None, split_source_row=False):
                 got = sum(1 for c in above.chars if c["text"].strip()) + sum(1 for c in below.chars if c["text"].strip())
                 if got != n_chars:
                     raise ColumnError("page %d: source block split lost characters (%d of %d)" % (pn, got, n_chars))
-                lines += _make_lines(above, pn, 0)
+                lines += _make_lines(above, pn, 0, y_tol=y_tol)
                 for col, region, _ in _crops(below, ax):
-                    lines += _make_lines(region, pn, col)
+                    lines += _make_lines(region, pn, col, y_tol=y_tol)
                 split.append(pn)
                 continue
             two.append(pn)
             page_lines = []
             for col, region, in_cols in _crops(page, gx):
-                page_lines += _make_lines(region, pn, col, in_cols)
+                page_lines += _make_lines(region, pn, col, in_cols, y_tol=y_tol)
             left = [l.x0 for l in page_lines if l.col == 0]
             right = [l.x0 for l in page_lines if l.col == 1]
             if left and right:
@@ -687,6 +687,7 @@ def parse_program(lines, n_pages):
 
 MCP_RE = re.compile(r"mushroom\s*cloud\s*press", re.I)
 PAGE_NO_RE = re.compile(r"^\d{1,3}$")
+GENRE_LINE_RE = re.compile(r"^an?\s+(\w+\s+)?(monologue|duo|duet|play|scene|short story)$", re.I)   # 'A Monologue' under a title
 COPY_RE = re.compile(r"^(©|\(c\)|�|Copyright)\s*(\d{4})\b\s*(.*)$", re.I)
 
 
@@ -726,7 +727,8 @@ def parse_mcp(lines, n_pages):
         script = [l for l in body if l.page >= 2]
         # the script's own title and 'By' line at the top of page 2
         k = 0
-        while k < min(3, len(script)) and (script[k].text.strip().lower() == title.lower() or BYLINE_RE.match(script[k].text.strip())):
+        same = lambda s: re.sub(r"[’‘]", "'", s).strip().lower()                    # noqa: E731
+        while k < min(3, len(script)) and (same(script[k].text).startswith(same(title)) or BYLINE_RE.match(script[k].text.strip())):
             k += 1
         header, script = header + script[:k], script[k:]
     elif texts and texts[0].lower().startswith("mushroom cloud press |"):
@@ -742,13 +744,21 @@ def parse_mcp(lines, n_pages):
     else:
         variant = "series"
         i_c = next((i for i, t in enumerate(texts) if COPY_RE.match(t)), None)
+        if i_c is None:                       # no (c) line: the notice starts at 'Free performance ...'
+            i_c = next((i for i, t in enumerate(texts) if t.lower().startswith("free performance")), None)
         i_v = next((i for i, t in enumerate(texts) if re.search(r"TO VERIFY\.?$", t)), None)
         if i_c is None or i_v is None or i_v < i_c:
             raise ValueError("Mushroom Cloud notice block not found")
-        title = " ".join(t for t in texts[:i_c] if t not in ("( )", "()"))
+        before = [t for t in texts[:i_c] if t not in ("( )", "()")]
+        i_by = next((i for i, t in enumerate(before) if BYLINE_RE.match(t)), None)
+        if i_by is not None:                  # 'Title', optional genre line, 'by Author', then the notice
+            author = re.sub(r"^by\s+", "", before[i_by], flags=re.I).strip()
+            before = before[:i_by]
+        title = " ".join(t for t in before if not GENRE_LINE_RE.match(t))
         m = COPY_RE.match(texts[i_c])
-        author = re.split(r"\.\s+", m.group(3).strip())[0].rstrip(".")       # 'Name. Published by ...' -> 'Name'
-        src["Date"] = m.group(2)
+        if m:
+            author = author or re.split(r"\.\s+", m.group(3).strip())[0].rstrip(".")   # 'Name. Published by ...' -> 'Name'
+            src["Date"] = m.group(2)
         copyright_notice = " ".join(texts[i_c:i_v + 1])
         header, script = p1[:i_v + 1], body[len(p1[:i_v + 1]):]
         # some files print the title and a 'By' line after the notice, at the top of the script
@@ -810,9 +820,21 @@ ORDER_MIN = 0.85                # least share of 5-word runs that must match pdf
 
 
 def parse_pdf(path, force=None):
+    r = _parse_once(path, force, 3)
+    if r["layout"] == "reading order disagrees with pdftotext":
+        # two lines at almost the same height can be merged letter by letter; read again with tighter line
+        # grouping, and keep that only if it passes the same independent check
+        r2 = _parse_once(path, force, 1)
+        if r2["layout"] in [name for name, _, _ in PARSERS]:
+            r2["notes"].append("Re-read with tighter line grouping after the first reading failed the reading-order check.")
+            return r2
+    return r
+
+
+def _parse_once(path, force, y_tol):
     stats = {}
     try:
-        lines, n = read_lines(path, stats)
+        lines, n = read_lines(path, stats, y_tol=y_tol)
     except ColumnError as e:
         return {"layout": "two_column (could not split cleanly)", "pages": None, "all_lines": [], "two_column_pages": [],
                 "notes": [str(e)]}
@@ -820,7 +842,7 @@ def parse_pdf(path, force=None):
     if merged and not any(is_heading(l, "SOURCE INFORMATION") for l in lines):
         # the source and award blocks sit side by side and were read as one; read that block as two columns
         try:
-            lines, n = read_lines(path, stats, split_source_row=True)
+            lines, n = read_lines(path, stats, split_source_row=True, y_tol=y_tol)
         except ColumnError as e:
             return {"layout": "source block (could not split cleanly)", "pages": n, "all_lines": [], "two_column_pages": [],
                     "notes": [str(e)]}

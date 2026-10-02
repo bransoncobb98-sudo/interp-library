@@ -728,7 +728,7 @@ def parse_mcp(lines, n_pages):
         # the script's own title and 'By' line at the top of page 2
         k = 0
         same = lambda s: re.sub(r"[’‘]", "'", s).strip().lower()                    # noqa: E731
-        while k < min(3, len(script)) and (same(script[k].text).startswith(same(title)) or BYLINE_RE.match(script[k].text.strip())):
+        while k < min(3, len(script)) and ((title and same(script[k].text).startswith(same(title))) or BYLINE_RE.match(script[k].text.strip())):
             k += 1
         header, script = header + script[:k], script[k:]
     elif texts and texts[0].lower().startswith("mushroom cloud press |"):

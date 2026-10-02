@@ -74,6 +74,17 @@ for rel, want in (("incoming/Prose/Prose Any Gender/Birds for Christmas - PR.pdf
     rec = G.build_record("IC-T", str(f), parsed, "x", "Prose", "") if parsed["layout"] == "di_cutting" else None
     check("%s is laid out as %s" % (f.name, want), rec is not None and rec["text_layout"] == want, rec and rec["text_layout"])
 
+# (3b) the last page of a two-column file has only a short right column (the source block): still split
+f = ROOT / "incoming" / "Prose" / "Prose Any Gender" / "Chomp - PR.pdf"
+if f.exists():
+    parsed = L.parse_pdf(str(f))
+    check("Chomp: the short last page is read as two columns too", parsed["layout"] == "di_cutting" and 6 in parsed.get("two_column_pages", []),
+          (parsed["layout"], parsed.get("two_column_pages")))
+    if parsed["layout"] == "di_cutting":
+        rec = G.build_record("IC-T", str(f), parsed, "x", "Prose", "")
+        check("Chomp: source fields come out clean", (rec["author"], rec["publisher"]) == ("Carl Hiaasen", "Yearling"), (rec["author"], rec["publisher"]))
+        check("Chomp: no source heading inside the story", "SOURCE INFORMATION" not in rec["performance_text"])
+
 # (4) a file whose section headings come in an unexpected order is refused, not crashed on
 f = ROOT / "incoming" / "Prose" / "Prose- Male" / "Jeffreys Moatmeal Accident - PR.pdf"
 if f.exists():

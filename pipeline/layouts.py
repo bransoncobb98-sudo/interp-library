@@ -82,14 +82,16 @@ def _row_segments(chars):
     return sorted(out)
 
 
-def find_gutter(page):
+def find_gutter(page, min_share=0.2, near=None):
     """Return the x position of a column gutter, or None for a one-column page.  A gutter is an x position in
     the middle 30% of the page that almost no text row comes within 3 points of (at most 2 rows or 5%, such as
     a full-width title or footer), with at least 20% of the page's characters on each side.  The two columns'
     lines need not line up.  Of the widest such band, the middle is returned."""
+    # near: the gutter of the page before.  A page that follows a two-column page may carry only a short right
+    # column (often the source block), so near that position a smaller share of text on the right is enough.
     chars = [c for c in page.chars if c["text"].strip()]
     rows = _row_segments(chars)
-    if len(chars) < 150 or len(rows) < 8:
+    if len(chars) < (150 if near is None else 40) or len(rows) < (8 if near is None else 4):
         return None
     left, _, right, _ = page.bbox
     w = float(right - left)
@@ -97,11 +99,13 @@ def find_gutter(page):
     xs0 = sorted(c["x0"] for c in chars)
     xs1 = sorted(c["x1"] for c in chars)
     ok = []
-    for x in range(int(left + w * 0.35), int(left + w * 0.65) + 1):
+    lo_x = int(left + w * 0.35) if near is None else int(near) - 15
+    hi_x = int(left + w * 0.65) if near is None else int(near) + 15
+    for x in range(lo_x, hi_x + 1):
         cross = sum(1 for _, _, spans in rows if any(a - 3 < x < b + 3 for a, b in spans))
         n_left = bisect.bisect_right(xs1, x)
         n_right = len(xs0) - bisect.bisect_left(xs0, x)
-        ok.append(cross <= allowed and min(n_left, n_right) >= 0.2 * len(chars))
+        ok.append(cross <= allowed and min(n_left, n_right) >= min_share * len(chars))
     best, run, start = (0, None), 0, None
     for i, good in enumerate(ok + [False]):
         if good:
@@ -111,7 +115,7 @@ def find_gutter(page):
             if run > best[0]:
                 best = (run, start + run // 2)
             run = 0
-    return int(left + w * 0.35) + best[1] if best[1] is not None and best[0] >= 6 else None
+    return lo_x + best[1] if best[1] is not None and best[0] >= 6 else None
 
 
 def _crops(page, gx):
@@ -191,8 +195,12 @@ def read_lines(pdf_path, stats=None, split_source_row=False, y_tol=3):
     lines, two, split = [], [], []
     with pdfplumber.open(pdf_path) as pdf:
         n = len(pdf.pages)
+        prev_gx = None
         for pn, page in enumerate(pdf.pages, 1):
             gx = find_gutter(page)
+            if gx is None and prev_gx is not None:
+                gx = find_gutter(page, min_share=0.03, near=prev_gx)
+            prev_gx = gx
             if gx is None:
                 sa = source_award_row(page) if split_source_row else None
                 if sa is None:
@@ -255,9 +263,12 @@ def reading_order_agreement(pdf_path, text, n=5):
 
 
 def is_heading(ln, name=None):
-    if "Black" not in ln.font:
+    """A section heading: one of SECTION_HEADINGS alone on its line, in Arial Black (the house style) or, in some
+    files, in a bold face, written in capitals."""
+    raw = ln.text.strip()
+    if "Black" not in ln.font and not ("Bold" in ln.font and raw == raw.upper()):
         return False
-    t = ln.text.strip().upper()
+    t = raw.upper()
     return (t == name) if name else (t in SECTION_HEADINGS)
 
 

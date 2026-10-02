@@ -1,4 +1,4 @@
-== 2026-10-02 12:19:21 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
+== 2026-10-02 15:52:01 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
 
 ===== python3 pipeline/build.py
 Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
@@ -53,6 +53,33 @@ PASS  no right-column words leaked into the teaser
 PASS  Birds for Christmas - PR.pdf is laid out as prose  prose
 PASS  Lion and Blue - PO.pdf is laid out as verse  verse
 PASS  headings out of order: refused with a note, no crash  di_cutting: sections not in the expected order
+
+all checks passed
+
+===== python3 tests/test_programs.py
+PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
+
+PASS  the program file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
+wrote 1 new record(s) to /tmp/ilib-test-w36e972h/data/cuttings.json
+
+PASS  the one-piece, two-source file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
+wrote 1 new record(s) to /tmp/ilib-test-w36e972h/data/cuttings.json
+
+PASS  program: one record of type Program  Program
+PASS  program: three selections, in order  [1, 2, 3]
+PASS  program: every selection has its own source block
+PASS  program: each source names Denice Frohman
+PASS  program: selections 2 and 3 begin with the performer's transition  ['Borders (Pg 86-89)\nIt starts b', 'TRANSITION\n\nThe language I kno', 'TRANSITION\n\nFamilies are safe ']
+PASS  program: no source-block text inside any selection's text
+PASS  program: award lines stay with their selection, not in the text  ['', 'KS State Qualifier (Combined with other poems)', 'MN State Qualifier – as a collection']
+PASS  program: the performance text is the selections joined in order
+PASS  program: word counts add up  (1340, [589, 345, 406])
+PASS  program: introduction stored separately
+PASS  one piece with two source blocks is a Cutting, not a Program  Cutting
+PASS  ... and keeps both source blocks as printed  2
+PASS  the database builds with a program in it  Built 47 record(s): 47 shown on the site -> site/index.html; exports in exports/
+
+PASS  the page carries the program with its selections and their sources
 
 all checks passed
 
@@ -119,9 +146,9 @@ PASS  a record's performance text appears in its batch unaltered
 PASS  --dry-run applies nothing  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
 dry run: nothing written
 PASS  the example applies all 8 values with origin ai, confidence and evidence  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
-saved; reply archived as data/classifications/20261002-122007-EXAMPLE-IC-0014.json
+saved; reply archived as data/classifications/20261002-155255-EXAMPLE-IC-0014.json
 PASS  ... source values are untouched
-PASS  ... the reply and a report are archived in data/classifications/  ['20261002-122007-EXAMPLE-IC-0014.json', '20261002-122007-EXAMPLE-IC-0014.report.json']
+PASS  ... the reply and a report are archived in data/classifications/  ['20261002-155255-EXAMPLE-IC-0014.json', '20261002-155255-EXAMPLE-IC-0014.report.json']
 PASS  ... record no longer queued
 PASS  an invalid taxonomy value is rejected  IC-0001.audience_level: needs content_warnings assessed for the same record | IC-0001.author: not a field the AI may supply | IC-0001.difficulty: confidence must be high, medium or low | IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead | IC-0001.subject_matter: evidence is required | IC-0001.tone: not allowed values: ['Gloomy'] | IC-0002.content_warnings: evidence quotes the introduction or source block, not the performance text: "*as a translator, it's luiselli's task"
 PASS  a bad confidence is rejected
@@ -160,7 +187,7 @@ PASS  ... the register gains one entry pointing at the existing record  {'file':
 PASS  ... no other record changed
 PASS  a re-saved copy with the same text is parsed into one new record  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
   IC-0046 Fontaine resaved.pdf: Exact Duplicate of IC-0020
-wrote 1 new record(s) to /tmp/ilib-test-ylp1wipy/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-shywdc53/data/cuttings.json
 PASS  ... it is marked Exact Duplicate of the existing record  ('Exact Duplicate', ['IC-0020'])
 PASS  ... the existing record lists the new file in also_appears_in
 PASS  ... the new record's ID follows the last ID  IC-0046

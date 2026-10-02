@@ -152,7 +152,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0002",
@@ -290,7 +291,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0003",
@@ -420,7 +422,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0004",
@@ -553,7 +556,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0005",
@@ -685,7 +689,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0006",
@@ -822,7 +827,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0007",
@@ -952,7 +958,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0008",
@@ -1089,7 +1096,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0009",
@@ -1226,7 +1234,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0010",
@@ -1367,7 +1376,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0011",
@@ -1501,7 +1511,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0012",
@@ -1634,7 +1645,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0013",
@@ -1772,7 +1784,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0014",
@@ -1906,7 +1919,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0015",
@@ -2041,7 +2055,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0016",
@@ -2171,7 +2186,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0017",
@@ -2305,7 +2321,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0018",
@@ -2435,7 +2452,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0019",
@@ -2567,7 +2585,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0020",
@@ -2701,7 +2720,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0021",
@@ -2831,7 +2851,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0022",
@@ -2969,7 +2990,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0023",
@@ -3099,7 +3121,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0024",
@@ -3232,7 +3255,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0025",
@@ -3364,7 +3388,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0026",
@@ -3494,7 +3519,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0027",
@@ -3631,7 +3657,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0028",
@@ -3762,7 +3789,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0029",
@@ -3892,7 +3920,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0030",
@@ -4026,7 +4055,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0031",
@@ -4162,7 +4192,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0032",
@@ -4297,7 +4328,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0033",
@@ -4426,7 +4458,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0034",
@@ -4562,7 +4595,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0035",
@@ -4692,7 +4726,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0036",
@@ -4827,7 +4862,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0037",
@@ -4960,7 +4996,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0038",
@@ -5090,7 +5127,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0039",
@@ -5224,7 +5262,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0040",
@@ -5357,7 +5396,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0041",
@@ -5487,7 +5527,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0042",
@@ -5614,7 +5655,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0043",
@@ -5744,7 +5786,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0044",
@@ -5873,7 +5916,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   },
   {
    "id": "IC-0045",
@@ -6015,7 +6059,8 @@
     "text_layout": {
      "origin": "computed"
     }
-   }
+   },
+   "selections": []
   }
  ]
 }

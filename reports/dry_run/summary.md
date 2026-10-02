@@ -1,6 +1,6 @@
 # Dry run over incoming/
 
-Nothing was written to the database. Parser code version 92fd7bc731f9.
+Nothing was written to the database. Parser code version 7cf29a9727aa.
 
 ## Files by folder
 
@@ -8,44 +8,47 @@ Nothing was written to the database. Parser code version 92fd7bc731f9.
 |---|---|---|---|---|---|---|---|---|
 | incoming/DI | 19 | 9 | 0 | 0 | 0 | 0 | 0 | 10 |
 | incoming/DI/Any Gender DI | 46 | 1 | 0 | 1 | 44 | 0 | 0 | 0 |
-| incoming/DI/Female DIs | 252 | 8 | 0 | 238 | 0 | 0 | 0 | 6 |
-| incoming/DI/Male DIs | 179 | 1 | 0 | 162 | 0 | 0 | 0 | 16 |
-| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 62 | 1 | 0 | 0 | 17 |
+| incoming/DI/Female DIs | 252 | 8 | 0 | 239 | 0 | 0 | 0 | 5 |
+| incoming/DI/Male DIs | 179 | 1 | 0 | 165 | 0 | 0 | 0 | 13 |
+| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 64 | 1 | 0 | 0 | 15 |
 | incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 5 | 109 | 7 | 0 | 0 | 31 |
-| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 231 | 12 | 0 | 1 | 25 |
+| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 232 | 12 | 0 | 1 | 24 |
 | incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 77 | 11 | 0 | 0 | 24 |
 | incoming/HI | 46 | 22 | 3 | 1 | 0 | 0 | 0 | 20 |
-| incoming/HI/Any Gender HI | 141 | 0 | 0 | 123 | 15 | 0 | 0 | 3 |
+| incoming/HI/Any Gender HI | 141 | 0 | 0 | 124 | 15 | 0 | 0 | 2 |
 | incoming/HI/Female HIs | 74 | 2 | 0 | 59 | 9 | 0 | 0 | 4 |
-| incoming/HI/Male HIs | 138 | 2 | 0 | 123 | 8 | 0 | 0 | 5 |
+| incoming/HI/Male HIs | 138 | 2 | 0 | 125 | 8 | 0 | 0 | 3 |
 | incoming/Needs to be classified (zip) | 195 | 13 | 8 | 23 | 0 | 0 | 17 | 134 |
 | incoming/POI Program Starter | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| incoming/Poetry/Any Gender Poetry | 260 | 2 | 0 | 155 | 3 | 1 | 0 | 99 |
-| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 87 | 3 | 0 | 0 | 32 |
-| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 52 | 2 | 0 | 0 | 16 |
+| incoming/Poetry/Any Gender Poetry | 260 | 2 | 0 | 247 | 3 | 1 | 0 | 7 |
+| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 117 | 3 | 0 | 0 | 2 |
+| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 65 | 2 | 0 | 0 | 3 |
 | incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
 | incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 17 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 152 | 47 | 0 | 0 | 18 |
-| incoming/Prose/Prose- Female | 188 | 0 | 0 | 137 | 38 | 0 | 0 | 13 |
-| incoming/Prose/Prose- Male | 167 | 3 | 0 | 102 | 41 | 1 | 0 | 20 |
-| **Total** | 2785 | 103 | 16 | 1895 | 241 | 2 | 18 | 510 |
+| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 155 | 48 | 0 | 0 | 14 |
+| incoming/Prose/Prose- Female | 188 | 0 | 0 | 141 | 38 | 0 | 0 | 9 |
+| incoming/Prose/Prose- Male | 167 | 3 | 0 | 103 | 41 | 1 | 0 | 19 |
+| **Total** | 2785 | 103 | 16 | 2048 | 242 | 2 | 18 | 356 |
 
-## Parsed files (2136)
+## Parsed files (2290)
 
 | Measure | Count |
 |---|---|
 | layout: di_cutting | 2094 |
+| layout: program | 154 |
 | layout: publisher_script | 42 |
-| introduction boundary: High | 1781 |
-| introduction boundary: Medium | 313 |
+| introduction boundary: High | 1855 |
+| introduction boundary: Medium | 393 |
 | introduction boundary: Not applicable | 42 |
-| teaser: Yes | 1532 |
-| teaser: No | 604 |
-| text layout: prose | 1616 |
-| text layout: mixed | 329 |
-| text layout: verse | 191 |
-| source citation: Complete | 2123 |
-| source citation: Partial | 8 |
+| record type: Cutting | 2151 |
+| record type: Program | 139 |
+| teaser: Yes | 1637 |
+| teaser: No | 653 |
+| text layout: prose | 1634 |
+| text layout: mixed | 415 |
+| text layout: verse | 241 |
+| source citation: Complete | 2240 |
+| source citation: Partial | 45 |
 | source citation: Not stated | 5 |
 
 ## Reading order check
@@ -61,8 +64,8 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | 0.80 to 0.85 | 0 | 0 | 0 |
 | 0.85 to 0.90 | 3 | 0 | 0 |
 | 0.90 to 0.95 | 0 | 1 | 0 |
-| 0.95 to 0.98 | 85 | 4 | 0 |
-| 0.98 to 1.00 | 1184 | 859 | 0 |
+| 0.95 to 0.98 | 86 | 13 | 0 |
+| 0.98 to 1.00 | 1193 | 994 | 0 |
 | not measured | 0 | 0 | |
 
 ## Files already in the library, parsed again
@@ -75,14 +78,14 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 
 | Kind | Findings |
 |---|---|
-| artifact | 605 |
-| balance | 231 |
-| truncated | 218 |
-| length | 61 |
-| mid-sentence start | 30 |
-| name variant | 29 |
+| artifact | 650 |
+| truncated | 300 |
+| balance | 238 |
+| length | 62 |
+| name variant | 55 |
+| mid-sentence start | 33 |
+| leak | 26 |
 | font encoding | 20 |
-| leak | 18 |
 
 ### First QC findings of each kind
 
@@ -156,9 +159,9 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 - `incoming/Needs to be classified (zip)/Roses-In-December-by-Gregg-Moeller.pdf`: introduction heading in performance_text: 're still breathing well.\n\nINTRODUCTION\n\nANN. Ah—the successful w'
 - `incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf`: introduction heading in performance_text: 'd us all to be punished.\n\nINTRODUCTION\n\nIt is impossible for any'
 - `incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf`: ISBN line in performance_text: 'ranscript by Erica Mehl\n\nISBN: 978-1-61387-007-5\n\nCopyr'
-- `incoming/Poetry/Any Gender Poetry/Last Days - PO.pdf`: award text in performance_text: 'MN State Qualifier\n\n2008 National Qualifier\nIn the last hours, she k'
+- `incoming/Poetry/Any Gender Poetry/Blessed are the Confused - PO.pdf`: publisher line in performance_text: 'ament before performing) Publisher: 897065 Records DK Date ('
 
-## Not parsed (530)
+## Not parsed (376)
 
 | File | Status | Detail |
 |---|---|---|
@@ -186,11 +189,7 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/DI/Female DIs/MushroomCloud_ANewWorld.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_GodIfYoureReally.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_HowToEatCatFood.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/Southern Utah - Another Tragedy - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Zlatas Diary - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Brief Moment in the Life of Angus Bethune - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Dramatic Faces of Robin Williams - A Tribute - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Elephants Graveyard - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Looking a Lot Like Christmas - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/MushroomCloud_Brothers.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/MushroomCloud_HistoryLesson.pdf | refused: unrecognised | No parser matched this layout. |
@@ -216,8 +215,6 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/DI/MushroomCloud - Thomas More Doesn_t Know Me.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/A Very Clean Place_0_Duet-Duo.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Burning Down the House - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Complete Works of William Shakespeare Abridged-Revised - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Elephants Graveyard - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Math Curse - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - After You.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Anxiety Versus You.pdf | refused: unrecognised | No parser matched this layout. |
@@ -264,7 +261,6 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Unplugged.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/13 Things You Don_t Know By Swans_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/4-0_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Dining Room - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Life Cycles - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - 20 Questions and a Motive for Murder.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - A Trip Through Monte Carla.pdf | refused: unrecognised | No parser matched this layout. |
@@ -311,7 +307,6 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheCommander.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheLoreOfTheDRings.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_ThePrincipalsOfDrugs.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Any Gender HI/Complete Works of William Shakespeare Abridged-Revised - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Mushroom Cloud - Introvert_s Guide to Quarantine.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Mushroom Cloud - Nora Wants a Baby.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Female HIs/Mushroom Cloud - Dinosaurs Love Chips.pdf | refused: unrecognised | No parser matched this layout. |
@@ -319,9 +314,7 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/HI/Female HIs/Mushroom Cloud - Talking to Teddy.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Female HIs/Mushroom Cloud - We Had Chemistry.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/5 Lessons I Learned in my First Year of Teaching_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Male HIs/Confessions of a Burglar - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/Mushroom Cloud - Dis-Orientation.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Male HIs/Naked Mole Rat Gets Dressed - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/Story in Harlem Slang from Spunk - HI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_BadDetective(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_BlackFedora(1).pdf | refused: unrecognised | No parser matched this layout. |
@@ -477,88 +470,74 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Needs to be classified (zip)/You Can_t Take Them Home at Night_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/his sunt dracones_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/squirrel_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/130 Million Shattered Lives - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Almost - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/America - Its Gotta be the Cheese - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/America Reloading - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/America the Beautiful - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/American Poetry - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Behind the Staff Room Door - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Between the Star and the Street - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Birmingham Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Blessed are the Confused - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Borders Accents and Weapons - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Broken - A Collection in Memory of Matthew Shepard - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Burning Down the House - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Cats in the Cradle and Love You Forever - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Challenges of Education - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Chambers of a Gun if the Bullet Does Not Exist - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Collection on Cancer - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Collection on Suicide - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Commercial Break and Midnight - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Confronting  American Apathy - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Conversations about Home and Rigged Game - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Definition and A Familiar Letter - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Den of Lions (2) - PO (1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Echoes of Teachers - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Fight Evil with Poetry - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/For Black Boys - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Freed Between the Lines - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/From the Afterlife - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Fury of Rain Storms - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Gender Boxes - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Gentrification - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Gift and Train Platform - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Hands Still Raised - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Hir and Swing-Set - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/History of Fury and Faith - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Holy Saturday and Long Term Memory - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Hope for Humanity - COVID 19 - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Horton Hears a Who - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/How Many Degrees are We from Fahrenheit 451 - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/I Wanted to Grow Old With You - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/If Lady LIberty Could See Us Now - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/If You Have to Ask - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Imagine and OCD - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Impact of Teachers - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/In Remembrance - A Holocaust Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/In Response to Columbine - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/In a Shared Land - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Instructions and Locks - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Israeli-Palestinian Conflict - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Jubilee of People Dreaming Wildly - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Lift Off and Miracle Workers - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Loch Ness Monsters and Something Like Fire - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Medical Profession - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Mrs Riberio and What Teachers Make - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Multi-Cultural Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Next Life Soundtrack - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Nice Thing About Counting Stars - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/No Child Left Behind - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Nothing New Here - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Ode to Blue-Collar Workers - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Of Loss and Grieving (A Collection) - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/On Being Transgender - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/On Childhood - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/On the Pulse of a Brave and Startling Truth - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Outside Ourselves - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Palestinian Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Parents - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Privilege to Complain - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Proud to be Latina-Latino - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Pursuit of Happiness and When the Bough Breaks - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Racial Profiling Poetry Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Rain Compilation - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Red White and Bruised - A Program.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Refugee Women - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Rest in Peace - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Scratch and Dent Dreams and Angelic Insanity - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Shosholoza and Hand Me Downs - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Silence is Not an Option - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Speaking Truth - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Standardized Education - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Stereotypically Asian - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Suicide Note(s) - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Symbols of the Holocaust - A Poetry Compilation - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Television Poetry Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Ten Thousand Stories - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Poetry Female/Its Fine Im Fine Everything is Fine - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Poetry Female/Poetry of Bonnie Parker - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Poetry Male/Anthem M-80 and Parked Car - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Poetry Male/Identity Papers - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Poetry Male/Winter Run - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/2 B R 0 2 B - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/A Haunted House - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/A War Worth Fighting - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Gabriel-Ernest - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/King Lear - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/My Brother Henry  - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Several Trojan Skirmishes and One Wooden Animal - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Eyes Have It - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Feast of Nemesis - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Girl at the Gate - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Inconsiderate Waiter - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Magic Shop - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Outcasts of Poker Flat - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Queen of Spades - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Two Friends - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Why the Sea is Salt - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/_MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/2BR02B - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Big Nap - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Charlie the Caterpillar - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Chomp - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Elevator ER - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Encyclopedia Brown - Case of the Barefoot Thieves - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Giants Tooth - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Good News Versus Bad - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Last Testament - A Memoir by God - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Life Support - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Lost at C - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Metamorphosis of Justin Jones - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/Rosa Parks - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose Any Gender/What of this Goldfish Would You Wish - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/1000-Year-Old Ghosts - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/Dear Husband - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/Endangered Species - Case 47401 - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/I Love You Dad - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/Rapture of Caanan - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/Sports Psychology - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/This is Where it Ends - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/Warning Signs - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Female/World I Cannot Touch - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Ambush - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Bad Dog - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Baseball Boys and Bad Words - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Bottleman - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Breaking the Ice and Youve Got to be Kidding - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/By the Dawns Early Light - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Dear Amanda and Closure - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Freak - A Semi-Demi-Quasi-Pseudo - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Fruit at the Bottom of the Bowl - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Going Home - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Man Named Dave - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/My Flamboyant Grandson - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Naked Mole Rat Gets Dressed - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Thing about Turbulence - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/True Detective - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Truth in Dreams - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Viva Vargas - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Wanda Hickeys Night of Golden Memories - PR.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Prose/Prose- Male/Where You Can Stick the Sticker Price - PR.pdf | refused: unrecognised | No parser matched this layout. |

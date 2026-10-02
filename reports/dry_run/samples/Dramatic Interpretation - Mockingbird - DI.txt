@@ -1,4 +1,5 @@
 FILE: incoming/DI/Female DIs/Mockingbird - DI.pdf
+TYPE: Cutting
 TITLE: Mockingbird
 AUTHOR: Kathryn Erskine
 INTRO BOUNDARY: High (font+byline (agree))

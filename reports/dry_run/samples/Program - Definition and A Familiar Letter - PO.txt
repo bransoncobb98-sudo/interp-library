@@ -1,0 +1,151 @@
+FILE: incoming/Poetry/Any Gender Poetry/Definition and A Familiar Letter - PO.pdf
+TYPE: Program
+TITLE: A Definition and A Familiar Letter
+AUTHOR: Peter Nicholson and Oliver Wendell
+INTRO BOUNDARY: Medium (font only (no 'Title by Author' end marker))
+
+=== INTRODUCTION ===
+Art is meant to dig down into the soil and put forth the images through which people may see their own lives refracted, their own emotions portrayed, even ennobled and transformed. Poetry is art as reflected in “A Definition” by Peter Nicholson.
+
+=== SELECTION 1 (after the introduction, 251 words) ===
+Holmes
+
+A Definition
+It lives
+When the gold myrtle-wreath
+From an uncertain tomb
+Is put on display under glass,
+Is sex and death
+In each of their various fashions,
+Tastes of salt,
+Smells of hot bitumen
+Or a handful of crushed leaves.
+
+It rids the boredom of known stuff
+And gossip that doesn't amaze
+In a shiver scalping our skin.
+It can't be polite-
+Mucus, scar tissue, fluids
+Best not mentioned
+Rush to its page
+That we sometimes write,
+Sometimes sleep with,
+Sometimes kill with.
+Our depression won't exhaust it.
+Think of a cleaver stuck in your thigh,
+Skin made mortal,
+Or the crimp on the face
+When we stand on the edge of large things-
+A hard birth, the end of the affair,
+That loved thing whose name makes us sweat.
+It isn't money,
+Though money might buy
+Something of it
+(Cézannes on the wall,
+The rights to Fellini's next film).
+It might come
+Just as you've ironed the ninth shirt
+And feel like throwing the kid
+Who hasn't shut up for three hours
+Out the window along with the bills
+(But the child
+Is made wholly of this thing-
+It can shred as years intervene).
+Then, for each expert
+Who sets down its plan,
+The real thing goes off at tangents.
+It won't fit in troughs,
+Glinting, flittering over books,
+Breaking Olympic records.
+Try to put a sack over it,
+Hold it under water- just like Johnny,
+It'll be back, grinning.
+So, whatever you might think
+About its demise, it will be around,
+The warmth behind our monotony,
+That passion in the slipstream,
+For it lives and keeps on:
+That's what poetry is.
+
+--- its source block ---
+Author: Peter Nicholson
+Book: A Dwelling Place
+ISBN: 978-0908022120
+Publisher: Wellington Lane Press
+Date(Month/Year): 1997
+--- its award lines ---
+
+
+=== SELECTION 2 (after the introduction, 793 words) ===
+TRANSITION More than a century and a half before Nicholson penned his Australian ode to poetry, another intellectual an ocean away in Britain set down his view of poetry in more light-hearted manner. A triple threat as doctor, speaker and author, Oliver Wendell Holmes was a leading citizen of 19th-century Boston whose command of the language has stood the test of time. A Familiar Letter by Oliver Wendell Holmes
+
+A Familiar Letter
+
+YES, write, if you want to, there's nothing like trying; Who knows what a treasure your casket may hold?
+
+I'll show you that rhyming's as easy as lying, If you'll listen to me while the art I unfold.
+
+Here's a book full of words; one can choose as he fancies, As a painter his tint, as a workman his tool; Just think! all the poems and plays and romances Were drawn out of this, like the fish from a pool!
+
+You can wander at will through its syllabled mazes, And take all you want, not a copper they cost,-- What is there to hinder your picking out phrases For an epic as clever as "Paradise Lost"?
+
+Don't mind if the index of sense is at zero, Use words that run smoothly, whatever they mean; Leander and Lilian and Lillibullero Are much the same thing in the rhyming machine.
+
+There are words so delicious their sweetness will smother That boarding-school flavor of which we're afraid, There is "lush"is a good one, and "swirl" is another,-- Put both in one stanza, its fortune is made.
+
+With musical murmurs and rhythmical closes
+You can cheat us of smiles when you've nothing to tell
+You hand us a nosegay of milliner's roses,
+And we cry with delight, "Oh, how sweet they do smell!"
+
+Perhaps you will answer all needful conditions
+For winning the laurels to which you aspire,
+By docking the tails of the two prepositions
+I' the style o' the bards you so greatly admire.
+
+As for subjects of verse, they are only too plenty
+For ringing the changes on metrical chimes;
+A maiden, a moonbeam, a lover of twenty
+Have filled that great basket with bushels of rhymes.
+
+Let me show you a picture--'t is far from irrelevant-- By a famous old hand in the arts of design; 'T is only a photographed sketch of an elephant,-- The name of the draughtsman was Rembrandt of Rhine.
+
+How easy! no troublesome colors to lay on, It can't have fatigued him,-- no, not in the least,-- A dash here and there with a haphazard crayon, And there stands the wrinkled-skinned, baggy-limbed beast.
+
+Just so with your verse,-- 't is as easy as sketching,-- You can reel off a song without knitting your brow, As lightly as Rembrandt a drawing or etching; It is nothing at all, if you only know how.
+
+Well; imagine you've printed your volume of verses: Your forehead is wreathed with the garland of fame, Your poems the eloquent school-boy rehearses, Her album the school-girl presents for your name;
+
+Each morning the post brings you autograph letters; You'll answer them promptly,-- an hour isn't much For the honor of sharing a page with your betters, With magistrates, members of Congress, and such.
+
+Of course you're delighted to serve the committees That come with requests from the country all round, You would grace the occasion with poems and ditties When they've got a new schoolhouse, or poorhouse, or pound.
+
+With a hymn for the saints and a song for the sinners, You go and are welcome wherever you please; You're a privileged guest at all manner of dinners, You've a seat on the platform among the grandees.
+
+At length your mere presence becomes a sensation, Your cup of enjoyment is filled to its brim With the pleasure Horatian of digitmonstration, As the whisper runs round of "That's he!" or "That's him!"
+
+But remember, O dealer in phrases sonorous,
+So daintily chosen, so tunefully matched,
+Though you soar with the wings of the cherubim o'er us,
+The ovum was human from which you were hatched.
+
+No will of your own with its puny compulsion
+Can summon the spirit that quickens the lyre;
+It comes, if at all, like the Sibyl's convulsion
+And touches the brain with a finger of fire.
+
+So perhaps, after all, it's as well to he quiet
+If you've nothing you think is worth saying in prose,
+As to furnish a meal of their cannibal diet
+To the critics, by publishing, as you propose.
+
+But it's all of no use, and I'm sorry I've written,-- I shall see your thin volume some day on my shelf; For the rhyming tarantula surely has bitten, And music must cure you, so pipe it yourself.
+
+--- its source block ---
+Author: Oliver Wendell Holmes
+Book: The Poetical Works of Oliver Wendell Holmes
+ISBN: 978-1417919642
+Publisher: Kessinger Publishing
+Date(Month/Year): May 30, 2005
+--- its award lines ---
+

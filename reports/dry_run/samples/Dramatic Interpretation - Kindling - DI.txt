@@ -1,4 +1,5 @@
 FILE: incoming/DI/Female DIs/Kindling - DI.pdf
+TYPE: Cutting
 TITLE: Kindling
 AUTHOR: Cathleen Sakamai
 INTRO BOUNDARY: High (font+byline (agree))

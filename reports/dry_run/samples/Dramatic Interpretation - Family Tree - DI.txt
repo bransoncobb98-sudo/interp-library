@@ -1,4 +1,5 @@
 FILE: incoming/DI/Female DIs/Family Tree - DI.pdf
+TYPE: Cutting
 TITLE: The Family Tree
 AUTHOR: Karen Smith Vastola
 INTRO BOUNDARY: High (font+byline (agree))

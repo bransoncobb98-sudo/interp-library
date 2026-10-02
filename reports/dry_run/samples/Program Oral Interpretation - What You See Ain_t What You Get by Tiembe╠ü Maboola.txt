@@ -1,4 +1,5 @@
 FILE: incoming/POI Program Starter/What You See Ain_t What You Get by Tiembe╠ü Maboola.pdf
+TYPE: Cutting
 TITLE: What You See
 AUTHOR: Not specified
 INTRO BOUNDARY: Not applicable (none (no introduction in this layout))

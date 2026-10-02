@@ -1,4 +1,5 @@
 FILE: incoming/Needs to be classified (zip)/Terrestrial News at Five by Matt Mills.pdf
+TYPE: Cutting
 TITLE: Terrestrial News at Five
 AUTHOR: Matt Mills
 INTRO BOUNDARY: Not applicable (none (no introduction in this layout))

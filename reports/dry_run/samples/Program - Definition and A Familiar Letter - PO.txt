@@ -1,15 +1,13 @@
 FILE: incoming/Poetry/Any Gender Poetry/Definition and A Familiar Letter - PO.pdf
 TYPE: Program
 TITLE: A Definition and A Familiar Letter
-AUTHOR: Peter Nicholson and Oliver Wendell
+AUTHOR: Peter Nicholson and Oliver Wendell Holmes
 INTRO BOUNDARY: Medium (font only (no 'Title by Author' end marker))
 
 === INTRODUCTION ===
 Art is meant to dig down into the soil and put forth the images through which people may see their own lives refracted, their own emotions portrayed, even ennobled and transformed. Poetry is art as reflected in “A Definition” by Peter Nicholson.
 
-=== SELECTION 1 (after the introduction, 251 words) ===
-Holmes
-
+=== SELECTION 1 (after the introduction, 250 words) ===
 A Definition
 It lives
 When the gold myrtle-wreath

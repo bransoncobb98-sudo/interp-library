@@ -1,54 +1,55 @@
 # Dry run over incoming/
 
-Nothing was written to the database. Parser code version 7cf29a9727aa.
+Nothing was written to the database. Parser code version 31a645d0862c.
 
 ## Files by folder
 
-| Folder | Files | byte-identical copy | excluded by decision | parsed | parsed, duplicate text | refused: di_cutting: sections not in the expected order | refused: two_column (could not split cleanly) | refused: unrecognised |
-|---|---|---|---|---|---|---|---|---|
-| incoming/DI | 19 | 9 | 0 | 0 | 0 | 0 | 0 | 10 |
-| incoming/DI/Any Gender DI | 46 | 1 | 0 | 1 | 44 | 0 | 0 | 0 |
-| incoming/DI/Female DIs | 252 | 8 | 0 | 239 | 0 | 0 | 0 | 5 |
-| incoming/DI/Male DIs | 179 | 1 | 0 | 165 | 0 | 0 | 0 | 13 |
-| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 64 | 1 | 0 | 0 | 15 |
-| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 5 | 109 | 7 | 0 | 0 | 31 |
-| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 232 | 12 | 0 | 1 | 24 |
-| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 77 | 11 | 0 | 0 | 24 |
-| incoming/HI | 46 | 22 | 3 | 1 | 0 | 0 | 0 | 20 |
-| incoming/HI/Any Gender HI | 141 | 0 | 0 | 124 | 15 | 0 | 0 | 2 |
-| incoming/HI/Female HIs | 74 | 2 | 0 | 59 | 9 | 0 | 0 | 4 |
-| incoming/HI/Male HIs | 138 | 2 | 0 | 125 | 8 | 0 | 0 | 3 |
-| incoming/Needs to be classified (zip) | 195 | 13 | 8 | 23 | 0 | 0 | 17 | 134 |
-| incoming/POI Program Starter | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| incoming/Poetry/Any Gender Poetry | 260 | 2 | 0 | 247 | 3 | 1 | 0 | 7 |
-| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 117 | 3 | 0 | 0 | 2 |
-| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 65 | 2 | 0 | 0 | 3 |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 17 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 155 | 48 | 0 | 0 | 14 |
-| incoming/Prose/Prose- Female | 188 | 0 | 0 | 141 | 38 | 0 | 0 | 9 |
-| incoming/Prose/Prose- Male | 167 | 3 | 0 | 103 | 41 | 1 | 0 | 19 |
-| **Total** | 2785 | 103 | 16 | 2048 | 242 | 2 | 18 | 356 |
+| Folder | Files | byte-identical copy | excluded by decision | parsed | parsed, duplicate text | refused: di_cutting: sections not in the expected order | refused: mcp: sections not in the expected order | refused: reading order disagrees with pdftotext | refused: two_column (could not split cleanly) | refused: unrecognised |
+|---|---|---|---|---|---|---|---|---|---|---|
+| incoming/DI | 19 | 9 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| incoming/DI/Any Gender DI | 46 | 1 | 0 | 1 | 44 | 0 | 0 | 0 | 0 | 0 |
+| incoming/DI/Female DIs | 252 | 8 | 0 | 241 | 0 | 0 | 2 | 0 | 0 | 1 |
+| incoming/DI/Male DIs | 179 | 1 | 0 | 172 | 0 | 0 | 4 | 0 | 0 | 2 |
+| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 75 | 1 | 0 | 1 | 0 | 0 | 3 |
+| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 5 | 136 | 7 | 0 | 3 | 0 | 0 | 1 |
+| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 245 | 12 | 0 | 8 | 0 | 1 | 3 |
+| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 91 | 11 | 0 | 9 | 0 | 0 | 1 |
+| incoming/HI | 46 | 22 | 3 | 7 | 0 | 0 | 13 | 1 | 0 | 0 |
+| incoming/HI/Any Gender HI | 141 | 0 | 0 | 126 | 15 | 0 | 0 | 0 | 0 | 0 |
+| incoming/HI/Female HIs | 74 | 2 | 0 | 63 | 9 | 0 | 0 | 0 | 0 | 0 |
+| incoming/HI/Male HIs | 138 | 2 | 0 | 126 | 8 | 0 | 0 | 0 | 0 | 2 |
+| incoming/Needs to be classified (zip) | 195 | 13 | 8 | 43 | 0 | 0 | 18 | 0 | 17 | 96 |
+| incoming/POI Program Starter | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| incoming/Poetry/Any Gender Poetry | 260 | 2 | 0 | 247 | 3 | 1 | 0 | 0 | 0 | 7 |
+| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 117 | 3 | 0 | 0 | 0 | 0 | 2 |
+| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 65 | 2 | 0 | 0 | 0 | 0 | 3 |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 14 | 0 | 0 | 2 | 0 | 0 | 1 |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 17 | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 155 | 48 | 0 | 0 | 0 | 0 | 14 |
+| incoming/Prose/Prose- Female | 188 | 0 | 0 | 141 | 38 | 0 | 0 | 0 | 0 | 9 |
+| incoming/Prose/Prose- Male | 167 | 3 | 0 | 103 | 41 | 1 | 0 | 0 | 0 | 19 |
+| **Total** | 2785 | 103 | 16 | 2179 | 242 | 2 | 60 | 1 | 18 | 164 |
 
-## Parsed files (2290)
+## Parsed files (2421)
 
 | Measure | Count |
 |---|---|
 | layout: di_cutting | 2094 |
 | layout: program | 154 |
-| layout: publisher_script | 42 |
-| introduction boundary: High | 1855 |
-| introduction boundary: Medium | 393 |
-| introduction boundary: Not applicable | 42 |
-| record type: Cutting | 2151 |
+| layout: mcp | 134 |
+| layout: publisher_script | 39 |
+| introduction boundary: High | 1854 |
+| introduction boundary: Medium | 394 |
+| introduction boundary: Not applicable | 173 |
+| record type: Cutting | 2282 |
 | record type: Program | 139 |
-| teaser: Yes | 1637 |
-| teaser: No | 653 |
-| text layout: prose | 1634 |
-| text layout: mixed | 415 |
-| text layout: verse | 241 |
-| source citation: Complete | 2240 |
-| source citation: Partial | 45 |
+| teaser: Yes | 1628 |
+| teaser: No | 793 |
+| text layout: prose | 1707 |
+| text layout: mixed | 456 |
+| text layout: verse | 258 |
+| source citation: Complete | 2307 |
+| source citation: Partial | 109 |
 | source citation: Not stated | 5 |
 
 ## Reading order check
@@ -59,13 +60,13 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | Agreement | Parsed, one column | Parsed, some pages read as two columns | Refused |
 |---|---|---|---|
 | 0.00 to 0.50 | 0 | 0 | 0 |
-| 0.50 to 0.70 | 0 | 0 | 0 |
+| 0.50 to 0.70 | 0 | 0 | 1 |
 | 0.70 to 0.80 | 0 | 0 | 0 |
 | 0.80 to 0.85 | 0 | 0 | 0 |
 | 0.85 to 0.90 | 3 | 0 | 0 |
-| 0.90 to 0.95 | 0 | 1 | 0 |
-| 0.95 to 0.98 | 86 | 13 | 0 |
-| 0.98 to 1.00 | 1193 | 994 | 0 |
+| 0.90 to 0.95 | 1 | 1 | 0 |
+| 0.95 to 0.98 | 97 | 14 | 0 |
+| 0.98 to 1.00 | 1306 | 999 | 0 |
 | not measured | 0 | 0 | |
 
 ## Files already in the library, parsed again
@@ -78,14 +79,14 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 
 | Kind | Findings |
 |---|---|
-| artifact | 650 |
-| truncated | 300 |
-| balance | 238 |
-| length | 62 |
-| name variant | 55 |
-| mid-sentence start | 33 |
+| artifact | 699 |
+| truncated | 327 |
+| balance | 242 |
+| length | 79 |
+| name variant | 54 |
+| mid-sentence start | 35 |
 | leak | 26 |
-| font encoding | 20 |
+| font encoding | 23 |
 
 ### First QC findings of each kind
 
@@ -161,12 +162,73 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 - `incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf`: ISBN line in performance_text: 'ranscript by Erica Mehl\n\nISBN: 978-1-61387-007-5\n\nCopyr'
 - `incoming/Poetry/Any Gender Poetry/Blessed are the Confused - PO.pdf`: publisher line in performance_text: 'ament before performing) Publisher: 897065 Records DK Date ('
 
-## Not parsed (376)
+## Not parsed (245)
 
 | File | Status | Detail |
 |---|---|---|
 | incoming/Poetry/Any Gender Poetry/Homesick - A Plea for our Planet - PO.pdf | refused: di_cutting: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
 | incoming/Prose/Prose- Male/Jeffreys Moatmeal Accident - PR.pdf | refused: di_cutting: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/DI/Female DIs/MushroomCloud_ANewWorld.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/DI/Female DIs/MushroomCloud_GodIfYoureReally.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/DI/Male DIs/MushroomCloud_Brothers.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/DI/Male DIs/MushroomCloud_HistoryLesson.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/DI/Male DIs/MushroomCloud_MyPerfectFeet.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/DI/Male DIs/MushroomCloud_TallerToday.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - PinocchioNoStringsAttached.pages.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_GoodMorningGlory.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_MotherDaughter.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_TheUltimateDrama.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_40.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_BudsWithSpuds.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_CountdownToLove.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Face-Baggage.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_GR8TXTMSGWAR.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Minnesota.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_STOP.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_TheAssistant.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EveryonesGonnaDie.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EveryonesStillDead.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EverythingFallsOff.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_FrontPorchChronicles.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_HamiltonSasquatch.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_LuigiAndMario.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_PostInferno.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_Shrinkage.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheAltos.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_BatmanAndRobin_BestMovieEver(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_BlackFedora(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_CityMorgue(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_HoHoHo(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_InvestigatorQ(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_KidInControl(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_LittleSuzySeesGod(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_MaryChoppins(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_Moonraker(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_Penny(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_RidgevilleTalintedShow(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_TheAudacityOfNope(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_WilliamShakespearesJerseyShore(1).pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_CalvinCoolidge.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_Camp.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_DrWilderness.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_Finding Ryan.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_GeraldTheSpork.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_Girls.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_GreatIdeas.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_NewLeashOnLife.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_PhysicallyImpossible.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_RhymesWithOrange.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_SesameLifeOnTheStreets.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_SnowWhite.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_TableFor2PartyOf4.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_TheBoShow.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_TheDisappointingSon.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_VirtuallyDateable.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/MushroomCloud_iWant.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Needs to be classified (zip)/Play Descriptions - Mushroom Cloud Press - New Scripts 2024.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/A War Worth Fighting - Mushroom Cloud Press.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/_MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf | refused: mcp: sections not in the expected order | The section headings are not in the order this layout expects; needs a hand check. |
+| incoming/HI/MushroomCloud_SarahGlowingOrb(1).pdf | refused: reading order disagrees with pdftotext | Only 63% of 5-word runs match pdftotext's reading order (mcp parser). |
 | incoming/Duo-Duet/M-F Duos & Duets/Little Footsteps - Serious - DUO.pdf | refused: two_column (could not split cleanly) | page 10: 303 characters on the page but 230 in the column regions |
 | incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Dads_Coming_Home.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
 | incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Rose_and_June.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
@@ -185,157 +247,19 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Pipe_Dreams_-_A_Mockumentary.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
 | incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Take_43.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
 | incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__The_General_Salute.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
-| incoming/DI/Female DIs/Mushroom Cloud - Babe.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/MushroomCloud_ANewWorld.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/MushroomCloud_GodIfYoureReally.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/MushroomCloud_HowToEatCatFood.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Zlatas Diary - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Looking a Lot Like Christmas - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_Brothers.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_HistoryLesson.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_HowToRideAMotorcycleBadly.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_JackTheLionheart.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_LivingInColor.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_MyPerfectFeet.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_NoLongerTheFirst.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_RedGod.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_Revolution.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_TallerToday.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/MushroomCloud_TheYearbook.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Truth in Dreams - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Mushroom Cloud - Fighting Stance.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Mushroom Cloud - I Have Recently Returned.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Mushroom Cloud - It’s A Girl Problem.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Mushroom Cloud - My All-Time Favorites.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/MushroomCloud - An Evening With Julia Maggiano.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/MushroomCloud - H for Hercules.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/MushroomCloud - Mothers Day.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/MushroomCloud - Remember One Word.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/MushroomCloud - Sister of Mercy.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/MushroomCloud - Thomas More Doesn_t Know Me.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/A Very Clean Place_0_Duet-Duo.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Burning Down the House - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Math Curse - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - After You.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Anxiety Versus You.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Assignment Apple.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Beauty and the Beast - Human Resources.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Brooke Marigold, PI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - C and K Save a Non-Verbal Child .pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Emily_s Post-Apocaylptic Book of Zombie Etiquette.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - In A Jam.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - PinocchioNoStringsAttached.pages.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - The Mulligan.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - The Organ Ordeal.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - The Perfect Son.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/F-F Duos & Duets/A Girl_s Guide to Science_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - A Dozen Red Flags(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - A.I. Speech Bot.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - D and Me(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - Fairytale Feud(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - Going Down.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - Hashtag(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - In Plain Sight(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - Katy and Sara(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - Power Struggle.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - Rapunzel and EllaΓÇÖs Magical Hair Salon.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - The Big Decision(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/Mushroom Cloud - The Main Character(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_BeautyBootCamp.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_BirthdayCandles.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_CavegirlTeachesEvolution.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Declined.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_GirlsGuide.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_GoodMorningGlory.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_HowMuchILoveYou.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_LockedAway.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_MissErma.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_MotherDaughter.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Rush Hour.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_TheDuffingOfEunicePowell.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_TheEmancipationOfMrTinkles.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_TheGirlInThePicture.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_ThePrincessAndTheP.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_TheUltimateDrama.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Unfunny.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Unplugged.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/13 Things You Don_t Know By Swans_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/4-0_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Life Cycles - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - 20 Questions and a Motive for Murder.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - A Trip Through Monte Carla.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - Junk We Never Said Thank You For.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - Office Case.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud - Play Nice.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud_It_s An Emergency.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud_Shakespeare in Like.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud_The Next Table.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/Mushroom Cloud_Tutoring Session.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_40.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_BudsWithSpuds.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_ChildsPlay.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_CountdownToLove.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_ExitInterview.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Face-Baggage.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_GR8TXTMSGWAR.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Minnesota.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_NotForSale.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_Playdate.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_STOP.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-F Duos & Duets/MushroomCloud_TheAssistant.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/Midnight Clear - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - Dinner Dilemma.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - Everything Bagel.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - HowTybaltCapuletAlmostSavedItaly.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - Imaginary Friend.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - The Ad Lib.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - The Leak.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/Mushroom Cloud - Winnebago.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_DuckSurgeon.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EveryonesGonnaDie.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EveryonesStillDead.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EverythingFallsOff.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_FloridaMaeTuesdaysSecond6thBirthday.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_FrontPorchChronicles.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_HamiltonSasquatch.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_LuigiAndMario.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_Overcooked.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_PostInferno.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_Shrinkage.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheAltos.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheBrightSideofDeath.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheCommander.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_TheLoreOfTheDRings.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_ThePrincipalsOfDrugs.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Any Gender HI/Mushroom Cloud - Introvert_s Guide to Quarantine.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Any Gender HI/Mushroom Cloud - Nora Wants a Baby.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Female HIs/Mushroom Cloud - Dinosaurs Love Chips.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Female HIs/Mushroom Cloud - KTDs.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Female HIs/Mushroom Cloud - Talking to Teddy.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Female HIs/Mushroom Cloud - We Had Chemistry.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/5 Lessons I Learned in my First Year of Teaching_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Male HIs/Mushroom Cloud - Dis-Orientation.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Male HIs/Story in Harlem Slang from Spunk - HI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_BadDetective(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_BlackFedora(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_CityMorgue(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_CouncilOfDoom(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_EverythingUnderTheSun(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_FastFoodFairytale(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_HoHoHo(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_HotDogTimeMachine(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_InvestigatorQ(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_JerryAWizardSchoolDropout(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_KidInControl(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_LittleSuzySeesGod(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_MaryChoppins(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_Moonraker(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_Penny(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_RidgevilleTalintedShow(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_SarahGlowingOrb(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_TheAnyThing(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_TheAudacityOfNope(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_WilliamShakespearesJerseyShore(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Andrew Green_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Appropriate Diet for a Pet_0_Duet-Duo.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Brothers_0_Duet-Duo.pdf | refused: unrecognised | No parser matched this layout. |
@@ -370,50 +294,12 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Needs to be classified (zip)/Luigi _ Mario_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Minutes From the Council United For World Destruction_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Mrs. Needy_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Press Play.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Ringing.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Screaming Timmy Must Die.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Sibling Rivalry.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - So You Want to Date a Superhero.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Soccer Moms (and a Dad).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - SpaceCadets.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Sports Atheist.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Swipe Up.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Take Care Of It.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - The Chess Piece Piece.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - The Furious Fists of Julia.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - The Ruler.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - The Worst Day Ever.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Mushroom Cloud - Under a Curtain of Stars.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_13ThingsAboutSwans.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_BeneathThePuppetStand.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_CalvinCoolidge.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_Camp.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_DepressedWhiteGirl.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_DrWilderness.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_Finding Ryan.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_GeraldTheSpork.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_Girls.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_GreatIdeas.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_MaytheBestManWin.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_NewLeashOnLife.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_PhysicallyImpossible.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_RhymesWithOrange.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_SesameLifeOnTheStreets.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_SingleWhiteFemale.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_SnowWhite.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_TableFor2PartyOf4.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_TheBoShow.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_TheDisappointingSon.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_VirtuallyDateable.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_iWant.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/My Life in Babysittters_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/My Tiny Dancer_s Hands_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/No Longer The First_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/One_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Papa Oscar_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Penny _ The Adventures of Tickle-Me Elmo_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Play Descriptions - Mushroom Cloud Press - New Scripts 2024.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Play This at My Funeral_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Post Inferno_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Promiscuoous Ankles_0.pdf | refused: unrecognised | No parser matched this layout. |
@@ -482,23 +368,7 @@ reading-order output. Files below 0.85 are refused. Column mistakes keep every w
 | incoming/Poetry/Poetry Male/Anthem M-80 and Parked Car - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Poetry Male/Identity Papers - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Poetry Male/Winter Run - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/2 B R 0 2 B - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/A Haunted House - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/A War Worth Fighting - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Gabriel-Ernest - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/King Lear - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/My Brother Henry  - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Several Trojan Skirmishes and One Wooden Animal - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Eyes Have It - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Feast of Nemesis - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Girl at the Gate - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Inconsiderate Waiter - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Magic Shop - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Outcasts of Poker Flat - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Queen of Spades - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Two Friends - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/Why the Sea is Salt - Mushroom Cloud Press.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/_MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Prose/Prose Any Gender/2BR02B - PR.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Prose/Prose Any Gender/Big Nap - PR.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Prose/Prose Any Gender/Charlie the Caterpillar - PR.pdf | refused: unrecognised | No parser matched this layout. |

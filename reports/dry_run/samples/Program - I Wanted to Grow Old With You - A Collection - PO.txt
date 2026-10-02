@@ -1,7 +1,7 @@
 FILE: incoming/Poetry/Any Gender Poetry/I Wanted to Grow Old With You - A Collection - PO.pdf
 TYPE: Program
 TITLE: I Wanted to Grow Old with You (A Collection on Divorce)
-AUTHOR: Jeredith Merrin, Gabeba Baderoon, Melissa Stein, Tony Hoagland and Jack
+AUTHOR: Jeredith Merrin, Gabeba Baderoon, Melissa Stein, Tony Hoagland and Jack Gilbert
 INTRO BOUNDARY: Medium (font only (no 'Title by Author' end marker))
 
 === INTRODUCTION ===
@@ -9,9 +9,7 @@ Almost everyone wants a happy marriage and wants it to last a lifetime. Divorce 
 
 I Wanted to Grow Old with You is a collection of poetry on the theme . . . Divorce
 
-=== SELECTION 1 (after the introduction, 237 words) ===
-Gilbert
-
+=== SELECTION 1 (after the introduction, 236 words) ===
 Family Reunion by Jeredith Merrin The divorced mother and her divorcing daughter. The about-to-be ex-son-in-law and the ex-husband’s adopted son. The divorcing daughter’s child, who is
 
 the step-nephew of the ex-husband’s

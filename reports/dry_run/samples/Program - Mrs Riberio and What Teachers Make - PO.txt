@@ -1,7 +1,7 @@
 FILE: incoming/Poetry/Any Gender Poetry/Mrs Riberio and What Teachers Make - PO.pdf
 TYPE: Program
 TITLE: Mrs. Riberio and What Teachers Make
-AUTHOR: Sarah Kay and Taylor Mali
+AUTHOR: Sarah Kay and Taylor Mali Mrs. Riberio
 INTRO BOUNDARY: Medium (font only (no 'Title by Author' end marker))
 
 === INTRODUCTION ===
@@ -9,8 +9,8 @@ One of my favorite quotes about teaching goes something like this: One hundred y
 
 In her poem Mrs. Riberio, author Sarah Kay pays tribute to a teacher who most definitely shaped her future and the future of a multitude of students. Mrs. Riberio by Sarah Kay.
 
-=== SELECTION 1 (after the introduction, 810 words) ===
-Mrs. Riberio I was in Northern India, at a school run entirely by women volunteers, when I heard it for the first time in ages. It was barely audible above the shouting of children -- the squeals and laughter bubbling from the schoolyard into the classroom windows. But it was there: the swish of silk saris and the jingle jangle of bangles on thin wrists like wind chimes.
+=== SELECTION 1 (after the introduction, 808 words) ===
+I was in Northern India, at a school run entirely by women volunteers, when I heard it for the first time in ages. It was barely audible above the shouting of children -- the squeals and laughter bubbling from the schoolyard into the classroom windows. But it was there: the swish of silk saris and the jingle jangle of bangles on thin wrists like wind chimes.
 
 This is what learning sounds like. I remember.
 

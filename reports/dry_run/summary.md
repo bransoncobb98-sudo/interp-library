@@ -1,88 +1,88 @@
 # Dry run over incoming/
 
-Nothing was written to the database. Parser code version f7a9f58fe160.
+Nothing was written to the database. Parser code version 2cfe38374d32.
 
 ## Files by folder
 
-| Folder | Files | byte-identical copy | error | parsed | parsed, duplicate text | refused: two_column (no parser yet) | refused: unrecognised |
-|---|---|---|---|---|---|---|---|
-| incoming/DI | 19 | 9 | 0 | 0 | 0 | 0 | 10 |
-| incoming/DI/Any Gender DI | 46 | 1 | 0 | 1 | 44 | 0 | 0 |
-| incoming/DI/Female DIs | 252 | 8 | 0 | 232 | 0 | 2 | 10 |
-| incoming/DI/Male DIs | 179 | 1 | 0 | 154 | 0 | 1 | 23 |
-| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 59 | 1 | 1 | 19 |
-| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 0 | 107 | 7 | 5 | 33 |
-| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 228 | 11 | 0 | 30 |
-| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 75 | 11 | 0 | 26 |
-| incoming/HI | 46 | 22 | 0 | 1 | 0 | 4 | 19 |
-| incoming/HI/Any Gender HI | 141 | 0 | 0 | 121 | 14 | 1 | 5 |
-| incoming/HI/Female HIs | 74 | 2 | 0 | 58 | 8 | 0 | 6 |
-| incoming/HI/Male HIs | 138 | 2 | 0 | 121 | 7 | 0 | 8 |
-| incoming/Needs to be classified (zip) | 195 | 16 | 0 | 23 | 0 | 5 | 151 |
-| incoming/POI Program Starter | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
-| incoming/Poetry/Any Gender Poetry | 260 | 2 | 5 | 30 | 0 | 146 | 77 |
-| incoming/Poetry/Poetry Female | 124 | 2 | 1 | 13 | 0 | 77 | 31 |
-| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 8 | 0 | 49 | 13 |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 0 | 0 | 0 | 17 |
-| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 34 | 30 | 4 | 0 | 0 | 0 | 0 |
-| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 26 | 0 | 171 | 20 |
-| incoming/Prose/Prose- Female | 188 | 0 | 0 | 23 | 0 | 140 | 25 |
-| incoming/Prose/Prose- Male | 167 | 3 | 0 | 15 | 0 | 132 | 17 |
-| **Total** | 2802 | 119 | 10 | 1296 | 103 | 734 | 540 |
+| Folder | Files | byte-identical copy | error | excluded by decision | parsed | parsed, duplicate text | refused: two_column (could not split cleanly) | refused: unrecognised |
+|---|---|---|---|---|---|---|---|---|
+| incoming/DI | 19 | 9 | 0 | 0 | 0 | 0 | 0 | 10 |
+| incoming/DI/Any Gender DI | 46 | 1 | 0 | 0 | 1 | 44 | 0 | 0 |
+| incoming/DI/Female DIs | 252 | 8 | 0 | 0 | 234 | 0 | 0 | 10 |
+| incoming/DI/Male DIs | 179 | 1 | 0 | 0 | 155 | 0 | 0 | 23 |
+| incoming/Duo-Duet/Any-Any Duos & Duets | 80 | 0 | 0 | 0 | 60 | 1 | 0 | 19 |
+| incoming/Duo-Duet/F-F Duos & Duets | 169 | 17 | 0 | 5 | 107 | 7 | 0 | 33 |
+| incoming/Duo-Duet/M-F Duos & Duets | 271 | 2 | 0 | 0 | 227 | 11 | 1 | 30 |
+| incoming/Duo-Duet/M-M Duos & Duets | 113 | 1 | 0 | 0 | 75 | 11 | 0 | 26 |
+| incoming/HI | 46 | 22 | 0 | 3 | 1 | 0 | 0 | 20 |
+| incoming/HI/Any Gender HI | 141 | 0 | 0 | 0 | 122 | 14 | 0 | 5 |
+| incoming/HI/Female HIs | 74 | 2 | 0 | 0 | 58 | 8 | 0 | 6 |
+| incoming/HI/Male HIs | 138 | 2 | 0 | 0 | 121 | 7 | 0 | 8 |
+| incoming/Needs to be classified (zip) | 195 | 13 | 0 | 8 | 23 | 0 | 17 | 134 |
+| incoming/POI Program Starter | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| incoming/Poetry/Any Gender Poetry | 260 | 2 | 1 | 0 | 155 | 3 | 0 | 99 |
+| incoming/Poetry/Poetry Female | 124 | 2 | 0 | 0 | 87 | 3 | 0 | 32 |
+| incoming/Poetry/Poetry Male | 70 | 0 | 0 | 0 | 52 | 2 | 0 | 16 |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
+| incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents | 17 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| incoming/Prose/Prose Any Gender | 218 | 1 | 0 | 0 | 152 | 47 | 0 | 18 |
+| incoming/Prose/Prose- Female | 188 | 0 | 0 | 0 | 137 | 38 | 0 | 13 |
+| incoming/Prose/Prose- Male | 167 | 3 | 1 | 0 | 106 | 37 | 0 | 20 |
+| **Total** | 2785 | 103 | 2 | 16 | 1874 | 233 | 18 | 539 |
 
-## Parsed files (1399)
+## Parsed files (2107)
 
 | Measure | Count |
 |---|---|
-| layout: di_cutting | 1357 |
+| layout: di_cutting | 2065 |
 | layout: publisher_script | 42 |
-| introduction boundary: High | 1078 |
-| introduction boundary: Medium | 279 |
+| introduction boundary: High | 1753 |
+| introduction boundary: Medium | 312 |
 | introduction boundary: Not applicable | 42 |
-| teaser: Yes | 1107 |
-| teaser: No | 292 |
-| text layout: prose | 1121 |
-| text layout: mixed | 251 |
-| text layout: verse | 27 |
-| source citation: Complete | 1382 |
-| source citation: Partial | 12 |
+| teaser: Yes | 1507 |
+| teaser: No | 600 |
+| text layout: prose | 1559 |
+| text layout: mixed | 326 |
+| text layout: verse | 222 |
+| source citation: Complete | 2094 |
+| source citation: Partial | 8 |
 | source citation: Not stated | 5 |
 
-## Two-column measure (share of multi-word lines with a mid-page gap)
+## Reading order check
 
-Files above 0.25 are refused as two-column. A clean split between the groups means the threshold is safe.
+Share of 5-word runs in the extracted introduction and performance text that also appear in pdftotext's own
+reading-order output. Files below 0.85 are refused. Column mistakes keep every word but scramble the order.
 
-| Share | Parsed | Refused as two-column |
-|---|---|---|
-| 0.00 to 0.05 | 1187 | 0 |
-| 0.05 to 0.10 | 94 | 0 |
-| 0.10 to 0.15 | 28 | 0 |
-| 0.15 to 0.20 | 41 | 0 |
-| 0.20 to 0.25 | 50 | 0 |
-| 0.25 to 0.30 | 0 | 98 |
-| 0.30 to 0.35 | 0 | 74 |
-| 0.35 to 0.40 | 0 | 57 |
-| 0.40 to 0.45 | 0 | 93 |
-| 0.45 to 0.50 | 0 | 87 |
-| 0.50 to 0.55 | 0 | 93 |
-| 0.55 to 0.60 | 0 | 96 |
-| 0.60 to 0.65 | 0 | 60 |
-| 0.65 to 0.70 | 0 | 59 |
-| 0.70 to 0.75 | 0 | 16 |
-| 0.75 to 0.80 | 0 | 4 |
+| Agreement | Parsed, one column | Parsed, some pages read as two columns | Refused |
+|---|---|---|---|
+| 0.00 to 0.50 | 0 | 0 | 0 |
+| 0.50 to 0.70 | 0 | 0 | 0 |
+| 0.70 to 0.80 | 0 | 0 | 0 |
+| 0.80 to 0.85 | 0 | 0 | 0 |
+| 0.85 to 0.90 | 3 | 0 | 0 |
+| 0.90 to 0.95 | 0 | 1 | 0 |
+| 0.95 to 0.98 | 82 | 4 | 0 |
+| 0.98 to 1.00 | 1158 | 859 | 0 |
+| not measured | 0 | 0 | |
+
+## Files already in the library, parsed again
+
+45 identical to the stored record (title, author, work, publisher, introduction, source block, raw text).
+
+- `incoming/DI/Any Gender DI/Live to Tell - DI.pdf` (IC-0032): now byte-identical copy of incoming/DI/Any Gender DI/Live to Tell - DI (1).pdf
 
 ## QC findings in parsed files
 
 | Kind | Findings |
 |---|---|
-| artifact | 428 |
-| balance | 202 |
-| truncated | 170 |
-| length | 155 |
-| mid-sentence start | 69 |
-| leak | 29 |
-| font encoding | 17 |
-| name variant | 16 |
+| artifact | 611 |
+| balance | 228 |
+| truncated | 215 |
+| length | 59 |
+| name variant | 28 |
+| mid-sentence start | 28 |
+| font encoding | 19 |
+| leak | 18 |
 
 ### First QC findings of each kind
 
@@ -156,20 +156,38 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 - `incoming/Needs to be classified (zip)/Roses-In-December-by-Gregg-Moeller.pdf`: introduction heading in performance_text: 're still breathing well.\n\nINTRODUCTION\n\nANN. Ah—the successful w'
 - `incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf`: introduction heading in performance_text: 'd us all to be punished.\n\nINTRODUCTION\n\nIt is impossible for any'
 - `incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf`: ISBN line in performance_text: 'ranscript by Erica Mehl\n\nISBN: 978-1-61387-007-5\n\nCopyr'
-- `incoming/Poetry/Any Gender Poetry/130 Million Shattered Lives - PO.pdf`: ISBN line in performance_text: 'gees-and-asylum-seekers\n\nISBN: N/A Meetings held in sec'
+- `incoming/Poetry/Any Gender Poetry/Last Days - PO.pdf`: award text in performance_text: 'MN State Qualifier\n\n2008 National Qualifier\nIn the last hours, she k'
 
-## Not parsed (1284)
+## Not parsed (559)
 
 | File | Status | Detail |
 |---|---|---|
-| incoming/DI/Female DIs/Blue Dress - DI.pdf | refused: two_column (no parser yet) | 26% of lines have a gap across the middle of the page: two columns. |
+| incoming/Poetry/Any Gender Poetry/Homesick - A Plea for our Planet - PO.pdf | error | StopIteration |
+| incoming/Prose/Prose- Male/Jeffreys Moatmeal Accident - PR.pdf | error | StopIteration |
+| incoming/Duo-Duet/M-F Duos & Duets/Little Footsteps - Serious - DUO.pdf | refused: two_column (could not split cleanly) | page 10: 303 characters on the page but 230 in the column regions |
+| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Dads_Coming_Home.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
+| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Rose_and_June.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
+| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_Crayon_Map.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
+| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_King_of_Nerd_Camp.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
+| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_Remarkable_Adventure_of_States_the_Obvious_Girl.pdf | refused: two_column (could not split cleanly) | page 2: 2586 characters on the page but 2548 in the column regions |
+| incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Program_Builder_-_Past_the_Profundity.pdf | refused: two_column (could not split cleanly) | page 3: 2799 characters on the page but 1290 in the column regions |
+| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Being_That_Guy.pdf | refused: two_column (could not split cleanly) | page 2: 2823 characters on the page but 2780 in the column regions |
+| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Canada_Eh_-_A_Salute_to_All_Things_Canuck.pdf | refused: two_column (could not split cleanly) | page 2: 2823 characters on the page but 2780 in the column regions |
+| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Learning_to_Fall.pdf | refused: two_column (could not split cleanly) | page 2: 2823 characters on the page but 2780 in the column regions |
+| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__The_Amazing_Presto.pdf | refused: two_column (could not split cleanly) | page 2: 2823 characters on the page but 2780 in the column regions |
+| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__The_Apology_of_Socrates.pdf | refused: two_column (could not split cleanly) | page 2: 2823 characters on the page but 2780 in the column regions |
+| incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Burned_Out.pdf | refused: two_column (could not split cleanly) | page 3: 779 characters on the page but 434 in the column regions |
+| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__In_A_Specimen_Box.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
+| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__My_Other.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
+| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Pipe_Dreams_-_A_Mockumentary.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
+| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Take_43.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
+| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__The_General_Salute.pdf | refused: two_column (could not split cleanly) | page 2: 2855 characters on the page but 2658 in the column regions |
 | incoming/DI/Female DIs/French Fries - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Mushroom Cloud - Babe.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_ANewWorld.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_GodIfYoureReally.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/MushroomCloud_HowToEatCatFood.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Palace of the End - Instruments of Yearning - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Female DIs/Scraps - DI.pdf | refused: two_column (no parser yet) | 41% of lines have a gap across the middle of the page: two columns. |
 | incoming/DI/Female DIs/Silver Water - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Southern Utah - Another Tragedy - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Female DIs/Stolen Moments - DI.pdf | refused: unrecognised | No parser matched this layout. |
@@ -197,7 +215,6 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/DI/Male DIs/MushroomCloud_TheYearbook.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Perfect Moments - DI.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Male DIs/Truth in Dreams - DI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/DI/Male DIs/Walking on Glass - DI.pdf | refused: two_column (no parser yet) | 26% of lines have a gap across the middle of the page: two columns. |
 | incoming/DI/Mushroom Cloud - Fighting Stance.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Mushroom Cloud - I Have Recently Returned.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/DI/Mushroom Cloud - It’s A Girl Problem.pdf | refused: unrecognised | No parser matched this layout. |
@@ -213,7 +230,6 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Duo-Duet/Any-Any Duos & Duets/Complete Works of William Shakespeare Abridged-Revised - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Elephants Graveyard - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Fantastic Mr Fox - DUO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/Any-Any Duos & Duets/How to be a Villain - DUO.pdf | refused: two_column (no parser yet) | 25% of lines have a gap across the middle of the page: two columns. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Math Curse - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - After You.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - Anxiety Versus You.pdf | refused: unrecognised | No parser matched this layout. |
@@ -261,11 +277,6 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_TheUltimateDrama.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Unfunny.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/F-F Duos & Duets/MushroomCloud_Unplugged.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Duo-Duet/F-F Duos & Duets/SpeechGeek Presents Female-Female Duo Vol 2.pdf | refused: two_column (no parser yet) | 70% of lines have a gap across the middle of the page: two columns. |
-| incoming/Duo-Duet/F-F Duos & Duets/SpeechGeek Presents Female-Female Duo Vol 3.pdf | refused: two_column (no parser yet) | 55% of lines have a gap across the middle of the page: two columns. |
-| incoming/Duo-Duet/F-F Duos & Duets/SpeechGeek Presents Female-Female Duo.pdf | refused: two_column (no parser yet) | 48% of lines have a gap across the middle of the page: two columns. |
-| incoming/Duo-Duet/F-F Duos & Duets/SpeechGeek-Presents-Female-Female-Duo-Vol-4.pdf | refused: two_column (no parser yet) | 57% of lines have a gap across the middle of the page: two columns. |
-| incoming/Duo-Duet/F-F Duos & Duets/SpeechGeek-Presents-Female-Female-Duo-Vol-5.pdf | refused: two_column (no parser yet) | 55% of lines have a gap across the middle of the page: two columns. |
 | incoming/Duo-Duet/M-F Duos & Duets/13 Things You Don_t Know By Swans_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/4-0_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-F Duos & Duets/Bar Mitzvah Boy - DUO.pdf | refused: unrecognised | No parser matched this layout. |
@@ -323,7 +334,6 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_ThePrincipalsOfDrugs.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Duo-Duet/M-M Duos & Duets/Pillowman - DUO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Complete Works of William Shakespeare Abridged-Revised - HI.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/Any Gender HI/How to be a Villain - HI.pdf | refused: two_column (no parser yet) | 28% of lines have a gap across the middle of the page: two columns. |
 | incoming/HI/Any Gender HI/Mushroom Cloud - Introvert_s Guide to Quarantine.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Mushroom Cloud - Nora Wants a Baby.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/Any Gender HI/Puberty - The Game Show - HI.pdf | refused: unrecognised | No parser matched this layout. |
@@ -354,7 +364,7 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/HI/MushroomCloud_JerryAWizardSchoolDropout(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_KidInControl(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_LittleSuzySeesGod(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/MushroomCloud_MaryChoppins(1).pdf | refused: two_column (no parser yet) | 48% of lines have a gap across the middle of the page: two columns. |
+| incoming/HI/MushroomCloud_MaryChoppins(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_Moonraker(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_Penny(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_RidgevilleTalintedShow(1).pdf | refused: unrecognised | No parser matched this layout. |
@@ -362,9 +372,6 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/HI/MushroomCloud_TheAnyThing(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_TheAudacityOfNope(1).pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/HI/MushroomCloud_WilliamShakespearesJerseyShore(1).pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/HI/SpeechGeek-Presents-HIlarious-Vol-1.pdf | refused: two_column (no parser yet) | 60% of lines have a gap across the middle of the page: two columns. |
-| incoming/HI/SpeechGeek-Presents-HIlarious-Vol-2.pdf | refused: two_column (no parser yet) | 54% of lines have a gap across the middle of the page: two columns. |
-| incoming/HI/SpeechGeek-Presents-HIlarious-Vol-3.pdf | refused: two_column (no parser yet) | 58% of lines have a gap across the middle of the page: two columns. |
 | incoming/Needs to be classified (zip)/Andrew Green_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Appropriate Diet for a Pet_0_Duet-Duo.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Brothers_0_Duet-Duo.pdf | refused: unrecognised | No parser matched this layout. |
@@ -417,7 +424,7 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Needs to be classified (zip)/MushroomCloud_13ThingsAboutSwans.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/MushroomCloud_BeneathThePuppetStand.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/MushroomCloud_CalvinCoolidge.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/MushroomCloud_Camp.pdf | refused: two_column (no parser yet) | 49% of lines have a gap across the middle of the page: two columns. |
+| incoming/Needs to be classified (zip)/MushroomCloud_Camp.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/MushroomCloud_DepressedWhiteGirl.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/MushroomCloud_DrWilderness.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/MushroomCloud_Finding Ryan.pdf | refused: unrecognised | No parser matched this layout. |
@@ -448,11 +455,6 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Needs to be classified (zip)/Promiscuoous Ankles_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Red God_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Ridgeville Elementary School_s Extremely Talinted Show_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Dads_Coming_Home.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Rose_and_June.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_Crayon_Map.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_King_of_Nerd_Camp.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_Remarkable_Adventure_of_States_the_Obvious_Girl.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Scars_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Eight_-_Winter_2011__Chasing_Snowflakes.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Eight_-_Winter_2011__For_My_Baby.pdf | refused: unrecognised | No parser matched this layout. |
@@ -464,7 +466,6 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__Reflection.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__The_Best_Worst_Date.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__The_Dragon_Slayer_of_Eastman_Senior_High.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Program_Builder_-_Past_the_Profundity.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Saving_Face.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Schrodingers_Kiss.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Thrift.pdf | refused: unrecognised | No parser matched this layout. |
@@ -474,27 +475,11 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__The_Music_Teacher.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__Totally_Sheltered.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__Trash_Can_Heart.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Being_That_Guy.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Canada_Eh_-_A_Salute_to_All_Things_Canuck.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Learning_to_Fall.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__The_Amazing_Presto.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__The_Apology_of_Socrates.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Bruise_Ship.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Burned_Out.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Content.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Dividing_by_Zero.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Forever_As_the_Stars.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__In_A_Specimen_Box.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__My_Other.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Pipe_Dreams_-_A_Mockumentary.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Take_43.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__The_General_Salute.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Shrinkage_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Needs to be classified (zip)/SpeechGeek-Season-Eight-Fall-2010.pdf | refused: two_column (no parser yet) | 44% of lines have a gap across the middle of the page: two columns. |
-| incoming/Needs to be classified (zip)/SpeechGeek-Season-Eight-Winter-2011.pdf | refused: two_column (no parser yet) | 59% of lines have a gap across the middle of the page: two columns. |
-| incoming/Needs to be classified (zip)/SpeechGeek-Season-Five-Nationals-2008.pdf | refused: two_column (no parser yet) | 38% of lines have a gap across the middle of the page: two columns. |
-| incoming/Needs to be classified (zip)/SpeechGeek-Season-Seven-Nats-2010.pdf | refused: two_column (no parser yet) | 28% of lines have a gap across the middle of the page: two columns. |
-| incoming/Needs to be classified (zip)/SpeechGeek-Season-Six-Nationals-2009.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Stop!_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Superman_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/Surprised We Haven_t Met Before_0.pdf | refused: unrecognised | No parser matched this layout. |
@@ -521,44 +506,59 @@ Files above 0.25 are refused as two-column. A clean split between the groups mea
 | incoming/Needs to be classified (zip)/You Can_t Take Them Home at Night_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/his sunt dracones_0.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Needs to be classified (zip)/squirrel_0.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/1990 - PO.pdf | refused: two_column (no parser yet) | 56% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Abridged History of America - PO.pdf | refused: two_column (no parser yet) | 59% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/After the Death of Anna Gonzales - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Agrippa (A Book of the Dead) - PO.pdf | refused: two_column (no parser yet) | 62% of lines have a gap across the middle of the page: two columns. |
+| incoming/Poetry/Any Gender Poetry/130 Million Shattered Lives - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Almost - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/America - Its Gotta be the Cheese - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/America Poem - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/America Reloading - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/America the Beautiful - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/American Poetry - PO.pdf | refused: two_column (no parser yet) | 49% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Angel Island - Words from the Barracks - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Anthem - PO.pdf | refused: two_column (no parser yet) | 52% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Art of Teaching - PO.pdf | refused: two_column (no parser yet) | 58% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Away from the Sun - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Ballad of the Seven Songs - PO.pdf | refused: two_column (no parser yet) | 49% of lines have a gap across the middle of the page: two columns. |
+| incoming/Poetry/Any Gender Poetry/American Poetry - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Behind the Staff Room Door - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Between the Star and the Street - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Birmingham Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Blessed are the Confused - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Body of an American - PO.pdf | refused: two_column (no parser yet) | 43% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Borders Accents and Weapons - PO.pdf | refused: two_column (no parser yet) | 31% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Bouquets - PO.pdf | refused: two_column (no parser yet) | 26% of lines have a gap across the middle of the page: two columns. |
+| incoming/Poetry/Any Gender Poetry/Borders Accents and Weapons - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Broken - A Collection in Memory of Matthew Shepard - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Buddy Wakefield Collection - PO.pdf | refused: two_column (no parser yet) | 30% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Bully - PO.pdf | refused: two_column (no parser yet) | 58% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Burning Down the House - PO.pdf | refused: two_column (no parser yet) | 38% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Butcher (Poems from) - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Burning Down the House - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Cats in the Cradle and Love You Forever - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Cautionary Tales for Children - PO.pdf | refused: two_column (no parser yet) | 54% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Challenges of Education - PO.pdf | refused: two_column (no parser yet) | 52% of lines have a gap across the middle of the page: two columns. |
+| incoming/Poetry/Any Gender Poetry/Challenges of Education - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Chambers of a Gun if the Bullet Does Not Exist - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Cherokee Lottery Collection - PO (1).pdf | refused: two_column (no parser yet) | 29% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/City of Slaughter - PO.pdf | refused: two_column (no parser yet) | 58% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Cliched Meaning of Life - PO - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Code Orange and the Good News - PO.pdf | refused: two_column (no parser yet) | 30% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Collection from Chasing Utopia - PO.pdf | refused: two_column (no parser yet) | 27% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Collection of Childhood Memories - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Collection on Cancer - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Collection on Suicide - PO.pdf | refused: two_column (no parser yet) | 46% of lines have a gap across the middle of the page: two columns. |
-| incoming/Poetry/Any Gender Poetry/Coming of Archy and Mehitabel and her Kittens - PO.pdf | refused: two_column (no parser yet) | 39% of lines have a gap across the middle of the page: two columns. |
+| incoming/Poetry/Any Gender Poetry/Collection on Suicide - PO.pdf | refused: unrecognised | No parser matched this layout. |
 | incoming/Poetry/Any Gender Poetry/Commercial Break and Midnight - PO.pdf | refused: unrecognised | No parser matched this layout. |
-| incoming/Poetry/Any Gender Poetry/Coney Island of the Mind - PO.pdf | refused: two_column (no parser yet) | 27% of lines have a gap across the middle of the page: two columns. |
+| incoming/Poetry/Any Gender Poetry/Confronting  American Apathy - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Conversations about Home and Rigged Game - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Definition and A Familiar Letter - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Den of Lions (2) - PO (1).pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Echoes of Teachers - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Fight Evil with Poetry - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/For Black Boys - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Freed Between the Lines - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/From the Afterlife - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Fury of Rain Storms - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Gender Boxes - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Gentrification - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Gift and Train Platform - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Hands Still Raised - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Hir and Swing-Set - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/History of Fury and Faith - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Holy Saturday and Long Term Memory - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Hope for Humanity - COVID 19 - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Horton Hears a Who - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/How Many Degrees are We from Fahrenheit 451 - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/I Wanted to Grow Old With You - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/If Lady LIberty Could See Us Now - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/If You Have to Ask - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Imagine and OCD - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Impact of Teachers - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/In Remembrance - A Holocaust Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/In Response to Columbine - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/In a Shared Land - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Instructions and Locks - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Israeli-Palestinian Conflict - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Jubilee of People Dreaming Wildly - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Lift Off and Miracle Workers - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Loch Ness Monsters and Something Like Fire - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Medical Profession - A Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Mrs Riberio and What Teachers Make - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Multi-Cultural Collection - PO.pdf | refused: unrecognised | No parser matched this layout. |
+| incoming/Poetry/Any Gender Poetry/Next Life Soundtrack - A Program - PO.pdf | refused: unrecognised | No parser matched this layout. |

@@ -74,7 +74,7 @@ def work(job):
                 keep = ("title", "author", "work_title", "publisher", "isbn", "publication_date_raw", "copyright_notice", "cutter",
                         "intro_boundary", "intro_boundary_method", "teaser_present", "word_count", "intro_word_count",
                         "character_count", "speaker_labels", "text_layout", "source_citation", "text_hash", "ingest_notes",
-                        "introduction_text", "performance_text", "source_block_raw", "text_raw")
+                        "introduction_text", "performance_text", "source_block_raw", "text_raw", "record_type", "selections")
                 out["record"] = {k: rec[k] for k in keep}
                 out["qc"] = Q.scan_record(rec)
                 out["status"] = "parsed"
@@ -174,7 +174,8 @@ def report(rows, ver, lib_by_sha):
     parsed = [r for r in rows if r["status"].startswith("parsed")]
     md += ["", "## Parsed files (%d)" % len(parsed), "", "| Measure | Count |", "|---|---|"]
     for label, fn in (("layout", lambda r: r["layout"]), ("introduction boundary", lambda r: r["record"]["intro_boundary"]),
-                      ("teaser", lambda r: r["record"]["teaser_present"]), ("text layout", lambda r: r["record"]["text_layout"]),
+                      ("record type", lambda r: r["record"]["record_type"]), ("teaser", lambda r: r["record"]["teaser_present"]),
+                      ("text layout", lambda r: r["record"]["text_layout"]),
                       ("source citation", lambda r: r["record"]["source_citation"])):
         for v, n in collections.Counter(fn(r) for r in parsed).most_common():
             md.append("| %s: %s | %d |" % (label, v, n))
@@ -229,14 +230,21 @@ def report(rows, ver, lib_by_sha):
     rnd = random.Random(20261001)
     by_ev = collections.defaultdict(list)
     for r in parsed:
-        by_ev[r["event"]].append(r)
+        by_ev["Program" if r["record"]["record_type"] == "Program" else r["event"]].append(r)
     for ev, rs in by_ev.items():
-        for r in rnd.sample(rs, min(6, len(rs))):
+        for r in rnd.sample(rs, min(8 if ev == "Program" else 6, len(rs))):
             rec = r["record"]
             name = "%s - %s.txt" % (ev, Path(r["path"]).stem)
-            (sd / name).write_text("FILE: %s\nTITLE: %s\nAUTHOR: %s\nINTRO BOUNDARY: %s (%s)\n\n=== INTRODUCTION ===\n%s\n\n=== PERFORMANCE TEXT ===\n%s\n\n=== SOURCE BLOCK ===\n%s\n" % (
-                r["path"], rec["title"], rec["author"], rec["intro_boundary"], rec["intro_boundary_method"],
-                rec["introduction_text"], rec["performance_text"], rec["source_block_raw"]), encoding="utf-8")
+            head = "FILE: %s\nTYPE: %s\nTITLE: %s\nAUTHOR: %s\nINTRO BOUNDARY: %s (%s)\n\n=== INTRODUCTION ===\n%s\n" % (
+                r["path"], rec["record_type"], rec["title"], rec["author"], rec["intro_boundary"], rec["intro_boundary_method"],
+                rec["introduction_text"])
+            if rec["selections"] and rec["record_type"] == "Program":
+                body = "".join("\n=== SELECTION %d (%s, %d words) ===\n%s\n\n--- its source block ---\n%s\n--- its award lines ---\n%s\n" % (
+                    s["order"], s["position"], s["word_count"], s["text"], s["source_block_raw"], s["award_history_raw"])
+                    for s in rec["selections"])
+            else:
+                body = "\n=== PERFORMANCE TEXT ===\n%s\n\n=== SOURCE BLOCK ===\n%s\n" % (rec["performance_text"], rec["source_block_raw"])
+            (sd / name).write_text(head + body, encoding="utf-8")
     print("wrote %s, %s and %d samples" % ((OUT / "summary.md").relative_to(I.ROOT), (OUT / "files.tsv").relative_to(I.ROOT), len(list(sd.glob("*.txt")))))
 
 

@@ -121,8 +121,65 @@ def build_record(rid, path, parsed, sha, event, filing_label):
     I.set_prov(r, "teaser_present", "computed")
     r["source_work_key"] = re.sub(r"\D", "", r["isbn"]) if has_id and re.sub(r"\D", "", r["isbn"]) else \
         (norm_name(r["work_title"]) + "|" + norm_name(r["author"]) if r["work_title"] != I.NS else "")
+    if parsed["layout"] == "program":
+        build_program_fields(r, parsed, notes, L_clean)
     r["ingest_notes"] = notes
     return I.derive(r)
+
+
+def citation(publisher, isbn, date, work):
+    has = [v != I.NS for v in (publisher, isbn, date)]
+    return "Complete" if has[0] and (has[1] or has[2]) else ("Partial" if any(has) or work != I.NS else "Not stated")
+
+
+def work_key(isbn, work, author):
+    digits = re.sub(r"\D", "", isbn) if isbn != I.NS else ""
+    return digits if digits else (norm_name(work) + "|" + norm_name(author) if work != I.NS else "")
+
+
+def build_program_fields(r, parsed, notes, clean):
+    """A program is one record; its selections are listed in order, each with its own text and source."""
+    r["record_type"] = "Program"
+    sels = []
+    for n, s in enumerate(parsed["selections"], 1):
+        f = s["fields"]
+        val = lambda *keys: next((clean(f[k]) for k in keys if f.get(k)), I.NS)       # noqa: E731
+        text = L.lines_to_text(s["text_lines"], notes)
+        sel = {"order": n, "position": "before the introduction" if s["before_intro"] else "after the introduction",
+               "text": text, "word_count": I.count_words(text),
+               "author": val("Author", "Authors"), "work_title": val("Book", "Magazine", "Journal", "Title"),
+               "publisher": val("Publisher"), "isbn": val("ISBN", "ISSN"), "publication_date_raw": val("Date"),
+               "source_url": val("Weblink", "URL", "Website", "Web Link"),
+               "source_block_raw": L.raw_text(s["source_lines"]), "source_notes": list(s["src_notes"]),
+               "award_history_raw": "\n".join(l.text for l in s["award_lines"]),
+               "source_blocks": (1 + s.get("extra_source_headings", 0)) if s["source_lines"] else 0}
+        sel["source_citation"] = citation(sel["publisher"], sel["isbn"], sel["publication_date_raw"], sel["work_title"]) \
+            if sel["source_block_raw"] else "Not stated"
+        sel["source_work_key"] = work_key(sel["isbn"], sel["work_title"], sel["author"])
+        sels.append(sel)
+    r["selections"] = sels
+    I.set_prov(r, "selections", "source", evidence="Selections and their source blocks, in the order printed in the file")
+    r["performance_text"] = "\n\n".join(s["text"] for s in sels if s["text"])
+    r["award_history_raw"] = "\n".join(s["award_history_raw"] for s in sels if s["award_history_raw"])
+    cits = [s["source_citation"] for s in sels]
+    r["source_citation"] = "Complete" if all(c == "Complete" for c in cits) else \
+        ("Not stated" if all(c == "Not stated" for c in cits) else "Partial")
+    r["web_only_source"] = "Yes" if all(s["source_url"] != I.NS and s["publisher"] == I.NS and s["isbn"] == I.NS
+                                        and s["work_title"] == I.NS for s in sels) else "No"
+    r["source_work_key"] = ""
+    if len(sels) == 1:
+        # one piece with more than one source block (for example a play and the anthology it was printed in)
+        r["record_type"] = "Cutting"
+        s = sels[0]
+        for k in ("work_title", "publisher", "isbn", "publication_date_raw", "source_url"):
+            if s[k] != I.NS:
+                r[k] = s[k]
+                I.set_prov(r, k, "source", evidence="Source block in the file")
+        r["source_work_key"] = s["source_work_key"]
+        notes.append("One piece with %d source blocks; where the blocks repeat a field the later value is used. "
+                     "All blocks are kept as printed in source_block_raw." % s["source_blocks"])
+    else:
+        notes.append("Program with %d selections, each with its own source block." % len(sels))
 
 
 def shingles(text, n=4):
@@ -174,12 +231,14 @@ def mark_duplicates(records, register):
                 if not human(b, "duplicate_of") and a["id"] not in b["duplicate_of"]:
                     b["duplicate_of"] = sorted(b["duplicate_of"] + [a["id"]])
     # cuttings from the same book or work are linked, never treated as duplicates
+    # a program is linked through the source work of each of its selections
+    keys = lambda r: {k for k in [r["source_work_key"]] + [s.get("source_work_key", "") for s in r["selections"]] if k}   # noqa: E731
     by_work = {}
     for r in records:
-        if r["source_work_key"]:
-            by_work.setdefault(r["source_work_key"], []).append(r["id"])
+        for k in keys(r):
+            by_work.setdefault(k, []).append(r["id"])
     for r in records:
-        r["same_source_work_ids"] = [i for i in by_work.get(r["source_work_key"], []) if i != r["id"]]
+        r["same_source_work_ids"] = sorted({i for k in keys(r) for i in by_work.get(k, []) if i != r["id"]})
         r["also_appears_in"].sort()
         I.derive(r)
 

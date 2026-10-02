@@ -36,9 +36,9 @@ PUBLIC_FIELDS = [
     "intro_boundary", "teaser_present", "speaker_labels", "character_count", "word_count", "intro_word_count",
     "source_citation", "web_only_source", "tone", "content_warnings", "difficulty", "performance_demands",
     "audience_level", "themes", "subject_matter", "metadata_confidence", "review_status", "duplicate_status",
-    "human_verified", "date_verified", "date_added", "also_appears_in", "ingest_notes", "provenance",
+    "human_verified", "date_verified", "date_added", "also_appears_in", "ingest_notes", "provenance", "selections",
 ]
-FACETS = ["event", "tone", "content_warnings", "difficulty", "audience_level", "literary_form",
+FACETS = ["event", "record_type", "tone", "content_warnings", "difficulty", "audience_level", "literary_form",
           "teaser_present", "character_bucket", "performance_demands", "review_status"]
 CHAR_BUCKETS = {"No speaker labels": "The text has no uppercase speaker labels (often one narrator).",
                 "1 labelled speaker": "", "2 to 3 labelled speakers": "", "4 to 6 labelled speakers": "",

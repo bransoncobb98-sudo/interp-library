@@ -26,6 +26,10 @@ FOOTER_RE = re.compile(r"^(Page\s+)?\d+\s+of\s+\d+$", re.I)
 SECTION_HEADINGS = ("INTRODUCTION", "SOURCE INFORMATION", "AWARD HISTORY", "AWARDS")
 LABEL_RE = re.compile(r"^([A-Z][A-Z0-9 .'’/#&-]{0,28}):(\s|$)")
 BYLINE_RE = re.compile(r"^by\s+\S", re.I)
+BYLINE_WRAP_RE = re.compile(r"(,|\band|&|\b(Dr|Mr|Ms|Mrs|Prof)\.)$", re.I)
+IN_TEXT_HEAD_RE = re.compile(r"^(TRANSITION|CONCLUSION|CLOSING)\b", re.I)
+AWARDISH_RE = re.compile(r"(?i)\b(qualifier|finalist|semifinalist|quarterfinalist|champion|winner|place|nietoc|ncfl|toc|tournament)\b")
+URL_RE = re.compile(r"https?://|www\.", re.I)
 WORD_RE = re.compile(r"[\w][\w'’]*", re.UNICODE)
 LIGATURES = {"\ufb01": "fi", "\ufb02": "fl", "\ufb00": "ff", "\ufb03": "ffi", "\ufb04": "ffl",
              "\u00a0": " ", "\u00ad": "", "\u200b": ""}
@@ -399,8 +403,13 @@ def _absorb_byline_tail(lines, k):
 
 
 def split_header(lines, notes):
-    """Return (title, byline_author, index of first line after the byline)."""
+    """Return (title, byline_author, index of first line after the byline).  A byline that wraps (it ends with a
+    comma, 'and', '&' or a title such as 'Dr.', or the next line starts with 'and') continues on the next line."""
     t, a, k = _split_header(lines, notes)
+    while a and 0 < k < len(lines) and lines[k].page == 1 and lines[k].font == lines[k - 1].font and not is_heading(lines[k]) \
+            and (BYLINE_WRAP_RE.search(a.strip()) or re.match(r"(and|&)\s", lines[k].text.strip())):
+        a = a.strip() + " " + lines[k].text.strip()
+        k += 1
     return t, a, _absorb_byline_tail(lines, k)
 
 
@@ -430,6 +439,47 @@ def detect_publisher_script(lines):
     return bool(re.search(r"(?i)copyright", page2))
 
 
+def _intro_run(rest, j, i_end, author, notes):
+    """The introduction is the italic run starting at rest[j] and ending before rest[i_end].  If the run
+    contains a 'Title by Author' line near its end, italic lines after it are performance text.
+    Returns (end index of the run, method)."""
+    if j < i_end and rest[j].italic:
+        run_end = j
+
+        def in_run(k):
+            if k >= i_end:
+                return False
+            ln = rest[k]
+            if is_heading(ln):
+                return False
+            if ln.italic and ln.font == rest[j].font:
+                return True
+            # a lone bullet glyph in a symbol font inside an italic run
+            return ln.text.strip() in ("•", "·", "") and k + 1 < i_end and rest[k + 1].italic and rest[k + 1].font == rest[j].font
+        while run_end < i_end and in_run(run_end):
+            run_end += 1
+    else:
+        run_end = j
+        notes.append("Introduction text after the heading is not in the usual italic font.")
+    cut = None
+    if author:
+        name = re.sub(r",.*$", "", author).strip()                 # drop ', Editor'
+        pat = re.compile(r"\bby\s+" + r"\s+".join(re.escape(w) for w in name.split()), re.I)
+        pos, joined = [], ""
+        for k in range(j, run_end):
+            joined += rest[k].text + " "
+            pos.append(len(joined))
+        hits = list(pat.finditer(joined))
+        if hits:
+            end = hits[-1].end()
+            cut = next(k for k, e in zip(range(j, run_end), pos) if e >= end)
+    if cut is not None and run_end - (cut + 1) in (1, 2, 3):
+        return cut + 1, "font+byline (trailing italic lines treated as performance text)"
+    if cut is not None:
+        return run_end, "font+byline (agree)"
+    return run_end, "font only (no 'Title by Author' end marker)"
+
+
 def parse_di_cutting(lines, n_pages):
     notes = []
     footers = [l for l in lines if FOOTER_RE.match(l.text)]
@@ -449,44 +499,7 @@ def parse_di_cutting(lines, n_pages):
 
     # introduction = the italic run straight after the heading
     j = i_intro + 1
-    if j < i_end and rest[j].italic:
-        run_end = j
-        def in_run(k):
-            if k >= i_end:
-                return False
-            ln = rest[k]
-            if is_heading(ln):
-                return False
-            if ln.italic and ln.font == rest[j].font:
-                return True
-            # a lone bullet glyph in a symbol font inside an italic run
-            return ln.text.strip() in ("•", "·", "") and k + 1 < i_end and rest[k + 1].italic and rest[k + 1].font == rest[j].font
-        while run_end < i_end and in_run(run_end):
-            run_end += 1
-    else:
-        run_end = j
-        notes.append("Introduction text after the heading is not in the usual italic font.")
-    method = "font"
-    # If the run contains a 'Title by Author' line near its end, anything italic after it is performance text.
-    cut = None
-    if author:
-        name = re.sub(r",.*$", "", author).strip()                 # drop ', Editor'
-        pat = re.compile(r"\bby\s+" + r"\s+".join(re.escape(w) for w in name.split()), re.I)
-        pos, joined = [], ""
-        for k in range(j, run_end):
-            joined += rest[k].text + " "
-            pos.append(len(joined))
-        hits = list(pat.finditer(joined))
-        if hits:
-            end = hits[-1].end()
-            cut = next(k for k, e in zip(range(j, run_end), pos) if e >= end)
-    if cut is not None and run_end - (cut + 1) in (1, 2, 3):
-        run_end = cut + 1
-        method = "font+byline (trailing italic lines treated as performance text)"
-    elif cut is not None:
-        method = "font+byline (agree)"
-    else:
-        method = "font only (no 'Title by Author' end marker)"
+    run_end, method = _intro_run(rest, j, i_end, author, notes)
     intro = rest[j:run_end]
     main = rest[run_end:i_end]
 
@@ -546,7 +559,130 @@ def parse_publisher_script(lines, n_pages):
     }
 
 
+def is_source_heading(ln):
+    return "Black" in ln.font and ln.text.strip().upper().startswith("SOURCE INFORMATION")
+
+
+def is_award_heading(ln):
+    return is_heading(ln, "AWARD HISTORY") or is_heading(ln, "AWARDS")
+
+
+def detect_program(lines):
+    """A program: several selections, each followed by its own SOURCE INFORMATION block."""
+    return sum(1 for l in lines if is_source_heading(l)) >= 2 and any(is_heading(l, "INTRODUCTION") for l in lines)
+
+
+def parse_program(lines, n_pages):
+    """Program layout (POI and poetry or prose collections).  Title, 'By' line, optional teaser, INTRODUCTION
+    with the italic introduction, then selections.  Each selection is its text followed by a SOURCE INFORMATION
+    block (source fields in the source font) and sometimes its own AWARD HISTORY lines.  Transitions and poem
+    titles are part of the text that follows them.  Text after the last source block becomes a final selection
+    with no source, and a note says so."""
+    notes = []
+    footers = [l for l in lines if FOOTER_RE.match(l.text)]
+    body = [l for l in lines if not FOOTER_RE.match(l.text)]
+    title, author, start = split_header(body, notes)
+    header_lines = body[:start]
+    rest = body[start:]
+    i_intro = next(i for i, l in enumerate(rest) if is_heading(l, "INTRODUCTION"))
+    if sum(1 for l in rest if is_heading(l, "INTRODUCTION")) > 1:
+        notes.append("More than one INTRODUCTION heading; the first is used. Needs a hand check.")
+    plain = [l for l in rest if not is_heading(l) and not is_source_heading(l) and not l.italic]
+    perf_font = collections.Counter(l.font for l in plain).most_common(1)[0][0] if plain else None
+
+    def heading_like(ln):
+        return is_heading(ln) or is_source_heading(ln)
+
+    stop = next((i for i, l in enumerate(rest) if i > i_intro and heading_like(l)), len(rest))
+    run_end, method = _intro_run(rest, i_intro + 1, stop, author, notes)
+    role = {i_intro: "heading"}
+    for k in range(i_intro + 1, run_end):
+        role[k] = "intro"
+    for s, l in enumerate(rest):
+        if s in role:
+            continue
+        if is_source_heading(l) or is_award_heading(l):
+            kind = "src" if is_source_heading(l) else "award"
+            role[s] = kind + "head"
+            k = s + 1
+            block_font = rest[k].font if k < len(rest) else None
+            in_url = False
+            while k < len(rest) and k not in role and not heading_like(rest[k]):
+                t = rest[k].text.strip()
+                if IN_TEXT_HEAD_RE.match(t):
+                    break                                   # a transition starts the next selection's text
+                if kind == "award":
+                    # award lines only; the next selection's text (or a note) ends the block
+                    if not AWARDISH_RE.search(t) or len(t) > 90:
+                        break
+                else:
+                    # a link can wrap over several lines: follow it while the lines look like pieces of a link
+                    url_tail = in_url and (" " not in t or "/" in t.split()[0])
+                    # the block runs on while lines look like source details: field lines, links and their wrapped
+                    # tails, or lines in the block's own font when that differs from the performance font
+                    if not (SRC_KEY_RE.match(t) or URL_RE.match(t) or url_tail or
+                            (rest[k].font == block_font and block_font != perf_font)):
+                        break
+                role[k] = kind
+                if kind == "src":
+                    in_url = bool(URL_RE.search(t)) or url_tail
+                k += 1
+    selections, cur, teaser, main, headings, src_all, award_all = [], [], [], [], [], [], []
+    i, last_was_source = 0, False
+    while i < len(rest):
+        r = role.get(i, "text")
+        l = rest[i]
+        if r == "text":
+            last_was_source = False
+            cur.append(l)
+            (teaser if i < i_intro else main).append(l)
+        elif r in ("heading", "srchead", "awardhead"):
+            headings.append(l)
+            if r == "srchead":
+                block = []
+                i += 1
+                while i < len(rest) and role.get(i) == "src":
+                    block.append(rest[i])
+                    i += 1
+                src_all += block
+                if not cur and selections and last_was_source:
+                    # a second source block straight after the first: both belong to the same selection
+                    selections[-1]["source_lines"] += block
+                    selections[-1]["extra_source_headings"] = selections[-1].get("extra_source_headings", 0) + 1
+                else:
+                    selections.append({"text_lines": cur, "source_lines": block, "award_lines": [], "before_intro": i <= i_intro})
+                cur = []
+                last_was_source = True
+                continue
+            if r == "awardhead":
+                aw = []
+                i += 1
+                while i < len(rest) and role.get(i) == "award":
+                    aw.append(rest[i])
+                    i += 1
+                award_all += aw
+                if selections:
+                    selections[-1]["award_lines"] += aw
+                continue
+        i += 1
+    if cur:
+        selections.append({"text_lines": cur, "source_lines": [], "award_lines": [], "before_intro": False})
+        notes.append("Text after the last source block has no source of its own (kept as a final selection).")
+    for sel in selections:
+        sel["fields"], sel["src_awards"], sel["src_notes"] = parse_source_block(sel["source_lines"])
+    intro = rest[i_intro + 1:run_end]
+    return {
+        "layout": "program", "pages": n_pages, "title": title, "byline_author": author,
+        "header_lines": header_lines, "teaser_lines": teaser, "intro_lines": intro, "body_lines": main,
+        "performance_lines": teaser + main, "source_lines": src_all, "source_fields": {},
+        "back_lines": award_all, "back": parse_back_matter(award_all), "source_awards": [], "source_notes": [],
+        "headings": headings, "footers": footers, "selections": selections,
+        "intro_method": method, "notes": notes, "copyright": "",
+    }
+
+
 PARSERS = [
+    ("program", detect_program, parse_program),
     ("di_cutting", detect_di_cutting, parse_di_cutting),
     ("publisher_script", detect_publisher_script, parse_publisher_script),
 ]

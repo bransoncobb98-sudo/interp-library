@@ -142,6 +142,7 @@ dialog textarea,dialog input[type=email]{width:100%;font:inherit;padding:.5rem;b
 dialog textarea{min-height:7rem}
 dialog .row{display:flex;gap:.5rem;justify-content:flex-end;margin-top:1rem;flex-wrap:wrap}
 .print-head,.print-foot{display:none}
+.print-only{display:none}
 footer.site{max-width:80rem;margin:0 auto;padding:1.5rem 1.25rem 2.5rem;color:var(--muted);font-size:.88rem;border-top:1px solid var(--rule)}
 
 @media (max-width:900px){
@@ -159,6 +160,7 @@ footer.site{max-width:80rem;margin:0 auto;padding:1.5rem 1.25rem 2.5rem;color:va
   .print-head{display:block;margin-bottom:1rem}
   .print-head h1{font:600 18pt var(--serif);margin:0}
   .print-head p{margin:.1rem 0;font-size:11pt}
+  .print-only{display:block;font-size:9pt;color:#333}
   .print-foot{display:block;margin-top:1.5rem;font-size:9pt;color:#333;border-top:1px solid #999;padding-top:.4rem}
 }
 </style>
@@ -188,6 +190,7 @@ const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt
 const vals = (r, f) => { const v = r[f]; return Array.isArray(v) ? v : (v ? [v] : []); };
 const NS = "Not specified";
 const known = v => v && v !== NS && v !== "Not assessed";
+const isProgram = r => r.record_type === "Program" && (r.selections || []).length > 1;
 const assessed = (r, f) => !!(r.provenance && r.provenance[f] && ["ai","human"].includes(r.provenance[f].origin));
 const isAI = (r, f) => !!(r.provenance && r.provenance[f] && r.provenance[f].origin === "ai");
 
@@ -284,7 +287,8 @@ function parseQuery(q){
 /* ---------------- search model ---------------- */
 function hayOf(r){
   if (r._h) return r._h;
-  const strong = [r.title, r.author, r.work_title, r.publisher, r.cutter].join(" ").toLowerCase();
+  const sel = (r.selections || []).map(s => [s.author, s.work_title, s.publisher].join(" ")).join(" ");
+  const strong = [r.title, r.author, r.work_title, r.publisher, r.cutter, sel].join(" ").toLowerCase();
   const mid = [(r.themes||[]).join(" "), r.subject_matter, (r.tone||[]).join(" "), (r.content_warnings||[]).join(" "), r.literary_form, r.event].join(" ").toLowerCase();
   const text = (r.introduction_text + " " + r.performance_text).replace(/\([^()]*\)/g," ").toLowerCase();
   return (r._h = {strong, mid, text});
@@ -450,13 +454,15 @@ function chips(arr, cls=""){ return arr.length ? `<ul class="tags">${arr.map(t =
 function entry(x, withWhy){
   const r = x.r, q = stateToParams().toString();
   const href = "#/c/" + r.id + (q ? "?from=" + encodeURIComponent(q) : "");
-  const cls = [r.event, known(r.literary_form) ? r.literary_form : "", r.difficulty ? r.difficulty + " difficulty" : "",
-    r.word_count + " spoken words", r.teaser_present === "Yes" ? "Teaser" : ""].filter(Boolean);
+  const prog = isProgram(r);
+  const cls = [r.event, prog ? "Program of " + r.selections.length + " selections" : "", known(r.literary_form) ? r.literary_form : "",
+    r.difficulty ? r.difficulty + " difficulty" : "", r.word_count + " spoken words", r.teaser_present === "Yes" ? "Teaser" : ""].filter(Boolean);
+  const from = prog ? [...new Set(r.selections.map(s => s.work_title).filter(known))].join("; ") : r.work_title;
   const cw = assessed(r, "content_warnings") && (r.content_warnings||[]).length ? `<p class="tags"><span class="chip warn">Content: ${esc(r.content_warnings.join(", "))}</span></p>` : "";
   const why = withWhy && x.unmet.length ? `<p class="why"><b>Does not match:</b> ${x.unmet.map(c => esc(c.want) + " (this one: " + esc(c.actual(r)) + ")").join("; ")}</p>` : "";
   return `<li class="entry"><h3><a href="${href}">${esc(r.title)}</a></h3>
     <p class="who">${known(r.author) ? "By " + esc(r.author) : "Author not specified"}</p>
-    <dl class="src">${known(r.work_title) ? `<div><dt>From</dt><dd>${esc(r.work_title)}</dd></div>` : ""}${known(r.publisher) ? `<div><dt>Publisher</dt><dd>${esc(r.publisher)}</dd></div>` : ""}</dl>
+    <dl class="src">${known(from) ? `<div><dt>From</dt><dd>${esc(from)}</dd></div>` : ""}${known(r.publisher) ? `<div><dt>Publisher</dt><dd>${esc(r.publisher)}</dd></div>` : ""}</dl>
     <ul class="tags" aria-label="Details">${cls.map(t => `<li class="chip">${esc(t)}</li>`).join("")}</ul>
     ${chips(r.tone || [], "soft")}${cw}${why}
     <a class="btn" href="${href}">Open cutting<span class="sr">: ${esc(r.title)}</span></a></li>`;
@@ -600,8 +606,15 @@ function buildDetail(id, fromQs){
     ${r.introduction_text ? `<section class="sheet intro" aria-labelledby="ih"><h2 id="ih">Introduction</h2>
       ${r.intro_boundary === "Medium" ? '<p class="small no-print">Where the introduction ends was found from the font alone and has not been checked by a person.</p>' : ""}
       <div class="lines">${renderText(r.introduction_text)}</div></section>` : ""}
-    <section class="sheet" aria-labelledby="ph"><h2 id="ph">Performance text${r.teaser_present === "Yes" ? " (the teaser comes first, before the introduction is performed)" : ""}</h2>
-      <div class="lines">${renderText(r.performance_text)}</div></section>
+    ${isProgram(r) ? r.selections.map(s => `<section class="sheet" aria-labelledby="sel${s.order}">
+      <h2 id="sel${s.order}">Selection ${s.order} of ${r.selections.length}${s.position === "before the introduction" ? " (before the introduction)" : ""}</h2>
+      <p class="small">${known(s.author) ? "By " + esc(s.author) : "Author not given in its source"}${known(s.work_title) ? ", from " + esc(s.work_title) : ""}. ${s.word_count} spoken words.</p>
+      <div class="lines">${renderText(s.text)}</div>
+      <div class="no-print"><p class="small"><b>Its source, as printed:</b></p>${s.source_block_raw ? `<pre class="raw">${esc(s.source_block_raw)}</pre>` : "<p class=\"small\">No source block follows this selection in the file.</p>"}
+      ${s.award_history_raw ? `<p class="small"><b>Award lines printed with it</b> (not checked):</p><pre class="raw">${esc(s.award_history_raw)}</pre>` : ""}</div>
+      <p class="print-only small">Source: ${esc([s.author, s.work_title, s.publisher, s.isbn].filter(known).join(", "))}</p></section>`).join("")
+    : `<section class="sheet" aria-labelledby="ph"><h2 id="ph">Performance text${r.teaser_present === "Yes" ? " (the teaser comes first, before the introduction is performed)" : ""}</h2>
+      <div class="lines">${renderText(r.performance_text)}</div></section>`}
     <div class="print-foot">Source file: ${esc(r.source_file)}.${known(r.work_title) ? " From " + esc(r.work_title) + "." : ""}${known(r.publisher) ? " " + esc(r.publisher) + "." : ""}${known(r.isbn) ? " ISBN " + esc(r.isbn) + "." : ""} ${esc(r.attribution_note)}${known(r.copyright_notice) ? " " + esc(r.copyright_notice) : ""}</div>
     <div class="no-print">
     <section><h2 class="sec">Source and credits</h2>

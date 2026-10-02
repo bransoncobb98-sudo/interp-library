@@ -18,7 +18,7 @@ ALLOWED = {"id", "record_type", "title", "event", "performer_category_as_filed",
            "intro_word_count", "source_citation", "web_only_source", "tone", "content_warnings", "difficulty", "performance_demands",
            "audience_level", "themes", "subject_matter", "metadata_confidence", "review_status", "duplicate_status", "human_verified",
            "date_verified", "date_added", "also_appears_in", "ingest_notes", "provenance",
-           "character_bucket", "same_book", "similar_versions"}          # the last three are added for the page
+           "selections", "character_bucket", "same_book", "similar_versions"}          # the last three are added for the page
 NEVER = ("takedown_log", "rights_note", "text_raw", "intro_raw", "source_file_sha1", "timing_flags", "estimated_seconds")
 
 

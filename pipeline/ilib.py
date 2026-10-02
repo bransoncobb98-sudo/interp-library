@@ -79,6 +79,7 @@ FIELDS = [
     F("literary_form", "enum", "Source work", "Form of the source work.", "literary_form", default=NS),
     F("source_block_raw", "text", "Source work", "The SOURCE INFORMATION block (or copyright page) exactly as extracted.", editable=False, default=""),
     F("source_notes", "list", "Source work", "Notes printed in the source block that are not fields.", editable=False, default=[]),
+    F("selections", "dicts", "Source work", "Programs only: the selections in order. Each has its own text, source block and award lines exactly as printed, its source fields, word count and source_work_key.", editable=False, default=[]),
     F("source_work_key", "str", "Source work", "Key used to link cuttings of the same work (ISBN, else title and author).", editable=False, default=""),
     F("same_source_work_ids", "list", "Source work", "Other records cut from the same source work. Not duplicates.", editable=False, default=[]),
     # credits

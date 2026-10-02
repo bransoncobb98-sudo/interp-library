@@ -23,3 +23,5 @@
   collection copies in the zip are left out too (rule in data/excluded_files.json).
 - The single pieces cut from SpeechGeek collections in the zip are included; their editor's letter stays out of the
   performance text (a parser for that layout is still to be written).
+- Programs (several selections, each with its own SOURCE INFORMATION block) are stored as one record with the
+  selections listed in order, each with its own text and source exactly as printed (director, 2026-10-02).

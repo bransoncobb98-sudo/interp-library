@@ -25,6 +25,7 @@ import ilib as I          # noqa: E402
 import layouts as L       # noqa: E402
 import repairs as RP      # noqa: E402
 
+LEAKED_HEADING_RE = re.compile(r"(?m)^\s*(SOURCE INFORMATION|AWARD HISTORY|AWARDS|INTRODUCTION|(Page )?\d+ of \d+)\s*$")
 EXCLUDED = (I.load_json(I.DATA / "excluded_files.json", {}) or {}).get("rules", [])
 AWARDISH = re.compile(r"(?i)\b(qualifier|finalist|semifinalist|quarterfinalist|champion|winner|place|nietoc|ncfl|toc|tournament)\b")
 AWARD_LINE = re.compile(r"^(19|20)\d\d\s+(National|State|District|Regional|NIETOC|NCFL|TOC)\b", re.I)
@@ -253,9 +254,35 @@ def write_register(reg):
     os.replace(tmp, I.DATA / "source_files.json")
 
 
-def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
+def write_refused(failures):
+    """Record the files that were refused, with the reason, for a hand check.  Replaces earlier entries for the same file."""
+    path = I.DATA / "refused_files.json"
+    old = I.load_json(path, {}) or {}
+    for p, why in failures:
+        old[os.path.relpath(p, I.ROOT)] = {"reason": why, "date": I.today()}
+    fd, tmp = tempfile.mkstemp(dir=I.DATA, suffix=".tmp")
+    with os.fdopen(fd, "w", encoding="utf-8") as f:
+        json.dump(dict(sorted(old.items())), f, ensure_ascii=False, indent=1)
+        f.write("
+")
+    os.replace(tmp, path)
+
+
+def folder_info(path):
+    """Event and filing label for a file in incoming/, from data/incoming_map.json (longest matching folder)."""
+    folders = (I.load_json(I.DATA / "incoming_map.json", {}) or {}).get("folders", {})
+    rel = os.path.dirname(os.path.relpath(path, I.ROOT)).replace(os.sep, "/")
+    best = max((k for k in folders if rel == k or rel.startswith(k + "/")), key=len, default=None)
+    info = folders.get(best) or {"event": "Not specified", "filing_label": ""}
+    return info["event"], info["filing_label"]
+
+
+def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print, info_for=None, keep_going=False):
     """Add PDFs to the database.  Returns (new_records, register_entries, failures, skipped).
-    The caller must hold I.DbLock().  Nothing is written if any file fails, or on a dry run."""
+    The caller must hold I.DbLock().  Nothing is written on a dry run.  Normally nothing is written if any file
+    fails; with keep_going the files that pass are written and the refused ones are listed in
+    data/refused_files.json for a hand check (they are not registered, so a later run tries them again).
+    info_for(path) -> (event, filing_label) gives each file its own event and label."""
     db = I.load_db()
     reg = I.load_json(I.DATA / "source_files.json", []) or []
     sha_to_id = {r["source_file_sha1"]: r["id"] for r in db["records"] if r.get("source_file_sha1")}
@@ -282,7 +309,7 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
             else:
                 failures.append((p, "a different file with this name is already in the library; rename it and try again"))
             continue
-        entry = {"file": name, "sha1": sha, "bytes": os.path.getsize(p)}
+        entry = {"file": name, "path": os.path.relpath(p, I.ROOT).replace(os.sep, "/"), "sha1": sha, "bytes": os.path.getsize(p)}
         if sha in sha_to_id:
             entry["identical_copy_of"] = sha_to_id[sha]
             entry["layout"], entry["pages"] = "identical copy (not parsed again)", None
@@ -305,9 +332,15 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
             continue
         rid = "IC-%04d" % next_num
         next_num += 1
-        rec = build_record(rid, p, parsed, sha, event, filing_label)
+        ev, lab = info_for(p) if info_for else (event, filing_label)
+        rec = build_record(rid, p, parsed, sha, ev, lab)
         RP.apply_to_record(rec)
         I.derive(rec)
+        if LEAKED_HEADING_RE.search(rec["performance_text"]):
+            # a section heading inside the text means the sections were split wrongly
+            failures.append((p, "a section heading or page footer is inside the performance text; needs a hand check"))
+            next_num -= 1
+            continue
         new.append(rec)
         entry["record"] = rid
         entries.append(entry)
@@ -322,9 +355,11 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
             out("  %s %s: %s of %s" % (r["id"], r["source_file"], r["duplicate_status"], ", ".join(r["duplicate_of"])))
     if dry_run:
         out("dry run: nothing written")
-    elif failures:
+    elif failures and not keep_going:
         out("Nothing written because some files failed. Fix the parser or rename the file and re-run.")
-    elif new or entries:
+    elif new or entries or failures:
+        if failures:
+            write_refused(failures)
         db["records"].extend(new)
         I.save_db(db)                                    # link changes on existing records are saved too
         write_register(reg + entries)
@@ -334,15 +369,21 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("pdfs", nargs="+")
+    ap.add_argument("pdfs", nargs="*")
+    ap.add_argument("--incoming", action="store_true", help="every PDF under incoming/, each with the event and label of its folder (data/incoming_map.json)")
+    ap.add_argument("--keep-going", action="store_true", help="write the files that pass; list refused ones in data/refused_files.json")
     ap.add_argument("--event", default="Dramatic Interpretation", choices=I.vocab("event"))
     ap.add_argument("--filing-label", default="")
     ap.add_argument("--layout", choices=[n for n, _, _ in L.PARSERS], help="force one layout parser for these files")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
     with I.DbLock():
-        _, _, failures, _ = ingest(a.pdfs, a.event, a.filing_label, a.dry_run, a.layout)
-    return 1 if failures else 0
+        if a.incoming:
+            paths = sorted(str(p) for p in (I.ROOT / "incoming").rglob("*") if p.is_file() and p.suffix.lower() == ".pdf")
+            _, _, failures, _ = ingest(paths, a.event, a.filing_label, a.dry_run, a.layout, info_for=folder_info, keep_going=a.keep_going)
+        else:
+            _, _, failures, _ = ingest(a.pdfs, a.event, a.filing_label, a.dry_run, a.layout, keep_going=a.keep_going)
+    return 1 if failures and not a.keep_going else 0
 
 
 if __name__ == "__main__":

@@ -18,7 +18,13 @@ pdfs = sorted(glob.glob(str(ROOT / "sources" / "*.pdf")))
 db = I.load_db(); recs = db["records"]
 reg = json.load(open(ROOT / "data" / "source_files.json"))
 
-check("PDF files in sources/ equals files in the register", len(pdfs) == len(reg), "%d vs %d" % (len(pdfs), len(reg)))
+# files from the first upload live in sources/; later uploads stay in incoming/ and the register records their path
+where = lambda e: ROOT / e["path"] if e.get("path") else ROOT / "sources" / e["file"]          # noqa: E731
+missing_files = [e["file"] for e in reg if not where(e).exists()]
+check("every registered file exists where the register says", not missing_files, missing_files[:5])
+registered = {str(where(e).resolve()) for e in reg}
+check("every PDF in sources/ is registered", all(str(Path(p).resolve()) in registered for p in pdfs),
+      [os.path.basename(p) for p in pdfs if str(Path(p).resolve()) not in registered][:5])
 copies = [e for e in reg if "identical_copy_of" in e]
 check("records = files - byte-identical copies", len(recs) == len(reg) - len(copies), "%d = %d - %d" % (len(recs), len(reg), len(copies)))
 check("record IDs are unique and sequential", [r["id"] for r in recs] == ["IC-%04d" % i for i in range(1, len(recs) + 1)])
@@ -33,15 +39,17 @@ for f in pdfs:
     if re.search(r"^\s*INTRODUCTION\s*$", t, re.M): intro_files.add(n)
     if re.search(r"^\s*SOURCE INFORMATION\s*$", t, re.M): src_files.add(n)
     if re.search(r"^\s*AWARD HISTORY\s*$", t, re.M): award_files.add(n)
-by_file = {r["source_file"]: r for r in recs}
-rec_intro = {r["source_file"] for r in recs if r["introduction_text"].strip()}
+src_names = {os.path.basename(p) for p in pdfs}
+recs_src = [r for r in recs if r["source_file"] in src_names]          # the first upload, checked against pdftotext below
+by_file = {r["source_file"]: r for r in recs_src}
+rec_intro = {r["source_file"] for r in recs_src if r["introduction_text"].strip()}
 missing = (intro_files - set(by_file)) - {e["file"] for e in copies}
 check("every file with an INTRODUCTION heading has a record with introduction text",
       all(n in rec_intro for n in intro_files if n in by_file) and not missing,
       "%d files by text search, %d records with introductions" % (len(intro_files), len(rec_intro)))
-no_intro = [r["source_file"] for r in recs if not r["introduction_text"].strip()]
-check("only the publisher script lacks an introduction", no_intro == ["Consequences by Aaron Fraire.pdf"], str(no_intro))
-src_rec = {r["source_file"] for r in recs if r["source_block_raw"].strip()}
+no_intro = [r["source_file"] for r in recs_src if not r["introduction_text"].strip()]
+check("first upload: only the publisher script lacks an introduction", no_intro == ["Consequences by Aaron Fraire.pdf"], str(no_intro))
+src_rec = {r["source_file"] for r in recs_src if r["source_block_raw"].strip()}
 diff = src_rec - src_files - {"Consequences by Aaron Fraire.pdf"}
 check("source blocks: text search finds all but the two-column file", diff == {"Therac 25 - DI.pdf"}, "explained difference: %s (heading shares a line with award text in layout mode)" % sorted(diff))
 for f in pdfs:

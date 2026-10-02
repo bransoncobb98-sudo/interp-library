@@ -131,16 +131,21 @@ def _crops(page, gx):
             runs[-1][2] = max(runs[-1][2], bottom)
         else:
             runs.append([k, top, bottom])
-    px0, py0, px1, py1 = page.bbox
+    inf = float("inf")
+
+    def region(x0, y0, x1, y1):
+        # every character goes to the one region that holds its centre, so none is lost at a boundary
+        return page.filter(lambda o: o.get("object_type") == "char"
+                           and x0 <= (o["x0"] + o["x1"]) / 2 < x1 and y0 <= (o["top"] + o["bottom"]) / 2 < y1)
     regions = []
     for i, (k, top, bottom) in enumerate(runs):
-        y0 = py0 if i == 0 else (runs[i - 1][2] + top) / 2
-        y1 = py1 if i == len(runs) - 1 else (bottom + runs[i + 1][1]) / 2
+        y0 = -inf if i == 0 else (runs[i - 1][2] + top) / 2
+        y1 = inf if i == len(runs) - 1 else (bottom + runs[i + 1][1]) / 2
         if k == "full":
-            regions.append((0, page.within_bbox((px0, y0, px1, y1)), False))
+            regions.append((0, region(-inf, y0, inf, y1), False))
         else:
-            regions.append((0, page.within_bbox((px0, y0, gx, y1)), True))
-            regions.append((1, page.within_bbox((gx, y0, px1, y1)), True))
+            regions.append((0, region(-inf, y0, gx, y1), True))
+            regions.append((1, region(gx, y0, inf, y1), True))
     got = sum(1 for _, r, _ in regions for c in r.chars if c["text"].strip())
     if got != len(chars):
         raise ColumnError("page %s: %d characters on the page but %d in the column regions" % (page.page_number, len(chars), got))

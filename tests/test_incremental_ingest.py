@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Incremental ingest: duplicates are checked against EXISTING records, re-running changes nothing.
 Run:  python tests/test_incremental_ingest.py      (needs pdfplumber; works on a copy of the project)"""
+import json
 import shutil
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from _sandbox import check, finish, make, run, raw, records, register, edit_records, cleanup  # noqa: E402
+from _sandbox import ROOT, check, finish, make, run, raw, records, register, edit_records, cleanup  # noqa: E402
 
 LIVE, FONT = "Live to Tell - DI.pdf", "Fontaine - DI.pdf"
 d = make([LIVE, FONT])
@@ -73,6 +74,27 @@ try:
         shutil.copy2(d / "sources" / FONT, d / "sources" / "Fontaine third.pdf")
         run(d, "pipeline/ingest.py", "sources/Fontaine third.pdf")
         check("a reviewer-set duplicate status is not overwritten by a later ingest", records(d)[new[0]]["duplicate_status"] == "Unique")
+    # 7. --incoming --keep-going: files that pass are written with their folder's event and label; refused ones are listed
+    good = ("incoming/Prose/Prose- Female", "Burned Alive - PR.pdf")
+    bad = ("incoming/Poetry/Any Gender Poetry", "Homesick - A Plea for our Planet - PO.pdf")
+    if all((ROOT / f / n).exists() for f, n in (good, bad)):
+        for f, n in (good, bad):
+            (d / f).mkdir(parents=True, exist_ok=True)
+            shutil.copy2(ROOT / f / n, d / f / n)
+        before_ids = set(records(d))
+        p = run(d, "pipeline/ingest.py", "--incoming", "--keep-going")
+        recs7 = records(d)
+        added = [recs7[i] for i in recs7 if i not in before_ids]
+        check("--incoming --keep-going writes the file that passes", len(added) == 1 and added[0]["source_file"] == good[1],
+              p.stdout[-400:] + p.stderr[-400:])
+        if added:
+            check("... with its folder's event and filing label", (added[0]["event"], added[0]["performer_category_as_filed"]) == ("Prose", "Prose- Female"),
+                  (added[0]["event"], added[0]["performer_category_as_filed"]))
+            entry = next((e for e in register(d) if e["file"] == good[1]), {})
+            check("... and the register records where the file is", entry.get("path") == good[0] + "/" + good[1], entry)
+        refused = json.loads((d / "data" / "refused_files.json").read_text(encoding="utf-8")) if (d / "data" / "refused_files.json").exists() else {}
+        check("the refused file is listed for a hand check, with a reason", any(k.endswith(bad[1]) for k in refused), refused)
+        check("... and is not registered, so a later run tries it again", not any(e["file"] == bad[1] for e in register(d)))
 finally:
     cleanup(d)
 sys.exit(finish())

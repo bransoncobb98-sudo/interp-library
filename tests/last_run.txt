@@ -1,14 +1,15 @@
-== 2026-10-02 18:06:13 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
+== 2026-10-05 15:12:41 UTC | Python 3.12.14 | pdfplumber 0.11.10 | pdftotext version 25.03.0
 
 ===== python3 pipeline/build.py
 Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
 
 ===== python3 tests/verify_ingest.py
-PASS  PDF files in sources/ equals files in the register  46 vs 46
+PASS  every registered file exists where the register says
+PASS  every PDF in sources/ is registered
 PASS  records = files - byte-identical copies  45 = 46 - 1
 PASS  record IDs are unique and sequential
 PASS  every file with an INTRODUCTION heading has a record with introduction text  45 files by text search, 44 records with introductions
-PASS  only the publisher script lacks an introduction  ['Consequences by Aaron Fraire.pdf']
+PASS  first upload: only the publisher script lacks an introduction  ['Consequences by Aaron Fraire.pdf']
 PASS  source blocks: text search finds all but the two-column file  explained difference: ['Therac 25 - DI.pdf'] (heading shares a line with award text in layout mode)
 PASS  bucketed words are within 15% of the file's total words (titles, bylines and footers are the remainder)  worst deviation 2.7%
 PASS  every record validates against the schema and taxonomy  []
@@ -38,88 +39,46 @@ IC-0045  Zooman and the Sign - DI.pdf: 'FRJENDS' -> 'FRIENDS'  [applied]
 DECLINED, KEPT AS PRINTED  Zooman and the Sign - DI.pdf: 'LESTER TOHNSON' -> 'LESTER JOHNSON'
 
 ===== python3 tests/test_columns.py
-PASS  the 45 library records parse exactly as stored (title, author, work, publisher, ISBN, introduction, raw text, source block, boundary)
-info: original files with pages read as two columns (expected: none, or only a two-column source block): none
-PASS  pdftotext -layout shows the test file in two columns (right-column text set beside the left column)
-PASS  Burned Alive parses as di_cutting  di_cutting 
-PASS  page 1 is read as two columns  [1, 2, 3, 4, 5, 6]
-PASS  reading order agrees with pdftotext  0.998
-PASS  title and author come from the left column  ('Burned Alive', 'Souad')
-PASS  introduction starts in the left column and continues into the right  Honor killings. Almost always, the victim is a woman; the killer a male family member. The woman’s offense is invariably
-PASS  introduction ends with the title-by-author line  rs; Souad was one of the “lucky” ones. This is her story. Burned Alive by Souad.
-PASS  the teaser comes first in the performance text  (Pg 1) I am a girl. A girl must walk fast, head down, as if counting the number 
-PASS  left-column teaser is followed by the right-column text, not interleaved  (467, 485)
-PASS  no right-column words leaked into the teaser
-PASS  Birds for Christmas - PR.pdf is laid out as prose  prose
-PASS  Lion and Blue - PO.pdf is laid out as verse  verse
-PASS  headings out of order: refused with a note, no crash  di_cutting: sections not in the expected order
-
-all checks passed
+Traceback (most recent call last):
+  File "/workspaces/interp-library/tests/test_columns.py", line 17, in <module>
+    import ingest as G                      # noqa: E402
+    ^^^^^^^^^^^^^^^^^^
+  File "/workspaces/interp-library/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
+!!!!! FAILED: tests/test_columns.py
 
 ===== python3 tests/test_programs.py
 PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
 
-PASS  the program file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-wrote 1 new record(s) to /tmp/ilib-test-7lhb6st9/data/cuttings.json
+FAIL  the program file ingests    File "/tmp/ilib-test-cmkske9k/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
 
-PASS  the one-piece, two-source file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-wrote 1 new record(s) to /tmp/ilib-test-7lhb6st9/data/cuttings.json
+FAIL  the one-piece, two-source file ingests    File "/tmp/ilib-test-cmkske9k/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
 
-PASS  program: one record of type Program  Program
-PASS  program: three selections, in order  [1, 2, 3]
-PASS  program: every selection has its own source block
-PASS  program: each source names Denice Frohman
-PASS  program: selections 2 and 3 begin with the performer's transition  ['Borders (Pg 86-89)\nIt starts b', 'TRANSITION\n\nThe language I kno', 'TRANSITION\n\nFamilies are safe ']
-PASS  program: no source-block text inside any selection's text
-PASS  program: award lines stay with their selection, not in the text  ['', 'KS State Qualifier (Combined with other poems)', 'MN State Qualifier – as a collection']
-PASS  program: the performance text is the selections joined in order
-PASS  program: word counts add up  (1340, [589, 345, 406])
-PASS  program: introduction stored separately
-PASS  one piece with two source blocks is a Cutting, not a Program  Cutting
-PASS  ... and keeps both source blocks as printed  2
-PASS  the database builds with a program in it  Built 47 record(s): 47 shown on the site -> site/index.html; exports in exports/
+PASS  the database builds with a program in it  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
 
-PASS  the page carries the program with its selections and their sources
+FAIL  the page carries the program with its selections and their sources
 
-all checks passed
+3 check(s) failed
+!!!!! FAILED: tests/test_programs.py
 
 ===== python3 tests/test_publishers.py
-PASS  Mushroom Cloud - Dis-Orientation.pdf: Mushroom Cloud cover layout  ('mcp', 'cover')
-PASS  Mushroom Cloud - Dis-Orientation.pdf: every line in exactly one place  {'lines': 174, 'duplicates': 0, 'missing': 0, 'words': 1826, 'performance_is_teaser_plus_body': True}
-PASS  Mushroom Cloud - Dis-Orientation.pdf: title and author  ('Dis-Orientation', 'Robert W. LaVohn')
-PASS  Mushroom Cloud - Dis-Orientation.pdf: publisher stated as Mushroom Cloud Press
-PASS  Mushroom Cloud - Dis-Orientation.pdf: notice stored exactly as printed  © 2024 Robert W. LaVohn Publication Date: August 15, 2024 Published by MUSHROOM CLOUD PRESS An imprint of Rainbow Skull 
-PASS  Mushroom Cloud - Dis-Orientation.pdf: no introduction in this layout
-PASS  Mushroom Cloud - Dis-Orientation.pdf: the script starts after the title page  Taylor, a nervous college freshman, stands before a judge.
-
-
-PASS  Mushroom Cloud - Dis-Orientation.pdf: no notice text inside the script
-PASS  MushroomCloud - Sister of Mercy.pdf: Mushroom Cloud series layout  ('mcp', 'series')
-PASS  MushroomCloud - Sister of Mercy.pdf: every line in exactly one place  {'lines': 171, 'duplicates': 0, 'missing': 0, 'words': 2329, 'performance_is_teaser_plus_body': True}
-PASS  MushroomCloud - Sister of Mercy.pdf: title and author  ('Sister of Mercy', 'Clyde Hendrickson')
-PASS  MushroomCloud - Sister of Mercy.pdf: publisher stated as Mushroom Cloud Press
-PASS  MushroomCloud - Sister of Mercy.pdf: notice stored exactly as printed  Copyright 2010 Clyde Hendrickson. Published by Mushroom Cloud Press, Orlando, FL as part of the Intriguing Interp Series
-PASS  MushroomCloud - Sister of Mercy.pdf: no introduction in this layout
-PASS  MushroomCloud - Sister of Mercy.pdf: the script starts after the title page  [A teenage girl. She sits at a table with a few items on it,
-PASS  MushroomCloud - Sister of Mercy.pdf: no notice text inside the script
-PASS  MushroomCloud_Unfunny.pdf: Mushroom Cloud series layout  ('mcp', 'series')
-PASS  MushroomCloud_Unfunny.pdf: every line in exactly one place  {'lines': 172, 'duplicates': 0, 'missing': 0, 'words': 1780, 'performance_is_teaser_plus_body': True}
-PASS  MushroomCloud_Unfunny.pdf: title and author  ('UNFUNNY', 'Michael Beede')
-PASS  MushroomCloud_Unfunny.pdf: publisher stated as Mushroom Cloud Press
-PASS  MushroomCloud_Unfunny.pdf: notice stored exactly as printed  © 2001 Michael Beede Free performance of this play for high school and college level competitive forensics is permitted.
-PASS  MushroomCloud_Unfunny.pdf: no introduction in this layout
-PASS  MushroomCloud_Unfunny.pdf: the script starts after the title page  “Unfunny” was originally intended to be performed by one wom
-PASS  MushroomCloud_Unfunny.pdf: no notice text inside the script
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: Mushroom Cloud classic layout  ('mcp', 'classic')
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: every line in exactly one place  {'lines': 333, 'duplicates': 0, 'missing': 0, 'words': 4097, 'performance_is_teaser_plus_body': True}
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: title and author  ('The Magic Shop', 'H.G. Wells')
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: publisher stated as Mushroom Cloud Press
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: no notice in this file, so none stored
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: no introduction in this layout
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: the script starts after the title page  I had seen the Magic Shop from afar several times; I had pas
-PASS  The Magic Shop - Mushroom Cloud Press.pdf: no notice text inside the script
-
-all checks passed
+Traceback (most recent call last):
+  File "/workspaces/interp-library/tests/test_publishers.py", line 11, in <module>
+    import ingest as G                      # noqa: E402
+    ^^^^^^^^^^^^^^^^^^
+  File "/workspaces/interp-library/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
+!!!!! FAILED: tests/test_publishers.py
 
 ===== python3 tests/test_build_site.py
 PASS  build succeeds  Built 45 record(s): 43 shown on the site -> site/index.html; exports in exports/
@@ -184,9 +143,9 @@ PASS  a record's performance text appears in its batch unaltered
 PASS  --dry-run applies nothing  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
 dry run: nothing written
 PASS  the example applies all 8 values with origin ai, confidence and evidence  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
-saved; reply archived as data/classifications/20261002-180710-EXAMPLE-IC-0014.json
+saved; reply archived as data/classifications/20261005-151250-EXAMPLE-IC-0014.json
 PASS  ... source values are untouched
-PASS  ... the reply and a report are archived in data/classifications/  ['20261002-180710-EXAMPLE-IC-0014.json', '20261002-180710-EXAMPLE-IC-0014.report.json']
+PASS  ... the reply and a report are archived in data/classifications/  ['20261005-151250-EXAMPLE-IC-0014.json', '20261005-151250-EXAMPLE-IC-0014.report.json']
 PASS  ... record no longer queued
 PASS  an invalid taxonomy value is rejected  IC-0001.audience_level: needs content_warnings assessed for the same record | IC-0001.author: not a field the AI may supply | IC-0001.difficulty: confidence must be high, medium or low | IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead | IC-0001.subject_matter: evidence is required | IC-0001.tone: not allowed values: ['Gloomy'] | IC-0002.content_warnings: evidence quotes the introduction or source block, not the performance text: "*as a translator, it's luiselli's task"
 PASS  a bad confidence is rejected
@@ -215,29 +174,38 @@ all checks passed
 ===== python3 tests/test_incremental_ingest.py
 PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
 
-PASS  re-running a file already in the library exits cleanly  files given: 1 | new records: 0 | identical copies: 0 | already in the library: 1 | failures: 0
-PASS  ... reports it as already in the library
+FAIL  re-running a file already in the library exits cleanly    File "/tmp/ilib-test-m89brdu6/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
+
+FAIL  ... reports it as already in the library
 PASS  ... leaves cuttings.json byte-for-byte unchanged
 PASS  ... leaves source_files.json unchanged
 PASS  identical copy under a new name creates no record  45 -> 45
-PASS  ... the existing record lists it in also_appears_in (and keeps the earlier copy)  ['Live to Tell - DI (1).pdf', 'Live to Tell copy 2.pdf']
-PASS  ... the register gains one entry pointing at the existing record  {'file': 'Live to Tell copy 2.pdf', 'sha1': '50d52a8b46896aee87cd2a89f825f96e741830d1', 'bytes': 151537, 'identical_copy_of': 'IC-0032', 'layout': 'identical copy (not parsed again)', 'pages': None}
+FAIL  ... the existing record lists it in also_appears_in (and keeps the earlier copy)  ['Live to Tell - DI (1).pdf']
+FAIL  ... the register gains one entry pointing at the existing record  {'file': 'Live to Tell - DI (1).pdf', 'sha1': '50d52a8b46896aee87cd2a89f825f96e741830d1', 'bytes': 151537, 'identical_copy_of': 'IC-0032', 'layout': 'identical copy (not parsed again)', 'pages': None}
 PASS  ... no other record changed
-PASS  a re-saved copy with the same text is parsed into one new record  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-  IC-0046 Fontaine resaved.pdf: Exact Duplicate of IC-0020
-wrote 1 new record(s) to /tmp/ilib-test-n5yn8zsp/data/cuttings.json
-PASS  ... it is marked Exact Duplicate of the existing record  ('Exact Duplicate', ['IC-0020'])
-PASS  ... the existing record lists the new file in also_appears_in
-PASS  ... the new record's ID follows the last ID  IC-0046
-PASS  re-running every file in sources/ changes nothing  files given: 4 | new records: 0 | identical copies: 0 | already in the library: 4 | failures: 0
-PASS  a changed file under an existing name is refused  SED: Live to Tell - DI.pdf - a different file with this name is already in the library; rename it and try again
-Nothing written because some files failed. Fix the parser or rename the file and re-run.
-PASS  ... and nothing is written
-PASS  a reviewer-set duplicate status is not overwritten by a later ingest
+FAIL  a re-saved copy with the same text is parsed into one new record    File "/tmp/ilib-test-m89brdu6/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
 
-all checks passed
+FAIL  re-running every file in sources/ changes nothing
+FAIL  a changed file under an existing name is refused
+PASS  ... and nothing is written
+FAIL  --incoming --keep-going writes the file that passes    File "/tmp/ilib-test-m89brdu6/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
+
+FAIL  the refused file is listed for a hand check, with a reason
+PASS  ... and is not registered, so a later run tries it again
+
+9 check(s) failed
+!!!!! FAILED: tests/test_incremental_ingest.py
 
 ===== python3 pipeline/classify.py --queue
 45 record(s) queued in 2 batch file(s): batch-001.md, batch-002.md
 
-== OVERALL: ALL STEPS PASSED
+== OVERALL: SOME STEPS FAILED (search for !!!!! above)

@@ -1,0 +1,16 @@
+== ingest of incoming/ started 2026-10-05 15:12:38 UTC
+  File "/workspaces/interp-library/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
+
+== award lines of earlier records
+Traceback (most recent call last):
+  File "/workspaces/interp-library/pipeline/reextract_awards.py", line 17, in <module>
+    import ingest as G        # noqa: E402
+    ^^^^^^^^^^^^^^^^^^
+  File "/workspaces/interp-library/pipeline/ingest.py", line 266
+    f.write("
+            ^
+SyntaxError: unterminated string literal (detected at line 266)
+== finished 2026-10-05 15:12:41 UTC

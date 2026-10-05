@@ -263,8 +263,7 @@ def write_refused(failures):
     fd, tmp = tempfile.mkstemp(dir=I.DATA, suffix=".tmp")
     with os.fdopen(fd, "w", encoding="utf-8") as f:
         json.dump(dict(sorted(old.items())), f, ensure_ascii=False, indent=1)
-        f.write("
-")
+        f.write("\n")
     os.replace(tmp, path)
 
 

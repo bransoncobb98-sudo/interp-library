@@ -76,7 +76,7 @@ try:
         check("a reviewer-set duplicate status is not overwritten by a later ingest", records(d)[new[0]]["duplicate_status"] == "Unique")
     # 7. --incoming --keep-going: files that pass are written with their folder's event and label; refused ones are listed
     good = ("incoming/Prose/Prose- Female", "Burned Alive - PR.pdf")
-    bad = ("incoming/Poetry/Any Gender Poetry", "Homesick - A Plea for our Planet - PO.pdf")
+    bad = ("incoming/Duo-Duet/F-F Duos & Duets", "A Girl_s Guide to Science_0.pdf")         # a scan with no text layer: always refused
     if all((ROOT / f / n).exists() for f, n in (good, bad)):
         for f, n in (good, bad):
             (d / f).mkdir(parents=True, exist_ok=True)

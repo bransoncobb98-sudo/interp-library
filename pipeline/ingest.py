@@ -293,7 +293,9 @@ def ingest(paths, event, filing_label, dry_run=False, layout=None, out=print, in
     name_to_sha.update({r["source_file"]: r["source_file_sha1"] for r in db["records"] if r.get("source_file_sha1")})
     next_num = int(I.next_id(db).split("-")[1])
     new, entries, failures, skipped = [], [], [], []
-    for p in sorted(paths, key=file_order):
+    for n_done, p in enumerate(sorted(paths, key=file_order), 1):
+        if n_done % 25 == 0:
+            out("  ... %d of %d files read" % (n_done, len(paths)), flush=True)
         name = os.path.basename(p)
         if name.startswith("._"):
             continue                                     # macOS metadata file, not a PDF
@@ -376,12 +378,22 @@ def main():
     ap.add_argument("--layout", choices=[n for n, _, _ in L.PARSERS], help="force one layout parser for these files")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
+    if a.incoming:
+        # one folder at a time, each saved when it finishes, so an interrupted run loses at most one folder;
+        # running again skips every file already in the library
+        pdfs = sorted(p for p in (I.ROOT / "incoming").rglob("*") if p.is_file() and p.suffix.lower() == ".pdf")
+        folders = sorted({p.parent for p in pdfs})
+        failures = []
+        for i, folder in enumerate(folders, 1):
+            paths = [str(p) for p in pdfs if p.parent == folder]
+            print("== folder %d of %d: %s (%d files)" % (i, len(folders), folder.relative_to(I.ROOT), len(paths)), flush=True)
+            with I.DbLock():
+                _, _, f, _ = ingest(paths, a.event, a.filing_label, a.dry_run, a.layout, info_for=folder_info, keep_going=a.keep_going,
+                                    out=lambda *x, **k: print(*x, flush=True))
+            failures += f
+        return 1 if failures and not a.keep_going else 0
     with I.DbLock():
-        if a.incoming:
-            paths = sorted(str(p) for p in (I.ROOT / "incoming").rglob("*") if p.is_file() and p.suffix.lower() == ".pdf")
-            _, _, failures, _ = ingest(paths, a.event, a.filing_label, a.dry_run, a.layout, info_for=folder_info, keep_going=a.keep_going)
-        else:
-            _, _, failures, _ = ingest(a.pdfs, a.event, a.filing_label, a.dry_run, a.layout, keep_going=a.keep_going)
+        _, _, failures, _ = ingest(a.pdfs, a.event, a.filing_label, a.dry_run, a.layout, keep_going=a.keep_going)
     return 1 if failures and not a.keep_going else 0
 
 

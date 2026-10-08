@@ -23,7 +23,9 @@ def finish():
     return 1 if FAILS else 0
 
 
-def make(sources=()):
+def make(sources=(), first_upload_only=False):
+    """first_upload_only: keep only the records (and register entries) of the files in sources/, so a test that
+    runs the ingest many times does not compare against the whole library each time."""
     d = Path(tempfile.mkdtemp(prefix="ilib-test-"))
     skip = shutil.ignore_patterns("__pycache__", ".db.lock", "*.tmp", "classifications", "classification_requests", "index.html")
     for sub in ("pipeline", "data", "site"):
@@ -31,7 +33,28 @@ def make(sources=()):
     (d / "sources").mkdir()
     for s in sources:
         shutil.copy2(ROOT / "sources" / s, d / "sources" / s)
+    if first_upload_only:
+        reg = [e for e in register(d) if not e.get("path")]          # entries with a path came from incoming/
+        keep = {e.get("record") or e.get("identical_copy_of") for e in reg}
+        with open(d / "data" / "source_files.json", "w", encoding="utf-8") as f:
+            json.dump(reg, f, ensure_ascii=False, indent=1)
+        def trim(db):
+            db["records"] = [r for r in db["records"] if r["id"] in keep]
+            for r in db["records"]:                                       # links to records left out of the copy
+                for k in ("duplicate_of", "same_source_work_ids"):
+                    r[k] = [x for x in r[k] if x in keep]
+        edit_db(d, trim)
+        (d / "data" / "refused_files.json").unlink(missing_ok=True)
     return d
+
+
+def edit_db(d, fn):
+    p = Path(d) / "data" / "cuttings.json"
+    with open(p, encoding="utf-8") as f:
+        db = json.load(f)
+    fn(db)
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump(db, f, ensure_ascii=False, indent=1)
 
 
 def run(d, *args):

@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _sandbox import ROOT, check, finish, make, run, raw, records, register, edit_records, cleanup  # noqa: E402
 
 LIVE, FONT = "Live to Tell - DI.pdf", "Fontaine - DI.pdf"
-d = make([LIVE, FONT])
+d = make([LIVE, FONT], first_upload_only=True)            # the 45 first-upload records, not the whole library
 try:
     p = run(d, "pipeline/build.py")                        # bring the copy up to the current schema first
     check("sandbox copy builds", p.returncode == 0, p.stdout[-300:] + p.stderr[-300:])

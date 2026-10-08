@@ -1,4 +1,4 @@
-# Classification request: batch 1 of 2 (40 records, IC-0001 to IC-0040)
+# Classification request: batch 1 of 63 (40 records, IC-0001 to IC-0040)
 
 You are an experienced high school speech and debate coach classifying interpretation cuttings
 for a searchable library used by students and coaches.
@@ -2757,7 +2757,7 @@ Today, my brother is almost two years old. On the day of his birthday, I always 
 - Record type: Cutting
 - Speaker labels in the text: BEN, DR. LEWIS, VIC, SULLIVAN
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1266
+- Spoken words (computed): 1264
 - Already set (do not supply): none
 
 ### Source block (context only)
@@ -2778,7 +2778,7 @@ Eight minutes and 46 seconds. That's how long a white Minneapolis police officer
 
 In April 2021, ABC’s Station 19 aired an episode hailed as one of the most powerful reflections of George Floyd’s murder on television. In this selection we hear the raw emotions of 3 of Station 19’s black first responders as they work through their fear, anger and grief with Counselor Dr. Diane Lewis.
 
-Get Up, Stand Up by Krista Vernoff with contributions from Station 19’s writing/support staff
+Get Up, Stand Up by Krista Vernoff with contributions from Station 19’s writing/support staff and cast.
 ```
 
 ### Performance text (classify this)
@@ -2795,8 +2795,6 @@ Ben Warren: Previously a surgical resident and anesthesiologist. He is the first
 Victoria Hughes (Vic): A young mixed-race firefighter struggling to deal with Floyd’s death and the media coverage. She struggles to understand how people (white people) didn’t know that racism is still problematic.
 
 Robert Sullivan: Trying to cope with the realization that police brutality and systemic racism won’t go away if no one speaks out.
-
-and cast.
 
 BEN: (Enters, he is exhausted) How do you do it? I mean, how do you. . . I-I-I know you have to be as shaken up as I am, so how do you. . .
 

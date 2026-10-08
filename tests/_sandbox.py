@@ -38,12 +38,22 @@ def make(sources=(), first_upload_only=False):
         keep = {e.get("record") or e.get("identical_copy_of") for e in reg}
         with open(d / "data" / "source_files.json", "w", encoding="utf-8") as f:
             json.dump(reg, f, ensure_ascii=False, indent=1)
+        sys.path.insert(0, str(d / "pipeline"))
+        import ilib as I                                                  # noqa: E402  (the copy's own code)
+        import ingest as G                                                # noqa: E402
+
         def trim(db):
             db["records"] = [r for r in db["records"] if r["id"] in keep]
             for r in db["records"]:                                       # links to records left out of the copy
                 for k in ("duplicate_of", "same_source_work_ids"):
                     r[k] = [x for x in r[k] if x in keep]
+            G.mark_duplicates(db["records"], reg)                         # duplicate links as an ingest would leave them
+            for r in db["records"]:
+                I.derive(r)
         edit_db(d, trim)
+        sys.path.remove(str(d / "pipeline"))
+        for m in ("ilib", "ingest", "layouts", "repairs"):
+            sys.modules.pop(m, None)                                      # the test imports its own copy later if it needs one
         (d / "data" / "refused_files.json").unlink(missing_ok=True)
     return d
 

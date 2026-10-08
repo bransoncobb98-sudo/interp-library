@@ -1,16 +1,849 @@
-== ingest of incoming/ started 2026-10-05 15:12:38 UTC
-  File "/workspaces/interp-library/pipeline/ingest.py", line 266
-    f.write("
-            ^
-SyntaxError: unterminated string literal (detected at line 266)
+== ingest of incoming/ started 2026-10-08 16:33:58 UTC
+== folder 1 of 22: incoming/DI (19 files)
+files given: 19 | new records: 19 | identical copies: 0 | already in the library: 0 | failures: 0
+wrote 19 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 2 of 22: incoming/DI/Any Gender DI (46 files)
+  ... 25 of 46 files read
+files given: 46 | new records: 0 | identical copies: 0 | already in the library: 46 | failures: 0
+== folder 3 of 22: incoming/DI/Female DIs (252 files)
+  ... 25 of 252 files read
+  ... 50 of 252 files read
+  ... 75 of 252 files read
+  ... 100 of 252 files read
+  ... 125 of 252 files read
+  ... 150 of 252 files read
+  ... 175 of 252 files read
+  ... 200 of 252 files read
+  ... 225 of 252 files read
+  ... 250 of 252 files read
+files given: 252 | new records: 240 | identical copies: 11 | already in the library: 0 | failures: 1
+  REFUSED: Zlatas Diary - DI.pdf - unrecognised: No parser matched this layout.
+wrote 240 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 4 of 22: incoming/DI/Male DIs (179 files)
+  ... 25 of 179 files read
+  ... 50 of 179 files read
+  ... 75 of 179 files read
+  ... 100 of 179 files read
+  ... 125 of 179 files read
+  ... 150 of 179 files read
+  ... 175 of 179 files read
+files given: 179 | new records: 170 | identical copies: 7 | already in the library: 0 | failures: 2
+  REFUSED: Imagine--The Killing of John Lennon by Lee Brown.pdf - unrecognised: No parser matched this layout.
+  REFUSED: MushroomCloud_Brothers.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+wrote 170 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 5 of 22: incoming/Duo-Duet/Any-Any Duos & Duets (80 files)
+  ... 25 of 80 files read
+  ... 50 of 80 files read
+  ... 75 of 80 files read
+files given: 80 | new records: 76 | identical copies: 0 | already in the library: 0 | failures: 4
+  REFUSED: A Very Clean Place_0_Duet-Duo.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Burning Down the House - DUO.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Math Curse - DUO.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Mushroom Cloud - PinocchioNoStringsAttached.pages.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  IC-0481 Aunt Leaf - DUO.pdf: Exact Duplicate of IC-0009
+  IC-0504 Elephants Graveyard - DUO.pdf: Near Duplicate of IC-0351
+wrote 76 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 6 of 22: incoming/Duo-Duet/F-F Duos & Duets (169 files)
+  ... 25 of 169 files read
+  ... 50 of 169 files read
+  ... 75 of 169 files read
+  ... 100 of 169 files read
+  ... 125 of 169 files read
+  EXCLUDED: SpeechGeek Presents Female-Female Duo Vol 2.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek Presents Female-Female Duo Vol 3.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek Presents Female-Female Duo.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Presents-Female-Female-Duo-Vol-4.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Presents-Female-Female-Duo-Vol-5.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  ... 150 of 169 files read
+files given: 169 | new records: 146 | identical copies: 14 | already in the library: 3 | failures: 1
+  REFUSED: A Girl_s Guide to Science_0.pdf - unrecognised: No parser matched this layout.
+  IC-0553 Agnes of God - DUO.pdf: Exact Duplicate of IC-0071
+  IC-0555 Always Patsy Cline - DUO.pdf: Exact Duplicate of IC-0074
+  IC-0579 Eleemosynary - DUO.pdf: Near Duplicate of IC-0133
+  IC-0581 Final Placement - DUO.pdf: Exact Duplicate of IC-0144
+  IC-0583 Frozen - DUO.pdf: Near Duplicate of IC-0154
+  IC-0584 Gidions Knot - DUO.pdf: Exact Duplicate of IC-0156
+  IC-0588 Grace and Glorie - DUO.pdf: Exact Duplicate of IC-0160
+  IC-0590 Grey Gardens - DUO.pdf: Near Duplicate of IC-0161
+  IC-0591 Gwen and Gwen - DUO.pdf: Near Duplicate of IC-0162
+  IC-0592 Haiku - DUO.pdf: Near Duplicate of IC-0163
+  IC-0594 Having our Say - DUO.pdf: Exact Duplicate of IC-0168
+  IC-0600 Insanity of Mary Girard - DUO.pdf: Near Duplicate of IC-0179
+  IC-0609 Letters to a Student Revolutionary - DUO.pdf: Near Duplicate of IC-0191
+  IC-0612 Master Class - DUO.pdf: Near Duplicate of IC-0198
+  IC-0615 Misreadings - DUO.pdf: Near Duplicate of IC-0204
+  IC-0648 My Red Hand My Black Hand - DUO.pdf: Near Duplicate of IC-0218
+  IC-0649 Necessary Targets - DUO.pdf: Near Duplicate of IC-0221
+  IC-0663 Piece of My Heart - DUO.pdf: Near Duplicate of IC-0239
+  IC-0667 Real Women Have Curves - DUO.pdf: Near Duplicate of IC-0248
+  IC-0668 Roe - DUO.pdf: Near Duplicate of IC-0251
+  IC-0676 Sickened - DUO.pdf: Near Duplicate of IC-0260
+  IC-0677 Small Great Things - DUO.pdf: Near Duplicate of IC-0263
+  IC-0678 Sold - DUO.pdf: Near Duplicate of IC-0265
+  IC-0681 Steel Magnolias - DUO.pdf: Near Duplicate of IC-0271
+  IC-0687 Train Story - DUO.pdf: Exact Duplicate of IC-0286
+wrote 146 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 7 of 22: incoming/Duo-Duet/M-F Duos & Duets (271 files)
+  ... 25 of 271 files read
+  ... 50 of 271 files read
+  ... 75 of 271 files read
+  ... 100 of 271 files read
+  ... 125 of 271 files read
+  ... 150 of 271 files read
+  ... 175 of 271 files read
+  ... 200 of 271 files read
+  ... 225 of 271 files read
+  ... 250 of 271 files read
+files given: 271 | new records: 266 | identical copies: 1 | already in the library: 1 | failures: 3
+  REFUSED: 13 Things You Don_t Know By Swans_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: 4-0_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Clash of the Titanic - DUO.pdf - a different file with this name is already in the library; rename it and try again
+  IC-0699 26 Pebbles - DUO.pdf: Near Duplicate of IC-0001
+  IC-0702 Act of Devotion - DUO.pdf: Exact Duplicate of IC-0004
+  IC-0704 Alias Grace - DUO.pdf: Near Duplicate of IC-0073
+  IC-0708 Angels in America - Millennium Approaches - DUO.pdf: Exact Duplicate of IC-0081
+  IC-0730 Boy Gets Girl - DUO.pdf: Exact Duplicate of IC-0012
+  IC-0754 Disturbed - DUO.pdf: Exact Duplicate of IC-0130
+  IC-0762 Emergency - DUO.pdf: Near Duplicate of IC-0352
+  IC-0764 Equus - DUO.pdf: Near Duplicate of IC-0354
+  IC-0783 Gaggle of Saints - DUO.pdf: Near Duplicate of IC-0364
+  IC-0785 George Orwells 1984 - DUO.pdf: Near Duplicate of IC-0367
+  IC-0800 Here Come Da Judge - DUO.pdf: Exact Duplicate of IC-0024
+  IC-0820 Joe Egg - DUO.pdf: Exact Duplicate of IC-0028
+  IC-0822 Kentucky Cycle - DUO.pdf: Exact Duplicate of IC-0029
+  IC-0844 Monster Calls - DUO.pdf: Near Duplicate of IC-0034
+  IC-0848 Mr Marmalade - DUO.pdf: Near Duplicate of IC-0213
+  IC-0870 My Children My Africa - DUO.pdf: Exact Duplicate of IC-0035
+  IC-0890 People Places and Things - DUO.pdf: Near Duplicate of IC-0236
+  IC-0895 Rabbit Hole - DUO.pdf: Near Duplicate of IC-0246
+  IC-0901 Ruined - DUO.pdf: Near Duplicate of IC-0253
+  IC-0905 Secrets - DUO.pdf: Near Duplicate of IC-0257
+  IC-0908 Shadow Box - DUO.pdf: Near Duplicate of IC-0038
+  IC-0909 Shape of Things - DUO.pdf: Near Duplicate of IC-0259
+  IC-0910 Sharpies - DUO.pdf: Near Duplicate of IC-0039
+  IC-0926 Therac 25 - DUO.pdf: Near Duplicate of IC-0040
+  IC-0927 These Shining Lives - DUO.pdf: Near Duplicate of IC-0278
+  IC-0929 This is Where it Ends - DUO.pdf: Near Duplicate of IC-0281
+  IC-0937 Two Rooms - DUO.pdf: Near Duplicate of IC-0288
+  IC-0943 Walk to Remember - DUO.pdf: Exact Duplicate of IC-0467
+  IC-0953 Whos Afraid of Virginia Woolf - DUO.pdf: Exact Duplicate of IC-0298
+  IC-0954 Widows and Children First - DUO.pdf: Exact Duplicate of IC-0044
+wrote 266 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 8 of 22: incoming/Duo-Duet/M-M Duos & Duets (113 files)
+  ... 25 of 113 files read
+  ... 50 of 113 files read
+  ... 75 of 113 files read
+  ... 100 of 113 files read
+files given: 113 | new records: 110 | identical copies: 0 | already in the library: 1 | failures: 2
+  REFUSED: Midnight Clear - DUO.pdf - unrecognised: No parser matched this layout.
+  REFUSED: MushroomCloud_EveryonesGonnaDie.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  IC-0971 As Is - DUO.pdf: Near Duplicate of IC-0311
+  IC-0972 Assassins - DUO.pdf: Near Duplicate of IC-0312
+  IC-0975 Bent - DUO.pdf: Near Duplicate of IC-0315
+  IC-0978 Boy in the Striped Pajamas - DUO.pdf: Exact Duplicate of IC-0325
+  IC-0985 Cold Storage - DUO.pdf: Near Duplicate of IC-0335
+  IC-0989 Coyote on a Fence - DUO.pdf: Near Duplicate of IC-0341
+  IC-0991 Day the Voices Stopped - DUO.pdf: Near Duplicate of IC-0346
+  IC-0993 Dog Sees God - DUO.pdf: Near Duplicate of IC-0348
+  IC-0996 Faith - DUO.pdf: Exact Duplicate of IC-0356
+  IC-0998 Forgive Me Leonard Peacock - DUO.pdf: Exact Duplicate of IC-0361
+  IC-1003 Hangman - DUO.pdf: Exact Duplicate of IC-0374
+  IC-1007 Hello Herman - DUO.pdf: Near Duplicate of IC-0377
+  IC-1014 I Didnt Know You Could Cook - DUO.pdf: Exact Duplicate of IC-0383
+  IC-1016 Inherit the Wind - DUO.pdf: Exact Duplicate of IC-0388
+  IC-1017 Inside Al - DUO.pdf: Near Duplicate of IC-0389
+  IC-1021 Last Days of Judas Iscariot - DUO.pdf: Near Duplicate of IC-0397
+  IC-1055 Pillowman - DUO.pdf: Near Duplicate of IC-0422
+  IC-1056 Red - DUO.pdf: Exact Duplicate of IC-0429
+  IC-1057 Scooter Thomas Makes it to the Top of the World - DUO.pdf: Near Duplicate of IC-0436
+  IC-1058 Slow Dance on The Killing Ground - DUO.pdf: Exact Duplicate of IC-0442
+  IC-1061 Steady Rain - DUO.pdf: Exact Duplicate of IC-0445
+  IC-1066 Tuesdays with Morrie - DUO.pdf: Near Duplicate of IC-0462
+  IC-1067 Visiting Mr Green - DUO.pdf: Exact Duplicate of IC-0466
+  IC-1072 Zoo Story - DUO.pdf: Exact Duplicate of IC-0474
+wrote 110 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 9 of 22: incoming/HI (46 files)
+  EXCLUDED: SpeechGeek-Presents-HIlarious-Vol-1.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Presents-HIlarious-Vol-2.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  ... 25 of 46 files read
+  EXCLUDED: SpeechGeek-Presents-HIlarious-Vol-3.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+files given: 46 | new records: 16 | identical copies: 15 | already in the library: 0 | failures: 12
+  REFUSED: MushroomCloud_BatmanAndRobin_BestMovieEver.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_BlackFedora.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_CityMorgue.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_KidInControl.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_LittleSuzySeesGod.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_TheAudacityOfNope.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_BatmanAndRobin_BestMovieEver(1).pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_BlackFedora(1).pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_CityMorgue(1).pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_KidInControl(1).pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_LittleSuzySeesGod(1).pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: MushroomCloud_TheAudacityOfNope(1).pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+wrote 16 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 10 of 22: incoming/HI/Any Gender HI (141 files)
+  ... 25 of 141 files read
+  ... 50 of 141 files read
+  ... 75 of 141 files read
+  ... 100 of 141 files read
+  ... 125 of 141 files read
+files given: 141 | new records: 141 | identical copies: 0 | already in the library: 0 | failures: 0
+  IC-1089 13 Ways to Screw Up Your College Interview - HI.pdf: Near Duplicate of IC-0475
+  IC-1090 25th Annual Putnam County Spelling Bee - HI.pdf: Near Duplicate of IC-0698
+  IC-1092 All 7 Deadly Sins Committed at a Church Bake Sale - HI.pdf: Near Duplicate of IC-0477
+  IC-1093 All I Really Need to Know I Learned In Kindergarten - HI.pdf: Near Duplicate of IC-0478
+  IC-1096 Ant Farm - HI.pdf: Near Duplicate of IC-0479
+  IC-1098 Around the World in a Bad Mood - HI.pdf: Near Duplicate of IC-0480
+  IC-1099 Attack of the Moral Fuzzies - HI.pdf: Near Duplicate of IC-0713
+  IC-1100 Baby - HI.pdf: Near Duplicate of IC-0482
+  IC-1101 Baby Talk - HI.pdf: Exact Duplicate of IC-0483
+  IC-1103 Bartholomew and the Oobleck - HI.pdf: Near Duplicate of IC-0484
+  IC-1104 Bat Boy - The Musical - HI.pdf: Near Duplicate of IC-0485
+  IC-1105 Beauty and the Beast - HI.pdf: Near Duplicate of IC-0719
+  IC-1106 Best Christmas Pageant Ever - HI.pdf: Near Duplicate of IC-0724
+  IC-1107 Best Daddy - HI.pdf: Exact Duplicate of IC-0725
+  IC-1108 BFG - HI.pdf: Near Duplicate of IC-0727
+  IC-1109 Bible - The Complete Word of God (Abridged) - HI.pdf: Near Duplicate of IC-0486
+  IC-1110 Big Bang - HI.pdf: Near Duplicate of IC-0487
+  IC-1111 Big Over Easy - A Nursery Crime - HI.pdf: Near Duplicate of IC-0488
+  IC-1113 Book of Awesome - HI.pdf: Near Duplicate of IC-0490
+  IC-1114 Brothers Grimm Spectaculathon - HI.pdf: Near Duplicate of IC-0732
+  IC-1116 Channel Changers - HI.pdf: Near Duplicate of IC-0493
+  IC-1117 Charlie and the Chocolate Factory - HI.pdf: Near Duplicate of IC-0494
+  IC-1119 Charlottes Web - HI.pdf: Near Duplicate of IC-0738
+  IC-1120 Check Please - HI.pdf: Near Duplicate of IC-0739
+  IC-1122 Choices - HI.pdf: Exact Duplicate of IC-0495
+  IC-1123 Cinderella Wore Combat Boots - HI.pdf: Near Duplicate of IC-0496
+  IC-1124 Clash of the Titanic - HI.pdf: Near Duplicate of IC-0497
+  IC-1125 Complete History of America Abridged - HI.pdf: Near Duplicate of IC-0498
+  IC-1126 Complete Works of William Shakespeare Abridged-Revised - HI.pdf: Near Duplicate of IC-0499
+  IC-1128 Disney Mom Group Therapy - HI.pdf: Near Duplicate of IC-0575
+  IC-1129 DMV Tyrant - HI.pdf: Exact Duplicate of IC-0755
+  IC-1130 Dr Seuss The Lorax - Screenplay - HI.pdf: Near Duplicate of IC-0760
+  IC-1131 Dreaded Batter Pudding Hurler - HI.pdf: Near Duplicate of IC-0503
+  IC-1137 Fantastic Mr Fox - HI.pdf: Near Duplicate of IC-0505
+  IC-1138 Finger Food - HI.pdf: Exact Duplicate of IC-0775
+  IC-1140 For Whom the Southern Belle Tolls - HI.pdf: Near Duplicate of IC-0778
+  IC-1141 Frog Prince Continued - HI.pdf: Near Duplicate of IC-0781
+  IC-1143 Funeral Parlor - HI.pdf: Near Duplicate of IC-0782
+  IC-1146 Gin Game - HI.pdf: Exact Duplicate of IC-0787
+  IC-1147 Glass - HI.pdf: Exact Duplicate of IC-0023
+  IC-1148 Good Place - HI.pdf: Near Duplicate of IC-0791
+  IC-1149 Greater Tuna - HI.pdf: Near Duplicate of IC-0508
+  IC-1153 Hooway for Wodney Wat - HI.pdf: Near Duplicate of IC-0802
+  IC-1154 Horton Hears a Who - HI.pdf: Near Duplicate of IC-0513
+  IC-1155 How to be a Villain - HI.pdf: Near Duplicate of IC-0514
+  IC-1156 How to Survive a Horror Movie - HI.pdf: Near Duplicate of IC-0515
+  IC-1158 How We Talk in South Boston - HI.pdf: Exact Duplicate of IC-0805
+  IC-1159 Humpty Dumpty Egg-splodes - HI.pdf: Near Duplicate of IC-0516
+  IC-1162 Inside Out - HI.pdf: Near Duplicate of IC-0517
+  IC-1163 Into the Woods - HI.pdf: Near Duplicate of IC-0816
+  IC-1165 James and the Giant Peach - HI.pdf: Near Duplicate of IC-0518
+  IC-1171 Law and Order - Fairy Tale Unit - HI.pdf: Near Duplicate of IC-0519
+  IC-1173 Lets Pretend This Never Happened - HI.pdf: Exact Duplicate of IC-0829
+  IC-1174 Lorax - HI.pdf: Near Duplicate of IC-0520
+  IC-1175 Marriage Counselor - HI.pdf: Exact Duplicate of IC-0841
+  IC-1180 Musicians of Bremen - HI.pdf: Near Duplicate of IC-0532
+  IC-1182 Naughty or Nice - HI.pdf: Near Duplicate of IC-0534
+  IC-1183 Nina in the Morning - HI.pdf: Near Duplicate of IC-0876
+  IC-1184 Original Last Wish Baby - HI.pdf: Near Duplicate of IC-0886
+  IC-1185 Phantom Tollbooth - HI.pdf: Near Duplicate of IC-0535
+  IC-1186 Plane Truth - HI.pdf: Near Duplicate of IC-0536
+  IC-1187 Playwriting 101 - The Rooftop Lesson - HI.pdf: Near Duplicate of IC-0537
+  IC-1192 Puberty - The Game Show - HI.pdf: Near Duplicate of IC-0894
+  IC-1194 Secret Knowledge of Grown-Ups - HI.pdf: Near Duplicate of IC-0538
+  IC-1196 Seussification of Romeo and Juliet - HI.pdf: Near Duplicate of IC-0539
+  IC-1199 Sneetches - HI.pdf: Near Duplicate of IC-0540
+  IC-1204 Stay Carl Stay - HI.pdf: Near Duplicate of IC-0919
+  IC-1205 Stinky Cheese Man - HI.pdf: Near Duplicate of IC-0542
+  IC-1207 Stye of the Eye - HI.pdf: Exact Duplicate of IC-0920
+  IC-1208 Sweet Tooth - HI.pdf: Near Duplicate of IC-0543
+  IC-1209 Tale Of Despereaux - HI.pdf: Exact Duplicate of IC-0544
+  IC-1212 Three Swine of Most Small Stature - HI.pdf: Near Duplicate of IC-0546
+  IC-1213 Time Flies - HI.pdf: Exact Duplicate of IC-0931
+  IC-1217 Twits - HI.pdf: Exact Duplicate of IC-0936
+  IC-1218 UFO Menance - HI.pdf: Near Duplicate of IC-0547
+  IC-1219 Universal Language - HI.pdf: Exact Duplicate of IC-0938
+  IC-1220 Urinetown - HI.pdf: Near Duplicate of IC-0939
+  IC-1225 Whole Shebang - HI.pdf: Near Duplicate of IC-0952
+  IC-1227 Wizard of Oz - The Screenplay - HI.pdf: Near Duplicate of IC-0955
+  IC-1229 World According to Toddlers - HI.pdf: Near Duplicate of IC-0957
+wrote 141 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 11 of 22: incoming/HI/Female HIs (74 files)
+  ... 25 of 74 files read
+  ... 50 of 74 files read
+files given: 74 | new records: 72 | identical copies: 1 | already in the library: 1 | failures: 0
+  IC-1231 A - My Name is Alice - HI.pdf: Near Duplicate of IC-0551
+  IC-1233 Alices Adventures in Wonderland - HI.pdf: Near Duplicate of IC-0705
+  IC-1235 Amys Answering Machine - HI.pdf: Near Duplicate of IC-0556
+  IC-1238 Beauty Queens - HI.pdf: Near Duplicate of IC-0561
+  IC-1245 Darcys Cinematic Life - HI.pdf: Near Duplicate of IC-0502
+  IC-1249 Drop Dead Gorgeous - HI.pdf: Near Duplicate of IC-0578
+  IC-1252 French Fries - HI.pdf: Exact Duplicate of IC-0151
+  IC-1256 Heritage Her-i-tage and Hair-i-tage - HI.pdf: Near Duplicate of IC-0597
+  IC-1257 Hillary - A Modern Greek Tragedy - HI.pdf: Near Duplicate of IC-0598
+  IC-1262 Indoor-Outdoor - HI.pdf: Exact Duplicate of IC-0815
+  IC-1263 Investment Dating - HI.pdf: Exact Duplicate of IC-0603
+  IC-1265 Kitchen Witches - HI.pdf: Exact Duplicate of IC-0606
+  IC-1271 Mean Girls - Original Screenplay - HI.pdf: Near Duplicate of IC-0614
+  IC-1280 Naomi in the Living Room - HI.pdf: Near Duplicate of IC-0873
+  IC-1282 Odd Couple - Female Version - HI.pdf: Exact Duplicate of IC-0656
+  IC-1284 POTUS - HI.pdf: Near Duplicate of IC-0666
+  IC-1286 Ravenswood from Bad Habits - HI.pdf: Exact Duplicate of IC-0898
+  IC-1287 Role of Della - HI.pdf: Exact Duplicate of IC-0669
+  IC-1288 Ruthless - HI.pdf: Near Duplicate of IC-0671
+  IC-1292 She Kills Monsters - HI.pdf: Near Duplicate of IC-0675
+  IC-1294 Sixteen - HI.pdf: Exact Duplicate of IC-0262
+  IC-1295 Tables and Chairs - HI.pdf: Exact Duplicate of IC-0684
+wrote 72 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 12 of 22: incoming/HI/Male HIs (138 files)
+  ... 25 of 138 files read
+  ... 50 of 138 files read
+  ... 75 of 138 files read
+  ... 100 of 138 files read
+  ... 125 of 138 files read
+files given: 138 | new records: 134 | identical copies: 1 | already in the library: 2 | failures: 1
+  REFUSED: 5 Lessons I Learned in my First Year of Teaching_0.pdf - unrecognised: No parser matched this layout.
+  IC-1303 24 - The Ultimate Script - HI.pdf: Near Duplicate of IC-0697
+  IC-1304 Ace Lacewing - Bug Detective - HI.pdf: Near Duplicate of IC-0701
+  IC-1305 Actors Nightmare - HI.pdf: Near Duplicate of IC-0703
+  IC-1308 Adventures of Captain Neato-Man - HI.pdf: Near Duplicate of IC-0965
+  IC-1311 All About Al - HI.pdf: Exact Duplicate of IC-0967
+  IC-1318 Babels In Arms - HI.pdf: Near Duplicate of IC-0973
+  IC-1320 Bar Mitzvah Boy - HI.pdf: Exact Duplicate of IC-0716
+  IC-1322 Birdcage - The Shooting Script - HI.pdf: Near Duplicate of IC-0976
+  IC-1324 Book of Mormon - PG-13 Version - HI.pdf: Near Duplicate of IC-0977
+  IC-1327 Boy Who Fell into a Book - HI.pdf: Near Duplicate of IC-0979
+  IC-1328 Breast Men - HI.pdf: Exact Duplicate of IC-0980
+  IC-1331 Bullshot Crummond - HI.pdf: Near Duplicate of IC-0734
+  IC-1334 Chomp - HI.pdf: Near Duplicate of IC-0983
+  IC-1335 Coming Attractions - HI.pdf: Near Duplicate of IC-0987
+  IC-1338 Controlling Interest - HI.pdf: Near Duplicate of IC-0744
+  IC-1339 Conversations with my Father - HI.pdf: Exact Duplicate of IC-0988
+  IC-1345 Day I Swapped My Dad for Two Goldfish - HI.pdf: Near Duplicate of IC-0747
+  IC-1348 Dont Fear the Reaper - HI.pdf: Near Duplicate of IC-0994
+  IC-1349 Dr Fritz - HI.pdf: Near Duplicate of IC-0758
+  IC-1350 Dr Horribles Sing-Along Blog - HI.pdf: Near Duplicate of IC-0759
+  IC-1357 Explorers Club - HI.pdf: Near Duplicate of IC-0765
+  IC-1358 Fake Mustache - HI.pdf: Near Duplicate of IC-0997
+  IC-1359 Family 2.0 - HI.pdf: Near Duplicate of IC-0768
+  IC-1362 Fortunately the Milk - HI.pdf: Near Duplicate of IC-0779
+  IC-1364 Funny Thing Happend on the Way to 5th Period - HI.pdf: Near Duplicate of IC-0999
+  IC-1367 Gods Favorite - HI.pdf: Exact Duplicate of IC-0507
+  IC-1369 GPS - HI.pdf: Exact Duplicate of IC-0792
+  IC-1371 Hidden in This Picture - HI.pdf: Near Duplicate of IC-1009
+  IC-1372 Hoboken Chicken Emergency - HI.pdf: Near Duplicate of IC-1011
+  IC-1373 How to be a Supervillain - HI.pdf: Near Duplicate of IC-1013
+  IC-1378 Inside the Corner Office - The Real Story - HI.pdf: Near Duplicate of IC-1018
+  IC-1382 Last Touchy Feely Drama on the American Stage - HI.pdf: Near Duplicate of IC-1022
+  IC-1385 Legend of Spud Murphy - HI.pdf: Near Duplicate of IC-0827
+  IC-1386 Littlest Hitler - HI.pdf: Exact Duplicate of IC-0403
+  IC-1387 Los Vendidos (The Sellouts) - HI.pdf: Near Duplicate of IC-0837
+  IC-1394 Mr Big - HI.pdf: Near Duplicate of IC-1026
+  IC-1397 Next - HI.pdf: Exact Duplicate of IC-0874
+  IC-1399 Oedi - HI.pdf: Near Duplicate of IC-0881
+  IC-1400 Philadelphia - HI.pdf: Near Duplicate of IC-1052
+  IC-1407 Removing the Glove - HI.pdf: Near Duplicate of IC-0899
+  IC-1414 Shrek - Screenplay - HI.pdf: Near Duplicate of IC-0912
+  IC-1416 Soap Opera - HI.pdf: Near Duplicate of IC-0917
+  IC-1420 Summer Reading is Killing Me - HI.pdf: Near Duplicate of IC-1063
+  IC-1422 Tarzan - HI.pdf: Near Duplicate of IC-1064
+  IC-1425 Trigger Mortis - Frontier Mortician - HI.pdf: Near Duplicate of IC-1065
+  IC-1428 Variations on the Death of Trotsky - HI.pdf: Near Duplicate of IC-0941
+  IC-1433 Wigfield - HI.pdf: Near Duplicate of IC-1069
+  IC-1435 Your Mothers Butt - HI.pdf: Near Duplicate of IC-0961
+wrote 134 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 13 of 22: incoming/Needs to be classified (zip) (195 files)
+  ... 25 of 195 files read
+  ... 50 of 195 files read
+  ... 75 of 195 files read
+  ... 100 of 195 files read
+  ... 125 of 195 files read
+  ... 150 of 195 files read
+  EXCLUDED: SpeechGeek-Presents-Female-Female-Duo-1.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Presents-Female-Female-Duo-Vol-2-1.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Presents-Female-Female-Duo-Vol-3-2.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Season-Eight-Fall-2010.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Season-Eight-Winter-2011.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Season-Five-Nationals-2008.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Season-Seven-Nats-2010.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  EXCLUDED: SpeechGeek-Season-Six-Nationals-2009.pdf - Whole SpeechGeek collection (many pieces in one file); left out by the director's decision of 2026-10-01. Single pieces cut from collections are included.
+  ... 175 of 195 files read
+files given: 195 | new records: 57 | identical copies: 0 | already in the library: 13 | failures: 117
+  REFUSED: Andrew Green_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Appropriate Diet for a Pet_0_Duet-Duo.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Brothers_0_Duet-Duo.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Buds with Spuds_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Calvin Coolidge v The Dinosaurs_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Cooper_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Countdown to Love_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Depressed White GirlThe World_s Worst DI_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Dr Wilderness_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Dude, Attorney at Law_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: DYSLEXIC DAVE_0_Duet-Duo.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Everyone_s Gonna Die_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Everyone_s Still Dead_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Everything falls Off_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Evolution of Manford_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Face-Baggage_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Forensicator Forever_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Fragments of Life_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Front Porch Chronicles_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Ghetto Blaster_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Gone Batty_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Good Morning Glory_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: GOODBYE MOM, I LOVE YOU_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Heal_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: HI-Larious Volume 1 _0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: his sunt dracones_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: I Love All of Yous_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: I_m Mean to My Kids_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Indian Rap All-Star_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Jack in the Box_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: KABLOOEY_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Kid In Control_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Luigi _ Mario_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Minutes From the Council United For World Destruction_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Mrs. Needy_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: MushroomCloud_DrWilderness.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: My Life in Babysittters_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: My Tiny Dancer_s Hands_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: No Longer The First_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: One_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Papa Oscar_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Penny _ The Adventures of Tickle-Me Elmo_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Play Descriptions - Mushroom Cloud Press - New Scripts 2024.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: Play This at My Funeral_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Post Inferno_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Promiscuoous Ankles_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Red God_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Ridgeville Elementary School_s Extremely Talinted Show_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Roses-In-December-by-Gregg-Moeller.pdf - a section heading or page footer is inside the performance text; needs a hand check
+  REFUSED: Scars_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eight_-_Winter_2011__Chasing_Snowflakes.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eight_-_Winter_2011__For_My_Baby.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eight_-_Winter_2011__How_to_do_Nothing_Successfully.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eight_-_Winter_2011__Hypothetically_Yours.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eight_-_Winter_2011__Reggie_Wilson_-_Boy_Detective.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eleven_-_Winter_2014__Cat_and_Mouse.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eleven_-_Winter_2014__Pigskin.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eleven_-_Winter_2014__Reflection.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eleven_-_Winter_2014__The_Best_Worst_Date.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Eleven_-_Winter_2014__The_Dragon_Slayer_of_Eastman_Senior_High.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Spring_2007__Program_Builder_-_Past_the_Profundity.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Spring_2007__Saving_Face.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Spring_2007__Schrodingers_Kiss.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Spring_2007__Thrift.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Spring_2007__Topaz.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Winter_2007__Faux_Real.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Winter_2007__The_Man_Who_Loved_Her.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Winter_2007__The_Music_Teacher.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Winter_2007__Totally_Sheltered.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Four_-_Winter_2007__Trash_Can_Heart.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_One_-_Fall_2003__Being_That_Guy.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_One_-_Fall_2003__Canada_Eh_-_A_Salute_to_All_Things_Canuck.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_One_-_Fall_2003__Learning_to_Fall.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_One_-_Fall_2003__The_Amazing_Presto.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_One_-_Fall_2003__The_Apology_of_Socrates.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Ten_-_Winter_2013__Bruise_Ship.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Ten_-_Winter_2013__Burned_Out.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Ten_-_Winter_2013__Content.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Ten_-_Winter_2013__Dividing_by_Zero.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Ten_-_Winter_2013__Forever_As_the_Stars.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Three_-_Fall_2005__In_A_Specimen_Box.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Three_-_Fall_2005__My_Other.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Three_-_Fall_2005__Pipe_Dreams_-_A_Mockumentary.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Three_-_Fall_2005__Take_43.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Season_Three_-_Fall_2005__The_General_Salute.pdf - unrecognised: No parser matched this layout.
+  REFUSED: SG_Presents_Junior_Vol_2__Dads_Coming_Home.pdf - unrecognised: No parser matched this layout.
+  REFUSED: SG_Presents_Junior_Vol_2__Rose_and_June.pdf - unrecognised: No parser matched this layout.
+  REFUSED: SG_Presents_Junior_Vol_2__The_Crayon_Map.pdf - unrecognised: No parser matched this layout.
+  REFUSED: SG_Presents_Junior_Vol_2__The_King_of_Nerd_Camp.pdf - unrecognised: No parser matched this layout.
+  REFUSED: SG_Presents_Junior_Vol_2__The_Remarkable_Adventure_of_States_the_Obvious_Girl.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Shrinkage_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: squirrel_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Stop!_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Superman_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Surprised We Haven_t Met Before_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Table for 2, Party of 4_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Assistant_0_Duet-Duo.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Audacity of Nope_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Christmas Box_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The City Morgue_s Second AnnualTake Your Daughter to Work Day_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Girl in the Picture_0_Duet-Duo.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The GR8 TXT MSG WAR_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Great Stravinsky_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Grim Reaper is a Hot Chick_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Hamilton Sasquatch_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Ride_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Spoon Incident_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Thief of Snow_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Toilet Paper Ration_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Ultimate Drama_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: The World_s Greatest Toe Show (10 MIN HI CUT).pdf - unrecognised: No parser matched this layout.
+  REFUSED: The Yates Transcript by Erica Mehl.pdf - a section heading or page footer is inside the performance text; needs a hand check
+  REFUSED: THE YEARBOOK_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Time of Our Lives_0_Duet-Duo.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Unfunny_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Wall Flower_0.pdf - unrecognised: No parser matched this layout.
+  REFUSED: You Can_t Take Them Home at Night_0.pdf - unrecognised: No parser matched this layout.
+wrote 57 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 14 of 22: incoming/POI Program Starter (1 files)
+files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
+wrote 1 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 15 of 22: incoming/Poetry/Any Gender Poetry (260 files)
+  ... 25 of 260 files read
+  ... 50 of 260 files read
+  ... 75 of 260 files read
+  ... 100 of 260 files read
+  ... 125 of 260 files read
+  ... 150 of 260 files read
+  ... 175 of 260 files read
+  ... 200 of 260 files read
+  ... 225 of 260 files read
+  ... 250 of 260 files read
+files given: 260 | new records: 254 | identical copies: 1 | already in the library: 0 | failures: 5
+  REFUSED: American Poetry - PO.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Burning Down the House - PO.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Den of Lions (2) - PO.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Nice Thing About Counting Stars - PO.pdf - unrecognised: No parser matched this layout.
+  REFUSED: Den of Lions (2) - PO (1).pdf - unrecognised: No parser matched this layout.
+  IC-1498 After the Death of Anna Gonzales - PO.pdf: Near Duplicate of IC-0007
+  IC-1516 Blue Front - PO.pdf: Near Duplicate of IC-0489
+  IC-1525 Butter Battle Book - PO.pdf: Near Duplicate of IC-0492
+  IC-1545 Crickets Have Arthritis - PO.pdf: Exact Duplicate of IC-0016
+  IC-1589 Horton Hears a Who - PO.pdf: Exact Duplicate of IC-0513, IC-1154
+  IC-1622 Lorax - PO.pdf: Near Duplicate of IC-0520, IC-1174
+  IC-1639 Nefert-iti - PO.pdf: Near Duplicate of IC-0036
+  IC-1683 Self-Evident - PO.pdf: Exact Duplicate of IC-0037
+  IC-1690 Sneetches - PO.pdf: Exact Duplicate of IC-0540, IC-1199
+  IC-1716 Thidwick the Big-Hearted Moose - PO.pdf: Near Duplicate of IC-1210
+  IC-1723 Triune Tale of the Diminutive Swine - PO.pdf: Near Duplicate of IC-1215
+wrote 254 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 16 of 22: incoming/Poetry/Poetry Female (124 files)
+  ... 25 of 124 files read
+  ... 50 of 124 files read
+  ... 75 of 124 files read
+  ... 100 of 124 files read
+files given: 124 | new records: 121 | identical copies: 2 | already in the library: 0 | failures: 1
+  REFUSED: Its Fine Im Fine Everything is Fine - PO.pdf - unrecognised: No parser matched this layout.
+  IC-1753 Andrew Poems - PO.pdf: Exact Duplicate of IC-0079
+  IC-1759 Because I am Furniture - PO.pdf: Exact Duplicate of IC-0089
+  IC-1765 Blue Dress - PO.pdf: Near Duplicate of IC-0100
+  IC-1775 Credo - PO.pdf: Exact Duplicate of IC-0121
+  IC-1792 For Colored Girls - PO.pdf: Near Duplicate of IC-0148
+  IC-1800 Harriet - PR.pdf: Near Duplicate of IC-0167
+  IC-1804 How to Stay Bitter Through the Happiest Times - PO.pdf: Near Duplicate of IC-1258
+  IC-1826 Mirror to Her Mouth - PO.pdf: Near Duplicate of IC-0203
+  IC-1827 Missing Natalie and Victim - PO.pdf: Near Duplicate of IC-0205
+  IC-1828 My Brothers Funerals - PO.pdf: Near Duplicate of IC-0215
+wrote 121 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 17 of 22: incoming/Poetry/Poetry Male (70 files)
+  ... 25 of 70 files read
+  ... 50 of 70 files read
+files given: 70 | new records: 69 | identical copies: 0 | already in the library: 0 | failures: 1
+  REFUSED: Anthem M-80 and Parked Car - PO.pdf - unrecognised: No parser matched this layout.
+  IC-1870 Albuquerque - PO.pdf: Near Duplicate of IC-1309
+  IC-1878 Bone Close to My Brain - PO.pdf: Near Duplicate of IC-0320
+  IC-1879 Brutal Imagination - PO.pdf: Exact Duplicate of IC-0328
+  IC-1881 Congo (A Study of the Negro Race) - PO.pdf: Near Duplicate of IC-0337
+  IC-1893 Game of Chess - PO.pdf: Near Duplicate of IC-1365
+  IC-1895 Go To Bed - PO.pdf: Near Duplicate of IC-1366
+  IC-1931 Walking on Glass - PO.pdf: Near Duplicate of IC-0468
+  IC-1934 White Guy - PO.pdf: Exact Duplicate of IC-0469
+wrote 69 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 18 of 22: incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection (17 files)
+files given: 17 | new records: 14 | identical copies: 0 | already in the library: 0 | failures: 3
+  REFUSED: _MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: A War Worth Fighting - Mushroom Cloud Press.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED: The Feast of Nemesis - Mushroom Cloud Press.pdf - unrecognised: No parser matched this layout.
+wrote 14 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 19 of 22: incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents (34 files)
+  ... 25 of 34 files read
+files given: 34 | new records: 0 | identical copies: 14 | already in the library: 0 | failures: 3
+  REFUSED:  _MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED:  A War Worth Fighting - Mushroom Cloud Press.pdf - mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  REFUSED:  The Feast of Nemesis - Mushroom Cloud Press.pdf - unrecognised: No parser matched this layout.
+wrote 0 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 20 of 22: incoming/Prose/Prose Any Gender (218 files)
+  ... 25 of 218 files read
+  ... 50 of 218 files read
+  ... 75 of 218 files read
+  ... 100 of 218 files read
+  ... 125 of 218 files read
+  ... 150 of 218 files read
+  ... 175 of 218 files read
+  ... 200 of 218 files read
+files given: 218 | new records: 217 | identical copies: 1 | already in the library: 0 | failures: 0
+  IC-1955 Adolf Hitler - The Larry King Interview - PR.pdf: Exact Duplicate of IC-1307
+  IC-1956 After I Was Thrown in the River - PR.pdf: Near Duplicate of IC-0006
+  IC-1957 After the Death of Anna Gonzales - PR.pdf: Near Duplicate of IC-0007, IC-1498
+  IC-1959 Alexander And The Terrible - PR.pdf: Exact Duplicate of IC-1310
+  IC-1962 Almost Normal - PR.pdf: Exact Duplicate of IC-0008
+  IC-1964 And Thy Name Shall Be - PR.pdf: Near Duplicate of IC-1095
+  IC-1967 Ant Farm - PR.pdf: Near Duplicate of IC-0479, IC-1096
+  IC-1968 Are We There Yet - PR.pdf: Near Duplicate of IC-1097
+  IC-1969 Around the World in a Bad Mood - PR.pdf: Near Duplicate of IC-0480, IC-1098
+  IC-1973 Bartholomew and the Oobleck - PR.pdf: Exact Duplicate of IC-0484, IC-1103
+  IC-1974 Beauty and the Beast - PR.pdf: Near Duplicate of IC-0719, IC-1105
+  IC-1976 Beyond Magenta - PR.pdf: Exact Duplicate of IC-0010
+  IC-1978 Big Over Easy - A Nursery Crime - PR.pdf: Near Duplicate of IC-0488, IC-1111
+  IC-1979 Bigfoot Walks into Town - PR.pdf: Exact Duplicate of IC-1112
+  IC-1983 Blundered Buss - PR.pdf: Exact Duplicate of IC-1323
+  IC-1985 Book Thief - PR.pdf: Exact Duplicate of IC-0011
+  IC-1989 Bridge to Terabithia - PR.pdf: Near Duplicate of IC-0731
+  IC-1991 Celebrated Jumping Frog of Calaveras County - PR.pdf: Exact Duplicate of IC-1115
+  IC-1993 Charlie the Caterpillar - PR.pdf: Exact Duplicate of IC-1118
+  IC-1995 Chicken Little - PR.pdf: Exact Duplicate of IC-1121
+  IC-1998 Chomp - PR.pdf: Exact Duplicate of IC-0983, IC-1334
+  IC-2000 Clash of the Titanic - PR.pdf: Exact Duplicate of IC-0497, IC-1124
+  IC-2002 Clown of God - PR.pdf: Exact Duplicate of IC-0013
+  IC-2004 Day I Swapped My Dad for Two Goldfish - PR.pdf: Exact Duplicate of IC-0747, IC-1345
+  IC-2005 Day the Crayons Quit - PR.pdf: Exact Duplicate of IC-1127
+  IC-2015 Encouraging Kelly - PR.pdf: Near Duplicate of IC-0017
+  IC-2016 Encyclopedia Brown - Case of the Barefoot Thieves - PR.pdf: Exact Duplicate of IC-1354
+  IC-2024 Fortunately the Milk - PR.pdf: Exact Duplicate of IC-0779, IC-1362
+  IC-2025 Frog Prince Continued - PR.pdf: Near Duplicate of IC-0781, IC-1141
+  IC-2026 Garbage Scan - PR.pdf: Near Duplicate of IC-1144
+  IC-2029 George Carlins Guide to Dining Out - PR.pdf: Exact Duplicate of IC-1145
+  IC-2036 Halloween - PR.pdf: Exact Duplicate of IC-1150
+  IC-2040 Heaven Help Us - PR.pdf: Exact Duplicate of IC-1151
+  IC-2042 Hes Just Not That Into You - PR.pdf: Near Duplicate of IC-0801
+  IC-2044 Hooway for Wodney Wat - PR.pdf: Near Duplicate of IC-1153
+  IC-2048 How to Be a Villain - PR.pdf: Exact Duplicate of IC-0514, IC-1155
+  IC-2049 How to Say It - PR.pdf: Near Duplicate of IC-0025
+  IC-2050 How to Survive a Horror Movie - PR.pdf: Exact Duplicate of IC-0515, IC-1156
+  IC-2052 How to Write Suspense - PR.pdf: Exact Duplicate of IC-1157
+  IC-2053 I Have No Mouth and I Must Scream - PR.pdf: Exact Duplicate of IC-0385
+  IC-2054 I Need My Monster - PR.pdf: Near Duplicate of IC-1375
+  IC-2055 I Never Knew - PR.pdf: Exact Duplicate of IC-0026
+  IC-2056 I Stopped Writing Poetry - PR.pdf: Exact Duplicate of IC-1592
+  IC-2058 In Depth But Shallowly - PR.pdf: Exact Duplicate of IC-1160
+  IC-2060 In Your Hat - PR.pdf: Near Duplicate of IC-0813
+  IC-2063 Its Not a Sport - PR.pdf: Exact Duplicate of IC-1164
+  IC-2066 Jill and the Beanstalk - PR.pdf: Exact Duplicate of IC-1166
+  IC-2067 Kentish Sleep Deprivation Journal - PR.pdf: Exact Duplicate of IC-1167
+  IC-2070 Last Requests - PR.pdf: Exact Duplicate of IC-0030
+  IC-2072 Last Testament - A Memoir by God - PR.pdf: Exact Duplicate of IC-1169
+  IC-2073 Latke Who Couldnt Stop Screaming - PR.pdf: Exact Duplicate of IC-1170
+  IC-2074 Legend of Rock Paper Scissors - PR.pdf: Exact Duplicate of IC-1172
+  IC-2075 Life Support - PR.pdf: Near Duplicate of IC-0031
+  IC-2077 Lorax - PR.pdf: Near Duplicate of IC-0520, IC-1174, IC-1622
+  IC-2084 Mick Harte Was Here - PR.pdf: Exact Duplicate of IC-0033
+  IC-2086 Missing Piece - PR.pdf: Exact Duplicate of IC-1632
+  IC-2103 Plane Truth - PR.pdf: Exact Duplicate of IC-0536, IC-1186
+  IC-2105 Pluto Gets the Call - PR.pdf: Exact Duplicate of IC-1188
+  IC-2107 Politically Correct The Princess and the Pea - PR.pdf: Near Duplicate of IC-1189
+  IC-2109 Psssst Its Me the Bogeyman - PR.pdf: Exact Duplicate of IC-1191
+  IC-2114 Richard - PR.pdf: Near Duplicate of IC-1193
+  IC-2119 Secret Knowledge of Grown-Ups - PR.pdf: Exact Duplicate of IC-0538, IC-1194
+  IC-2122 Sideways Stories from Wayside School - PR.pdf: Near Duplicate of IC-1197
+  IC-2123 Six to Eight Black Men - PR.pdf: Near Duplicate of IC-1198
+  IC-2125 Snow White and the 7 Microaggressions - PR.pdf: Exact Duplicate of IC-1200
+  IC-2126 Son of Rumpelstiltskin - PR.pdf: Near Duplicate of IC-1201
+  IC-2128 Squids will be Squids - PR.pdf: Exact Duplicate of IC-1203
+  IC-2130 Stinky Cheese Man - PR.pdf: Exact Duplicate of IC-0542, IC-1205
+  IC-2134 Sweet Tooth - PR.pdf: Exact Duplicate of IC-0543, IC-1208
+  IC-2139 There Will Come Soft Rains - PR.pdf: Exact Duplicate of IC-0041
+  IC-2140 Theseus - PR.pdf: Near Duplicate of IC-1424
+  IC-2141 Thidwick the Big-Hearted Moose - PR.pdf: Exact Duplicate of IC-1210, IC-1716
+  IC-2144 Three Co-Dependent Goats Gruff - PR.pdf: Near Duplicate of IC-1211
+  IC-2148 Triune Tale of the Diminutive Swine - PR.pdf: Exact Duplicate of IC-1215, IC-1723
+  IC-2149 True Story of the Three Little Pigs - PR.pdf: Exact Duplicate of IC-1216
+  IC-2150 Typical Day - PR.pdf: Exact Duplicate of IC-0463
+  IC-2151 UFO Menance - PR.pdf: Near Duplicate of IC-0547, IC-1218
+  IC-2154 Villains Victims and Very Big Feelings - PR.pdf: Exact Duplicate of IC-1222
+  IC-2159 Web Files - PR.pdf: Near Duplicate of IC-1224
+  IC-2163 Witches - PR.pdf: Exact Duplicate of IC-1226
+  IC-2166 Yertle the Turtle - PR.pdf: Exact Duplicate of IC-1746
+wrote 217 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 21 of 22: incoming/Prose/Prose- Female (188 files)
+  ... 25 of 188 files read
+  ... 50 of 188 files read
+  ... 75 of 188 files read
+  ... 100 of 188 files read
+  ... 125 of 188 files read
+  ... 150 of 188 files read
+  ... 175 of 188 files read
+files given: 188 | new records: 188 | identical copies: 0 | already in the library: 0 | failures: 0
+  IC-2171 After the Wink - PR.pdf: Near Duplicate of IC-0068
+  IC-2172 Aimee - PR.pdf: Exact Duplicate of IC-0072
+  IC-2173 Airmail to the Moon - PR.pdf: Exact Duplicate of IC-1232
+  IC-2177 Amanda and the Wounded Birds - PR.pdf: Exact Duplicate of IC-0075
+  IC-2178 Amys Answering Machine - PR.pdf: Exact Duplicate of IC-0556, IC-1235
+  IC-2180 Answering 911 - Life in the Hot Seat - PR.pdf: Near Duplicate of IC-0559
+  IC-2183 Are You There God - Its Me Margaret - PR.pdf: Near Duplicate of IC-1236
+  IC-2184 Bald in the Land of Big Hair - PR.pdf: Near Duplicate of IC-0086
+  IC-2186 Beauty - When the Other Dancer is the Self - PR.pdf: Exact Duplicate of IC-0088
+  IC-2188 Before Fergus - PR.pdf: Near Duplicate of IC-0091
+  IC-2189 Before Women Had Wings - PR.pdf: Exact Duplicate of IC-0092
+  IC-2190 Bell Jar - PR.pdf: Near Duplicate of IC-0093
+  IC-2192 Between Shades of Gray - PR.pdf: Exact Duplicate of IC-0095
+  IC-2195 Blown Sideways Through Life - PR.pdf: Exact Duplicate of IC-1240
+  IC-2198 Brimstone and Marmalade - PR.pdf: Exact Duplicate of IC-1243
+  IC-2200 Burned Alive - PR.pdf: Near Duplicate of IC-0107
+  IC-2201 But Also Bring Cheese - PR.pdf: Exact Duplicate of IC-0108
+  IC-2204 Cat Got Your Tongue - PR.pdf: Exact Duplicate of IC-1769
+  IC-2205 Caught up in the Rapture - PR.pdf: Near Duplicate of IC-0110
+  IC-2207 Childs Book of Sickness and Death - PR.pdf: Exact Duplicate of IC-0113
+  IC-2208 Choosing Hope - PR.pdf: Near Duplicate of IC-0114
+  IC-2210 Color of Scars - PR.pdf: Near Duplicate of IC-0118
+  IC-2211 Crying in H Mart - PR.pdf: Exact Duplicate of IC-0122
+  IC-2214 Dear Husband - PR.pdf: Exact Duplicate of IC-0127
+  IC-2215 Death of Innocence - PR.pdf: Near Duplicate of IC-1781
+  IC-2216 Deja Vu Again - PR.pdf: Exact Duplicate of IC-0129
+  IC-2219 Disneyland - PR.pdf: Near Duplicate of IC-1248
+  IC-2222 Dreamland - PR.pdf: Exact Duplicate of IC-0131
+  IC-2223 End of Aaron - PR.pdf: Exact Duplicate of IC-0135
+  IC-2227 Explaining Death to the Dog - PR.pdf: Near Duplicate of IC-0139
+  IC-2228 Extenuating Circumstances - PR.pdf: Near Duplicate of IC-0140
+  IC-2229 Fairness - PR.pdf: Exact Duplicate of IC-0141
+  IC-2230 Fangs of Endearment - PR.pdf: Near Duplicate of IC-1250
+  IC-2236 Fireworks from Above - PR.pdf: Near Duplicate of IC-0145
+  IC-2241 From the Flow - PR.pdf: Exact Duplicate of IC-0152
+  IC-2246 Girl in Pieces - PR.pdf: Exact Duplicate of IC-0158
+  IC-2247 Girl Named Zippy - PR.pdf: Exact Duplicate of IC-1253
+  IC-2248 Girls Guide to Bragging and Lying - PR.pdf: Exact Duplicate of IC-1254
+  IC-2249 Girls Who Went Away - PR.pdf: Near Duplicate of IC-0159
+  IC-2250 God of Cake - PR.pdf: Exact Duplicate of IC-1255
+  IC-2253 Handle with Care - PR.pdf: Exact Duplicate of IC-0164
+  IC-2254 Hannahs Gift - PR.pdf: Exact Duplicate of IC-0166
+  IC-2259 Hump Day - PR.pdf: Exact Duplicate of IC-0172
+  IC-2260 I Can Hear My Soul Cracking - PR.pdf: Exact Duplicate of IC-0175
+  IC-2261 I Know Why the  Caged Bird Sings - PR.pdf: Near Duplicate of IC-1259
+  IC-2262 I Love Everybody - PR.pdf: Near Duplicate of IC-1260
+  IC-2263 I Love You Dad - PR.pdf: Near Duplicate of IC-0176
+  IC-2268 Incendiary - PR.pdf: Exact Duplicate of IC-0178
+  IC-2274 Kissing Doorknobs - PR.pdf: Exact Duplicate of IC-0187
+  IC-2275 Know My Name - PR.pdf: Exact Duplicate of IC-0188
+  IC-2278 Learning How to Walk - PR.pdf: Near Duplicate of IC-0190
+  IC-2281 Light and Hope - PR.pdf: Exact Duplicate of IC-0192
+  IC-2282 Lily - PR.pdf: Near Duplicate of IC-0194
+  IC-2286 Manhattan Romance - PR.pdf: Exact Duplicate of IC-0196
+  IC-2287 Men Who Killed Me - PR.pdf: Exact Duplicate of IC-0201
+  IC-2288 Missing Natalie and Victim - PR.pdf: Near Duplicate of IC-0205, IC-1827
+  IC-2289 Mockingbird - PR.pdf: Near Duplicate of IC-0206
+  IC-2291 My Boyfriends Back and Theres Gonna be Laundry - PR.pdf: Near Duplicate of IC-1278
+  IC-2295 My Stepmother Myself - PR.pdf: Near Duplicate of IC-1279
+  IC-2296 New York Regional Mormon Singles Halloween Dance - PR.pdf: Near Duplicate of IC-1281
+  IC-2321 Seriously Cinderella is so Annoying - PR.pdf: Near Duplicate of IC-1291
+  IC-2324 Sickened - PR.pdf: Exact Duplicate of IC-0260, IC-0676
+  IC-2326 Silver Water - PR.pdf: Exact Duplicate of IC-0261
+  IC-2330 Sold - PR.pdf: Near Duplicate of IC-0265, IC-0678
+  IC-2331 Speak - PR.pdf: Exact Duplicate of IC-0268
+  IC-2334 Stolen Moments - PR.pdf: Near Duplicate of IC-0272
+  IC-2338 This is my Audition Monologue - PR.pdf: Exact Duplicate of IC-0280
+  IC-2339 This is Where it Ends - PR.pdf: Near Duplicate of IC-0281, IC-0929
+  IC-2340 Throne of Fire - Chapter 8 - PR.pdf: Exact Duplicate of IC-1297
+  IC-2341 Through a Window - PR.pdf: Exact Duplicate of IC-0283
+  IC-2344 Voices from Chernobyl - PR.pdf: Near Duplicate of IC-0291
+  IC-2345 Walking with RJ - PR.pdf: Exact Duplicate of IC-0292
+  IC-2346 Waltz - PR.pdf: Exact Duplicate of IC-1298
+  IC-2347 Warning Signs - PR.pdf: Near Duplicate of IC-1300
+  IC-2348 White Oleander - PR.pdf: Exact Duplicate of IC-0296
+  IC-2350 Wintergirls - PR.pdf: Exact Duplicate of IC-0299
+  IC-2351 Woman who Walked into Doors - PR.pdf: Near Duplicate of IC-0301
+  IC-2354 WWJD - PR.pdf: Near Duplicate of IC-0303
+wrote 188 new record(s) to /workspaces/interp-library/data/cuttings.json
+== folder 22 of 22: incoming/Prose/Prose- Male (167 files)
+  ... 25 of 167 files read
+  ... 50 of 167 files read
+  ... 75 of 167 files read
+  ... 100 of 167 files read
+  ... 125 of 167 files read
+  ... 150 of 167 files read
+files given: 167 | new records: 163 | identical copies: 3 | already in the library: 0 | failures: 1
+  REFUSED: Jeffreys Moatmeal Accident - PR.pdf - di_cutting: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.
+  IC-2361 Acorn People - PR.pdf: Near Duplicate of IC-0305
+  IC-2365 Am I Blue - PR.pdf: Exact Duplicate of IC-0969
+  IC-2367 Angelas Ashes - PR.pdf: Exact Duplicate of IC-1314
+  IC-2368 Animals - PR.pdf: Exact Duplicate of IC-1315
+  IC-2378 Barrel Fever - PR.pdf: Exact Duplicate of IC-1321
+  IC-2383 Big Fish - PR.pdf: Exact Duplicate of IC-0317
+  IC-2386 Boogeyman - PR.pdf: Near Duplicate of IC-0321
+  IC-2387 Bottleman - PR.pdf: Near Duplicate of IC-0323
+  IC-2388 Boy in the Striped Pajamas - PR.pdf: Near Duplicate of IC-0325, IC-0978
+  IC-2391 Brief Moment in the Life of Angus Bethune - PR.pdf: Near Duplicate of IC-0327
+  IC-2392 Burn Journals - PR.pdf: Near Duplicate of IC-0329
+  IC-2393 Button - PR.pdf: Exact Duplicate of IC-0330
+  IC-2397 Child Called It - PR.pdf: Exact Duplicate of IC-0331
+  IC-2400 Color of Water - PR.pdf: Near Duplicate of IC-0336
+  IC-2401 Commercial Break - PR.pdf: Near Duplicate of IC-1336
+  IC-2403 Count Dracula - PR.pdf: Exact Duplicate of IC-1340
+  IC-2404 Cubs - PR.pdf: Exact Duplicate of IC-1341
+  IC-2405 Cult - PR.pdf: Exact Duplicate of IC-1342
+  IC-2406 Cyclops - PR.pdf: Exact Duplicate of IC-1343
+  IC-2407 Daddys Little Girl - PR.pdf: Exact Duplicate of IC-0343
+  IC-2408 Dance Dance Dance - PR.pdf: Near Duplicate of IC-0345
+  IC-2409 Dangerous Pie - PR.pdf: Near Duplicate of IC-1344
+  IC-2411 Day the Voices Stopped - PR.pdf: Exact Duplicate of IC-0346, IC-0991
+  IC-2416 Fat Boy vs the Cheerleaders - PR.pdf: Near Duplicate of IC-1360
+  IC-2418 Forgive Me Leonard Peacock - PR.pdf: Exact Duplicate of IC-0361
+  IC-2419 Freak - A Semi-Demi-Quasi-Pseudo - PR.pdf: Near Duplicate of IC-1363
+  IC-2422 Geometry of Despair - Venn Diagram - PR.pdf: Near Duplicate of IC-0366
+  IC-2426 God File - PR.pdf: Exact Duplicate of IC-0369
+  IC-2429 Goliath - PR.pdf: Near Duplicate of IC-1368
+  IC-2431 Gym Class - Worst Game in the World - PR.pdf: Near Duplicate of IC-1370
+  IC-2433 Harrys Story from 11-22-1963 - PR.pdf: Exact Duplicate of IC-0375
+  IC-2434 Homecoming King - PR.pdf: Exact Duplicate of IC-0378
+  IC-2436 i dreamed i was a baseball card - PR.pdf: Exact Duplicate of IC-0384
+  IC-2440 Joey Pigza Swallowed the Key - PR.pdf: Exact Duplicate of IC-0394
+  IC-2441 Junkie and the Monk - PR.pdf: Near Duplicate of IC-0395
+  IC-2442 Kidneys and Commitments - PR.pdf: Exact Duplicate of IC-0396
+  IC-2445 Last Rung on the Ladder - PR.pdf: Exact Duplicate of IC-0399
+  IC-2446 Last Supper or the Dead Waiter - PR.pdf: Near Duplicate of IC-1381
+  IC-2447 Laws Concerning Food and Drink - PR.pdf: Exact Duplicate of IC-1383
+  IC-2448 Legend of Spud Murphy - PR.pdf: Exact Duplicate of IC-0827, IC-1385
+  IC-2450 Littlest Hitler - PR.pdf: Near Duplicate of IC-0403, IC-1386
+  IC-2451 Long Way Gone - PR.pdf: Exact Duplicate of IC-0404
+  IC-2452 Looking a Lot Like Christmas - PR.pdf: Near Duplicate of IC-0405
+  IC-2454 Lucky Man - PR.pdf: Near Duplicate of IC-0406
+  IC-2455 Lunatics Tale - PR.pdf: Exact Duplicate of IC-1388
+  IC-2458 Mario - PR.pdf: Exact Duplicate of IC-1389
+  IC-2461 Memoirs of an Imaginary Friend - PR.pdf: Exact Duplicate of IC-0408
+  IC-2463 Mr Big - PR.pdf: Near Duplicate of IC-1026, IC-1394
+  IC-2471 Naked Mole Rat Gets Dressed - PR.pdf: Exact Duplicate of IC-1396
+  IC-2473 Nigger - An Autobiography - PR.pdf: Near Duplicate of IC-0414
+  IC-2474 Nocturne - PR.pdf: Exact Duplicate of IC-0415
+  IC-2475 Not a Genuine Black Man - PR.pdf: Exact Duplicate of IC-0416
+  IC-2480 Paper Menagerie - PR.pdf: Exact Duplicate of IC-0419
+  IC-2481 Past Wasnt Done with Me - PR.pdf: Exact Duplicate of IC-0420
+  IC-2482 Perfect Moments - PR.pdf: Exact Duplicate of IC-0421
+  IC-2483 Pin - PR.pdf: Near Duplicate of IC-0423
+  IC-2484 Plague of Tics - PR.pdf: Exact Duplicate of IC-1401
+  IC-2485 Prayer for What - PR.pdf: Exact Duplicate of IC-0425
+  IC-2488 Red Diaper Baby - PR.pdf: Exact Duplicate of IC-1405
+  IC-2489 Redeployment - PR.pdf: Exact Duplicate of IC-0430
+  IC-2490 Rest Area - PR.pdf: Near Duplicate of IC-0431
+  IC-2491 Resusci-Annie - PR.pdf: Near Duplicate of IC-1408
+  IC-2494 SantaLand Diaries - PR.pdf: Exact Duplicate of IC-1410
+  IC-2497 Secret Life of Walter Mitty - PR.pdf: Near Duplicate of IC-1411
+  IC-2500 Strong Arms - PR.pdf: Exact Duplicate of IC-1418
+  IC-2501 Stuck in Neutral - PR.pdf: Near Duplicate of IC-0447
+  IC-2503 Suzannes Diary for Nicholas - PR.pdf: Exact Duplicate of IC-0448
+  IC-2504 Telephone Man - PR.pdf: Near Duplicate of IC-0451
+  IC-2508 Truth in Dreams - PR.pdf: Near Duplicate of IC-0461
+  IC-2509 Tuesdays with Morrie - PR.pdf: Near Duplicate of IC-0462, IC-1066
+  IC-2510 Under the Wolf Under the Dog - PR.pdf: Exact Duplicate of IC-0464
+  IC-2513 Walk to Remember - PR.pdf: Exact Duplicate of IC-0467
+  IC-2514 Wanda Hickeys Night of Golden Memories - PR.pdf: Near Duplicate of IC-1430
+  IC-2515 Whats the Worst That Could Happen - PR.pdf: Near Duplicate of IC-1432
+  IC-2519 YMA Dream - PR.pdf: Near Duplicate of IC-1434
+wrote 163 new record(s) to /workspaces/interp-library/data/cuttings.json
 
 == award lines of earlier records
-Traceback (most recent call last):
-  File "/workspaces/interp-library/pipeline/reextract_awards.py", line 17, in <module>
-    import ingest as G        # noqa: E402
-    ^^^^^^^^^^^^^^^^^^
-  File "/workspaces/interp-library/pipeline/ingest.py", line 266
-    f.write("
-            ^
-SyntaxError: unterminated string literal (detected at line 266)
-== finished 2026-10-05 15:12:41 UTC
+IC-0001 26 Pebbles - DI.pdf: + ['IL State Qualifier', 'IN State Qualifier', 'MN State Qualifier']
+IC-0005 Adult Child - Dead Child - DI.pdf: + ['IN State Qualifier', 'KS State Qualifier', 'MN State Qualifier']
+IC-0007 After the Death of Anna Gonzales - DI.pdf: + ['KS State Qualifier']
+IC-0008 Almost Normal - DI.pdf: + ['KS State Qualifier']
+IC-0012 Boy Gets Girl - DI.pdf: + ['KS State Qualifier', 'MN State Qualifier', 'OH State Qualifier']
+IC-0016 Crickets Have Arthritis - DI.pdf: + ['KS State Qualifier']
+IC-0025 How to Say It - DI.pdf: + ['NIETOC', 'IN State Qualifier', 'KS State Qualifier']
+IC-0028 Joe Egg - DI.pdf: + ['MN State Qualifier']
+IC-0029 Kentucky Cycle - DI.pdf: + ['Minnesota State Qualifier – DI - ALL']
+IC-0030 Last Requests - DI.pdf: + ['IL State Qualifier']
+IC-0033 Mick Harte Was Here - DI.pdf: + ['NIETOC', 'CO State Qualifier', 'IL State Qualifier', 'IN State Qualifier', 'KS State Qualifier']
+IC-0034 Monster Calls - DI.pdf: + ['CO State Qualifier', 'NE State Qualifier']
+IC-0038 Shadow Box - DI.pdf: + ['IL State Qualifier', 'IN State Qualifier', 'SD State Qualifier', 'UT State Qualifier', 'MN State Qualifier']
+13 record(s) corrected
+== finished 2026-10-08 18:16:43 UTC

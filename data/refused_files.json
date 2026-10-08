@@ -1,0 +1,630 @@
+{
+ "incoming/DI/Female DIs/Zlatas Diary - DI.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/DI/Male DIs/Imagine--The Killing of John Lennon by Lee Brown.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/DI/Male DIs/MushroomCloud_Brothers.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/Any-Any Duos & Duets/A Very Clean Place_0_Duet-Duo.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/Any-Any Duos & Duets/Burning Down the House - DUO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/Any-Any Duos & Duets/Math Curse - DUO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/Any-Any Duos & Duets/Mushroom Cloud - PinocchioNoStringsAttached.pages.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/F-F Duos & Duets/A Girl_s Guide to Science_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/M-F Duos & Duets/13 Things You Don_t Know By Swans_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/M-F Duos & Duets/4-0_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/M-F Duos & Duets/Clash of the Titanic - DUO.pdf": {
+  "reason": "a different file with this name is already in the library; rename it and try again",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/M-M Duos & Duets/Midnight Clear - DUO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Duo-Duet/M-M Duos & Duets/MushroomCloud_EveryonesGonnaDie.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/Male HIs/5 Lessons I Learned in my First Year of Teaching_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_BatmanAndRobin_BestMovieEver(1).pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_BatmanAndRobin_BestMovieEver.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_BlackFedora(1).pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_BlackFedora.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_CityMorgue(1).pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_CityMorgue.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_KidInControl(1).pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_KidInControl.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_LittleSuzySeesGod(1).pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_LittleSuzySeesGod.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_TheAudacityOfNope(1).pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/HI/MushroomCloud_TheAudacityOfNope.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Andrew Green_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Appropriate Diet for a Pet_0_Duet-Duo.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Brothers_0_Duet-Duo.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Buds with Spuds_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Calvin Coolidge v The Dinosaurs_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Cooper_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Countdown to Love_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/DYSLEXIC DAVE_0_Duet-Duo.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Depressed White GirlThe World_s Worst DI_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Dr Wilderness_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Dude, Attorney at Law_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Everyone_s Gonna Die_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Everyone_s Still Dead_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Everything falls Off_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Evolution of Manford_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Face-Baggage_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Forensicator Forever_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Fragments of Life_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Front Porch Chronicles_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/GOODBYE MOM, I LOVE YOU_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Ghetto Blaster_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Gone Batty_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Good Morning Glory_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/HI-Larious Volume 1 _0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Heal_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/I Love All of Yous_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/I_m Mean to My Kids_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Indian Rap All-Star_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Jack in the Box_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/KABLOOEY_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Kid In Control_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Luigi _ Mario_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Minutes From the Council United For World Destruction_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Mrs. Needy_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/MushroomCloud_DrWilderness.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/My Life in Babysittters_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/My Tiny Dancer_s Hands_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/No Longer The First_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/One_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Papa Oscar_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Penny _ The Adventures of Tickle-Me Elmo_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Play Descriptions - Mushroom Cloud Press - New Scripts 2024.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Play This at My Funeral_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Post Inferno_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Promiscuoous Ankles_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Red God_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Ridgeville Elementary School_s Extremely Talinted Show_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Roses-In-December-by-Gregg-Moeller.pdf": {
+  "reason": "a section heading or page footer is inside the performance text; needs a hand check",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Dads_Coming_Home.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__Rose_and_June.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_Crayon_Map.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_King_of_Nerd_Camp.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/SG_Presents_Junior_Vol_2__The_Remarkable_Adventure_of_States_the_Obvious_Girl.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Scars_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eight_-_Winter_2011__Chasing_Snowflakes.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eight_-_Winter_2011__For_My_Baby.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eight_-_Winter_2011__How_to_do_Nothing_Successfully.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eight_-_Winter_2011__Hypothetically_Yours.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eight_-_Winter_2011__Reggie_Wilson_-_Boy_Detective.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__Cat_and_Mouse.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__Pigskin.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__Reflection.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__The_Best_Worst_Date.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Eleven_-_Winter_2014__The_Dragon_Slayer_of_Eastman_Senior_High.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Program_Builder_-_Past_the_Profundity.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Saving_Face.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Schrodingers_Kiss.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Thrift.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Spring_2007__Topaz.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__Faux_Real.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__The_Man_Who_Loved_Her.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__The_Music_Teacher.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__Totally_Sheltered.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Four_-_Winter_2007__Trash_Can_Heart.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Being_That_Guy.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Canada_Eh_-_A_Salute_to_All_Things_Canuck.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__Learning_to_Fall.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__The_Amazing_Presto.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_One_-_Fall_2003__The_Apology_of_Socrates.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Bruise_Ship.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Burned_Out.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Content.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Dividing_by_Zero.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Ten_-_Winter_2013__Forever_As_the_Stars.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__In_A_Specimen_Box.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__My_Other.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Pipe_Dreams_-_A_Mockumentary.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__Take_43.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Season_Three_-_Fall_2005__The_General_Salute.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Shrinkage_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Stop!_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Superman_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Surprised We Haven_t Met Before_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/THE YEARBOOK_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Table for 2, Party of 4_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Assistant_0_Duet-Duo.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Audacity of Nope_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Christmas Box_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The City Morgue_s Second AnnualTake Your Daughter to Work Day_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The GR8 TXT MSG WAR_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Girl in the Picture_0_Duet-Duo.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Great Stravinsky_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Grim Reaper is a Hot Chick_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Hamilton Sasquatch_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Ride_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Spoon Incident_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Thief of Snow_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Toilet Paper Ration_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Ultimate Drama_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The World_s Greatest Toe Show (10 MIN HI CUT).pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/The Yates Transcript by Erica Mehl.pdf": {
+  "reason": "a section heading or page footer is inside the performance text; needs a hand check",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Time of Our Lives_0_Duet-Duo.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Unfunny_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/Wall Flower_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/You Can_t Take Them Home at Night_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/his sunt dracones_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Needs to be classified (zip)/squirrel_0.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Poetry/Any Gender Poetry/American Poetry - PO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Poetry/Any Gender Poetry/Burning Down the House - PO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Poetry/Any Gender Poetry/Den of Lions (2) - PO (1).pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Poetry/Any Gender Poetry/Den of Lions (2) - PO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Poetry/Any Gender Poetry/Nice Thing About Counting Stars - PO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Poetry/Poetry Female/Its Fine Im Fine Everything is Fine - PO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Poetry/Poetry Male/Anthem M-80 and Parked Car - PO.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/A War Worth Fighting - Mushroom Cloud Press.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/The Feast of Nemesis - Mushroom Cloud Press.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/MushroomCloudPress_ClassicProseCollection/_MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents/ A War Worth Fighting - Mushroom Cloud Press.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents/ The Feast of Nemesis - Mushroom Cloud Press.pdf": {
+  "reason": "unrecognised: No parser matched this layout.",
+  "date": "2026-10-08"
+ },
+ "incoming/Prose/Mushroom Cloud Press - Classic Prose Collection/zip contents/ _MushroomCloud_ClassicProse_Copyright_StorySummaries.pdf": {
+  "reason": "mcp: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ },
+ "incoming/Prose/Prose- Male/Jeffreys Moatmeal Accident - PR.pdf": {
+  "reason": "di_cutting: sections not in the expected order: The section headings are not in the order this layout expects; needs a hand check.",
+  "date": "2026-10-08"
+ }
+}

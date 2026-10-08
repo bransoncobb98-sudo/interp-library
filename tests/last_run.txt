@@ -1,4 +1,4 @@
-== 2026-10-08 23:31:37 UTC | Python 3.12.15 | pdfplumber 0.11.10 | pdftotext version 25.03.0
+== 2026-10-08 23:51:17 UTC | Python 3.12.15 | pdfplumber 0.11.10 | pdftotext version 25.03.0
 
 ===== python3 pipeline/build.py
 Built 2519 record(s): 2303 shown on the site -> site/index.html; exports in exports/
@@ -3716,10 +3716,10 @@ all checks passed
 PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
 
 PASS  the program file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-wrote 1 new record(s) to /tmp/ilib-test-i4b4qbjs/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-si55dzk6/data/cuttings.json
 
 PASS  the one-piece, two-source file ingests  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-wrote 1 new record(s) to /tmp/ilib-test-i4b4qbjs/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-si55dzk6/data/cuttings.json
 
 PASS  program: one record of type Program  Program
 PASS  program: three selections, in order  [1, 2, 3]
@@ -3818,7 +3818,7 @@ all checks passed
 ===== python3 tests/test_publish.py
 PASS  sandbox copy builds  Built 45 record(s): 45 shown on the site -> site/index.html; exports in exports/
 
-PASS  publish succeeds and checks its own output  Published 45 records to /tmp/ilib-pub-f8s5iie4: catalogue 0.0 MB, 1 text parts of 0.2-0.2 MB (0.2 MB in all), version b2b9cacf1a1b.
+PASS  publish succeeds and checks its own output  Published 45 records to /tmp/ilib-pub-chrvgxzd: catalogue 0.0 MB, 1 text parts of 0.2-0.2 MB (0.2 MB in all), version cc24693dbc56.
 Checked: every record decrypts back exactly; a wrong password is refused; no record title is readable in the page.
 
 PASS  catalogue and text parts written; the old part is gone  ['catalog.bin', 'part-00.bin']
@@ -3826,7 +3826,7 @@ PASS  files that are not the publisher's are left alone
 PASS  robots.txt keeps search engines out
 PASS  no title, introduction or text passage is readable in the published files (124 probes)
 PASS  the page has the unlock step and no embedded library
-PASS  the page states the salt, rounds and number of parts  {'salt': 'uHN8cQB/KV143xRo920f3A==', 'iter': 600000, 'parts': 1, 'v': 'b2b9cacf1a1b'}
+PASS  the page states the salt, rounds and number of parts  {'salt': 'ObbBR0ki5RPAvuVP0htzfA==', 'iter': 600000, 'parts': 1, 'v': 'cc24693dbc56'}
 PASS  the catalogue holds no performance text
 PASS  every record decrypts back exactly as on the single-file site  45
 PASS  a wrong password is refused
@@ -4347,9 +4347,9 @@ PASS  a record's performance text appears in its batch unaltered
 PASS  --dry-run applies nothing  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
 dry run: nothing written
 PASS  the example applies all 8 values with origin ai, confidence and evidence  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
-saved; reply archived as data/classifications/20261008-233555-EXAMPLE-IC-0014.json
+saved; reply archived as data/classifications/20261008-235319-EXAMPLE-IC-0014.json
 PASS  ... source values are untouched
-PASS  ... the reply and a report are archived in data/classifications/  ['20261008-233555-EXAMPLE-IC-0014.json', '20261008-233555-EXAMPLE-IC-0014.report.json']
+PASS  ... the reply and a report are archived in data/classifications/  ['20261008-235319-EXAMPLE-IC-0014.json', '20261008-235319-EXAMPLE-IC-0014.report.json']
 PASS  ... record no longer queued
 PASS  an invalid taxonomy value is rejected  IC-0001.audience_level: needs content_warnings assessed for the same record | IC-0001.author: not a field the AI may supply | IC-0001.difficulty: confidence must be high, medium or low | IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead | IC-0001.subject_matter: evidence is required | IC-0001.tone: not allowed values: ['Gloomy'] | IC-0002.content_warnings: evidence quotes the introduction or source block, not the performance text: "*as a translator, it's luiselli's task"
 PASS  a bad confidence is rejected
@@ -4385,10 +4385,10 @@ PASS  ... leaves source_files.json unchanged
 PASS  identical copy under a new name creates no record  45 -> 45
 PASS  ... the existing record lists it in also_appears_in (and keeps the earlier copy)  ['Live to Tell - DI (1).pdf', 'Live to Tell copy 2.pdf']
 PASS  ... the register gains one entry pointing at the existing record  {'file': 'Live to Tell copy 2.pdf', 'path': 'sources/Live to Tell copy 2.pdf', 'sha1': '50d52a8b46896aee87cd2a89f825f96e741830d1', 'bytes': 151537, 'identical_copy_of': 'IC-0032', 'layout': 'identical copy (not parsed again)', 'pages': None}
-FAIL  ... no other record changed  ['IC-0004', 'IC-0008', 'IC-0009', 'IC-0010', 'IC-0011']
+PASS  ... no other record changed
 PASS  a re-saved copy with the same text is parsed into one new record  files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
   IC-0046 Fontaine resaved.pdf: Exact Duplicate of IC-0020
-wrote 1 new record(s) to /tmp/ilib-test-6l_a8ko1/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-lp8ujxrp/data/cuttings.json
 PASS  ... it is marked Exact Duplicate of the existing record  ('Exact Duplicate', ['IC-0020'])
 PASS  ... the existing record lists the new file in also_appears_in
 PASS  ... the new record's ID follows the last ID  IC-0046
@@ -4399,20 +4399,19 @@ PASS  ... and nothing is written
 PASS  a reviewer-set duplicate status is not overwritten by a later ingest
 PASS  --incoming --keep-going writes the file that passes  ary: 0 | failures: 1
   REFUSED: A Girl_s Guide to Science_0.pdf - unrecognised: No parser matched this layout.
-wrote 0 new record(s) to /tmp/ilib-test-6l_a8ko1/data/cuttings.json
+wrote 0 new record(s) to /tmp/ilib-test-lp8ujxrp/data/cuttings.json
 == folder 2 of 2: incoming/Prose/Prose- Female (1 files)
 files given: 1 | new records: 1 | identical copies: 0 | already in the library: 0 | failures: 0
-wrote 1 new record(s) to /tmp/ilib-test-6l_a8ko1/data/cuttings.json
+wrote 1 new record(s) to /tmp/ilib-test-lp8ujxrp/data/cuttings.json
 
 PASS  ... with its folder's event and filing label  ('Prose', 'Prose- Female')
 PASS  ... and the register records where the file is  {'file': 'Burned Alive - PR.pdf', 'path': 'incoming/Prose/Prose- Female/Burned Alive - PR.pdf', 'sha1': '219d8012cc8d8e672655fe208e4252b298c99197', 'bytes': 233866, 'layout': 'di_cutting', 'pages': 7, 'record': 'IC-0047'}
 PASS  the refused file is listed for a hand check, with a reason  {'incoming/Duo-Duet/F-F Duos & Duets/A Girl_s Guide to Science_0.pdf': {'reason': 'unrecognised: No parser matched this layout.', 'date': '2026-09-30'}}
 PASS  ... and is not registered, so a later run tries it again
 
-1 check(s) failed
-!!!!! FAILED: tests/test_incremental_ingest.py
+all checks passed
 
 ===== python3 pipeline/classify.py --queue
 2519 record(s) queued in 63 batch file(s): batch-001.md, batch-002.md, batch-003.md, batch-004.md, batch-005.md, batch-006.md, batch-007.md, batch-008.md, batch-009.md, batch-010.md, batch-011.md, batch-012.md, batch-013.md, batch-014.md, batch-015.md, batch-016.md, batch-017.md, batch-018.md, batch-019.md, batch-020.md, batch-021.md, batch-022.md, batch-023.md, batch-024.md, batch-025.md, batch-026.md, batch-027.md, batch-028.md, batch-029.md, batch-030.md, batch-031.md, batch-032.md, batch-033.md, batch-034.md, batch-035.md, batch-036.md, batch-037.md, batch-038.md, batch-039.md, batch-040.md, batch-041.md, batch-042.md, batch-043.md, batch-044.md, batch-045.md, batch-046.md, batch-047.md, batch-048.md, batch-049.md, batch-050.md, batch-051.md, batch-052.md, batch-053.md, batch-054.md, batch-055.md, batch-056.md, batch-057.md, batch-058.md, batch-059.md, batch-060.md, batch-061.md, batch-062.md, batch-063.md
 
-== OVERALL: SOME STEPS FAILED (search for !!!!! above)
+== OVERALL: ALL STEPS PASSED

@@ -1,109 +1,7 @@
-== 2026-10-08 18:16:43 UTC | Python 3.12.15 | pdfplumber 0.11.10 | pdftotext version 25.03.0
+== 2026-10-08 22:24:17 UTC | Python 3.12.15 | pdfplumber 0.11.10 | pdftotext version 25.03.0
 
 ===== python3 pipeline/build.py
-warning: IC-0112: performance text has 1209 spoken words but the raw extraction has 1284; check for lost text
-warning: IC-0477: performance text has 830 spoken words but the raw extraction has 860; check for lost text
-warning: IC-0482: performance text has 894 spoken words but the raw extraction has 924; check for lost text
-warning: IC-0483: performance text has 1069 spoken words but the raw extraction has 1099; check for lost text
-warning: IC-0486: performance text has 1230 spoken words but the raw extraction has 1261; check for lost text
-warning: IC-0487: performance text has 1109 spoken words but the raw extraction has 1139; check for lost text
-warning: IC-0497: performance text has 924 spoken words but the raw extraction has 954; check for lost text
-warning: IC-0500: performance text has 1442 spoken words but the raw extraction has 1472; check for lost text
-warning: IC-0508: performance text has 1540 spoken words but the raw extraction has 1578; check for lost text
-warning: IC-0515: performance text has 1366 spoken words but the raw extraction has 1396; check for lost text
-warning: IC-0516: performance text has 976 spoken words but the raw extraction has 1006; check for lost text
-warning: IC-0517: performance text has 1342 spoken words but the raw extraction has 1372; check for lost text
-warning: IC-0518: performance text has 1342 spoken words but the raw extraction has 1407; check for lost text
-warning: IC-0520: performance text has 1409 spoken words but the raw extraction has 1439; check for lost text
-warning: IC-0532: performance text has 1215 spoken words but the raw extraction has 1245; check for lost text
-warning: IC-0534: performance text has 1258 spoken words but the raw extraction has 1288; check for lost text
-warning: IC-0537: performance text has 901 spoken words but the raw extraction has 931; check for lost text
-warning: IC-0539: performance text has 1439 spoken words but the raw extraction has 1469; check for lost text
-warning: IC-0541: performance text has 1388 spoken words but the raw extraction has 1418; check for lost text
-warning: IC-0543: performance text has 1138 spoken words but the raw extraction has 1168; check for lost text
-warning: IC-0551: performance text has 1049 spoken words but the raw extraction has 1077; check for lost text
-warning: IC-0556: performance text has 1376 spoken words but the raw extraction has 1405; check for lost text
-warning: IC-0557: performance text has 1773 spoken words but the raw extraction has 1822; check for lost text
-warning: IC-0561: performance text has 1366 spoken words but the raw extraction has 1396; check for lost text
-warning: IC-0568: performance text has 1447 spoken words but the raw extraction has 1477; check for lost text
-warning: IC-0575: performance text has 1260 spoken words but the raw extraction has 1290; check for lost text
-warning: IC-0578: performance text has 1185 spoken words but the raw extraction has 1214; check for lost text
-warning: IC-0595: performance text has 1365 spoken words but the raw extraction has 1395; check for lost text
-warning: IC-0597: performance text has 760 spoken words but the raw extraction has 794; check for lost text
-warning: IC-0602: performance text has 1355 spoken words but the raw extraction has 1385; check for lost text
-warning: IC-0608: performance text has 1722 spoken words but the raw extraction has 1784; check for lost text
-warning: IC-0648: performance text has 1703 spoken words but the raw extraction has 1763; check for lost text
-warning: IC-0654: performance text has 1941 spoken words but the raw extraction has 1992; check for lost text
-warning: IC-0657: performance text has 1353 spoken words but the raw extraction has 1385; check for lost text
-warning: IC-0663: performance text has 1538 spoken words but the raw extraction has 1571; check for lost text
-warning: IC-0669: performance text has 1327 spoken words but the raw extraction has 1357; check for lost text
-warning: IC-0671: performance text has 1356 spoken words but the raw extraction has 1385; check for lost text
-warning: IC-0683: performance text has 1465 spoken words but the raw extraction has 1495; check for lost text
-warning: IC-0698: performance text has 1457 spoken words but the raw extraction has 1487; check for lost text
-warning: IC-0705: performance text has 1040 spoken words but the raw extraction has 1070; check for lost text
-warning: IC-0711: performance text has 1408 spoken words but the raw extraction has 1438; check for lost text
-warning: IC-0714: performance text has 946 spoken words but the raw extraction has 967; check for lost text
-warning: IC-0719: performance text has 1287 spoken words but the raw extraction has 1317; check for lost text
-warning: IC-0723: performance text has 1650 spoken words but the raw extraction has 1684; check for lost text
-warning: IC-0727: performance text has 1320 spoken words but the raw extraction has 1348; check for lost text
-warning: IC-0732: performance text has 1648 spoken words but the raw extraction has 1682; check for lost text
-warning: IC-0738: performance text has 1329 spoken words but the raw extraction has 1360; check for lost text
-warning: IC-0739: performance text has 956 spoken words but the raw extraction has 1006; check for lost text
-warning: IC-0744: performance text has 1248 spoken words but the raw extraction has 1278; check for lost text
-warning: IC-0745: performance text has 1321 spoken words but the raw extraction has 1351; check for lost text
-warning: IC-0747: performance text has 1438 spoken words but the raw extraction has 1468; check for lost text
-warning: IC-0759: performance text has 1266 spoken words but the raw extraction has 1296; check for lost text
-warning: IC-0762: performance text has 1142 spoken words but the raw extraction has 1171; check for lost text
-warning: IC-0763: performance text has 972 spoken words but the raw extraction has 1007; check for lost text
-warning: IC-0765: performance text has 1413 spoken words but the raw extraction has 1442; check for lost text
-warning: IC-0766: performance text has 1153 spoken words but the raw extraction has 1182; check for lost text
-warning: IC-0770: performance text has 1039 spoken words but the raw extraction has 1069; check for lost text
-warning: IC-0776: performance text has 1518 spoken words but the raw extraction has 1551; check for lost text
-warning: IC-0778: performance text has 1448 spoken words but the raw extraction has 1478; check for lost text
-warning: IC-0781: performance text has 1059 spoken words but the raw extraction has 1090; check for lost text
-warning: IC-0792: performance text has 1414 spoken words but the raw extraction has 1443; check for lost text
-warning: IC-0802: performance text has 748 spoken words but the raw extraction has 778; check for lost text
-warning: IC-0805: performance text has 1395 spoken words but the raw extraction has 1425; check for lost text
-warning: IC-0812: performance text has 1434 spoken words but the raw extraction has 1468; check for lost text
-warning: IC-0813: performance text has 1311 spoken words but the raw extraction has 1341; check for lost text
-warning: IC-0814: performance text has 1197 spoken words but the raw extraction has 1227; check for lost text
-warning: IC-0816: performance text has 1103 spoken words but the raw extraction has 1133; check for lost text
-warning: IC-0827: performance text has 994 spoken words but the raw extraction has 1023; check for lost text
-warning: IC-0844: performance text has 1035 spoken words but the raw extraction has 1069; check for lost text
-warning: IC-0848: performance text has 1163 spoken words but the raw extraction has 1193; check for lost text
-warning: IC-0876: performance text has 1144 spoken words but the raw extraction has 1172; check for lost text
-warning: IC-0880: performance text has 1178 spoken words but the raw extraction has 1208; check for lost text
-warning: IC-0883: performance text has 1311 spoken words but the raw extraction has 1341; check for lost text
-warning: IC-0899: performance text has 1231 spoken words but the raw extraction has 1260; check for lost text
-warning: IC-0905: performance text has 1055 spoken words but the raw extraction has 1085; check for lost text
-warning: IC-0906: performance text has 1363 spoken words but the raw extraction has 1393; check for lost text
-warning: IC-0910: performance text has 1412 spoken words but the raw extraction has 1446; check for lost text
-warning: IC-0919: performance text has 1546 spoken words but the raw extraction has 1583; check for lost text
-warning: IC-0941: performance text has 1002 spoken words but the raw extraction has 1033; check for lost text
-warning: IC-0946: performance text has 1256 spoken words but the raw extraction has 1288; check for lost text
-warning: IC-0948: performance text has 1238 spoken words but the raw extraction has 1266; check for lost text
-warning: IC-0952: performance text has 1500 spoken words but the raw extraction has 1531; check for lost text
-warning: IC-0957: performance text has 874 spoken words but the raw extraction has 903; check for lost text
-warning: IC-0966: performance text has 1177 spoken words but the raw extraction has 1206; check for lost text
-warning: IC-0971: performance text has 1723 spoken words but the raw extraction has 1778; check for lost text
-warning: IC-0973: performance text has 1243 spoken words but the raw extraction has 1273; check for lost text
-warning: IC-0976: performance text has 914 spoken words but the raw extraction has 944; check for lost text
-warning: IC-0979: performance text has 1210 spoken words but the raw extraction has 1239; check for lost text
-warning: IC-0983: performance text has 1264 spoken words but the raw extraction has 1293; check for lost text
-warning: IC-0989: performance text has 1222 spoken words but the raw extraction has 1251; check for lost text
-warning: IC-1001: performance text has 1454 spoken words but the raw extraction has 1484; check for lost text
-warning: IC-1013: performance text has 1268 spoken words but the raw extraction has 1297; check for lost text
-warning: IC-1017: performance text has 1363 spoken words but the raw extraction has 1407; check for lost text
-warning: IC-1021: performance text has 1399 spoken words but the raw extraction has 1429; check for lost text
-warning: IC-1049: performance text has 1043 spoken words but the raw extraction has 1076; check for lost text
-warning: IC-1052: performance text has 1329 spoken words but the raw extraction has 1359; check for lost text
-warning: IC-1053: performance text has 1296 spoken words but the raw extraction has 1328; check for lost text
-warning: IC-1063: performance text has 1254 spoken words but the raw extraction has 1283; check for lost text
-warning: IC-1064: performance text has 1116 spoken words but the raw extraction has 1146; check for lost text
-warning: IC-1365: performance text has 1112 spoken words but the raw extraction has 1136; check for lost text
-warning: IC-1857: performance text has 1132 spoken words but the raw extraction has 1158; check for lost text
-warning: IC-1878: performance text has 960 spoken words but the raw extraction has 988; check for lost text
-Built 2519 record(s): 2310 shown on the site -> site/index.html; exports in exports/
+Built 2519 record(s): 2303 shown on the site -> site/index.html; exports in exports/
 
 ===== python3 tests/verify_ingest.py
 PASS  every registered file exists where the register says
@@ -124,8 +22,8 @@ PASS  performance text contains no section headings or footers
 all checks passed
 
 ===== python3 pipeline/qc_scan.py
-records scanned: 2519 | records with findings: 1110
-finding kinds: {'name variant': 57, 'length': 84, 'artifact': 729, 'truncated': 330, 'balance': 242, 'font encoding': 22, 'mid-sentence start': 37, 'leak': 7}
+records scanned: 2519 | records with findings: 1085
+finding kinds: {'name variant': 65, 'length': 84, 'artifact': 730, 'truncated': 299, 'balance': 236, 'font encoding': 22, 'mid-sentence start': 20, 'leak': 3}
 
 IC-0031  Life Support - DI.pdf
    [name variant] byline author 'Stephanie Summerville' but introduction ends 'by Stephanie Summerfield.'
@@ -206,9 +104,6 @@ IC-0091  Before Fergus - DI.pdf
 
 IC-0093  Bell Jar - DI.pdf
    [artifact] stray single letter 'C' in performance_text: ...t with the big blue C on it, was a mirror ...
-
-IC-0094  Bellyfruit - DI.pdf
-   [truncated] introduction ends without closing punctuation: ...ia Bernhard, Susannah Blinkoff, Janet Borrus puts a face and
 
 IC-0099  Blue - DI.pdf
    [artifact] stray single letter 'n' in performance_text: ...t of the Blue Moon ‘n all and bein’ so lit...
@@ -316,9 +211,6 @@ IC-0176  I Love You Dad - DI.pdf
    [artifact] stray single letter 'l' in performance_text: ...ere so extreme, and l envied my friends, w...
    [artifact] possible unjoined hyphenation: 'r- that'
 
-IC-0179  Insanity of Mary Girard - DI.pdf
-   [truncated] introduction ends without closing punctuation: ... Lanie Robertson – based on a real-life story of a woman who
-
 IC-0181  Its a Baby - DI.pdf
    [length] 2775 spoken words (long)
 
@@ -354,13 +246,12 @@ IC-0201  Men Who Killed Me - DI.pdf
 
 IC-0205  Missing Natalie and Victim - DI.pdf
    [artifact] possible unjoined hyphenation: 'k-\nblack'
-   [mid-sentence start] performance text starts: twin sister. . Missing Natalie  Most of my friends don't kno...
 
 IC-0207  Mom from Another American - Asking and Telling - DI.pdf
    [truncated] introduction ends without closing punctuation: ...d holes that allowed the pathologist to see straight through
 
 IC-0210  Most Massive Woman Wins - DI.pdf
-   [length] 3393 spoken words (long)
+   [length] 3387 spoken words (long)
 
 IC-0211  Mother - DI.pdf
    [artifact] stray single letter 'g' in performance_text: ... went by I sensed a g restlessness in him....
@@ -376,10 +267,6 @@ IC-0218  My Red Hand My Black Hand - DI.pdf
 IC-0221  Necessary Targets - DI.pdf
    [artifact] stray single letter 'l' in performance_text: ... those voices . . . l loud deep voices lau...
    [balance] performance_text has 52 '(' and 53 ')'
-
-IC-0223  New York - DI.pdf
-   [truncated] introduction ends without closing punctuation: ...mer is just that, a snapshot of survivors. Today I’d like to
-   [mid-sentence start] performance text starts: introduce you to two . . . Mary and Sarah. Mary? (by way of ...
 
 IC-0226  Nuts - DI.pdf
    [artifact] stray single letter 'B' in performance_text: ...laughter is a Class B felony--intent to ca...
@@ -398,9 +285,6 @@ IC-0231  Palace of the End - Instruments of Yearning - DI.pdf
 
 IC-0232  Palace of the End - My Pyramids - DI.pdf
    [artifact] stray single letter 'n' in performance_text: ...do anything better ‘n you.” “I’m just a gi...
-
-IC-0233  Paradise Kansas - DI.pdf
-   [truncated] introduction ends without closing punctuation: ...ai is a story about grief, manipulation, and the devastating
 
 IC-0235  Patient A - DI.pdf
    [artifact] possible unjoined hyphenation: 'm- my'
@@ -535,9 +419,6 @@ IC-0334  Cobb - DI.pdf
    [artifact] stray single letter 'p' in performance_text: ... hard. Nobody could p ull me off him! And ...
    [artifact] possible unjoined hyphenation: 'l- he'
 
-IC-0335  Cold Storage - DI.pdf
-   [truncated] introduction ends without closing punctuation: ...n . . . denial? In Cold Storage by Ronald Ribman, we meet to
-
 IC-0336  Color of Water - DI.pdf
    [artifact] stray single letter 'X' in performance_text: ...ns, Queens. Malcolm X had been killed the ...
 
@@ -596,9 +477,6 @@ IC-0374  Hangman - DI.pdf
 
 IC-0377  Hello Herman - DI.pdf
    [artifact] possible unjoined hyphenation: 't- end'
-
-IC-0379  Hydraphobia - DI.pdf
-   [mid-sentence start] performance text starts: the Hydra: A Greek root meaning a multifarious evil, or an e...
 
 IC-0380  Hydrophobia - DI.pdf
    [artifact] possible unjoined hyphenation: 'm- okay'
@@ -747,9 +625,6 @@ IC-0487  Big Bang - DUO.pdf
 
 IC-0489  Blue Front - DUO.pdf
    [truncated] performance text ends without closing punctuation: ...tand) may I help you please . . . . .  TOGETHER: make change
-
-IC-0490  Book of Awesome - DUO.pdf
-   [mid-sentence start] performance text starts: humanity and a big celebration of life's little moments.  AC...
 
 IC-0491  Brave Little Toaster - DUO.pdf
    [artifact] possible unjoined hyphenation: 's- the'
@@ -1434,7 +1309,6 @@ IC-0889  Owl and the Pussycat - DUO.pdf
 
 IC-0891  Post Its (Notes on a Marriage) - DUO.pdf
    [artifact] possible unjoined hyphenation: 't- it'
-   [truncated] introduction ends without closing punctuation: ...n a Marriage) by Paul Dooley and Winnie Holzman, the primary
 
 IC-0892  Problem - DUO.pdf
    [length] no introduction text found
@@ -1791,9 +1665,6 @@ IC-1109  Bible - The Complete Word of God (Abridged) - HI.pdf
 IC-1110  Big Bang - HI.pdf
    [length] no introduction text found
 
-IC-1113  Book of Awesome - HI.pdf
-   [mid-sentence start] performance text starts: celebration of life's little moments.  NEIL: One. Wearing un...
-
 IC-1114  Brothers Grimm Spectaculathon - HI.pdf
    [artifact] possible unjoined hyphenation: 'r- rrrrrrrrrgghghgghghg'
    [balance] performance_text has 69 '(' and 67 ')'
@@ -1824,11 +1695,6 @@ IC-1129  DMV Tyrant - HI.pdf
 IC-1130  Dr Seuss The Lorax - Screenplay - HI.pdf
    [balance] performance_text has 119 '(' and 121 ')'
 
-IC-1131  Dreaded Batter Pudding Hurler - HI.pdf
-   [truncated] introduction ends without closing punctuation: ...er created by Spike Milligan, Peter Sellers and “Tubby”(also
-   [balance] performance_text has 3 '(' and 4 ')'
-   [balance] introduction_text has 1 '(' and 0 ')'
-
 IC-1132  Driving - HI.pdf
    [artifact] stray single letter 'Z' in introduction_text: ...ittle neurotic. Gen Z has taken their plac...
 
@@ -1840,7 +1706,6 @@ IC-1140  For Whom the Southern Belle Tolls - HI.pdf
 
 IC-1141  Frog Prince Continued - HI.pdf
    [artifact] possible unjoined hyphenation: 'e- eat'
-   [truncated] introduction ends without closing punctuation: ...oes. In The Frog Prince Continued by Jon Scieszka, the truth
 
 IC-1142  Fully Committed - HI.pdf
    [balance] performance_text has 81 '(' and 80 ')'
@@ -1853,7 +1718,7 @@ IC-1149  Greater Tuna - HI.pdf
    [truncated] introduction ends without closing punctuation: ...s!  Greater Tuna by Jaston Williams, Joe Sears and Ed Howard
 
 IC-1153  Hooway for Wodney Wat - HI.pdf
-   [mid-sentence start] performance text starts: being different and encourages us to embrace our differences...
+   [name variant] byline author 'Helen Lester' but introduction ends 'by Helen Letser.'
 
 IC-1154  Horton Hears a Who - HI.pdf
    [artifact] possible unjoined hyphenation: 'k- bottomed'
@@ -1863,10 +1728,7 @@ IC-1158  How We Talk in South Boston - HI.pdf
    [balance] introduction_text has 1 '[' and 0 ']'
 
 IC-1162  Inside Out - HI.pdf
-   [truncated] introduction ends without closing punctuation: ...rancis, from the screenplay by Peter Docter, Meg Lafauve and
-
-IC-1163  Into the Woods - HI.pdf
-   [truncated] introduction ends without closing punctuation: ...dheim and James Lapine (whispers) A great adventure is about
+   [truncated] introduction ends without closing punctuation: ... the screenplay by Peter Docter, Meg Lafauve and Josh Cooley
 
 IC-1167  Kentish Sleep Deprivation Journal - HI.pdf
    [artifact] stray single letter 'b' in performance_text: ..., this Bucholtz.  a b 3 defg hijklmnop p p...
@@ -1938,10 +1800,6 @@ IC-1207  Stye of the Eye - HI.pdf
 IC-1209  Tale Of Despereaux - HI.pdf
    [artifact] stray single letter 's' in performance_text: ...irs to the princess‘s room. In her pockets...
 
-IC-1210  Thidwick the Big-Hearted Moose - HI.pdf
-   [truncated] introduction ends without closing punctuation: ...ose by Theo Geisel (aka Dr. Seuss) is definitely more than a
-   [mid-sentence start] performance text starts: children’s story – it is a cautionary tale – for individuals...
-
 IC-1212  Three Swine of Most Small Stature - HI.pdf
    [artifact] stray single letter 'O' in performance_text: ... got to be kidding. O most feared and vici...
 
@@ -1975,9 +1833,6 @@ IC-1244  Damned - HI.pdf
 IC-1248  Disneyland - HI.pdf
    [artifact] stray single letter 'r' in performance_text: ...uld try turning the r around a bit, and th...
 
-IC-1249  Drop Dead Gorgeous - HI.pdf
-   [truncated] introduction ends without closing punctuation: ...; screenplay by Lona Williams — where the smiles are bright,
-
 IC-1250  Fangs of Endearment - HI.pdf
    [artifact] stray single letter 'p' in performance_text: ...entirely from clock p arts, and recite all...
 
@@ -1996,7 +1851,6 @@ IC-1263  Investment Dating - HI.pdf
 
 IC-1264  Just be Frank - HI.pdf
    [artifact] possible unjoined hyphenation: 'r- insert'
-   [mid-sentence start] performance text starts: what you wish for . . . you might just get it!  [Lights up, ...
 
 IC-1265  Kitchen Witches - HI.pdf
    [artifact] stray single letter 'f' in performance_text: ...ou go take a flying f . . . idle dee-dee! ...
@@ -2105,7 +1959,7 @@ IC-1330  Brussels Sprouts - HI.pdf
 
 IC-1331  Bullshot Crummond - HI.pdf
    [artifact] stray single letter 'l' in performance_text: ...e nipped in the bud!l (Blackout. Music swe...
-   [truncated] introduction ends without closing punctuation: ...e, Dix White, Jake Neville-Andrews, Alex Shearman, and Derek
+   [truncated] introduction ends without closing punctuation: ...e, Jake Neville-Andrews, Alex Shearman, and Derek Cunningham
 
 IC-1332  Bursting - HI.pdf
    [artifact] stray single letter 'M' in performance_text: ... the toilets are at M sixteen on level two...
@@ -2252,10 +2106,6 @@ IC-1408  Resusci-Annie - HI.pdf
 IC-1411  Secret Life of Walter Mitty - HI.pdf
    [artifact] possible unjoined hyphenation: 's- name'
 
-IC-1412  Sermon - HI.pdf
-   [truncated] introduction ends without closing punctuation: ...rhaps A Sermon by David Mamet is his satirical, non sequitur
-   [mid-sentence start] performance text starts: revenge.  In September, 1939, a dentist in Viceroy, Louisian...
-
 IC-1413  Seven Chickens - HI.pdf
    [balance] performance_text has 14 '(' and 13 ')'
 
@@ -2282,7 +2132,8 @@ IC-1421  Swindle - HI.pdf
    [balance] performance_text has 86 '(' and 89 ')'
 
 IC-1425  Trigger Mortis - Frontier Mortician - HI.pdf
-   [truncated] introduction ends without closing punctuation: ... Mortician by Wayne Rice and Mike Yaconelli (eds) originally
+   [artifact] stray single letter 'W' in introduction_text: ...ttributed to Warren W Wiersbe...
+   [truncated] introduction ends without closing punctuation: ...ke Yaconelli (eds) originally attributed to Warren W Wiersbe
 
 IC-1428  Variations on the Death of Trotsky - HI.pdf
    [truncated] introduction ends without closing punctuation: ... is . . . . . David Ives’ Variations on the Death of Trotsky
@@ -2502,6 +2353,7 @@ IC-1540  Coney Island of the Mind - PO.pdf
 IC-1541  Confronting  American Apathy - PO.pdf
    [artifact] possible unjoined hyphenation: 's-\n\nthe'
    [truncated] performance text ends without closing punctuation: ...hquake.  Be like a rock, And watch this granite planet Shake
+   [name variant] byline author 'Ralph Black, Tony Hoagland and Raul Herrera' but introduction ends 'by Raul Herrera'
 
 IC-1542  Conversations about Home and Rigged Game - PO.pdf
    [truncated] performance text ends without closing punctuation: ...oke telling them it is their fault they can’t find a way out
@@ -2527,6 +2379,7 @@ IC-1551  Den of  Lions (Stigmata) - PO.pdf
 IC-1552  Digital Disconnect - PO.pdf
    [artifact] stray single letter 'x' in performance_text: ... tricks  click - to x out where our hearts...
    [truncated] performance text ends without closing punctuation: ...r technology is advanced enough . . . to make us human again
+   [name variant] byline author 'Marshall Davis Jones, Gary Turk, and Phil Kaye' but introduction ends 'by Phil Kaye'
 
 IC-1553  Dirty Dimes - PO.pdf
    [artifact] possible unjoined hyphenation: 'e-\nnight'
@@ -2570,14 +2423,12 @@ IC-1570  Fury of Rain Storms - A Collection - PO.pdf
    [truncated] introduction ends without closing punctuation: ...ness.  The Fury of Rainstorms – A Collection by Anne Sexton,
 
 IC-1572  Gender Boxes - PO.pdf
-   [name variant] byline author 'Macklemore and Ryan Lewis, Bradley Hathaway and Andrea Gibson' but introduction ends 'by Bradley'
+   [name variant] byline author 'Macklemore and Ryan Lewis, Bradley Hathaway and Andrea Gibson' but introduction ends 'by Andrea Gibson'
 
 IC-1573  Gentrification - A Collection - PO.pdf
    [artifact] stray single letter 'Y' in performance_text: ...sta de bonita hoy! ¿Y sus hijos como están...
    [truncated] performance text ends without closing punctuation: ...ata Music Sample https://www.youtube.com/watch?v=OrCUjqQYS3U
-   [truncated] introduction ends without closing punctuation: ...nity Not Condominiums by Angy Rivera; “Push Out (aka Denver,
-   [balance] performance_text has 5 '(' and 6 ')'
-   [balance] introduction_text has 1 '(' and 0 ')'
+   [name variant] byline author 'Angy Rivera, Bobby Lefebre and Niveli Travaski' but introduction ends 'by Niyeli Trovaski'
 
 IC-1577  Goblin Market - PO.pdf
    [artifact] stray single letter 'O' in performance_text: ...Till Lizzie urged, "O Laura, come, I hear ...
@@ -2626,7 +2477,6 @@ IC-1604  In Response to Columbine - PO.pdf
 
 IC-1605  Instructions and Locks - PO.pdf
    [artifact] possible unjoined hyphenation: 'r-\ngrowth'
-   [mid-sentence start] performance text starts: remember, no matter what our age or experience.  Instruction...
 
 IC-1606  Iraqi War Poetry - PO.pdf
    [length] 3608 spoken words (long)
@@ -2658,7 +2508,7 @@ IC-1619  Lion and Blue - PO.pdf
    [artifact] stray single letter 'n' in performance_text: ... wise elephant, ‘is n o w, so make haste, ...
 
 IC-1620  Listen Lord-The Creation- Prodigal Son - PO.pdf
-   [artifact] stray single letter 'O' in performance_text: ...ones.  LISTEN LORD  O Lord, we come this m...
+   [artifact] stray single letter 'O' in performance_text: ...LISTEN LORD  O Lord, we come this m...
    [artifact] possible unjoined hyphenation: 't-\nsmelling'
 
 IC-1621  Loch Ness Monsters and Something Like Fire - PO.pdf
@@ -2707,7 +2557,7 @@ IC-1640  Next Life Soundtrack - A Program - PO.pdf
    [truncated] introduction ends without closing punctuation: ...ture?  Next Life Soundtrack – A Program by Billy Joel, Buddy
 
 IC-1644  Nothing New Here - PO.pdf
-   [truncated] introduction ends without closing punctuation: ...Riots and Black Son by Jasmine Mans, Another Unoriginal Poem
+   [name variant] byline author 'Jasmine Mans, David James Hudson, and Danez Smith' but introduction ends 'by Danez Smith.'
 
 IC-1645  Ode to Blue-Collar Workers - PO.pdf
    [truncated] introduction ends without closing punctuation: ...erly Lafontaine; and Cartpushers by Kyle “Guante” Tran Myhre
@@ -2737,8 +2587,7 @@ IC-1661  Proud to be Latina-Latino - A Collection - PO.pdf
    [truncated] introduction ends without closing punctuation: ... to be Latina/Latino – A collection by Denice Frohman, Maria
 
 IC-1662  Pulse - A Collection of LGBTQ Poetry - PO.pdf
-   [leak] cutter credit in performance_text: '\nput their hand up. 21\n\n*Cutting compliments of Rhys Jones of Mound West'
-   [truncated] performance text ends without closing punctuation: ...e II” by Hieu Minh Nguyen 21 From “Orlando” by Andrea Gibson
+   [truncated] performance text ends without closing punctuation: ... who was still alive and hardly anyone put their hand up. 21
    [truncated] introduction ends without closing punctuation: ..., “Type II” by Hieu Minh Nguyen, “Orlando” by Andrea Gibson,
 
 IC-1667  Red White and Bruised - A Program.pdf
@@ -2759,11 +2608,10 @@ IC-1671  Restaurant - PO.pdf
 IC-1672  Rhythms of Black Culture - PO.pdf
    [artifact] stray single letter 'f' in performance_text: ...u?) Raise your hand f you've ever been rid...
    [truncated] performance text ends without closing punctuation: ...dances, eat instruments Underdogs-take chances, be different
+   [name variant] byline author 'Bonafide Rojas, Dan Sully and Ben Butter' but introduction ends 'by Ben Butter.'
 
 IC-1674  Said the Shotgun to the Head - PO.pdf
    [artifact] stray single letter 's' in performance_text: ...ling forth this day s our mother has retur...
-   [truncated] introduction ends without closing punctuation: ..."  Said the Shotgun to the Head by Saul Williams – Unless we
-   [mid-sentence start] performance text starts: see . . . unless we change . . . Let the final countdown to ...
 
 IC-1675  Salem Witch Trials Collection - PO.pdf
    [artifact] possible unjoined hyphenation: 'r-\ncolor'
@@ -2771,11 +2619,10 @@ IC-1675  Salem Witch Trials Collection - PO.pdf
    [truncated] introduction ends without closing punctuation: ...stop the madness. The Mather Boys: Richard, Increase, Cotton
 
 IC-1676  Save Our Planet -PO.pdf
-   [truncated] introduction ends without closing punctuation: ...earing?  Save Our Planet with poems by Alan Brownjohn, Frank
+   [truncated] introduction ends without closing punctuation: ... by Alan Brownjohn, Frank Farian and Giorgio & Gisela Sgarbi
 
 IC-1680  Searching for the Grand Theory - PO.pdf
-   [truncated] introduction ends without closing punctuation: ...ied Theory of Everything by Sara Penrod; with special thanks
-   [mid-sentence start] performance text starts: to all those theoretical physicists I don’t quite understand...
+   [truncated] introduction ends without closing punctuation: ...to all those theoretical physicists I don’t quite understand
 
 IC-1681  Second Coming - PO.pdf
    [artifact] stray single letter 'D' in performance_text: ...oom, reviewed the R&D budget, tweaked the ...
@@ -2789,16 +2636,11 @@ IC-1685  Shake the Dust - PO.pdf
 IC-1688  Silence is Not an Option - A Collection - PO.pdf
    [truncated] performance text ends without closing punctuation: ...story.com/this-day-in-history/charleston-ame-church-shooting
 
-IC-1689  Simon Says (is Not a Game) - PO.pdf
-   [truncated] introduction ends without closing punctuation: ...ubmit.  Simon Says by Ashley Davis and Lakiyra Williams (aka
-   [balance] performance_text has 1 '(' and 2 ')'
-   [balance] introduction_text has 1 '(' and 0 ')'
-
 IC-1690  Sneetches - PO.pdf
    [artifact] possible unjoined hyphenation: 'n- nor'
 
 IC-1696  Speaking Truth - A Collection - PO.pdf
-   [name variant] byline author 'Shel Silverstein, Barbara K. Bassett and Maya Angelou' but introduction ends 'by Barbara K. Bassett'
+   [name variant] byline author 'Shel Silverstein, Barbara K. Bassett and Maya Angelou' but introduction ends 'by Maya Angelou'
 
 IC-1697  Stand Back said the Elephant - PO.pdf
    [artifact] stray single letter 't' in performance_text: ...e! Oh, please, Don ‘t sneeze!”  Then zebra...
@@ -2822,17 +2664,14 @@ IC-1710  Television Poetry Program - PO.pdf
 
 IC-1712  Ten Thousand Stories - A Collection - PO.pdf
    [truncated] performance text ends without closing punctuation: ...,000 stories 10 000 journeys of Flesh Heartbeat Voice Breath
-   [name variant] byline author 'Margaret Walker, Amanda' but introduction ends 'by Amanda'
+   [name variant] byline author 'Margaret Walker, Amanda' but introduction ends 'by Lebohang Masango'
 
 IC-1713  That Which We Take for Granted - A Collection - PO.pdf
    [artifact] possible unjoined hyphenation: 'd-\n\nforsaken'
-   [truncated] introduction ends without closing punctuation: ...ng Once the World was Perfect by Joy Harjo, Little Deaths by
+   [name variant] byline author 'Joy Harjo, Robert Wrigley, Elise' but introduction ends 'by Charlotte Mew.'
 
 IC-1714  Theophonic - PO.pdf
    [artifact] possible unjoined hyphenation: 'e-\n\nthe'
-
-IC-1716  Thidwick the Big-Hearted Moose - PO.pdf
-   [truncated] introduction ends without closing punctuation: ... Seuss) is definitely more than a children’s story – it is a
 
 IC-1718  Three Little Cajun Pigs - PO.pdf
    [artifact] possible unjoined hyphenation: 'o- true'
@@ -2840,9 +2679,6 @@ IC-1718  Three Little Cajun Pigs - PO.pdf
 IC-1719  Time Temperature - PO.pdf
    [artifact] replacement or private-use character in performance_text
    [truncated] performance text ends without closing punctuation: ...ay on Rosa Parks Boulevard in Detroit in Michigan in America
-
-IC-1720  To Survivors Everywhere - A Collection - PO.pdf
-   [truncated] introduction ends without closing punctuation: ...y Sierra DeMulder including Taxidermy, Misplacing Their Ring
 
 IC-1721  Tom Thomson in Purgatory - PO.pdf
    [artifact] possible unjoined hyphenation: 't-\ning'
@@ -2865,11 +2701,11 @@ IC-1730  Watts Experiment - PO.pdf
 
 IC-1733  What Animals Can Teach us - PO.pdf
    [truncated] performance text ends without closing punctuation: ...about yesterday or tomorrow Give love and watch it come back
-   [truncated] introduction ends without closing punctuation: ...cluding poems by Maria Mazziotti, Walt Whitman, Mary Oliver,
+   [truncated] introduction ends without closing punctuation: ...liver, John O’Donohue, Jacqueline Jaffee and Maryalicia Post
 
 IC-1734  What Shall I Tell My Children About Atlanta - PO.pdf
    [artifact] stray single letter 'n' in performance_text: ...a maniac cd be more n sticks n stones gott...
-   [truncated] introduction ends without closing punctuation: ...lanta? – A Collection by Ntozake Shange, Langston Hughes and
+   [truncated] introduction ends without closing punctuation: ...on by Ntozake Shange, Langston Hughes and Margaret Burroughs
 
 IC-1735  What Weve Been Taught to See - A Collection - PO.pdf
    [truncated] introduction ends without closing punctuation: ...ith poems by Jesse Parent, Danez Smith and Crystal Valentine
@@ -2892,8 +2728,6 @@ IC-1748  Abortion Poetry - PO.pdf
 IC-1751  Afflicted Girls - PO.pdf
    [artifact] stray single letter 'O' in performance_text: ...dy that isn’t mine  O Roof O Field of Snow...
    [truncated] performance text ends without closing punctuation: ...thing but emptiness --  O No Family No Mother No Sister Dead
-   [truncated] introduction ends without closing punctuation: ...Nicole Cooley studies first, the accused witch, Tituba. Like
-   [mid-sentence start] performance text starts: the colored race generally and especially of the tropics, Ti...
 
 IC-1754  Angles of Vision - PO.pdf
    [artifact] possible unjoined hyphenation: 's-\nthat'
@@ -2910,7 +2744,7 @@ IC-1760  Bitter Creek Junction - PO.pdf
 
 IC-1761  Black Mother Praying - PO.pdf
    [truncated] performance text ends without closing punctuation: ...gether Touch the fullness and the hallelujah together.  Amen
-   [mid-sentence start] performance text starts: and especially to his own mother, Lillian C. Dodson  My grea...
+   [truncated] introduction ends without closing punctuation: ...erywhere and especially to his own mother, Lillian C. Dodson
 
 IC-1762  Black Tactic and 10 Things I Want to say to a Black Man - PO.pdf
    [name variant] byline author 'Marion Amponsah and Jennifer Falu' but introduction ends 'by Marion Amponsah'
@@ -3024,20 +2858,13 @@ IC-1823  Meditations for a Savage Child - PO.pdf
    [artifact] stray single letter 'V' in performance_text: ...was all they said.  V  And finally, my Lor...
    [truncated] performance text ends without closing punctuation: ...on,  why should the wild child  weep for the scientists  why
 
-IC-1824  Meeting Less Than Expectations - A Program - PO.pdf
-   [leak] cutter credit in performance_text: 'ct.\nBe perfect like me.\n\nCutting compliments of Heather Whitney, Norfolk'
-   [truncated] performance text ends without closing punctuation: ...g compliments of Heather Whitney, Norfolk Public Schools, NE
-
-IC-1827  Missing Natalie and Victim - PO.pdf
-   [mid-sentence start] performance text starts: come to terms with the abduction of her twin sister.  Missin...
-
 IC-1828  My Brothers Funerals - PO.pdf
    [artifact] possible unjoined hyphenation: 'y-\nthat'
 
 IC-1831  Our Culture Hates Fat People - PO.pdf
    [artifact] possible unjoined hyphenation: '3-\n\nmonth'
    [truncated] performance text ends without closing punctuation: ...can.com/observations/fat-is- not-the-problem-fat-stigma-is/#
-   [truncated] introduction ends without closing punctuation: ...Rachel Wiley and Donna Ashworth, including For Fat Girls Who
+   [truncated] introduction ends without closing punctuation: ...sn’t Enough, The Fat Joke and When You Cannot Bear Your Body
 
 IC-1832  Poem About My Rights - PO.pdf
    [artifact] possible unjoined hyphenation: 'e-\ncause'
@@ -3120,7 +2947,7 @@ IC-1874  Antihero - PO.pdf
 
 IC-1875  Becoming - A Collection - PO.pdf
    [artifact] possible unjoined hyphenation: 'o-\n\ndimensional'
-   [truncated] introduction ends without closing punctuation: ... Becoming and Unbecoming by Jonathan Green, Naming and Other
+   [name variant] byline author 'Jonathan Green, Roger Bonair-' but introduction ends 'by John Roedel.'
 
 IC-1876  Being Latino - A Program - PO.pdf
    [truncated] performance text ends without closing punctuation: ...n https://latino.si.edu/exhibitions/presente/latino-identity
@@ -3202,12 +3029,11 @@ IC-1917  Poems from Guantanamo Bay - PO.pdf
    [length] introduction is 298 words
 
 IC-1920  Revenge of the Outcast - A Collection - PO.pdf
-   [name variant] byline author 'Solomon Walker, Eric Robert Nolan and Lamar Jorden' but introduction ends 'by Eric Robert Nolan'
+   [name variant] byline author 'Solomon Walker, Eric Robert Nolan and Lamar Jorden' but introduction ends 'by Lamar Jorden'
 
 IC-1922  Song and Dance - PO.pdf
    [artifact] possible unjoined hyphenation: 'e-\n\nfangled'
    [truncated] performance text ends without closing punctuation: ...ver have a family?  Their eyes are closed. That’s how I know
-   [truncated] introduction ends without closing punctuation: ...llow by Alan Shapiro. In the next selection “Sleet” both his
 
 IC-1925  Superman in the Nursing Home and Dear Superman - PO.pdf
    [name variant] byline author 'Rusty Russell and Ron Koertge' but introduction ends 'by Rusty Russell'
@@ -3224,7 +3050,7 @@ IC-1932  What is Means to Be a Man - Collection 2 - PO.pdf
    [balance] performance_text has 9 '(' and 10 ')'
 
 IC-1933  What it Means to be a Man - Collection 1 - PO.pdf
-   [truncated] introduction ends without closing punctuation: ...ems by Rudyard Kipling, Charles Bukowski, John Struloeff and
+   [truncated] introduction ends without closing punctuation: ...d Kipling, Charles Bukowski, John Struloeff and Harold Norse
 
 IC-1934  White Guy - PO.pdf
    [artifact] possible unjoined hyphenation: 'n-\nprofit'
@@ -3327,7 +3153,6 @@ IC-2018  Exchange - PR.pdf
 
 IC-2025  Frog Prince Continued - PR.pdf
    [artifact] possible unjoined hyphenation: 'e- eat'
-   [truncated] introduction ends without closing punctuation: ...nued by Jon Scieszka, the truth behind happily ever after is
 
 IC-2031  Gifted - PR.pdf
    [truncated] introduction ends without closing punctuation: ...et a short story rife with hyperbole entitled . . . . Gifted
@@ -3379,9 +3204,6 @@ IC-2078  Lost at C - PR.pdf
 
 IC-2081  Math Curse - PR.pdf
    [artifact] stray single letter 'M' in performance_text: ...lometers long. An M&M is about one centime...
-
-IC-2083  Metamorphosis of Justin Jones - PR.pdf
-   [truncated] introduction ends without closing punctuation: ...In The Metamorphosis of Justin Jones by Bruce Coville, a
 
 IC-2085  Miss Alaineus - A Vocabulary Disaster - PR.pdf
    [balance] performance_text has 0 '(' and 2 ')'
@@ -3454,7 +3276,6 @@ IC-2133  Summer Reading is Killing Me - PR.pdf
 
 IC-2141  Thidwick the Big-Hearted Moose - PR.pdf
    [artifact] possible unjoined hyphenation: 'a- zu'
-   [truncated] introduction ends without closing punctuation: ... Seuss) is definitely more than a children’s story – it is a
 
 IC-2143  This is Why Ill Never be an Adult - PR.pdf
    [balance] introduction_text has 1 '(' and 0 ')'
@@ -3566,10 +3387,6 @@ IC-2263  I Love You Dad - PR.pdf
 IC-2264  Idiot Girl and the Flaming Tantrum of Death - PR.pdf
    [balance] introduction_text has 2 '[' and 1 ']'
 
-IC-2267  Impossible Knife of Memory - PR.pdf
-   [leak] cutter credit in performance_text: 'membered how to smile.\n\n*Cutting compliments of Coach Heather Whitney of'
-   [truncated] performance text ends without closing punctuation: ...rce https://www.newyorker.com/magazine/2013/09/09/the-return
-
 IC-2272  Isabel Fish - PR.pdf
    [artifact] stray single letter 'Y' in performance_text: ...hat I’m here at the Y it seems crazy. Sure...
 
@@ -3589,12 +3406,8 @@ IC-2286  Manhattan Romance - PR.pdf
 IC-2287  Men Who Killed Me - PR.pdf
    [truncated] introduction ends without closing punctuation: ...Hon Chu; this is the testimony of Marie Louise Niyobuhungiro
 
-IC-2289  Mockingbird - PR.pdf
-   [truncated] introduction ends without closing punctuation: ...t that.  Mockingbird by Kathryn Erskine, who’s own daughter,
-
 IC-2296  New York Regional Mormon Singles Halloween Dance - PR.pdf
    [artifact] possible unjoined hyphenation: 'o-\nmormon'
-   [truncated] introduction ends without closing punctuation: ... Dance by Elna Baker -- where the costumes are creative, the
 
 IC-2298  Nothing but a Smile - PR.pdf
    [artifact] stray single letter 'Y' in introduction_text: ... time you go to the Y or your local gym be...
@@ -3623,10 +3436,6 @@ IC-2316  Retwisting the Ties that Bind - PR.pdf
 
 IC-2319  Secret Girl - PR.pdf
    [artifact] possible unjoined hyphenation: 's- country'
-
-IC-2321  Seriously Cinderella is so Annoying - PR.pdf
-   [leak] cutter credit in performance_text: 'ved happily ever after.\n\nCutting compliments of Heather Whitney, Norfolk'
-   [truncated] performance text ends without closing punctuation: ...g compliments of Heather Whitney, Norfolk Public Schools, NE
 
 IC-2322  Sex and the Single Mom - PR.pdf
    [balance] performance_text has 14 '(' and 16 ')'
@@ -3676,13 +3485,6 @@ IC-2361  Acorn People - PR.pdf
 
 IC-2362  Admiral of the Swiss Navy - PR.pdf
    [artifact] stray single letter 'S' in introduction_text: ...S ummer break – A time...
-
-IC-2372  Ass Burger - PR.pdf
-   [truncated] introduction ends without closing punctuation: ...y are?  In Ass Burger by Augusten Burroughs, acceptance is a
-   [mid-sentence start] performance text starts: given, the diagnosis is merely “secondary information.”  NAR...
-
-IC-2373  Attack - PR.pdf
-   [mid-sentence start] performance text starts: incalculable spiritual costs.  I don't remember hearing an e...
 
 IC-2374  Attack of the Cartoon Animal Heads - PR.pdf
    [truncated] introduction ends without closing punctuation: ...IN THE VOICE OF A REALLY BAD, ANNOYING
@@ -3831,9 +3633,6 @@ IC-2490  Rest Area - PR.pdf
 IC-2491  Resusci-Annie - PR.pdf
    [artifact] possible unjoined hyphenation: 'm- and'
 
-IC-2493  Robin - PR.pdf
-   [truncated] introduction ends without closing punctuation: ...to come. In The Robin by Gore Vidal, we take a more personal
-
 IC-2496  Secret - PR.pdf
    [balance] performance_text has 3 '(' and 2 ')'
 
@@ -3887,10 +3686,34 @@ PASS  headings out of order: refused with a note, no crash  di_cutting: sections
 
 all checks passed
 
+===== python3 tests/test_intro_credit.py
+PASS  Bellyfruit - DI.pdf: the introduction ends '... This is her story.'  usannah Blinkoff, Janet Borrus puts a face and a name with this crisis. You’ve already met Christina. This is her story.
+PASS  ... and every word is kept  {'lines': 179, 'duplicates': 0, 'missing': 0, 'words': 1961, 'performance_is_teaser_plus_body': True}
+PASS  Fifteen Minutes from Talking With - DI.pdf: the introduction ends '... literal and figurative stage of life.'  we are allowed into the thoughts of a working actress who pours herself out on the literal and figurative stage of life.
+PASS  ... and every word is kept  {'lines': 105, 'duplicates': 0, 'missing': 0, 'words': 1272, 'performance_is_teaser_plus_body': True}
+PASS  Get Up Stand Up - DI.pdf: the introduction ends '... and cast.'  Dr. Diane Lewis. Get Up, Stand Up by Krista Vernoff with contributions from Station 19’s writing/support staff and cast.
+PASS  ... and every word is kept  {'lines': 120, 'duplicates': 0, 'missing': 0, 'words': 1528, 'performance_is_teaser_plus_body': True}
+PASS  Rest Area - DI.pdf: 'GRACE' is performance text, not introduction   call local law enforcement. But that’s not what happens in Rest Area by Clay McLeod Chapman and we begin to wonder why.
+PASS  Susan Smith Tapes - DI.pdf: '[Smith sets up' is performance text, not introduction   the infamous young mother tries to recapture the public’s attention by auditioning for talk shows from her prison cell.
+PASS  Pulse - A Collection of LGBTQ Poetry - PO.pdf: no 'Cutting compliments of' line in the performance text
+PASS  ... the cutter credit is 'Rhys Jones of Mound Westonka High School, MN'  Rhys Jones of Mound Westonka High School, MN
+PASS  Impossible Knife of Memory - PR.pdf: no 'Cutting compliments of' line in the performance text
+PASS  ... the cutter credit is 'Coach Heather Whitney of Norfolk Public Schools, NE'  Coach Heather Whitney of Norfolk Public Schools, NE
+PASS  All the Bright Places - PR.pdf: no 'Cutting compliments of' line in the performance text
+PASS  ... the cutter credit is 'Shelly Uttke, Coach at Port Washington High School, WI'  Shelly Uttke, Coach at Port Washington High School, WI
+PASS  Finding Alice - PR.pdf: no 'Cutting compliments of' line in the performance text
+PASS  ... the cutter credit is 'Heather Whitney, Norfolk Public Schools, NE'  Heather Whitney, Norfolk Public Schools, NE
+PASS  Dreamland - PR.pdf: no 'Cutting compliments of' line in the performance text
+PASS  ... the cutter credit is 'Heather Whitney, Norfolk Public Schools, NE'  Heather Whitney, Norfolk Public Schools, NE
+PASS  Girl in Pieces - PR.pdf: no 'Cutting compliments of' line in the performance text
+PASS  ... the cutter credit is 'Coach Shelly Uttke -- Port Washington, Wisconsin'  Coach Shelly Uttke -- Port Washington, Wisconsin
+PASS  no record has a 'Cutting compliments of' line in its performance text
+PASS  no cutter credit has a note run on to it
+
+all checks passed
+
 ===== python3 tests/test_programs.py
-PASS  sandbox copy builds  ning: IC-1857: performance text has 1132 spoken words but the raw extraction has 1158; check for lost text
-warning: IC-1878: performance text has 960 spoken words but the raw extraction has 988; check for lost text
-Built 2519 record(s): 2310 shown on the site -> site/index.html; exports in exports/
+PASS  sandbox copy builds  Built 2519 record(s): 2303 shown on the site -> site/index.html; exports in exports/
 
 FAIL  the program file ingests  files given: 1 | new records: 0 | identical copies: 0 | already in the library: 1 | failures: 0
 
@@ -3908,9 +3731,7 @@ PASS  program: word counts add up  (1340, [589, 345, 406])
 PASS  program: introduction stored separately
 PASS  one piece with two source blocks is a Cutting, not a Program  Cutting
 PASS  ... and keeps both source blocks as printed  2
-PASS  the database builds with a program in it  ning: IC-1857: performance text has 1132 spoken words but the raw extraction has 1158; check for lost text
-warning: IC-1878: performance text has 960 spoken words but the raw extraction has 988; check for lost text
-Built 2519 record(s): 2310 shown on the site -> site/index.html; exports in exports/
+PASS  the database builds with a program in it  Built 2519 record(s): 2303 shown on the site -> site/index.html; exports in exports/
 
 PASS  the page carries the program with its selections and their sources
 
@@ -3956,10 +3777,7 @@ PASS  The Magic Shop - Mushroom Cloud Press.pdf: no notice text inside the scrip
 all checks passed
 
 ===== python3 tests/test_build_site.py
-PASS  build succeeds  365: performance text has 1112 spoken words but the raw extraction has 1136; check for lost text
-warning: IC-1857: performance text has 1132 spoken words but the raw extraction has 1158; check for lost text
-warning: IC-1878: performance text has 960 spoken words but the raw extraction has 988; check for lost text
-Built 2519 record(s): 2309 shown on the site -> site/index.html; exports in exports/
+PASS  build succeeds  Built 2519 record(s): 2302 shown on the site -> site/index.html; exports in exports/
 
 PASS  the page carries its data as one JSON object
 PASS  removal requested record: its ID is nowhere in the page
@@ -3969,7 +3787,7 @@ PASS  archived record: its ID is nowhere in the page
 FAIL  archived record: a passage of its text is nowhere in the page  They increase the production of bodies and their e
 FAIL  archived record: its title is not listed
 PASS  takedown reason and email are nowhere in the page
-FAIL  the page lists exactly the visible records (counted from the database file)  2309 on page, 2308 expected
+FAIL  the page lists exactly the visible records (counted from the database file)  2302 on page, 2301 expected
 PASS  page records carry only allowed fields
 PASS  private and removed field names appear nowhere in the page
 PASS  text is stored unaltered: every page text equals the database text
@@ -3985,9 +3803,7 @@ PASS  no run-time fields in the database file
 PASS  SQLite export holds every record, hidden ones included  2519
 PASS  SQLite full-text search finds Zooman  ['IC-0045']
 PASS  CSV and JSON exports exist
-PASS  'Permission on file' without a reviewer and a rights note stops the build  w extraction has 1158; check for lost text
-warning: IC-1878: performance text has 960 spoken words but the raw extraction has 988; check for lost text
-ERROR: IC-0012: rights status 'Permission on file' may only be set by a reviewer, with the basis in rights_note
+PASS  'Permission on file' without a reviewer and a rights note stops the build  ERROR: IC-0012: rights status 'Permission on file' may only be set by a reviewer, with the basis in rights_note
 
 1 error(s); nothing saved or built.
 
@@ -4000,9 +3816,7 @@ PASS  ... and nothing is saved
 !!!!! FAILED: tests/test_build_site.py
 
 ===== python3 tests/test_classify.py
-PASS  sandbox copy builds  ning: IC-1857: performance text has 1132 spoken words but the raw extraction has 1158; check for lost text
-warning: IC-1878: performance text has 960 spoken words but the raw extraction has 988; check for lost text
-Built 2519 record(s): 2310 shown on the site -> site/index.html; exports in exports/
+PASS  sandbox copy builds  Built 2519 record(s): 2303 shown on the site -> site/index.html; exports in exports/
 
 PASS  --queue writes ceil(waiting / 40) batch files  63 files for 2519 records
 PASS  batch-001.md holds at most 40 records  40
@@ -4514,9 +4328,9 @@ PASS  a record's performance text appears in its batch unaltered
 PASS  --dry-run applies nothing  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
 dry run: nothing written
 PASS  the example applies all 8 values with origin ai, confidence and evidence  applied: 8 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
-saved; reply archived as data/classifications/20261008-183537-EXAMPLE-IC-0014.json
+saved; reply archived as data/classifications/20261008-224412-EXAMPLE-IC-0014.json
 PASS  ... source values are untouched
-PASS  ... the reply and a report are archived in data/classifications/  ['20261008-183537-EXAMPLE-IC-0014.json', '20261008-183537-EXAMPLE-IC-0014.report.json']
+PASS  ... the reply and a report are archived in data/classifications/  ['20261008-224412-EXAMPLE-IC-0014.json', '20261008-224412-EXAMPLE-IC-0014.report.json']
 PASS  ... record no longer queued
 PASS  an invalid taxonomy value is rejected  IC-0001.audience_level: needs content_warnings assessed for the same record | IC-0001.author: not a field the AI may supply | IC-0001.difficulty: confidence must be high, medium or low | IC-0001.literary_form: 'Not specified' is a placeholder; omit the field instead | IC-0001.subject_matter: evidence is required | IC-0001.tone: not allowed values: ['Gloomy'] | IC-0002.content_warnings: evidence quotes the introduction or source block, not the performance text: "*as a translator, it's luiselli's task"
 PASS  a bad confidence is rejected
@@ -4537,9 +4351,7 @@ PASS  the rejections are listed on screen  applied: 0 | protected (skipped): 1 |
   REJECTED IC-0001.subject_matter: evidence is required
   REJECTED IC-0001.tone: not allowed values: ['Gloomy']
   REJECTED IC-00
-PASS  the database still builds after classification  ning: IC-1857: performance text has 1132 spoken words but the raw extraction has 1158; check for lost text
-warning: IC-1878: performance text has 960 spoken words but the raw extraction has 988; check for lost text
-Built 2519 record(s): 2310 shown on the site -> site/index.html; exports in exports/
+PASS  the database still builds after classification  Built 2519 record(s): 2303 shown on the site -> site/index.html; exports in exports/
 
 
 all checks passed

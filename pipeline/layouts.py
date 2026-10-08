@@ -403,8 +403,9 @@ CUTTER_LINE_RE = re.compile(r"^\W{0,3}cutting\s+compliments\s+of\b", re.I)    # 
 
 
 CREDIT_CONT_RE = re.compile(r"(\b(of|at|from|and|the)|[,&-])$", re.I)          # the credit line stops mid-phrase
+CREDIT_PAREN_RE = re.compile(r"\((intro|introduction|edited|edits)\b[^()]{0,60}\)$", re.I)  # '(Intro by 4N6 Fanatics)'
 STATE_IN_RE = re.compile(r"^(.*?,\s*[A-Z]{2})(?![A-Za-z])")                    # text up to a ', NE' state code
-PLACE_TAIL_RE = re.compile(r"^[A-Z][\w.' -]*,\s*[A-Z]{2}\.?$")                  # 'High School, MN' finishing a school name
+PLACE_TAIL_RE = re.compile(r"^[A-Z][\w.'-]*( [A-Z][\w.'-]*)*, [A-Z][\w.'-]*( [A-Z][\w.'-]*)*\.?$")   # 'High School, MN', 'Washington, Wisconsin'
 
 
 def parse_back_matter(lines):
@@ -418,14 +419,18 @@ def parse_back_matter(lines):
         k = i + 1
         while k < len(lines) and len(text) < 200:
             nxt = lines[k].text.strip()
+            if CREDIT_PAREN_RE.match(nxt):
+                text += " " + nxt                       # '(Intro by 4N6 Fanatics)' is part of the credit
+                break
             if not nxt or is_heading(lines[k]) or nxt[:1] in "*(" or nxt[:1].isdigit() or URL_RE.match(nxt):
                 break
             m = STATE_IN_RE.match(nxt)
             if not STATE_IN_RE.search(text) and m and len(m.group(1).split()) <= 6:
-                text += " " + m.group(1)                # '... Coach at Port' + 'Washington High School, WI' (not the note after it)
+                # '... Coach at Port' + 'Washington High School, WI' (not the note after it, unless it is '(Intro by ...)')
+                text += " " + (nxt if CREDIT_PAREN_RE.match(nxt[m.end():].strip()) else m.group(1))
                 break
             if not (CREDIT_CONT_RE.search(text.rstrip()) or re.search(r"(?i)compliments\s+of$", text)
-                    or (PLACE_TAIL_RE.match(nxt) and len(nxt.split()) <= 6)):
+                    or (PLACE_TAIL_RE.match(nxt) and len(nxt.split()) <= 6 and not STATE_IN_RE.search(text))):
                 break
             text += " " + nxt
             k += 1

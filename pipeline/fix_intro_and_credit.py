@@ -34,6 +34,9 @@ import ingest as G        # noqa: E402
 
 TEXT_FIELDS = ("introduction_text", "performance_text", "intro_raw", "text_raw", "back_matter_raw",
                "intro_boundary", "intro_boundary_method", "selections")
+RETYPE_FIELDS = ("record_type", "work_title", "publisher", "isbn", "publication_date_raw", "source_url", "source_work_key",
+                 "source_citation", "web_only_source", "award_history_raw")
+NOTE_TAIL_RE = re.compile(r"(?i)\s*(\*\s*)?(with|selection|from|minor|edited|formatting)\b|\W*$")   # what may be cut off a credit
 NOTE = ("Text boundaries re-read on %s: %s.  Words only moved between the introduction, performance text and back "
         "matter; none were added or lost.")
 
@@ -76,12 +79,17 @@ def main():
                     why = "word-conservation check failed: %s" % L.conservation(parsed)[1]
             if why is None:
                 new = G.build_record(r["id"], str(p), parsed, r["source_file_sha1"], r["event"], r["performer_category_as_filed"])
-                if new["record_type"] != r["record_type"]:
+                # a program whose only 'second selection' was the credit line is one piece: a Cutting
+                retype = (credit and r["record_type"] == "Program" and new["record_type"] == "Cutting" and len(new["selections"]) == 1
+                          and len(r["selections"]) == 2 and not r["selections"][1]["source_block_raw"]
+                          and not any(I.prov_origin(r, k) == "human" for k in RETYPE_FIELDS))
+                if new["record_type"] != r["record_type"] and not retype:
                     why = "record type would change (%s -> %s)" % (r["record_type"], new["record_type"])
                 elif fields and bag(new) != bag(r):
                     why = "the words would not be the same before and after"
                 elif new["cutter"] != r["cutter"] and r["cutter"] != I.NS and not (
-                        new["cutter"] != I.NS and squash(r["cutter"]).startswith(squash(new["cutter"]))):
+                        new["cutter"] != I.NS and squash(r["cutter"]).startswith(squash(new["cutter"]))
+                        and NOTE_TAIL_RE.match(r["cutter"][len(new["cutter"]):])):
                     why = "cutter credit would change from %r to %r" % (r["cutter"], new["cutter"])
                 elif I.prov_origin(r, "cutter") == "human" and new["cutter"] != r["cutter"]:
                     why = "cutter credit set by a person"
@@ -97,6 +105,10 @@ def main():
                 what.append("the 'Cutting compliments of' line and what follows it moved to back matter")
             if new["cutter"] != r["cutter"]:
                 what.append("cutter credit %r -> %r (notes after the credit stay in back matter)" % (r["cutter"], new["cutter"]))
+            if new["record_type"] != r["record_type"]:
+                what.append("record type Program -> Cutting (the credit line had been read as a second selection with no "
+                            "source; the file holds one piece)")
+                fields = fields + RETYPE_FIELDS
             print("%s %s: %s" % (r["id"], r["source_file"], "; ".join(what) or "boundary method only"))
             if not a.dry_run:
                 for k in fields:

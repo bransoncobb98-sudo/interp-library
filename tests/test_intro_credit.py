@@ -52,7 +52,8 @@ for rel, cutter in [(PO + "Pulse - A Collection of LGBTQ Poetry - PO.pdf", "Rhys
                     (PR + "Impossible Knife of Memory - PR.pdf", "Coach Heather Whitney of Norfolk Public Schools, NE"),
                     (PR + "All the Bright Places - PR.pdf", "Shelly Uttke, Coach at Port Washington High School, WI"),
                     (PR + "Finding Alice - PR.pdf", "Heather Whitney, Norfolk Public Schools, NE"),
-                    (PR + "Dreamland - PR.pdf", "Heather Whitney, Norfolk Public Schools, NE")]:
+                    (PR + "Dreamland - PR.pdf", "Heather Whitney, Norfolk Public Schools, NE"),
+                    (PR + "Girl in Pieces - PR.pdf", "Coach Shelly Uttke -- Port Washington, Wisconsin")]:
     d = parse(rel)
     if d:
         check("%s: no 'Cutting compliments of' line in the performance text" % rel.split("/")[-1],

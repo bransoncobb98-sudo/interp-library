@@ -108,8 +108,9 @@ def build_record(rid, path, parsed, sha, event, filing_label):
         r["intro_boundary"] = "Not applicable"
     elif parsed["intro_method"].startswith("font only"):
         r["intro_boundary"] = "Medium"
-        notes.append("Introduction boundary rests on the font change only (no 'Title by Author' end marker). "
-                     "Checked against the rendered text by the assistant; not yet reviewed by a person.")
+        notes.append("Introduction boundary rests on the font change only (%s). "
+                     "Checked against the rendered text by the assistant; not yet reviewed by a person."
+                     % parsed["intro_method"][len("font only ("):-1])
     else:
         r["intro_boundary"] = "High"
     r["teaser_present"] = "Yes" if L.words(L.raw_text(parsed["teaser_lines"])) > 0 else "No"

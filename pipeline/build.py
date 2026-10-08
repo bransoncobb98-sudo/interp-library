@@ -72,11 +72,13 @@ def validate(db):
         if r["rights_status"] == "Removal requested" and not r["takedown_log"]:
             warnings.append("%s: removal requested but the takedown log is empty" % r["id"])
         # text-loss check against the raw extraction (repairs change letters, not word counts)
+        # (every word, directions included, with hyphens dropped: 'lip-\nsynched' and 'lip-synched' count alike)
         if r["source_layout"] in ("di_cutting", "publisher_script") and r["text_raw"]:
-            raw = I.count_words(r["text_raw"].replace("-\n", ""))
-            if raw and abs(raw - r["word_count"]) / raw > 0.02:
-                warnings.append("%s: performance text has %d spoken words but the raw extraction has %d; check for lost text"
-                                % (r["id"], r["word_count"], raw))
+            raw = len(I.WORD_RE.findall(r["text_raw"].replace("-", "")))
+            have = len(I.WORD_RE.findall(r["performance_text"].replace("-", "")))
+            if raw and abs(raw - have) / raw > 0.02:
+                warnings.append("%s: performance text has %d words but the raw extraction has %d; check for lost text"
+                                % (r["id"], have, raw))
     return errors, warnings
 
 

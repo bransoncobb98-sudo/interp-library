@@ -399,14 +399,39 @@ def parse_source_block(lines):
 
 
 CUTTER_RE = re.compile(r"Cutting\s+compliments\s+of\s+(.+?)(?:\s*\*|$)", re.I | re.S)
+CUTTER_LINE_RE = re.compile(r"^\W{0,3}cutting\s+compliments\s+of\b", re.I)    # a credit line: it and what follows are back matter
+
+
+CREDIT_CONT_RE = re.compile(r"(\b(of|at|from|and|the)|[,&-])$", re.I)          # the credit line stops mid-phrase
+STATE_IN_RE = re.compile(r"^(.*?,\s*[A-Z]{2})(?![A-Za-z])")                    # text up to a ', NE' state code
+PLACE_TAIL_RE = re.compile(r"^[A-Z][\w.' -]*,\s*[A-Z]{2}\.?$")                  # 'High School, MN' finishing a school name
 
 
 def parse_back_matter(lines):
-    text = " ".join(l.text for l in lines)
+    """The cutter credit is the 'Cutting compliments of ...' line, continued onto the next line only where it stops
+    mid-phrase or the next line finishes a school and state.  Notes after it ('with minor edits by ...', page lists,
+    footnotes) stay in the back matter only."""
     cutter = None
-    m = CUTTER_RE.search(text)
-    if m:
-        cutter = re.sub(r"\s+", " ", m.group(1)).strip()
+    i = next((k for k, l in enumerate(lines) if re.search(r"(?i)cutting\s+compliments", l.text)), None)
+    if i is not None:
+        text = lines[i].text.strip()
+        k = i + 1
+        while k < len(lines) and len(text) < 200:
+            nxt = lines[k].text.strip()
+            if not nxt or is_heading(lines[k]) or nxt[:1] in "*(" or nxt[:1].isdigit() or URL_RE.match(nxt):
+                break
+            m = STATE_IN_RE.match(nxt)
+            if not STATE_IN_RE.search(text) and m and len(m.group(1).split()) <= 6:
+                text += " " + m.group(1)                # '... Coach at Port' + 'Washington High School, WI' (not the note after it)
+                break
+            if not (CREDIT_CONT_RE.search(text.rstrip()) or re.search(r"(?i)compliments\s+of$", text)
+                    or (PLACE_TAIL_RE.match(nxt) and len(nxt.split()) <= 6)):
+                break
+            text += " " + nxt
+            k += 1
+        m = CUTTER_RE.search(text)
+        if m:
+            cutter = re.sub(r"\s+", " ", m.group(1)).strip()
     return {"cutter_credit": cutter}
 
 
@@ -493,11 +518,38 @@ def _intro_run(rest, j, i_end, author, notes):
         if hits:
             end = hits[-1].end()
             cut = next(k for k, e in zip(range(j, run_end), pos) if e >= end)
+            if not _byline_closes_line(joined[hits[-1].start():pos[cut - j]], author):
+                # the byline sits inside a sentence: the introduction runs at least to the end of that sentence, and
+                # italic lines after it are performance text only if they open with a stage direction or a speaker
+                k = cut
+                while k < run_end and not SENTENCE_END_RE.search(rest[k].text.strip()):
+                    k += 1
+                nxt = k + 1
+                while nxt < run_end and not re.search(r"\w", rest[nxt].text):
+                    nxt += 1                                       # a stray '.' line stays with the introduction
+                if nxt < run_end and run_end - nxt in (1, 2, 3) and PERF_START_RE.match(rest[nxt].text.strip()):
+                    return nxt, ("font+byline (byline inside a sentence; the introduction ends with that sentence and "
+                                 "the trailing italic lines, which open with a stage direction or speaker, are performance text)")
+                return run_end, "font only (the 'by Author' words are inside a sentence, not an end marker)"
     if cut is not None and run_end - (cut + 1) in (1, 2, 3):
         return cut + 1, "font+byline (trailing italic lines treated as performance text)"
     if cut is not None:
         return run_end, "font+byline (agree)"
     return run_end, "font only (no 'Title by Author' end marker)"
+
+
+SENTENCE_END_RE = re.compile(r"[.!?][\"'”’)\]]*$")
+PERF_START_RE = re.compile(r"^([(\[]|[A-Z][A-Z0-9 .,'’&/-]*:)")      # '(stage direction', '[direction', 'SPEAKER:'
+
+
+def _byline_closes_line(text, author):
+    """text runs from 'by' to the end of the line that holds the author's name.  It is an end marker only if
+    nothing follows the name but punctuation, or the rest of the author credit ('by Doug Wright, Scott Frankel
+    and Michael Korie' when the name searched for was 'Doug Wright')."""
+    def norm(s):
+        return re.sub(r"\s+", " ", s).strip(" \t.!?,;:'\"“”‘’*").lower()
+    said = norm(re.sub(r"^by\s+", "", text.strip(), flags=re.I))
+    return bool(said) and norm(author).startswith(said)
 
 
 def parse_di_cutting(lines, n_pages):
@@ -522,8 +574,12 @@ def parse_di_cutting(lines, n_pages):
     run_end, method = _intro_run(rest, j, i_end, author, notes)
     intro = rest[j:run_end]
     main = rest[run_end:i_end]
+    # a 'Cutting compliments of ...' line ends the performance text: it and what follows it are back matter
+    i_credit = next((x for x, l in enumerate(main) if CUTTER_LINE_RE.match(l.text.strip())), None)
+    credit = main[i_credit:] if i_credit is not None else []
+    main = main[:i_credit] if i_credit is not None else main
 
-    pre = rest[i_end:i_src]                       # headings/lines that sit above SOURCE INFORMATION
+    pre = credit + rest[i_end:i_src]              # headings/lines that sit above SOURCE INFORMATION
     back = rest[i_src + 1:]
     # source block ends at the next section heading, the rest is back matter
     k = next((x for x, l in enumerate(back) if is_heading(l)), len(back))
@@ -647,7 +703,15 @@ def parse_program(lines, n_pages):
                 if kind == "src":
                     in_url = bool(URL_RE.search(t)) or url_tail
                 k += 1
+    # a 'Cutting compliments of ...' line and the lines after it, up to the next heading, are back matter
+    for s, l in enumerate(rest):
+        if s > i_intro and s not in role and CUTTER_LINE_RE.match(l.text.strip()):
+            k = s
+            while k < len(rest) and k not in role and not heading_like(rest[k]):
+                role[k] = "back"
+                k += 1
     selections, cur, teaser, main, headings, src_all, award_all = [], [], [], [], [], [], []
+    credit = []
     i, last_was_source = 0, False
     while i < len(rest):
         r = role.get(i, "text")
@@ -656,6 +720,8 @@ def parse_program(lines, n_pages):
             last_was_source = False
             cur.append(l)
             (teaser if i < i_intro else main).append(l)
+        elif r == "back":
+            credit.append(l)
         elif r in ("heading", "srchead", "awardhead"):
             headings.append(l)
             if r == "srchead":
@@ -695,7 +761,7 @@ def parse_program(lines, n_pages):
         "layout": "program", "pages": n_pages, "title": title, "byline_author": author,
         "header_lines": header_lines, "teaser_lines": teaser, "intro_lines": intro, "body_lines": main,
         "performance_lines": teaser + main, "source_lines": src_all, "source_fields": {},
-        "back_lines": award_all, "back": parse_back_matter(award_all), "source_awards": [], "source_notes": [],
+        "back_lines": award_all + credit, "back": parse_back_matter(award_all + credit), "source_awards": [], "source_notes": [],
         "headings": headings, "footers": footers, "selections": selections,
         "intro_method": method, "notes": notes, "copyright": "",
     }

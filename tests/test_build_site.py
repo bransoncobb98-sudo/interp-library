@@ -38,7 +38,7 @@ def payload(html):
     return json.loads(m.group(1)) if m else None
 
 
-d = make()
+d = make(first_upload_only=True)            # the 45 first-upload records: these files and IDs are fixed in the checks
 try:
     orig = records(d)
     HID_TAKEDOWN, HID_ARCHIVED = "IC-0010", "IC-0011"

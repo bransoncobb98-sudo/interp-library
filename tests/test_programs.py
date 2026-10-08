@@ -18,7 +18,7 @@ if missing:
     check("test files present", False, missing)
     sys.exit(finish())
 
-d = make()
+d = make(first_upload_only=True)            # the 45 first-upload records: these files and IDs are fixed in the checks
 try:
     p = run(d, "pipeline/build.py")
     check("sandbox copy builds", p.returncode == 0, p.stdout[-300:] + p.stderr[-300:])

@@ -152,20 +152,35 @@ def site_config():
     }
 
 
-def build_site(db):
-    tpl = I.SITE / "template.html"
+def site_payload(db):
+    """Everything the page shows: the visible records and the vocabularies.  The single-file site and the published
+    (split, encrypted) site are both made from this."""
     records, redirects = public_records(db)
-    cfg = site_config()
-    payload = {"config": cfg, "generated": I.today(), "taxonomy": site_taxonomy(), "facets": FACETS,
-               "records": records, "redirects": redirects}
-    blob = json.dumps(payload, ensure_ascii=False).replace("<", "\\u003c").replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
-    page = tpl.read_text(encoding="utf-8")
-    if "/*__LIBRARY_DATA__*/null" not in page:
-        raise RuntimeError("site/template.html has no data placeholder")
-    page = page.replace("/*__LIBRARY_DATA__*/null", blob).replace("__SITE_TITLE__", html.escape(cfg["title"]))
+    return {"config": site_config(), "generated": I.today(), "taxonomy": site_taxonomy(), "facets": FACETS,
+            "records": records, "redirects": redirects}
+
+
+def script_json(obj):
+    """JSON that is safe inside a <script> element."""
+    return json.dumps(obj, ensure_ascii=False).replace("<", "\\u003c").replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
+
+
+def page_from_template(data_js, title, before_app=""):
+    """The page: data_js is the embedded library (or 'null' for the published site, whose unlock step, before_app,
+    hands the decrypted catalogue to the app)."""
+    page = (I.SITE / "template.html").read_text(encoding="utf-8")
+    for mark in ("/*__LIBRARY_DATA__*/null", "<!--__BEFORE_APP__-->"):
+        if mark not in page:
+            raise RuntimeError("site/template.html has no %s placeholder" % mark)
+    return (page.replace("/*__LIBRARY_DATA__*/null", data_js).replace("<!--__BEFORE_APP__-->", before_app)
+            .replace("__SITE_TITLE__", html.escape(title)))
+
+
+def build_site(db):
+    payload = site_payload(db)
     out = I.SITE / "index.html"
-    out.write_text(page, encoding="utf-8")
-    return out, len(records)
+    out.write_text(page_from_template(script_json(payload), payload["config"]["title"]), encoding="utf-8")
+    return out, len(payload["records"])
 
 
 # ---------------------------------------------------------------- exports --

@@ -4,8 +4,9 @@
 #   bash tests/run_all.sh --push   # also commit and push the results, the rebuilt data and the site
 set -u
 cd "$(dirname "$0")/.."
+python3 -c "import cryptography" 2>/dev/null || pip install --user -q -r requirements.txt     # the publish step needs it
 STEPS=("pipeline/build.py" "tests/verify_ingest.py" "pipeline/qc_scan.py" "pipeline/repairs.py"
-       "tests/test_columns.py" "tests/test_intro_credit.py" "tests/test_programs.py" "tests/test_publishers.py" "tests/test_build_site.py" "tests/test_classify.py" "tests/test_incremental_ingest.py" "pipeline/classify.py --queue")
+       "tests/test_columns.py" "tests/test_intro_credit.py" "tests/test_programs.py" "tests/test_publishers.py" "tests/test_build_site.py" "tests/test_publish.py" "tests/test_classify.py" "tests/test_incremental_ingest.py" "pipeline/classify.py --queue")
 {
   echo "== $(date -u '+%F %T') UTC | $(python3 --version 2>&1) | pdfplumber $(python3 -c 'import pdfplumber; print(pdfplumber.__version__)' 2>&1) | $(pdftotext -v 2>&1 | head -1)"
   status=0

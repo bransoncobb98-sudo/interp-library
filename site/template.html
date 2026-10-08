@@ -179,11 +179,19 @@ footer.site{max-width:80rem;margin:0 auto;padding:1.5rem 1.25rem 2.5rem;color:va
 <footer class="site no-print" id="foot"></footer>
 <dialog id="rm" aria-labelledby="rmh"></dialog>
 
+<!--__BEFORE_APP__-->
 <script>
 const LIB = /*__LIBRARY_DATA__*/null;
 (function(){
 "use strict";
+// One file with everything inside (LIB), or the published site: the unlock step hands over the catalogue and TEXT,
+// which fetches the performance texts in parts and merges them into the records as they arrive.
+if (LIB) startLibrary(LIB, null);
+else if (window.__unlock) window.__unlock(startLibrary);
+
+function startLibrary(LIB, TEXT){
 const RECS = LIB.records, TAX = LIB.taxonomy, CFG = LIB.config;
+const hasText = r => !TEXT || TEXT.has(r.id);
 const $ = (s, el=document) => el.querySelector(s);
 const $$ = (s, el=document) => Array.from(el.querySelectorAll(s));
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -286,12 +294,19 @@ function parseQuery(q){
 
 /* ---------------- search model ---------------- */
 function hayOf(r){
-  if (r._h) return r._h;
+  if (r._h && r._h.full === hasText(r)) return r._h;                      // rebuilt once the record's text arrives
   const sel = (r.selections || []).map(s => [s.author, s.work_title, s.publisher].join(" ")).join(" ");
   const strong = [r.title, r.author, r.work_title, r.publisher, r.cutter, sel].join(" ").toLowerCase();
   const mid = [(r.themes||[]).join(" "), r.subject_matter, (r.tone||[]).join(" "), (r.content_warnings||[]).join(" "), r.literary_form, r.event].join(" ").toLowerCase();
-  const text = (r.introduction_text + " " + r.performance_text).replace(/\([^()]*\)/g," ").toLowerCase();
-  return (r._h = {strong, mid, text});
+  const text = (r.introduction_text + " " + (r.performance_text || "")).replace(/\([^()]*\)/g," ").toLowerCase();
+  return (r._h = {strong, mid, text, full: hasText(r)});
+}
+function textStatus(){
+  const el = $("#textstatus"); if (!el || !TEXT) return;
+  const p = TEXT.progress();
+  el.hidden = !p.failed && p.done >= p.total;
+  el.textContent = p.failed ? "Some cutting texts could not be loaded. Reload the page to try again; words inside those cuttings will not be found until then."
+    : "Full texts are still loading (" + p.done + " of " + p.total + " parts). Titles, authors, filters and introductions are searched now; words inside the cuttings will be found as the texts arrive.";
 }
 function stem(t){ return t.length > 4 ? t.replace(/(ies)$/,"y").replace(/(es|s)$/,"") : t; }
 function termScore(r, t){
@@ -489,12 +504,14 @@ function update(){
   }).join("");
   const hasQ = res.cs.length > 0;
   let html = `<div class="rhead"><h2 id="rc" role="status">${hasQ ? "Exact matches (" + res.exact.length + ")" : "All cuttings (" + res.exact.length + ")"}</h2>
-    <label>Sort by <select id="sort">${[["title","Title"],["best","Best match"],["shortw","Fewest words first"],["longw","Most words first"]].map(([v,t]) => `<option value="${v}" ${state.sort===v?"selected":""}>${t}</option>`).join("")}</select></label></div>`;
+    <label>Sort by <select id="sort">${[["title","Title"],["best","Best match"],["shortw","Fewest words first"],["longw","Most words first"]].map(([v,t]) => `<option value="${v}" ${state.sort===v?"selected":""}>${t}</option>`).join("")}</select></label></div>
+    ${TEXT ? '<p id="textstatus" class="notice small" role="status" hidden></p>' : ""}`;
   if (!RECS.length) html += `<div class="empty"><p><b>The library is empty.</b></p></div>`;
   else if (!res.exact.length) html += `<div class="empty"><p><b>No cutting matches every part of this search.</b></p><p>${res.related.length ? "Related results are listed below." : "Try removing a filter or a word."}</p><p><button class="btn quiet small" data-clear type="button">Clear search and filters</button></p></div>`;
   else html += `<ul class="entries">${res.exact.map(x => entry(x,false)).join("")}</ul>`;
   if (res.related.length) html += `<div class="rsec"><h2>Related results (${res.related.length})</h2><p>These meet some of your criteria but not all. Each one says what does not match.</p><ul class="entries">${res.related.map(x => entry(x,true)).join("")}</ul></div>`;
   $("#results").innerHTML = html;
+  textStatus();
 }
 
 /* ---------------- detail page ---------------- */
@@ -566,6 +583,13 @@ function removalDialog(r){
 function buildDetail(id, fromQs){
   const r = RECS.find(x => x.id === id), main = $("#main");
   if (!r) { main.innerHTML = `<div class="detail"><p class="empty">No cutting with ID ${esc(id)} is in this library. <a href="#/">Return to search</a></p></div>`; return; }
+  if (!hasText(r)) {                                   // published site: this cutting's text has not arrived yet
+    main.innerHTML = `<div class="detail"><p class="crumbs"><a href="#/${fromQs ? "?" + esc(fromQs) : ""}">Return to search</a></p>
+      <h1 tabindex="-1" id="dt">${esc(r.title)}</h1><p id="textwait" role="status">Loading the text&hellip;</p></div>`;
+    $("#dt").focus();
+    TEXT.ensure(id).catch(() => { const w = $("#textwait"); if (w) w.textContent = "The text could not be loaded. Check the connection and reload the page."; });
+    return;
+  }
   const order = orderFromParams(fromQs), idx = order.indexOf(id);
   const prev = idx > 0 ? order[idx-1] : null, next = idx >= 0 && idx < order.length-1 ? order[idx+1] : null;
   const nav = tid => "#/c/" + tid + (fromQs ? "?from=" + encodeURIComponent(fromQs) : "");
@@ -657,7 +681,15 @@ function onRoute(){
 }
 window.addEventListener("hashchange", onRoute);
 window.__IL = {parseQuery, run, get state(){ return state; }, set state(s){ state = s; }};   // for automated tests only
+if (TEXT) TEXT.onPart(() => {
+  // a part of the texts arrived: refresh the loading line, re-run a word search, open a cutting that was waiting
+  const {path} = route();
+  if (/^\/c\//.test(path)) { if ($("#textwait")) onRoute(); return; }
+  if (!$("#sform")) return;
+  if (buildConstraints().cs.some(c => c.kind === "term")) update(); else textStatus();
+});
 onRoute();
+}
 })();
 </script>
 </body>

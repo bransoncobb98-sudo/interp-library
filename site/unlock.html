@@ -1,0 +1,117 @@
+<!-- Published site only (pipeline/publish.py puts this before the app).  The catalogue and the text parts are
+     gzip'd JSON, encrypted with AES-256-GCM under a key derived from the class password (PBKDF2-SHA256).  Each file
+     is a 12-byte IV followed by the ciphertext; a wrong password fails the GCM check, so nothing half-decrypted is
+     ever used.  The derived key (not the password) is kept in this tab's sessionStorage so a reload does not ask
+     again; closing the tab forgets it. -->
+<style>
+html.locked body > :not(#lock){display:none !important}
+#lock{min-height:100vh;display:grid;place-items:center;padding:16px;background:var(--paper)}
+#lock form{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:2rem;width:100%;max-width:24rem}
+#lock h1{font:700 1.5rem/1.2 var(--serif);margin:0 0 .25rem}
+#lock p{color:var(--muted);margin:0 0 1.25rem;font-size:.95rem}
+#lock label{display:block;font-weight:600;margin-bottom:.35rem}
+#lock input{width:100%;font:inherit;padding:.6rem .7rem;border:1px solid var(--edge);border-radius:6px}
+#lock .btn{margin-top:1rem;width:100%}
+#lock .btn:disabled{opacity:.6;cursor:wait}
+#lockmsg{min-height:1.5em;margin-top:.75rem;font-size:.95rem}
+#lockmsg.err{color:#9B1C1C}
+</style>
+<div id="lock">
+  <form id="lockf">
+    <h1>__SITE_TITLE__</h1>
+    <p>Enter the class password to open the library.</p>
+    <label for="lockpw">Password</label>
+    <input id="lockpw" type="password" autocomplete="current-password" required>
+    <button class="btn" id="lockgo" type="submit">Open library</button>
+    <div id="lockmsg" role="status" aria-live="polite"></div>
+  </form>
+</div>
+<script>
+window.__unlock = function(start){
+  "use strict";
+  const C = /*__LOCK_CONFIG__*/null;                     // {salt, iter, parts, v}
+  const KEYNAME = "ilib-key-" + C.v;
+  const $ = id => document.getElementById(id);
+  const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+  const hex = u => Array.from(u, b => b.toString(16).padStart(2, "0")).join("");
+  const unhex = h => new Uint8Array(h.match(/../g).map(x => parseInt(x, 16)));
+  document.documentElement.classList.add("locked");
+
+  async function derive(pw){
+    const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(pw), "PBKDF2", false, ["deriveBits"]);
+    return new Uint8Array(await crypto.subtle.deriveBits({name: "PBKDF2", salt: b64(C.salt), iterations: C.iter, hash: "SHA-256"}, base, 256));
+  }
+  async function openFile(key, name){
+    const res = await fetch("data/" + name + ".bin?v=" + C.v);
+    if (!res.ok) { const e = new Error(name + ": HTTP " + res.status); e.network = true; throw e; }
+    const buf = new Uint8Array(await res.arrayBuffer());
+    const plain = await crypto.subtle.decrypt({name: "AES-GCM", iv: buf.slice(0, 12)}, key, buf.slice(12));   // throws on a wrong key
+    const txt = await new Response(new Blob([plain]).stream().pipeThrough(new DecompressionStream("gzip"))).text();
+    return JSON.parse(txt);
+  }
+
+  // The texts: every part is fetched in turn in the background; a cutting someone opens moves its part to the front.
+  function textLoader(key, recs){
+    const byId = new Map(recs.map(r => [r.id, r]));
+    const total = C.parts, loaded = new Set(), bad = new Set(), waiting = new Map(), listeners = [];
+    const queue = Array.from({length: total}, (_, i) => i);
+    const tell = () => listeners.forEach(f => { try { f(); } catch (e) { console.error(e); } });
+    function merge(part){
+      for (const [id, t] of Object.entries(part)) {
+        const r = byId.get(id); if (!r) continue;
+        r.performance_text = t.performance_text;
+        if (t.ingest_notes) r.ingest_notes = t.ingest_notes;
+        if (t.sel_texts) r.selections.forEach((s, k) => { s.text = t.sel_texts[k]; });
+        if (t.evidence) for (const [f, e] of Object.entries(t.evidence)) if (r.provenance[f]) r.provenance[f].evidence = e;
+      }
+    }
+    (async () => {
+      while (queue.length) {
+        const i = queue.shift(), w = () => { const x = waiting.get(i) || []; waiting.delete(i); return x; };
+        try { merge(await openFile(key, "part-" + String(i).padStart(2, "0"))); loaded.add(i); w().forEach(p => p.resolve()); }
+        catch (e) { console.error(e); bad.add(i); w().forEach(p => p.reject(e)); }
+        tell();
+      }
+    })();
+    return {
+      has: id => { const r = byId.get(id); return !!r && loaded.has(r._p); },
+      ensure: id => {
+        const r = byId.get(id);
+        if (!r || bad.has(r._p)) return Promise.reject(new Error("text not available"));
+        if (loaded.has(r._p)) return Promise.resolve();
+        const q = queue.indexOf(r._p); if (q > 0) { queue.splice(q, 1); queue.unshift(r._p); }
+        return new Promise((resolve, reject) => { if (!waiting.has(r._p)) waiting.set(r._p, []); waiting.get(r._p).push({resolve, reject}); });
+      },
+      onPart: f => { listeners.push(f); },
+      progress: () => ({done: loaded.size, total, failed: bad.size})
+    };
+  }
+
+  async function open(bits, quiet){
+    $("lockgo").disabled = true; $("lockmsg").className = ""; $("lockmsg").textContent = "Opening…";
+    let key, cat;
+    try {
+      key = await crypto.subtle.importKey("raw", bits, "AES-GCM", false, ["decrypt"]);
+      cat = await openFile(key, "catalog");
+    } catch (e) {
+      try { sessionStorage.removeItem(KEYNAME); } catch (_) {}
+      $("lockgo").disabled = false;
+      $("lockmsg").className = quiet ? "" : "err";
+      $("lockmsg").textContent = quiet ? "" : (e.network || e instanceof TypeError
+        ? "The library could not be downloaded. Check the connection and try again."
+        : "That password didn't work. Try again.");
+      return;
+    }
+    try { sessionStorage.setItem(KEYNAME, hex(bits)); } catch (_) {}
+    $("lock").remove(); document.documentElement.classList.remove("locked");
+    start(cat, textLoader(key, cat.records));
+  }
+  $("lockf").addEventListener("submit", async e => {
+    e.preventDefault();
+    $("lockgo").disabled = true; $("lockmsg").className = ""; $("lockmsg").textContent = "Checking the password…";
+    open(await derive($("lockpw").value), false);
+  });
+  let saved = null; try { saved = sessionStorage.getItem(KEYNAME); } catch (_) {}
+  if (saved) open(unhex(saved), true); else $("lockpw").focus();
+};
+</script>

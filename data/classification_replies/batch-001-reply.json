@@ -1,0 +1,397 @@
+{
+"IC-0001": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "Published by Samuel French and laid out with speaker labels such as \"JENN:\" and \"MIKE:\" plus stage directions like \"(Sniffles)\"."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "Townspeople soberly recount the shooting and end sincerely with \"We are love. We are Newtown.\""},
+ "content_warnings": {"value": ["Violence", "Death", "Grief", "Suicide", "Mental Health", "War/Trauma"], "confidence": "high", "evidence": "The text describes a school shooting (\"Gunshots. Many gunshots.\"), deaths (\"twenty-eight people died that day\"), mourning (\"Just, just let us mourn.\"), the shooter's suicide (\"shooter killing himself\"), his illness (\"he's mentally ill\") and child trauma (\"signs of Post Traumatic Stress Disorder\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "More than twenty labelled speakers, from \"JENN:\" to \"RABBI:\" to \"YOLIE:\", must be distinguished across panic, anger and hope."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Many labelled interviewees plus outbursts such as \"GET OUT OF NEWTON! GET OUT!\" and the yelled \"Please! Just, just let us mourn.\""},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A mass shooting of children, the shooter's suicide and the weapons cache are described directly."},
+ "themes": {"value": ["Community after tragedy", "Gun violence", "Faith and free will", "Mental illness and blame", "Media intrusion on grief", "Healing and hope"], "confidence": "high", "evidence": "Lines such as \"This was not an act of God, this was an act of man\" and \"It's all about how you ripple out\"."},
+ "subject_matter": {"value": "Newtown residents recall the day of the Sandy Hook school shooting, the media siege and funerals, and debate faith, the shooter's mental illness, guns and how the town can move forward.", "confidence": "high", "evidence": "\"All Newtown public schools are in lockdown due to a shooting\" and \"What can we learn from this?\""}
+},
+"IC-0002": {
+ "literary_form": {"value": "Nonfiction", "confidence": "medium", "evidence": "A first-person essay from Harper's Magazine about the author's work as an interpreter (\"I started working as an interpreter\"), divided among NARRATOR, LITTLE GIRL and BOY for performance."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "The narrator soberly indicts the system (\"the cruelest possible response\") and ends wishing \"the story I'm hearing had a better ending.\""},
+ "content_warnings": {"value": ["Violence", "Death", "Abuse", "War/Trauma"], "confidence": "medium", "evidence": "A boy says gang members \"shot my little brother\" and \"The little brother is killed\"; the narrator cites a father \"who physically or sexually abused her\" and children fleeing \"gang violence, and death threats.\""},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Mostly one narrating voice with short exchanges for a young girl (\"Yes! Texas Arizona.\") and a frightened boy."},
+ "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "The adult narrator must contrast with the children's lines (\"No, a man.\") and the written \"(pause)\" beats and question-by-question rhythm."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "The killing of a child, child abuse and sex trafficking are referred to directly in the performance text."},
+ "themes": {"value": ["Child migrants and asylum", "Bureaucracy versus humanity", "Gang violence", "Hope and displacement", "Bearing witness"], "confidence": "high", "evidence": "\"What do we do with all these children now?\" and the intake questions such as \"Are you scared to return?\""},
+ "subject_matter": {"value": "An interpreter at New York's immigration court describes screening unaccompanied Central American children with a 40-question intake form, including two young Guatemalan sisters and a boy whose brother was shot by a gang.", "confidence": "high", "evidence": "\"I started working as an interpreter for Spanish-speaking children in the NYC Immigration Court\" and \"They kicked my door open and shot my little brother.\""}
+},
+"IC-0003": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A first-person narrative in paragraphs with quoted dialogue (\"My name is Chris. Chris Tyree,\") and no speaker labels or verse lines."},
+ "tone": {"value": ["Ironic", "Bittersweet"], "confidence": "medium", "evidence": "The narrator's wry death statistics (\"Hey, it happens.\") give way to his realisation that his mother \"died giving life.\""},
+ "content_warnings": {"value": ["Death", "Violence", "Substance Use"], "confidence": "high", "evidence": "The text lists deaths such as \"gun shot wound to the head\" and \"died in child birth\", describes a man \"bleeding out both of sides of his head\", and mentions \"a drug overdose\" and \"Drug rings, strip clubs\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "A narrator who shifts from sardonic commentary to emotion, plus brief voices for the nurse (\"More? What for? They're dead.\") and the grandmother Francesca."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "The narrator must voice the nurse, Francesca (\"Everyone dates a loser,\") and himself while moving from detached lists to the stunned \"I couldn't speak.\""},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Deaths, a shooting and drug references are described but not dwelt on graphically."},
+ "themes": {"value": ["Adoption and identity", "Mortality", "How lives are remembered", "Parental sacrifice", "Irony of fate"], "confidence": "high", "evidence": "\"Three things are remembered. Four things matter.\" and \"My mother made a heroic, honorable choice.\""},
+ "subject_matter": {"value": "An adopted college student who sizes up every death by name, age and cause drives to San Francisco to learn about his dead birth parents and discovers from his grandmother that his mother chose to have him despite the risk to her life.", "confidence": "high", "evidence": "\"I find myself driving to San Francisco\" and \"Melissa said she would rather die than give me up.\""}
+},
+"IC-0004": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "From a play anthology, with a character list, the setting \"A hotel room in Warsaw\" and speaker labels FATHER and DAUGHTER."},
+ "tone": {"value": ["Serious", "Bittersweet"], "confidence": "high", "evidence": "Fond childhood memories of the courtyard sit beside the Holocaust (\"Earth, do not cover my blood\") and the closing \"an act of devotion, to try to remember.\""},
+ "content_warnings": {"value": ["Death", "Grief", "Violence", "Discrimination/Slurs", "War/Trauma"], "confidence": "high", "evidence": "The text describes ghetto deaths (\"Naked corpses lay in the streets\"), soldiers who \"shot people for fun\", Jews sent to Treblinka \"where they'd be gassed\", the father breaking down \"as he sobbed\", and the remark \"he'd be a lamp shade.\""},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two alternating characters, an elderly father speaking \"in the voice of his memory\" and his daughter, building to his breakdown at the memorial."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "Two distinct speakers plus stated business such as \"DAUGHTER walks over to FATHER and stands beside him\" and his hand held \"like a shield against my gaze.\""},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Holocaust atrocities are described soberly in a historical context rather than graphically dwelt on."},
+ "themes": {"value": ["Holocaust memory", "Jewish heritage", "Father and daughter", "Loss of a vanished world", "Duty to remember"], "confidence": "high", "evidence": "\"Never forget that you are a Jew\" and \"After I'm gone, who will remember?\""},
+ "subject_matter": {"value": "An elderly father and his adult daughter visit Warsaw, where his memories of his prewar Jewish childhood alternate with her account of ghetto and deportation memorials and his breakdown at the Umschlagplatz.", "confidence": "high", "evidence": "\"The first thing we did after checking into our hotel in Warsaw\" and \"We went to the Unschlagplatz\"."}
+},
+"IC-0005": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "From a collection of stand-up theatre plays, spoken under the label SPEAKER with stage directions such as \"(with growing agitation)\" and \"(in Benji's voice)\"."},
+ "tone": {"value": ["Dark", "Bittersweet"], "confidence": "medium", "evidence": "A disturbing account of punishment and the hammer attack ends with the tender, uneasy \"I call her . . . Lady\"."},
+ "content_warnings": {"value": ["Abuse", "Violence", "Self-harm", "Mental Health"], "confidence": "high", "evidence": "The child is punished harshly (\"he tied me down to a chair\", the cupboard), attacks his father (\"And then I hit him with it\"), says \"I hit myself with the hammer\", and is treated in a mental hospital (\"They sent me to a psychiatrist\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The performer switches among the speaker, the mother and the menacing inner voice Benji (\"he's going to kill you!\") across a very wide emotional range."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Directions such as \"(whispers in Benji's voice)\", \"(as Mom)\" and \"(stands quietly with a hammer drawn back)\" require distinct voices and stated physical business."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Child abuse, a violent attack on a parent and self-injury are enacted in the performance text."},
+ "themes": {"value": ["Childhood neglect and punishment", "Mental illness", "Imaginary friends", "Anger and blame", "Need for love", "Recovery"], "confidence": "high", "evidence": "\"you want to hit out because of this lack of love\" and \"I know that it was me really, my anger\"."},
+ "subject_matter": {"value": "A speaker recalls a harsh, perfectionist childhood, an imaginary friend named Benji who took the blame for growing anger, a hammer attack at 13, a psychiatric hospital stay, and an adult life managed with medication and a dog.", "confidence": "high", "evidence": "\"I called her Benji\" and \"Mental hospitals aren't that bad\"."}
+},
+"IC-0006": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A first-person story in paragraphs from the anthology Speaking with the Angel, with lines assigned to PIT BULL and two SQUIRREL voices for performance."},
+ "tone": {"value": ["Bittersweet", "Whimsical"], "confidence": "medium", "evidence": "A dog's breathless joy (\"OH I'M A FAST DOG\") turns to his drowning and a gentle afterlife where \"God is the sun.\""},
+ "content_warnings": {"value": ["Death", "Violence"], "confidence": "high", "evidence": "The narrator dies (\"After I died\"), recalls a man who \"kicked me and slapped my head\", and dogs kill squirrels (\"crushes all its bones\") while a dog's \"leg is broken and bleeding\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One main narrator with brief taunting squirrel voices, moving from exuberance to injury, death and calm reflection."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "The dog's excited \"Hoooooooo! Hooooooooooooo!\" contrasts with the sneering squirrels (\"He was a fool.\")."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Animal violence and a drowning are described but the text is not graphic beyond a broken leg and crushed squirrels."},
+ "themes": {"value": ["Joy of freedom", "Cruelty and fear", "Risk and ambition", "Death and the afterlife", "Innocence"], "confidence": "medium", "evidence": "\"I want this so much, the floating\" and \"some are afraid to run and maybe they are broken\"."},
+ "subject_matter": {"value": "A pit bull rescued as a puppy from a river races other dogs through the woods at night, leaps a flooded gap, drowns, and describes what he finds after death.", "confidence": "high", "evidence": "\"I was thrown in a river when I was small\" and \"After I died, so many things happened\"."}
+},
+"IC-0007": {
+ "literary_form": {"value": "Poetry", "confidence": "high", "evidence": "Lineated free-verse poems in the voices of named students and staff, such as \"Thirty years in education.\" by Principal Barron, linked by short prose transitions."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "Each voice responds soberly and sincerely to the suicide, e.g. \"Y you didn't want to live- And Y I never noticed.\""},
+ "content_warnings": {"value": ["Suicide", "Death", "Grief"], "confidence": "high", "evidence": "The principal announces \"Anna Gonzales took her life last night\", a poem recalls a father who \"had taken his own life\", and a brother dies of cancer while classmates mourn \"That empty seat in the third row.\""},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Seven distinct voices, from Anna's note to the principal, an athlete (\"But damn it, Anna,\") and the English teacher, each with its own emotional stance."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Named speakers including Anna Gonzales, Principal Barron, Damon Reingold and Ms. Mason must be distinguished, from numb shock to anger (\"How could you?\")."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A teen suicide note and a parent's suicide are central to the performance text."},
+ "themes": {"value": ["Teen suicide", "Invisibility and loneliness", "Grief and guilt", "Impact on a community", "Choosing life"], "confidence": "high", "evidence": "\"Never pretty or popular enough to matter\" and \"when you kill yourself\"."},
+ "subject_matter": {"value": "After a quiet student's suicide is announced over the school PA, her note is followed by poems from the principal, classmates and her English teacher reacting with grief, anger and guilt.", "confidence": "high", "evidence": "\"I am sorry to tell you of the death of one of our students.\""}
+},
+"IC-0008": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A first-person narrative in paragraphs from the Turning Points collection, with a few lines given to MRS. SIMPKINS and to the household RULE headings."},
+ "tone": {"value": ["Bittersweet", "Ironic"], "confidence": "high", "evidence": "Jokes such as \"Never play Uno with Todd\" give way to the group-home farewell where \"something is missing.\""},
+ "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "high", "evidence": "The narrator mocks disabled classmates in a game called \"Act Like a Retard!\" and says \"I could make fun of those retards\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator with brief voices for Mrs. Simpkins and Todd (\"WILD! Change it to red!\"), moving from comedy to regret."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "The narrator imitates Todd (\"It SUCKS! U2 sucks!\") and Mrs. Simpkins and shifts from rapid comic lists to the quiet ending."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A disability slur is used repeatedly, but there is no violence or other mature content."},
+ "themes": {"value": ["Siblings and disability", "Cruelty of children", "Jealousy and attention", "Guilt and regret", "Family love"], "confidence": "high", "evidence": "\"Number of times I've told him I love him: 4.\" and \"looking at me like I was some sort of Judas.\""},
+ "subject_matter": {"value": "A younger brother recalls mocking special-education students, resenting the attention his intellectually disabled older brother Todd received, and the day his parents placed Todd in a group home after a shoplifting incident.", "confidence": "high", "evidence": "\"they decided it was time to place Todd in a group home.\""}
+},
+"IC-0009": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatic Publishing play with speaker labels (VOICE 1, AUNT LEAF, ANNABELLE) and stage directions such as \"(rousing to look out the window)\"."},
+ "tone": {"value": ["Bittersweet", "Whimsical"], "confidence": "high", "evidence": "Fanciful storytelling (\"This is the story of the blue pebble.\") ends with \"Aunt Leaf's body lay in a long black box.\""},
+ "content_warnings": {"value": ["Death", "Grief"], "confidence": "medium", "evidence": "Aunt Leaf longs for her dead husband (\"I've seen his grave!\", \"People come back.\") and dies at the end (\"Aunt Leaf's body lay in a long black box\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Nine labelled roles, including narrating voices, a frail old woman and an eleven-year-old girl, many with rapid overlapping exchanges."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Distinct roles plus stated business such as \"(she stands looking around in the dark)\" and \"(ANNABELLE puts her hand up to AUNT LEAF's cheek)\"."},
+ "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "The only sensitive content is the gentle death of an elderly relative."},
+ "themes": {"value": ["Power of storytelling", "Imagination and reality", "Grief and longing", "Finding one's voice", "Old age"], "confidence": "high", "evidence": "\"Living things are made of stories\" and \"She was busy listening to another voice. A new one. Her own.\""},
+ "subject_matter": {"value": "A silent eleven-year-old girl revives her grieving, failing great-great-aunt with invented sightings of the aunt's dead husband, falls ill after a night in the snow, and wakes to find the old woman has died.", "confidence": "high", "evidence": "\"What could it hurt to tell one tiny lie\" and \"They found Annabelle clad only in her nightgown\"."}
+},
+"IC-0010": {
+ "literary_form": {"value": "Nonfiction", "confidence": "medium", "evidence": "A transgender teen's own account from an edited interview collection, told in first person (\"When I was born, I was named Matthew.\") and staged with speaker labels."},
+ "tone": {"value": ["Earnest", "Serious"], "confidence": "high", "evidence": "Christina speaks frankly about hurt (\"I really, really hate being transgender\") and the piece ends on her mother's plea to \"Hug your children.\""},
+ "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "high", "evidence": "Classmates mock her (\"I know you're a man with that big face\") and shout \"Get out! Faggot!\" and she recalls being called \"a sissy and a faggot\"."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Over a dozen labelled speakers, from mocking girls to the angry principal and her mother, around a lead who swings from tears to confidence."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Many roles plus directions such as \"(holding back tears)\", \"(a big, confident smile)\" and \"(she hugs Christina)\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Anti-gay slurs and bullying appear, but there is no violence, sexual content or self-harm in the text."},
+ "themes": {"value": ["Transgender identity", "Bullying and prejudice", "Family acceptance", "Gender expression", "Self-acceptance"], "confidence": "high", "evidence": "\"I am a woman.\" and \"I listened to my daughter. And I learned by letting her be.\""},
+ "subject_matter": {"value": "Christina, a transgender teen, recalls being mocked, trying to act like a boy at an all-boys Catholic school, transitioning her senior year amid hostility from staff and students, and her mother's growing acceptance.", "confidence": "high", "evidence": "\"off I went to Mount Saint Michael Academy\" and \"You can't come to school dressed like a woman.\""}
+},
+"IC-0011": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "Passages from a novel narrated in paragraphs by Death, with page markers such as \"(Pg 307-309)\"; the RED label is a bolded heading line, not a second character."},
+ "tone": {"value": ["Dark", "Ironic"], "confidence": "medium", "evidence": "Death's wry self-description (\"And that's only the A's.\") runs alongside gas chambers and ends \"I am haunted by humans.\""},
+ "content_warnings": {"value": ["Death", "Violence", "War/Trauma", "Suicide"], "confidence": "medium", "evidence": "Death collects souls amid \"A few bombs usually do the trick. Or some gas chambers\", \"the murder of his own people\", and prisoners who leapt to their deaths (\"when their escapes fell awfully awry\"), noting people \"asking me to take them with me.\""},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "A single narrator, but Death must move from breezy wit (\"Just don't ask me to be nice.\") to anguish at Auschwitz."},
+ "performance_demands": {"value": ["Vocal Variety"], "confidence": "low", "evidence": "The narrator shifts from cheerful banter to the shaken \"God. I always say that name when I think of it.\""},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Holocaust deaths are described in a reflective rather than graphic manner, apart from \"broken bodies and dead, sweet hearts\"."},
+ "themes": {"value": ["Mortality", "Death personified", "Holocaust and war", "Human cruelty and beauty", "Compassion"], "confidence": "high", "evidence": "\"You are going to die.\" and \"I am haunted by humans.\""},
+ "subject_matter": {"value": "Death introduces himself, explains how he distracts himself with colors, and recalls collecting souls during 1942 and the death camps of the Second World War.", "confidence": "high", "evidence": "\"I'll never forget the first day in Auschwitz\" and \"I vacation in increments. In colors.\""}
+},
+"IC-0012": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with speaker labels (TONY, THERESA, MERCER, BECK) and stage directions such as \"(The machine clicks.\"."},
+ "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "Escalating stalker messages and police advice build to Theresa's admission \"I'm not me anymore. I'm just this thing.\""},
+ "content_warnings": {"value": ["Violence", "Abuse"], "confidence": "medium", "evidence": "The stalker's letter says \"he wants to put a wire around my throat\" and his messages say \"he wants to hurt me\", a pattern of harassment the detective calls building \"a record of consistent abuse\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Four characters, with Theresa moving from composure to rage (\"Stop calling me!\") to numb fear."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "high", "evidence": "Distinct voices for Tony, Mercer and Beck plus stated business: she \"rips the cord from the wall\" and \"pushes it up under the handle.\""},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Stalking, a graphic death threat and sexual harassment (\"Nice ass\") are central to the performance text."},
+ "themes": {"value": ["Stalking", "Fear and powerlessness", "Objectification of women", "Romantic myths of pursuit", "Friendship and support"], "confidence": "high", "evidence": "\"Even though the guy has basically been stalking her, his perseverance pays off.\" and \"I feel reduced.\""},
+ "subject_matter": {"value": "After rejecting a blind date, writer Theresa receives escalating calls and threats from him, confides in her colleague Mercer, and is told by a detective how to protect herself.", "confidence": "high", "evidence": "\"He's stalking me. I think.\" and \"we can get the restraining order\"."}
+},
+"IC-0013": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A narrated picture-book tale (\"Many, many years ago, in Sorrento\") with dialogue lines given to Giovanni and others for performance."},
+ "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "The old clown's rejection and death end in wonder: \"The Child was smiling\"."},
+ "content_warnings": {"value": ["Death", "Violence"], "confidence": "high", "evidence": "A crowd \"threw vegetables and stones at Giovanni\" and the priest says \"the poor clown is dead.\""},
+ "difficulty": {"value": "Advanced", "confidence": "low", "evidence": "The arc is simple, but the performer voices about ten roles, from the narrator and the Maestro to the Brother Sexton and Giovanni from boyhood to old age."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "high", "evidence": "Many speakers plus stated business such as \"(he demonstrates)\" juggling and \"(he suddenly collapses)\"."},
+ "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "A gentle, non-graphic death and a crowd throwing vegetables are the only sensitive content."},
+ "themes": {"value": ["Giving one's gift", "Faith and grace", "Fame and aging", "Joy and generosity"], "confidence": "high", "evidence": "\"If you give happiness to people, you give glory to God as well.\""},
+ "subject_matter": {"value": "An orphan juggler becomes a famous clown, is driven off when he grows old and fails, and dies after juggling one last time before a statue of the Lady and Child, who smiles.", "confidence": "high", "evidence": "\"For You, sweet Child, for You!\" and \"in His hand He held the golden ball.\""}
+},
+"IC-0014": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A published script (SpeechGeek copyright page) spoken under the speaker label \"INTERROGATOR.\" with a character note."},
+ "tone": {"value": ["Dark", "Ironic"], "confidence": "medium", "evidence": "Jokes such as \"Charming, right?\" and the closing \"God bless America.\" sit on top of an account of torture."},
+ "content_warnings": {"value": ["Violence", "Abuse", "Suicide", "Substance Use", "War/Trauma"], "confidence": "high", "evidence": "The speaker describes torture (\"hook his ass up to a generator\"), a colleague's suicide (\"he hung himself right there\"), drinking (\"a very high functioning alcoholic\") and wartime Iraq (\"Welcome to Iraq\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "One voice, but it swings from banter (\"This room has carpet.\") to horror (\"the only screaming left is yours\") many times."},
+ "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Written pauses and shifts such as \"Now that...is a great question\" and the outburst \"YES! I've had enough.\" drive the piece."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Torture, suicide, alcohol and profanity are described directly in the performance text."},
+ "themes": {"value": ["Moral cost of torture", "Duty and complicity", "Conscience", "Psychological damage of war"], "confidence": "medium", "evidence": "\"what we do destroys people\" and the last line \"and my conscience.\""},
+ "subject_matter": {"value": "A CIA interrogator with six days left in Iraq talks a new recruit through the job in the base break room and reveals what it has done to him.", "confidence": "high", "evidence": "\"So, I got six days left\" and \"this is the break room\"."}
+},
+"IC-0015": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A fairy tale from Selected Fairy Tales told in narrative paragraphs (\"Early in the morning of one Midsummer Day\") with dialogue assigned to ALARIC, LADY and MAGDA."},
+ "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "medium", "evidence": "Alaric's sincere love leads him to free her (\"Dearest, go back to your people.\") before she returns \"wholly his\"."},
+ "content_warnings": {"value": [], "confidence": "high", "evidence": "The performance text is a gentle fairy tale; its only peril is the magical struggle in which the lady becomes \"a sapling\", a vixen, water and flame, with no death, abuse or other sensitive content."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "A narrator plus Alaric, his otherworldly lady, wise Magda and the chanting fairy people, with a simple romantic arc."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "Several distinct voices plus stated business such as \"(Listens for a moment)\" and \"(taking her hand in his.)\"."},
+ "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "No content warnings apply to the performance text."},
+ "themes": {"value": ["Perfect love", "Selfless sacrifice", "Belonging", "Letting go", "Fairy enchantment"], "confidence": "high", "evidence": "\"You must give her a love that is perfect\" and \"I would not wish your happiness lessened for even a minute.\""},
+ "subject_matter": {"value": "A count marries a nameless maiden who turns out to be one of the fairy people, holds her through their magic on Midsummer Eve, then lets her go, and finds her returned to him for good.", "confidence": "high", "evidence": "\"Alaric, your lady is one of the fairy people.\" and \"And he let go of her wrist.\""}
+},
+"IC-0016": {
+ "literary_form": {"value": "Poetry", "confidence": "high", "evidence": "A spoken-word poem from a poetry collection, partly set in short lines such as \"or a world,\" and \"Grow distant.\""},
+ "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "The speaker's tribute to a dying boy is both sad and admiring: \"see, there's bravery in this world\"."},
+ "content_warnings": {"value": [], "confidence": "medium", "evidence": "No death occurs or is recounted; Louis is a terminally ill boy who \"knows they're dying\" but is alive at the end, and the only roughness is the quoted \"Hell\" yeah and a cigarette joke."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One speaker who also quotes Louis (\"please don't tell my dad.\") and moves from fear and humour to a rousing climax."},
+ "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Spoken-word rhythm and repetition such as \"echo, and grow echo, and grow\" and the boy's quoted \"Hell\" yeah."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "No content warnings apply, but a child's terminal illness is the subject and there is a mild curse."},
+ "themes": {"value": ["Childhood illness", "Courage facing death", "Faith and doubt", "Storytelling as memory", "Gratitude for life"], "confidence": "high", "evidence": "\"I'm gonna remember you kid\" and \"he asks me if I believe in angels,\""},
+ "subject_matter": {"value": "A hospital patient shares a room with Louis, a nine-year-old with a terminal illness who shows him treasures and tells their stories, and vows to keep telling the boy's story.", "confidence": "high", "evidence": "\"my hospital roommate wears star wars pajamas,\" and \"gonna tell your story as often as every story you told me\"."}
+},
+"IC-0017": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A first-person true account from Chicken Soup for the Teacher's Soul (\"It was my very first teaching job\")."},
+ "tone": {"value": ["Earnest"], "confidence": "high", "evidence": "The teacher sincerely concludes \"no obstacle in life is too big to overcome.\""},
+ "content_warnings": {"value": [], "confidence": "high", "evidence": "The performance text describes a child with leg braces learning to walk (\"Kelly only fell over twice\") and contains no sensitive content."},
+ "difficulty": {"value": "Beginner", "confidence": "medium", "evidence": "One narrating teacher with single lines for an assistant and a mother, following a simple nervous-to-joyful arc."},
+ "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "No content warnings apply to the performance text."},
+ "themes": {"value": ["Perseverance", "Disability and inclusion", "Teacher and student", "Encouragement", "First-year nerves"], "confidence": "high", "evidence": "\"You just need to keep working at it-one step at a time.\""},
+ "subject_matter": {"value": "A nervous first-year preschool teacher encourages Kelly, a four-year-old in leg braces, to walk the hallway a little farther each day until she reaches the yard and her braces are reduced.", "confidence": "high", "evidence": "\"I charted her progress with little pencil marks on the wall\" and \"Kelly's knee braces had been replaced with ankle braces.\""}
+},
+"IC-0018": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service script with NARRATOR and DAD labels and stage directions such as \"(Enters the memory\"."},
+ "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "A child's cheerful list (\"1. Ice cream.\") runs through a mother's suicide to the sincere plea \"Don't do it. Things get better.\""},
+ "content_warnings": {"value": ["Suicide", "Death", "Grief", "Mental Health"], "confidence": "high", "evidence": "The mother's attempts (\"three weeks' worth of anti-depressants\") end in suicide (\"Hosepipe through the driver-side window\"), the dog dies (\"I held him as he died\"), and the narrator cites \"children with depressed mothers\" and joins \"A support group.\""},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The narrator ages from seven to adulthood, voices Dad, sings and dances, and ranges from childlike delight to rage (\"go jump off a bridge\") and despair."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Stated business such as \"(Strokes the dog gently)\" and \"(He/she dances and sings\", the Dad voice, and written \"(Long silence)\" and \"(Long pause)\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Repeated suicide attempts and the method of a completed suicide are described in the performance text."},
+ "themes": {"value": ["Suicide and its survivors", "Depression in families", "Finding reasons to live", "Childhood hope", "Guilt and helplessness"], "confidence": "high", "evidence": "\"A list of everything brilliant about the world. Everything worth living for.\" and \"The list hadn't stopped her.\""},
+ "subject_matter": {"value": "A narrator recalls starting a list of brilliant things at seven after his mother's first suicide attempt, adding to it through her later attempts and his own depression, until her eventual suicide.", "confidence": "high", "evidence": "\"The list began after her first attempt.\" and \"I forgot about the list until her second attempt\"."}
+},
+"IC-0019": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A doctor's first-person memoir of her medical career (\"My first job as a doctor was on an elderly care ward\")."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "The doctor soberly and honestly examines her own fear: \"That wasn't the doctor she got that night\"."},
+ "content_warnings": {"value": ["Death"], "confidence": "high", "evidence": "Patients die in the text (\"I felt my patient's pulse slip away and then she was dead\", \"Gloria died that night\") and a crash victim is \"bleeding, a lot\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator who quotes several patients, including the escalating \"AM I GOING TO DIE?\" and Gloria's \"Please, don't let me die.\""},
+ "performance_demands": {"value": ["Vocal Variety"], "confidence": "medium", "evidence": "The patient's lines rise from a question to \"Louder\" to \"Now shouting\", contrasting with the doctor's reflective narration."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Deaths in hospital and a bleeding injury are described clinically, without graphic or other mature content."},
+ "themes": {"value": ["Fear and courage", "Facing death", "Doctor and patient", "Honesty versus reassurance", "Dignity in old age"], "confidence": "high", "evidence": "\"how can I call myself brave, if I cannot admit to still feeling fear?\""},
+ "subject_matter": {"value": "An intensive-care doctor recalls moments of fear in her career, from verifying her first death to a dying cancer patient, a crash victim asking if he will die, and elderly patients afraid of dying.", "confidence": "high", "evidence": "\"I don't think I had even considered it might be my job to 'verify' death.\""}
+},
+"IC-0020": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A character monologue from Whoopi Goldberg's stage collection, spoken by FONTAINE with stage directions such as \"(Several beats of silence.)\"."},
+ "tone": {"value": ["Ironic", "Satirical", "Earnest"], "confidence": "medium", "evidence": "Fontaine mocks American complacency (\"where such a thing would never happen\") but turns sincere: \"It don't take nothing but a little bit of graciousness\"."},
+ "content_warnings": {"value": ["Substance Use", "Discrimination/Slurs", "Violence", "War/Trauma"], "confidence": "high", "evidence": "Fontaine says \"I'm a junkie\", meets racist villagers (\"please eat this watermelon\"), recalls \"little girls getting blown up in churches\", and describes Jews who \"ended up in the camps\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Written vernacular (\"we was ready for that\"), several mimicked voices and shifts from comic hustle to tears at the Anne Frank House."},
+ "performance_demands": {"value": ["Dialect", "Character Differentiation", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Vernacular such as \"It don't take nothing\", voices like \"(prissy, condescending voice)\" and \"(In a German accent)\", the opening song and dance, and \"(Several beats of silence.)\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drug use, profanity (\"saying shit to people\") and racism appear, but the Holocaust and violence are referenced rather than graphically described."},
+ "themes": {"value": ["Holocaust memory", "Hope despite cruelty", "Racism and ignorance", "Being the outsider", "Self-examination"], "confidence": "high", "evidence": "\"IN SPITE OF EVERYTHING I STILL BELIEVE PEOPLE ARE GOOD AT HEART\" and \"it's real hard to be that cold once you been the alien.\""},
+ "subject_matter": {"value": "Fontaine, a streetwise thief and self-described junkie, hustles a ticket to Europe, is shaken by Anne Frank's hiding place in Amsterdam, then meets casual racism in German villages and reflects on graciousness.", "confidence": "high", "evidence": "\"Oh my, I'm in the room where Anne Frank's family hid.\""}
+},
+"IC-0021": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A first-person true account from Chicken Soup for the Preteen Soul (\"The moment that I will never forget happened in my family.\")."},
+ "tone": {"value": ["Earnest"], "confidence": "high", "evidence": "The narrator sincerely recounts fear and relief, ending \"I'm a really lucky person\"."},
+ "content_warnings": {"value": [], "confidence": "medium", "evidence": "The mother nearly dies after childbirth (\"they had trouble stopping the bleeding\") but survives, and the text has no death, violence or other listed content."},
+ "difficulty": {"value": "Beginner", "confidence": "high", "evidence": "One voice following a simple arc from excitement to fear to relief (\"My mother survived that night.\")."},
+ "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "No content warnings apply; the medical emergency is described gently."},
+ "themes": {"value": ["Family love", "Fear of losing a parent", "Gratitude", "New sibling"], "confidence": "high", "evidence": "\"I wasn't ready to let her go.\" and \"I remember that I'm a really lucky person\"."},
+ "subject_matter": {"value": "A fifteen-year-old's mother suffers severe bleeding after giving birth to the narrator's baby brother, and the narrator talks to her in intensive care until she survives the night.", "confidence": "high", "evidence": "\"after my mother had given birth to my brother, they had trouble stopping the bleeding.\""}
+},
+"IC-0022": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A television episode transcript with speaker labels (BEN, DR. LEWIS, VIC, SULLIVAN), a character list and directions such as \"(Enters and paces in frustration)\"."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "Three first responders speak raw, sincere grief and anger, e.g. \"Being Black in America is a life-threatening condition.\""},
+ "content_warnings": {"value": ["Violence", "Death", "Discrimination/Slurs"], "confidence": "high", "evidence": "The text describes George Floyd's killing (\"until the last gasp of life was choked out of him\"), police shootings (\"an innocent Black man being shot by police\") and racism (\"because of the color of that skin\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Four characters, three of whom deliver emotionally raw monologues with written stammers such as \"I-I-I know you have to be as shaken up\"."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Distinct speakers, a \"(Voice breaking)\" moment, stated business such as \"(Enters, he is exhausted)\" and repeated \"(long beat)\" pauses."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A real killing and police violence are described, but briefly and without graphic detail."},
+ "themes": {"value": ["Police brutality", "Systemic racism", "Fear for one's children", "Exhaustion and anger", "Shared humanity"], "confidence": "high", "evidence": "\"we should care about him because he was a person\" and \"I am eight minutes away from being another George Floyd.\""},
+ "subject_matter": {"value": "In grief counseling after George Floyd's murder, three Black first responders tell Dr. Lewis about a humiliating traffic stop, their frustration with performative concern, and their fear that it could happen to them.", "confidence": "high", "evidence": "\"When the police made me lie down on the street like an animal during a routine traffic stop\"."}
+},
+"IC-0023": {
+ "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A monologue from Eric Bogosian's solo stage collection, opening with the stage direction \"Picks up a glass of water, drinks\"."},
+ "tone": {"value": ["Satirical", "Ironic", "Dark"], "confidence": "high", "evidence": "A comfortable consumer mocks his own complacency (\"I am concerned therefore I am.\") while picturing \"a sea of human skeletons dying\"."},
+ "content_warnings": {"value": ["Death", "Suicide", "Discrimination/Slurs"], "confidence": "medium", "evidence": "He describes people \"slowly starving to death\", imagines his old self shouting \"I WANT DOCTOR KEVORKIAN!!!\", and mimics an \"(African voice)\" while ranting \"STARVING AFRICANS, STARVING AFRICANS\" and \"some blue Jamaican!\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One character, but the satire swings between cheerful self-satisfaction and shouted outbursts such as \"SHOW ME YOUR PAIN, I AM THERE FOR YOU!\""},
+ "performance_demands": {"value": ["Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "The opening business with the glass and sudden shouted passages like \"STARVING AFRICANS\" against calm narration."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Starvation, a wish for assisted death and crude humour are satirical rather than graphic."},
+ "themes": {"value": ["Consumerism and complacency", "Hypocrisy of concern", "Privilege and poverty", "Aging and mortality", "Optimism versus pessimism"], "confidence": "high", "evidence": "\"I am reaffirmed in my right to exist in this environment, because I have the cash.\""},
+ "subject_matter": {"value": "A comfortable middle-class man applies the glass-half-full saying to his life from birth to old age, then to TV images of famine and a man picking bottles, consoling himself with shopping and concern.", "confidence": "high", "evidence": "\"The glass is half empty or the glass is half full?\" and \"I go to the supermarket, I grab a cart\"."}
+},
+"IC-0024": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A scene from the novel The Shack, adapted with WOMAN and MACK labels and acting notes such as \"(Mack clenches his fist\"."},
+ "tone": {"value": ["Earnest", "Serious"], "confidence": "high", "evidence": "A sincere spiritual confrontation about suffering ending \"I really do want to trust Papa.\""},
+ "content_warnings": {"value": ["Death", "Grief", "Violence", "Abuse"], "confidence": "medium", "evidence": "Mack grieves his daughter (\"why Missy had to die\", \"drowning in your sorrow\"), who was \"brutalized\" by \"the man who preys on innocent little girls\", and the text cites \"fathers who beat their sons\" and \"men who beat their wives\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two characters, with Mack swinging from quiet embarrassment to \"Screaming, completely out of control\" and begging in tears."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "The calm woman contrasts with Mack's escalation from \"(softly)\" to \"(yelling)\", with business such as \"(loudly, pointing his finger right at her)\"."},
+ "audience_level": {"value": "High School", "confidence": "low", "evidence": "A child's murder and domestic abuse are referred to, not described graphically; reviewers may judge the implied predation as mature."},
+ "themes": {"value": ["Grief and faith", "Judgment and mercy", "Problem of evil", "Fatherly love", "Trust in God"], "confidence": "high", "evidence": "\"I just don't understand how God could love Missy and let her go through that horror.\""},
+ "subject_matter": {"value": "A grieving father whose daughter was murdered is asked by a mysterious woman to judge God and to choose which of his children go to hell, and instead offers to go in their place.", "confidence": "high", "evidence": "\"You must choose two of your children\" and \"Could I go instead?\""}
+},
+"IC-0025": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A true first-person story from The Moth collection told by an emergency physician (\"When you train to become a doctor\")."},
+ "tone": {"value": ["Serious"], "confidence": "high", "evidence": "The doctor soberly recounts a failed resuscitation and the refrain \"He's dead. We did everything we could.\""},
+ "content_warnings": {"value": ["Death", "Violence", "Grief"], "confidence": "high", "evidence": "A shot teenager (\"eight bullet holes in his chest and abdomen\") dies after his chest is cracked open, and his mother \"starts keening\" over the body."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator who also voices her stern attending (\"Don't you EVER pretend that grief belongs to you\") and moves from clinical urgency to suppressed grief."},
+ "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety"], "confidence": "medium", "evidence": "The repeated refrain \"I'm sorry. He's dead.\" and the urgent checklist \"Is he breathing? Is he bleeding?\" set the rhythm."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A gunshot victim's emergency thoracotomy is described in graphic detail (\"crank his chest open\")."},
+ "themes": {"value": ["Delivering bad news", "Professional detachment", "Grief and its ownership", "Gun violence", "Medical training"], "confidence": "high", "evidence": "\"They teach you how to prevent it, how to fight it, how to say it, but not how to face it.\""},
+ "subject_matter": {"value": "An emergency doctor describes trying to save a sixteen-year-old shot eight times, recalls being taught not to claim a family's grief, and tells the boy's mother he has died.", "confidence": "high", "evidence": "\"we work on the body of a sixteen-year-old boy\" and \"Clearly his mother.\""}
+},
+"IC-0026": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A first-person true account from Chicken Soup for the Teenage Soul on Tough Stuff (\"She was my best friend and I loved her.\")."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "The narrator soberly recounts a friend's suicide and sincerely urges \"letting others help you with your pain.\""},
+ "content_warnings": {"value": ["Suicide", "Death", "Grief", "Sexual Assault", "Abuse", "Substance Use"], "confidence": "high", "evidence": "Cindy \"took her own life last night using her father's gun\" because \"her father had repeatedly sexually abused her\", after \"drinking and smoking marijuana\", and the narrator \"cried for weeks\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator, but the arc moves from carefree nostalgia to shock (\"I couldn't talk, I couldn't move.\"), guilt and peace."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A teen suicide by gun and a father's sexual abuse of his daughter are stated in the performance text."},
+ "themes": {"value": ["Teen suicide", "Hidden sexual abuse", "Friendship", "Guilt and grief", "Accepting help"], "confidence": "high", "evidence": "\"How is it that I never knew?\" and \"the relief that comes from letting others help you\"."},
+ "subject_matter": {"value": "A girl recalls her popular best friend Cindy, who changed, began smoking and drinking, and killed herself at fifteen, leaving a note revealing her father's sexual abuse; the narrator later scatters her ashes at sea.", "confidence": "high", "evidence": "\"As the suicide note explained\" and \"I opened the lid and set my friend free.\""}
+},
+"IC-0027": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play script with a character list, the scene \"A subway platform bench\", MAN and VAGABOND labels and stage directions."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A stranger sincerely pleads with a suicidal man: \"Please reconsider.\""},
+ "content_warnings": {"value": ["Suicide"], "confidence": "high", "evidence": "The man has arranged to be buried (\"If you don't respond, I take the shovel and I bury you.\") and the vagabond recalls \"when I finally decided I was going to kill myself\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two contrasting characters, one flat with weariness and one searching, with overlapping lines and an emotional confession."},
+ "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control", "Physicality"], "confidence": "high", "evidence": "The notes define \"A Pause is one second long\" and silences, the two voices are described distinctly, and business includes \"(pulling out an envelope from his pocket)\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Suicide plans and a past suicide attempt are discussed directly, with some profanity."},
+ "themes": {"value": ["Suicide prevention", "Hope and despair", "Kindness of strangers", "What makes life worth living"], "confidence": "high", "evidence": "\"Suicide isn't a solution.\" and \"A sub and a skyline did that for me.\""},
+ "subject_matter": {"value": "On a subway bench, a homeless stranger hired to bury a man who plans to die tries to talk him out of it, sharing how a stranger's sandwich and a skyline stopped his own suicide.", "confidence": "high", "evidence": "\"I'm gonna go to the place at sunrise\" and \"he hands me this sub and walks off.\""}
+},
+"IC-0028": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with BRI and SHEILA labels, direct address \"(To audience)\" and stage directions such as \"(Sheila mimes holding a baby)\"."},
+ "tone": {"value": ["Ironic", "Bittersweet", "Dark"], "confidence": "high", "evidence": "The parents act out comic sketches of doctors (\"zis baby off yours\") about their brain-damaged daughter, and it ends with Bri quietly leaving."},
+ "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "Disability slurs are used throughout, e.g. \"a very intelligent spastic\", \"one kind of cripple\" and \"a kind of living parsnip\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two performers who also play a GP, a German pediatrician in a \"music-hall German accent\" and a vicar, repeatedly breaking in and out of character."},
+ "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Written accent such as \"Vell, mattam, zis baby\", sketch roles, and business like \"shakes it like a piggy-bank\" and \"Begins hurriedly putting various objects into his pockets\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Dated disability slurs and dark humour about a disabled child appear, without violence or explicit content."},
+ "themes": {"value": ["Raising a disabled child", "Humour as coping", "Faith versus despair", "Guilt and blame", "A marriage under strain"], "confidence": "high", "evidence": "\"I join in these jokes to please him\" and \"He lives with despair.\""},
+ "subject_matter": {"value": "A couple raising a severely brain-damaged daughter re-enact in comic sketches the birth, the doctors and the vicar, revealing her hope and his despair, before he packs a case and leaves.", "confidence": "high", "evidence": "\"So I've shaved and washed and packed a case\" and \"Do you know vot I mean ven I say your daughter vos a wegetable?\""}
+},
+"IC-0029": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with a character list, the setting \"The Rowen homestead in Eastern Kentucky, 1792\", STAR and PATRICK labels and stage directions."},
+ "tone": {"value": ["Serious"], "confidence": "high", "evidence": "A tense family scene in which a mother turns her son against his father: \"'Cause he hates you.\""},
+ "content_warnings": {"value": ["Abuse", "Violence"], "confidence": "medium", "evidence": "Star is \"a Cherokee woman kidnapped by Michael Rowen\" with a \"scarred calf\", Patrick fears Michael will \"skin you alive\", Star \"cuffs him\", and she likens Patrick to a dog that \"licks the hand that beats him\"."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two characters with written frontier dialect (\"It don't embarrass me\") and Cherokee phrases (\"Ostas hindhalid?\"), building from banter to confrontation."},
+ "performance_demands": {"value": ["Dialect", "Character Differentiation", "Physicality"], "confidence": "high", "evidence": "Dialect such as \"Tonight mebbe\", Cherokee lines for Star, and business like \"He begins to knead her scarred calf\" and \"(She cuffs him.)\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Kidnapping, maiming and threats are referred to rather than depicted."},
+ "themes": {"value": ["Land and inheritance", "Father and son conflict", "Cultural identity", "Manipulation", "Love versus ambition"], "confidence": "high", "evidence": "\"It's the only thing that lasts.\" and \"Not to forget who you are, that is the point.\""},
+ "subject_matter": {"value": "On a 1792 Kentucky homestead, Patrick asks his Cherokee mother Star to help him marry a neighbor's daughter, and she tells him his father has another family and will never give him his share of the land.", "confidence": "high", "evidence": "\"Talk to him for me. 'Bout us.\" and \"He got a woman down there.\""}
+},
+"IC-0030": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A short story from the anthology Speaking with the Angel told in paragraphs by a single fictional narrator labelled COOK."},
+ "tone": {"value": ["Ironic", "Dark"], "confidence": "high", "evidence": "The cook fusses over menus for the condemned (\"more as a snack than a proper supper\") while describing child killers and executions."},
+ "content_warnings": {"value": ["Death", "Violence", "War/Trauma"], "confidence": "high", "evidence": "The cook describes executions \"directly after midnight\", a sniper who killed \"Eleven little ones\" and three mothers, and a man who \"killed his children, four of them\" with a rifle."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One chatty voice, but the performer must play the gap between homely detail and horror, ending on \"he hadn't touched it.\""},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mass killings of children and executions are reported matter-of-factly rather than in graphic detail."},
+ "themes": {"value": ["Capital punishment", "Dignity and humanity", "Ordinariness amid horror", "Evil and forgiveness"], "confidence": "high", "evidence": "\"at least we can give them their dignity at the end\" and \"there just seems to be more wickedness generally\"."},
+ "subject_matter": {"value": "A prison cook who prepares last meals for death-row inmates chats about menus, the crimes of the condemned and her neighbor's disapproval, and is unsettled when a young killer leaves his meal untouched.", "confidence": "high", "evidence": "\"The meal goes up at 8:00 and the executions are directly after midnight.\""}
+},
+"IC-0031": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A true first-person story from The Moth collection (\"It was the 1980s and I finally got up the nerve to look for a job.\")."},
+ "tone": {"value": ["Earnest", "Ironic"], "confidence": "medium", "evidence": "Comic naivety (\"maybe I should take up sewing\") about a Klan robe gives way to the sincere \"I could change the little piece of the world that I was in\"."},
+ "content_warnings": {"value": ["Discrimination/Slurs", "Death"], "confidence": "high", "evidence": "The narrator finds a manifesto on \"the superiority of the white race\" in \"the home of an honest-to-Ggod Klansman\", and the dying patient \"had passed away\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator plus the hostile woman (\"Go away! I don't want you here!\"), moving from comedy to fear to reflection."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Directions such as \"(peering through a partially open door and in blatant disgust)\" and \"(picks up the phone)\" and the panicked \"cleaning, cleaning!\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Racism and a dying patient are depicted, with mild profanity, but nothing graphic or sexual."},
+ "themes": {"value": ["Racism and prejudice", "Compassion across hatred", "Dignity in work", "Changing one's small world"], "confidence": "high", "evidence": "\"I am not going to let a little racism stand in my way.\" and \"our lives touched\"."},
+ "subject_matter": {"value": "A young Black home health aide in the 1980s is assigned to a dying man, realizes he is a Klansman, cares for him anyway, and earns his wife's gratitude.", "confidence": "high", "evidence": "\"it finally hits me that I am in the home of an honest-to-Ggod Klansman, and I am black.\""}
+},
+"IC-0032": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "Scenes from the novel Live to Tell with first-person narration (\"My gaze goes instinctively to the drying rack\") and dialogue assigned to VICTORIA, EVAN and MICHAEL."},
+ "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "An eight-year-old threatens \"I will kill you quickly, with a knife\" and the parents confront the aftermath of the stabbing."},
+ "content_warnings": {"value": ["Violence", "Mental Health"], "confidence": "high", "evidence": "Evan threatens and stabs his mother (\"he stabbed his own mother\", \"Blood is sticky. Warm.\") and is placed on a \"pediatric psych word\" after \"a psychotic break\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Three characters including a child who flips persona (\"Change of persona\") between \"I just want my mommy\" and \"Next time I will carve out your heart!\""},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Directions such as \"(smiles gleefully)\", \"(motions to his mother's throat)\" and Evan's shift \"softly then growing in intensity\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A child's detailed threats and stabbing of his mother, with profanity, are in the performance text."},
+ "themes": {"value": ["Childhood mental illness", "A mother's love and denial", "Family breakdown", "Fear and violence at home"], "confidence": "high", "evidence": "\"your denial is destroying our soon\" and \"No matter what, Evan is my son\"."},
+ "subject_matter": {"value": "A mother sedates her violent eight-year-old son after his death threats, wakes in hospital after he stabs her, and is confronted by her ex-husband, who has had the boy committed.", "confidence": "high", "evidence": "\"Meet Evan, my son. He is eight years old.\" and \"Evan's now a patient.\""}
+},
+"IC-0033": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A middle-grade novel narrated in first-person paragraphs (\"I just want to say, right off the bat\")."},
+ "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Funny memories (\"a monkey did it\") sit beside loss, ending with \"MICK HARTE WAS HERE.\""},
+ "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "The narrator's brother dies in a bike accident (\"he skidded into the back of a passing truck\", \"Mick's gone.\") and the narrator mourns a month later."},
+ "difficulty": {"value": "Beginner", "confidence": "medium", "evidence": "One narrating voice with a clear arc from comic memories to the day of the accident and quiet remembrance."},
+ "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "An accidental death is described gently, without graphic detail or other mature content."},
+ "themes": {"value": ["Sibling love", "Grief and memory", "Regret", "Bike safety"], "confidence": "high", "evidence": "\"I didn't even get to say goodbye.\" and \"I just wanted to tell you about him\"."},
+ "subject_matter": {"value": "A thirteen-year-old recalls her funny younger brother Mick, the day he was killed in a bike accident, and writing his name in wet cement a month later.", "confidence": "medium", "evidence": "\"It was a bike accident.\" and \"wrote, \"MICK HARTE WAS HERE.\"\"."}
+},
+"IC-0034": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "Passages from a novel with page markers (\"(Pg 1-2)\") and third-person narration, divided among NARRATOR, MONSTER, CONOR and MUM."},
+ "tone": {"value": ["Serious", "Bittersweet"], "confidence": "high", "evidence": "A frightening nightmare builds to Conor's confession and the tender \"I don't want you to go.\""},
+ "content_warnings": {"value": ["Grief"], "confidence": "medium", "evidence": "Conor struggles with his mother's coming death (\"I can't stand knowing that she'll go!\") and her fall happens only in his nightmare; no death occurs in the text."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Narrator, monster, boy and mother must be distinguished, with screaming, whispering and a breakdown (\"A moan started in his throat\")."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Directions such as \"(low and threatening)\", \"(screaming in terror)\" and \"(drops to his knees, struggling to stand; he yells)\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A parent's terminal illness and a nightmare fall are intense but not graphic."},
+ "themes": {"value": ["Anticipatory grief", "Guilt and truth", "Letting go", "Mother and son", "Facing fear"], "confidence": "high", "evidence": "\"You let her go.\" and \"by doing so, he could finally let her go.\""},
+ "subject_matter": {"value": "A yew-tree monster forces Conor to relive his nightmare of his mother falling from a cliff and admit he wants her illness to be over, before he holds her in her hospital bed.", "confidence": "high", "evidence": "\"Conor O'Malley, I did not come to heal her, I came to heal you.\""}
+},
+"IC-0035": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play scene with THAMI and ISABEL labels and stage directions such as \"(THAMI waiting. ISABEL arrives.)\"."},
+ "tone": {"value": ["Serious"], "confidence": "high", "evidence": "Two students confront a teacher's killing with grief and anger: \"his death is the ugliest thing I have ever known.\""},
+ "content_warnings": {"value": ["Violence", "Death", "Grief", "Discrimination/Slurs", "War/Trauma"], "confidence": "high", "evidence": "A mob \"struck him over the head with an iron rod before setting him on fire\", Isabel mourns him, and Thami describes apartheid's injustice (\"There is no justice for black people in this country\") and executions (\"have been hanged\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two characters sustain a very wide emotional range, from Isabel's \"Fighting hard for self-control\" to Thami's \"full authority of the anger inside him\"."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Two contrasting voices, outbursts such as \"Stop it, Isabel!\", and business like opening \"a crumpled little piece of newspaper\" with \"unsteady hands\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "A mob killing by beating and burning, and political executions, are described in the performance text."},
+ "themes": {"value": ["Apartheid and resistance", "Betrayal and loyalty", "Political violence", "Grief and guilt", "Friendship across race"], "confidence": "high", "evidence": "\"He betrayed us and our fight for freedom.\" and \"Too late.\""},
+ "subject_matter": {"value": "In apartheid South Africa, Thami tells his white friend Isabel that their teacher Mr. M was killed by a mob for informing to police, admits he was there, and says he is leaving to join the movement.", "confidence": "high", "evidence": "\"He went to the police and gave them the names\" and \"I'm going to join the movement.\""}
+},
+"IC-0036": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A solo performance text from a theatre anthology with stage directions such as \"(Knocking is heard on tomb door.)\" and \"(Nefert-iti dies.)\"."},
+ "tone": {"value": ["Ironic", "Dark"], "confidence": "medium", "evidence": "Campy quips (\"Tough noogies!\") about queenship slide into despair and suicide: \"Don't leave me here to die alone!\""},
+ "content_warnings": {"value": ["Suicide", "Death", "Sexual Content"], "confidence": "high", "evidence": "The queen \"(Drinks poison.\" and dies, recalls \"three lovely more have died\", and makes sexual references such as \"Min's phallic treasures\" and \"couldn't turn a trick in Boy's Town\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One performer sustains one-sided exchanges with unseen visitors, singing and very rapid swings from vanity to rage to despair (\"I hate you! I hate you!\")."},
+ "performance_demands": {"value": ["Vocal Variety", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Business such as \"(Picks up hand mirror and looks into it.)\" and playing the dulcimer, timed against repeated knocking and \"(Listens at tomb door.)\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "An on-stage suicide by poison and sexual references are in the performance text."},
+ "themes": {"value": ["Isolation and abandonment", "Vanity and aging", "Faith and loss of faith", "Legacy and being remembered", "Love and rejection"], "confidence": "high", "evidence": "\"No one will remember who I am!\" and \"I have been abandoned!\""},
+ "subject_matter": {"value": "Queen Nefertiti, barricaded in her tomb, rebuffs her sister and her lover Bek at the door, rails at her father and her god Aten, and finally drinks poison and dies.", "confidence": "high", "evidence": "\"I won't go back to Memphis-I won't! You can't make me!\" and \"I curse the name of the Aten.\""}
+},
+"IC-0037": {
+ "literary_form": {"value": "Poetry", "confidence": "high", "evidence": "A poem from Ani DiFranco: Verses set in short lowercase lines such as \"us people are just poems\" and \"we're 90% metaphor\"."},
+ "tone": {"value": ["Satirical", "Serious"], "confidence": "high", "evidence": "The poem mourns 9/11 while mocking politicians and media (\"every jackass newscaster was struck dumb\")."},
+ "content_warnings": {"value": ["Death", "Violence", "War/Trauma", "Substance Use"], "confidence": "medium", "evidence": "The poem describes victims who \"jumped into the sky\", a city that \"looked more like war\", \"3000 some poems disguised as people\" and bars where \"the whiskey is flowin\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice, but it must carry dense rhyme and rhythm and shift from elegy to political anger to the hushed \"sshhhhhh....\" ending."},
+ "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety"], "confidence": "high", "evidence": "Spoken-word repetition and rhythm such as \"so far so far so far\" and \"perpetuate retribution\" drive the piece."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Mass death on 9/11 is described and the text uses strong profanity and a crude sexual image (\"pull its big dick out of the sand\")."},
+ "themes": {"value": ["September 11 attacks", "American foreign policy", "Media and propaganda", "Democracy and dissent", "Collective responsibility"], "confidence": "high", "evidence": "\"we hold these truths to be self evident\" and \"to make sure they didn't die in vain\"."},
+ "subject_matter": {"value": "A poet recalls the collapse of the World Trade Center on September 11, 2001, then toasts the world's oppressed, attacks the Bush administration, oil and retribution, and calls listeners to make the deaths meaningful.", "confidence": "high", "evidence": "\"that the whole world turned just to watch it fall\""}
+},
+"IC-0038": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play scene with BEVERLY and MARK speaker labels."},
+ "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "Beverly's drunken wisecracks (\"Amazing what you can do with a coffin\") cover a raw confrontation over a dying man."},
+ "content_warnings": {"value": ["Substance Use", "Sexual Content"], "confidence": "medium", "evidence": "Beverly is drunk (\"He's dying. I'm drunk.\") and \"very stoned\", and Mark recalls prostitution (\"selling it down on Market Street\"); Brian is terminal but does not die in the scene."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two characters trading barbs, with Beverly shifting from tipsy comedy to cruelty and tenderness and Mark from hostility to breaking down."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "A drunk, flippant Beverly against an angry Mark, whose speech rises to \"We are dying here lady\" and falls to \"Please . . . I don't want him to die.\""},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Drunkenness, drug references, prostitution and crude bodily detail (\"the mucous and the blood and the piss\") appear in the performance text."},
+ "themes": {"value": ["Caring for the dying", "Love and obligation", "Hope and denial", "Jealousy", "Anticipatory grief"], "confidence": "high", "evidence": "\"Don't hurt him with your hope.\" and \"One human being who cares.\""},
+ "subject_matter": {"value": "At a hospice cottage, a dying man's drunk ex-wife meets his younger partner and caregiver, and the two clash over Brian's illness and what each owes him before she leaves without seeing him.", "confidence": "high", "evidence": "\"I'm looking for Brian\" and \"Tell Brian goodbye for me\"."}
+},
+"IC-0039": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with CHRISTINA, BRETT and MR. GLENN labels and stage directions such as \"(All of them gasp in horror)\"."},
+ "tone": {"value": ["Satirical", "Dark"], "confidence": "high", "evidence": "Pushy parenting is mocked as a mother coos \"Use the roundies, honey. Not the sharpies\" while her toddler attacks classmates."},
+ "content_warnings": {"value": ["Violence", "Death"], "confidence": "medium", "evidence": "The toddler stabs and bites other children (\"He's going for the scissors!\", \"Oh, that's the entire ear!\") and apparently kills one (\"He knew exactly where the heart was.\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Three characters reacting in rapid overlapping lines to unseen action, with comic timing that escalates from bickering to horror."},
+ "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control", "Physicality"], "confidence": "high", "evidence": "Three distinct voices, timed \"(Long pause)\" beats, and business such as \"Brett makes a dash for her purse\" and Mr. Glenn \"recoiling in terror\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "The violence is absurd, off-stage and reported in comic reactions rather than graphically described."},
+ "themes": {"value": ["Competitive parenting", "Parental denial", "Pressure on young children", "Winning at all costs"], "confidence": "high", "evidence": "\"there are winners and there are losers\" and \"kill the competition\"."},
+ "subject_matter": {"value": "Parents watching their toddler's preschool admission play-date through a one-way window argue over what they told him, then watch him violently attack the other children while his mother insists he is being generous.", "confidence": "high", "evidence": "\"That's a one-way window -- or mirror.\" and \"He's taken my cellphone!\""}
+},
+"IC-0040": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Scirocco Drama play with ALAN and MOIRA labels, scene settings such as \"A waiting room, the Princess Margaret Hospital\" and stage directions."},
+ "tone": {"value": ["Bittersweet", "Ironic"], "confidence": "high", "evidence": "Gallows humour (\"One Hundred and One Lines to Pick Up a Cancer Patient\") gives way to \"That I'm going to die.\""},
+ "content_warnings": {"value": ["Sexual Content"], "confidence": "medium", "evidence": "The pair joke about sex (\"Is that what sex is with you? Banging?\"); Moira learns she is terminal but does not die in the text."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two characters across four scenes, moving from flirtatious banter to anger, singing, a seizure and fear."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Business such as \"she begins to vomit\" and \"falls, convulsing in a seizure\", plus Alan singing Moonshadow."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Terminal illness and joking sexual references appear without explicit or graphic content."},
+ "themes": {"value": ["Young adults with cancer", "Humour as coping", "Intimacy and touch", "Facing mortality", "Love in illness"], "confidence": "high", "evidence": "\"So, what do you want to be when you grow up?\" \"Alive.\" and \"I have days when I can't be touched\"."},
+ "subject_matter": {"value": "Two young cancer patients meet in a radiation waiting room, bond through dark jokes over coffee and a church visit, and after Moira's seizure she tells Alan her tumor has spread and she will die soon.", "confidence": "high", "evidence": "\"We're cancer patients, not historians\" and \"mine has.\""}
+}
+}

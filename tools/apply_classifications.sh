@@ -6,7 +6,7 @@
 # reply and its report are also archived in data/classifications/ by classify.py.
 set -u
 cd "$(dirname "$0")/.."
-git pull -q
+git pull -q --rebase
 mkdir -p data/classification_replies/applied reports
 shopt -s nullglob
 files=(data/classification_replies/*.json)
@@ -24,4 +24,4 @@ if [ ${#files[@]} -eq 0 ]; then echo "No replies waiting."; exit 0; fi
 } 2>&1 | tee reports/apply_classifications.log
 grep -c "REJECTED" reports/apply_classifications.log | sed 's/^/rejected values (listed above, not applied): /'
 git add -A && git commit -q -m "Classifications applied: $(grep -c '^== data/classification_replies' reports/apply_classifications.log) reply file(s)" \
-  && git push -q && echo "pushed the classifications." || echo "!!!!! THE PUSH FAILED - copy the lines above and send them"
+  && git pull -q --rebase && git push -q && echo "pushed the classifications." || echo "!!!!! THE PUSH FAILED - copy the lines above and send them"

@@ -5,7 +5,7 @@
 set -u
 cd "$(dirname "$0")/.."
 mkdir -p reports
-git pull -q
+git pull -q --rebase
 {
   echo "== ingest of incoming/ started $(date -u '+%F %T') UTC"
   python3 -u pipeline/ingest.py --incoming --keep-going
@@ -14,4 +14,4 @@ git pull -q
   echo "== finished $(date -u '+%F %T') UTC"
 } 2>&1 | tee reports/ingest_incoming.log
 bash tests/run_all.sh
-git add -A && git commit -q -m "Ingest of incoming/: $(grep -m1 'files given' reports/ingest_incoming.log)" && git push -q && echo "pushed the ingest." || echo "!!!!! THE PUSH FAILED - copy the lines above and send them"
+git add -A && git commit -q -m "Ingest of incoming/: $(grep -m1 'files given' reports/ingest_incoming.log)" && git pull -q --rebase && git push -q && echo "pushed the ingest." || echo "!!!!! THE PUSH FAILED - copy the lines above and send them"

@@ -5,7 +5,7 @@
 set -u
 cd "$(dirname "$0")/.."
 mkdir -p reports
-git pull -q
+git pull -q --rebase
 {
   echo "== corrections started $(date -u '+%F %T') UTC"
   echo; echo "== filing labels"
@@ -15,4 +15,4 @@ git pull -q
   echo "== finished $(date -u '+%F %T') UTC"
 } 2>&1 | tee reports/fix_after_ingest.log
 bash tests/run_all.sh
-git add -A && git commit -q -m "Corrections after the ingest: $(grep -m1 'corrected' reports/fix_after_ingest.log)" && git push -q && echo "pushed the corrections." || echo "!!!!! THE PUSH FAILED - copy the lines above and send them"
+git add -A && git commit -q -m "Corrections after the ingest: $(grep -m1 'corrected' reports/fix_after_ingest.log)" && git pull -q --rebase && git push -q && echo "pushed the corrections." || echo "!!!!! THE PUSH FAILED - copy the lines above and send them"

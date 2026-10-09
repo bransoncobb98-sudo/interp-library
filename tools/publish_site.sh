@@ -8,7 +8,7 @@ cd "$(dirname "$0")/.."
 SITE_REPO="${SITE_REPO:-bransoncobb98-sudo/interp-library-site}"
 CLONE="../interp-library-site"
 python3 -c "import cryptography" 2>/dev/null || pip install --user -q -r requirements.txt
-git pull -q
+git pull -q --rebase
 if [ ! -d "$CLONE/.git" ]; then
   git clone -q "https://github.com/$SITE_REPO.git" "$CLONE" || {
     echo "!!!!! Could not open $SITE_REPO. Create it on GitHub (public, empty), then rebuild this Codespace so it may write to it."; exit 1; }

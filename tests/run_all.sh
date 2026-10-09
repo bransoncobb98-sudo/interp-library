@@ -19,6 +19,6 @@ STEPS=("pipeline/build.py" "tests/verify_ingest.py" "pipeline/qc_scan.py" "pipel
 } 2>&1 | tee tests/last_run.txt
 status=${PIPESTATUS[0]}
 if [ "${1:-}" = "--push" ]; then
-  git add -A && git commit -q -m "Codespace run: $(tail -1 tests/last_run.txt)" && git push -q && echo "pushed."
+  git add -A && git commit -q -m "Codespace run: $(tail -1 tests/last_run.txt)" && git pull -q --rebase && git push -q && echo "pushed."
 fi
 exit $status

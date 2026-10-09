@@ -1,0 +1,396 @@
+{
+ "IC-0201": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "First-person survivor testimony from a published collection of Rwandan accounts, beginning \"Born:1975 (day and month unknown)\"."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "A sober account of massacre and rape, for example \"Out of three hundred people in the church, only five had survived.\""},
+  "content_warnings": {"value": ["Death", "Violence", "Sexual Assault", "War/Trauma", "Discrimination/Slurs"], "confidence": "high", "evidence": "The text recounts killings (\"They had guns and shot all the men\"), repeated rape (\"This soldier raped me\"), genocide, and ethnic hatred (\"They didn't care, because I was Tutsi\")."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice, but it moves from numb recollection (\"I felt completely empty\") to anger (\"We need justice\")."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Rape, massacre and beatings are described directly in the performance text."},
+  "themes": {"value": ["Genocide survival", "Sexual violence in war", "Justice and forgiveness", "Ethnic hatred", "Resilience"], "confidence": "high", "evidence": "\"I don't think I can forgive\" and \"We need justice.\""},
+  "subject_matter": {"value": "A Tutsi woman recounts surviving the 1994 Rwandan church massacre, repeated rape by soldiers, HIV infection and her demand for justice in the gacaca courts.", "confidence": "high", "evidence": "\"the Catholic church of Mboza\" and \"Gacaca courts do not bring justice.\""}
+ },
+ "IC-0202": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with stage directions such as \"Lights up on an empty bedroom\" and the speaker label MILLIE."},
+  "tone": {"value": ["Bittersweet", "Lighthearted"], "confidence": "medium", "evidence": "Comic banter (\"I am almost too tired to laugh\") sits beside the strain of caring for a husband with seizures."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "Illness, seizures and mild innuendo (\"moving his meat to the beat\") appear, but no listed category is depicted in the text."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Written dialect, a dream-like flashback (\"Almost as If in a dream\") and a frenzied seizure crisis demand a wide range."},
+  "performance_demands": {"value": ["Dialect", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Dialect such as \"They done smashed up my car\" plus stated business like \"Begins to apply make-up\" and searching for tongue depressors."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Only mild innuendo and language such as \"hell no\"; nothing graphic."},
+  "themes": {"value": ["Caregiver exhaustion", "Marital devotion", "Desire for a life of one's own", "Illness and endurance"], "confidence": "high", "evidence": "\"I can't do this no more!\" and \"Cause you're my Honey, and I'm your Sugar.\""},
+  "subject_matter": {"value": "Millie dresses for a night out while talking to her bedridden husband after years of caring for him, then must respond when he has another seizure.", "confidence": "high", "evidence": "\"Honey is having a seizure\" and \"I got all of Saturday night just waiting\"."}
+ },
+ "IC-0203": {
+  "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A documentary play from House Arrest, laid out in short lines with stage directions such as \"(Whispering, crying.)\"."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "A mother's confession of her daughter's killing: \"The next morning she was dead.\""},
+  "content_warnings": {"value": ["Death", "Violence", "Abuse", "Substance Use"], "confidence": "high", "evidence": "\"he started beating her\" leads to \"I knew immediately that she was dead\", after years of \"black eyes and busted lips\", and they came home \"from getting drugs\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice, but it shifts into whispering and crying as written in \"(Whispering, crying.)\"."},
+  "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety"], "confidence": "medium", "evidence": "Broken lines and directions like \"(Hear her getting the slightest bit tired here.)\" shape the delivery."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "The beating death of a child and the disposal of her body are described directly."},
+  "themes": {"value": ["Domestic abuse", "Maternal guilt", "Complicity and silence", "Secrecy"], "confidence": "high", "evidence": "\"And I failed them.\" and \"I had been keeping it a secret\"."},
+  "subject_matter": {"value": "An incarcerated mother recounts how her boyfriend beat her daughter to death and how she helped him hide the crime.", "confidence": "high", "evidence": "\"took a mirror to her mouth\" and \"we told the police that she had been missing\"."}
+ },
+ "IC-0204": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with a character list and stage directions such as \"[RUTH turns to SIMONE.]\"."},
+  "tone": {"value": ["Ironic", "Serious"], "confidence": "medium", "evidence": "Simone's flippancy (\"I read the back covers\") turns into an implied tragedy the teacher missed."},
+  "content_warnings": {"value": ["Suicide", "Death"], "confidence": "medium", "evidence": "The exam answers discuss \"Anna's throwing herself in front of the train\" and Ruth implies Simone's death: \"Worlds where the dead can speak\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two contrasting characters plus narration and heavy subtext that only lands at the end."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "high", "evidence": "Two labelled speakers trade rapid lines, with marked beats such as \"[Beat.]\" and the repeated final question \"Am I? Am I?\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "low", "evidence": "Suicide is discussed and implied, though not graphically."},
+  "themes": {"value": ["Teacher-student disconnect", "Missed signs of despair", "Literature and life", "Worth and value"], "confidence": "medium", "evidence": "\"Do you think I'm worth it?\" and \"If you don't see the connection between books and life\"."},
+  "subject_matter": {"value": "A literature professor recalls a failing, provocative student who came to her office before the final, and the cryptic blue book the student later handed in.", "confidence": "high", "evidence": "\"She wanted me to give her a passing grade\" and \"In the blue book she had written\"."}
+ },
+ "IC-0205": {
+  "literary_form": {"value": "Mixed", "confidence": "medium", "evidence": "The program joins the prose-paragraph \"Missing Natalie\" to the lineated poem \"Victim\" with a factual transition."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "It ends with an abducted girl's execution: \"The last thing I hear is a click.\""},
+  "content_warnings": {"value": ["Violence", "Death", "Grief", "Substance Use"], "confidence": "high", "evidence": "\"bangs my head against the door\", \"a shotgun pressed between them\", a twin's long mourning for her sister, and a father who \"drinks alone now sometimes\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two different narrators, the surviving twin and the victim in the trunk, with a sharp shift into terror."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Two speakers plus short lineated beats such as \"I'll never get married.\""},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Abduction, violence, a killing and profanity occur in the text."},
+  "themes": {"value": ["Child abduction", "Loss of a twin", "Unresolved grief", "Fear and helplessness"], "confidence": "high", "evidence": "\"Someone stole my sister\" and \"We just want to know what happened.\""},
+  "subject_matter": {"value": "A woman whose twin sister vanished from a supermarket at nine describes her family's grief, followed by a poem voicing an abducted girl's last hours.", "confidence": "high", "evidence": "\"She's frozen at nine\" and \"I'm in the trunk.\""}
+ },
+ "IC-0206": {
+  "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A novel cutting with page markers such as \"(Pg 34)\"; the added speaker labels do not make it a play."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Grief over Devon ends in the hopeful \"We made something good and strong and beautiful.\""},
+  "content_warnings": {"value": ["Death", "Grief", "Violence", "War/Trauma"], "confidence": "high", "evidence": "\"A gunshot wound to the Heart is almost always fatal\" refers to a school shooting with \"the murders of teacher Roberta Schneider\", and the family mourns Devon."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Many characters and a narrator with Asperger's whose emotions surface in outbursts like \"I GET IT! I GET IT!\"."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Several labelled speakers and stated business such as \"I start shaking my hands\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A school shooting death is central but described without graphic detail."},
+  "themes": {"value": ["Grief and closure", "Autism and empathy", "Sibling love", "Father-daughter healing"], "confidence": "high", "evidence": "\"Now you know what it's like to feel for other people.\""},
+  "subject_matter": {"value": "Ten-year-old Caitlin, who has Asperger's, seeks closure after her brother is killed in a school shooting by finishing his Eagle Scout chest with her father.", "confidence": "high", "evidence": "\"I want to finish the chest. I want to get to Closure.\""}
+ },
+ "IC-0207": {
+  "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A monologue from the documentary play Another American: Asking and Telling, with the label MOM and a \"(BEAT)\" direction."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A mother's plain account of identifying her son: \"I couldn't hold that body.\""},
+  "content_warnings": {"value": ["Death", "Grief", "Violence", "Discrimination/Slurs", "Substance Use"], "confidence": "high", "evidence": "\"Terry Helvey's shoeprint was embedded in my son's face\", the son was killed \"because he was gay\", and the killer \"was drunk\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice moving from shock to anger (\"I would slap him in the face\") to a gentle ending."},
+  "performance_demands": {"value": ["Pacing/Timing Control"], "confidence": "medium", "evidence": "Halting speech such as \"he also kil--kicked Allen\" and a marked \"(BEAT)\" drive the rhythm."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "A brutal hate-crime killing and the state of the body are described."},
+  "themes": {"value": ["Anti-gay violence", "A mother's grief", "Institutional silence", "Faith and condemnation"], "confidence": "high", "evidence": "\"The Navy wouldn't tell me\" and \"he just preaches so much hatred\"."},
+  "subject_matter": {"value": "The mother of a gay sailor beaten to death by shipmates recalls learning of his death, identifying his body by a tattoo, and a sign she believes came from him.", "confidence": "high", "evidence": "\"they would roll up the sleeve and see if his tattoo was there\"."}
+ },
+ "IC-0208": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "An audition monologue with stage directions such as \"(Laughs nervously.)\" under the label SARAH."},
+  "tone": {"value": ["Lighthearted", "Dark"], "confidence": "medium", "evidence": "Comic babbling breaks off into hints of abuse: \"What Dad was doing to me.\""},
+  "content_warnings": {"value": ["Abuse"], "confidence": "high", "evidence": "Sarah lets slip \"What Dad was doing to me\" and \"Dad can't do those horrible things anymore\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Rapid swings from jokes to tears, marked by directions such as \"(An abrupt change)\" and \"(Tears in her eyes)\"."},
+  "performance_demands": {"value": ["Vocal Variety", "Physicality", "Dialect", "Pacing/Timing Control"], "confidence": "high", "evidence": "\"(Exaggerated French accent)\", \"Broadly pantomimes playing an accordion\" and abrupt mood shifts."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "low", "evidence": "Abuse by a parent is implied rather than described."},
+  "themes": {"value": ["Escape through acting", "Hidden abuse", "Nervousness and self-doubt", "Ambition"], "confidence": "high", "evidence": "\"if I can play at being someone else\" and \"Why did I want to escape?\""},
+  "subject_matter": {"value": "A nervous seventeen-year-old babbles through her first professional audition, gradually revealing why she left home to live with her grandparents.", "confidence": "high", "evidence": "\"This is the first time I've ever auditioned\" and \"I had to get away\"."}
+ },
+ "IC-0209": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with a character description and stage directions such as \"She lights a cigarette\" under the label DIANE."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "Wry lines like \"Never underestimate the power and excitement of revenge\" frame a story of childhood abuse."},
+  "content_warnings": {"value": ["Sexual Assault", "Abuse", "Sexual Content", "Substance Use", "Violence", "Death"], "confidence": "high", "evidence": "The stepfather would \"pull the covers back and feel my breasts\" \"only when he drank\", her mother \"slapped me halfway across the house\", and \"He died about two weeks later.\""},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "A guarded, ironic narrator who voices her stepfather and mother while masking pain."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Frequent \"(Pause.)\" marks and quoted voices such as \"Diane? Where'd you go, honey?\""},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Child sexual abuse is described explicitly in the performance text."},
+  "themes": {"value": ["Childhood sexual abuse", "Revenge", "Writing as truth-telling", "Family denial"], "confidence": "high", "evidence": "\"writing is the only place I know of where you can tell the truth\"."},
+  "subject_matter": {"value": "A successful writer interviewed by a student reporter in her hometown reveals her stepfather's abuse and the revenge she took on him.", "confidence": "high", "evidence": "\"Where do you get your ideas for stories?\" and \"left him there, hogtied and inscribed\"."}
+ },
+ "IC-0210": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with \"AT RISE\" directions and four labelled speakers in a clinic waiting room."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "medium", "evidence": "Playful chants and games give way to binge eating, assault and \"I wanted to light it on fire.\""},
+  "content_warnings": {"value": ["Self-harm", "Suicide", "Mental Health", "Sexual Assault", "Discrimination/Slurs"], "confidence": "high", "evidence": "Cel cuts herself \"with the kitchen knives\" and attempts suicide by fire (\"So I needed a final solution\"), Rennie binges and purges, she says \"I am saying, Stop\" to a date, and Carly is refused work as \"a woman of your stature\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Four distinct women, choral passages and three long monologues with very different energies."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Four labelled speakers, choreographed business (\"flip magazine pages in an otherwordly, choreographed little dance\") and whistle cues."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Self-harm, sexual assault, eating disorders and strong profanity appear in the text."},
+  "themes": {"value": ["Body image", "Eating disorders", "Weight discrimination", "Mothers and daughters", "Self-punishment"], "confidence": "high", "evidence": "\"You're too fat for steak\" and \"Our mothers all taught us the same thing.\""},
+  "subject_matter": {"value": "Four women waiting at a liposuction clinic share memories of shame about their bodies, from binges and humiliating job interviews to self-harm.", "confidence": "high", "evidence": "\"he leaves me this liposuction ad\" and \"hospital gowns fly in\"."}
+ },
+ "IC-0211": {
+  "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "First-person narrative fiction in paragraphs told by Mary, opening \"OPENING THE SHUTTERS I STARE\"."},
+  "tone": {"value": ["Earnest", "Serious"], "confidence": "high", "evidence": "A reverent account of the crucifixion that ends in faith: \"Through him I too can call God 'Father.'\""},
+  "content_warnings": {"value": ["Violence", "Death", "Grief"], "confidence": "high", "evidence": "\"His lips are a bloody pulp\", \"They strip him and nail him to a cross\", Herod's order that boys \"be put to death\", and \"spasms of grief rack my tortured soul\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator who voices Salome, Simeon and the crowd within a long emotional arc."},
+  "performance_demands": {"value": ["Vocal Variety"], "confidence": "low", "evidence": "The narrator quotes several voices, from Simeon to the crowd screaming \"Crucify him!\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "The crucifixion wounds are described, but within a familiar religious narrative."},
+  "themes": {"value": ["A mother's suffering", "Faith amid grief", "Prophecy fulfilled", "Sacrifice"], "confidence": "high", "evidence": "\"A sword will pierce your own soul too.\""},
+  "subject_matter": {"value": "Mary, mother of Jesus, recalls his birth and life the night before his arrest, then witnesses his trial and crucifixion.", "confidence": "high", "evidence": "\"I was just thinking of the night Jesus was born\" and \"There they crucify him.\""}
+ },
+ "IC-0212": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with a character note and stage directions such as \"(pinches herself, then reacts)\"."},
+  "tone": {"value": ["Bittersweet", "Whimsical"], "confidence": "high", "evidence": "An imaginary crying monster comforts a girl who says \"I'm going to be watching him from Heaven\"."},
+  "content_warnings": {"value": ["Death"], "confidence": "medium", "evidence": "Her pet lizard dies (\"He was dead\"); Stella's own terminal illness is faced but she does not die in the text."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One child voice that shifts from fast chatter to quiet fear (\"long pause, softly\")."},
+  "performance_demands": {"value": ["Vocal Variety", "Physicality", "Pacing/Timing Control"], "confidence": "medium", "evidence": "\"She often speaks quickly\" plus business such as \"peeks under her bed, then whispers\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "A child's terminal illness is handled gently with no graphic content."},
+  "themes": {"value": ["Childhood illness", "Imaginary friends", "Facing death", "Courage and fear"], "confidence": "high", "evidence": "\"a cancer that kids don't get better from\" and \"I don't have to be afraid\"."},
+  "subject_matter": {"value": "A nine-year-old with leukemia describes the crying monster under her bed who became her friend and helps her face dying.", "confidence": "high", "evidence": "\"under my bed, there's a monster\" and \"Acute Lymphoblastic Leukemia\"."}
+ },
+ "IC-0213": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with many labelled speakers and directions such as \"(Pantomimes preparations for an elaborate tea party)\"."},
+  "tone": {"value": ["Dark", "Whimsical"], "confidence": "medium", "evidence": "Childish games of House and Doctor turn into a drunken, violent fantasy father."},
+  "content_warnings": {"value": ["Violence", "Abuse", "Substance Use"], "confidence": "high", "evidence": "\"he hits her in the face\", \"You neglect me\", and \"Have you been drinking?\" with the flask."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One performer moves among Lucy, Mr. Marmalade, Sookie, Emily, George and Larry, including a flashback."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "\"becomes Sookie, Lucy's mother\" and pantomimed business such as the heart transplant."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Domestic violence and drinking are acted out through a child's imaginary friend."},
+  "themes": {"value": ["Imagination as coping", "Parental neglect", "Domestic violence", "Loneliness"], "confidence": "high", "evidence": "\"You neglect me. I deserve a lot better than you\"."},
+  "subject_matter": {"value": "A lonely girl left with a babysitter plays with her busy imaginary friend Mr. Marmalade, whose games come to mirror her absent father's drinking and violence.", "confidence": "high", "evidence": "\"I thought you weren't coming\" and \"I don't want to play House with you anymore.\""}
+ },
+ "IC-0214": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A monologue with a bracketed setting (\"A seedy living room\") and directions such as \"[A long pause.]\"."},
+  "tone": {"value": ["Bittersweet", "Ironic"], "confidence": "high", "evidence": "Devotion and bitterness mix, ending with the barbed \"Thanks for listening...babe.\""},
+  "content_warnings": {"value": ["Substance Use", "Sexual Content"], "confidence": "medium", "evidence": "\"I drink now\", \"enough alcohol in him\", and references to intimacy and his affairs (\"I'd showed George what it was to be intimate\")."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice with a controlled arc from nostalgia to an outburst about \"every goddamn thing he saw\"."},
+  "performance_demands": {"value": ["Pacing/Timing Control"], "confidence": "medium", "evidence": "Repeated \"[A long pause]\" marks and trailing ellipses shape the delivery."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drinking, affairs and mild profanity, without explicit description."},
+  "themes": {"value": ["Fame and its costs", "Infidelity", "Lost identity", "Unrequited devotion"], "confidence": "high", "evidence": "\"My home, my prospects...even my name. Gone.\""},
+  "subject_matter": {"value": "Helen Woodruff Ruth, estranged first wife of Babe Ruth, tells a visitor about meeting him at sixteen, his affairs, their divorce and what she has lost.", "confidence": "high", "evidence": "\"the most famous man in America\" and \"George wanted to divorce me and marry her.\""}
+ },
+ "IC-0215": {
+  "literary_form": {"value": "Poetry", "confidence": "high", "evidence": "A sequence of poems, some lineated (\"The First Ceremony\") and some prose poems, from a poetry collection."},
+  "tone": {"value": ["Dark", "Bittersweet"], "confidence": "high", "evidence": "Imagined funerals grow bleak, then end hopefully: \"I am the least sad I have ever been.\""},
+  "content_warnings": {"value": ["Substance Use", "Grief"], "confidence": "high", "evidence": "\"before heroin became a household name\", \"my brother's mouth filled with more pills\", and a sister who has spent \"so many years preparing for that funeral\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice moving through four contrasting imagined ceremonies."},
+  "performance_demands": {"value": ["Pacing/Timing Control"], "confidence": "medium", "evidence": "Poetic line breaks and repetition such as \"I'm sorry\" set the rhythm."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drug addiction is central but imagery is not graphic beyond \"syringes and vomit\"."},
+  "themes": {"value": ["Addiction in the family", "Anticipatory grief", "Hope for recovery", "Sibling love"], "confidence": "high", "evidence": "\"it's always recovering, never recovered\" and \"let rehab work this time\"."},
+  "subject_matter": {"value": "A sister imagines a series of funerals for her addicted brother, from bleak and empty ones to a final one after a long life in recovery.", "confidence": "high", "evidence": "\"I always write about you as if you are dead\" and \"The Last Ceremony\"."}
+ },
+ "IC-0216": {
+  "literary_form": {"value": "Nonfiction", "confidence": "medium", "evidence": "A first-person account of a Sudanese woman's abduction addressed to Valentino; the WOMAN label does not make it a play."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "Plain, factual narration of atrocities, ending with \"this was God crying with joy.\""},
+  "content_warnings": {"value": ["Violence", "Death", "Sexual Assault", "War/Trauma", "Discrimination/Slurs"], "confidence": "high", "evidence": "\"cut off each of his limbs one by one\", \"He died two weeks after coming home\", \"they raped many of the women\", \"the war was on\", and an order that \"all Dinka girls were to be impregnated\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator with brief quoted voices, sustaining tension to the mother's rescue."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Graphic killing, rape, abduction and profanity appear in the text."},
+  "themes": {"value": ["A mother's courage", "Slavery and abduction", "Civil war in Sudan", "Family loss"], "confidence": "high", "evidence": "\"she was part of the rope now\"."},
+  "subject_matter": {"value": "A woman from southern Sudan recounts militia raids on her family and how her mother followed the raiders and walked beside her captive daughters until they were released.", "confidence": "high", "evidence": "\"The woman was my mother. She had been following our trail.\""}
+ },
+ "IC-0217": {
+  "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A play edited from diaries (\"Taken from the Writings of Rachel Corrie\") with stage directions such as \"(She leaves)\"."},
+  "tone": {"value": ["Earnest", "Serious"], "confidence": "high", "evidence": "Heartfelt letters home such as \"I love you and Dad\" and \"This has to stop.\""},
+  "content_warnings": {"value": ["Death", "War/Trauma", "Violence"], "confidence": "high", "evidence": "\"crushed to death by an Israeli bulldozer\", \"12-year-old girl shot from tower\", and homes with \"tank-shell holes in their walls\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One main voice shifting between diary, letters and notes, plus a brief reporter."},
+  "performance_demands": {"value": ["Character Differentiation"], "confidence": "low", "evidence": "A separate REPORTER voice delivers the eyewitness account at the end."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Deaths and shootings are reported but not dwelt on graphically."},
+  "themes": {"value": ["Activism and conscience", "Life under occupation", "Nonviolent resistance", "Idealism"], "confidence": "high", "evidence": "\"It hurts me to witness how awful we can allow the world to be.\""},
+  "subject_matter": {"value": "American activist Rachel Corrie's diaries and letters describe life in Rafah in 2003, ending with an eyewitness account of her death before a bulldozer.", "confidence": "high", "evidence": "\"I have been in Palestine for two weeks now\" and \"Rachel walked to place herself in between\"."}
+ },
+ "IC-0218": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with a character list and three labelled voices (DAUGHTER, FATHER, MOTHER), written in verse-like lines."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "medium", "evidence": "Hard family history resolves into a proud claim: \"I've got Red / Black hands\"."},
+  "content_warnings": {"value": ["Discrimination/Slurs", "Substance Use", "Death", "Violence"], "confidence": "high", "evidence": "Relatives shout \"NIGGER Girl\" and \"Dark Girl Monkey Girl\", the parents drink \"Vodka Tequila Bourbon\", and a grandmother was \"Lynched\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Three voices, overlapping shared lines and song-based rhythms."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Labelled voices trade fragments such as \"Boom\" and \"Rock the World\" in strict rhythm."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Repeated racial slurs, lynching and alcohol abuse appear in the text."},
+  "themes": {"value": ["Mixed heritage", "Racism and belonging", "Music as identity", "Family alcoholism"], "confidence": "high", "evidence": "\"no such thing as HALF BLACK\" and \"I answer to all the voices\"."},
+  "subject_matter": {"value": "A daughter of a Tlingit-Lakota blues musician and a Black woman from Virginia traces her parents' histories and the rejection she faces from both families.", "confidence": "high", "evidence": "\"My Red Hand it dances\" and \"My Black Hand\"."}
+ },
+ "IC-0219": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A first-person memoir piece about the skater's husband, from a nonfiction anthology."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Loss and tribute together: \"I felt Sergei's spirit was beside me right then.\""},
+  "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "\"But they had lost Sergei\" and \"Your father is dead; he's not coming back.\""},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice moving from romance to sudden loss to recovery."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A sudden death and mourning, with no graphic content."},
+  "themes": {"value": ["Love and partnership", "Sudden loss", "Healing through work", "Gratitude"], "confidence": "high", "evidence": "\"say just one extra time that you love the person\"."},
+  "subject_matter": {"value": "Olympic pairs skater Ekaterina Gordeeva recalls her partnership and marriage with Sergei Grinkov, his death on the ice, and skating alone at his tribute.", "confidence": "high", "evidence": "\"a heart attack on November 20, 1995\" and \"The tribute night arrived.\""}
+ },
+ "IC-0220": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A transcript of a stand-up performance (\"Transcript published only on-line\")."},
+  "tone": {"value": ["Ironic", "Serious"], "confidence": "high", "evidence": "Jokes such as \"Really solved that problem. Tick.\" give way to \"I am not helping you anymore.\""},
+  "content_warnings": {"value": ["Sexual Assault", "Abuse", "Violence", "Discrimination/Slurs"], "confidence": "high", "evidence": "\"two men who raped me\", \"sexually abused me when I was a child\", \"beat the shit out of me\", and the slur \"lady faggot\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Shifts between comic timing and raw anger, marked by \"(Beat, change of subject and a more serious tone)\"."},
+  "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Joke rhythm and marked shifts such as \"(long beat)\" and \"(heavy sigh and then she jumps back in\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Rape, child sexual abuse, a beating, slurs and profanity are in the text."},
+  "themes": {"value": ["Homophobia", "Comedy and trauma", "Shame and self-worth", "Telling one's story"], "confidence": "high", "evidence": "\"Punch lines need trauma\" and \"I want my story. . . heard.\""},
+  "subject_matter": {"value": "Comedian Hannah Gadsby explains why she is quitting self-deprecating comedy, retelling a joke about a homophobic attack with its real, violent ending.", "confidence": "high", "evidence": "\"I do think I have to quit comedy\" and \"he beat the shit out of me\"."}
+ },
+ "IC-0221": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with scene breaks, settings (\"A refugee camp\") and six labelled speakers."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "War testimony such as \"they chop off the heads of my old parents\"."},
+  "content_warnings": {"value": ["Sexual Assault", "Violence", "Death", "War/Trauma", "Mental Health"], "confidence": "high", "evidence": "\"One spreads my legs\", \"they shot them, both of them, right in the head\", \"Bosnian refugees\", and \"She has nightmares almost every night\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Six characters, including Seada's breakdown and Zlata's sarcasm and grief."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Many labelled speakers and business such as \"digging madly at the dirt, pulling her hair\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Wartime rape and killings are described directly."},
+  "themes": {"value": ["Aftermath of war", "Trauma and testimony", "Outsiders as helpers", "Loss of home"], "confidence": "high", "evidence": "\"These women need an outlet for their rage and despair.\""},
+  "subject_matter": {"value": "Two American therapists working in a Bosnian refugee camp meet women resistant to their help until one survivor's story of rape and loss comes out.", "confidence": "high", "evidence": "\"We are here to help you talk about the war\" and \"I have to find Doona!\""}
+ },
+ "IC-0222": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A true personal story from a Moth collection, told by DORI with added speaker labels."},
+  "tone": {"value": ["Earnest", "Serious"], "confidence": "high", "evidence": "Gratitude closes the story: \"May God always bless our America.\""},
+  "content_warnings": {"value": ["War/Trauma", "Violence"], "confidence": "high", "evidence": "\"bomb explosions and missile attacks on a daily basis\" and the father's torture scars, \"three gunshot wounds\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "A narrator plus a few voices (Dad, Officer, Judge) and one climactic emotional turn."},
+  "performance_demands": {"value": ["Character Differentiation"], "confidence": "medium", "evidence": "Labelled lines for DAD, OFFICER and JUDGE beside the narrator."},
+  "audience_level": {"value": "High School", "confidence": "high", "evidence": "War and torture are mentioned but not dwelt on graphically."},
+  "themes": {"value": ["Refugees and asylum", "A father's sacrifice", "Immigration", "Gratitude"], "confidence": "high", "evidence": "\"everything I did, I did to save my children\"."},
+  "subject_matter": {"value": "A daughter translating at her Afghan family's asylum hearing learns her father was tortured, and the judge grants them asylum after he shows his scars.", "confidence": "high", "evidence": "\"My daughter will translate for us\" and \"ASYLUM GRANTED\"."}
+ },
+ "IC-0223": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "Two monologues from a monologue book, with stage directions such as \"(Shifts in her chair.)\"."},
+  "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "Mary's quiet trauma contrasts with Sarah's sarcasm (\"What a dick.\") hiding grief."},
+  "content_warnings": {"value": ["Death", "War/Trauma", "Grief", "Mental Health", "Violence", "Discrimination/Slurs"], "confidence": "medium", "evidence": "\"saw a plane go into a building\", a trapped friend's last call, \"I've been getting panic attacks\", \"I beat the crap out of her\", and the slur \"like, retarded-deranged\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two very different survivors, one restrained and one defensive teen."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Two speakers, business such as \"(Covers her mouth and nose.)\" and timed \"(Beat.)\" marks."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "9/11 deaths and mild profanity, without graphic description."},
+  "themes": {"value": ["Survivor's guilt", "September 11", "Hidden grief", "Family tension"], "confidence": "high", "evidence": "\"Who am I? Why did she call me?\""},
+  "subject_matter": {"value": "Two 9/11 survivors speak: a woman who took a dying classmate's phone call from the tower, and a teenager whose future stepfather died there.", "confidence": "high", "evidence": "\"It was Nina Carmichael\" and \"Dennis got a week's work in Tower One\"."}
+ },
+ "IC-0224": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A solo play with stage directions such as \"Lights up on CHARLAYNE as she mimes jumping rope\"."},
+  "tone": {"value": ["Lighthearted", "Earnest"], "confidence": "medium", "evidence": "Comic memories (\"Allie peed all over the living-room rug\") lead to a sincere lesson about a slur."},
+  "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "high", "evidence": "A classmate chants \"Run, nigger, run\" at the narrator."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "One performer voices Daddy, Mommy, Allie, Barbara and Mrs. Rosenblatt with constant physical business."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "high", "evidence": "Many quoted voices and stated business such as \"Circling the loveseat, which is now the peach tree\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "A racial slur is spoken repeatedly, though the story is otherwise gentle."},
+  "themes": {"value": ["Racism in childhood", "Power of words", "A mother's wisdom", "Self-worth"], "confidence": "high", "evidence": "\"you are not a rabbit pellet\" and \"I am not ... a nigger.\""},
+  "subject_matter": {"value": "A Black girl recalls learning her ABCs, joining a mostly white gifted class, and how her mother helped her see past a racial slur shouted at recess.", "confidence": "high", "evidence": "\"I learned my ABC's in one night\" and \"Run, rabbit pellet, run!\""}
+ },
+ "IC-0225": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A short story in lyrical first-person paragraphs from a story collection."},
+  "tone": {"value": ["Bittersweet", "Serious"], "confidence": "medium", "evidence": "Tender care for her son beside the reality of her night work: \"The night is the time I dread most\"."},
+  "content_warnings": {"value": ["Sexual Content"], "confidence": "high", "evidence": "She describes clients, for example \"the doctor sinks deeper and deeper beneath my body\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice sustaining dense, lyrical imagery and restrained emotion."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Prostitution and sexual encounters are described in the text."},
+  "themes": {"value": ["Motherhood and sacrifice", "Poverty", "Protecting innocence", "Shame and secrecy"], "confidence": "high", "evidence": "\"Should my son wake up I have prepared my fabrication.\""},
+  "subject_matter": {"value": "A Haitian mother who sells sex at night watches her young son sleep, telling him stories so he will not learn what she does.", "confidence": "high", "evidence": "\"There are two kinds of women: day women and night women.\""}
+ },
+ "IC-0226": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A courtroom play with labelled speakers and directions such as \"(Rises, crosses to Judge's bench)\"."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "medium", "evidence": "Claudia's defiant plea \"I won't be nuts for you\" drives the scene."},
+  "content_warnings": {"value": ["Sexual Content", "Mental Health"], "confidence": "high", "evidence": "\"it hurts less to sell your ass to strangers\", \"I go down on my knees\", and a hearing on whether she is fit to stand trial: \"hospital for the criminally insane\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Several voices and a climactic speech that rises to \"near hysteria\"."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Labelled MACMILLAN, CLAUDIA, JUDGE, LAWYER and RECORDER lines and a building outburst."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Sex work is described frankly, with profanity."},
+  "themes": {"value": ["Autonomy and responsibility", "Mental illness labels", "Mothers and daughters", "Judgment of women"], "confidence": "high", "evidence": "\"I am not just a picture in your heads\"."},
+  "subject_matter": {"value": "At a competency hearing, Claudia Draper, charged with manslaughter, argues she is sane and responsible for her choices, including living on money from men.", "confidence": "high", "evidence": "\"do you understand the charge against you?\" and \"you can't make me nuts\"."}
+ },
+ "IC-0227": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A screenplay cutting with many labelled speakers and a \"VOICE OVER\"."},
+  "tone": {"value": ["Earnest", "Serious"], "confidence": "high", "evidence": "RBG's impassioned rebuttal: \"It's not a privilege. It's a cage.\""},
+  "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "The case concerns sex discrimination, and judges mock her with \"Growing a beard?\" and \"Lactation.\""},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Many characters, legal argument and RBG's shift from shaken to commanding."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Labelled judges, counsel and clerk, and a direction that \"this is a different Ruth\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "No mature content beyond courtroom discussion of discrimination."},
+  "themes": {"value": ["Gender equality", "Law and social change", "Perseverance", "Challenging precedent"], "confidence": "high", "evidence": "\"We are asking you to protect the right of the country to change.\""},
+  "subject_matter": {"value": "Ruth Bader Ginsburg argues the 1971 Moritz tax case before a skeptical appeals court, rebutting the government's warning of radical social change.", "confidence": "high", "evidence": "\"Charles Moritz v Commissioner of Internal Revenue\"."}
+ },
+ "IC-0228": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A foster mother's memoir with page markers; speaker labels were added for performance."},
+  "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "high", "evidence": "\"I also learned about loving and losing and that happy endings are often what we make for ourselves.\""},
+  "content_warnings": {"value": ["Abuse", "Mental Health", "Discrimination/Slurs"], "confidence": "high", "evidence": "\"Sexual abuse is a terrible thing to happen to a child\", Daisy's \"two prior psych hospitalizations. Anorexic\", and the label \"Maybe retarded\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Many characters, including a near-silent child, and narration that moves between scenes and audience."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "high", "evidence": "Labelled voices and business such as \"flapping and spinning at a rapid rate\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Child sexual abuse is disclosed, though details are withheld."},
+  "themes": {"value": ["Foster care", "Childhood trauma", "Love and letting go", "Resilience"], "confidence": "high", "evidence": "\"Daisy was a teacher. She taught me about strength\"."},
+  "subject_matter": {"value": "A foster mother takes in six-year-old Daisy, watches her improve, loses her back to her mother, and later hears Daisy disclose past abuse.", "confidence": "high", "evidence": "\"I guess I'd like to take Daisy\" and \"He hurted me every day\"."}
+ },
+ "IC-0229": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play monologue for GIRL with stage directions such as \"draws a circle on the floor with chalk\"."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "Starvation is presented as holy control: \"it's God inside me, it's mine.\""},
+  "content_warnings": {"value": ["Mental Health"], "confidence": "high", "evidence": "An eating disorder is depicted: \"I'd stick my finger down my throat\" and \"Now I weigh 93 pounds\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Rapid shifts from dreamy to manic to defiant, with directions like \"on the verge of mania\"."},
+  "performance_demands": {"value": ["Physicality", "Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Stated business (\"mimes the act of vomiting\", \"on hands and knees\") and frequent \"(pause)\" marks."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Anorexia and purging are depicted, without other mature content."},
+  "themes": {"value": ["Anorexia", "Control", "Perfectionism", "Isolation"], "confidence": "high", "evidence": "\"I'm a good girl I'm a straight-A honor student\" and \"I'm in control\"."},
+  "subject_matter": {"value": "A starving teenage girl waits to eat a single orange, describing how she hides her eating disorder from her mother and teachers.", "confidence": "high", "evidence": "\"in fifteen minutes time precisely I'm going to peel, and eat\"."}
+ },
+ "IC-0230": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A personal essay in paragraphs from a composition reader, quoting sources such as John Money."},
+  "tone": {"value": ["Ironic", "Bittersweet"], "confidence": "medium", "evidence": "Dry humor (\"the place for the permanently bewildered\") alongside pain, ending \"Brother, love what you love.\""},
+  "content_warnings": {"value": ["Mental Health", "Abuse", "Violence", "Death", "Substance Use", "Sexual Content", "Self-harm", "Discrimination/Slurs"], "confidence": "medium", "evidence": "\"Because I am a paranoid schizophrenic\", \"Dad beat me so hard\", \"Marsha got stabbed in the chest\", \"He died six months later\", \"smoked a joint\", patients who \"cut themselves\", and \"some lunatic named Carl\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "A fragmented, associative essay that jumps among memories, quotations and moods."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Explicit surgical and sexual references, abuse, drugs and psychiatric commitment."},
+  "themes": {"value": ["Gender identity", "Family abuse", "Sibling acceptance", "Mental illness", "Searching for language"], "confidence": "high", "evidence": "\"I try to think of him as her\" and \"Sister, you are the best craziness of the family.\""},
+  "subject_matter": {"value": "A woman learns her brother is becoming her sister and works through the news by recalling their abusive father, her own hospitalization, and the image of oranges.", "confidence": "high", "evidence": "\"he's calling to say that he is now my sister\"."}
+ },
+ "IC-0231": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A monologue from a play with a character direction \"(a beautiful, but haunted Iraqi woman of about 50)\"."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "A mother's account of her son's torture ends \"He is with Allah.\""},
+  "content_warnings": {"value": ["Death", "Violence", "Abuse", "War/Trauma", "Grief"], "confidence": "high", "evidence": "\"They began to torture my son Fahdil\", \"they buried him alive\", \"and then he did not cough anymore\", and \"instruments of torture\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "One voice sustaining restraint through extreme horror and grief."},
+  "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety"], "confidence": "medium", "evidence": "Ellipses and a \"(Long beat)\" pace the dying cough \"weaker . . . and weaker\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "The torture and death of a child are described in detail."},
+  "themes": {"value": ["State terror", "A mother's grief", "Courage under torture", "Political repression"], "confidence": "high", "evidence": "\"My son was more brave than many full grown men\"."},
+  "subject_matter": {"value": "Nehrjas, wife of an Iraqi Communist leader, recounts how Saddam's secret police tortured her eight-year-old son to death in front of her.", "confidence": "high", "evidence": "\"they tied him to the ceiling fan\" and \"he was eight years old\"."}
+ },
+ "IC-0232": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A monologue from a play under the label PVT. ENGLAND with directions such as \"(Long beat)\"."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "Cheerful self-justification of abuse: \"the naked human pyramids WAS ALL MY IDEA\"."},
+  "content_warnings": {"value": ["Abuse", "Violence", "Sexual Content", "War/Trauma", "Discrimination/Slurs"], "confidence": "high", "evidence": "\"Takin the guy around on a leash\", \"we made a man masturbate\", \"prisoners of WAR\", and \"APES AT ABU GHRAIB\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Written dialect and a self-deceiving character whose bravado cracks."},
+  "performance_demands": {"value": ["Dialect", "Vocal Variety"], "confidence": "high", "evidence": "Dialect such as \"I'mona be honest\" and \"They necks is soft\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Prisoner abuse, sexual humiliation, slurs and profanity are in the text."},
+  "themes": {"value": ["Abuse of power", "Dehumanization", "Bullying", "Self-justification"], "confidence": "high", "evidence": "\"They was monsters in the shape of human beings.\""},
+  "subject_matter": {"value": "A fictionalized Lynndie England defends her role in the Abu Ghraib photos and links it to a cruel childhood prank on a classmate.", "confidence": "high", "evidence": "\"that homely little private with the thumbs up\" and \"Lee Ann Wibbey\"."}
+ },
+ "IC-0233": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play monologue under the label SHE with directions such as \"(shows a rubber bracelet on her wrist)\"."},
+  "tone": {"value": ["Bittersweet", "Serious"], "confidence": "high", "evidence": "Love for her brother turns to loss: \"I will never see my brother, Jack, again.\""},
+  "content_warnings": {"value": ["Death", "War/Trauma", "Grief", "Discrimination/Slurs"], "confidence": "high", "evidence": "\"130 people died in the attacks in Paris\", her brother's departure, and \"colorful names to call me\" and a crowd \"swelling in the hate\" at a mosque."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice moving from wry humor to guilt and grief."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A terrorist attack is mentioned without graphic detail."},
+  "themes": {"value": ["Radicalization", "Belonging", "Sibling loss", "Guilt", "Hate and forgiveness"], "confidence": "high", "evidence": "\"I don't belong\" and \"Afnan forgave, but I don't know how.\""},
+  "subject_matter": {"value": "A girl from a small Kansas town recounts how her lonely brother found belonging with new friends, converted, left the country and was linked to the Paris attacks.", "confidence": "high", "evidence": "\"he told us that he was converting\" and \"in front of the Eiffel Tower\"."}
+ },
+ "IC-0234": {
+  "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A monologue under the label SUSANNAH from a monologue anthology."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "A hopeful youth ends in \"let me die so she can live!\""},
+  "content_warnings": {"value": ["Violence", "War/Trauma", "Discrimination/Slurs", "Substance Use"], "confidence": "high", "evidence": "\"the firebomb that exploded\", \"She fell in a heap!\", \"Nigger-hater\", \"stand-up only service was the rule for Negroes\", and \"drank beer\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Written dialect, several voiced characters and a building riot climax."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Dialect such as \"what I already suspicioned\" and voices for Miz Askew, Fanny and Neal."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Shootings, a beating and a racial slur are in the text."},
+  "themes": {"value": ["Civil rights era", "Loyalty across race", "Guilt", "Mob violence"], "confidence": "high", "evidence": "\"Do you know I'm not to blame?\""},
+  "subject_matter": {"value": "A Black woman recalls the white employer who championed her, and the open-housing protest that became a riot at that employer's house.", "confidence": "high", "evidence": "\"March and sing at the home of the Housing Commissioner.\""}
+ },
+ "IC-0235": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with labelled speakers KIMBERLY and CDC and a \"(beat)\" direction."},
+  "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "high", "evidence": "Anger at officials sits with peace at the end: \"a peace came over me\"."},
+  "content_warnings": {"value": ["Death"], "confidence": "high", "evidence": "The speaker narrates her own death (\"I'd be dead\") and her grandparents \"killed years before in a car accident\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One main voice with brief others (her father, the CDC) and a calm-to-angry arc."},
+  "performance_demands": {"value": ["Character Differentiation"], "confidence": "medium", "evidence": "A separate CDC voice and her father's quoted lines (\"Oh my God, no.\")."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Terminal illness and death are discussed without graphic detail."},
+  "themes": {"value": ["AIDS and public health", "Betrayal by authority", "Facing death", "Family love"], "confidence": "high", "evidence": "\"when you die for a public health policy\"."},
+  "subject_matter": {"value": "Kimberly Bergalis, speaking after her death, recounts contracting HIV from her dentist, the investigation, and her final months.", "confidence": "high", "evidence": "\"two back molars removed by Dr. Acer\" and \"the results came back positive\"."}
+ },
+ "IC-0236": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with many labelled speakers and directions such as \"****** GROUP THERAPY*****\"."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "medium", "evidence": "Emma's sardonic deflection (\"Not a successful one.\") over a life-or-death struggle."},
+  "content_warnings": {"value": ["Substance Use", "Suicide", "Death", "Violence", "Mental Health", "Grief"], "confidence": "high", "evidence": "\"an alcoholic and drug addict\", \"It says here 'suicide attempt.'\", \"My partner of eighteen years. Dead. Heroin.\", \"I broke her jaw\", and \"For anxiety\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Several characters and an unreliable lead who lies, mocks and then breaks down."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Labelled DOCTOR, EMMA, THERAPIST, PAUL and MARK, with directions like \"(jittery, nervous, obviously under the influence)\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Addiction, a suicide attempt, overdose deaths and profanity are in the text."},
+  "themes": {"value": ["Addiction and recovery", "Honesty and denial", "Identity and performance", "Grief"], "confidence": "high", "evidence": "\"I'm brilliant at being other people and totally useless at being myself.\""},
+  "subject_matter": {"value": "Actress Emma enters rehab, resists the doctor and the Twelve Steps, and hears other addicts' stories before admitting she is an addict.", "confidence": "high", "evidence": "\"I'm an alcoholic and drug addict.\""}
+ },
+ "IC-0237": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play scene with a character list, setting (\"An airplane bound for India\") and two labelled speakers."},
+  "tone": {"value": ["Lighthearted", "Bittersweet"], "confidence": "high", "evidence": "Comic bickering (\"Betty Mahal?\") over Katherine's sorrow: \"Nothing will ever get my mind off Walter.\""},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "Turbulence and a remembered sorrow (\"I keep thinking about Walter\") appear, but no listed category is depicted in the text."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with quick comic timing and an undercurrent of grief."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "high", "evidence": "Two labelled speakers in rapid exchanges such as \"They were langouste.\" \"They looked like crayfish.\""},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "No mature content appears in the text."},
+  "themes": {"value": ["Friendship", "Fear and helplessness", "Guilt and responsibility", "Travel as escape"], "confidence": "high", "evidence": "\"Maybe we are responsible. Maybe it is our fault\"."},
+  "subject_matter": {"value": "Two longtime friends flying to India bicker through turbulence while one keeps returning to thoughts of Walter and whether anything is anyone's fault.", "confidence": "high", "evidence": "\"I didn't know you were afraid of flying\" and \"I keep thinking about Walter.\""}
+ },
+ "IC-0238": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting from a novel narrated by Cathy; the added speaker labels do not make it a play."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "\"That's our full horrible, awful truth.\""},
+  "content_warnings": {"value": ["Abuse", "Death"], "confidence": "high", "evidence": "The children were locked away \"three years and four months and sixteen days\" and fed doughnuts \"coated with arsenic\"; \"Daddy was in that fatal accident\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "A narrator plus Carrie, Chris and Dr. Sheffield, and a rising confession."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Four labelled voices, from a weak child to a suspicious doctor."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "low", "evidence": "Child abuse and poisoning by a parent are described, though not graphically."},
+  "themes": {"value": ["Child abuse", "Betrayal by a parent", "Sibling loyalty", "Trust"], "confidence": "high", "evidence": "\"once our mother knew she could never claim us\"."},
+  "subject_matter": {"value": "Three runaway siblings bring their sick sister to a doctor, and Cathy reveals they were hidden in an attic for years and poisoned by their family.", "confidence": "high", "evidence": "\"Only on the Sundays I run away\" and \"coated with arsenic\"."}
+ },
+ "IC-0239": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with many labelled speakers and scene breaks such as \"*****scene*****\"."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "\"A piece of my heart goes with each of them!\" amid mass casualties."},
+  "content_warnings": {"value": ["War/Trauma", "Death", "Violence", "Suicide"], "confidence": "medium", "evidence": "\"half this soldier's face is gone\", \"Killed! In their hospital beds!\", and a nurse's \"I could kill . . . me\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Many characters with overlapping chaos and shifts from naive hope to rage."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Many labelled speakers and \"rapid overlapping chaos\" as the casualties arrive."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Graphic war wounds, deaths and profanity are in the text."},
+  "themes": {"value": ["Women in war", "Trauma of nursing", "Homecoming and rejection", "Lost innocence"], "confidence": "high", "evidence": "\"Build a psychological wall!\" and \"MURDERER! BUTCHER!\""},
+  "subject_matter": {"value": "Young American nurses volunteer for Vietnam, face mass casualties in field hospitals, and return home to hostility and lasting trauma.", "confidence": "high", "evidence": "\"All of you have orders for Southeast Asia\" and \"American soil!\""}
+ },
+ "IC-0240": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A monologue for LUCY with a stage direction describing her speaking to Nellie \"in her open coffin\"."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "A child repeats apartheid excuses (\"apartheid's for YOU\") while grieving the woman it killed."},
+  "content_warnings": {"value": ["Death", "Grief", "Discrimination/Slurs", "Violence"], "confidence": "high", "evidence": "\"I made you die\", her cry \"I want you to come back\", the racist \"SLAVE, SLAVE, DO WHAT YOU'RE TOLD\", and \"I KICK YOUR BLACK BELLY\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "A ten-year-old voice racing from pleading to rage to remorse."},
+  "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Run-on breathless speech and an all-capitals outburst before \"I'm sorry, I'm sorry\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Racist abuse and a violent outburst are spoken in the text."},
+  "themes": {"value": ["Apartheid", "Inherited racism", "Childhood guilt", "Love across racial lines"], "confidence": "high", "evidence": "\"you're not a child anymore, Lucy, you're a white person now\"."},
+  "subject_matter": {"value": "A white South African girl speaks to the body of her Black nanny, killed in a protest march, defending apartheid and confessing what she said to her.", "confidence": "high", "evidence": "\"I told you not to go in those marches\"."}
+ }
+}

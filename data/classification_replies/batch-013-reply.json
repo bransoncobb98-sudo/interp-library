@@ -1,0 +1,2192 @@
+{
+   "IC-0481" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "An elderly relative's death and grief are handled gently, with no graphic content.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Aunt Leaf mourns her husband (\"I heard my husband\", \"I’ve seen his grave!\") and dies at the end: \"Aunt Leaf’s body lay in a long black box.\"",
+         "value" : [
+            "Death",
+            "Grief"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two performers share narration plus Father, Mother, Teacher, Sister, Aunt Leaf and Annabelle, moving from comedy to eerie night scenes to loss.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Dramatic Publishing play performed under speaker labels such as \"AUNT LEAF\" and \"ANNABELLE\" with stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Voices range from the family's overlapping \"Hello, Aunt Leaf!\" to Aunt Leaf's screams of \"Take me home!\" and Annabelle's soft \"(very softly)\" stories.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"she began to make things up\" and the closing image of Aunt Leaf's body.",
+         "value" : "A silent girl comforts her ancient great-aunt by inventing stories of the old woman's dead husband returning, until a winter illness blurs truth and fiction and Aunt Leaf dies."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"Everything is a story\" and Annabelle \"busy listening to another voice. A new one. Her own.\"",
+         "value" : [
+            "Power of storytelling",
+            "Imagination and truth",
+            "Grief and remembrance",
+            "Finding one's voice",
+            "Old age"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "The storytelling bond ends with \"Aunt Leaf’s body lay in a long black box\" while honouring how stories give hope.",
+         "value" : [
+            "Bittersweet",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0482" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "The humour is gross-out baby comedy with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Only comic baby business such as \"Baby throws up\" and diaper jokes; nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "One actor plays Coach, Timekeeper, Mommy and Daddy against the Baby in a simple comic arc.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Samuel French play with speaker labels such as \"COACH\" and \"BABY\" and stage directions like \"(Timekeeper enters and hands note to Coach)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Stated business such as \"Daddy picks up Baby and tosses him in the air\" and \"Baby is pulled by an unseen force\" across several roles.",
+         "value" : [
+            "Character Differentiation",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Trick #237 is: suck your thumb\" and \"It’s your first birthday and I’ve got to go.\"",
+         "value" : "A newborn coached in baby tricks before birth is sent to doting parents and uses the coach's advice to turn the tables on them by his first birthday."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"They haven’t even given me an identity\" and the coach urging \"Fight back.\"",
+         "value" : [
+            "Parenting",
+            "Infancy",
+            "Rebellion",
+            "Identity and naming"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A baby trained by a coach in tricks like \"Use cry technique #5 – the ear pierce\" fights back against silly parents.",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0483" : {
+      "audience_level" : {
+         "confidence" : "low",
+         "evidence" : "Sexual innuendo and the line \"get the hell outta my mama’s privates\" suggest reviewer discretion.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "A psychiatrist presents Alice's case (\"In my encounters with Alice\") as she hears her fetus speak, and the fetus says \"The silk panties with the ecru lace?\" in a sensual voice.",
+         "value" : [
+            "Mental Health",
+            "Sexual Content"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "The Baby shifts through a \"thrilling baritone\", a race caller, a \"French chef’s accent\" and \"Satanic reverb\" while Alice moves from joy to terror.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "From a Dramatists Play Service collection, spoken under labels \"ALICE\", \"PSYCHIATRIST\" and \"BABY\" with stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions call for \"(A French chef’s accent)\", \"(Rapid-fire, tough)\" and \"(Hissing)\" voices for the Baby.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Dialect"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"the baby began to – to – vocalize – while still in the womb\" and \"It clammed up.\"",
+         "value" : "A psychiatrist and a young mother recount her pregnancy, during which her fetus seemed to speak poetry, tips and finally threats, then fell silent once born."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"I was its room, I was its board, I was its future\" and \"in the end vengeance will be mine.\"",
+         "value" : [
+            "Pregnancy and motherhood",
+            "Anxiety and fear",
+            "Madness",
+            "Parent-child conflict"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Clinical narration (\"By the 9th month, the child had turned insidious\") frames a comic fetus that turns menacing.",
+         "value" : [
+            "Dark",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0484" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's fable with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "The only peril is sticky oobleck (\"That oobleck’s like glue!\"); nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors carry two narrators, the King, Bartholomew, Magicians, Bell Ringer, Trumpeter and Captain.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "medium",
+         "evidence" : "A Dr. Seuss story book (Random House) adapted with narrator and character labels such as \"NARRATOR 1\" and \"KING\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated business such as \"pulls with all his might\" and \"mouth glued shut with oobleck\" across many roles.",
+         "value" : [
+            "Character Differentiation",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I want something NEW to come down!\" and \"the least you can do is say, “I’m sorry.”\"",
+         "value" : "A king bored with ordinary weather orders his magicians to make oobleck fall, and the page boy Bartholomew must get him to apologize before the sticky goo buries the kingdom."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Kings never say I’m sorry!\" until the King admits \"It is all my fault! And I am sorry!\"",
+         "value" : [
+            "Abuse of power",
+            "Pride and humility",
+            "Apology",
+            "Courage to speak up"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Magicians chant \"Shuffle, duffle, muzzle, muff\" and the oobleck falls \"as big as greenish footballs\".",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0485" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "A recounted assault (\"They violated me\") and an on-stage stabbing call for reviewer discretion.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Bat Boy bites Ruthie, Meredith says of the bats \"They violated me\", and Dr. Parker \"stabs Edgar then lets the body fall\" before Bat Boy dies.",
+         "value" : [
+            "Violence",
+            "Death",
+            "Sexual Assault"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Each actor plays six or more roles, including animal sounds, a \"British accent\" and a flashback birth.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A published stage musical with speaker labels such as \"BAT BOY\", \"MEREDITH\" and \"DR. PARKER\" and stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions such as \"(with a British accent, adjusts his tie, suit)\", \"Oo-oo-Oo-Oo-Oo (wings flapping)\" and pantomimed attacks.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Dialect",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"He's my son. He's one of us.\" and \"(he dies)\".",
+         "value" : "Teens find a half-bat boy in a West Virginia cave; a veterinarian's wife civilizes him, but the town turns on him and her husband stabs him after revealing he is their son."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"I know you hate me. But I have to believe that it's because you don't know me.\"",
+         "value" : [
+            "Prejudice against difference",
+            "Acceptance",
+            "Mob mentality",
+            "Family secrets",
+            "Hypocrisy"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Campy townsfolk crying \"Sweet wounded Jesus!\" and \"Kill the freak!\" lead to a stabbing at a revival.",
+         "value" : [
+            "Dark",
+            "Satirical"
+         ]
+      }
+   },
+   "IC-0486" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Comic religious satire with brief references to crucifixion and mild crude humour.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The cutting recounts that \"Moses did die\" and that soldiers \"forced a crown of thorns onto His head. They crucified him\".",
+         "value" : [
+            "Death",
+            "Violence"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Rapid comic scene changes through Eve, Moses, Wise Men, Mary and Joseph plus rap and song.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Broadway Play Publishing comedy with speaker labels \"REED\", \"AUSTIN\", \"MATT-2\" and stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Business such as \"(they both do their rendition of Riverdancing)\" and quick-fire exchanges like \"We just did it.\"",
+         "value" : [
+            "Character Differentiation",
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"In the beginning, there was . . . chaos\" through \"That’s Armageddon!\".",
+         "value" : "Two performers race comically through the Bible from Genesis and Noah's Ark to the Nativity, the crucifixion and a Revelation musical."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"The Bible – the Greatest Story Ever Accepted as Fact.\"",
+         "value" : [
+            "Religion and faith",
+            "Parody of scripture",
+            "Storytelling"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Bible stories become gags such as \"Eve had an Apple\" and the song \"That’s Armageddon!\".",
+         "value" : [
+            "Lighthearted",
+            "Satirical"
+         ]
+      }
+   },
+   "IC-0487" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Sexual innuendo and ethnic stereotypes are comic rather than graphic.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Ethnic caricature is played for laughs, including Isabella \"with a heavy Puerto Rican accent\" and the Native American joke \"Scalp ‘em!\".",
+         "value" : [
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors switch among hosts, Adam, Eve, Satan, Nefertiti, Columbus, Isabella and two maidens with accents.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Samuel French musical comedy with speaker labels \"JED\", \"BOYD\" and character labels like \"ISABELLA\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "The script calls for \"(with a heavy Puerto Rican accent)\" and many quick character switches such as \"BOYD as NEFERTITI\".",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"this is a backer’s audition\" and \"The Lipbalms are coming back.\"",
+         "value" : "Two would-be Broadway writers perform highlights of their history-of-the-world musical for investors in a borrowed apartment until the owners return early."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"Won’t you please invest in our show!\"",
+         "value" : [
+            "History parody",
+            "Show business",
+            "Stereotypes"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Two writers pitch a twelve-hour musical of \"the entire history of civilization\" through punning sketches.",
+         "value" : [
+            "Lighthearted",
+            "Satirical"
+         ]
+      }
+   },
+   "IC-0488" : {
+      "audience_level" : {
+         "confidence" : "low",
+         "evidence" : "Comic in tone, but a suicide and a shooting are part of the plot.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Humpty is found dead and \"shot\", Mrs. Dumpty is seen to \"jump into the main dough mixer\" leaving a confession, and Humpty \"often got depressed\" as a psychiatric outpatient.",
+         "value" : [
+            "Death",
+            "Violence",
+            "Suicide",
+            "Mental Health"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "One actor plays Briggs, Mary, Mrs. Dumpty, Nurse, Dr. Quatt, Singh and more, shifting between narration and scenes.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Penguin novel by Jasper Fforde arranged with added speaker labels such as \"SPRATT\" and \"DS MARY\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Directions such as \"(haughtily and a bit crazy)\" and \"(obviously distraught)\" mark many distinct voices.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Someone came up from the other side of the wall and shot him\" and \"He hatched.\"",
+         "value" : "Detective Jack Spratt and Mary Mary investigate Humpty Dumpty's death, uncovering a shooting, his ex-wife's apparent suicide and a scientist's experiment that made him hatch."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"Humpty didn’t fall, and he didn’t jump\" and Dr. Quatt's \"bizarre and perverted experiment\".",
+         "value" : [
+            "Detective mystery",
+            "Nursery rhyme parody",
+            "Unethical science",
+            "Media and public opinion"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Nursery characters get police procedure, as in \"So you’ve managed to do what all the king’s men couldn’t.\"",
+         "value" : [
+            "Lighthearted",
+            "Whimsical",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0489" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Graphic lynching violence, a recounted rape-murder and racist hate speech are described directly.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "The text recounts that a woman was \"outraged\" and \"strangled\", that a mob \"shot 500 bullets into him\" and \"cut out the heart for souvenirs\", with racist cries of \"You black brute!\".",
+         "value" : [
+            "Violence",
+            "Death",
+            "Sexual Assault",
+            "Discrimination/Slurs",
+            "War/Trauma"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Fragmented, overlapping lines with \"newscaster’s voices\", a \"preacher’s voice\" and the father's voice demand precise timing and range.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Graywolf Press book-length poem, cut as fragmented lines split between two voices, such as \"there may be a lynching tonight\".",
+         "value" : "Poetry"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions such as \"(next 8 lines in newscaster’s voices)\" and the \"*Overlap*\" cue.",
+         "value" : [
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"he sold fruit in front of the Blue Front\" and \"Will James was arrested\".",
+         "value" : "The poet imagines what her five-year-old father, selling fruit outside Cairo, Illinois's Blue Front restaurant, would have seen at the 1909 lynching of Will James before 10,000 people."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Children were often there they were being taught.\" and \"Would he have understood\".",
+         "value" : [
+            "Racial violence",
+            "Lynching",
+            "Witness and complicity",
+            "Family memory",
+            "Media and history"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "The refrain \"He would have seen\" circles a lynching witnessed by a five-year-old.",
+         "value" : [
+            "Dark",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0490" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Clean, playful humour with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Topics are everyday pleasures such as \"Hearing a stranger fart in public\"; nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two narrators share one upbeat voice through a simple list structure.",
+         "value" : "Beginner"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A collection of short humorous essays (Putnam) numbered as entries such as \"Two. Tripping and realizing that no one saw you.\"",
+         "value" : "Nonfiction"
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"One. Wearing underwear just out of the wash.\" and \"You will never be as young as you are right now.\"",
+         "value" : "Two speakers count down small everyday joys, from warm underwear out of the dryer to the five second rule, ending with gratitude for being alive."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"remembering how lucky we are to be here\".",
+         "value" : [
+            "Gratitude",
+            "Simple pleasures",
+            "Everyday life"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Every entry ends with the shout \"AWESOME!\" after celebrating small joys like warm laundry.",
+         "value" : [
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0491" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A gentle children's adventure with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Peril is mild (\"There’s a great rip right through the center of me\"); nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors voice two narrators, five appliances, a squirrel, the boat owner and the mistress.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Doubleday novella cut with narrator and character labels such as \"NARRATOR 1\" and \"TOASTER\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "The script asks for a \"(pantomime section)\", an \"(appliance dance)\" and consistent appliance voices.",
+         "value" : [
+            "Character Differentiation",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"There’s nothing else to do but to find the master\" and \"the appliances went to live with their new mistress\".",
+         "value" : "Five appliances left in a woodland cottage travel to find their master, survive a storm and the city dump, and finally find a new home."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"We need people to take care of; we need people to take care of us.\"",
+         "value" : [
+            "Loyalty",
+            "Friendship",
+            "Being useful",
+            "Perseverance"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Talking appliances plan to scare a man by pretending to be a ghost: \"Then let’s start haunting.\"",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0492" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "War is treated as a fable with no graphic content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The text builds to an escalating war and a bomb: \"Drop this bomb on the Zooks just as fast as you can.\"",
+         "value" : [
+            "War/Trauma"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "One actor plays Grandfather, the Chief Yookeroo, VanItch, a crowd and song girls against the Grandson.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "medium",
+         "evidence" : "Dr. Seuss's rhymed picture book, kept in rhyme such as \"great vim and great vigor, right up to VanItch with my hand on the trigger\".",
+         "value" : "Poetry"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Distinct voices for \"CHIEF YOOKEROO\", \"VANITCH\" and the \"CROWD\" chanting \"Do or die!\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Who’s going to drop it? Will you . . . ? Or will he . . . ?\"",
+         "value" : "A grandfather tells how the Yooks and Zooks escalated from slingshots to bombs over which side of the bread to butter, ending in a standoff."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"you can’t trust a Zook who spreads bread underneath!\"",
+         "value" : [
+            "Arms race",
+            "Pettiness of conflict",
+            "Escalation",
+            "Prejudice"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "An arms race over bread is mocked through inventions like the \"Bitsy Big-Boy Boomeroo\".",
+         "value" : [
+            "Satirical",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0493" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Clean comic wordplay with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Gangster lines such as \"I think I'll shoot myself!\" are cut-off comic fragments, not real events, so nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors alternate through many broadcast characters with an instant switch at every \"(click)\".",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Comedy skits from a skit collection, written as character lines such as \"Gangster:\" and \"Recipe Lady:\" with \"(click)\" cues.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Each \"(click)\" demands a split-second change of voice and character.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Script #1: Television\" and \"Script #2: Radio\".",
+         "value" : "Three skits flip between TV and radio programs so that the half-finished lines of story ladies, gangsters, cooks and sportscasters collide into jokes."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "The note describes \"flipped back and forth between several different programs\".",
+         "value" : [
+            "Media and attention",
+            "Channel surfing",
+            "Wordplay"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Channel changes create comic mashups like \"set carefully in a quart of prune juice\" running into a touchdown.",
+         "value" : [
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0494" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's classic with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The children's fates are fantastical slapstick (\"Down the rubbish chute\"); nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Each actor plays eight roles, including Wonka, Veruca, Violet and Augustus' mother.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Roald Dahl's novel (Puffin), cut with chapter notes like \"(Chapt 2)\" and added speaker labels.",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions call for \"With a strong German accent\", \"She pitches an amazing fit\" and a pantomimed \"victory dance\".",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"You’ve found the last Golden Ticket!\" and \"the entire factory will become yours!\"",
+         "value" : "Poor Charlie Bucket finds the last Golden Ticket, tours Willy Wonka's factory as greedy children drop away, and wins the factory."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Well, well, well . . . two naughty little children gone.\"",
+         "value" : [
+            "Greed and spoiled children",
+            "Humility rewarded",
+            "Imagination",
+            "Family"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Wonka's grass is \"a new kind of soft, minty sugar\" and spoiled children meet comic fates.",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0495" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "The premise is contracted suicide or killing, though nothing is shown.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The plan offers clients planned deaths, noting \"Most people opt to handle matters themselves\" with how-tos, or a team that can \"make anything look like an accident\".",
+         "value" : [
+            "Suicide"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters, with the client sliding from hope to panic and the counselor shifting to \"a subtle darkness\".",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A ten-minute play with labels \"PROSPECTIVE CLIENT\" and \"DEBT COUNSELOR\" and directions like \"(Beat.)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Frequent \"(Pause.)\" and \"(Beat.)\" marks drive the slow reveal of footnote seven.",
+         "value" : [
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Your life insurance company.\" and \"Or I can have only twenty years left.\"",
+         "value" : "A graduate drowning in student loans learns that a debt counselor's too-good offer is paid for by a life insurance payout when the client dies in twenty years."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Quantity or quality.\" and \"Twenty debt-free years\".",
+         "value" : [
+            "Student debt",
+            "Corporate euphemism",
+            "Quality versus quantity of life",
+            "Hopelessness about the future"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A cheerful salesperson pitches dying in twenty years as \"Way disruptive\" debt relief.",
+         "value" : [
+            "Dark",
+            "Satirical",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0496" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "A comic fairy tale with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Stepsister insults (\"too dirty and stupid\") and threats such as \"I’d punch her\" are comic and never carried out; nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Each actor plays three contrasting roles in quick comic exchanges.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Dramatists Play Service comedy with labels such as \"GODZELLA\", \"CINDERELLA\" and \"FGP\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Business such as \"starts awkwardly fast dancing\" and \"(Drops to one knee – to Cinderella)\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"all I have left are the combat boots my father left me\" and \"Look! It fits!\"",
+         "value" : "A comic Cinderella in which a reluctant prince falls for the heroine in her father's combat boots and finds her when the boot fits."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"I’m too dirty and ugly and dim-witted\" versus \"You look great!\"",
+         "value" : [
+            "Fairy tale parody",
+            "Self-worth",
+            "Kindness",
+            "Love"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A dragon-hunting prince and a Cinderella in combat boots trade gags like \"slop the rugs and beat the pigs\".",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0497" : {
+      "audience_level" : {
+         "confidence" : "low",
+         "evidence" : "The sexual references are comic, not explicit, so this is mainly for reviewer discretion.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Comic references to sex and nudity: \"steam up the windows together\", \"take off all your clothes\" and \"(sound of clothes hitting the floor)\".",
+         "value" : [
+            "Sexual Content"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors switch among narrators, Kate, Leonardo, the fiancé, the audience, the captain, the iceberg and old Kate.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "low",
+         "evidence" : "A newspaper humor column (Snide Remarks) written as a mock screenplay with labels such as \"NARRATOR 1\" and \"LEONARDO\".",
+         "value" : "Nonfiction"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Characters range from the booing \"AUDIENCE\" to a cranky \"150-YEAR-OLD-KATE\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"as a public service, [we are] offering this much-shortened screenplay\".",
+         "value" : "A humor columnist condenses the film Titanic into a short parody screenplay that mocks its romance, villain, nudity and length."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"to make sure my character is entirely one-dimensional\".",
+         "value" : [
+            "Movie parody",
+            "Hollywood clichés",
+            "Audience expectations"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "It mocks the film as \"entirely too long\" and offers a \"much-shortened screenplay\".",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0498" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "War and atrocity are referenced comically, with mild profanity, but not depicted graphically.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "It recounts Lincoln \"shot in the head\", \"Atom bombs dropped on Hiroshima and Nagasaki\", the Sarge \"instantly struck down\", and \"six million slaves\".",
+         "value" : [
+            "Violence",
+            "Death",
+            "War/Trauma",
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Each actor plays nine or more roles, from Vespucci and Hitler to a game show host.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Broadway Play Publishing comedy with labels such as \"REED\", \"VESPUCCI\" and \"ROCK FURY\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions call for a \"bad Italian accent and flamboyant hand-gestures\" and mimed trench warfare.",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"tonight we explore the history of a great nation\" and \"that’s history!\"",
+         "value" : "Two performers rush through American history from Vespucci and Jamestown to the World Wars and the Cold War in sketches, songs and parodies."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"Well, we don’t lock people away in concentration camps.\"",
+         "value" : [
+            "American history",
+            "National myth",
+            "Hypocrisy",
+            "War"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Gags like \"he was the first true American!\" skewer national history.",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0499" : {
+      "audience_level" : {
+         "confidence" : "low",
+         "evidence" : "Comic suicides and innuendo such as \"hide the salami\" suggest reviewer discretion.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Romeo drinks poison (\"Thus with a kiss, I die\"), Juliet \"stabs herself\", Othello \"committed hari-kiri\" and Caesar is stabbed \"repeatedly\", all played for laughs.",
+         "value" : [
+            "Death",
+            "Violence",
+            "Suicide"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Rapid switches among Juliet, Nurse, Friar, Romeo, Macbeth, Macduff, Caesar, kings and announcers, plus a rap and accents.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A published Reduced Shakespeare Company play with labels such as \"A/JULIET\" and \"J/MACBETH\" and many stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions call for \"nearly impenetrable Scottish accents\", sword fights and the note \"And do it FASTER!\".",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"We rapped 'Othello,' Lear was in the football game\" and \"You can't make me do it!\"",
+         "value" : "Performers race through Romeo and Juliet, a rapped Othello, a Scottish Macbeth, Julius Caesar and the histories as football before balking at Hamlet."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Why can't this Shakespeare stuff be more like sports?\"",
+         "value" : [
+            "Shakespeare parody",
+            "Making classics accessible",
+            "Tragedy as comedy"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Shakespeare is rushed through as slapstick, an \"Othello\" rap and the histories as a football game.",
+         "value" : [
+            "Lighthearted",
+            "Satirical"
+         ]
+      }
+   },
+   "IC-0500" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Spooky but not graphic; deaths are only recalled by ghosts.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Ghost children recount their deaths: \"That is why we could not leave here when we died.\"",
+         "value" : [
+            "Death"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "One actor plays ten roles, including the Narrator, Mrs. Spink, both mothers, a cat and ghost children.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Neil Gaiman's HarperCollins novel, cut with page notes and added labels such as \"NARRATOR\" and \"OTHER MOTHER\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Voices range from the \"ominous\" whisper \"Don’t go through the door!\" to echoing children, with business such as peering \"though the hole\" of the stone.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"My parents have been stolen away\" and \"My parents . . and the souls of the children.\"",
+         "value" : "A bored girl ignored by busy parents finds a door to an Other Mother's world, where she must win back her stolen parents and the souls of trapped children."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"When you’re scared, but you still do it anyway, that’s brave.\"",
+         "value" : [
+            "Bravery",
+            "Family and neglect",
+            "Be careful what you wish for",
+            "Identity"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Quirky neighbours give way to a creepy Other Mother whose hand \"scuttles off Coraline’s shoulder like a frightened spider\".",
+         "value" : [
+            "Dark",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0501" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "War and a brief knife fight are present but not graphic.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "The refugee \"takes out a knife and attacks CORRECTOR\", flees \"a civil war of apocalyptic proportions\", and faces prejudice such as \"your countrymen are a dangerous and violent menace\".",
+         "value" : [
+            "Violence",
+            "Discrimination/Slurs",
+            "War/Trauma"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters in sustained tension, with an accent, a scuffle and a wordless song.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A ten-minute play with a character list, setting and labels \"CORRECTOR\" and \"REFUGEE\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "The note says the Refugee \"should ideally speak with some sort of accent\", and the scene includes a knife scuffle and terse back-and-forth lines.",
+         "value" : [
+            "Dialect",
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"They'll change your skin color\" and \"From you, I have a song.\"",
+         "value" : "A war refugee meets a black-market 'corrector' who can make them pass as a local at the cost of their memories, and who asks only for a recording of a childhood song as payment."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"To be here, I can't be who I am.\"",
+         "value" : [
+            "Refugees and displacement",
+            "Assimilation and identity",
+            "Cultural memory",
+            "Prejudice"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A tense night bargain ends with the refugee's song kept: \"you will forget who you are. But you will not be forgotten.\"",
+         "value" : [
+            "Serious",
+            "Bittersweet"
+         ]
+      }
+   },
+   "IC-0502" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Clean school comedy with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Only school teasing and jokes like \"I could cut off my leg with a pencil\"; nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "One actor plays over a dozen roles, from Mom and Liza to a bailiff and townspeople, across rapid fantasy shifts.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Playscripts comedy with labels such as \"DARCY\", \"LIZA\" and \"BAILIFF\" and stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions include \"pantomime babies in arms\", a runway walk and a \"pantomime fight scene with Liza in slow motion\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"The impending class trip to the art museum\" and \"He waves her over to sit next to him\".",
+         "value" : "A bright, imaginative thirteen-year-old daydreams her way through the countdown to a class trip, dreading the bus seat until her crush invites her to sit with him."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"To a semi-outcast like myself, it is a major deal.\"",
+         "value" : [
+            "Imagination",
+            "Adolescence and fitting in",
+            "First crush",
+            "Bullying"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Darcy's daydreams turn school life into movies, from a courtroom drama to a \"Mom Fashion Show\".",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0503" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Silly radio comedy with only mild language.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The violence is cartoon slapstick (\"struck down from behind\" by a batter pudding); nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Each actor voices three or four broad radio characters plus shared sound effects.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Goon Show radio script with labels such as \"GREENSLADE\", \"SEAGOON\" and \"FX\" sound cues.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Moriarty's French (\"I'm in ze bath\"), Eccles' voice (\"dat's why\") and timed \"FX\" cues shape the comedy.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Dialect",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I arrest you as the Dreaded Batter Pudding Hurler.\"",
+         "value" : "In wartime Bexhill, bumbling Inspector Seagoon hunts the villain who keeps hurling batter puddings at Miss Bannister, ending adrift in a lifeboat with the suspect."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"A madman was at large, Scotland Yard was called in.\"",
+         "value" : [
+            "Absurdist comedy",
+            "Detective parody",
+            "Wartime Britain"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Absurd jokes like \"you can't shoot elephants in England\" because \"They're out of season.\"",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0504" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Graphic deaths of a man and an elephant and a reference to lynchings.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "The elephant crushes her rider (\"She stepped on his skull\"), is hanged until \"that was it\", and a townsperson recalls \"how they hung colored boys in Erwin\".",
+         "value" : [
+            "Violence",
+            "Death",
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Each actor plays six townspeople and circus folk in a fractured, overlapping narration.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Samuel French play with labels such as \"RINGMASTER\", \"TRAINER\" and \"MARSHAL\" and stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Written dialect such as \"wouldn’ta been justice\", choral chants and frequent \"(beat)\" marks.",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"It was September and there was a Town . . . Erwin, Tennessee\" and \"Something like that could hang her.\"",
+         "value" : "Townspeople and circus workers recount how Mary the elephant killed an inexperienced handler in Erwin, Tennessee, in 1916 and was hanged from a railyard crane before a crowd."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"We hung an elephant today\" and \"An elephant is an investment.\"",
+         "value" : [
+            "Mob justice",
+            "Cruelty to animals",
+            "Spectacle and violence",
+            "Racial injustice",
+            "Greed"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A festive crowd chanting \"Kill it. Kill it. Kill it!\" watches an elephant hanged.",
+         "value" : [
+            "Dark",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0505" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "A children's classic; the shooting and cider drinking are comic and non-graphic.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The farmers shoot off the fox's tail (\"We got the tail but we missed the fox\"), and Bean \"drank gallons of strong cider\" while Badger \"drinks deeply\" from the cider.",
+         "value" : [
+            "Violence",
+            "Substance Use"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors play two narrators, three farmers, Mr. and Mrs. Fox, Badger and Rat.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Roald Dahl's Puffin novel, cut with page notes and added labels such as \"NARRATOR 1\" and \"MR. FOX\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions such as \"(Actor 1 mimes Boggis)\", \"mimes a shotgun\" and \"(frantic digging)\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Let's dig him out!\" and \"Boggis's Chicken House Number One!\"",
+         "value" : "Three nasty farmers try to shoot, dig and starve out Mr. Fox, who tunnels into their stores and throws an underground feast for all the trapped animals."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Your father is a fantastic fox\" and the feast for all the diggers.",
+         "value" : [
+            "Cleverness and survival",
+            "Family",
+            "Community",
+            "Greed"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Cartoonish farmers and a clever fox, ending with the farmers \"still waiting\" in the rain.",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0506" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Racial violence, hate speech and recounted abuse are discussed directly.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "It quotes the slur \"Kung Flu\", recounts children \"stabbed at a big-box store\" and \"the officers that murdered George Floyd\", Maya's father who drove her to \"collapse on the ground\", and Jack getting drunk.",
+         "value" : [
+            "Discrimination/Slurs",
+            "Violence",
+            "Death",
+            "Abuse",
+            "Substance Use"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "One actor plays Maya, Travis, Andy and Jack, each moving through rage, guilt and sobbing.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A transcript of a television episode spoken by characters \"DR. LEWIS\", \"MAYA\", \"TRAVIS\", \"ANDY\" and \"JACK\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions such as \"(Whimpering; sobbing)\" and \"burst out angrily\" across four contrasting characters.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"You want to talk?\" and \"That's okay. Listen instead.\"",
+         "value" : "After George Floyd's murder, a Black grief counselor talks with four non-Black firefighters as each wrestles with racism, privilege, hate crimes and silence."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"There are no winners in the Oppression Olympics.\"",
+         "value" : [
+            "Systemic racism",
+            "White privilege",
+            "Police brutality",
+            "Anti-Asian hate",
+            "Allyship"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Firefighters confess in counseling, as in \"Once we know better, we have to do better.\"",
+         "value" : [
+            "Serious",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0507" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild language such as \"damn\" and religious comedy.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Threats like \"I'll kill you with my bare hands!\" are comic and the only loss is a burned factory; nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters, with Lipton's manic shifts against Joe's mounting exasperation.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "From The Collected Plays of Neil Simon, with labels \"JOE\" and \"LIPTON\" and stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Business such as \"crawling and feeling the rug with his hands\" and \"jumps around in an excited jig\" with rapid comic exchanges.",
+         "value" : [
+            "Vocal Variety",
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I deliver messages!\" and \"GOD was my insurance.\"",
+         "value" : "A modern Job figure, Joe Benjamin, is visited by Sidney Lipton, a messenger who says the Devil will ruin him unless he renounces God, and his factory burns at once."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"To test your faith, that’s why!\"",
+         "value" : [
+            "Faith tested",
+            "Suffering",
+            "Religion and humor"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A bumbling messenger from God insists \"I am not God\" and delivers news of disaster with glee.",
+         "value" : [
+            "Lighthearted",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0508" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Racist and crude remarks are satirised, not endorsed, and nothing is graphic.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Characters say \"any Negro or Mexican-American actors\" on \"Radio Station OKKK\", and a caller notes that of fourteen veterans \"only four of ‘em have died\".",
+         "value" : [
+            "Discrimination/Slurs",
+            "Death"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Two actors play eleven townspeople with distinct Texan voices.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Samuel French play for two actors with labels such as \"THURSTON\", \"ARLES\" and \"BERTHA\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Written Texas dialect such as \"avoidin' his chores, runnin' away from home\" across many characters.",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Good morning, Tuna, this is Thurston Wheelis.\"",
+         "value" : "Radio hosts in tiny Tuna, Texas, broadcast news, ads and call-in segments that expose the town's bigotry, book banning and absurd local affairs."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"the subcommittee that wants to snatch the books off the shelves\".",
+         "value" : [
+            "Small-town bigotry",
+            "Censorship",
+            "Ignorance",
+            "Satire of the South"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Small-town radio mocks bigotry and censorship, as in the essay titled \"Human Rights, Why Bother?\".",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0509" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Slapstick cartoon violence only.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Cartoon fights occur, such as \"RAPHAEL knocks her out\" and \"The turtles fight and get beaten.\"",
+         "value" : [
+            "Violence"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors cover four turtles, Splinter, Shredder, a ninja and April in fast scenes.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A SpeechGeek script with scene headings and labels such as \"LEONARDO.\" and \"SPLINTER.\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "\"A huge fight scene commences\" and rapid gag rhythms like \"(beat) de-footed\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I’ve been kidnapped by the Foot clan\" and \"SPLINTER and SHREDDER fight.\"",
+         "value" : "A parody of the Teenage Mutant Ninja Turtles origin in which the turtles rescue reporter April O'Neil from the Foot Clan and Splinter defeats Shredder."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"ultimate mastery comes not of the body but of the mind\".",
+         "value" : [
+            "Teamwork",
+            "Superhero parody",
+            "Brotherhood"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Running gags such as Raphael's \"Shut up\" and Splinter's endlessly repeated backstory.",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0510" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Edgy jokes about D.I. topics but no actual mature content.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Dark lines such as \"Please stop before I kill myself\" are throwaway jokes about tournament clichés; nothing sensitive actually occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Rapid switches among a judge, storyteller, declaimer, several D.I. competitors and an orator.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A SpeechGeek script with scene headings and labels such as \"H.I. COMPETITOR.\" and \"JUDGE.\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Contrasts such as \"(in gruff voice)\", \"(intense)\" and \"(nervous and stumbling over lines )\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Overall perfect.\" followed by \"SIXTH?!\"",
+         "value" : "A Humorous Interpretation competitor sarcastically walks a judge through a round of clichéd forensics performers, then is shocked to be ranked last."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"let’s do a rundown of what you're going to see tonight over and over\".",
+         "value" : [
+            "Speech and debate culture",
+            "Competition",
+            "Self-parody"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "It mocks speech tournaments, from monotone declamation to over-acted D.I.s about \"Acid Face\".",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0511" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Strong profanity such as \"cock-sucking vulture\" appears in the text.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Only strong language such as \"give me a fuckin' plaque\" and a pitched assassination plot; nothing sensitive occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters in quick, building comic dialogue.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A short play from a Dramatic Publishing collection with labels \"CAESAR\" and \"HARRISON\" and stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Rapid exchanges and pauses such as \"(long pause) Tell me THE STORY.\"",
+         "value" : [
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Benjamin Franklin. He's an inventor.\" and \"The first (pause.) Time machine?\"",
+         "value" : "A screenwriter pitching an educational film about Benjamin Franklin is pushed by a cynical producer into a time-travel action romance."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"You want historical accuracy, write a book!\"",
+         "value" : [
+            "Hollywood and history",
+            "Commerce versus truth",
+            "Creative compromise"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A producer turns Ben Franklin into a time-travel buddy film because \"You want to educate, get a job at PBS.\"",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0512" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's book with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "A cheerful school story about \"a special test\"; nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two narrators share a simple, upbeat rhymed story.",
+         "value" : "Beginner"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A rhymed Seuss and Prelutsky picture book kept in verse lines such as \"I've always lived in Dinkerville\".",
+         "value" : "Poetry"
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"If our small school does not do well, then it will be torn down\" and \"You've saved our school!\"",
+         "value" : "Pupils at quirky Diffendoofer School fear their school will close after a standardized test, but their unusual lessons help them earn the highest score."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"everyone in Flobbertown does everything the same\".",
+         "value" : [
+            "Creative teaching",
+            "Individuality",
+            "Standardized testing",
+            "School pride"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Teachers who teach \"frogs to dance, And pigs to put on underpants\".",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0513" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's classic with only cartoon conflict.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The Wickersham gang attacks Horton: \"They beat him! They mauled him!\"",
+         "value" : [
+            "Violence"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two narrators trade lines and voice Horton, the Kangaroo, the eagle and the Mayor.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Dr. Seuss's rhymed book, kept in verse lines such as \"A person’s a person, no matter how small\".",
+         "value" : "Poetry"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Voices shift from the sour \"Humpf!\" to the Whos crying \"We are here!\"",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I’ll just have to save him\" and \"Their voices were heard!\"",
+         "value" : "Horton the elephant protects a speck of dust holding the town of Who-ville against jungle animals who mock and cage him until the Whos make themselves heard."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"For every voice counts!\"",
+         "value" : [
+            "Every voice counts",
+            "Standing up for the vulnerable",
+            "Persistence",
+            "Belief"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Playful rhyme carries a sincere message about protecting the small.",
+         "value" : [
+            "Whimsical",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0514" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Silly, clean humour.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Villainy is purely comic advice about lairs and laughs; nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two narrators with comic voices, gestures and laugh variations.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "medium",
+         "evidence" : "A humorous how-to guide (Chronicle Books) presented as numbered steps such as \"Step 1: Choosing an Evil Name\".",
+         "value" : "Nonfiction"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Directions such as \"(in a heavy accent)\", \"(assume a physical tick)\" and repeated \"(trademark gesture)\".",
+         "value" : [
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"THE EVIL LAUGH – A Must-Have\" and \"And that’s How to be a Villain!\"",
+         "value" : "Two speakers present a tongue-in-cheek guide to becoming a supervillain, from choosing a name and evil laugh to picking a lair and an evil plan."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"Make your new designation echo in the minds of the timid\".",
+         "value" : [
+            "Villain parody",
+            "Branding and image",
+            "Pop culture"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Advice like \"spandex is a privilege, not a right!\" and rehearsed evil laughs.",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0515" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild profanity and joking references to horror violence.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Gory lines like \"No, the kids are dead\" are hypothetical horror-movie jokes, so nothing sensitive actually occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two narrators slip into quick character bits such as a jock, a parent and a babysitter.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "medium",
+         "evidence" : "A humorous survival guide (Quirk) cut into sections like \"THE SEVEN DEADLY HORROR MOVIE SINS\".",
+         "value" : "Nonfiction"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Directions include \"(In a Steve Erwin accent)\" and \"Actor 1 begins to turn with a stricken look then pantomimes\".",
+         "value" : [
+            "Vocal Variety",
+            "Dialect",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"the C.R.A.V.E. method (COVER, RECON, ARSENAL, VEHICLE, ESCAPE)\".",
+         "value" : "Two narrators explain how to tell you are trapped in a horror movie, the C.R.A.V.E. escape method and the seven deadly sins that get characters killed."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"They’re killed by ignorance.\"",
+         "value" : [
+            "Horror movie clichés",
+            "Genre parody",
+            "Survival"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Mock-serious advice such as \"Don’t go into the abandoned mannequin factory.\"",
+         "value" : [
+            "Lighthearted",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0516" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's comedy with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "The rampage is nursery-rhyme slapstick (\"London Bridge is falling down!\"); nothing sensitive is present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two actors play a narrator, teacher, students and many nursery characters with pantomimed crowds.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Scholastic picture book adapted with labels such as \"MR. HATCHERY\", \"HUMPTY\" and \"KING COLE\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "\"Both actors will create the pantomimes\", including \"pantomime a great battle with Humpty\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"It was an . . . Egg-Ceedingly large Humpty Dumpty!!\"",
+         "value" : "A guest reader livens up a nursery rhyme by telling how a giant, fed-up Humpty Dumpty wrecks Mother Goose Land until the king's men catch him and a wig makes him a star."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"Oh, look, the tubby bald eggman is falling off the wall\".",
+         "value" : [
+            "Teasing and revenge",
+            "Nursery rhyme parody",
+            "Self-image"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A giant Humpty rampages through nursery rhymes until he is given a wig and becomes an Elvis-style star.",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0517" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A family story with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Riley's sadness after a move and a plan to run away are handled gently, with nothing sensitive such as illness or harm present.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "One actor alone plays Sadness, Fear, Disgust and Riley, each a strong distinct voice.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Random House book adaptation of the film, with narrators and labels such as \"JOY\" and \"SADNESS\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions such as \"(scowling, screaming, growling)\", \"(exceedingly glum)\" and Joy drawing \"the circle of Sadness\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"the family moved from Minnesota to San Francisco\" and \"Wait! Stop! I want to get off!\"",
+         "value" : "Inside an eleven-year-old's mind after her family moves to San Francisco, Joy learns that Sadness is needed to help Riley share her feelings and stop running away."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Sadness, it’s up to you . . . Riley needs you.\"",
+         "value" : [
+            "Value of sadness",
+            "Emotions",
+            "Moving and change",
+            "Family"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Comic emotions give way to Riley crying \"I miss home\" and a gold and blue memory.",
+         "value" : [
+            "Lighthearted",
+            "Bittersweet",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0518" : {
+      "audience_level" : {
+         "confidence" : "low",
+         "evidence" : "The deaths and cruel guardians are cartoonish children's-book content, though both are present.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "James's parents \"got eaten up by an enormous angry rhinoceros\", the aunts later \"lay lifeless\", and they abuse the orphan (\"You disgusting little beast!\", \"No! We are counting our money!\").",
+         "value" : [
+            "Death",
+            "Abuse"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Two actors play two narrators, both aunts, James, five insects, an old man and city officials.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Roald Dahl's Puffin novel, cut with chapter notes and added labels such as \"NARRATOR 1\" and \"JAMES\".",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "The note asks actors to show non-speaking characters \"through body stances and sounds\", with business like \"crashing into furniture, walls and each other\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"The great peach started to lean forward\" and \"the very pinnacle of the Empire State Building\".",
+         "value" : "An orphan mistreated by two aunts escapes inside a magic giant peach with giant insects, crosses the ocean and lands in New York with new friends."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"once the saddest and loneliest boy\" who \"now had all the friends in the world\".",
+         "value" : [
+            "Friendship",
+            "Found family",
+            "Escaping cruelty",
+            "Courage"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "A giant peach flown by seagulls lands on the Empire State Building.",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0519" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Clean parody; the only death is a brief mention.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "The pigs mention in passing that \"Maw and Paw passed away about 10 years back\".",
+         "value" : [
+            "Death"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Actor 1 alone plays twelve roles, with Actor 2 covering eight more in a rapid parody.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A Playscripts comedy with labels such as \"CINDY\", \"HD\", \"STILTSKIN\" and \"WOLF\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Written accents such as \"I'm shavin', and the hairy guy\" and the Captain who \"speaks extremely quickly\", plus \"Chuh-chunk\" scene cues.",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"you three pigs staged the destruction of your homes\" and \"We did it! Guilty\".",
+         "value" : "Fairy-tale detectives and prosecutors investigate the toppled houses of the three little pigs and discover the pigs framed the wolf for insurance money."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"How many times do I have to get arrested for crimes I don't commit?\"",
+         "value" : [
+            "Fairy tale parody",
+            "Justice and wrongful accusation",
+            "Greed"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A police procedural parody where the three pigs turn out to be insurance fraudsters.",
+         "value" : [
+            "Lighthearted",
+            "Satirical"
+         ]
+      }
+   },
+   "IC-0520" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's classic with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Environmental loss (\"The very last Truffula Tree of them all!\") with no sensitive content.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two narrators, a split Once-ler and the Lorax in a sustained rhymed arc from greed to regret.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Dr. Seuss's rhymed book kept in verse lines such as \"I speak for the trees, for the trees have no tongues.\"",
+         "value" : "Poetry"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "The Lorax speaks \"with a sneeze\" and \"(coughing)\" against the Once-ler's \"(yelling)\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I chopped down a Truffula Tree\" and \"It's a Truffula Seed. It's the last one of all!\"",
+         "value" : "The Once-ler recounts how his greed for Thneeds destroyed the Truffula forest despite the Lorax's warnings, then hands a child the last seed."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"UNLESS someone like you cares a whole awful lot, nothing is going to get better\".",
+         "value" : [
+            "Environmental destruction",
+            "Greed",
+            "Responsibility",
+            "Hope for the future"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Playful invented words frame a sad warning ending with \"UNLESS.\"",
+         "value" : [
+            "Earnest",
+            "Bittersweet",
+            "Whimsical"
+         ]
+      }
+   }
+}

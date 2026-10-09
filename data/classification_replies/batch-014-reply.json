@@ -1,0 +1,402 @@
+{
+ "IC-0521": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A script with speaker labels and stage directions such as \"Pulls out her phone\"."},
+  "tone": {"value": ["Lighthearted", "Whimsical"], "confidence": "high", "evidence": "Mock legal banter such as \"motion to stop making motions\" turns a door-holding standoff into farce."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "The mock-trial argument over who goes through the door contains no sensitive content."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two lawyers and a late-arriving mediator, with escalating shouting matches such as \"YOU ARE A VERITABLE LIGHT\"."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Three labelled characters, all-caps escalations and stated business such as \"Clicks her phone, puts it in her pocket\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Clean workplace comedy with no mature content."},
+  "themes": {"value": ["Politeness taken to extremes", "Mutual admiration", "Professional rivalry", "Courtroom parody"], "confidence": "medium", "evidence": "The lawyers compete to praise each other, ending with \"let me get that door for you\"."},
+  "subject_matter": {"value": "Two lawyers holding a conference-room door argue in mock courtroom style over who should go through first until a mediator rules on it.", "confidence": "high", "evidence": "\"I offered to hold the door open\" and the mediator Jeremy's ruling."}
+ },
+ "IC-0522": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A duo play with a character list, scene heading and speaker labels SPEAKER and ANXIETY."},
+  "tone": {"value": ["Lighthearted"], "confidence": "high", "evidence": "Anxiety's jokes such as \"I Mississippied\" keep the self-help talk comic."},
+  "content_warnings": {"value": ["Mental Health"], "confidence": "high", "evidence": "Anxiety is depicted throughout as \"A condition that plagues young people\" with its symptoms acted out."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two contrasting characters, a calm speaker and an erratic, crying, shouting Anxiety."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Anxiety is described \"jumping across the stage behind the speaker\" and swings from crying to anger."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mild profanity and a herpes joke but no serious mature content."},
+  "themes": {"value": ["Coping with anxiety", "Self-doubt", "Fear of failure", "Asking for help"], "confidence": "high", "evidence": "The five tips end with \"talk to someone\"."},
+  "subject_matter": {"value": "A calm speaker presents five coping tips for anxiety while a personified Anxiety heckles, panics and finally fades into the background.", "confidence": "high", "evidence": "\"These are 5 things you can do\" and Anxiety's fading voice at the end."}
+ },
+ "IC-0523": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A scene heading \"INT: Alex\" style script with speaker names and stage directions."},
+  "tone": {"value": ["Lighthearted"], "confidence": "high", "evidence": "Banter about snacks and puns such as \"golden delicious is a type of apple\"."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "Two friends brainstorm a school project; nothing sensitive occurs."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two friends with contrasting temperaments plus pantomimed business."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "Stated business such as \"Pantomimes carrying chips and a juicebox\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Clean comedy with no mature content."},
+  "themes": {"value": ["Creative collaboration", "Friendship", "School assignments", "Procrastination"], "confidence": "medium", "evidence": "\"Let’s make a film\" and repeated delays before they start."},
+  "subject_matter": {"value": "Two high school friends brainstorm a creative film about an apple for English class, get sidetracked by snacks, and head out to buy fruit.", "confidence": "high", "evidence": "\"We have to do something, anything creative with an apple\"."}
+ },
+ "IC-0524": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A script with a character list, performer split and speaker labels such as WITCH and PLATE."},
+  "tone": {"value": ["Satirical", "Whimsical"], "confidence": "high", "evidence": "The curse becomes a workplace briefing, \"Boilerplate human resources stuff\"."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "The servants only discuss a kidnapping scheme that never happens, and the curse is comic, so no sensitive content occurs."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Thirteen labelled characters split between two performers."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Rapid exchanges among PLATE, BROOM, CUP, BUCKET, FOOTSTOOL, KNIFE and others."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mild crude humor but no mature content."},
+  "themes": {"value": ["Workplace power and fairness", "Collective punishment", "Kindness", "Fairy-tale parody"], "confidence": "medium", "evidence": "\"You cursed us all for someone else’s actions\"."},
+  "subject_matter": {"value": "After a witch curses a selfish prince, his servants turned household objects sit through her HR briefing and scheme to trap a bookish woman until the witch calls off the curse.", "confidence": "high", "evidence": "\"So You Woke Up Cursed, What Now?\" and \"Curse off!\"."}
+ },
+ "IC-0525": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A script with suggested doubling and speaker labels for each character."},
+  "tone": {"value": ["Lighthearted", "Whimsical"], "confidence": "high", "evidence": "A kindergartner narrates in noir style: \"I solve crimes\"."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "The only harm is to a teddy bear's stuffing, so no sensitive content occurs."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Ten characters doubled between two performers with flashbacks and transitions."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Noir voiceover, many characters and business such as \"Brooke jumps in front of the gum\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mild profanity such as \"who the hell are you\" but no mature content."},
+  "themes": {"value": ["Kid detective parody", "Friendship", "Loyalty", "Teacher burnout"], "confidence": "medium", "evidence": "\"our love for each other is the true diamond\" and the teacher's rant about pay."},
+  "subject_matter": {"value": "Kindergarten detective Brooke Marigold sneaks out of school to find a classmate's stolen teddy bear and uncovers a diamond plot run by their own teacher.", "confidence": "high", "evidence": "\"TEDDY IS GOOOOOOOOONE\" and the unmasking of Mrs. Gladstone."}
+ },
+ "IC-0526": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A humorous interpretation script with a character list, speaker labels and stage directions."},
+  "tone": {"value": ["Lighthearted", "Dark"], "confidence": "medium", "evidence": "Crude comedy built on drugs, neglect and trafficking, ending with a girl sold off."},
+  "content_warnings": {"value": ["Substance Use", "Sexual Content", "Violence"], "confidence": "high", "evidence": "The mac and cheese has \"added crystal methamphetamine\", there are \"hot cybers\" and \"water-based lubricant\" jokes, and Ryder \"covers her mouth, ties her up\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Five characters including a written southern dialect and a sudden voice change for Anthony."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality"], "confidence": "high", "evidence": "Ketamine speaks in written dialect such as \"doesn’t believe in warshing\" and there is physical business at the well."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Drug, sexual and trafficking jokes appear throughout the performance text."},
+  "themes": {"value": ["Snobbery and class", "Absurdist shock humor", "Human trafficking parody"], "confidence": "medium", "evidence": "Cassadee's disdain for the trailer park and Anthony's reveal as \"a trafficker\"."},
+  "subject_matter": {"value": "A snobby nine-year-old visits a classmate's trailer, where the girls pull a supposedly non-verbal man from a well who turns out to be a trafficking boss and has her taken away.", "confidence": "high", "evidence": "\"IS THERE A KID DOWN THERE\" and \"I was thinking of selling you\"."}
+ },
+ "IC-0527": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "\"A play in ten minutes\" with a cast list, setting and production notes."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "Polite etiquette advice frames scenes of zombies eating humans, ending \"politeness and manners never go out of style\"."},
+  "content_warnings": {"value": ["Violence", "Death"], "confidence": "medium", "evidence": "A zombie \"basically eats him\", the parents \"take down BILL\", and a son's partner \"ended up chopping off his head\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Some eighteen characters across vignettes, with grunting and polished speech."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Zombies \"should move at a zombie like pace\" and alternate growls with clear speech."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Gore such as \"the blood just sprays right out\" is described."},
+  "themes": {"value": ["Manners and civility", "Instinct versus etiquette", "Family acceptance", "Dark comedy"], "confidence": "medium", "evidence": "\"manners are a general awareness of others\"."},
+  "subject_matter": {"value": "A refined zombie reads from her etiquette book while vignettes show zombies failing at conversation, dating, dinner parties and family life, often by eating humans.", "confidence": "high", "evidence": "Chapter headings such as \"Chapter 7- Zombie Dating\"."}
+ },
+ "IC-0528": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A script with speaker names and stage directions such as \"The bus stops suddenly\"."},
+  "tone": {"value": ["Lighthearted", "Whimsical"], "confidence": "high", "evidence": "An absurd desert jam festival where jam selling is \"a life and death competition\"."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "Being put off a bus and fears of dying in the desert are comic; nothing sensitive occurs."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Alex meets a series of eccentric characters, each a distinct comic type."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "Shouting Jimble, pageant-star Sandra and booming Gladiator contrast with Alex."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Clean comedy with no mature content."},
+  "themes": {"value": ["Obsession", "Competition", "Being stranded", "Absurd humor"], "confidence": "medium", "evidence": "\"I need my jam, man!\" and Alex abandoning his old life."},
+  "subject_matter": {"value": "Stranded in the desert, a teen wanders a bizarre jam festival seeking help and, after tasting a champion's jam, gives up his old life to become the new jam champion.", "confidence": "high", "evidence": "\"Congratulations to your new Jam-God, Alex Mckinney\"."}
+ },
+ "IC-0529": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A cast list with speaker names and stage directions such as \"Billy hits bezel\"."},
+  "tone": {"value": ["Lighthearted", "Earnest"], "confidence": "medium", "evidence": "Time-travel gags lead to the sincere realisation \"You’re my best friend, right?\"."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "Hallway teasing and a cartoon T-Rex involve no sensitive content."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Many characters and repeated rewinds that demand precise resets."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control", "Physicality"], "confidence": "high", "evidence": "Each \"Billy hits the bezel\" rewind repeats earlier lines with exact timing."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Clean school comedy with no mature content."},
+  "themes": {"value": ["Being yourself", "Friendship", "Popularity", "Second chances"], "confidence": "high", "evidence": "\"you're not yourself anymore\" from Denny."},
+  "subject_matter": {"value": "A bullied student uses a teacher's time-rewinding watch to win comebacks, a date and a game, then realises he has lost himself and his best friend and goes back.", "confidence": "high", "evidence": "\"I call it the Mulligan\" and Billy's return to Denny."}
+ },
+ "IC-0530": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A character table and speaker labels such as BRAIN, HEART and KABAB."},
+  "tone": {"value": ["Lighthearted", "Whimsical"], "confidence": "high", "evidence": "Organs run a workplace meeting and food is interrogated as suspects."},
+  "content_warnings": {"value": ["Violence"], "confidence": "low", "evidence": "The kabab \"pulls out a knife and holds stomach hostage\" and Stomach \"punches kabab in groin area\", though the violence is cartoonish."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Eight characters with assigned voices and accents."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "The voice table lists \"Indian Accent Food 2\" and a Persian accent, plus business such as pumping and heavy breathing."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Slapstick threats and a groin punch but no mature content."},
+  "themes": {"value": ["Teamwork", "Scapegoating", "The body as a workplace"], "confidence": "medium", "evidence": "\"we didn’t work as a team\" and the blamed Stomach solving the case."},
+  "subject_matter": {"value": "A teen's organs, led by the Brain, interrogate the foods he ate at a buffet to find the cause of his food poisoning and finally expel the guilty kabab.", "confidence": "high", "evidence": "\"JOSH HAS FOOD POISONING!\" and Josh throwing up at the end."}
+ },
+ "IC-0531": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A character list with abbreviated speaker labels and stage directions."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "It mocks pushy parenting through a mad scientist's \"Parental Guiltinator 2000\"."},
+  "content_warnings": {"value": ["Death"], "confidence": "low", "evidence": "The robot Jaeger says \"I had killed the little doggy\" after stepping on a dog; otherwise the content is comic."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Eleven characters with Russian, Bavarian and Spanish voices."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality"], "confidence": "high", "evidence": "Written accents such as \"You live streamed ze whole thing\" and remote-controlled robot moves."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A passing joke about leaving out porn but no mature content."},
+  "themes": {"value": ["Parental pressure", "Living through children", "Overachievement", "Choosing your own path"], "confidence": "high", "evidence": "\"Why can’t we just be children?\""},
+  "subject_matter": {"value": "A mad scientist builds a teenage son and pushes him into every activity until rival scientists' super-children nearly battle and the son persuades the parents to let the kids choose.", "confidence": "high", "evidence": "\"thus creating the Perfect Son!\" and the son's closing appeal."}
+ },
+ "IC-0532": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A Grimm fairy tale from a story collection, told by a narrator with dialogue assigned to speakers."},
+  "tone": {"value": ["Whimsical", "Lighthearted"], "confidence": "high", "evidence": "Animals form a band and the robber mistakes them for \"a horrible witch\" and a judge."},
+  "content_warnings": {"value": ["Violence"], "confidence": "medium", "evidence": "The hound says \"my master has almost beaten me to death\" and the animals attack a robber, who is scratched, bitten and kicked."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Nine roles split between two actors with animal sounds."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "The note says \"Plan pantomimes, sounds and characters carefully\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Folk-tale cruelty and slapstick only."},
+  "themes": {"value": ["Aging and usefulness", "Teamwork", "Resourcefulness"], "confidence": "medium", "evidence": "Old animals no longer wanted find \"something better than death\" together."},
+  "subject_matter": {"value": "Four aging farm animals fleeing their masters set out to be town musicians in Bremen and frighten robbers out of a house with their combined noise.", "confidence": "high", "evidence": "\"they made such a tremendous noise\" and the robbers fleeing."}
+ },
+ "IC-0533": {
+  "literary_form": {"value": "Nonfiction", "confidence": "medium", "evidence": "A humor essay from Ellen DeGeneres's book, split between two speakers."},
+  "tone": {"value": ["Lighthearted"], "confidence": "high", "evidence": "Mock advice such as \"say something about Gloria Estefan\"."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "Party embarrassments and mild bathroom humor contain no sensitive content."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two narrators sharing lines with quick character voices such as the old lady."},
+  "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety"], "confidence": "medium", "evidence": "Split one-liners and an \"old lady voice\" drive the comedy."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Little mature content."},
+  "themes": {"value": ["Embarrassment", "Social awkwardness", "Mock self-help"], "confidence": "high", "evidence": "\"how to survive life’s embarrassing moments\""},
+  "subject_matter": {"value": "Two speakers offer mock advice for surviving embarrassing moments at a party, from forgetting a name to choosing between a hug, kiss or handshake.", "confidence": "high", "evidence": "Situation headings such as \"FORGETTING SOMEONE’S NAME\"."}
+ },
+ "IC-0534": {
+  "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A radio fiction piece performed with many speaker labels and scene breaks."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "It mocks Santa's \"questionably ethical corporate headquarters\"."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "Children's tantrums and a coal lobbyist are played for comedy; no sensitive content occurs."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Some eighteen roles split between two actors."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Rapid shifts among newscasters, elves, Santa, children and parents."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Little mature content."},
+  "themes": {"value": ["Snap judgments", "Corporate bureaucracy", "Fairness", "Moral nuance"], "confidence": "high", "evidence": "\"Every kid is both. Life is nuanced.\""},
+  "subject_matter": {"value": "A new elf in Santa's Naughty or Nice Division questions the snap-judgment system, is sent to the toy factory, and quietly sends every child a present.", "confidence": "high", "evidence": "Spark \"pulls only the green cable\" at the end."}
+ },
+ "IC-0535": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A novel cutting narrated by NARRATOR with character dialogue."},
+  "tone": {"value": ["Whimsical"], "confidence": "high", "evidence": "Wordplay such as guests eating their words at a banquet."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "A fantasy journey with no sensitive content."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Many characters, including the king, merchants, the Man and the Terrible Trivium."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "A suggested division gives each actor many roles plus shared narration."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "No mature content."},
+  "themes": {"value": ["Curiosity", "Value of learning", "Wasted time", "Wordplay"], "confidence": "high", "evidence": "\"FOR MILO, WHO NOW KNOWS THE WAY.\""},
+  "subject_matter": {"value": "Bored Milo drives through a mysterious tollbooth to Dictionopolis, the Island of Conclusions and the Terrible Trivium, then returns home eager to learn.", "confidence": "high", "evidence": "\"There’s just so much to do right here.\""}
+ },
+ "IC-0536": {
+  "literary_form": {"value": "Nonfiction", "confidence": "medium", "evidence": "A humor essay from DeGeneres's collection Sand in My Bra, split between two speakers."},
+  "tone": {"value": ["Lighthearted"], "confidence": "high", "evidence": "Comic exaggerations such as the flight attendant's \"Club soda, be right back\"."},
+  "content_warnings": {"value": ["Violence"], "confidence": "low", "evidence": "The narrator gives a nun a \"playful punch\" that leaves a bruise, joking it \"could easily have been there before I hit her\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two narrators who also play the nun, the flight attendant and an investigator."},
+  "performance_demands": {"value": ["Vocal Variety", "Physicality", "Character Differentiation"], "confidence": "medium", "evidence": "Stated business such as \"package explodes as she tries to open it\" and sudden panics."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Slapstick only, with no serious mature content."},
+  "themes": {"value": ["Fear of flying", "Air travel absurdities", "Comic anxiety"], "confidence": "high", "evidence": "\"Oh sweet Lord, I’m going to die!\""},
+  "subject_matter": {"value": "The narrator recounts a nerve-wracking flight, from punching a nun by accident to obsessing over peanuts, airline food and imagined crashes.", "confidence": "high", "evidence": "\"I felt edgy the moment I stepped into the aircraft\"."}
+ },
+ "IC-0537": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with speaker labels and stage directions."},
+  "tone": {"value": ["Satirical", "Ironic", "Dark"], "confidence": "high", "evidence": "It mocks playwriting rules and ends with a shooting followed by \"Is that good playwriting or bad playwriting?\""},
+  "content_warnings": {"value": ["Suicide", "Violence", "Death"], "confidence": "high", "evidence": "The Jumper says \"I'm going to jump, and nobody can stop me\", a gunshot wounds the Teacher, who \"collapses and dies dramatically\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Three characters, constant freezes and rewinds, and one actor doubling two roles."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Repeated clicker freezes such as \"THE TEACHER clicks to freeze the action\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A suicide threat and an on-stage shooting death."},
+  "themes": {"value": ["Craft of playwriting", "Conflict and theme", "Satire of drama teaching", "Control"], "confidence": "high", "evidence": "\"Without intense oppositional desires, more commonly known as\" conflict."},
+  "subject_matter": {"value": "A playwriting teacher freezes and rewinds a rooftop suicide scene to lecture on craft until the characters rebel, a fight breaks out and the teacher is shot.", "confidence": "high", "evidence": "\"I just got tenure.\" before the teacher dies."}
+ },
+ "IC-0538": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A humorous picture-book text split between two narrators."},
+  "tone": {"value": ["Whimsical"], "confidence": "high", "evidence": "Tall tales such as \"meat-eating vegetables\" and atomic cows."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "Fanciful explanations of household rules contain no sensitive content."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two narrators with sound effects and unison lines."},
+  "performance_demands": {"value": ["Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Stated business such as \"both actors cross their legs\" and sound cues."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "No mature content."},
+  "themes": {"value": ["Grown-up rules", "Conspiracy humor", "Imagination"], "confidence": "high", "evidence": "\"The reasons grown-ups tell you to do things are not true!\""},
+  "subject_matter": {"value": "Two narrators expose absurd secret reasons behind grown-up rules, such as eating vegetables to keep them from ruling the earth.", "confidence": "high", "evidence": "\"GROWN-UP RULE #31\" and the rules that follow."}
+ },
+ "IC-0539": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A rhyming play with many speaker labels and stage directions."},
+  "tone": {"value": ["Whimsical", "Lighthearted"], "confidence": "high", "evidence": "Seuss-style rhymes retell the tragedy and give it a happy ending."},
+  "content_warnings": {"value": ["Violence", "Suicide"], "confidence": "medium", "evidence": "\"MERCUTIO is stabbed in the chest\", Romeo kills Tybalt, and Romeo plans to \"consume this authentic death cracker\" at Juliet's tomb before the deaths are undone."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Sixteen roles split between two actors."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Rhymed couplets and business such as \"He assumes a safety position\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "low", "evidence": "Stabbings and a suicide attempt occur, although they are comic and reversed."},
+  "themes": {"value": ["Shakespeare parody", "Young love", "Family feud", "Rewriting tragedy"], "confidence": "high", "evidence": "\"So we tweaked the plot a bit-made it less gritty.\""},
+  "subject_matter": {"value": "Two narrators retell Romeo and Juliet in Seussian rhyme, then swap the death cracker for a saltine so nobody dies and the feud ends.", "confidence": "high", "evidence": "\"Now, you may have noticed that no one here died.\""}
+ },
+ "IC-0540": {
+  "literary_form": {"value": "Poetry", "confidence": "high", "evidence": "Rhymed, lineated verse such as the McBean speeches."},
+  "tone": {"value": ["Whimsical", "Earnest"], "confidence": "medium", "evidence": "Playful rhyme carries a sincere closing moral that \"no kind of Sneetch is the BEST\"."},
+  "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "The Star-bellies exclude others: \"nothing to do with the plain-bellied sort\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two narrators plus McBean and two groups of Sneetches."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Rhythmic rhyme and the tongue-twisting \"Off again, on again\" passage."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "Discrimination is shown only as a children's allegory."},
+  "themes": {"value": ["Prejudice and exclusion", "Conformity", "Exploitation", "Equality"], "confidence": "high", "evidence": "\"the Sneetches got quite a bit smarter that day\""},
+  "subject_matter": {"value": "Star-bellied Sneetches shun plain-bellied ones until a huckster's machines add and remove stars, leaving everyone broke and wiser.", "confidence": "high", "evidence": "\"all it will cost you is ten dollars eaches\"."}
+ },
+ "IC-0541": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A collection of short modern fables told by narrators with assigned character lines."},
+  "tone": {"value": ["Lighthearted", "Whimsical"], "confidence": "high", "evidence": "Comic morals such as \"Don’t play with Matches\"."},
+  "content_warnings": {"value": ["Death", "Violence"], "confidence": "medium", "evidence": "The closing story recounts that the ruler \"had Aesop thrown off a cliff\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Many short fables with rapid switches among dozens of animal and object characters."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "high", "evidence": "Rapid labelled shifts such as ACTOR 1 (SQUID) and ACTOR 2 (RABBIT) with punchline morals."},
+  "audience_level": {"value": "Middle School", "confidence": "low", "evidence": "Only a brief comic mention of Aesop's death."},
+  "themes": {"value": ["Modern fables", "Morals", "Human foibles"], "confidence": "high", "evidence": "Each fable ends with a \"MORAL\"."},
+  "subject_matter": {"value": "Two narrators perform a string of short modern fables about squids, grasshoppers, pigeons and breakfast foods, each with a comic moral.", "confidence": "high", "evidence": "\"MORAL: Squids will be Squids\"."}
+ },
+ "IC-0542": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "Fractured fairy tales from a picture book, narrated by Jack the Narrator."},
+  "tone": {"value": ["Whimsical", "Lighthearted"], "confidence": "high", "evidence": "Fairy tales go wrong, such as the frog who says \"I was just kidding!\""},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "The Giant's threats are never carried out and nothing sensitive occurs."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Nineteen labelled roles split between two actors."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Stated business such as \"Actor 2 pantomimes the making of a Stinky Cheese Man\"."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "No mature content."},
+  "themes": {"value": ["Fractured fairy tales", "Storytelling conventions", "Absurd humor"], "confidence": "high", "evidence": "\"That’s not a Fairly Stupid Tale.\""},
+  "subject_matter": {"value": "Jack the Narrator tells a series of fractured fairy tales until a Giant takes over and traps him in an endless story loop.", "confidence": "high", "evidence": "\"Once upon a time there was a Giant\" repeated at the end."}
+ },
+ "IC-0543": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A picture-book story told by a narrator with character dialogue."},
+  "tone": {"value": ["Whimsical", "Lighthearted"], "confidence": "high", "evidence": "A loud, demanding talking molar, \"COME TO PAPA!\""},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "A boy's battle with his sweet tooth contains no sensitive content."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Many characters including the narrator, Stewart, the Tooth, family, teacher and teeth."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "The Tooth shifts from shouting to \"moaning weakly\" against a calm narrator."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "No mature content."},
+  "themes": {"value": ["Self-control", "Temptation", "Healthy habits"], "confidence": "high", "evidence": "\"I’m cutting you off. Starting right now.\""},
+  "subject_matter": {"value": "Stewart's loud, candy-craving sweet tooth embarrasses him everywhere until he starves it with healthy food and knocks it out with a carrot.", "confidence": "high", "evidence": "\"CR-CR-CRUNCH\" and the tooth under his pillow."}
+ },
+ "IC-0544": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A novel cutting with a narrator and assigned character lines."},
+  "tone": {"value": ["Whimsical", "Earnest"], "confidence": "medium", "evidence": "A tiny mouse's sincere quest: \"I will be the knight in shining armor\"."},
+  "content_warnings": {"value": ["Death", "Violence"], "confidence": "medium", "evidence": "The queen \"died as she lived\", Despereaux is sentenced to die and \"pushed from behind\" into the dungeon, and the cook shouts \"Kill him!\" as Mig chops off his tail."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Nineteen labelled characters including mice, rats, royals and servants."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Vocal Variety"], "confidence": "high", "evidence": "Mig speaks in written dialect: \"we gives me some lessons in how to be a princess\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Fairy-tale peril and a comic death only."},
+  "themes": {"value": ["Courage", "Love and honor", "Forgiveness", "Being different"], "confidence": "high", "evidence": "The princess offers the rat soup in place of revenge."},
+  "subject_matter": {"value": "A tiny mouse who loves a princess is banished to the dungeon, escapes, and rescues her from a vengeful rat and a serving girl.", "confidence": "high", "evidence": "\"Princess, I have come to save you!\""}
+ },
+ "IC-0545": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with a stage setting and speaker labels PERSON and ATTENDANT."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "Polite small talk gives way to horror at an eternity of replayed lies."},
+  "content_warnings": {"value": ["Death"], "confidence": "medium", "evidence": "The Person is dead and must hear \"every lie you ever told while you were alive\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with a steady build from calm to terror."},
+  "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety", "Character Differentiation"], "confidence": "high", "evidence": "Frequent written beats and the outburst \"I said I’m sorry!\""},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "An afterlife setting and mild profanity but no graphic content."},
+  "themes": {"value": ["Honesty and lies", "Afterlife judgment", "Regret", "Accountability"], "confidence": "high", "evidence": "\"Did I really lie that much?\""},
+  "subject_matter": {"value": "A newly dead person is led to a dark room where an attendant explains they must listen to tapes of every lie they ever told.", "confidence": "high", "evidence": "The attendant describes \"ten thousand boxes of them\" of tapes."}
+ },
+ "IC-0546": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A farce with speaker labels and stage directions from a skits collection."},
+  "tone": {"value": ["Lighthearted", "Whimsical"], "confidence": "high", "evidence": "Running gags such as \"Very symbolic. Very aesthetic.\""},
+  "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "The piece is built on ethnic caricature, played in \"pseudo-Oriental fashion\" with a broken-English \"Oriental Stage Manager\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Five roles split across two actors, with stylized movement and voice."},
+  "performance_demands": {"value": ["Dialect", "Physicality", "Character Differentiation"], "confidence": "high", "evidence": "Stylized speech such as \"Wish to have your permission to introduce play\" and \"actors pantomiming most of the action\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Ethnic stereotyping warrants reviewer care, but there is no other mature content."},
+  "themes": {"value": ["Fairy-tale parody", "Work versus play", "Stylized theatre parody"], "confidence": "medium", "evidence": "\"All play and no work make for great unhappiness!\""},
+  "subject_matter": {"value": "A stage manager presents the Three Little Pigs as a mock Chinese play in which the wolf blows down two houses but is outwitted at the brick pagoda.", "confidence": "high", "evidence": "\"Brick pagoda did not give way.\""}
+ },
+ "IC-0547": {
+  "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A comic mock essay from a collection of humor pieces, split between two speakers."},
+  "tone": {"value": ["Satirical", "Ironic"], "confidence": "high", "evidence": "Pseudo-scholarly deadpan, as with the UFO that was \"Sir Chester's nose\"."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "The UFO testimonies are absurd jokes and no violence or other sensitive event actually occurs."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two narrators who voice several eyewitnesses, including a Louisiana worker."},
+  "performance_demands": {"value": ["Dialect", "Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Written dialect in \"Roy and I was catfishing in the bog\" and deadpan asides."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Some adult jokes but no mature content."},
+  "themes": {"value": ["UFO hysteria", "Mock scholarship", "Absurd humor"], "confidence": "high", "evidence": "\"Is anything out there? And if so, do they have ray guns?\""},
+  "subject_matter": {"value": "A mock-serious report surveys UFO history and eyewitness sightings, most of which turn out to have absurd explanations.", "confidence": "high", "evidence": "\"UFOs are back in the news\" and the explained incidents."}
+ },
+ "IC-0548": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with speaker labels and scene transitions between apartment and courtroom."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A sober courtroom drama ending with \"I’m going to listen.\""},
+  "content_warnings": {"value": ["Sexual Assault", "Mental Health"], "confidence": "high", "evidence": "Gabby recounts the assault (\"I said no\" and \"He just did it anyway\") and now says \"I get panic attacks\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Several characters, cross-examination and a wide emotional range from banter to rage."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Two performers cover Aaron, Gabby, two defense lawyers and bailiffs."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A sexual assault is described and there is strong profanity."},
+  "themes": {"value": ["Sexual assault survivors", "Victim-blaming in court", "Sibling bond", "Being heard"], "confidence": "high", "evidence": "\"They’ll say I wanted it.\""},
+  "subject_matter": {"value": "A young prosecutor represents his twin sister in her sexual assault case and learns that she needs to be heard rather than spoken for.", "confidence": "high", "evidence": "\"Sis, they’re all yours.\""}
+ },
+ "IC-0549": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with speaker labels MUSES, PERSEPHONE and HADES and stage directions."},
+  "tone": {"value": ["Earnest", "Serious"], "confidence": "medium", "evidence": "A sincere revisionist myth about choice and freedom."},
+  "content_warnings": {"value": ["Violence"], "confidence": "medium", "evidence": "Zeus grabs Persephone and \"They fight. She captures him\" with the necklace."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "The Hades performer must shift into Zeus in disguise and then reveal him."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "The Zeus reveal (\"whole face and demeanor changes\") and a staged fight."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A brief fight and implied menace but no graphic content."},
+  "themes": {"value": ["Escaping oppression", "Choice and self-belief", "Queer love", "Myth retold"], "confidence": "high", "evidence": "\"the only true powers in this world are choice and belief in yourself\""},
+  "subject_matter": {"value": "Fleeing Zeus, Persephone seeks refuge with Hades, a woman, falls in love with her, and outwits Zeus when he comes disguised as Hades.", "confidence": "high", "evidence": "\"Nice try, Zeus.\""}
+ },
+ "IC-0550": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A parody script with speaker labels and transitions."},
+  "tone": {"value": ["Lighthearted", "Satirical"], "confidence": "high", "evidence": "A pun-filled send-up of the witch story, as in \"which witch is which?\""},
+  "content_warnings": {"value": ["Death", "Discrimination/Slurs"], "confidence": "medium", "evidence": "\"The monkey dies\" from a spell and the Witch is dead, and Alphalbah says she is treated differently \"because of my skin color\" and is called ugly."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Many characters including Glennda, Alphalbah, munchkins, a goat teacher and the Whizard."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Vocal Variety"], "confidence": "medium", "evidence": "The midwife's accented \"Is lovely baby, is it not?\" and quick character shifts."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Cartoon deaths and teasing only."},
+  "themes": {"value": ["Being different", "Friendship", "Abuse of power", "Musical parody"], "confidence": "high", "evidence": "\"the Whizard is the wicked one\""},
+  "subject_matter": {"value": "Glennda tells munchkins how she befriended green-skinned Alphalbah at school before the lying Whizard branded her wretched.", "confidence": "high", "evidence": "\"Weren't you her friend, Glennda?\" and the flashback."}
+ },
+ "IC-0551": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "Sketches from a theatrical revue with speaker labels and stage directions."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "A parody poetess and a teacher who calls a pig with \"domestic problems written all over\" it."},
+  "content_warnings": {"value": ["Sexual Content"], "confidence": "medium", "evidence": "A workman catcalls (\"look at them gazoombas\") and the woman flashes him and asks about his \"wogabongo\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Three sketches with split poetess lines and quick character changes."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control", "Vocal Variety"], "confidence": "medium", "evidence": "Split lineated poem lines and comic interrogation rhythms."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Comic sexual innuendo but nothing explicit."},
+  "themes": {"value": ["Gender expectations", "Working mothers", "Street harassment", "Feminist satire"], "confidence": "high", "evidence": "\"no one wants to be a\" bad mother, and the catcalling sketch."},
+  "subject_matter": {"value": "Revue sketches satirize women's lives: a melodramatic poetess, a teacher shaming a working mother, and a woman turning the tables on a catcalling workman.", "confidence": "high", "evidence": "\"Welcome to kindergarten, Mrs. Johnson\" and the Hot Lunch sketch."}
+ },
+ "IC-0552": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with speaker labels CINDY and GLYNDA and stage directions."},
+  "tone": {"value": ["Whimsical", "Bittersweet"], "confidence": "medium", "evidence": "A fairy reveals that happily ever after is a field of frozen couples, then encourages Cindy to write her own."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "The fairy-tale couples are only \"Over\" in a whimsical sense; no sensitive content occurs."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with shifts from shock to rant to tears."},
+  "performance_demands": {"value": ["Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Directions such as \"Explosively ranting\" and the wand-touch freeze."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "No mature content."},
+  "themes": {"value": ["Happily ever after", "Commitment", "Disillusionment", "Writing your own future"], "confidence": "high", "evidence": "\"So, you gotta write your own After.\""},
+  "subject_matter": {"value": "A bride-to-be strays from a Disney World tour onto the field where fairy-tale couples end up, and an unemployed fairy helps her decide to marry before wiping her memory.", "confidence": "high", "evidence": "\"This is Happily Ever After.\" and the forgetting spell."}
+ },
+ "IC-0553": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with speaker labels AGNES and DOCTOR and stage directions."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "A psychiatric inquiry into a nun's dead baby and childhood abuse."},
+  "content_warnings": {"value": ["Death", "Abuse", "Sexual Assault", "Mental Health", "Violence"], "confidence": "medium", "evidence": "Agnes \"tied the cord around her neck\", her mother burned her (\"touches me down there with her cigarette\"), she says \"I hate him for what he did to me\", and the doctor assesses whether \"she was legally sane\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "A very wide emotional range including hypnosis, labor and confession."},
+  "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control", "Physicality"], "confidence": "high", "evidence": "Written silences and directions such as \"she holds her stomach in a contraction\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Infanticide, child abuse and implied rape."},
+  "themes": {"value": ["Faith and doubt", "Childhood abuse", "Guilt", "Sanity"], "confidence": "high", "evidence": "\"God! God did it to me!\""},
+  "subject_matter": {"value": "A court psychiatrist questions and hypnotizes a young nun charged with killing her newborn, uncovering her mother's abuse and the night of the birth.", "confidence": "high", "evidence": "\"The baby was discovered in a wastepaper basket\"."}
+ },
+ "IC-0554": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with character, time and setting notes and bracketed stage directions."},
+  "tone": {"value": ["Dark", "Bittersweet"], "confidence": "high", "evidence": "A tender mock wedding turns to violence with a razor."},
+  "content_warnings": {"value": ["Self-harm", "Suicide", "Violence", "Discrimination/Slurs"], "confidence": "medium", "evidence": "Alice \"has drawn blood on her neck\", Freda cries \"kill yourself Alice\", Alice \"holds the razor to FREDA's throat\", and the couple are separated \"On account of you and me\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Southern dialect and a range from flirtation to a struggle with a razor."},
+  "performance_demands": {"value": ["Dialect", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Written dialect such as \"I ain't givin' up my title\" and staged shaving, dressing and a headlock."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Self-harm, a suicide threat and violence with a razor."},
+  "themes": {"value": ["Forbidden love", "Social rejection", "Possessiveness", "Identity"], "confidence": "high", "evidence": "\"It's hard. For us. People and all. Too hard.\""},
+  "subject_matter": {"value": "In 1893 Memphis, Alice stages a secret wedding with Freda and plans to elope disguised as a man, but when Freda reveals her engagement Alice turns a razor on herself and Freda.", "confidence": "high", "evidence": "\"Ashley Roselle asked me to marry him\"."}
+ },
+ "IC-0555": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A musical play with speaker labels, song lyrics and stage directions."},
+  "tone": {"value": ["Bittersweet", "Lighthearted"], "confidence": "high", "evidence": "Louise's comic fan story ends with Patsy's death in a plane crash."},
+  "content_warnings": {"value": ["Death"], "confidence": "high", "evidence": "Louise recounts that \"Patsy Cline had been killed in an airplane crash\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with singing, direct address and comic physical business."},
+  "performance_demands": {"value": ["Physicality", "Vocal Variety"], "confidence": "medium", "evidence": "\"Lots of arm, hip and leg movements for comic effect\" and sung numbers."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mild profanity and a recounted death."},
+  "themes": {"value": ["Fandom and friendship", "Fame and loneliness", "Loss", "Country music"], "confidence": "high", "evidence": "\"It was just like finding the sister I never had.\""},
+  "subject_matter": {"value": "Houston fan Louise Seger recalls meeting Patsy Cline at a honky-tonk, their night of talk and letters, and hearing of her death.", "confidence": "high", "evidence": "\"Love . . . Always . . Patsy Cline\" closing."}
+ },
+ "IC-0556": {
+  "literary_form": {"value": "Nonfiction", "confidence": "medium", "evidence": "A humor book built on the author's mother's answering-machine messages, with Amy narrating."},
+  "tone": {"value": ["Lighthearted"], "confidence": "high", "evidence": "The mother's over-the-top worries, such as asking about a milk carton photo."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "Gang, scam and syringe worries are comic hypotheticals; nothing sensitive happens."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Many characters, including the mother's Yiddish-peppered voice."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Vocal Variety"], "confidence": "medium", "evidence": "The mother \"peppers her words with Jewish phrases\" and many callers are voiced."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Little mature content."},
+  "themes": {"value": ["Overprotective parents", "Mother-daughter relationship", "Media-fueled worry"], "confidence": "high", "evidence": "\"I love my mother, but . . .\""},
+  "subject_matter": {"value": "Amy plays her mother's anxious answering-machine messages about weather, scams and safety and imagines the absurd results.", "confidence": "high", "evidence": "\"So why does my mother always feel compelled to call me\"."}
+ },
+ "IC-0557": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with speaker labels and stage directions in a prison cell."},
+  "tone": {"value": ["Dark", "Serious", "Bittersweet"], "confidence": "high", "evidence": "A tender friendship ends in a joint suicide."},
+  "content_warnings": {"value": ["Death", "Suicide", "Violence", "Abuse", "Self-harm", "Discrimination/Slurs"], "confidence": "high", "evidence": "A shopkeeper \"Shot Marcel in the neck\", Dee's father \"threw her down the stairs\", Dee \"stuck a bread knife in his side\", white people \"stick out a leg and trip me\", and Jamie \"pushes the knife into her own stomach\" after Dee says \"Do me first\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Each actor plays a character at two ages with a very wide emotional range."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Young and adult versions of each woman plus mimed dusting and the stabbing."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A suicide pact, domestic abuse and racist violence."},
+  "themes": {"value": ["Interracial friendship", "Racism and segregation", "Despair", "Love as refuge"], "confidence": "high", "evidence": "\"It's only when you walk with me you in trouble.\""},
+  "subject_matter": {"value": "A Black and a white teenage inmate befriend each other in a 1950s prison, and years later, unable to survive together outside, they end their lives.", "confidence": "high", "evidence": "\"We were happy when we were inside.\""}
+ },
+ "IC-0558": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A sketch from a play with speaker labels ANNETTE and GINA."},
+  "tone": {"value": ["Lighthearted", "Ironic"], "confidence": "high", "evidence": "The girls draw absurd lessons from West Side Story."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "Killings are only recapped from a movie or posed as silly hypotheticals, so nothing sensitive happens in the scene."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters sustained in strong accents."},
+  "performance_demands": {"value": ["Dialect", "Pacing/Timing Control"], "confidence": "high", "evidence": "The note calls for \"Strong Italian accents\" and quick back-and-forth."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "References to sex and murder in the movie, played comically."},
+  "themes": {"value": ["Teen friendship", "Unhealthy romance", "Self-worth"], "confidence": "high", "evidence": "\"You are losing yourself in him, Annette.\""},
+  "subject_matter": {"value": "Two Italian-American teen girls tearfully discuss West Side Story, loyalty and Annette's cheating boyfriend.", "confidence": "high", "evidence": "\"It is my favorite movie of all time!!\""}
+ },
+ "IC-0559": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A memoir by a 911 operator, split between narrators and callers."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "\"Interesting? Yeah, but not amusing.\""},
+  "content_warnings": {"value": ["Suicide", "Death", "Violence", "Abuse", "Sexual Assault", "Substance Use"], "confidence": "high", "evidence": "A girl reports her mother \"shot herself. Oh my God.\", a caller says he \"slammed me up against the wall\", a boy \"was molested by a guy\", and a teen's mother is \"smoking crack\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Sixteen roles from operators to panicked callers."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Directions such as \"female screaming hysterically\" and \"calm and blasé\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Suicide, child molestation and domestic violence are described."},
+  "themes": {"value": ["Secondary trauma", "Domestic violence", "Helplessness", "Faith and resilience"], "confidence": "high", "evidence": "\"Someone could die in my ear today\""},
+  "subject_matter": {"value": "Two 911 operators recount calls about a mother's suicide, domestic violence, drug use and child abuse, and how the work affects them.", "confidence": "high", "evidence": "\"Every day that I sit down at a console in the 911 center\"."}
+ },
+ "IC-0560": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with speaker labels GAIL and LYNETTE and stage directions."},
+  "tone": {"value": ["Bittersweet", "Ironic"], "confidence": "medium", "evidence": "Lynette's comic proposition reverses into Gail's confession \"Because I'm in love with you.\""},
+  "content_warnings": {"value": ["Sexual Content", "Substance Use"], "confidence": "medium", "evidence": "Lynette says \"I need to have an affair\" and \"Sleep with me\", and recalls she \"drank too many peach margaritas\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with shifts from banter to confession."},
+  "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety"], "confidence": "medium", "evidence": "Rapid exchanges and written pauses drive the turn."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "low", "evidence": "Frank talk about an affair and sex, though nothing explicit."},
+  "themes": {"value": ["Friendship and desire", "Hidden love", "Marriage and fidelity"], "confidence": "high", "evidence": "\"That my feelings can't be real?\""},
+  "subject_matter": {"value": "At lunch, Lynette asks her best friend Gail to sleep with her as a safe affair, and Gail confesses she is in love with her.", "confidence": "high", "evidence": "\"I need to have an affair.\""}
+ }
+}

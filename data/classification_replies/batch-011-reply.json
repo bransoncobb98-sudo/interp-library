@@ -1,0 +1,395 @@
+{
+"IC-0401": {
+ "literary_form": {"value": "Nonfiction", "confidence": "medium", "evidence": "A first-person account published in the CounterPunch newsletter with no speaker labels, written as continuous paragraphs."},
+ "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "The inmate dwells on rage and murder, as in \"nothing but rage, blind rage\" and \"the woman I killed, Rosalie\"."},
+ "content_warnings": {"value": ["Death", "Violence", "Abuse", "Sexual Assault", "Mental Health"], "confidence": "high", "evidence": "He recounts strangling a girl (\"my hands tightening around her throat\"), his mother holding him under water (\"forcing me down, my eyes pleading\"), rape (\"raped and beaten by two men\") and his breakdown in \"the white room\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One voice moves through terror, raving madness, remorse and weeping, as in \"(breaks down and weeps.)\"."},
+ "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Directions such as \"he emits a terrifying sound\" and the slow \"Wait. Wait.\" call for wide vocal range and controlled pauses."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Murder, child sexual assault, abuse and profanity are described directly in the performance text."},
+ "themes": {"value": ["Remorse and redemption", "Rage and its origins", "Cycle of family abuse", "Faith and forgiveness", "Life on death row"], "confidence": "medium", "evidence": "\"I couldn't forgive myself and didn't want to\" and the image of the family \"like branches of a poison tree\"."},
+ "subject_matter": {"value": "A death-row inmate recounts his abusive childhood, the murder he committed, a breakdown in solitary confinement and the remorse that followed.", "confidence": "high", "evidence": "\"the moment the bars clanged shut\" and \"the woman I killed, Rosalie\"."}
+},
+"IC-0402": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A stage monologue with the speaker label \"TIM\" and stage directions such as \"(Pause.)\"."},
+ "tone": {"value": ["Serious", "Bittersweet"], "confidence": "medium", "evidence": "Bitter jokes like \"Lights out for old Tim McCoy\" sit beside grief over losing Molly."},
+ "content_warnings": {"value": ["Violence", "Substance Use", "Death"], "confidence": "high", "evidence": "He describes the attack (\"Coat Hanger pokes me in the left eye\"), his drinking (\"I watch TV . . . I mean, listen to TV . . . and get loaded\") and his father's death (\"My father died of it when I was twelve\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One character, but he shifts between sarcasm, rage and sadness, as in \"Why wouldn't I be in a rage!\"."},
+ "performance_demands": {"value": ["Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Stated business such as \"He struggles to find a chair\" and \"Lights a cigarette and smokes it\" plus repeated \"(Pause.)\" marks."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A violent assault, drinking and mild profanity such as \"so pissed\" appear, without graphic detail."},
+ "themes": {"value": ["Disability and loss", "Anger and self-pity", "Pushing away love", "Alcohol as escape"], "confidence": "medium", "evidence": "\"I pushed her out the door\" and \"I don't want to be pitied\"."},
+ "subject_matter": {"value": "A young man blinded by a mugging and diabetes describes his anger, drinking and how he drove away the woman who loved him.", "confidence": "high", "evidence": "\"The doctor couldn't save my eye\" and \"And now she's gone.\""}
+},
+"IC-0403": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A short story from an anthology, told in first-person narrative paragraphs with quoted dialogue."},
+ "tone": {"value": ["Ironic", "Bittersweet"], "confidence": "medium", "evidence": "Comic details like \"I pity the foo’ who kills\" undercut a story that ends in shame and loneliness."},
+ "content_warnings": {"value": ["Death", "War/Trauma", "Self-harm"], "confidence": "medium", "evidence": "Lisette recounts Anne Frank's death (\"made them go to a concentration camp and killed them\"), the Holocaust is discussed (\"He killed all the Jews\"), and Davy ends by reaching into the stove \"before it really started to hurt\"."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Many characters (the teacher, Lisette, Charlie, the bus driver, the father) and shifts from comedy to quiet sadness."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Distinct voices such as Mrs. Reese, Mrs. Thompson, Lisette and Charlie (\"They can kiss my grits\") must be separated."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Holocaust deaths are described in a child's plain words and the self-injury is brief."},
+ "themes": {"value": ["Childhood innocence and history", "Shame and social rejection", "Father and son", "Prejudice and understanding"], "confidence": "medium", "evidence": "\"He just wanted to be a scary bad guy\" and the visit to \"the Friedlanders' house\"."},
+ "subject_matter": {"value": "A fourth-grader dresses as Hitler for Halloween, is shunned by classmates, and ends the night alone by the stove after trick-or-treating at the town's only Jewish family's house.", "confidence": "high", "evidence": "\"the time I went as Hitler for Halloween\" and \"until Mrs. Friedlander opened the door\"."}
+},
+"IC-0404": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A cutting of a memoir; speaker labels such as \"ISHMAEL:\" were added, but the source is a true account."},
+ "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "The narration describes atrocities flatly, ending \"I was the winner.\""},
+ "content_warnings": {"value": ["Death", "Violence", "War/Trauma"], "confidence": "high", "evidence": "Villagers burn to death (\"The woman fell and stopped moving\"), prisoners are killed (\"slit his throat in one fluid motion\") and the boys are sent to war (\"the cries of people dying\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Nine labelled speakers and a range from hopeful anticipation to shock, grief and numb killing."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Many labelled speakers (GASEMU, REBEL 1, LIEUT.) and stated business such as \"He falls to the ground, holding his face.\""},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Graphic violence such as \"carried the head of a man\" and child soldiers killing are described directly."},
+ "themes": {"value": ["Child soldiers", "Loss of family", "Loss of innocence", "Dehumanization through war"], "confidence": "high", "evidence": "\"killing had become as easy as drinking water\" and \"Your family stayed in that house.\""},
+ "subject_matter": {"value": "A boy in Sierra Leone's civil war finds his family's village burned by rebels, then is recruited by the army and becomes a killer.", "confidence": "high", "evidence": "\"Your family stayed in that house\" and \"I raised my gun and pulled the trigger\"."}
+},
+"IC-0405": {
+ "literary_form": {"value": "Prose", "confidence": "low", "evidence": "A first-person narrative in paragraphs with quoted dialogue and no speaker labels; the source form is not stated."},
+ "tone": {"value": ["Bittersweet", "Ironic"], "confidence": "medium", "evidence": "Wry jokes about Christmas specials (\"Rudolph: a loner\") frame a story of rejection and loneliness."},
+ "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "His sister calls his sexuality \"that queer thing\" and his father rejects him (\"My Bible says it's wrong\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Mostly one narrator, with short voices for the family and a dialogue with his father."},
+ "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Quick family lines (\"Is Tom short for Thomasina?\") and the beat \"Stop. Freeze frame.\" shape the piece."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Family rejection and a slur are present, with only mild profanity such as \"kicked some ass\"."},
+ "themes": {"value": ["Coming out", "Family rejection", "Loneliness at the holidays", "Faith versus acceptance"], "confidence": "high", "evidence": "\"I can accept the Bible and reject you\" and \"Uniquely myself; uniquely alone.\""},
+ "subject_matter": {"value": "A gay man spending Christmas alone recalls coming out to his family at Christmas dinner, their rejection, and his partner leaving him.", "confidence": "high", "evidence": "\"His name is Tom\" and \"I never went back to that house.\""}
+},
+"IC-0406": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A cutting of a memoir; added labels such as \"DR. JOYCE:\" do not change the source form."},
+ "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "high", "evidence": "Fear and frustration resolve into gratitude: \"That's why I consider myself a lucky man.\""},
+ "content_warnings": {"value": [], "confidence": "medium", "evidence": "The text describes a Parkinson's diagnosis and frustration (\"fist sized holes\") but no listed sensitive content."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "A narrator with a few short characters (the nurse, Dr. Joyce) and shifts from worry to anger to relief."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "The tremor is a stated physical element (\"my left arm was shaking clear up to my shoulder\") and several labelled speakers appear."},
+ "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "No listed sensitive content appears beyond a diagnosis and frustration."},
+ "themes": {"value": ["Living with illness", "Fear and acceptance", "Hiding vulnerability", "Gratitude"], "confidence": "high", "evidence": "\"Can sick people be funny?\" and \"There was nothing left to fear.\""},
+ "subject_matter": {"value": "Michael J. Fox recounts noticing a tremor, his Parkinson's diagnosis, hiding his symptoms while acting, and finally accepting the disease.", "confidence": "high", "evidence": "\"two words the neurologist bludgeoned me with that day\" and \"hiding symptoms with a repertoire\"."}
+},
+"IC-0407": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A cutting of Dave Pelzer's memoir; added labels such as \"STEVE:\" do not change the source form."},
+ "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "high", "evidence": "A son says goodbye to his dying father with tender memories, as in \"you were my Superman\"."},
+ "content_warnings": {"value": ["Abuse", "Grief"], "confidence": "medium", "evidence": "David recalls his mother's abuse (\"I paid the price when you were gone\") and the scene centres on losing his father (\"your father is not going to make it\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two characters and a wide range from yelling and begging (\"just don't let him die\") to a quiet, false-cheerful farewell."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Two labelled speakers and much stated business such as \"flings open the door\" and \"Kisses him on the forehead\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Past abuse is mentioned briefly and the father's terminal illness is handled without graphic detail."},
+ "themes": {"value": ["Father and son", "Saying goodbye", "Forgiveness", "Childhood memory"], "confidence": "high", "evidence": "\"I'll meet you at the river\" and \"Back then you were my superhero\"."},
+ "subject_matter": {"value": "An adult son learns his father is dying of cancer, shares childhood memories at his bedside, receives his fireman's badge and finally lets him go.", "confidence": "high", "evidence": "\"your father has cancer\" and \"do you still have your badge?\""}
+},
+"IC-0408": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of a novel with page markers like \"(Pg 15-16)\"; speaker labels such as \"BUDO:\" were added."},
+ "tone": {"value": ["Bittersweet", "Lighthearted"], "confidence": "high", "evidence": "Comic bathroom episode (\"I pooped on his head.\") leads to Budo's fading: \"Death is not scary for me anymore.\""},
+ "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "A bully mocks Max with a disability insult: \"Max the Moron. It's my lucky day.\""},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Six labelled characters, a child narrator and quick shifts from comedy to tender farewell."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Speakers such as DAD, MOM, MAX, TEACHER and TOMMY plus stated business like \"admires himself in the bedroom mirror\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A disability insult (\"Last chance, moron.\") and mild language such as \"the damn therapist\" appear, with nothing graphic."},
+ "themes": {"value": ["Friendship", "Being different", "Courage", "Letting go"], "confidence": "high", "evidence": "\"You have to be the bravest person in the world\" and \"I love you, Max.\""},
+ "subject_matter": {"value": "Budo, the imaginary friend of a boy named Max, describes Max's home life, a bathroom showdown with a bully, and his own fading as Max stops believing.", "confidence": "high", "evidence": "\"Max has stopped talking to me\" and \"Tommy Swinden is coming!\""}
+},
+"IC-0409": {
+ "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "An original piece headed \"A Dramatic Interpretation (Male)\" with the speaker name \"STEVE\" and stage directions such as \"(Pause.)\"."},
+ "tone": {"value": ["Bittersweet", "Lighthearted"], "confidence": "high", "evidence": "Awkward jokes (\"Does this taste funny to you?\") sit beside grief over a father who never approved of him."},
+ "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "His father dies of cancer (\"Then he coughed a few times and died\") and the son mourns (\"I locked myself in the bathroom and cried\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator with short quoted lines for the father and shifts between nervous comedy and grief."},
+ "performance_demands": {"value": ["Pacing/Timing Control", "Physicality"], "confidence": "medium", "evidence": "Directions such as \"(Uncomfortable laugh.)\" and \"Stand straighter, with new strength.\" shape the comic timing and the turn."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A death from illness and grief are central, with only mild insults such as \"you pansy\"."},
+ "themes": {"value": ["Father and son", "Masculinity", "Grief and forgiveness", "Self-acceptance"], "confidence": "high", "evidence": "\"Things Men Should do\" and \"time for me to forgive my father\"."},
+ "subject_matter": {"value": "A young man whose father never accepted him recalls the father's death from cancer, his clumsy motorcycle ride to the funeral, and burning the bike.", "confidence": "high", "evidence": "\"I'd buy a motorcycle and drive it to his funeral\" and \"set it on fire\"."}
+},
+"IC-0410": {
+ "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "An original monologue with performance directions such as \"(Cracked voice)\" and \"(Long pause)\"."},
+ "tone": {"value": ["Bittersweet", "Lighthearted"], "confidence": "high", "evidence": "Awkward-dating comedy turns to loss when Alison dies, ending \"It's just gonna be you and me\"."},
+ "content_warnings": {"value": ["Death", "Grief", "Sexual Content"], "confidence": "medium", "evidence": "Alison dies in childbirth (\"It's called Eclampsia\"), Ben mourns her, and sex is implied (\"I got a head start on that homework\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "A sharp turn from comic awkwardness to denial (\"Just shut up and stop lying to me\") and quiet grief."},
+ "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Directions like \"(Laugh then stop)\", \"(Long pause)\" and \"(Whispering)\" drive the shifts."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Implied sex, profanity such as \"I hate that shit\" and a death in childbirth appear in the text."},
+ "themes": {"value": ["Young fatherhood", "Love and loss", "Growing up suddenly"], "confidence": "high", "evidence": "\"I'm about to be a father\" and \"Your mom, she's not here now\"."},
+ "subject_matter": {"value": "A shy college student falls for a classmate who becomes pregnant; she dies in childbirth and he meets their newborn daughter alone.", "confidence": "high", "evidence": "\"I'm pregnant Ben.\" and \"I'm your dad.\""}
+},
+"IC-0411": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "An original script with stage directions such as \"(Lights up on a single man onstage.)\" and short labelled exchanges."},
+ "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "A sniper jokes about killing (\"one more widow in the world\") and calls himself \"God on the battlefield\"."},
+ "content_warnings": {"value": ["Violence", "Death", "War/Trauma", "Suicide", "Mental Health", "Discrimination/Slurs"], "confidence": "high", "evidence": "He kills his comrades (\"I left only Innokentiy and myself alive\"), shoots himself (\"pulls the trigger\"), admits madness (\"rest assured. I am.\") and uses the slur \"stupid Krauts\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Several characters, an accent, a comic Hitler parody and a slide into madness and suicide."},
+ "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Written accent (\"Is not my fault\"), voices for Yuri and Inno, and stated business such as \"Attempt to contort into swastika\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Murder of comrades, an on-stage suicide and a slur occur in the text."},
+ "themes": {"value": ["Power and dehumanization", "War and madness", "Killing as addiction", "Betrayal"], "confidence": "high", "evidence": "\"it was a drug\" and \"Friends are for peace, not war.\""},
+ "subject_matter": {"value": "A Soviet sniper in World War II describes his first kill, his growing taste for killing, the murder of his squad and best friend, and his suicide after the war ends.", "confidence": "high", "evidence": "\"I am sniper for the Glorious Red Army\" and \"Peace is hell.\""}
+},
+"IC-0412": {
+ "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "An original monologue with performance directions such as \"(Look up and close the book- embarrassed)\"."},
+ "tone": {"value": ["Bittersweet", "Lighthearted"], "confidence": "high", "evidence": "Jokes about cafeteria tacos give way to his sister's death and the yearbook reading."},
+ "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "\"They said my sister died about 25 minutes after the accident\" and he reads her friends' messages at a grief assembly."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator with brief quoted voices and a shift from comedy to grief."},
+ "performance_demands": {"value": ["Pacing/Timing Control", "Physicality"], "confidence": "medium", "evidence": "Marks such as \"(Long Pause)\" and business like \"Open book to first page\" shape the piece."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A sudden death and profanity such as \"horny little bastards\" appear, without graphic detail."},
+ "themes": {"value": ["Sibling love", "Sudden loss", "Guilt", "Community in grief"], "confidence": "high", "evidence": "\"So I gotta protect her\" and \"And I couldn't do anything.\""},
+ "subject_matter": {"value": "A high school senior describes his protectiveness of his younger sister, learns she was killed in a car accident, and reads her yearbook messages to her classmates.", "confidence": "high", "evidence": "\"my sister died about 25 minutes after the accident\" and \"Thank you for writing these amazing things\"."}
+},
+"IC-0413": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "From an anthology of plays, with speaker labels such as \"SEYMORE:\" and directions like \"(long beat)\"."},
+ "tone": {"value": ["Ironic", "Bittersweet"], "confidence": "high", "evidence": "Wry humour (\"Common Sense\") gives way to love and shame: \"an agony of love and shame\"."},
+ "content_warnings": {"value": ["Discrimination/Slurs", "Death"], "confidence": "medium", "evidence": "The word is used of his parents (\"my parents are severely retarded\") and his father dies (\"Buster died later that year\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Mostly one narrator with brief voices for Sister Mary, Mrs. Singh and Kay, shifting from comedy to tenderness."},
+ "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control", "Physicality"], "confidence": "medium", "evidence": "Labelled speakers, written \"(long beat)\" pauses and business such as \"picks up the baby from her crib\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A dated slur for intellectual disability and a death are present, with mild language."},
+ "themes": {"value": ["Parents with disabilities", "Love and shame", "Family identity", "Becoming a parent"], "confidence": "high", "evidence": "\"Who doesn't live with them in an agony of love and shame?\""},
+ "subject_matter": {"value": "In a maternity ward, a new father recalls being raised by intellectually disabled parents, his embarrassment at college, his father's death, and introducing his mother to her granddaughter.", "confidence": "high", "evidence": "\"She just gave birth to our daughter\" and \"Mom, what do you think of your new granddaughter\"."}
+},
+"IC-0414": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A cutting of an autobiography with page markers like \"(PG 29)\"; labels such as \"TEACHER:\" were added."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "He recounts childhood shame and ends with a call for change: \"there won't be any niggers any more\"."},
+ "content_warnings": {"value": ["Discrimination/Slurs", "Violence", "Abuse"], "confidence": "high", "evidence": "The text uses the slur (\"destroy a black man with a single word\"), a man is beaten (\"beat him over the head with a pop bottle\") and his mother beats him (\"my Momma beat me\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Five labelled speakers and a range from oratory to a child's humiliation and a violent scene."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Distinct voices for DICK, TEACHER, HELENE, WINO and MR. WILLIAMS, moving from speech-making to a child's pleading."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A racial slur is used repeatedly and a beating is described."},
+ "themes": {"value": ["Poverty and shame", "Racism", "Dignity", "Mother's strength"], "confidence": "high", "evidence": "\"I was pregnant with poverty\" and \"There was shame there.\""},
+ "subject_matter": {"value": "Dick Gregory recalls a childhood of poverty, a teacher who humiliated him in class, and a beaten wino he helped too late, framed by a call to end racism.", "confidence": "high", "evidence": "\"we know you don't have a Daddy\" and \"Why didn't you pay it before?\""}
+},
+"IC-0415": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A cutting of a play with labels \"SON:\", \"MOM:\" and \"DAD:\"."},
+ "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "The son coldly recounts his sister's death, as in \"Her head is across the street.\""},
+ "content_warnings": {"value": ["Death", "Grief", "Violence", "Mental Health"], "confidence": "high", "evidence": "He kills his sister in a crash (\"My sister's body lies in the street\"), his father forces a gun into his mouth (\"The gun is in my mouth now\"), and his mother is placed in a residence \"for the clinically depressed\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Clinical wordplay, sung lyrics, a graphic crash and three voices demand wide control."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Three labelled speakers, written \"(Singing)\" passages and the clipped rhythm of lines like \"I brake. Nothing happens.\""},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A child's decapitation and a father holding a gun in his son's mouth are described."},
+ "themes": {"value": ["Guilt", "Family collapse after loss", "Memory", "Accident and blame"], "confidence": "high", "evidence": "\"Fifteen years ago I killed my sister\" and \"I can't remember my sister's face.\""},
+ "subject_matter": {"value": "A man recounts the car accident in which he killed his nine-year-old sister, his mother's breakdown, his father's threat with a gun, and his flight to New York.", "confidence": "high", "evidence": "\"I was seventeen, she was nine\" and \"Grand Central Station.\""}
+},
+"IC-0416": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A cutting of a memoir with page markers like \"(Pg 12)\"; labels such as \"SYLVESTER:\" were added."},
+ "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "Stand-up jokes (\"Death threat from an old lady\") frame a serious account of violence and identity."},
+ "content_warnings": {"value": ["Violence", "Abuse", "Discrimination/Slurs"], "confidence": "high", "evidence": "His father bangs his mother's head on the wall (\"banging her skull against the wall\"), strangles him (\"his hands around my throat\") and uses a slur (\"quit sticking you lip\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Several characters, a shift into a child's voice and an emotional build marked \"builds to one of extremely strong emotion\"."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Labelled speakers plus business such as \"knife pointed at Sylvester\" and \"Voice shifts to that of a young boy\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Domestic violence, a strangling and a racial slur occur in the text."},
+ "themes": {"value": ["Racial identity", "Domestic violence", "Resilience", "Stereotypes"], "confidence": "high", "evidence": "\"I AM a Genuine Black Man – because I am resilient.\""},
+ "subject_matter": {"value": "A comedian answers a letter calling him not a genuine black man by recalling his move to a white suburb and his violent father, and claims resilience as his identity.", "confidence": "high", "evidence": "\"YOU are not a genuine black man\" and \"My father strangling me\"."}
+},
+"IC-0417": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "From a book of scenes for teens, spoken under the speaker label \"NATHAN:\"."},
+ "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Wry complaints about an absent father end in tenderness: \"I put my hand on his grave\"."},
+ "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "\"But he choked on a chicken bone. And he was alone.\" and Nathan visits the grave a year later."},
+ "difficulty": {"value": "Beginner", "confidence": "medium", "evidence": "One voice with a steady reflective arc from resentment to love."},
+ "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "A death and mild words like \"hit the hell out of the ball\" are the only sensitive content."},
+ "themes": {"value": ["Absent father", "Loneliness", "Grief", "Self-reliance"], "confidence": "high", "evidence": "\"What I miss is the idea of a dad\" and \"I take care of me.\""},
+ "subject_matter": {"value": "On the anniversary of his father's funeral, a teenager reflects on a workaholic dad who missed his games, his sudden death, and talking to him at the cemetery.", "confidence": "high", "evidence": "\"Today was the one-year anniversary of my dad's funeral\" and \"I go to the cemetery sometimes.\""}
+},
+"IC-0418": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A monologue from a play, spoken under the label \"DAVID KELLY:\" with directions like \"(Long beat)\"."},
+ "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "A confession of complicity ending \"Oh, the things I knew. And I did nothing.\""},
+ "content_warnings": {"value": ["Violence", "Death", "Sexual Assault", "War/Trauma"], "confidence": "high", "evidence": "Soldiers kill a family (\"And shot them.\"), rape a child (\"raped the child\") during the Iraq war, and torture is imagined vividly."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One voice moving from argument to warm memory to breakdown, as in \"(He is having rouble breathing)\"."},
+ "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Direct questions to the audience and marked pauses such as \"(Long beat)\" drive the build."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "The rape and murder of a child and graphic torture imagery are in the text."},
+ "themes": {"value": ["Complicity and silence", "Truth and power", "Guilt", "Cost of war"], "confidence": "high", "evidence": "\"Knowing, and pretending that we don't know\" and \"I told myself lies.\""},
+ "subject_matter": {"value": "Weapons expert David Kelly confesses that he stayed silent about the false case for the Iraq war and recounts the murder of an Iraqi friend's family.", "confidence": "high", "evidence": "\"We all knew that the casus belli was a lie\" and \"four American soldiers confronted Jalal\"."}
+},
+"IC-0419": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of a short story from a story collection; labels such as \"JACK:\" and \"MOM:\" were added."},
+ "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "A son's rejection of his mother ends in regret as he reads her letter and traces \"the character for ai\"."},
+ "content_warnings": {"value": ["Discrimination/Slurs", "Violence", "Death", "Grief"], "confidence": "high", "evidence": "Mark punches Jack (\"Mark punched me, hard\") and calls his toy \"stupid cheap Chinese garbage\", and his mother dies (\"She died when my plane was somewhere over Nevada\")."},
+ "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Several characters, Chinese phrases and a mother's broken English, and a range from childhood wonder to grief."},
+ "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality"], "confidence": "high", "evidence": "Mom speaks Chinese and broken English (\"What happen?\"), and business includes \"puts her hand over her heart\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "An ethnic slur, a brief punch and a parent's death appear without graphic detail."},
+ "themes": {"value": ["Mother and son", "Cultural identity", "Shame and assimilation", "Regret", "Love beyond language"], "confidence": "high", "evidence": "\"Speak English!\" and \"Why won't you talk to me, son?\""},
+ "subject_matter": {"value": "A Chinese American boy rejects his immigrant mother and her magical origami animals, and after her death reads her letter hidden inside his paper tiger.", "confidence": "high", "evidence": "\"A little paper tiger stood on the table\" and \"It was filled with dense Chinese characters\"."}
+},
+"IC-0420": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A true story from The Moth collection, spoken under the label \"KEMP:\"."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A plain, sober account of guilt: \"Henry is dead, and I killed him.\""},
+ "content_warnings": {"value": ["Death", "Violence", "Mental Health", "Grief"], "confidence": "high", "evidence": "\"I shot my best friend in the face accidentally, and I watched him die\", his \"sweatshirt was covered in blood\", and he is treated for anxiety (\"I had anxiety\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice with brief quoted lines, moving from wry humour to horror and quiet resolution."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "A teenager's fatal shooting of a friend is described with blood and a recurring image of \"the bullet hole still in his chin\"."},
+ "themes": {"value": ["Guilt and forgiveness", "Trauma resurfacing", "Friendship", "Healing"], "confidence": "high", "evidence": "\"the one I'm going to carry with me for the rest of my life\" and \"It took me passing out on the train\"."},
+ "subject_matter": {"value": "A man recounts accidentally shooting his best friend at fourteen, the forgiveness of the friend's family, and the anxiety that surfaced years later.", "confidence": "high", "evidence": "\"I took a single bullet, pretended to insert it\" and \"He's gone.\""}
+},
+"IC-0421": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A true story from The Moth collection; labels such as \"AMY:\" were added for the phone call."},
+ "tone": {"value": ["Serious", "Bittersweet"], "confidence": "high", "evidence": "A caller's death is set against hope: \"there are these perfect life moments\"."},
+ "content_warnings": {"value": ["Suicide", "Death", "Mental Health"], "confidence": "high", "evidence": "Brian once held a gun in his mouth (\"stick a loaded gun in your mouth\"), Amy overdoses (\"she took twenty painkillers\") and dies, and she describes depression (\"I can't control it\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two voices and a shift from wry narration to a tense crisis call and grief."},
+ "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "high", "evidence": "Amy's \"(slurred speech)\" and the long silence (\"it was silent for five minutes\") must be played against Brian's voice."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A suicide attempt, a completed suicide and the narrator's own gun-in-mouth moment are described."},
+ "themes": {"value": ["Suicide prevention", "Listening", "Survivor guilt", "Moments of beauty"], "confidence": "high", "evidence": "\"SHUT UP AND LISTEN\" and \"I just want the pain to stop.\""},
+ "subject_matter": {"value": "A suicide-hotline volunteer recalls his own near-suicide and a final call from a young woman who had overdosed and later died.", "confidence": "high", "evidence": "\"Humanitarian Suicide Hotline\" and \"Amy Walters who had died of an overdose\"."}
+},
+"IC-0422": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A cutting of a play with labels \"TUPOLSKI:\", \"KATURIAN:\" and \"MICHAL:\" and stage directions."},
+ "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "Child murders are discussed with childish calm, as in \"I did kill those kids.\""},
+ "content_warnings": {"value": ["Violence", "Death", "Abuse", "Suicide", "Discrimination/Slurs"], "confidence": "high", "evidence": "Michal describes killing children (\"I chopped his toes off\"), their parents \"tortured him for seven straight years\", the story has a child set on fire to die by suicide, Katurian smothers Michal (\"He's dead.\"), and the slur \"retarded pervert\" is used."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Three characters including a man with a childlike mind, nested storytelling and a wide range from comedy to murder."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Many \"(Pause)\" marks, business such as \"holds it down forcefully over Michal's face\", and distinct voices for Tupolski, Katurian and Michal."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Graphic child murder, torture, child abuse and a smothering occur in the text."},
+ "themes": {"value": ["Art and responsibility", "Brotherhood", "Child abuse and its legacy", "Storytelling"], "confidence": "high", "evidence": "\"I was just doing your stories\" and \"They're all I've got.\""},
+ "subject_matter": {"value": "A writer interrogated over child murders learns his brother committed them by copying his stories, tells him a last story, smothers him, and offers a confession to save his stories.", "confidence": "high", "evidence": "\"I did kill those kids\" and \"I would like to make a confession\"."}
+},
+"IC-0423": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A short story from a collection, told as a continuous interior monologue under the label \"JOEY:\"."},
+ "tone": {"value": ["Dark"], "confidence": "high", "evidence": "A disturbed young man plans a shooting while pushing a pin into his eye: \"Pin, sing to me.\""},
+ "content_warnings": {"value": ["Self-harm", "Suicide", "Death", "Mental Health", "Substance Use", "War/Trauma"], "confidence": "high", "evidence": "Joey stabs his eye (\"One jab. Quick. OW!\"), recalls his father's hanging (\"put the rope up in the garage\"), his father \"drank all the time\" after Iwo Jima, and Joey recalls confinement (\"those white white walls\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One voice that fractures between calm, menace, childhood memory and pain."},
+ "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control", "Physicality"], "confidence": "high", "evidence": "Fragmented lines (\"Closer. Steady, steady.\"), stated business like \"(Sniffs under his arms)\" and the slow self-injury."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Self-injury, a parent's suicide and a planned mass shooting are described."},
+ "themes": {"value": ["Mental illness", "Childhood trauma", "Violence and fame", "Father and son"], "confidence": "high", "evidence": "\"I've always wanted to be a star\" and \"I love you, Dad\"."},
+ "subject_matter": {"value": "A mentally ill young man talks to a pin as he drives it into his eye, planning a shooting at a McDonald's and recalling finding his father hanged.", "confidence": "high", "evidence": "\"take my Winchester rifle down to the McDonald's\" and \"Up against the right eye.\""}
+},
+"IC-0424": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "From a collection of one-act plays, spoken under the label \"THE REPAIRMAN:\"."},
+ "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "A calm man ends by preparing a garrote: \"I'll show Dr. English a machine that works.\""},
+ "content_warnings": {"value": ["Violence"], "confidence": "medium", "evidence": "He recounts a dog being cut (\"Some freak was carving him up\") and builds a weapon from \"a three-foot piece of piano wire\"; the planned killing has not yet happened."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One controlled voice, but the menace and implied meaning must build under a flat surface."},
+ "audience_level": {"value": "High School", "confidence": "low", "evidence": "Animal cruelty is described and a killing is implied, without graphic detail on the page."},
+ "themes": {"value": ["Protecting a child", "Vigilante justice", "Fixing what is broken"], "confidence": "medium", "evidence": "\"I know how to fix things\" and \"I told Tommy I knew how to stop the monsters\"."},
+ "subject_matter": {"value": "A building repairman befriends a troubled boy, builds him a machine against nightmares, uncovers his therapist's past at a scandal-hit school, and prepares to kill him.", "confidence": "high", "evidence": "\"I made a machine in the basement\" and \"A big scandal at a special school\"."}
+},
+"IC-0425": {
+ "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A monologue from an Applause monologue book, an unbroken first-person speech with no prose narration."},
+ "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "A priest's bitter jokes (\"Say twenty-nine...we're having a special\") cover despair over his faith and desires."},
+ "content_warnings": {"value": ["Suicide", "Self-harm", "Sexual Content"], "confidence": "medium", "evidence": "He found a fellow seminarian who cut himself (\"waiting to bleed to death\") and was stopped, and he dwells on sexual confessions (\"had sex with another man\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One speaker who briefly imitates Father Flynn and shifts from irritation to horror to self-loathing."},
+ "performance_demands": {"value": ["Dialect", "Vocal Variety"], "confidence": "medium", "evidence": "Father Flynn's brogue is written (\"says he\", \"me boy\") against the priest's own voice."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Self-mutilation, a suicide attempt and frank sexual confessions are described."},
+ "themes": {"value": ["Faith and doubt", "Sexuality and the priesthood", "Repression", "Hypocrisy"], "confidence": "high", "evidence": "\"I tell them things I only half believe\" and \"Shower alone, me boy.\""},
+ "subject_matter": {"value": "A young priest sitting in his church confesses to himself his hidden desires, a colleague's self-mutilation, and his loss of faith in his work.", "confidence": "high", "evidence": "\"I confess the same things every week\" and \"I don't give a damn about people\"."}
+},
+"IC-0426": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A comic script with many labelled speakers and stage directions such as \"(FOOLISH VIRGINS enter\"."},
+ "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "The parable is retold as modern farce: \"I've been on a high-husk diet.\""},
+ "content_warnings": {"value": ["Substance Use"], "confidence": "high", "evidence": "Wally is hungover from wine (\"a couple empty wineskins\") and parties: \"Another round of wine for my pals!\""},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Eight labelled characters, songs and rapid comic exchanges."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Speakers from DAD to BIMBO and FARMER, sung verses, and business like \"shakes both his fists and sticks out his tongue\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drinking and mild innuendo (\"Take it all off!\") are played for comedy."},
+ "themes": {"value": ["Forgiveness", "Sibling resentment", "Prodigal return", "Excess"], "confidence": "high", "evidence": "\"He was lost and now he's found!\" and \"Ever stop to think who fatted that calf\"."},
+ "subject_matter": {"value": "A comic retelling of the parable of the prodigal son, in which Wally squanders his inheritance, returns home to a feast, and his dutiful brother explodes.", "confidence": "high", "evidence": "\"That's the last of my money\" and \"bring the fatted calf\"."}
+},
+"IC-0427": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A cutting of a play spoken under the label \"RICHARD:\"."},
+ "tone": {"value": ["Bittersweet", "Serious"], "confidence": "high", "evidence": "Wry scientific talk gives way to the letter \"I love you. I always will love you.\""},
+ "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "He describes his wife's last breaths (\"until there was only one very small one\") and mourns her months later."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One voice moving from playful bragging to clinical reasoning to grief."},
+ "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "An illness, a death and grief appear with only mild language such as \"the damn thing\"."},
+ "themes": {"value": ["Facing death", "Reason and hope", "Love and loss"], "confidence": "high", "evidence": "\"What good is hope?\" and \"It's time to simply let go.\""},
+ "subject_matter": {"value": "Physicist Richard Feynman weighs a risky cancer operation, recalls his wife's death and his letter to her, and decides to let go.", "confidence": "high", "evidence": "\"I'm not going to do the operation\" and \"I wrote Arlene a letter\"."}
+},
+"IC-0428": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A solo performance piece with stage directions such as \"(Fiddles with the cooking steaks)\"."},
+ "tone": {"value": ["Satirical", "Ironic"], "confidence": "high", "evidence": "A wealthy man calls himself \"the world's biggest liberal\" while fearing the poor and owning a gun."},
+ "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "He sneers at the homeless (\"Some kind of bum disease\") and imagines \"a couple of homies\" breaking in."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One character who constantly switches between Charlie, Sonia and Jeremy, with shouted outbursts."},
+ "performance_demands": {"value": ["Physicality", "Vocal Variety"], "confidence": "high", "evidence": "He mimes grilling with \"a large barbecue fork\" and shouts lines in capitals such as \"PUT THE CORN ON NOW\"."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Classist and racially coded remarks are satirised; mild profanity only."},
+ "themes": {"value": ["Privilege and fear", "Hypocrisy", "Class divide", "Suburban isolation"], "confidence": "high", "evidence": "\"I give the guy money, he gives me a disease!\" and \"That's why I have the gun.\""},
+ "subject_matter": {"value": "A rich suburban man at his barbecue tells a friend about his security fence, his luxury grill and a rash he blames on a homeless man.", "confidence": "high", "evidence": "\"we put a chain-link fence around the whole fifteen acres\" and \"There's this rash\"."}
+},
+"IC-0429": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A cutting of a play with labels \"ROTHKO:\" and \"KEN:\" and stage directions."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "medium", "evidence": "An intense debate about art and death: \"One day the black will swallow the red.\""},
+ "content_warnings": {"value": ["Death", "Violence", "Suicide"], "confidence": "medium", "evidence": "Ken recounts his parents' murder (\"They were murdered.\") and \"Apparently it was a knife\", and Van Gogh's suicide is mentioned (\"then shoots himself\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two strong characters, dense argument, explosive rages and Ken's traumatic memory."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Rothko and Ken trade lines, with business like \"He flings the paintbrush away\" and shouted lines in capitals."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "A bloody double murder is recalled and suicide is mentioned."},
+ "themes": {"value": ["Art and meaning", "Generational change", "Mentor and apprentice", "Fear of death"], "confidence": "high", "evidence": "\"The child must banish the father\" and \"Make something new.\""},
+ "subject_matter": {"value": "Painter Mark Rothko hires and spars with a young assistant, who reveals his parents' murder, challenges Rothko's views, and is fired and set free.", "confidence": "high", "evidence": "\"I am your employer\" and \"You're fired.\""}
+},
+"IC-0430": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of a short story from a collection; the label \"SGT PRICE:\" was added."},
+ "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "A flat soldier's voice recounts horrors: \"We shot dogs. Not by accident.\""},
+ "content_warnings": {"value": ["Violence", "Death", "War/Trauma", "Mental Health"], "confidence": "high", "evidence": "He describes the torture house (\"the body parts in the locker\"), platoon deaths (\"three members of your platoon died\"), shooting his own dog, and post-war numbness (\"I don't care if I die\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One controlled voice whose numbness must carry the horror and the final killing."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Torture, war deaths and the graphic shooting of a dog are described."},
+ "themes": {"value": ["Coming home from war", "Combat trauma", "Numbness", "Mercy and violence"], "confidence": "high", "evidence": "\"It'll be a long time before you get down to white\" and \"I'd been trained to do it right\"."},
+ "subject_matter": {"value": "A Marine returning from Iraq describes his homecoming, his inability to relax, and putting down his old dog with his rifle.", "confidence": "high", "evidence": "\"Getting back feels like your first breath\" and \"Two bullets tore through his chest\"."}
+},
+"IC-0431": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of a short story from a collection; the label \"GRACE'S DAD\" was added to the first-person narration."},
+ "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "A father's gentle appeal for help hides something rotting in his car: \"I didn't think cars could rot\"."},
+ "content_warnings": {"value": ["Mental Health", "Death"], "confidence": "low", "evidence": "The father is coming apart (\"It's hard now to recognize what's staring back\") and the smell from the trunk he cannot open (\"it's staring to smell\") strongly implies his daughter's body."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "An unreliable narrator whose friendly surface must slowly reveal a horrifying subtext."},
+ "performance_demands": {"value": ["Physicality", "Pacing/Timing Control"], "confidence": "medium", "evidence": "He addresses travellers and \"holds out a flyer\", and the reveal depends on slow, controlled delivery."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "The implied killing of a child and a father's breakdown are disturbing."},
+ "themes": {"value": ["Guilt and denial", "Loss of a child", "Madness", "Unreliable memory"], "confidence": "medium", "evidence": "\"Now I can't remember which finger of mine touched her last\" and \"I can't leave until I find her\"."},
+ "subject_matter": {"value": "A father living at a highway rest area hands out flyers about his missing daughter while hints reveal he lost his temper with her and her body may be in his car.", "confidence": "medium", "evidence": "\"Could you tell me if you've seen her?\" and \"I haven't been able to get into the trunk\"."}
+},
+"IC-0432": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A first-person narrative portrait from a book of New Testament sketches, with quoted dialogue and no speaker labels."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A defiant prisoner ends in reverence: \"I sink slowly to my knees.\""},
+ "content_warnings": {"value": ["Violence", "Death"], "confidence": "medium", "evidence": "Barabbas has watched crucifixions (\"I have seen them die this slow\") and describes Jesus on the cross among \"the three dying men\"."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "One narrator with short quoted voices, moving from defiance to hope to awe."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Crucifixion and suffering are described without graphic detail."},
+ "themes": {"value": ["Redemption", "Substitution and grace", "Courage and pride", "Faith"], "confidence": "high", "evidence": "\"They are to crucify another in your place\" and \"the forgiveness of my crimes\"."},
+ "subject_matter": {"value": "Barabbas waits in a dungeon for crucifixion, is freed in place of Jesus, and follows the crowd to Golgotha, where Jesus's look converts him.", "confidence": "high", "evidence": "\"I am Barabbas\" and \"The place is called Golgotha\"."}
+},
+"IC-0433": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of a short story with narration shifting between persons; labels \"RON:\" and \"SARAH:\" were added."},
+ "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "The narrator coolly examines his own cruelty: \"I did not know how cruel this was.\""},
+ "content_warnings": {"value": ["Sexual Content", "Substance Use"], "confidence": "high", "evidence": "\"We made love that morning in my bed for long hours\" and Sarah \"drinks too much, until soon she is drunk\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two characters, deliberate shifts between first and third person, and a range from tenderness to cruelty."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Sarah's dialect-tinged speech (\"Whatcha readin'\") against Ron's narration, and a shift to anger in \"Go on and leave\"."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A sexual relationship, heavy drinking and profanity such as \"son of a bitch\" appear."},
+ "themes": {"value": ["Beauty and worth", "Shame", "Cruelty", "Love recognised too late"], "confidence": "high", "evidence": "\"You're ashamed of being seen with me\" and \"I learned that I truly did love her\"."},
+ "subject_matter": {"value": "A handsome man recalls his affair with a homely woman he met in a bar, his shame at being seen with her, his cruel rejection, and his late grief.", "confidence": "high", "evidence": "\"Sarah was very homely\" and \"Go on and leave, you ugly bitch.\""}
+},
+"IC-0434": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of a parable from a collection of Gibran's writings; labels such as \"SATAN:\" and \"NARRATOR:\" were added."},
+ "tone": {"value": ["Satirical", "Serious"], "confidence": "medium", "evidence": "Satan mocks the priest's trade: \"Do you not realize that you will starve to death if I were to die?\""},
+ "content_warnings": {"value": ["Violence"], "confidence": "medium", "evidence": "Satan was beaten by angels (\"struck me severely\") and lies bleeding: \"half of my blood has escaped\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "A very long argumentative speech with stories nested inside it, plus the priest and narrator."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Voices for SATAN, FATHER SAMAAN, the narrator, and quoted figures such as La Wiss and the Chief."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A wounded figure and religious satire are present, with no graphic content."},
+ "themes": {"value": ["Good and evil", "Religion and power", "Fear as control", "Hypocrisy"], "confidence": "high", "evidence": "\"I am the builder of convents and monasteries upon the foundation of fear.\""},
+ "subject_matter": {"value": "A priest finds the wounded Satan, who argues that religion depends on him, and the priest carries him home to save his life.", "confidence": "high", "evidence": "\"I am Satan.\" and \"lifted Satan to his back and walked toward home\"."}
+},
+"IC-0435": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A cutting of a solo play spoken under the label \"SCARAMOUCHE:\" with stage directions."},
+ "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "Clowning set against genocide: \"the common euphemism for extermination\" became \"going to see the clown\"."},
+ "content_warnings": {"value": ["Death", "Violence", "War/Trauma", "Self-harm"], "confidence": "high", "evidence": "He digs mass graves as victims are \"machine-gunned into the ground\" in a concentration camp, and later sews his own mouth shut (\"stitch the aperture with sutures\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One character, but it demands a clown's mime alongside narration of atrocity."},
+ "performance_demands": {"value": ["Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "Directions such as \"performs the mime he used for the children\" and \"Performs one final\" mime require silent physical work."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Mass execution of children and adults is described directly."},
+ "themes": {"value": ["Holocaust", "Laughter in the face of death", "Complicity", "Masks and identity"], "confidence": "high", "evidence": "\"I discovered a certain facility for making children laugh\" and \"I feel unmasked at last\"."},
+ "subject_matter": {"value": "An ancient clown on the last night of his life tells how, as a camp gravedigger in World War II, he made children laugh before their execution and later sealed his lips for fifty years.", "confidence": "high", "evidence": "\"a job as a gravedigger at the concentration camp\" and \"I never opened my mouth again\"."}
+},
+"IC-0436": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with many labelled speakers and scene directions such as \"(SCENE – POP TO AGE 16\"."},
+ "tone": {"value": ["Bittersweet", "Serious"], "confidence": "high", "evidence": "Boyhood games return as Dennis mourns: \"Blood brothers.\""},
+ "content_warnings": {"value": ["Suicide", "Death", "Grief", "Substance Use", "Violence"], "confidence": "high", "evidence": "Scooter \"has just killed himself\" by jumping, Dennis grieves, Scooter drives drunk (\"Smashed, buddy\"), and Eddie \"(Slaps Scooter)\"."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Seven labelled characters across ages from ten to twenty-six, with rapid scene jumps."},
+ "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Many voices (DENNIS, SCOOTER, EDDIE, MR. GREENBAUM) and business such as \"Begins packing a suitcase\" and throwing a ball."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A suicide, drunk driving and profanity such as \"go screw yourself\" appear."},
+ "themes": {"value": ["Friendship", "Suicide and guilt", "Growing apart", "Judgment"], "confidence": "high", "evidence": "\"I won't be made to feel responsible!\" and \"you didn't have to judge me\"."},
+ "subject_matter": {"value": "Packing for his best friend's funeral after a suicide, a man relives their shared childhood and drifting apart as the friend's ghost confronts him.", "confidence": "high", "evidence": "\"your best friend in high school\" and \"Go mountain-climbing all alone and then jump.\""}
+},
+"IC-0437": {
+ "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A cutting of Daisy Bates's memoir, quoting a reporter's account and her own narration."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A reporter's shaken account of the mob: \"white men and women could be so beastly cruel\"."},
+ "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "high", "evidence": "The mob uses racial and antisemitic slurs (\"The niggers are coming!\" and \"A dirty New York Jew!\")."},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two narrators with quoted mob voices and Elizabeth's outburst."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "Ben's account, shouted mob lines like \"Get her! Lynch her!\" and Elizabeth's angry questions must be separated."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Repeated racial slurs and lynching threats are quoted directly."},
+ "themes": {"value": ["Civil rights", "Racism", "Courage", "Trauma"], "confidence": "high", "evidence": "\"Don't let them see you cry\" and \"The hurt had been too deep.\""},
+ "subject_matter": {"value": "A New York Times reporter tells Daisy Bates how a mob tormented Elizabeth Eckford at Little Rock Central High, and Bates describes Elizabeth's lasting hurt.", "confidence": "high", "evidence": "\"I saw a sweet little girl who looked about fifteen, walking alone\" and \"the terrifying mob scenes at Central\"."}
+},
+"IC-0438": {
+ "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A short story published in Boston Review, told in first-person narration with quoted dialogue."},
+ "tone": {"value": ["Bittersweet", "Ironic"], "confidence": "high", "evidence": "Magician's wit about \"a shell game with organs\" sits beside a dying mother and a dead parrot."},
+ "content_warnings": {"value": ["Death", "Grief", "Suicide"], "confidence": "medium", "evidence": "His parrot dies (\"cradle his lifeless body in my arms\") and his mother signals she wants to die: \"Angry she doesn't have the strength, the means, to do it herself.\""},
+ "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "A narrator with several short voices (Lois, mother, Sandkirk, the parrot) and shifts from comedy to grief."},
+ "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "The parrot's \"Disappear! Disappear!\", the mother's garbled speech and Lois must be voiced distinctly."},
+ "audience_level": {"value": "Upper High School (mature content)", "confidence": "low", "evidence": "A parent's wish to be killed is central, though nothing graphic occurs."},
+ "themes": {"value": ["Commitment and escape", "Caring for a parent", "Loss", "Love tests"], "confidence": "high", "evidence": "\"A magician pulling off a disappearing act\" and \"Not to kill her, but to be with her.\""},
+ "subject_matter": {"value": "A magician weighs donating a kidney to his girlfriend while visiting his mother after a stroke, then finds his beloved parrot dead and goes back to sit with his mother.", "confidence": "high", "evidence": "\"Lois wants my kidneys\" and \"gone belly-up on the floor of his cage\"."}
+},
+"IC-0439": {
+ "literary_form": {"value": "Drama", "confidence": "high", "evidence": "From a collection of plays, spoken under the label \"DARREN:\" with directions such as \"(singing)\"."},
+ "tone": {"value": ["Bittersweet", "Dark"], "confidence": "medium", "evidence": "Christmas songs and sweet memories end with his sister's death: \"Merry Christmas. I am the worst big brother\"."},
+ "content_warnings": {"value": ["Death", "Grief", "Discrimination/Slurs"], "confidence": "high", "evidence": "\"Her face was under the water and she was not moving\", his family grieves, and classmates mock his deafness (\"one hand cupped to his ear\")."},
+ "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "A character with intellectual disability and hearing loss, singing, and a shift from cheer to horror."},
+ "performance_demands": {"value": ["Vocal Variety", "Physicality", "Pacing/Timing Control"], "confidence": "high", "evidence": "He sings, carries \"a stuffed animal (Snoopy)\", demonstrates the bullies' mime, and breaks off in \"Holly was. Holly was.\""},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A child's accidental death is described with some blood but no other mature content."},
+ "themes": {"value": ["Sibling love", "Disability", "Guilt", "Grief at Christmas"], "confidence": "high", "evidence": "\"I'm a good big brother\" and \"I can't change how stupid I am.\""},
+ "subject_matter": {"value": "A deaf, intellectually disabled teenager tells of his love for his little sister, who drowned in the bath while he recorded Christmas songs for her.", "confidence": "high", "evidence": "\"My big surprise was to sing every single one of Holly's favorite Christmas songs\" and \"Holly had slipped\"."}
+},
+"IC-0440": {
+ "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A first-person narrative from a devotional book, in paragraphs with no speaker labels."},
+ "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A reluctant witness is moved to reverence: \"not in revulsion, but in reverence\"."},
+ "content_warnings": {"value": ["Violence"], "confidence": "high", "evidence": "Jesus has been \"scourged\" and is nailed: \"the heavy hammer falls\"."},
+ "difficulty": {"value": "Beginner", "confidence": "medium", "evidence": "One voice with a steady arc from irritation to awe."},
+ "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A crucifixion and beating are described with moderate detail such as \"matted with dried blood\"."},
+ "themes": {"value": ["Faith and conversion", "Suffering", "Fathers and sons", "Shame"], "confidence": "high", "evidence": "\"His touch is both a blessing and a benediction\" and \"Shame burns my face\"."},
+ "subject_matter": {"value": "Simon of Cyrene, arriving in Jerusalem for Passover with his sons, is forced to carry Jesus's cross to Golgotha and is changed by his touch.", "confidence": "high", "evidence": "\"I grudgingly shoulder the fallen man's cross\" and \"the man called Jesus\"."}
+}
+}

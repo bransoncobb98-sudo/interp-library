@@ -1,0 +1,45 @@
+== applying 10 reply file(s) 2026-10-09 20:42:29 UTC
+
+== data/classification_replies/batch-001-reply.json
+applied: 315 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204250-batch-001-reply.json
+
+== data/classification_replies/batch-002-reply.json
+applied: 318 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204303-batch-002-reply.json
+
+== data/classification_replies/batch-003-reply.json
+applied: 319 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204319-batch-003-reply.json
+
+== data/classification_replies/batch-004-reply.json
+applied: 318 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204338-batch-004-reply.json
+
+== data/classification_replies/batch-005-reply.json
+applied: 310 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204354-batch-005-reply.json
+
+== data/classification_replies/batch-006-reply.json
+applied: 314 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204401-batch-006-reply.json
+
+== data/classification_replies/batch-007-reply.json
+applied: 316 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204408-batch-007-reply.json
+
+== data/classification_replies/batch-008-reply.json
+applied: 317 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204413-batch-008-reply.json
+
+== data/classification_replies/batch-009-reply.json
+applied: 319 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204418-batch-009-reply.json
+
+== data/classification_replies/batch-010-reply.json
+applied: 317 | protected (skipped): 0 | rejected: 0 | unknown IDs: 0
+saved; reply archived as data/classifications/20261009-204426-batch-010-reply.json
+
+== rebuild
+Built 2519 record(s): 2303 shown on the site -> site/index.html; exports in exports/
+2119 record(s) queued in 53 batch file(s): batch-001.md, batch-002.md, batch-003.md, batch-004.md, batch-005.md, batch-006.md, batch-007.md, batch-008.md, batch-009.md, batch-010.md, batch-011.md, batch-012.md, batch-013.md, batch-014.md, batch-015.md, batch-016.md, batch-017.md, batch-018.md, batch-019.md, batch-020.md, batch-021.md, batch-022.md, batch-023.md, batch-024.md, batch-025.md, batch-026.md, batch-027.md, batch-028.md, batch-029.md, batch-030.md, batch-031.md, batch-032.md, batch-033.md, batch-034.md, batch-035.md, batch-036.md, batch-037.md, batch-038.md, batch-039.md, batch-040.md, batch-041.md, batch-042.md, batch-043.md, batch-044.md, batch-045.md, batch-046.md, batch-047.md, batch-048.md, batch-049.md, batch-050.md, batch-051.md, batch-052.md, batch-053.md

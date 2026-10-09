@@ -1,0 +1,2295 @@
+{
+ "IC-0041": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Mass death is implied through silhouettes and a \"radioactive glow\" rather than shown graphically.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Mankind has \"perished utterly\" in a war, the family's images are \"burned on wood in one titanic instant\", and the dog \"spun in a frenzy, and died\".",
+   "value": [
+    "Death",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator, but it moves from mechanical routine (\"Nine-fifteen, sang the clock\") to the frantic fire (\"Fire, fire, run, run\").",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "Bradbury's short story is told in prose paragraphs such as \"The morning house lay empty\" and quotes the Teasdale poem inside the story.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "The house's many voices and clock-time beats such as \"Two thirty-five.\" and \"At ten o'clock the house began to die\" drive the rhythm.",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"This was the one house left standing\" and \"The fire burst the house\".",
+   "value": "An automated house in 2026 keeps up its daily routine after a nuclear war has killed its family, until a fire destroys it."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"the ritual of the religion continued senselessly, uselessly\" and the poem's \"Would scarcely know that we were gone.\"",
+   "value": [
+    "Technology outliving humanity",
+    "Nuclear annihilation",
+    "Indifference of nature",
+    "Ritual without meaning"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Cheerful voices chirp \"time to get up, time to get up\" in a house standing in \"a city of rubble and ashes\".",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0042": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A shooting and racial tension are described without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "A pregnant woman is shot in the riot (\"Elvira, it's a bullet!\"), and a Korean merchant asks \"Is it because we are Korean?\" after \"They destroyed innocent people.\"",
+   "value": [
+    "Violence",
+    "War/Trauma",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Three real speakers, one with \"A Panamanian accent\" and one with Korean-inflected speech like \"I waseh swallowing the bitternesseh\".",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "Documentary-theatre monologues headed by speakers such as \"Elvira Evers, General Worker and Cashier\" with stage directions like \"Turns to the side and admonishes the child\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Distinct voices, written accents, table hits (\"She is hitting her hand on the coffee table\") and timed silences (\"pause fourteen seconds\").",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "Speaker headings \"Mrs. Young-Soon Han, Former Liquor Store Owner\" and \"Twilight Bey, Organizer of Gang Truce\".",
+   "value": "Three Los Angeles residents, a Panamanian mother shot while pregnant, a Korean store owner and a gang-truce organizer, describe the 1992 riots and their aftermath."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"Where is the victims' rights?\" and Twilight's \"I'm stuck in limbo\".",
+   "value": [
+    "Justice after the verdict",
+    "Racial division",
+    "Immigrant exclusion",
+    "Motherhood and survival",
+    "Living between worlds"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Witnesses speak plainly about injury and injustice, e.g. \"Why do we have to be left out?\"",
+   "value": [
+    "Serious",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0043": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "The only sensitive content is a non-graphic account of the crucifixion.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Death narrates his work and the crucifixion is recounted (\"As he was being killed\", \"crucified the Lord of Glory\").",
+   "value": [
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One performer shifts from a comic character voice to a preaching register after \"Death of death, and Hell's destruction!\"",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A comic diary monologue for Death with acting cues such as \"Dear Diary (Slower)\" gives way to a prose Easter reflection ending \"Thanks be to God. Amen.\"",
+   "value": "Mixed"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Written beats such as \"(Pause) But I do feel strange.\" and the shocked outburst \"JESUS CHRIST! Death of death\".",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Sunday - Easter Sunday\" and \"the death of death and hell's destruction\".",
+   "value": "Death keeps a comic diary through Holy Week until Easter Sunday shocks him, followed by a reflection on Jesus' death and resurrection and a call to faith."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Death cannot separate us from the love of God.\"",
+   "value": [
+    "Resurrection",
+    "Death defeated",
+    "Faith and doubt",
+    "Easter"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Jokes such as \"Great twits, great stinkers.\" turn into the sincere \"Christ is risen! He is risen indeed!\"",
+   "value": [
+    "Lighthearted",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0044": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A hate-crime killing, child abuse and anti-gay slurs are described in the text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Alan was \"Killed by a bunch of kids with baseball bats\", both mourn spouses, Ma says \"a fairy for a son\", Arnold cries \"queers don't matter\", and David \"was a battered child\".",
+   "value": [
+    "Death",
+    "Grief",
+    "Violence",
+    "Discrimination/Slurs",
+    "Abuse"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Two characters in an escalating fight with overlapping rants (\"Starting over his speech\") and a wide emotional range.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Scripted dialogue between ARNOLD and MA with stage directions such as \"Coming out of kitchen and speaking\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Mother and son overlap (\"Over her speech\") and then fall into a \"Long pause while Arnold composes himself\".",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I will legally adopt David\" and \"You had it easy, Ma.\"",
+   "value": "Arnold argues with his visiting mother over his plan to adopt a gay teenager and over whose grief counts, his for his murdered partner Alan or hers for her husband."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"There is nothing I need from anyone except love and respect.\"",
+   "value": [
+    "Grief and widowhood",
+    "A mother's rejection",
+    "Gay identity and respect",
+    "Adoption and family"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "A bitter fight ends in tenderness: \"Ma, I miss him so much.\" and \"It gets better.\"",
+   "value": [
+    "Serious",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0045": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "A child's shooting, a killing on stage, a racial slur and a reference to rape occur in the text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "A girl is shot (\"They watched her die!\"), Zooman is killed, Rachel asks \"How do you get used to an empty room?\", a slur appears in \"All young n*****s look alike!\" and Grace mentions \"raped Lou Jefferson's little girl\".",
+   "value": [
+    "Death",
+    "Violence",
+    "Grief",
+    "Discrimination/Slurs",
+    "Sexual Assault"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Six roles, street dialect and swings from swagger to a mother's breakdown (\"I saw them! I saw them!\").",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Labelled speakers ZOOMAN, RACHEL and REUBEN with directions such as \"Shots are fired through the window\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Many labelled speakers, written dialect (\"She ain't had no business bein' out there\") and stated action: \"begins to rip and tear at the sign\".",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Vocal Variety",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"THE KILLERS OF OUR DAUGHTER JINNY ARE FREE ON THE STREETS\" and \"(Zooman dies)\".",
+   "value": "After a stray bullet from teenage Zooman kills 12-year-old Jinny Tate, her parents hang a sign shaming silent neighbors, and Zooman is shot when he tries to tear it down."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Not one damn person on the block claims they saw anything!\"",
+   "value": [
+    "Bystander apathy",
+    "Parents' grief",
+    "Cycle of urban violence",
+    "Community responsibility"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "It opens with Zooman's casual \"I just killed somebody. Little girl, I think.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0046": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Drinking and a homophobic remark appear, with no graphic content.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Tylan says \"I'm getting you drunk\" before the first kiss, and later rejects Rowan in public with \"Because if you have. It's gross.\"",
+   "value": [
+    "Substance Use",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One character, but he interleaves live karate instruction with a love story that turns painful (\"I perceived the threat.\").",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Headed \"A Dramatic Monologue\" with the speaker label ROWAN and directions such as \"Rowan demonstrates a stomach block\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Stated business throughout, e.g. \"Rowan acts out all the following movements\" and the closing kata, plus quoted voices of Tylan and the sensei.",
+   "value": [
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"secret, sexy agents\" and \"You are nothing to me.\"",
+   "value": "Karate student Rowan teaches the audience basic moves while recounting his secret relationship with his closeted senior Tylan and how he finally stood up to him."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"either you're straight, or I'm your boyfriend\" and \"Perceiving the threat.\"",
+   "value": [
+    "First love",
+    "Coming out",
+    "Self-respect",
+    "Self-defense as metaphor",
+    "Closeted relationships"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Banter like \"weird name, right? Sounds like Tylenol\" sits beside \"broke down sobbing\".",
+   "value": [
+    "Lighthearted",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0047": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "The deliberate killing of a child and torture are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "He says \"I killed a young American girl\", recalls people \"being tortured for information\" under a reign of terror, and mourns \"my lost wife and our two dead children\".",
+   "value": [
+    "Death",
+    "Violence",
+    "War/Trauma",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One restrained voice that must carry horror and loss without breaking, e.g. \"my mind will not find that peace again\".",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "The author's note says \"This play can be performed\" under another title; the piece is one speaker addressing an audience.",
+   "value": "Drama"
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"kill this six-year-old girl\" and \"the children we had together never existed\".",
+   "value": "A time traveler reports that he went back and killed a six-year-old girl destined to become a tyrant, erasing his own wife and children from history."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Memory is faith, too.\"",
+   "value": [
+    "Moral cost of preventing evil",
+    "Time travel and consequence",
+    "Memory as faith",
+    "Loss of family"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"I remained in the past long enough to watch the little girl die.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0048": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Self-harm, suicidal thoughts and a slur occur in the text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Russell says he will \"start to cut myself\", sits in a \"psychiatric Ward for eating disorders\", muses \"It would be easy to cut too deep\", recounts an athlete who \"died of cardiac arrest\", and says \"My dad is afraid I'm a fag\".",
+   "value": [
+    "Self-harm",
+    "Mental Health",
+    "Suicide",
+    "Death",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Rapid shifts between jokes, denial (\"I don't have a problem\") and anger \"building in anger\" at his father.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Speaker label \"RUSSELL: (a normal teenage boy)\" and stage directions such as \"(he cuts himself)\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Stated business such as \"He makes one final cut to his wrist\" and \"(chants) NHHS NHHS\", plus the father's quoted voice.",
+   "value": [
+    "Physicality",
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"So here I sit in the New Haven adolescent psychiatric Ward\".",
+   "value": "A teenage lacrosse player in an adolescent psychiatric ward for anorexia denies he has a problem while describing self-harm and his father's contempt."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Anorexia nervosa is about shame.\" and \"Nothing I do is good enough\".",
+   "value": [
+    "Male eating disorders",
+    "A father's expectations",
+    "Masculinity and shame",
+    "Control"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Knock-knock jokes like \"Nana your business\" frame an account of anorexia and cutting.",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0049": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Child abuse is described through bruises, not graphically.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "A boy has \"horribly bruised, ten-year-old eyes\" and Janet says \"The abuse would have continued\"; a pupil \"Ran into traffic\" and Nate's father has died.",
+   "value": [
+    "Abuse",
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One speaker talks to an unseen guest, slowly loses composure (\"losing her composure\") and then reacts to a surprise reveal.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Headed \"A Dramatic Monologue\" with directions such as \"Janet takes the teapot off the stove\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Stated business (\"Janet rocks herself in her chair\") and her remembered scream \"You are hurting this child.\"",
+   "value": [
+    "Physicality",
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Little Nate Abbott. But you're not so little anymore.\"",
+   "value": "A retired teacher chats with a former student she cannot place, recounts reporting the abuse of a boy named Nate, and learns her visitor is Nate himself."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"what more could I have done for him?\"",
+   "value": [
+    "A teacher's lasting care",
+    "Child abuse and reporting",
+    "Memory and guilt",
+    "Reunion"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Cozy chatter about cookies gives way to \"I'm sorry, Nate. I'm oh so sorry.\"",
+   "value": [
+    "Bittersweet",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0050": {
+  "audience_level": {
+   "confidence": "low",
+   "evidence": "Confinement of a dementia patient and an implied killing are suggested.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "The mother is diagnosed (\"we were told she had Alzheimer's\") and confined (\"I finally locked her in her room\", \"tying her down at night\"), with an implied mercy killing in \"help nature along\".",
+   "value": [
+    "Mental Health",
+    "Abuse"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator whose arc moves from pride to exhaustion to a chilling calm.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "low",
+   "evidence": "An unlabeled first-person monologue spoken to listeners, with quoted exchanges like \"Where are you going, mama?\" and no narrator.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "The repeated \"Knock, knock, knock, knock\" motif and the mother's quoted lines such as \"I'm waiting for Luis.\"",
+   "value": [
+    "Pacing/Timing Control",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "medium",
+   "evidence": "\"It had thought the most forbidden thought.\"",
+   "value": "An immigrant woman who brought her mother to the U.S. watches her decline with Alzheimer's, confines her, and drifts toward the thought of ending her life."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"Why do we live past a certain point, when life has nothing left for us?\"",
+   "value": [
+    "Caregiving and dementia",
+    "Immigrant hopes",
+    "Mercy and its limits",
+    "Opportunity knocks"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Hope (\"Opportunity knocked in the U.S.\") curdles into \"the most forbidden thought\".",
+   "value": [
+    "Dark",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0051": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Only passing references to pills, a whisky glass and a death.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "The star's mother \"gave Julia diet pills and antidepressants\", the star enters \"holding a whisky glass\", and \"Her mom died when Julia was\" young.",
+   "value": [
+    "Substance Use",
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "The performer plays nervous Carrie and her spot-on impression of the diva, with constant self-interruptions.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "\"A 10-minute one woman show\" with directions such as \"CARRIE walks off slightly to make an entrance\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"Her Miss Maggiano impression is smoky and sultry\" and a note that ellipses are \"internal pauses\".",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I'm her understudy\" and \"I just broke up with someone!\"",
+   "value": "An understudy stalls a one-woman show while its star is late, impersonating the diva and spilling her own breakup and family pressures."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"Alone is the place where I thrive.\"",
+   "value": [
+    "Living in another's shadow",
+    "Heartbreak",
+    "Ambition in theatre",
+    "Mothers and daughters",
+    "Loneliness behind fame"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Nervous comedy (\"I minored in Spanish.\") ends with \"she has the saddest eyes I have ever seen\".",
+   "value": [
+    "Lighthearted",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0052": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A 9/11 death is described without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Henry dies in \"This terrible, awful act of terrorism\" as Alana watches \"the tower slowly beginning to fall\" and mourns at his funeral.",
+   "value": [
+    "Death",
+    "Grief",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Three characters and repeated flashbacks across a wide range, from giggling to \"Sadness turns to anger\".",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A character list, \"Curtain Rises to:\" and labelled speakers with directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Pastor, Henry and Alana are labelled, and Henry belts \"BABY COME BACK!\" in a flashback.",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"sets down her note cards and begins to talk from her mind\".",
+   "value": "At her husband Henry's funeral after 9/11, Alana abandons her prepared eulogy, relives their love in flashbacks and questions where God was."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Where was God for Henry?\"",
+   "value": [
+    "Grief after 9/11",
+    "Faith and doubt",
+    "Young love",
+    "Why some are spared"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Funny flashbacks (\"Mind your Pac-MANners!\") alternate with grief (\"Now, he's gone.\").",
+   "value": [
+    "Serious",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0053": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Domestic violence and alcoholism are described directly.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I drank my anger away\", \"I hit her over, and over\", the wife would \"make her feel bad about herself\", and his \"delusions\" left him hospitalized on pills.",
+   "value": [
+    "Substance Use",
+    "Violence",
+    "Abuse",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "One actor plays H, his wife and his daughter, swinging from cheer to rage.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Stage directions such as \"Hercules, a large middle-aged man, steps onto the stage\" and \"(as his wife)\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"(as his daughter)\", dialect like \"What ain't you gonna talk?\", and business such as \"he spits out the pill\".",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"That's why I can't ever see my little girl again.\"",
+   "value": "A psychiatric patient who calls himself H tells a new arrival how alcohol and his wife's cruelty led him to beat her, costing him his daughter."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"to her, I'll never be a hero\".",
+   "value": [
+    "Addiction",
+    "Domestic violence",
+    "Lost fatherhood",
+    "Heroism and failure"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Friendly chatter about favorite things leads to \"I hit her over, and over, and over again\".",
+   "value": [
+    "Dark",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0054": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Suicide and a sexual relationship between a teacher and a student are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"Jake texted his suicide note\" after a teacher-student affair (\"they were humping\", \"In her car, parked by the empty mall\"), written \"while he was still drunk\", ending \"Jake, buddy.\"",
+   "value": [
+    "Suicide",
+    "Death",
+    "Abuse",
+    "Sexual Content",
+    "Substance Use",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "The narrator's sarcasm must hold grief underneath while also voicing Jake's journal entries.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "An unlabeled monologue with stage directions such as \"(he opens his phone.)\" and the line \"there's an actor up here\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Shifts between narration and journal readings (\"Anyway, let me read the key entries.\") and a delayed reveal of the note.",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"My friend killed himself because he was in love with his teacher.\"",
+   "value": "A teenager uses dark jokes to tell how his friend Jake died by suicide after a secret relationship with their history teacher, which the narrator chose not to report."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I wanted Jake to be Jake, forever.\"",
+   "value": [
+    "Teen suicide",
+    "Abuse of trust by a teacher",
+    "Grief and humor",
+    "Keeping secrets"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"Let me tell you a joke. My friend Jake killed himself last week.\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0055": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Poverty and a past death are handled gently with no graphic content.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "The narrator recounts that \"my mom has passed a few years back\" after a long illness.",
+   "value": [
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "A few voices (father, little brother) and a turn from comedy to panic.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "Headed \"A Dramatic Interpretation (Male/Female)\" with directions such as \"Shows off teeth.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Directions such as \"(Imitating Freddie)\" and \"(High-Pitched.)\" for the brother, \"(Stern.)\" for the father.",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I walked with him twenty blocks to the hospital\".",
+   "value": "A teenager whose unemployed father serves cat food for breakfast recounts hiding their poverty and rushing a little brother with appendicitis to the hospital."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I've gotten pretty good at hiding the fact that we're poor.\"",
+   "value": [
+    "Poverty and pride",
+    "Family over money",
+    "Sibling love",
+    "Hidden hardship"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Humor about cat food and \"Shlink! Shlink!\" gives way to fear for Freddy and a family reconciliation.",
+   "value": [
+    "Bittersweet",
+    "Earnest",
+    "Lighthearted"
+   ]
+  }
+ },
+ "IC-0056": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Family violence and a deliberate fatal overdose are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I slapped him across the face. I punched him.\", Jack \"liked the feeling the pills gave him\", and David gives him \"The rest of the bottle\"; \"Those were the last words he ever said.\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Substance Use"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "David voices his mother, father and Jack across years, from comedy to confession.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "\"CHARACTERS\", \"SCENE 1\" and \"END OF PLAY\" frame a monologue with stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"He pantomimes fighting with a sword\" and \"He feeds Jack the pizza, Jack bites his fingers\".",
+   "value": [
+    "Character Differentiation",
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I gave him a second dose\" and \"Jack, I hope the weather is good up there.\"",
+   "value": "David, a college football player, confesses how caring for his severely autistic, violent brother Jack led him to give Jack a fatal overdose of Valium."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"we only have hobbies to distract us from what hurts.\"",
+   "value": [
+    "Caregiver burnout",
+    "Disability and family",
+    "Brotherhood and guilt",
+    "Hidden pain"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Childhood games as \"Jack, the Lionheart\" end in \"I realized I was a horrible brother.\"",
+   "value": [
+    "Dark",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0057": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A slur and work with corpses, without graphic description.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Alex prepares bodies (\"Doing makeup on the dead\"), including his father's, and recalls his father's slur \"theater faggots\".",
+   "value": [
+    "Death",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator with the father's quoted lines and a reveal at the end.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A monologue for Alex with directions such as \"starts applying makeup, and this continues\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Continuous makeup business (\"adjusts blush\", \"shows photo\") and the father's voice (\"You're not going.\").",
+   "value": [
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Jack McMahon. It's a photo of him holding his infant son.\"",
+   "value": "A failed actor working as a mortuary makeup artist recalls his father's rejection of his theatre career while preparing his father's body for the funeral."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I can make you look that proud.\"",
+   "value": [
+    "Father-son estrangement",
+    "Failed dreams",
+    "Performance and identity",
+    "Reconciliation through art"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"except the dead usually complain less\" and the final \"You look damn good.\"",
+   "value": [
+    "Bittersweet",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0058": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Sexual assault, self-harm and suicidal thoughts appear in the text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "She reveals the pregnancy came from a \"friend\" (\"he chose\"), hides \"the marks under my clothes\", and thinks \"I can just go to the medicine cabinet right now\".",
+   "value": [
+    "Sexual Assault",
+    "Self-harm",
+    "Suicide"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Fractured, self-interrupting speech that swings from denial to rage (\"I. Hate. You.\").",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "An unlabeled monologue \"Based on true events\" spoken to listeners with quoted exchanges such as \"No, ma'am.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Breath and pause motifs (\"Just breathe.\") and broken-off lines drive the piece.",
+   "value": [
+    "Pacing/Timing Control",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"a perfect little miracle has happened . . . for someone else's family\".",
+   "value": "Nineteen-year-old Leah hides a pregnancy from an assault by a friend while caring for her seriously ill mother, struggles with self-harm, and gives birth for another family."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"No one needs to know.\"",
+   "value": [
+    "Secrecy and shame",
+    "Aftermath of sexual assault",
+    "Caring for a sick parent",
+    "Teen pregnancy"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Repeated self-reassurance (\"I'm fine. Really.\") over trauma and hidden pregnancy.",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0059": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Suicidal thoughts and severe burns are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"an intoxicated motorist rear-ended me\", \"third and fourth degree burn\", and \"There were the pills, right there in the medicine cabinet\".",
+   "value": [
+    "Substance Use",
+    "Suicide",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice moving from humor to despair to hope, with a few quoted voices.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Speaker heading ROBERT and stage directions such as \"A horribly disfigured man enters\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Stated business: \"He contemplatively massages his shoulder\" and \"He regards his hand\".",
+   "value": [
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I'm just Daddy again.\"",
+   "value": "A police officer burned in a crash caused by a drunk driver describes his daughter's fear of his scars, a moment of suicidal despair and her drawing that restored him."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I have my life because I have my love.\"",
+   "value": [
+    "Disfigurement and identity",
+    "Family love",
+    "Resilience",
+    "Finding purpose"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Jokes about his fingers lead to \"I am so very alive. I am alive.\"",
+   "value": [
+    "Bittersweet",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0060": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Graphic violence, dismemberment and rape are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"the chafarote shot him\", a basket of \"body parts\", gang members \"kicking around my brother's head\", gangs who \"rape them in the streets\", and \"they were constantly at war\".",
+   "value": [
+    "Death",
+    "Violence",
+    "Grief",
+    "Sexual Assault",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator with a Spanish-inflected voice and a steep arc from family memories to horror.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A first-person monologue addressed to an onstage listener: \"You are my lawyer, no?\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Spanish phrases (\"Dios mio! My Tomas!\") and English like \"You are my lawyer, no?\"",
+   "value": [
+    "Dialect",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"He told me to say the word\" and \"Please let me stay.\"",
+   "value": "Honduran teenager Inez tells her lawyer how her father was shot and her brother murdered by gangs, and pleads for asylum."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Please don't make me go back.\"",
+   "value": [
+    "Seeking asylum",
+    "Gang violence",
+    "Loss of family",
+    "Hope in America"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"If I go home, I will be raped or killed\".",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0061": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "War wounds and drinking are described without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "He was \"Shot twice through the leg\" amid \"Blood in the snow\", fought \"blasted out of my mind on rum\", and his wife died: \"She was gone. A sudden fever.\"",
+   "value": [
+    "War/Trauma",
+    "Violence",
+    "Substance Use",
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One character who shifts from bravado to bitterness to resignation.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Bracketed stage directions such as \"He traces a circle in the air\" and \"He limps away.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"he limps around his camp\" trying to start a fire, and swells into \"My goddamned LEG, for Christ's sake!\"",
+   "value": [
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I sold the British the plans for the defense of West Point.\"",
+   "value": "The ghost of Revolutionary general Arnold, marching an endless winter trail, recounts his heroism, his grievances against Congress and his sale of West Point's defenses to the British."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"no man may escape the circle of his own character.\"",
+   "value": [
+    "Betrayal and honor",
+    "Cyclical history",
+    "Ingratitude of nations",
+    "Character as fate"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Wry asides (\"Those brave, drunk boys!\") frame a sober reckoning: \"I was a traitor, yes.\"",
+   "value": [
+    "Ironic",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0062": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "A murder, a suicide attempt and repeated slurs are in the text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Her brother was killed by \"the terrorist who shot my brother\", protesters chant \"Your son died because you love fags!\", she \"shot him in his goddamn head\", and \"I pointed the gun at myself\".",
+   "value": [
+    "Death",
+    "Violence",
+    "Grief",
+    "Discrimination/Slurs",
+    "Suicide",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Rage, grief and confession, plus a full dialogue with the boy she kills.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Bracketed stage directions such as \"A teenage girl. She sits at a table\" and \"She picks up the bronze star again.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "She voices Tom Melville (\"Have you come to bring me to the Lord?\") and her brother.",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"telling you all this from a jail cell\".",
+   "value": "A teenage girl in jail explains how protesters at her soldier brother's funeral drove her to track their family down and kill a boy her own age."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Lord Jesus Christ, have mercy on us, we are nothing but poor sinners.\"",
+   "value": [
+    "Revenge and mercy",
+    "Hate and its echoes",
+    "Grief for a soldier",
+    "Faith and sin",
+    "Bravery"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Jokes like \"Seems more like a dereliction of duty to me\" lead to a calm account of murder.",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0063": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "An accidental death is reported without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"Jill had died instantly\" in a car crash, and he says \"I wasn't allowed to grieve her at all\".",
+   "value": [
+    "Death",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice, but constant self-interruption and a slow approach to the loss.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A spoken monologue addressed to a listener (\"This is what I need to show you\") with halting, performed speech.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Ellipsis-driven, stalling speech from the first line, \"I suppose that stalling\".",
+   "value": [
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"there had been an accident\" and \"Jill gave me this book.\"",
+   "value": "A Columbia literature student haltingly recalls falling for engineering student Jill, their breakup, and learning she had died in a car accident."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"when you feel miserable, it's Auden who'll help you out\".",
+   "value": [
+    "Lost love",
+    "Unacknowledged grief",
+    "Poetry as comfort",
+    "Graduate school life"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Wry literary jokes about Auden and Columbia frame \"Jill had died instantly\".",
+   "value": [
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0064": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Rape is described, and profanity appears.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I told him he raped me.\" and \"raped by the guy I trusted more than anyone\"",
+   "value": [
+    "Sexual Assault"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Quick comic deflection gives way to reliving trauma (\"it's like she's experiencing this all over again\").",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A monologue with bracketed acting directions such as \"she clearly does not want to talk about this\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Directions like \"letting this sink in\" and \"almost laughing but bitter\" govern rapid shifts.",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I told him he raped me. He disagreed.\"",
+   "value": "A philosophy student hides behind sarcasm about Thomas More before revealing that her best friend raped her and denied it."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"speaking my truth, being honest\" and \"I have an issue with honesty\".",
+   "value": [
+    "Honesty and self-deception",
+    "Assault by a friend",
+    "Reclaiming one's voice",
+    "Philosophy and power"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Sarcasm about philosophers (\"He's just a philosopher.\") surrounds the plain statement \"I was raped\".",
+   "value": [
+    "Serious",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0065": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A husband's death and mild language, nothing graphic.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"he died just before Christmas\" and \"I'm a widow.\"",
+   "value": [
+    "Death",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Virginia voices Dino, Frank and Danny and moves from upbeat to desperate (\"increasingly angry, hurt, confused and desperate\").",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Speaker label VIRGINIA and directions such as \"(Upbeat and energetic)\" from a published play.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Dino's street voice (\"Whaddaya say we call it even huh?\") against Virginia's own.",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I HAVE A LIST OF THIRTEEN THINGS ABOUT ED CARPOLOTTI\" and \"Joy has my instructions\".",
+   "value": "Newly widowed Virginia finds her husband left her deep in debt to banks and loan sharks until a mysterious blackmail list scares off the creditors and proves to be his love letter."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I have never loved any other woman but you.\"",
+   "value": [
+    "Widowhood",
+    "Secrets in marriage",
+    "Debt and deception",
+    "Love beyond death"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic widowhood (\"I'd like to die in Las Vegas with my mother and a cow too\") ends with a love list.",
+   "value": [
+    "Bittersweet",
+    "Lighthearted"
+   ]
+  }
+ },
+ "IC-0066": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "The Holocaust is discussed directly but not graphically.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"your parents were among the first transports sent to Auschwitz\", \"People burn people here\", and her father \"was beaten by the other boys\" \"because he was a Jew\".",
+   "value": [
+    "Death",
+    "War/Trauma",
+    "Grief",
+    "Discrimination/Slurs",
+    "Violence"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Shifts between amusement-park comedy and Holocaust grief, including a stated \"truly horrible moment\".",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Labelled speakers LISA and DAD with directions such as \"(Changes slide)\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "She works a clicker, \"she drops the clicker\", and holds \"an almost unbearable silence\".",
+   "value": [
+    "Character Differentiation",
+    "Physicality",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"go with him to see the place where his parents were killed\".",
+   "value": "Narrating blank slides, Lisa describes riding roller coasters with her blind, elderly father and visiting Auschwitz with him, where his parents were killed."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I'm putting my hand on my father's life.\"",
+   "value": [
+    "Holocaust memory",
+    "Father and daughter",
+    "Survival and joy",
+    "Telling another's story"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Roller-coaster comedy sits beside \"the Auschwitz gift shop\" and \"People burn people here.\"",
+   "value": [
+    "Bittersweet",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0067": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Graphic civilian deaths, beheadings and sexual slavery are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"searching charred bodies\", water that \"boiled the people\", \"He beheaded seventy women\", and kidnapped women taken as a \"slave, sex lave\".",
+   "value": [
+    "Death",
+    "War/Trauma",
+    "Violence",
+    "Sexual Assault"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Three Iraqi women with distinct speech, from broken English to clinical exhaustion.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Labelled speakers UMM GHADA, THE DOCTOR and HUDA with directions such as \"nauseated, she throws up\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Non-native English (\"I live in yellow trailer\") and business such as \"the first time we see her subtle limp\".",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"This is Amiriyya bomb shelter.\"",
+   "value": "Three Iraqi women, a bomb-shelter survivor, a doctor facing birth defects and cancers, and an exiled dissident, describe Saddam's cruelty and the toll of American bombing."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"We're the experiment.\"",
+   "value": [
+    "Civilian cost of war",
+    "Iraqi women's voices",
+    "Tyranny and invasion",
+    "Environmental poisoning"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"This huge room became an oven\".",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0068": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Flirtation and a kiss with innuendo, nothing explicit.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Mild sexual references such as \"who look like they still get some\" and \"I'm thinking about a lot more than kissing\" during a near affair.",
+   "value": [
+    "Sexual Content"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice with a clear arc from flirtation to fear to resolution.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "The source is a story collection and the cutting is first-person narration (\"I give him a little smile.\") under an added WOMAN label.",
+   "value": "Prose"
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"It's the realization that I'm not going to do a thing.\"",
+   "value": "A married 42-year-old mother flirts with a stranger, meets him at a bar and kisses him, then chooses to go home to her husband."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"it seems to me that after 40, you become invisible\".",
+   "value": [
+    "Midlife invisibility",
+    "Temptation and fidelity",
+    "Desire and aging",
+    "Choosing commitment"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic lines like \"lusting in Lawn & Garden\" turn reflective about becoming \"invisible\" after 40.",
+   "value": [
+    "Lighthearted",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0069": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Graphic injuries and deaths from a car bombing are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"the streets were full of corpses\", a car bomb where \"his legs were fused to the seat\", the loss of \"my sister, my husband, my baby\", and letters saying \"You Christians are not welcome here.\"",
+   "value": [
+    "Death",
+    "War/Trauma",
+    "Violence",
+    "Grief",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Two characters, Arabic phrases and a long traumatic narration.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Labelled speakers SHAHID and BASIMA with directions such as \"Lights up on Basima\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Arabic lines (\"Il hub il awal\") and the note \"Pacing of this selection should be slow\".",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"my sister, my husband, my baby\".",
+   "value": "Iraqi refugees Shahid and Basima describe life under Saddam, the 2003 bombing, sectarian threats, and the car bomb that killed Basima's husband, baby and sister."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"We have left everything behind\".",
+   "value": [
+    "Civilian life in wartime Iraq",
+    "Loss of family",
+    "Sectarian division",
+    "Refugee exile"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"the streets were full of corpses\".",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0070": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Child abuse, implied grooming of a child and strong language.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I slapped her cross the face and she fell over\", \"gave her a Chinese burn\", starving her, and handing her to a director who wants to \"Make her part of his stable\".",
+   "value": [
+    "Abuse",
+    "Violence"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "British idiom, singing, quoted voices and heavy irony that the audience must see through.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Speaker label STEPHANIE and directions such as \"She sings, with her own choreography\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "British speech (\"whinge (whine)\"), Raquel's \"Teef and tits, Mum\" and Desmond's \"we're living in an age of consent\".",
+   "value": [
+    "Dialect",
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"So you do whatever he asks.\"",
+   "value": "Stage mother Stephanie describes pushing, starving and hitting her six-year-old daughter Raquel for showbiz success, then handing her over to a predatory director."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I want Raquel to be the best she can be.\"",
+   "value": [
+    "Exploitation of child performers",
+    "Parental abuse",
+    "Fame at any price",
+    "Predatory grooming"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A cheerful stage mother says \"you just starve them into submission\" and \"I finally feel like a mother.\"",
+   "value": [
+    "Dark",
+    "Satirical",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0071": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Infanticide and child sexual abuse are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I tied the cord around her neck\", \"she touches me down there with her cigarette\", a test of \"whether she was legally sane\", and \"I hate him for what he did to me\".",
+   "value": [
+    "Death",
+    "Violence",
+    "Abuse",
+    "Mental Health",
+    "Sexual Assault"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Two characters, a hypnosis regression and a reliving of childbirth.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Labelled AGNES and DOCTOR with directions such as \"Agnes lashes out at the doctor\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"she holds her stomach in a contraction\" and Agnes \"singing off stage\".",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I put her to sleep.\"",
+   "value": "A court psychiatrist questions a young nun accused of killing her newborn, uncovering her mother's abuse and, under hypnosis, the night of the birth."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"You want to take God away.\"",
+   "value": [
+    "Faith and madness",
+    "Childhood abuse",
+    "Innocence and guilt",
+    "Psychiatry versus belief"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"The baby was discovered in a wastepaper basket\".",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0072": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "A detailed suicide and sexual abuse are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I will not help you kill yourself\", \"Aimee's dead\", her stepmother's \"games\" and \"There wouldn't be semen to test for\", and Zoe's lasting \"dead inside\" grief.",
+   "value": [
+    "Suicide",
+    "Death",
+    "Abuse",
+    "Sexual Assault",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Two characters plus direct address, ending in a sustained screaming breakdown.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A cutting from a novel: narration such as \"She stared out the window and blew a long trail of smoke\" under added ZOE and AIMEE labels.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Switches marked \"(to audience)\" and \"(to Aimee)\" and \"(calls out) Aimee!\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"She had already taken the pills.\"",
+   "value": "Zoe recalls the night her best friend Aimee revealed her stepmother's sexual abuse and then died of a sleeping-pill overdose in Zoe's arms."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Friends don't commit suicide.\"",
+   "value": [
+    "Teen suicide",
+    "Sexual abuse",
+    "Friendship and helplessness",
+    "Survivor's guilt"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"I became still, cold, dead inside.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0073": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Murders by axe and strangling and sexual references are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"kill Nancy with the axe, and strangle her\", \"Into the Asylum, sir\", and \"touch me as well, all over\".",
+   "value": [
+    "Death",
+    "Violence",
+    "Mental Health",
+    "Sexual Content"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Five roles and a second persona surfacing in Grace's voice under hypnosis.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A cutting from a novel with added speaker labels; narrated passages such as \"Du Pont turns the lamp down low\" remain.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"voice gradually grows more coarse\", sung hymn lines, and period speech like \"Nancy said we was both to leave\".",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety",
+    "Dialect"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Grace Marks, Alias Mary Whitney.\"",
+   "value": "Convicted servant Grace Marks recounts the murders to Dr. Jordan, and under hypnosis a voice claiming to be her dead friend Mary Whitney confesses."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I am not Grace!\"",
+   "value": [
+    "Guilt and memory",
+    "Divided identity",
+    "Women and justice",
+    "Truth versus performance"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"It was my kerchief that strangled her.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0074": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "One recounted accidental death and mild language only.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"Patsy Cline had been killed in an airplane crash\".",
+   "value": [
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Two characters, Southern dialect, singing and broad comic movement.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Labelled speakers PATSY and LOUISE with song lyrics and cues like \"[Music cue]\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"Louise affects a voice for her boss\", \"dance a do-si-do\", and dialect such as \"Now y'all listen up\".",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"the first in a long series of letter and telephone calls\".",
+   "value": "Houston fan Louise tells how she met country singer Patsy Cline at a honky-tonk, became her friend and pen pal, and learned of her death in a plane crash."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"It was just like finding the sister I never had.\"",
+   "value": [
+    "Friendship with a star",
+    "Power of music",
+    "Fandom",
+    "Loss"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic fandom (\"Lord . . . take me now!\") ends with news of Patsy's death.",
+   "value": [
+    "Lighthearted",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0075": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "No mature content appears.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "No sensitive content is depicted; the worries are everyday ones such as \"My friend Terri has a secret crush\".",
+   "value": []
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "A narrator with a few brief voices and a phone-call scene.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "The source is a short-story anthology and the cutting is first-person narration (\"I never will forget that first show.\") with added speaker labels.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Short lines for MR. BURNSIDE, the RECEPTIONIST and EMMA HART (\"Are you still there, Amanda?\").",
+   "value": [
+    "Character Differentiation"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Amanda is my daughter, and it seems we have some things to talk about\".",
+   "value": "Amanda, whose radio-psychotherapist mother is too busy for her, calls the show under a false name and ends up talking with her mother on air and over lunch."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"how I couldn't talk to my mother\".",
+   "value": [
+    "Mother-daughter communication",
+    "Feeling unheard",
+    "Asking for what you need",
+    "Teen worries"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Humor about \"garbage fumes\" and a \"fractured canary\" leads to a sincere lunch.",
+   "value": [
+    "Lighthearted",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0076": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "The shooting of children and intended molestation are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I shot 'em! Each one. In the head. Then I shot myself.\", a mass shooting (\"Opens Fire\") that leaves children dead, and Carol \"mourning\".",
+   "value": [
+    "Death",
+    "Violence",
+    "Suicide",
+    "Grief",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Five characters, from a six-year-old to the gunman, with rural dialect.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A character list and labelled speakers CAROL, SHERRY, EDDIE, ANNA and VELDA.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"(as newscaster)\" and Sherry's dialect, e.g. \"I ain't never said somethin' so mean\".",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"They extend forgiveness to the gunman.\"",
+   "value": "The gunman's widow, a hostile neighbor, the gunman and two slain Amish girls recount the 2006 schoolhouse shooting and the Amish offer of forgiveness."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"We're all just a few bad days from SICKO\".",
+   "value": [
+    "Forgiveness",
+    "Guilt of survivors",
+    "Evil in ordinary people",
+    "Faith after tragedy"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"Shit like this happens every day.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0077": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Graphic violence against an enslaved woman and repeated racial slurs.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"them dogs tearin' at her flesh\", the Choctaw \"walked and died\", forced to \"walk in bloody snow\", and slurs like \"Haven't seen a nigger like that\".",
+   "value": [
+    "Violence",
+    "Death",
+    "Discrimination/Slurs",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Four roles in written Gullah-style dialect and Cherokee speech, with storytelling and song.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Labelled speakers NELLIE, MOMMA, HIRAM and HARRIET with directions such as \"Dogs Barking crescendos into blackout\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Dialect like \"Dey my words to ya\" and action such as \"MOMMA runs around a tree, dragging NELLIE\".",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Dey my words to ya.\"",
+   "value": "Runaway slave Nellie, separated from her mother by slave catchers, shelters with a Cherokee family in Georgia and secretly learns to read her mother's letters on cloth napkins."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"when ya knows how ta fly, dey cain' nevah touch yone spirit\".",
+   "value": [
+    "Freedom and literacy",
+    "A mother's legacy",
+    "Slavery and Cherokee removal",
+    "Shared oppression"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"Fly nawth and spell yo' name free.\"",
+   "value": [
+    "Serious",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0078": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "A suicide bombing, prisoner abuse and slurs are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Hanadi says children \"blew up with me last night\"; Lynndie recalls \"Bombs every day\", \"I held one of them on a dog leash\", calls Iraqis \"these animals\", and had \"a hangover\".",
+   "value": [
+    "Death",
+    "Suicide",
+    "Violence",
+    "War/Trauma",
+    "Abuse",
+    "Discrimination/Slurs",
+    "Substance Use"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Two opposed characters, a solemn martyr and a flippant soldier.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "From a short-play anthology: two monologues (\"I. Hanadi\", \"III. Lynndie\") with directions such as \"She drops the sheet.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Hanadi's incantatory \"Look at me, neighbor!\" contrasts with Lynndie's \"Oops, sorry!\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I'm Lynndie England.\"",
+   "value": "Two women speak after their acts: suicide bomber Hanadi Jaradat addresses her family, and Private Lynndie England shrugs off the prisoner abuse at Abu Ghraib."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Did you understand my death, Father?\"",
+   "value": [
+    "Martyrdom and indoctrination",
+    "Fathers and daughters",
+    "Dehumanization in war",
+    "Women and violence"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"THIS is my wedding day!\" and Lynndie's \"So, what's the big deal?\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0079": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A child's drowning is described without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"You drowned on Thursday. We buried you on Saturday.\" and \"fearing if the grief were to fade\".",
+   "value": [
+    "Death",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice moving between memory, grief and an imagined \"What if\".",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Lineated verse such as \"When I told the police I couldn't find you\".",
+   "value": "Poetry"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Marked echoes such as \"(echo) I told them you would never stay in a box\" structure the piece.",
+   "value": [
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"the divers would get out of our river\".",
+   "value": "A mother recalls the night her young son Andrew drowned in the river behind their home, his funeral, and how she carries his memory."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Must I say only one?\"",
+   "value": [
+    "A parent's grief",
+    "Memory of a lost child",
+    "Living with loss",
+    "What if"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Tender memories (\"Andrew Minton! Come on down!\") beside \"You drowned on Thursday.\"",
+   "value": [
+    "Bittersweet",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0080": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Racism is described without graphic content.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"What's that colored girl think she's doing?\", \"had the n-word flippantly tossed at me\", and \"no Negroes were allowed to perform\".",
+   "value": [
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice with singing and a hopeful arc.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Speaker label MARIAN and directions such as \"Sing opening lyrics\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "She must sing (\"Sing opening lyrics\") and voice others such as the receptionist.",
+   "value": [
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Easter Sunday, 1939.\"",
+   "value": "Contralto Marian Anderson recalls the racism she faced from Philadelphia to Constitution Hall before singing at the Lincoln Memorial on Easter Sunday 1939."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"it was music that found me!\"",
+   "value": [
+    "Racism and perseverance",
+    "Music as calling",
+    "Dignity",
+    "Civil rights"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"my voice, my gift from God, pierced the sky\".",
+   "value": [
+    "Earnest"
+   ]
+  }
+ }
+}

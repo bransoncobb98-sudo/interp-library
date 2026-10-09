@@ -1,4 +1,4 @@
-# Classification request: batch 41 of 63 (40 records, IC-1601 to IC-1640)
+# Classification request: batch 41 of 53 (40 records, IC-2001 to IC-2040)
 
 You are an experienced high school speech and debate coach classifying interpretation cuttings
 for a searchable library used by students and coaches.
@@ -125,7537 +125,4460 @@ Save the reply as `batch-041-reply.json`.
 
 ---
 
-## IC-1601: In a Shared Land
+## IC-2001: Clean, Cleaner, Cleanest
 
-- Title: In a Shared Land
-- Author (byline): Julia Alvarez and Naomi Shihab Nye
+- Title: Clean, Cleaner, Cleanest
+- Author (byline): Sherman Alexie
 - Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 1202
+- Publisher: The New Yorker Magazine
+- Publication date as stated: The Fiction Issue: June 5 & 12,
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: MARIE, NARRATOR, OWNER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1300
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Julia Alvarez
-Book: The Other Side / ElOotro Lado
-ISBN: 978-0452273412
-Publisher: Plume
-Date (Month/Year): Dec 1996
-Author: Naomi Shihab Nye
-Book: Honeybee, Pg 162
-ISBN: 978-0060853907
-Publisher: Greenwillow Books
-Date (Month/Year): Feb 2008
+Author: Sherman Alexie
+ASIN: B071244LRM
+Publisher: The New Yorker Magazine
+Date (Month/Year): The Fiction Issue: June 5 & 12,
+2017, Pgs 48-54
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-According to the UN, Not since World War II have so many people been on the move. Violent conflict has displaced 38 million within their own countries and forced another 22 million to flee across a border. But numbers that vast defy understanding . . . so today we make it personal with 2 poems that eloquently describe what it means to be adrift. . . In a Strange Land by Julia Alvarez and Naomi Shihab Nye.
+Hotel cleaning staff, predominantly women of color and immigrants, continue to face profound inequities in the hospitality industry. Despite their crucial role in maintaining cleanliness and ensuring guest safety, they rarely earn more than minimum wage, or have access to health insurance, sick leave, or job security. Many endure physically taxing and hazardous working conditions. These workers remain largely invisible, seldom acknowledged or valued by their employers or the guests they serve.
 
-Before his assassination on a dark highway on 30 May 1961, the Dominican dictator, Rafael Trujillo, ruled with an iron fist for almost 30 years. Those who dared to oppose him were imprisoned, tortured and murdered. In her poem “Exile,” Julia Alvarez shares her childhood memory of fleeing her homeland for America. You see, her grandfather had been charged with conspiracy to overthrow Trujillo, and the lives of his entire family were at risk.
+Marie’s been doing this job for decades. This is her story, well . . . the end of her story and what she has seen may shock you.
+
+Clean, Cleaner, Cleanest by Sherman Alexie
 ```
 
 ### Performance text (classify this)
 
 ```text
-Exile by Julia Alvarez
-The night we fled the country, Papi,
-you told me we were going to the beach,
-hurried me to get dressed along with the others,
-while posted at a window, you looked out
-at a curfew-darkened Ciudad Trujillo,
-speaking in worried whispers to your brothers,
-which car to take, who’d be willing to drive it,
-what explanation to give should we be discovered . . .
+MARIE: (Pgs 45-54) (knocking) Housekeeping. (louder) Housekeeping.
 
-On the way to the beach, you added, eyeing me. The uncles fell in, chuckling phony chuckles, What a good time she’ll have learning to swim! Back in my sisters’ room Mami was packing
+NARRATOR: On a Tuesday morning Marie knocked on the door of Room 213. A corner room. Larger than standard. With two big windows instead of one. Twenty dollars more a night. The guest had been there for a few nights and was supposed to check out by eleven. (Marie knocks again) There was no response. (Marie pushes it open, takes a step back) That was a learned self-defense behavior. You didn’t enter the room until you had a clear idea of what was waiting for you.
 
-a hurried bag, allowing one toy apiece,
-her red eyes belying her explanation:
-a week at the beach so Papi can get some rest.
-She dressed us in our best dresses, party shoes.
+MARIE: Housekeeping.
 
-Something was off, I knew, but I was young
-and didn’t think adult things could go wrong.
-So as we quietly filed out of the house
-we wouldn’t see again for another decade,
+NARRATOR: There was nobody in the living area. But the bathroom door was shut, so there could be somebody in there. A few years earlier, a naked guest had walked out of the bathroom as she was making the bed. They’d both yelped in surprise. Marie couldn’t stop laughing as she fled the room. But her fear of used hypodermics had lessened over the years. She got needle-stuck once when she was pulling off a pillowcase. She rarely saw a needle after crack and meth became more popular and cheaper than any other drug. You could shoot up meth, but it seemed that most people snorted it. Or smoked it. And accidentally started fires in small motel rooms. But the needles were starting to reappear. She felt sorry for those addicts -- for any addicts. They ended up looking like starving ravens. Like scarecrows after a brush fire. Like the babies born when starved ravens conceived with burned scarecrows.
 
-I let myself lie back in deep waters,
-my arms out like Jesus’ on His cross,
-and instead of sinking down like I’d always done,
-magically, that night, I could stay up,
-floating out, past the driveway, past the gates,
-in the black Ford, Papi grim at the wheel,
-winding through the back roads, stroke by difficult stroke,
-out on the highway, heading toward the coast.
+Seven people had died at the motel. Two from overdoses, four from heart attacks, and one when a woman drunkenly fell over the second-floor railing and landed headfirst on somebody else’s minivan.
 
-Past the checkpoint, we raced toward the airport,
-my sisters crying when we turned before
-the family beach house, Mami consoling,
-there was a better surprise in store for us!
+But she needed her job. She believed in her job. So, she cleaned the room. First, she picked up the dirty towels and shoved them into the laundry bag. She draped clean towels over the thin metal rod. The towels had been washed, yes, but they were so old that they’d forgotten how to be towels. And that thin metal rod had been pulled out of the wall so often by clumsy guests that it barely supported the weight of the towels. But no matter -- she still draped the towels with an eye-pleasing symmetry. Then she sprayed minty soap into the sink and the shower, did a quick wipe, and ran hot water to wash the soap down the drain. She knew she’d only cleaned the surface of things, but the soap’s strong minty smell would make it seem as if she’d cleaned more thoroughly.
 
-She couldn’t tell, though, until… until we were there.
-But I had already swum ahead and guessed
-some loss much larger than I understood,
-More danger than the deep end of the pool.
+MARIE: The illusion of clean.
 
-At the dark, deserted airport we waited.
-All night in a fitful sleep, I swam.
-At dawn the plane arrived, and as we boarded,
-Papi, you turned, your eyes scanned the horizon
+NARRATOR: She’d once used that phrase when she’d been talking to Father James about her job, and he’d said that the phrase accurately described humans as well.
 
-as if you were trying to sight a distant swimmer,
-your hand frantically waving her back in,
-for you knew as we stepped inside the cabin
-That a part of both of us had been set adrift.
+It took her only fifteen minutes to clean that room. That was good, because a mother and father with four kids had checked out of Room 144. The youngest kid, a toddler in a polo shirt, had taken off his pants and underwear -- had gone full Porky Pig -- then squatted and pushed out a public feces in front of the soda machine.
 
-Weeks later, wandering our new city, hand in hand, you tried to explain the wonders: escalators as moving belts; elevators: pulleys and rope; blonde hair and blue eyes: a genetic code.
+After so many years, Marie didn’t even mind cleaning up people’s feces and urine. She had discovered that it was vital to say “feces” and “urine” instead of using cruder terms for the messes that people left in the toilet. Or on the toilet. Or in the general vicinity of the toilet. Or sometimes not even in the bathroom at all. “Feces” and “urine” were medical terms. She was a motel maid, but it helped to think like a doctor or a nurse. It helped to think that she was helping people.
 
-We stopped before a summery display window at Macy’s, The World’s Largest Department Store, to admire a family outfitted for the beach: the handsome father, slim and sure of himself,
+Marie was deathly afraid of what that family might have done in the privacy of their room. She dreaded the marathon of cleaning that likely awaited her. (beat)
 
-so unlike you, Papi, with your thick mustache, your three-piece suit, your fedora hat, your accent. And by his side a girl who looked like Heidi in my story book waded in colored plastic.
+In the beginning, there was Marie, Agnes, Rosa, and the other Rosa. Agnes was a drunk. She got fired for stealing from the guests. Rosa No. 1 married her high-school sweetheart and moved away; Rosa No. 2 was undocumented and quit after she heard rumors about an immigration sweep of local businesses. The sweep didn’t happen. Not that time.
 
-We stood awhile, marveling at America,
-both of us trying hard to feel luckier
-than we felt, both of us pointing out
-the beach pails, the shovels, the sandcastles
+Over the years, thirty or forty women had quit without saying a word. Many of them never bothered to pick up their last paychecks. Marie feared that some of those women might have been disappeared by the men in their lives. But most of them just didn’t care. Over the decades, Marie had worked with two or three hundred women.
 
-no wave would ever topple, the red and blue boats. And when we backed away, we saw our reflections superimposed, big-eyed, dressed too formally with all due respect as visitors to this country.
+There were drug addicts and alcoholics and women who dowsed their cleaning rags with disinfectant and huffed those poisonous fumes into their lungs. There were illegal and legal immigrants, though Marie didn’t care about their status. Every refugee is a precious child, she thought. There were maids of every race. Of every color. Of every religion.
 
-Or like, Papi, two swimmers looking down at the quite surface of our island waters, seeing their faces right before plunging in, eager, afraid, not yet sure of the outcome.
+There were women who cried often but would never explain their tears. There were women who never stopped talking about their aches and pains.
 
-TRANSITION
+Marie’s knees and ankles hurt because she had so often squatted and kneeled to clean the floors. Her feet hurt because she stood for most of the day. And she’d never owned a good pair of work shoes.
 
-Today, the United States is experiencing its second great wave of immigration, a movement of people that has profound implications for a society that by tradition pays homage to its immigrant roots at the same time confronts complex and deeply ingrained ethnic and racial divisions. But I don’t want to live in a divided world. Fear and hatred of “the other” festering just below the slow boil of the American “melting pot.”
+One day, she’d twisted her back so severely that she’d collapsed in pain on the sidewalk. At the free clinic, she learned that “back spasms” was the fancy way to say “torn muscles.” Once or twice a year since then, she’d torn her back again. But she’d missed only a few days of work. She’d spend one day in bed, recovering, and then she’d force herself back to cleaning.
 
-No . . . I want to live in a world where people connect across boundaries of race, ethnicity, geography and every other facet of identity. “This is the world I want to live in. The shared world.”
+She’d slowly gained weight, three or four pounds a year. Not much, until you add it all up and discover that you’re a two-hundred-pound woman. The extra weight didn’t help her back. She went on dozens of diets. She failed.
 
-Wandering Around an Albuquerque Airport Terminal (aka Gate A-4) by Naomi Shihab Nye
+Her hands hurt. Arthritis. And the recurring rashes caused by the soaps and disinfectants. Her skin itched and burned. She tried wearing gloves at work, but that only made her rashes migrate from her hands to her wrists, forearms, and elbows.
 
-After learning my flight was detained 4 hours,
-I heard the announcement:
-If anyone in the vicinity of gate 4-A understands any Arabic,
-Please come to the gate immediately.
-Well—one pauses these days. Gate 4-A was my own gate. I
+Some mornings, she woke with hands so stiff that she could not make fists. She could not hold her coffee cup or toothbrush. She’d submerge her hands in hot water and flex and flex until her fingers worked properly again.
 
-went there. An older woman in full traditional Palestinian dress, Just like my grandma wore, was crumpled to the floor,
+MARIE: It’s hard work. But it’s not like working in a coal mine . . . Everything is temporary.
 
-wailing loudly. Help, said the flight service person. Talk to her. What is her Problem? we told her the flight was going to be four hours
+NARRATOR: On her last day of work, at age sixty-three, Marie was given a peculiar honor.
 
-late and she
-Did this.
-I put my arm around her and spoke to her haltingly.
-Shu dow-a, shu- biduck habibti, stani stani schway, min
+OWNER: You only have to clean one room.
 
-fadlick, Sho bit se-wee? The minute she heard any words she knew—however
+MARIE: But I want the last full shift.
 
-poorly used—
-She stopped crying.
-She thought our flight had been canceled entirely.
-She needed to be in El Paso for some major medical
+NARRATOR: Why? Because she needed that sense of completion. Because she wanted to use that last bit of money to buy herself a retirement gift. A new watch, perhaps, now that she didn’t have to worry about ruining it with water or cleaning fluids.
 
-treatment the Following day. I said no, no, we’re fine, you’ll get there, just
+OWNER: I’ll pay you full shift for cleaning one room. That is my gift to you.
 
-late,
-Who is picking you up? Let’s call him and tell him.
-We called her son and I spoke with him in English.
-I told him I would stay with his mother till we got on the
+NARRATOR: So, she took her time. She scrubbed the toilet, sink, and shower with bleach. She picked wildflowers from a sidewalk crack, placed them in a plastic cup and set that on the bathroom windowsill. Then she polished all the wooden furniture. It was too cheap and old and battered to sparkle. But a dim star is more visible than a dark star. She cleaned the windows. That took a long time, because the windows had rarely been cleaned. This was the kind of motel where the curtains were rarely opened.
 
-plane and Would ride next to her—Southwest. She talked to him. Then we called her other sons just for
+Finally, after three hours of cleaning Marie stepped out of the room and locked the door behind her.
 
-the fun of it. Then we called my dad and he and she spoke for a while in
-
-Arabic and Found out of course they had ten shared friends. Then I thought just for the heck of it why not call some
-
-Palestinian Poets I know and let them chat with her. This all took up
-
-about 2 hours. She was laughing a lot by then. Telling about her life.
-
-Answering Questions. She had pulled a sack of homemade mamool cookies—little
-
-powdered Sugar crumbly mounds stuffed with dates and nuts—out of
-
-her bag— And was offering them to all the women at the gate. To my amazement, not a single woman declined one. It was
-
-like a Sacrament. The traveler from Argentina, the traveler from
-
-California, The lovely woman from Laredo—we were all covered with
-
-the same Powdered sugar. And smiling. There are no better cookies. And then the airline broke out the free beverages from
-
-huge coolers— Non-alcoholic—and the two little girls for our flight, one
-
-African American, one Mexican American—ran around serving us
-
-all apple juice And lemonade and they were covered with powdered sugar
-
-too.
-
-And I noticed my new best friend—by now we were holding
-
-hands— Had a potted plant poking out of her bag, some medicinal
-
-thing, With green furry leaves. Such an old country traveling
-
-tradition. Always Carry a plant. Always stay rooted to somewhere. And I looked around that gate of late and weary ones and
-
-thought, This is the world I want to live in. The shared world. Not a single person in this gate—once the crying of
-
-confusion stopped —has seemed apprehensive about any other person. They took the cookies. I wanted to hug all those other
-
-women too. This can still happen anywhere. Not everything is lost.
+The owner gave Marie her last paycheck in cash. Two weeks’ worth of money. Six hundred dollars. With Social Security and Medicaid and Medicare and good luck, Marie and her husband would survive.
 ```
 
 ---
 
-## IC-1602: In Relig Odhrain
+## IC-2002: The Clown of God
 
-- Title: In Relig Odhrain
-- Author (byline): Neil Gaiman
-- Work: Trigger Warning: Short Fictions and Disturbances (pg 261)
-- Publisher: William Morrow Paperbacks
-- Publication date as stated: Oct 2015
-- Event as filed: Poetry
+- Title: The Clown of God
+- Author (byline): Tomie dePaola
+- Work: Not specified
+- Publisher: Voyager Books
+- Publication date as stated: 978-0156181921
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, GIOVANNI, MAESTRO, CROWD, BROTHER, TOWNPERSON, PEOPLE, WOMAN, BROTHER SEXTON, PRIEST
+- Teaser before the introduction: No
+- Spoken words (computed): 1277
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Tomie dePaola
+ISBN: 978-0156181921
+Publisher: Voyager Books
+Date (Month/Year): 978-0156181921
+*The Arlecchino mask is one of the most popular masks in
+the Commedia dell'Arte series. Arlecchino's usual role is
+that of a faithful valet or servant, but in this context he is
+also the clown, the acrobat providing lots of comic relief!
+As soon as this character appears on stage there is always
+lots of laughter at his absurd actions and words,
+alternating between flashes of brilliance and plain idiocy.
+You can't predict which will manifest itself at any time!
+This is overlaid with wit and charm, as well as scheming to
+meet his own objectives.
+Colombina is usually cast as a mischievous maid in the
+Commedia dell'Arte, a comic but not always virtuous figure
+with a best friend (and sometimes lover) of Arlecchino.
+Music and Lyrics of Little Drummer Boy – Our favorite
+version is by Penatonix
+https://www.youtube.com/watch?v=qJ_MGWio-vc
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+(Hum a few lines from The Little Drummer Boy)
+
+It was Saint Therese of Lisieux who said: “You know well enough that Our Lord does not look so much at the greatness of our actions, nor even at their difficulty, but at the love with which we do them.” This was true of America’s Little Drummer boy and can be found in many legends and fables world-wide. A poor soul with little worthy to give a King, but with a heart so big, so open – that in itself becomes a gift.
+
+based upon a French legend . . . The Clown of God by Tomie dePaola
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: Many, many years ago, in Sorrento . . . there lived a small boy named Giovanni who had no mother and not father. He dressed in rags and begged his bread and slept in doorways. But he was happy, and he could do something wonderful. He could juggle. Every day he would go to Signor Baptista’s fruit and vegetable stall and juggle.
+
+He would juggle lemons and oranges, apples and eggplants, and even zucchini. Crowds would gather to watch, and when Giovanni had finished, they would buy from Signor Baptista. Then Signor Baptista’s wife would give Giovanni a bowl of hot soup. It was a very good arrangement.
+
+One day a troupe of traveling players came to town, and Giovani watched as Arlecchino and Colombina*, in their beautiful clothes, danced and sang.
+
+GIOVANNI: (wonderstruck) Oh, that is the life for me!
+
+NARRATOR: So when the play was over, Giovanni went and spoke to the Maestro.
+
+MAESTRO: No, no. I have no need for a ragamuffin. Go beg your bread somewhere else.
+
+GIOVANNI: (pleading) But I could be very helpful. I could help unpack and pack up. I could take care of the donkey, And, Maestro . . . . I can juggle! (he demonstrates)
+
+MAESTRO: Not bad. With a bit more training and practice . . . All right! But no money. A place to sleep, the companionship of the finest players in Italy, and a bowl of noodles. That’s all.
+
+GIOVANNI: Grazi, Signor.
+
+MAESTRO: Go get your things. We leave in an hour.
+
+NARRATOR: And so Giovanni said good-bye to Signor and Signora Baptista and became a traveling player.
+
+Not long after, the Maestro gave him a costume and Giovanni juggled for the crowds. He would put on a clown face, step out from the curtain before the play began, bow, open up a colorful bag, roll out a carpet, and begin. He would juggle sticks. Plates. Then he would balance the plates on the sticks and twirl them. He would juggle clubs, rings, and burning torches.
+
+Finally he would toss a red ball and an orange ball. Then a yellow ball. A green, a blue, and a violet ball until it looked as if he were juggling the rainbow.
+
+GIOVANNI: And now for the Sun in the Heavens!
+
+NARRATOR: Still juggling, he would pick up a shining golden ball and toss it higher and higher, faster and faster. And how the crows would cheer.
+
+CROWD: (cheering)
+
+NARRATOR: Giovanni became very famous, and it wasn’t long before he said good-bye to the traveling troupe and set off on his own. Up and down Italy he traveled, and although his costume became more beautiful, he always kept the face of a clown. Once he juggled for a duke. Once for a prince! And it was always the same.
+
+First the sticks, then plates, then the clubs, rings, and burning torches. Finally the rainbow of colored balls.
+
+GIOVANNI: And now for the Sun in the Heavens!
+
+NARRATOR: And the golden ball would fly higher and higher and the crowds would laugh and clap and cheer. One day, between two towns, Giovanni was sitting in the shade of a tree, eating a lunch of bread and cheese. Two Little Brothers came down the road.
+
+BROTHER: Will you share your food with us, good clown, for the love of God and the blessing of our Brother Francis?
+
+GIOVANNI: Sit down, good fellows. There is more than enough.
+
+NARRATOR: As the three men ate, the two Little Brothers told Giovanni how they went from town, begging their food and spreading the joy of God.
+
+BROTHER: Our founder, Brother Francis says that everything signs of the glory of God. Why, even your juggling.
+
+GIOVANNI: That’s well and good for men like you, but I only juggle to make people laugh and applaud.
+
+BROTHER: It’s the same thing. If you give happiness to people, you give glory to God as well.
+
+GIOVANNI: (laughing) If you say so! But now I must be off to the next town. Arrivederi, good brothers – and good luck!
+
+NARRATOR: Wherever Giovanni went, the air was filled with his flying sticks and plates, his clubs and rings and torches. And, always, his rainbow of balls and “the Sun in the Heavens.” And wherever Giovanni went, the faces of the crowds would be all smiles, and the sound of laughter and cheers would ring through the towns. Years passed. Giovanni grew old and times became hard. People no longer stopped to watch.
+
+TOWNPERSON: It’s only the old clown who juggles things. We’ve all seen him before.
+
+NARRATOR: Giovanni was sad, but still he juggled, until one day he dropped “the Sun in the Heavens,” and the rainbow of balls came crashing down and the crowd stood around him and laughed!
+
+CROWD: (pointing and laughing)
+
+NARRATOR: But not from joy. Then they did a terrible thing. They threw vegetables and stones at Giovanni, so that he had to run for his life.
+
+Beside a stream, Giovanni took off his clown face. He put away his sticks and his plates, his clubs and rings and colored balls. He put away his costume and he gave up juggling forever. What little money he had soon was gone, and his clothes became rags. He begged his bread and slept in doorways as he had done as a child.
+
+GIOVANNI: (wearily) It’s time to go home.
+
+NARRATOR: And he headed back to Sorrento. It was a cold winter night when he finally arrived. The wind blew hard, and an icy rain was falling. Up ahead loomed the monastery church of the Little Brothers.
+
+The windows were in darkness. Wet and cold, old Giovanni crept inside and fell in a heap in a corner. Soon he was asleep. (Giovanni snores softly) It was the music that woke him up. The church was blazing with candlelight and filled with people singing
+
+PEOPLE: (singing) Gloria! Gloria!
+
+NARRATOR: Giovanni could scarcely believe his eyes. So much beauty! A long procession of brothers, priests, sisters and townspeople, all carrying beautiful gifts was winding its way through the church. They placed their gifts in front of a statute – of a lady and her child.
+
+GIOVANNI: What is all this?
+
+WOMAN: Why, old man, it’s the birthday of the Holy Child. It’s the procession of the gifts.
+
+NARRATOR: Giovanni watched in amazement until the singing was over. Then the church emptied of all the people and was darkened except for the bright candles surrounding the Lady and the Child. Giovanni moved closer. The Child in the Lady’s arms seemed so serious, so stern.
+
+GIOVANNI: (kneeling) Oh, Lady. I wish I had something to offer, too. Your child seems so dad, even with all these beautiful gifts. But wait – I used to make people smile.
+
+NARRATOR: Giovanni opened his bag and shook out his old costume. Then he put on his clown face, bowed, rolled out the little rug, and began to juggle. First the sticks. Then the plates. Next he twirled the plates on the sticks. And then the clubs and rings . . .
+
+The Brother Sexton, who was coming in to lock the doors, saw Giovanni juggling. He was horrified.
+
+BROTHER SEXTON: Father Master! A sacrilege! Come quickly!
+
+NARRATOR: But Giovanni didn’t hear or notice him.
+
+GIOVANNI: (smiling at the Child) And now . . . First the red ball, then the orange . . . Next the yellow. And the green, blue and violet.
+
+NARRATOR: Around and up they went until they looked like a rainbow.
+
+GIOVANNI: And finally . . . The Sun in the Heavens!
+
+NARRATOR: The gold ball flew up and around and around, higher and higher. Giovanni had never juggled so well in all his life. Higher and higher, faster and faster. A blaze of color filled the air. It was magnificent! Giovanni’s heart was pounding.
+
+GIOVANNI: For You, sweet Child, for You! (he suddenly collapses)
+
+NARRATOR: The priest and Brother Sexton came rushing in.
+
+PRIEST: (kneeling over Giovanni, he makes the sign of the cross) Why, the poor clown is dead. May his soul rest in peace.
+
+NARRATOR: But the Brother Sexton backed away . . .
+
+BROTHER SEXTON: (backing away, he gapes at the statue of the Lady and her Holy Child; he points) Oh, Father! Oh, Father, look!
+
+NARRATOR: The Child was smiling, and in His hand He held the golden ball.
+```
+
+---
+
+## IC-2003: Crack and the Box
+
+- Title: Crack and the Box
+- Author (byline): Pete Hamill
+- Work: Four in One: Rhetoric, Reader, Research Guide, and Handbook
+- Publisher: Longman
+- Publication date as stated: March 2007
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: No
-- Spoken words (computed): 585
+- Spoken words (computed): 2003
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Neil Gaiman
-Book: Trigger Warning: Short Fictions and Disturbances
-(pg 261)
-ISBN: 978-0062330321
-Publisher: William Morrow Paperbacks
-Date (Month/Year): Oct 2015
+Author: Pete Hamill
+Book: Four in One: Rhetoric, Reader, Research Guide,
+and Handbook
+ISBN: 978-0321481269
+Publisher: Longman
+Date (Month/Year): March 2007
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-Scottish history tells the tale of Saint Columa and Saint Oran . . . Fifteen centuries ago, a hot-tempered noble Irishman left his home. He had quarreled, and that quarrel had led to a battle. Many men were killed, and in penance, he left his native land, travelling to a remote island off the coast of Scotland with some companions. His name was Saint Columba – Among his twelve companions in exile was Saint Oran. They landed in Iona, which was to become their base for spreading the Gospel. First, though, a chapel was needed, for these were men of God, and must have a place to pray. So it was written.
-
-But amongst official histories lie stranger tales – orally passed on with many variations through the years. As time passes, it becomes harder to know whether these tales are true, but they may tell us something about the people who passed them on, and about us, who hear them.
-
-In Relig Odhrain by Neil Gaiman.
+In this original essay, a college student expresses his views regarding the relationship between drug consumers and television consumers. Despite the tragic American Situation regarding these issues, Hamill remains hopeful and proactive in providing a solution to Society’s addiction to “Crack and the Box” by Pete Hamill
 ```
 
 ### Performance text (classify this)
 
 ```text
-When Saint Columba landed on the island of Iona
-His friend Oran landed with him
-Though some say Saint Oran waited
-in the shadows of the island, waiting for the saint to
+One sad rainy morning last winter, I talked to a woman who was addicted to crack cocaine. She was twenty-two, stiletto-thin, with eyes as old as tombs. She was living in two rooms in a welfare hotel with her children, who were two, three, and five years of age. Her story was the usual tangle of human woe: early pregnancy, dropping out of school, vanished men, smack and then crack, tricks with johns in parked cars to pay for the dope. I asked her why she did drugs. She shrugged in an empty way and couldn't really answer beyond "makes me feel good." While we talked and she told her tale of squalor, the children ignored us. They were watching television.
 
-land there, I believe they came together, came from Ireland, were
+Walking back to my office in the rain, I brooded about the woman, her zombielike children, and my own callous indifference. I'd heard so many versions of the same story that I almost never wrote them anymore; the sons of similar women, glimpsed a dozen years ago, are now in Dannemora or Soledad or Joliet; in a hundred cities, their daughters are moving into the same loveless rooms. As I walked, a series of homeless men approached me for change, most of them junkies. Others sat in doorways, staring at nothing. They were additional casualties of our time of plague, demoralized reminders that although this country holds only 2 percent of the world's population, it consumes 65 percent of the world's supply of hard drugs.
 
-like brothers Were the blond and brave Columba and the dark man
+Why, for God's sake? Why do so many millions of Americans of all ages, races, and classes choose to spend all or part of their lives stupefied? I've talked to hundreds of addicts over the years; some were my friends. But none could give sensible answers. They stutter about the pain of the world, about despair or boredom, the urgent need for magic or pleasure in a society empty of both. But then they just shrug. Americans have the money to buy drugs; the supply is plentiful. But almost nobody in power asks, Why? Least of all, George Bush and his drug warriors.
 
-they called Oran.
+William Bennett talks vaguely about the heritage of sixties permissiveness, the collapse of Traditional Values, and all that. But he and Bush offer the traditional American excuse: It Is Somebody Else's Fault. This posture set the stage for the self-righteous invasion of Panama, the bloodiest drug arrest in world history. Bush even accused Manuel Noriega of "poisoning our children." But he never asked why so many Americans demand the poison.
 
-He was odran, like the otter, was the other. There were
+And then, on that rainy morning in New York, I saw another one of those ragged men staring out at the rain from a doorway. I suddenly remembered the inert postures of the children in that welfare hotel, and I thought: television.
 
-others And they landed on Iona and they said, We’ll build a
+Ah, no, I muttered to myself: too simple. Something as complicated as drug addiction can't be blamed on television. Come on.... but I remembered all those desperate places I'd visited as a reporter, where there were no books and a TV set was always playing and the older kids had gone off somewhere to shoot smack, except for the kid who was at the mortuary in a coffin. I also remembered when I was a boy in the forties and early fifties, and drugs were a minor sideshow, a kind of dark little rumor. And there was one major difference between that time and this: television.
 
-chapel. It’s what saints did when they landed. (Oran: priest of
+We had unemployment then; illiteracy, poor living conditions, racism, governmental stupidity, a gap between rich and poor. We didn't have the all-consuming presence of television in our lives. Now two generations of Americans have grown up with television from their earliest moments of consciousness. Those same American generations are afflicted by the pox of drug addiction.
 
-sun or fire Or from odhra, meaning dark-haired) But their chapel
+Only thirty-five years ago, drug addiction was not a major problem in this country. There were drug addicts. We had some at the end of the nineteenth century, hooked on the cocaine in patent medicines. During the placid fifties, Commissioner Harry Anslinger pumped up the butt of the old Bureau of Narcotics with fantasies of reefer madness. Heroin was sold and used in most major American cities, while the bebop generation of jazz musicians got jammed up with horse.
 
-kept on crumbling. And Columba took the answer from a dream or
+But until the early sixties, narcotics were still marginal to American life; they weren't the $120-billion market they make up today. If anything, those years have an eerie innocence. In 1955 there were 31,700,000 TV sets in use in the country (the number is now past 184 million). But the majority of the audience had grown up without the dazzling new medium. They embraced it, were diverted by it, perhaps even loved it, but they weren't formed by it. That year, the New York police made a mere 1,234 felony drug arrests; in 1988 it was 43,901. They confiscated ninety-seven ounces of cocaine for the entire year; last year it was hundreds of pounds.
 
-revelation, That his building needed Oran, needed death in the
+During each year of the fifties in New York, there were only about a hundred narcotics-related deaths. But by the end of the sixties, when the first generation of children formed by television had come to maturity (and thus to the marketplace), the number of such deaths had risen to 1,200. The same phenomenon was true in every major American city.
 
-foundations.
+In the last Nielsen survey of American viewers, the average family was watching television seven hours a day. This has never happened before in history. No people have ever been entertained for seven hours a day. The Elizabethans didn't go to the theater seven hours a day. The pre-TV generation did not go to the movies seven hours a day. Common sense tells us that this all-pervasive diet of instant imagery, sustained now for forty years, must have changed us in profound ways.
 
-Others claim it was doctrinal, and Saints Oran and
+Television, like drugs, dominates the lives of its addicts. And though some lonely Americans leave their sets on without watching them, using them as electronic companions, television usually absorbs its viewers the way drugs absorb their users. Viewers can't work or play while watching television; they can't read; they can't be out on the streets, falling in love with the wrong people, learning how to quarrel and compromise with other human beings. In short they are asocial. So are drug addicts.
 
-Columba Were debating, as the Irish love debating, about
+One Michigan State University study in the early eighties offered a group of four- and five-year-olds the choice of giving up television or giving up their fathers. Fully one third said they would give up Daddy. Given the choice (between cocaine or heroin and father, mother, brother, sister, wife, husband, children, job), almost every stoned junkie would do the same.
 
-Heaven, Since the truth is long-forgotten we are left with just
+There are other disturbing similarities. Television itself is a consciousness-altering instrument. With the touch of a button, it takes you out of the "real" world in which you reside and can place you at a basketball game, the back alleys of Miami, the streets of Bucharest, or the cartoony living rooms of Sitcom Land. Each move from channel to channel alters mood, usually with music or a laugh track. On any given evening, you can laugh, be frightened, feel tension, thump with excitement. You can even tune in MacNeil Lehrer and feel sober.
 
-their actions (By their actions shall ye know them): Saint Columba
+But none of these abrupt shifts in mood is earned. They are attained as easily as popping a pill. Getting news from television, for example, is simply not the same experience as reading it in a newspaper. Reading is active. The reader must decode little symbols called words, then create ideas and make them connect; at its most basic level, reading 'images or an act of the imagination. But the television viewer doesn't go through that process. The words are spoken to him by Dan Rather or Tom Brokaw or Peter Jennings. There isn't much decoding to do when watching television, no time to think or ponder before the next set of images and spoken words appears to displace the present one. The reader, being active, works at his or her own pace; the viewer, being passive, proceeds at a pace determined by the show. Except at the highest levels, television never demands that its audience take part in an act of imagination. Reading always does.
 
-buried Oran Still alive, with earth about him, buried deep, with earth
+In short, television works on the same imaginative and intellectual level as psychoactive drugs. If prolonged television viewing makes the young passive (dozens of studies indicate that it does), then moving to drugs has a certain coherence. Drugs provide an unearned high (in contrast to the earned rush that comes from a feat accomplished, a human breakthrough earned by sweat or thought or love).
 
-upon him.
+And because the television addict and the drug addict are alienated from the hard and scary world, they also feel they make no difference in its complicated events. For the junkie, the world is reduced to him and the needle, pipe, or vial; the self is absolutely isolated, with no desire for choice. The television addict lives the same way. Many Americans who fail to vote in presidential elections must believe they have no more control over such a choice than they do over the casting of L.A. Law.
 
-Three days later they returned there, stocky monks
+The drug plague also coincides with the unspoken assumption of most television shows: Life should be easy. The most complicated events are summarized on TV news in a minute or less. Cops confront murder, chase the criminals, and bring them to justice (usually violently) within an hour. In commercials, you drink the right beer and you get the girl. Easy! So why should real life be a grind? Why should any American have to spend years mastering a skill or a craft, or work eight hours a day at an unpleasant job, or endure the compromises and crises of a marriage? Nobody works on television (except cops, doctors, and lawyers). Love stories on television are about falling in love or breaking up; the long, steady growth of a marriage - it’s essential dailiness - is seldom explored, except as comedy. Life on television is almost always simple: good guys and bad, nice girls and whores, smart guys and dumb. And if life in the real world isn't that simple, well, hey, man, have some dope, man, be happy, feel good.
 
-with spades and mattocks And they dug down to Saint Oran, so Columba could
+The doper always whines about how he feels; drugs are used to enhance his feelings or obliterate them, and in this the doper is very American. No other people on earth spend so much time talking about their feelings; hundreds of thousands go to shrinks, they buy self-help books by the millions, they pour out intimate confessions to virtual strangers in bars or discos. Our political campaigns are about emotional issues now, stated in the simplicities of adolescence. Even alleged statesmen can start a sentence, "I feel that the Sandinistas should . . ." when they once might have said, "I think . . ." I'm convinced that this exaltation of cheap emotions over logic and reason is one by-product of hundreds of thousands of hours of television.
 
-embrace him Touch his face and say his farewells. Three days dead.
+Most Americans under the age of fifty have now spent their lives absorbing television; that is, they've had the structures of drama pounded into them. Drama is always about conflict. So news shows, politics, and advertising are now all shaped by those structures. Nobody will pay attention to anything as complicated as the part played by Third World debt in the expanding production of cocaine; it's much easier to focus on Manuel Noriega, a character right out of Miami Vice, and believe that even in real life there's a Mister Big.
 
-They brushed the mud off When Saint Oran’s eyes blinked open. Oran grinned at
+What is to be done? Television is certainly not going away, but it’s addictive qualities can be controlled. It's a lot easier to "just say no" to television than to heroin or crack. As a beginning, parents must take immediate control of the sets, teaching children to watch specific television programs, not "television," to get out of the house and play with other kids. Elementary and high schools must begin teaching television as a subject, the way literature is taught, showing children how shows are made, how to distinguish between the true and the false, how to recognize cheap emotional manipulation. All Americans should spend more time reading. And thinking.
 
-Saint Columba. He had died but now was risen, and he said the words
-
-the dead know, In a voice like wind and water.
-
-He said, Heaven is not waiting for the good and pure and
-
-gentle There’s no punishment eternal, there’s no Hell for the
-
-ungodly Nor is God as you imagine –
-
-Saint Columba shouted “Quiet!” And to save the monks from error shoveled mud onto
-
-Saint Oran. So they buried him forever. And they called the place
-
-Saint Oran’s. In its churchyard kings of Scotland, kings of Norway, all
-
-were buried On the island of Iona.
-
-Some folk claim it was a druid priest of sunlight that
-
-was buried In the earth of good Iona just to hold the church
-
-foundations, But for me that’s much too simple, and it libels Saint
-
-Columba (who cried “Earth! Throw earth on Oran, stop his mouth
-
-with mud this moment Lest he bring us to perdition!”). They imagine it a
-
-murder as one saint entombed another underneath that holy
-
-chapel.
-
-While Saint Oran’s name continues, Martyred heretic, his bones still hold the chapel stones
-
-together, And we join them, kings and princes, in his graveyard, in
-
-his chapel, For it’s Oran’s name they carry. He’s embraced in his
-
-damnation by the simple words he uttered. There’s no Hell to spite
-
-the sinners. There’s no Heaven for the blessed. God is not what you
-
-imagine.
-
-And perhaps he kept on preaching, for he’d died and he
-
-had risen, Until silenced, crushed or muffled by the soil of Iona. Saint Columba, he was buried on the island of Iona Decades later. But they disinterred his body and they
-
-took it to Downpatrick, where it’s buried with Saint Patrick and
-
-Saint Brigid. So the only saint is Oran on the island of Iona. Don’t go digging in that graveyard for the kings of old,
-
-the might, Or archbishops and their riches. They are guarded by
-
-Saint Oran Who will rise up from the gravedirt like the darkness,
-
-like an otter, For he sees the sun no longer. He will touch you, He will taste you, he will leave his words inside you. (God is not what you imagine. Nor is Hell and nor is
-
-Heaven.)
-
-Then you’ll leave him and his graveyard, and forget the
-
-shadow’s terror, as you rub your neck, remember only this: He died to
-
-save us. And that Saint Columba killed him on the island of Iona.
+For years, the defenders of television have argued that the networks are only giving the people what they want. That might be true. But so is the Medellin cartel.
 ```
 
 ---
 
-## IC-1603: In Remembrance - A Holocaust Collection
+## IC-2004: The Day I Swapped My Dad for Two Goldfish
 
-- Title: In Remembrance - A Holocaust Collection
-- Author (byline): Elie Wiesel, William Heyen and Tawnysha Lynch
-- Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1207
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Eli Wiesel
-Book: Night, Pg 34
-ISBN: 978-0374500016
-Publisher: Hill and Wang
-Date (Month/Year): Jan 2006
-Author: William Heyen
-Book: Erika: Poems of the Holocaust, Pgs 86-89; 39
-ISBN: 978-1877770210
-Publisher: Time Being Books
-Date (Month/Year): June 1991
-Author: Tawnysha Lynch
-Book: Remembrance
-ISBN: 978-1891231575
-Publisher: Word Association Publishers
-Date (Month/Year): 2001
-Also On-line at
-http://rihsenglish.pbworks.com/w/page/6787302/Poems
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Through their poetry Never Shall I Forget by Elie Wiesel,
-```
-
-### Performance text (classify this)
-
-```text
-Never Shall I Forget by Eli Wiesel (Pg 34) Never shall I forget that night, the first night in camp, that
-
-turned my life into one long night seven times sealed. Never shall I forget that smoke. Never shall I forget the small faces of the children whose
-
-bodies I saw transformed into smoke under a silent sky. Never shall I forget those flames that consumed my faith
-
-forever. Never shall I forget the nocturnal silence that deprived me
-
-for all eternity of the desire to live. Never shall I forget those moments that murdered my God
-
-and my soul and turned my dreams to ashes. Never shall I forget those things, even were I condemned to
-
-live as long as God Himself. Never.
-
-A Visit to Belzec and To the Onlookers by William Heyen and As the Orchestra Played by Tawnysha Lynch, shallow graves are unearthed and the tortured souls of six million who perished during the Holocaust are honored. In Remembrance – A Holocaust Collection
-
-A Visit to Belzec by William Heyen (Pg 86-89)
-I
-This is Belzec,
-in the East of Poland,
-in the Lublin region
-where the fumes of Sobibor,
-Maidenek, and Treblinka still
-stain the air:
-smell the bodies
-in the factories' smoke,
-smell the sweet gas
-in the clover and grass.
-This is Belzec
-where the death compound's gate
-proclaims in Hebrew,
-«Welcome to the Jewish State.»
-This is Belzec.
-This is SS humor.
-Curse them forever
-in their black Valhalla.
-II
-At 7:20 a.m. a train arrived from Lemberg with 45 wagons
-holding more than 6,000 people. Of these, 1,450 were
-already dead on arrival. Behind the small, barbed-wire
-windows, children, young ones, frightened to death, women
-and men. As the train drew in, 200 Ukrainians detailed for
-the task tore open the doors and, laying about them with
-their leather whips, drove the Jews out of the cars.
-Instructions boomed from a loudspeaker, ordering them to
-remove all clothing, artificial limbs, and spectacles. . .
-They asked what was going to happen to them. . . Most of
-them knew the truth. The odor told them what their fate
-was to be. They walked up a small flight of steps and into
-the death chambers, most of them without a word, thrust
-forward by those behind them.
-III
-Listener, you have walked
-into the smoke-streaked mirror
-of my dream, but I can't,
-or won't remember.
-Did my jackboots gleam?
-Did I fill out quotas?
-Was it before, or after?
-Did I close those doors,
-or did I die?
-I can still feel
-iron and cold water on my fingers,
-I remember running
-along the bank of a river,
-under trees with full summer
-stars in their branches,
-the sky lit up with flares
-and the slight murderous arcs of tracers,
-the night air wet
-with the sugary odors of leaves.
-
-Dogs barked. Were they mine? Were they yours? Was I running from, or after? IV Inside the chambers SS men were crushing the people together. `Fill them up well -- 700 or 800 of them to every 270 square feet.' Now the doors were closed. . . The bodies were tossed out, blue, wet with sweat and urine, the legs soiled with feces and menstrual blood. A couple of dozen workers checked the mouths of the dead, which they tore open with iron hooks. Other workers inspected anus and genital organs in search of money, diamonds, gold; dentists moved around hammering out gold teeth, bridges and crowns. . . V Listener, all words are a dream, You have wandered into mine. Now, as workers rummage among the corpses, we will leave for our affairs.
-
-This happened only once, but happened:
-one Belzec morning, a boy in deathline
-composed a poem, and spoke it.
-The words seemed true, and saved him.
-The guard's mouth fell open to wonder.
-We have walked together
-into the smoke-streaked
-terror of Belzec,
-and have walked away.
-
-Now wind, and the dawn sun,
-
-lift our meeting to where they lift the human haze
-
-above that region's pines.
-
-To The Onlookers by William Heyen (Pg 39)
-
-When our backs are turned,
-when someone stares at us,
-we feel them.
-You who watched the killing, and did nothing,
-still feel the eyes of those dead
-on your bodies.
-
-How many see you
-as you pick a violet?
-How many oak branches twist
-into hands begging for help?
-How many memories congeal
-in the sun's evening blood?
-O the unsung cradlesongs
-in the dove's nightcries--
-so many would have loved
-their own stars in the night skies,
-but now only the old well
-can do it for them.
-You did not murder,
-but looked on, you,
-who could have been changed
-into light.
-
-As the Orchestra Played by Tawnysha Lynch Summoned to Auschwitz’s doors, I could hear the violin’s mournful voice Calling to me as I entered history’s largest grave As the orchestra played.
-
-When life’s selections took place,
-I could hear the drum’s rhythmic pace
-Chronicling our short life’s goodbye
-As the orchestra played.
-
-When I became a prisoner,
-I could hear the clarinet’s fluid notes
-Mocking at what I have become
-As the orchestra played.
-
-When I sorted through the evidence of martyrdom,
-I could hear the guitar’s music
-Allowing my mind to escape
-As the orchestra played.
-
-When beaten without reason,
-I could hear the trumpet’s shout
-Announcing each crippling blow
-As the orchestra played.
-
-When I dug graves for my brethren,
-I could hear the bass’ low hum
-Predicting the horror to come
-As the orchestra played.
-
-When train loads of people perished in gas chambers,
-I could hear the bagpipe’s chilling song
-Forever haunting their frozen, blackened faces
-As the orchestra played.
-
-When I saw massacred skeletons wither away in ovens,
-I could hear the cello’s sorrowful tune
-Lamenting a bitter cry
-As the orchestra played.
-
-When I struggled to survive,
-I could hear the flute sing
-Telling of my affliction
-As the orchestra played.
-
-When I was chosen to die,
-I could hear the accordion’s melody
-Foretelling my fate
-As the orchestra played.
-
-When my essence exhaled its last,
-I could hear the harmonica
-Proclaiming my life’s departure
-As the orchestra played.
-
-When my ashes drifted from the grave, I could hear the instruments join as one Bidding me farewell As the orchestra played.
-
-(Echo from Never Shall I Forget)
-
-Never shall I forget those things, even were I condemned to
-
-live as long as God Himself.
-
-Never.
-
-CLOSING
-
-But we must do more than just remember. Elie Weisel tried to explain in his Nobel Peace Prize speech in 1986: “When human lives are endangered, when human dignity is in jeopardy, national borders and sensitivities become irrelevant. Wherever men or women are persecuted because of their race, religion, or political views, that place must – at that moment – become the center of the universe.”
-
-Can we stop the world from falling apart? Gaza, Sudan, Ukraine, Myanmar, Ethiopia, Haiti. The list of global conflicts grows longer; while here in the US we face our own divisions of race, religion and politics.
-
-We must do more than just remember. Think higher, feel deeper, do more. Donate to a food bank, help your neighbor, volunteer, vote in all the elections. Be a part of the solution, not part of the problem.
-```
-
----
-
-## IC-1604: In Response to Columbine
-
-- Title: In Response to Columbine
-- Author (byline): Janet O’Neill
-- Work: Turning Points
-- Publisher: Tichenor Publishing
-- Publication date as stated: 2001
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 810
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Janet O’Neill
-Book: Turning Points
-Publisher: Tichenor Publishing
-ISBN: 978-0742117013
-Date: 2001
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-“In Response to Columbine” by Janet O’Neill
-```
-
-### Performance text (classify this)
-
-```text
-The scene sets-up like this:
-
-Shooters – up the hill
-
-on their knees
-
-guns cocked and ready.
-
-Students -
-
-exit from
-
-south door. Downhill.
-
-Teachers -
-leading the students out to battle.
-Pack leaders.
-Coordinators.
-
-Then
-1 - the first shot
-2 - the reaction
-3 - the instinct to run away
-4 - the frenzy for survival
-5 - the aftermath
-
-OK, let's run it
-live in 5
-4
-3
-2
-1.
-
-Where’s he at?
-He promised to help me
-make my car
-For the pinewood derby.
-We're gonna win this year.
-Where's dad?
-
-OK.
-It's an open-and-shut case.
-Kid opens fire in the cafeteria.
-Two second graders get glazed.
-One third grader takes it in the vitals.
-
-Kid fleas the scene.
-Has no escape plan.
-Gets caught before he makes it to the ball diamond.
-Motive?
-Hell
-We've got a cafeteria
-filled with 246 witnesses.
-We don't need motive.
-
-Mommy
-it's the new version.
-The games so real it's
-like you're actually there.
-Can I have it?
-Please?
-I promise I'll be good.
-If you get me this,
-I won't be bored all summer.
-
-It's like I don't
-recognize her anymore.
-She used to wear anything
-GAP.
-Now she wears anything
-BLACK.
-She comes home.
-Goes to her room.
-
-Types on the computer.
-I've noticed
-cuts on her
-arm.
-First
-they were small.
-Now they're larger.
-Gashes
-in her
-arm.
-She's punishing
-herself
-She's punishing
-me.
-She's punishing
-anything she can.
-She breaks things.
-Anything.
-Supposedly she
-keeps a journal.
-I haven't read it
-I won't.
-But I want to know.
-Where's my daughter?
-Why won't she come back?
-
-For every action
-there is an
-equal
-yet opposite
-R
-E
-A
-C
-T
-I
-O
-N
-When it says here
-"parents"
-does that mean
-my real parents
-or the people I live
-with?
-Weekends, too?
-Why can't I just
-put grandma?
-What if I don't know
-their last name?
-Can I leave it blank?
-He's not really my dad.
-He's like the guy
-who lives with us, you know?
-Can I leave it blank?
-
-No, I'm not buying you
-a rifle for Christmas!
-Well we can't have
-everything Timmy has
-can we?
-Can we?
-You answer your mother
-when she's talking to you.
-We can't have
-everything Timmy has
-can we?
-Can we?
-
-See I keep the money
-underneath my sock.
-Deep down.
-Then before lunch
-I go to the bathroom
-and dig it out.
-No one else can get it.
-They're always taking my money.
-They don't even need it.
-They just want to get a
-R R R
-E E E
-A A A
-C C C
-T T T
-I I I
-O O O
-N N N
-out of me.
-
-Tonight on "World's Toughest Men" a man who took 4 bullets and lived to tell the tale.
-
-Today's topic:
-Mothers who didn't
-even know her child
-was pregnant until she
-brought home the baby.
-
-Today - we celebrate with a five-gun salute.
-
-She's started to pull away.
-Even more.
-I found these brochures
-for a private school
-in Vermont.
-She's telling her
-friends that's where she's
-going.
-Away.
-She tells them.
-She's going away.
-If I read the diary. Just once
-Would I find my daughter?
-Would it be worth it
-If
-I
-found my daughter?
-
-For every action there is an
-equal
-yet opposite
-R
-E
-A
-C
-T
-I
-O
-N
-I say we try the little f***er
-as an adult.
-Hell, I know he's only 13.
-Little f***er knew.
-He knew.
-
-And he knew you'd be too
-Chicken**** to call him
-on it.
-Boys school 'til he's 18.
-He knew.
-Little f***er knew.
-
-Daddy's playing cards tonight
-Daddy just got home. He'll play later.
-Daddy's out betting on horses
-Out on vacation
-Out of town
-Out shooting baskets
-out at the shooting range.
-Daddy can I go?
-
-Daddy can I go?
-
-(Opens diary) Sometimes
-I want to tell mom
-about it.
-But
-she thinks Al's a good guy.
-He's not like dad
-she says
-He's not like dad.
-He scares me.
-
-I do what he tells me.
-He says I better not
-act like I'm asleep
-and I don't
-but I stay real quiet.
-Real quiet.
-Real quiet.
-So mommy won't hear.
-So mommy won't hear.
-So mommy won't hear.
-For every action
-there is an
-equal
-yet opposite
-R R R
-E E E
-A A A
-C C C
-T T T
-I I I
-O O O
-N N N
-
-Reaction to the shooting were mixed, as the families of the victims mourned the death of their children and the families of the perpetrators mourn the death of their children's souls. Next hour on Newsextra, we'll talk to the town rocked by the events of today. What triggered the attack? Next, on Newsextra. And we're out in 5 4 3 2 1.
-```
-
----
-
-## IC-1605: Instructions and Locks
-
-- Title: Instructions and Locks
+- Title: The Day I Swapped My Dad for Two Goldfish
 - Author (byline): Neil Gaiman
 - Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 1098
+- Publisher: HarperCollins
+- Publication date as stated: May 1997
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: BOY, NATHAN, SISTER, MOTHER, VASHTI, BLINKY, PATTI, DAD
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1429
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
 Author: Neil Gaiman
-Book: A Wolf at the Door
-ISBN: 978-0689821394
-Publisher: Aladdin Paperbacks
-Date (Month/Year): December 2001
-Author: Neil Gaiman
-Book: Silver Birch, Blood Moon
-ISBN: 978-0380786220
-Publisher: Eos
-Date (Month/Year): March 1999
+ISBN: 978-0060587017
+Publisher: HarperCollins
+Date (Month/Year): May 1997
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-As adults we tend to forget that to children, everything is strange and wondrous; every step away from the familiar is fraught with peril and filled with potential dangers. Who knows for sure what lurks beneath the roses or what caused the bush in the deepest darkest corner of the garden to tremble? If the garden itself is filled with so many mysteries, what great adventures await should you choose to leave its safety? In the garden shelter is only a short sprint away, but out there in the world there will be no kitchen to replenish supplies when they run low or door to lock behind you when the sun expires and the shadows come alive. Instructions by Neil Gaiman are ones we'd all be wise to follow and remember, no matter what our age or experience.
+When a boy swaps his dad for two goldfish, he doesn’t really think about the consequences . . .
+
+BOY: Did so! After all, who would have suspected that other kids would go around swapping stuff too.
+
+BOY: Okay . . . maybe I didn’t think about that! And when his mom finds out . . .
+
+BOY: Who knew he’d be that valuable anyway??
+
+The Day I Swapped My Dad for Two Goldfish by Neil Gaiman
 ```
 
 ### Performance text (classify this)
 
 ```text
-Instructions
-Touch the wooden gate in the wall you never
-saw before.
-Say "please" before you open the latch,
-go through,
-walk down the path.
-A red metal imp hangs from the green-painted
-front door,
-as a knocker,
-do not touch it; it will bite your fingers.
-Walk through the house. Take nothing. Eat
-nothing.
-However, if any creature tells you that it hungers,
-feed it.
-If it tells you that it is dirty,
-clean it.
-If it cries to you that it hurts,
-if you can,
-ease its pain.
+BOY: One day my mom went out and left me at home with just my little sister and my dad. My dad sat in front of the television, reading his newspaper. My dad doesn’t pay much attention to anything, when he’s reading his newspaper. My little sister and I played in the garden. My sister played with her Barbie dolls, and I played at putting mud down my sister’s neck. My friend Nathan came over to my house. He had a glass bowl with him. There was something in the glass bowl. (to Nathan) “What’s that?”
 
-From the back garden you will be able to see the
-wild wood.
-The deep well you walk past leads to Winter's
-realm;
-there is another land at the bottom of it.
-If you turn around here,
-you can walk back, safely;
-you will lose no face. I will think no less of you.
+NATHAN: Two goldfish. They are called Sawney and Beaney. Aren’t they neat?
 
-Once through the garden you will be in the
-wood.
-The trees are old. Eyes peer from the under-
-growth.
-Beneath a twisted oak sits an old woman. She
-may ask for something;
-give it to her. She
-will point the way to the castle.
-Inside it are three princesses.
-Do not trust the youngest. Walk on.
-In the clearing beyond the castle the twelve
-months sit about a fire,
-warming their feet, exchanging tales.
-They may do favors for you, if you are polite.
-You may pick strawberries in December's frost.
-Trust the wolves, but do not tell them where
-you are going.
-The river can be crossed by the ferry. The ferry-
-man will take you.
-(The answer to his question is this:
-If he hands the oar to his passenger, he will be free to
-leave the boat.
-Only tell him this from a safe distance.)
+BOY: They were pretty neat. (to Nathan) I’ll swap you them.
 
-If an eagle gives you a feather, keep it safe. Remember: that giants sleep too soundly; that witches are often betrayed by their appetites; dragons have one soft spot, somewhere, always; hearts can be well-hidden, and you betray them with your tongue.
+NATHAN: What for?
 
-Do not be jealous of your sister.
-Know that diamonds and roses
-are as uncomfortable when they tumble from
-one's lips as toads and frogs:
-colder, too, and sharper, and they cut.
+BOY: We went up to my bedroom. My little sister tagged along. I showed Nathan my old transformer robots and my baseball cards and my books. I showed him my old punching bag and my penny whistle that Mommy said made her head ache when I blew it. I showed him my old spaceship that didn’t float in the bath anymore, and the puppet with the tangled strings, and I even shoed him Clownie, my clown that I sleep with. And every time I showed him something, Nathan said, “No.” We went downstairs. (to Nathan) Isn’t there anything you would swap for the goldfish? (to audience) They were very nice goldfish. They were reddy-gold, and they swam backwards and forwards in their bowl.
 
-Remember your name. Do not lose hope — what you seek will be found. Trust ghosts. Trust those that you have helped to help you in their turn. Trust dreams.
+NATHAN: No, not transformer robots or baseball cards or books or a punching bag., or a penny whistle, even if it does make your mom’s head ache, or a spaceship or a puppet or even that old Clownie.
 
-Trust your heart, and trust your story.
-When you come back, return the way you came.
-Favors will be returned, debts will be repaid.
-Do not forget your manners.
-Do not look back.
-Ride the wise eagle (you shall not fall).
-Ride the silver fish (you will not drown).
-Ride the grey wolf (hold tightly to his fur).
+BOY: I thought for a bit. Some people have great ideas maybe once or twice in their life, and then they discover electricity or fire or outer space or something. I mean, the kind of brilliant ideas that change the whole world. Some people never have them at all. I get them two or three times a week. (to Nathan) I’ll swap you my dad.
 
-There is a worm at the heart of the tower; that is why it will not stand.
+SISTER: Oh-oh!
 
-When you reach the little house, the place your
-journey started,
-you will recognize it, although it will seem
-much smaller than you remember.
-Walk up the path, and through the garden gate
-you never saw before but once.
-And then go home. Or make a home.
-And rest.
+NATHAN: That’s not a fair swap. I’ve got two goldfish and you’ve only got one dad.
 
-TRANSITION Now that you know the secrets of successfully navigating the fairy tale world, or perhaps the “real” world – Oft times the line between the two can become blurred. I offer another selection by Neil Gaiman: Locks. You remember the tale of Goldilocks and the Three Bears, don’t you? The tale actually originated with Robert Southey, but in his original version, the main character is not a young girl, but a nameless, homeless and ill-tempered old woman who intentionally breaks into the bears’ home looking for food and shelter. In Locks, we find the speaker sharing this version with his young daughter and ruminating over the need for Locks – Golden or otherwise.
+BOY: He’s bigger than your goldfish, though. He’s as big as a hundred goldfish.
 
-We owe it to each other to tell stories, as people simply, not as father and daughter. I tell it to you for the hundredth time:
+NATHAN: Can he swim?
 
-"There was a little girl, called Goldilocks, for her hair was long and golden, and she was walking in the Wood and she saw — "
+BOY: Better than a goldfish.
 
-"— cows." You say it with certainty, remembering the strayed heifers we saw in the woods behind the house, last month.
+SISTER: Liar. He splashes and splashes at the swimming pool.
 
-"Well, yes, perhaps she saw cows, but also she saw a house."
+NATHAN: Okay.
 
-"— a great big house," you tell me.
+BOY: He gave me the two goldfish in the goldfish bowl, and took my dad away with him. I watched the goldfish for a while.
 
-"No, a little house, all painted, neat and tidy."
+SISTER: You’ll get into big trouble when Mommy gets home. You’ll see.
 
-"A great big house." You have the conviction of all two-year-olds. I wish I had such certitude.
+BOY: When my mother came home I said . . . Mom, can we buy some gold fish food?
 
-"Ah. Yes. A great big house. And she went in . . ."
+MOTHER: If we have to, dear. Where’s your father?
 
-I remember, as I tell it, that the locks
-Of Southey's heroine had silvered with age.
-The Old Woman and the Three Bears . . .
-Perhaps they had been golden once, when she was a
-child.
+BOY: (to mother) Come and see my goldfish. Aren’t they pretty? (to audience) She shouted up the stairs. She knocked on the door of the bathroom. She called out into the garden. My father didn’t reply.
 
-And now, we are already up to the porridge,
-"And it was too— "
-"— hot!"
-"And it was too— "
-— cold!"
-And then it was, we chorus, "just right."
+SISTER: Mumf, mumf, mumf!
 
-The porridge is eaten, the baby's chair is shattered, Goldilocks goes upstairs, examines beds, and sleeps, unwisely.
+BOY: (to mother) Don’t pay any attention to her. Come and look at my goldfish. (to audience) But my mother untied my little sister and took the sock out of her mouth.
 
-But then the bears return.
-Remembering Southey still, I do the voices:
-Father Bear's gruff boom scares you, and you delight in
-it.
+MOTHER: Do you know where your father is?
 
-When I was a small child and heard the tale,
-if I was anyone I was Baby Bear,
-my porridge eaten, and my chair destroyed,
-my bed inhabited by some strange girl.
+SISTER: (pointing at the speaker) He swapped him to his friend Nathan for those two goldfish.
 
-You giggle when I do the baby's wail,
-"Someone's been eating my prridge, and they've eaten it
-—"
-"All up," you say. A response it is,
-Or an amen.
+MOTHER: (sharply) Young man, is this true?
 
-The bears go upstairs hesitantly, their house now feels desecrated. They realize what locks are for. They reach the bedroom.
+BOY: (to audience) She only calls me young man if she’s very, very mad. (to mother) Yes.
 
-"Someone's been sleeping in my bed." And here I hesitate, echoes of old jokes, soft-core cartoons, crude headlines, in my head.
+MOTHER: Right. (picking up the bowl of goldfish and handing it to speaker) You can take these goldfish over to Nathan this minute, and don’t you come back without your father.
 
-One day your mouth will curl at that line. A loss of interest, later, innocence.
+SISTER: I told you so!
 
-Innocence; as if it were a commodity.
-"And if I could," my father wrote to me,
-huge as a bear himself, when I was younger,
-"I would dower you with experience, without
-experience."
-and I, in my turn, would pass that on to you.
-But we make our own mistakes. We sleep
-unwisely.
-It is our right. It is our madness and our glory.
-The repetition echoes down the years.
-When your children grow; when your dark locks begin to
-silver,
-when you are an old woman, alone with your three bears,
-what will you see? What stories will you tell?
+MOTHER: And you can go with him. Fancy allowing your brother to swap your father for two goldfish and a bowl. The very idea.
 
-"And then Goldilicks jumped out of the window and she ran — Together, now: "All the way home."
+BOY: So we went to Nathan’s house. He only lives over the road. I knocked on the door. Nathan’s mother came out. (to Nathan’s mother) Is Nathan here?
 
-And then you say, "Again. Again. Again."
+N’s MOM: Where did you get those goldfish?They were a present to Nathan from his Aunt Violet.
 
-We owe it to each other to tell stories.
+BOY: I swapped them. And now I have to swap them back again. (to audience) She sent Nathan out to talk to me. (to Nathan) Here are your gold fish. Now can I have my dad back, please?
 
-These days my sympathy's with Father Bear. Before I leave my house I lock the door, and check each bed and chair on my return.
+NATHAN: Well, yes and no.
 
-Again. Again. Again..
+SISTER: Oh-oh!
+
+BOY: We went upstairs to Nathan’s bedroom. It was even messier than my bedroom. Nathan had an electric guitar, a big white one.
+
+NATHAN: I swapped this electric guitar with Vashti Singh.
+
+BOY: Nathan, what did you swap to Vashti, so she would give you her electric guitar?”
+
+NATHAN: If you get off me, I will tell you . . . I swapped her your dad. Well, he wasn’t very exciting. All he did was read the paper.
+
+BOY: I took the guitar and we walked over to Vashti’s house. (to sister) I could be a rock and roll star!
+
+SISTER: You could be an idiot.
+
+BOY: I rang Vashti’s doorbell. (to Vashti) I’ve got your guitar for you. (to audience) Vashti giggled. All Vashti’s sisters giggled too. (to Vashti) Can I have my dad back, please? (to audience) They giggled again.
+
+VASHTI: (shrugging her shoulders) Wait here.
+
+BOY: She took the guitar away from me. When she came back she was carrying a gorilla mask. (to Vashti) Oh, no.
+
+VASHTI: I swapped your dad with Blinky. Blinky had this really good gorilla mask “
+
+BOY: Where’s Blinky’s house?” (to audience) She told me how to get there. It was going to be a long walk. We set off.
+
+SISTER: Can I put on the gorilla mask?
+
+BOY: She put on the gorilla mask. (to sister - laughing) When are you going to put it on? When are you going to put on the gorilla mask? (to audience) My little sister took off the gorilla mask. We walked some more. I put on the gorilla mask. My sister went over to a policeman.
+
+SISTER: Help! Quick! That gorilla is escaping from the zoo!
+
+BOY: The policeman ran over and caught me. He made me take off the mask. Then he told me off. He would have told my sister off, only she did her innocent little girl face so he didn’t. It’s not fair. (sister giggles) (to sister) Watch it. Just watch it that’s all. (to audience) Blinky had a very big house. We went up to the front and rang the bell. The butler came out. (to butler) Can we speak to Blinky? (to audience) Blinky came down the big stairs. He looked very pleased to see the gorilla mask.
+
+BLINKY: Are you bringing it back?
+
+BOY: Yes, we are. (to audience) Blinky made the butler give us ginger beer. I liked it even though the bubbles tickled my nose. My sister made a face. (to Blinky after drinking the ginger beer) Now, where’s my dad? (to audience) He went away again around the side of the house.
+
+BLINKY: (returning) This is Galveston.
+
+BOY: Galveston was a fat white rabbit with one black ear.
+
+BLINKY: Galveston’s what I swapped your father for.
+
+BOY: I gave him the gorilla mask. He gave me Galveston and a map he drew of how to get to Patti’s house. I’d never walked so far in my whole life.
+
+SISTER: I think ginger beer is the most horrible thing in the whole world.
+
+BOY: Worse than boiled beets?
+
+SISTER: No, not that bad.
+
+BOY: While we walked, Galveston the Rabbit sat in my arms and made its nose go woffly. My sister tried to make her nose go as woffly as Galveston’s, but she couldn’t do it. I knocked on the door of Patti’s house.
+
+PATTI: Galveston!
+
+BOY: [She] took the rabbit away from us and fussed over it and gave it some lettuce, [then she] took my hand. We walked into the back garden. There was a little rabbit hutch there and next to the rabbit hutch was a little run with chicken wire all around it. My dad sat on the grass, in the chicken wire run reading his newspaper and eating a carrot. He looked a bit lonely, and he had grass all over his trousers. (to Dad – opening the gate) Come on, Dad. (to audience) My dad crawled through the gate on his hands and knees.
+
+PATTI: He’s not a very good rabbit.
+
+BOY: He’s not meant to be. He’s a very good daddy.
+
+PATTI: He can keep the carrot. Thanks for bringing back Galveston.
+
+BOY: No problem. Seeya.
+
+SISTER: You like her. I can tell. I’m going to tell everyone at school.
+
+BOY: Last week my little sister told everyone at school that I was adopted. The week before she told everyone at school that I was a space alien pretending to be me.
+
+SISTER: If you do, I’ll tell everyone that you’re secretly fat.
+
+DAD: Children.
+
+BOY: And he carried on eating his carrot and reading his paper until we go home. When we got home my mother said things like, “Just look at the state of him!” and she made him go and have a bath and she put all his clothes into the washing. While Dad was in the bath, my mother told me off. And when she’d finished telling me off, she made me promise, cross my heart, that I would never – ever – swap my dad for anything ever, ever again. And I promised. So I won’t. But I never promised anything about my little sister . . . . .
 ```
 
 ---
 
-## IC-1606: Iraqi War Poetry
+## IC-2005: The Day the Crayons Quit
 
-- Title: Iraqi War Poetry
-- Author (byline): Various Authors
-- Work: Poets Against the War
-- Publisher: Nation Books
-- Publication date as stated: April 2003
-- Event as filed: Poetry
+- Title: The Day the Crayons Quit
+- Author (byline): Drew Daywalt
+- Work: Not specified
+- Publisher: HarperCollins
+- Publication date as stated: July 2014
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, RED, PURPLE, BEIGE, GRAY, WHITE, BLACK, GREEN, YELLOW, ORANGE, BLUE, PINK, PEACH
+- Teaser before the introduction: No
+- Spoken words (computed): 1075
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Drew Daywalt
+ISBN: 978-0007513765
+Publisher: HarperCollins
+Date (Month/Year): July 2014
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+I have a secret . . . (whispering) I still like to color! And even though my mom doesn’t put my pictures on the refrigerator anymore . . . I still color. Sometimes in coloring books (which I get in my stocking for Christmas each year) and sometimes pictures I draw myself. I love crayons!!!! And you know what . . . I’m proud of it. Heck, they are even making ADULT coloring books now! I saw them at the craft store, so I know I’m not the only one. But then I got to thinking . . . what if Crayons could talk? What would they say? How do they feel? The Day the Crayons Quit by Drew Daywalt.
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: One day in class, Duncan went to take out his crayons and found a stack of letter with his name on them.
+
+RED: Hey Duncan, It’s me RED crayon. We need to talk. You make me work harder than any of your other crayons. All year long I wear myself out coloring fire engines, apples, strawberries and everything else that’s Red. I even work on holidays! I have to color all the Santas at Christmas and all the hearts on Valentine’s day! I need a rest! Your overworked friend, RED crayon.
+
+PURPLE: Dear Duncan, All right, listen, I love that I’m your favorite crayon for grapes, dragons and wizards’ hats, but it makes me crazy that so much of my gorgeous color goes outside the lines. If you don’t start coloring inside the lines soon . . . I’m going to completely lose it. Your very neat friend, PURPLE crayon.
+
+BEIGE: Dear Duncan, I’m tired of being called “light brown” or “dark tan” because I am neither. I am BEIGE and I am proud. I’m also tired of being second place to Mr. BROWN crayon. It’s not fair that BROWN gets all the bears, ponies and puppies while the only things I get are turkey dinners (if I’m lucky) and wheat, and let’s be honest – when was the last time you saw a kid excited about coloring wheat? Your BEIGE friend, BEIGE crayon.
+
+GRAY: Duncan, GRAY crayon here. You’re killing me! I know you love elephants and I know that elephants are gray, but that’s a lot of space to color in all by myself. And don’t even get me started on your rhinos, hippos and humpback whales. You know how tired I am after handling one of those things? Such BIG animals. . . baby penguins are gray, you know. So are very tiny rocks . . . pebbles. How about one of those once in a while to give me a break? Your very tired friend, GRAY crayon.
+
+WHITE: Dear Duncan, You color with me, but why? Most of the time I’m the same color as the page you are using me on – WHITE. If I didn’t have a black outline, you wouldn’t even know I was there! I’m not even in the rainbow. I’m only used to color snow or to fill in empty space between other things, and it leaves me feeling . . . well . . . empty. We need to talk. Your empty friend, WHITE crayon.
+
+BLACK: Hi, Duncan, I hate being used to draw the outline of things . . . things that are colored in by other colors, all of which think they’re brighter than me! It’s not fair when you use me to draw a nice beach ball and then fill in the colors of the ball with all the other crayons. How about a BLACK beach ball sometime? Is that too much to ask? Your friend, BLACK crayon.
+
+GREEN: Dear Duncan, As GREEN crayon, I am writing for two reasons. One is to say that I like my work – loads of crocodiles, trees dinosaurs and frogs. I have no problems and wish to congratulate you on a very successful “coloring things GREEN” career so far. The second reason I write is for my friends, YELLOW crayon and ORANGE crayon, who are no longer speaking to each other. Both crayons feel they should be the color of the sun. Please settle this soon because they’re driving the rest of us crazy! Your happy friend, GREEN crayon.
+
+YELLOW: Dear Duncan, YELLOW crayon here I need you to tell ORANGE crayon that I am the color of the sun. I would tell him, but we are no longer speaking. And I can prove I’m the color of the sun too! Last Tuesday you used me to color in the sun on your “Happy Farm” coloring book. In case you’ve forgotten, it’s on page 7. You can’t miss me. I’m shining down brilliantly on a field of YELLOW corn! Your pal and the true color of the sun, YELLOW crayon.
+
+ORANGE: Dear Duncan, I see YELLOW crayon already talked to you, the big whiner. Anyway, could you please tell Mr. Tattletale that he IS NOT the color of the sun? I would, but we’re no longer speaking. We both know I am clearly the color of the sun because on Thursday you used me to color the sun on BOTH the “Monkey Island” and the “Meet the Zookeeper” pages in your “Day at the Zoo” coloring book. Orange you glad I’m here? Ha! Your Pal (and the real color of the sun). ORANGE crayon
+
+BLUE: Dear Duncan, It has been great being your favorite color this past year, and the year before, and the year before that! I have really enjoyed all those oceans, lakes, rivers, raindrops, rain clouds and clear skies. But the bad news is that I am so short and stubby, I can’t even see over the railing in the crayon box anymore! I need a break! Your very stubby friend, BLUE Crayon
+
+PINK: Duncan, Okay, listen here, kid! You have not used me ONCE in the past year. It’s because you think I am a girls’ color, isn’t it? Speaking of which, please tell your little sister I said thank you for using me to color her “Little Princess” coloring book. I think she did a fabulous job of staying inside the lines! Now, back to us. Could you please use me sometime to color the occasional pink dinosaur or monster or cowboy? Goodness knows they could use a splash of color. Your unused friend, PINK crayon
+
+PEACH: Hey, Duncan, It’s me, PEACH Crayon. Why did you peel off my paper wrapping?? Now I’m naked and too embarrassed to leave the crayon box. I don’t even have any underwear! How would you like to go to school naked? I need some clothes. HELP! Your naked friend, PEACH crayon
+
+NARRATOR: Well, poor Duncan just wanted to color . . . and of course he wanted his crayons to be happy. And that gave him an idea. (pantomime Duncan coloring with all his crayons) TRANSITION He created a GREEN and BLUE ocean, with an ORANGE whale giving a lift to two small GRAY penguins, a PINK policeman, a BLUE crocodile and a GREEN monkey. An ORANGE sun shone down from a YELLOW sky sporting a BLACK rainbow. PURPLE and PINK dragons and a WHITE polar bear frolicked in the waves, while a RED Santa watched a PINK bus driver give a floating lift to a GREEN pig. And as for BEIGE and PEACH . . . well . . . he tried!
+
+NARRATOR: When Duncan showed his teacher his new picture, she gave him an A for coloring . . . . and an A+ for creativity!
+```
+
+---
+
+## IC-2006: The Death of Tommy Grimes
+
+- Title: The Death of Tommy Grimes
+- Author (byline): R.J. Meaddough
+- Work: Modern Black Stories
+- Publisher: Barron's Educational Series
+- Publication date as stated: 1971
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: Yes
-- Spoken words (computed): 3608
+- Spoken words (computed): 1776
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Sam Hamill and Sally Anderson (editors)
-Book: Poets Against the War
-ISBN: 978-1560255390
-Publisher: Nation Books
-Date(Month/Year): April 2003
+Author: R.J. Meaddough
+Book: Modern Black Stories
+ISBN: 978-0764191527
+Publisher: Barron's Educational Series
+Date(Month/Year): 1971
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-In late January 2003, in response to an invitation to a symposium by Laura Bush to celebrate "Poetry and the American Voice," Sam Hamill declined; a longtime pacifist, he could not in good faith visit the White House following the recent news of George W. Bush's plan for a unilateral "Shock and Awe" attack on Iraq. Instead, he asked about 50 fellow poets to "reconstitute a Poets Against the War movement like the one organized to speak out against the war in Vietnam...to speak up for the conscience of our country and lend your names to our petition against this war” by submitting poems of protest that he would send to the White House. 1,500 poets responded within four days . . . These are their heartfelt responses to the War in Iraq.
+Some have said that “The ethical fabric of society is made weaker and more dangerous by encouraging children, who are in the process of learning values, to inflict pain and suffering.” Others believe that the sport of hunting is one of the most exciting pastimes available – pitting man against nature. I hesitate to endorse either stance, as I believe that decision is an individual one for each person. However, the following selection “The Death of Tommy Grimes” by R.J. Meaddough did cause me to stop and think about my own personal value system. I hope it does the same for you.
 ```
 
 ### Performance text (classify this)
 
 ```text
-NOTE: This is way to long for one poetry presentation; but each poem is so incredible, it has been left up to the performer to pick and choose the items they’d like to include.
+Tommy had become part of the ground. At least he felt that way as he watched the dew and the daylight make giant shiny cobwebs of the treetops. The sun had not yet risen and a mist lay over the ground, which made the forest seem rather spooky to him.
 
-Afterward, We May Want to Know What Happened
-by Ralph Angel
-Amazing. We're all still here,
-and everybody's talking at once.
-But each moment works against us—we can't
-hear everything—and gets us through the hour
-in buses and taxis, airplanes
-carving the sky, the slow shade of a cloud
-that creeps through an open market with promises of
-nighttime striking a deal with the daylight.
+His nose itched and he longed to scratch it, maybe just nudge it a little, but Pa said don ‘t move, don’t twitch, don’t even breathe hard. Not one arm, one hand, even one finger, he said. “He knows the woods,” Pa told him; “you’ll never know he’s there; suddenly he’ll just be there looking at you, just looking.”
 
-No. We can't see everything,
-but when did looking convince us?
-Now we don't want these flowers,
-and we curse the vendor for showing them.
-It's all regret, the fish on the ice,
-the baskets of potatoes and green beans, all
-regret, until regret too
+It started so long ago, Tommy remembered, almost a year, when he was just eleven. That night, in the henyard, with the weasel’s eyes glistening in the flashlight. He never even fired a shot, just stood there with his mouth open, foolish, while the weasel dashed into the woods.
 
-is demolished. From the dust and rabble
-steel skeletons stand in the grandeur of distance
-and glass skin. And today, again,
-we've hurried to Century City, but we arrive
-forever early, unable to live up to our destination—
-neither shades nor galoshes, but
-the myth of afternoon.
+And Pa knocking the rifle from his hands and asking, “Why didn’t you shoot? What you waiting on? What’s wrong with you boy?”
 
-Perhaps that's enough. Perhaps it's all true. These designs of ourselves, and the wind, somewhere else. Among corporate towers and modular dunes, among vacant, dazzling plazas we're all just here, and each voice is a tiny fissure in the earth's veneer. And each voice calls to us, calls in the spirit of a beggar with something to give.
+“Pa, I . . . I couldn’t, Pa. I just couldn’t.”
 
-GOOD CLEAN FUN by Diane di Prima
+“You never did like to kill nothing did you, boy? Even when you was small.”
 
-It's terrorism, isn't it, when you're afraid to answer the door for lack of a Green Card afraid to look for work, walk into the hospital when yr child is sick,
+Tommy looked at the ground without saying anything and his father sighed, “Tommy, dammit, a man always dies a little when he kills something, but it just plain has to be done. Some animals just ain’t no damn good and got to be killed. Understand?”
 
-and what else than terrorism cd you call those smallpox blankets we gave the Indians the trail of tears, the raids on Ghost Dancing tribes It's terrorism when you're forbidden to speak yr language paddled for it, made to run a hundred laps in the snow in your thin & holey sneakers. What do you call it when you're locked in yr high school classroom, armed policemen manning the halls? Isn't it terrorism to force a young woman to talk to her parents abt her clandestine love the child she will or will not carry? Is it terrorism to shoot striking onion workers (1934), pick off AIM members one by one?
+He nodded without answering, still looking at the ground, and Pa stood up with a groan and they walked into the henhouse without speaking. They counted forty-three dead pullets, lying in red and white patches of feathers, blood and confusion.
 
-What happened to the Hampton family in Chicago his bed; would you call that terrorism? Or the MOVE kids in Philadelphia bombed in their home. Or all the stories we don't know buried in throats stuffed w/socks, or pierced w/bullets. Wd you call it terrorism, what happened at Wounded Knee or the Drug Wars picking off the youth of our cities twenty years ago now; you know the names. What was COINTELPRO if not terrorism? What new initials are they calling it today?
+So he began to practice with the rifle, shooting at moving targets, and the rifle became part of his arm.
 
-Is Leonard Peltier a victim of terrorism? Is Mumia Abu-Jamal?
+It got so that he could hit anything he aimed at, even things a good bit out. And sometimes, when he turned real quick, he would see pride in Pa’s eyes. But then Pa would always make his face blank and say, “We-e-ell, Tommy,” real grim-like, “you’re getting better but you need more practice.”
 
-Is it terrorism if you are terrified
-of the INS, the IRS, the landlord, yr boss, the man
-who might do yr job for less?
-if you're scared of yr health insurance
-no health insurance
-scared of yr street, yr hallway, scared every month
-you might not get to the 1st and the next measly check?
+Pa taught him how to track animals and how to lead quail, and how to lean into the rifle to take up the recoil. And Pa showed him how to lie quiet so the forest forgot he was there and Nature went on about her business.
 
-Is it terrorism to take food from hungry school-kids? To threaten teenagers who still have hope enough have joy enough to bring babies into this mess?
+And the time came last night when Pa came home and mentioned that some of the men were going into the forest to get a buck; and how it might be some good shooting because bucks were fast, real fast.
 
-How has terrorism touched you, shaped your life? Are you afraid to go out, to walk in yr city, yr suburb, yr countryside? To read, to speak yr own language, wear yr tribe's clothes? Afraid of the thin-shelled birds w/twisted necks poisoned by nitrates, by selenium? Afraid that the dawn will be silent, the forests grey?
+“Pa,” he murmured, “think maybe I could go a time at that old buck?”
 
-Is it terrorism to fill the Dnieper w/radiation?
-or heat the ionosphere w/magnetism "to see what will
-happen"?
-A wonderful weapon, they say, it will perturb
-the weather pattern, disrupt communications
-Who are the terrorists in the lumber wars?
-(the water wars are coming)
-And we haven't even talked about AIDS and cancer.
+“Boy, this ain’t no old buck, it’s a young one,” Pa said, making like he was surprised. “Boy, you might get hurt.”
 
-Is the assault on native intelligence & good will that we call the evening news anything other than an act of terror?
+“Some time, I think I’d like to take my turn,“ he answered..
 
-What was the Gulf War but terrorism wearing the death mask of order? < one big car bomb it was the guys who drove it dying now one by one Is acid rain a form of terrorism? (Think for yourself.) Is GATT or NAFTA anything but a pact among brigands and their back-up men? How long before they fight over the spoils? Who'll do their fighting for them?
+“Well I’ll think about it, boy,” Pa mumbled, but he couldn’t hide a gleam in his eye.
 
-Is Alan Greenspan perhaps the biggest known & named of our terrorist leaders, here, nurtured here, trained here
+Tommy slowly, ever so slowly, rubbed his forehead along his sleeve and watched the gloom in front of him. Somewhere out there Pa had circled around and was trampling through the woods, scaring everything away, away toward the clearing where he lay waiting.
 
-the dark design of whose hearts makes
-Hutu & Tutsi
-Croat & Muslim & Serb
-mere diversionary tactics before the onslaught
+He laughed in his mind when he thought of the last time when Pa had gone down to the Hut for a drink with the “boys,” as he called them. And when he came out his eyes were gleaming like the mischief and he wobbled into the yard like he didn’t know how to walk. He had gone downstairs in his pajamas and they sat on the back porch and listened to the crickets and looked at the stars. Then Pa filled his pipe and stared out across the backyard toward the north pasture.
 
-BULLETIN
-by Diane di Prima
-It is happening even as you read this page. By the time
-you finish reading this it will be over.
+“Dawn in the forest is a beautiful thing, boy, beautiful. All the colors and wild flowers, fresh streams, cool breeze, you feel like, boy, feel it! Even though there ain’t a sound you feel it. You see a flash of white and you know some rabbit’s going home. Or you might see a chuck burrowing in. And the trees,” he whispered, “They just stand there watching you. Been there before you came, be there after you gone.”
 
-She will have left the hotel and disappeared. He will have eaten the pills. That one will slip and crack her skull on the floor. That one will go out in a driveby shooting.
+“Gee, Pa,” he murmured, “you make it sound so nice I don’t know’s I want to hunt tomorrow.”
 
-halfway around the world the bombs are dropping
+Pa smiled. “It is nice, boy, real nice, but things got to be done to keep it that way. Fox eats a rabbit he keeps the rabbit population down, else they’d overrun the land. Same here. You hunt ‘cause you hungry and got to eat, that’s one reason. Then you might hunt for the sport – pit your mind against animal cunning – ‘course I don’t hold much with that, but some do. Some do. But there’s some varmints that do damage and just plain got to be killed. Understand?
 
-As you read these words it is already too late. 200,000 children will have starved. One of them held the Jewel in his brain, another could cure plagues with her breath.
+“I . . . think so. But what about what you said about a man dying when he kills something?”
 
-As you read this line one thousand have died of AIDS. They die alone hidden in furnished rooms. They die on the ground all over Africa.
+“Man kills once and he starts to get callous. Next time it ain’t so hard. Then you get so’s you make a decision that something’s got to die and you kill it, just like that. Then you dead, boy. You got no feeling no more so you just as good as dead. You just ain’t had time to lay down.”
 
-halfway around the world the bombs are falling
+Tommy wiggled his toes and got no response. They felt like sticks of wood, stilts that somebody had glued on his legs. The mist was thinning and the sun began to shine dully through the trees. Pa was right, he thought. Seems as if everything had a place in the scheme of things. Birds ate worms they found on the ground. Then they got eaten by bigger birds. Rabbits got eaten by foxes and foxes by bobcats, and bobcats by bears or something all the way up to elephants. And elephants were killed by man. Pa said that ma preyed on himself, whatever that meant, but everything had a place, and when they got out of place they upset the balance. Like too many rabbits or squirrels or anything.
 
-Do not think to correct this by refusing to read. It happens as you put down the paper, head for the door. The ozone reaches the point of no-return
+The silence somehow nettled him . . . the silence! Not a sound! No crickets, no chirping, no rustling, nothing. There was something out there! The happy-scared feeling ran up and down Tommy’s back and his breath came in painful gasps. His chest hammered, almost pushing his lungs into his mouth with its rhythm which seemed to be saying: Soon! Soon! Soon they would be calling him Tom Grimes like his father. Soon he would be able to go into the Hut and drink liquor with the rest of the men. Soon the waiting would be over. Soon he would be grown. Soon! Soon! Soon!
 
-the butterflies bellyflop, the last firefly, etc. Do not think to correct this by reading.
+There! In the bushes! A little pinch of color behind the bramble bush moving light and easy, so very easy, behind the bushes. He slid down still further behind the gun and spread his feet wide, toes digging into the soft earth. “Put the whole side of your body behind the gun to take the recoil,” Pa had said. “Spread your legs wide to brace yourself. Make the gun, your arm, your hoip, your leg into one long ine.” Tommy drew his breath in and nearly gagged trying to hold it, sighting along the clean black ridges of the rifle. The outline was clear behind the bush, creeping, sniffling, gliding along.
 
-The bombs burst the small skull of an Arab infant the silky black hair is stuck to your hands with brains. W/bits of blood. There is less shrieking than you would expect a soft silence. The silence of the poor, those who could not afford to leave. Drop flowers on them from yr mind, why don't you? "I guess we'll have to stay and take our chances."
+“You won’t see it, or hear it, or smell it, or anything,” Pa had told him. “You’ll just feel it, and it’ll be there.”
 
-They die so silently even as we speak
+Tommy breathed out and in, let some of the air out and chokingly began to squeeze the trigger. Would it never go off, his mind asked, reeling and stumbling and clinging desperately to reality, and the earth stuttered. The light blinked. His ears rang. His nose reacted to the smell of smoke and the taste of ink crept into his mouth. There was a rustling sound in the bushes and a thrashing, a terrible thrashing and rattling, but it stopped. Suddenly it stopped. Tommy blinked. It was over; just like that, it was over.
 
-Black eyes of children seek eyes of the dying mother bricks fall dirt spurts like fountains in the streets. In the time you fill a cup they die of thirst.
+He got to his feet and the stiffness forced him to lean against a tree trunk. Before there had been nothing, then suddenly there was something, a small patch of color the same as Pa’s jacket. Tommy blinked and listened for the crashing sound of someone coming through the forest – but there was nothing. Nothing. He strained his ears and heard new-sprung crickets and birdcalls, but no crashing, no rustling, no voice, and he started for the bush and then stopped, trembling.
 
-In the time it takes to turn off the radio. Not past, not future
+“Pa?” he whispered, “Pa-a-a?” There was no sound except his own voice, twisted and shapeless and mocking, twirling through the trees like vapors in the dull, chilly air. “Pa! Pa! Pa!”
 
-The huts are blazing now. South of Market a woman ODs with an elegant sigh. No more no less than is needed.
-
-halfway around the world the bombs are dropping To the Forty-third President of the United States of America by William O'Daly Mr. President, our history speaks to us, the history of Chile and China, El Salvador and Nicaragua, Somalia, Puerto Rico— today, our solemn duty is to defy your willful aggression, to parse provocative words and habits, your heroic battle to distract us. Perhaps you think God will protect us from the religious zealots who sanctify your rule, from your opportunism and the race renewal, the investiture you have assumed because, as always, it is not yours. Let me ask an obvious question.
-
-If we are to establish peace
-and security for our nation, must we not do
-everything in our power to end
-the beginnings of war, must we not allow
-our imaginations to craft a lasting peace?
-
-Are not the children you would choose
-to incinerate our own? We try on masks
-to trick our isolated, frightened selves,
-to propagate our sacred uncertainties
-among the children of this blue planet,
-a world we create and ruin every day.
-
-Mr. President,
-where do we walk, where may we sit down,
-where can we work or rest, weep or pray,
-what field does a man sunder and seed
-in a country living only in memory, dying
-every day at the hands of those who profess
-to love her most? They say God loves America,
-and that this “old bitch gone in the teeth” is
-heaven on earth; in preemptive violence,
-in obstinacy, in entitlements for the rich,
-this murdered land, this, the people's
-earth, is our reward for being right
-no matter how wrong we are.
+Then came the rushing and the crashing to the left and the tall husky figure coming out of the gloom saying, “Boy? What’s wrong, boy?” And Tommy ran over and slammed his head against his father’s chest. “Pa! I thought I killed you, Pa. I thought I killed a man!”
 
-What “urge and rage” thrives in the American heart, that so many cheer this obsessive, unilateral madness?
+“Now, Tommy, it’s all right, everything’s all right,” Pa said, walking behind the bush and kneeling and then rising and coming back.
 
-Even through precise layers of glass, the TV peddling a thrilling efficiency, we cannot see them, the ghosts that inhabit our malnourished statistics, inhospitable closets, cold kitchens where we eat meat and raise goblets of wine to celebrate our belief that they are not like us. I want to spend more time with my daughter, my five-year-old, I want to see her, to know she is alive. It is her “evening of the morning,” she is just fine, though she implores me to tell her the “acommitation of naked truth.”
+“See?” he said. “What did I tell you? Right through the heart. Now that’s good shooting. Come on over here and look; come on, now.”
 
-I imagine Iraqis, weakened by sanctions, spending time with their children. What do they play together, what makes them laugh, what crude medicine do parents spoon down fevered throats, when they too are roused from nightmares of fragile necklaces of bone, slung around the necks of American fighters whose hearts we camouflage?
+So he looked, and then it wasn’t so bad.
 
-Who will witness the small charred bodies floating in the Tigris, children writhing in pain, in smoking rubble, in the ruins of Bab al-Wastani or the Mirjan Mosque, severed limbs and glazed eyes that last night followed their favorite story by candlelight?
+Later, much later, they walked the mile from town to the Hut and walked inside together. There were some men sitting at tables and they looked up as Pa hoisted him onto the bar, running his fingers through his dark, blond hair.
 
-Mr. President, what does it mean when you say Saddam Hussein, Butcher of Baghdad, official liar, terrorizes himself? If he brings terror upon himself, will our dark angels exterminate him or his already wounded people; and would you answer Mr. Korb: What if Kuwait grew carrots, what if Iraq's main exports were chick peas and cotton shawls destined for American women longing for the exotic?
+“Boys, I wanna tell you my boy became a man today. Yessir, killed his first nigger.”
 
-To be honest,
-I have forgotten from what we must abstain,
-yet we know how to prevent conception. “C'est la vie,”
-you say, saddled up, ready to ride with your posse
-across oil fields just like those in Texas.
-It appears the one thing we cherish
-more than petroleum or our children
-is the greased machinery of destruction.
+“No!” a man said. “Who?”
 
-* Notes
+“Swamp-buck got away from the chain gang yes-tidy. Yessir, got him right though the heart.”
 
-1. “old bitch gone in the teeth”: Ezra Pound, from “Hugh Selwyn Mauberley”
+The man grabbed Tommy and hugged him around the knees. “You a man now, boy!” he yelled, “you a real live honest-to-goodness ‘fore God man!”
 
-2. “urge and rage”: Anne Frank, from The Diary of a Young Girl (1947; tr. 1952), entry for 3 May 1944
+And Pa, his blue eyes agleam, yelled out, “Bartender! Don’t just stand there! Give this man a drink!”
 
-3. “evening of the morning”: Kyra Gray O'Daly
-
-4. “acommitation of naked truth”: Kyra Gray O'Daly
-
-5. Bab al-Wastani: the last remaining of the renowned gates of Baghdad
-
-6. Mirjan Mosque: ancient mosque, completed in 1358
-
-7. “If Kuwait grew carrots we wouldn't give a damn.”
-
-Lawrence Korb, former U.S. assistant secretary of defense, on the motives for “Operation Desert Storm”
-
-8. “The war on terror involves Saddam Hussein because of the nature of Saddam Hussein, the history of Saddam Hussein, and his willingness to terrorize himself.” George W. Bush
-
-9. “C'est la vie” : “Either they are with us or not. Either one is fine. C'est la vie.” An aide to George W. Bush, quoting him
-
-10. “I know some in Europe see me as a Texas cowboy with six-shooters at my side. But the truth is I prefer to ride with a posse.” One senior Bush aide, recalling President Bush's comment to Czech President Vaclav Havel in Prague (Fall 2002)
-
-If There Were No Days, Where Would We Live
-by Primus St. John
-The heart line begins
-on the thumbless side of the palm
-traveling horizontally under the fingers,
-when it is clear & deeply etched
-you have deep emotions...
-so the war is over, my love,
-and we have killed enough of them,
-torched their homes
-trampled their fields
-mutilated their arms
-burned their legs
-harvested their ears
-and wore them like dark pearls
-drove them crazy
-made night a sure sign
-of death
-their schools, lost canyons
-with nothing blowing through them
-and an exact count of
-dead mothers
-dead fathers
-dead children
-and all that was given
-taken away.
-What do you do now
-with the hunger
-and the poverty glaring in their faces?
-St. Teresa
-would have probably kissed it,
-but we were not saints
-we were soldiers
-hiding in the enemy's world.
-How many times
-must I be dipped into the water
-to be a child again?
-
-Portrait of George W. Bush as a Cowboy, or: America's Foreign Policy of Peace By Terry Tempest Williams (Warning: This is a rant and may not be good for your mental health)
-
-Old myths die hard as they say in the American West, and perhaps no lie is as captivating as the romance of the American Cowboy. Talk about a sacred cow that lives on in Texas. What I want to know is how George W. Blue-blood Bush has spun his identity to the point where we believe him when he says his preference is “home on the range” rather than commander-in-chief.” Karl Rove, his trusty genius-in-residence, actually said, “Given the choice of Wall Street over Main Street, the President would choose Main Street every time.” Yup, he's just a regular ‘ole guy in a Stetson and levis who just happens to live in The White House.
-
-He is a man who wears a Stetson and levis with a relentless appetite for war.. Yee-haw! Ride e'm cowboy, all the way to Iraq. Forgive me, but that's what it feels like every day in the USA, where conservative talk show host Rush Limbaugh tells his viewers to “relax, we'll get our war” as he called the anti-war demonstrations anti-American demonstrations fueled by communists and environmental wackos. Never mind that freedom of speech is a tenet of American democracy or that dissent is what this country was founded on in the first place. Bush and his conservative army of listeners wants blood, not ours, but theirs. And theirs is no longer Osama Bin Laden and Al-Qaeda, but rather Saddam Hussein and Iraqi dissidents who are a more stable target, not prone to hiding in caves or shape shifting. We want to show what we've got by way of military prowess, in case the world has forgotten.
-
-Just the other day, Dan Rather exposed the latest military scheme called “Shock and Awe,” a strategy developed with the hopes it would “have this simultaneous effect rather like the nuclear weapons at Hiroshima, not taking days or weeks but minutes” to destroy the enemy. 300 to 400 cruise missiles would be deployed at once, more than the number launched during the entire 40 days of the first Gulf War. “The sheer size of this has never been seen before, never been contemplated before,” a Pentagon official said. “There will be not be a safe place in Baghdad,” “The horror and destruction will be so vast and fast it will inspire nothing but shock and awe.” Within minutes, blood-soaked handkerchiefs will be waving from the rubble begging for mercy, and then presto, the war will be over. Nice and neat, clap the dust off our hands. In and out, mission accomplished.
-
-One lariat thrown around the neck of Saddam Hussein, and it's the end of the rodeo. George W. Bush will wave his white hat to the crowd as he takes a bow from the saddle of his fast-riding horse in the middle of the arena.
-
-“Shock and awe.” Read all about it. Barrel riders secure the Iraqi oil for themselves in record time.
-
-It is time to expose the myth of the American Cowboy for what it is, a lie designed to perpetuate the rugged loner who takes the law into his own hands.. It doesn't matter if in truth, he's just a hired hand of the people who pay him. Or that his real home is not on the range, but simply moving through with no sense of responsibility to the folks who live there. What matters is that he can speak in simple verse and smoke his Marlboro cigarettes with style at the same time he rides off into the sunset with his silver pistols lashed to his thighs as he feels his trustworthy horse between his legs. Bodies left behind or broken fences never mended don't trouble him. He is the perfect image for American individualism. Take what's yours and move on.
-
-Of course we can “go it alone,” says George W. to the increasing world-wide opposition to war in Iraq. That's the American way. “You're either with us or against us.” As the president so eloquently said, “I don't do nuance.”
-
-The cowboy president doesn't talk details, he just points his pistol in the general direction of fear and starts shooting off his rhetoric like those three quick bullets, “Axis of Evil,” that were heard around the world. North Korea flashes news of nuclear weapons and then it's our turn to reply that our missiles are bigger than their missiles and now it's no longer rodeo time, but Super Bowl Sunday, with the United States Cowboy on the starting line with George as quarterback, his arm cocked and ready for a military touchdown.
-
-George W. Bush loves a good game. The problem is -- war is not a game. And for those of us who do not view this man as our legitimate president, how do we get his attention?
-
-I used to think democracy was a good place to start, but since September 11, and the creation of the new Department of Homeland Security, our civil liberties are being whittled and eroded away. Our voices raised in question are discredited and quelled. Fear has replaced reason. Confrontation has overruled contemplation. Entitlement has replaced respect as we watch environmental laws slashed and sensitive wildlands ravaged for their oil and ancient trees in the name of national security. The "war on terror" is first being waged here at home.
-
-To those of you living in Europe, we thank you for your leadership of resistance. We thank you for gathering in the hundreds of thousands in London, Florence, Madrid, and Paris, showing us what is possible and inspiring our own demonstrations. And our numbers in the anti-war movement in America are growing. We thank you for crying foul on what we Americans have only dared to think to ourselves until now. And we thank you for your prayers and we pray with you believing there is a "conservative compassion" that can stay the violence of war. What we are learning from you is that those with a memory of war on their own soil are the first to call for patience and pause...
-
-Perhaps, it will continue to be this kind of pressure from countries with a memory of fascism and a history of empires that have risen and fallen, that in the end will remind our cowboy culture in America that the poster with burnt edges, “Wanted Dead or Alive,” has never translated well in international law. America right now, under the Bush Regime, has a very destructive, call it foreign, policy for peace.
-
-What I fear in America right now is this: War is the body bag flown home with a nice note from the president that reads, “She served our country well in the fight for freedom.” War is also amnesia, so that in the grief of that moment, Americans will choose to believe him and find ourselves imprisoned by our own arrogance.
-
-THE HEARTH by C. K. Williams
-
-1.
-
-Alone after the news on a bitter
-evening in the country, sleet slashing
-the stubbled fields, the river ice;
-I keep stirring up the recalcitrant fire,
-but when I throw my plastic coffee cup
-in with new kindling it perches intact
-on a log for a strangely long time,
-as though uncertain what to do,
-
-until, in a somehow reluctant, almost
-creaturely way, it dents, collapses,
-and decomposes to a dark slime
-untwining itself on the stone hearth.
-
-I once knew someone who was caught in a fire and made it sound something like that. He'd been loading a bomber and a napalm shell had gone off; flung from the flames,
-
-at first he felt nothing, and thought he'd been spared, but then came the pain, then the hideous dark--he'd been blinded, and so badly charred he spent years
-
-in recovery: agonizing debridements, grafts, learning to speak through a mouth without lips, to read Braille with fingers lavaed with scar, to not want to die--
-
-Though that never happened. He swore, even years later, with a family, that if he were back there, this time allowed to put himself out of his misery, he would.
-
-2.
-
-There was dying here tonight, after
-dusk, by the road: an owl,
-eyes fixed and flared, breast
-so winter-white he seemed to shine
-
-a searchlight on himself, helicoptered
-near a wire fence, then suddenly
-banked, plunged, and vanished
-into the swallowing dark with his prey.
-
-Such an uncomplicated departure;
-no detonation, nothing to mourn;
-if the creature being torn from its life
-made a sound, I didn't hear it.
-
-But in truth I wasn't listening, I was thinking, as I often do these days, of war; I was thinking of my children, and their children, of the more than fear I feel for them,
-
-and then of radar, rockets, shrapnel,
-cities razed, soil poisoned
-for a thousand generations; of suffering so vast
-it nullifies everything else.
-
-I stood in the wind in the raw cold
-wondering how those with power over us
-can effect such things, and by what
-cynical reasoning pardon themselves.
-
-The fire's ablaze now, its glow
-on the windows takes the night even darker,
-but it barely keeps the room warm.
-I stoke it again, and crouch closer.
+The man sat Tommy down on the bar and the liquor made him cough a bit as it coursed down his throat and it made his ears ring like the tolling of bells. But he smiled happily as the feeling of warmth like Mississippi sunshine spread through his insides. For now he belonged.
 ```
 
 ---
 
-## IC-1607: Israeli-Palestinian Conflict (A Collection)
-
-- Title: Israeli-Palestinian Conflict (A Collection)
-- Author (byline): Elana Bell, Yehuda Amichai, Nadine
-- Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 879
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Elana Bell
-Book: Eyes, Stones
-ISBN: 978-0807144640
-Publisher: LSU Press
-Date (Month/Year): April 2012
-Author: Yehuda Amichai
-Book: The Selected Poetry of Yehuda Amichai
-ISBN: 978-0520205383
-Publisher: University of California Press
-Date (Month/Year): Oct 1996
-Author: Nadine Murtaja
-ISBN: On-line Transcript
-Publisher: Aljazeera.com
-Date (Month/Year): June 8 2021
-https://www.aljazeera.com/features/2021/6/8/as-the-
-bombs-fall-i-write-the-poets-of-gaza
-Author: Naomi Shihab Nye
-Book: Words Under the Words: Selected Poems
-ISBN: 978-0933377295
-Publisher: The Eighth Mountain Press
-Date (Month/Year): Oct 1994
-Author: Rabbi Tamara Cohen
-ISBN: On-line Transcript
-Publisher: Ritualwell.org
-https://www.ritualwell.org/ritual/no-pain-my-pain
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Poetry, by its nature, is a form of dialogue; an attempt to communicate. In the throes of the Palestinian-Israeli conflict that has lasted more than 70 years – in societies politically torn apart -- the need to communicate across political and cultural boundaries is particularly intense.
-
-Spoken word poet Mohammed Moussa describes the reality of Gaza today: “life here is poetry blown into pieces and scattered all over the place. In the weddings, there’s poetry, in times of war, in the eyes of an old man sitting in front of his small shop, mourning the death of his child, in the flames of bombs falling . . . poetry blown to pieces.
-
-if you do not look because it is not your village
-
-it is still your village
-
-The Israeli-Palestinian Conflict, a collection by Elana Bell,
-```
-
-### Performance text (classify this)
-
-```text
-Murtaja, Naomi Shihab Nye and Rabbi Tamara Cohen
-
-Your Village by Elana Bell
-
-Once in a village that is burning
-
-because a village is always somewhere burning
-
-And if you do not look because it is not your village
-
-it is still your village
-
-In that village is a hollow child
-
-You drown when he looks at you with his black,
-
-black eyes
-
-And if you do not cry because he is not your child
-
-he is still your child
-
-Yehuda Amichai, Nadine Murtaja, Naomi Shihab Nye and Rabbi Tamara Cohen
-
-The Diameter of a Bomb by Yehuda Amichai
-
-The diameter of the bomb was thirty centimeters
-and the diameter of its effective range about seven meters,
-with four dead and eleven wounded.
-And around these, in a larger circle
-of pain and time, two hospitals are scattered
-and one graveyard. But the young woman
-who was buried in the city she came from,
-at a distance of more than a hundred kilometers,
-enlarges the circle considerably,
-and the solitary man mourning her death
-at the distant shores of a country far across the sea
-includes the entire world in the circle.
-And I won’t even mention the crying of orphans
-that reaches up to the throne of God and
-beyond, making a circle with no end and no God.
-
-Untitled by Nadine Murtaja
-
-There, on the other side, time changes, hours pass, and it gets darker, the sky takes off its dim dress, then the morning arrives,
-
-But here where I live, and breathe, life wears its black dress
-
-constantly, To mourn the labor of my land Which took a long time.
-
-Here, the hanging clock, in my room is broken,
-not only this one, everyone’s clock is broken here,
-my mother keeps saying:
-everyone is waiting for the elixir,
-we’ve had it with the grief and agony,
-
-in this holy land we sleep and wake up to the sound of
-bombing and shooting
-so the first light of day rises in the evening,
-lighting up the sky with the blood of martyrs,
-here death sleeps not far from us,
-we all walk towards freedom, towards hope,
-we walk on the shattered glass of our broken windows,
-we walk on stones that once were a house, carrying stories
-
-and secrets, we walk with the screams of children, and the groans of
-
-mothers pulsating over and over in our ears.
-
-Kindness by Naomi Shihab Nye
-
-Before you know what kindness really is you must lose things, feel the future dissolve in a moment like salt in a weakened broth. What you held in your hand, what you counted and carefully saved, all this must go so you know how desolate the landscape can be between the regions of kindness. How you ride and ride thinking the bus will never stop, the passengers eating maize and chicken will stare out the window forever.
-
-Before you learn the tender gravity of kindness
-you must travel where the Indian in a white poncho
-lies dead by the side of the road.
-You must see how this could be you,
-how he too was someone
-who journeyed through the night with plans
-and the simple breath that kept him alive.
-Before you know kindness as the deepest thing inside,
-you must know sorrow as the other deepest thing.
-You must wake up with sorrow.
-You must speak to it till your voice
-catches the thread of all sorrows
-and you see the size of the cloth.
-Then it is only kindness that makes sense anymore,
-only kindness that ties your shoes
-and sends you out into the day to gaze at bread,
-only kindness that raises its head
-from the crowd of the world to say
-It is I you have been looking for,
-and then goes with you everywhere
-like a shadow or a friend.
-
-No Pain Like My Pain by Rabbi Tamara Cohen
-
-"Look carefully and see if there could possibly be pain like my pain, like the one bestowed by You upon me."
-
-No pain like my pain,
-no exile like my exile,
-No land my land,
-No desolate city like my desolate city.
-No heart like my own aching heart.
-No fear like the fear of my people.
-No genocide like our genocide.
-No humanity like our humanity.
-No right like our right.
-No wrong like their wrong.
-No rage like my rage.
-
-No pain like my pain,
-immediate and raw and righteous,
-ancient and true and etched in our genes by history's
-injustices.
-
-Dear God, help us look,
-look closer so that we may see
-our children in their children,
-their children in our own.
-
-Help us look so that we may see You – in the bleary eyes of each orphan, each grieving childless mother, each masked and camouflaged fighter for his people's dignity.
-
-Dear God, Divine Exiled and Crying One,
-Loosen our claim to our own uniqueness.
-Soften this hold on our exclusive right – to pain, to
-compassion, to justice.
-
-May your children, all of us unique and in Your image,
-come to know the quiet truths of shared pain,
-shared hope,
-shared land,
-shared humanity,
-shared risk,
-shared courage,
-shared peace.
-
-In Sh'Allah. Ken yehi Ratzon. May it be Your will. And may it be ours.
-```
-
----
-
-## IC-1608: It’s Called Kings
-
-- Title: It’s Called Kings
-- Author (byline): Susana Cabanas
-- Work: Bum Rush the Page
-- Publisher: Three Rivers Press
-- Publication date as stated: Oct 2001
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 716
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Susana Cabanas
-Book: Bum Rush the Page
-ISBN: 978-0609808405
-Publisher: Three Rivers Press
-Date(Month/Year): Oct 2001
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-The Divine Right of Kings is a theory which argued that certain kings ruled because they were chosen by God to do so and that these kings were accountable to no person except God. The king ruled by virtue of God's authority; therefore he should be obeyed in all things. Furthermore, no group, whether they be nobles, or a parliament, or the people in the street, had a right to participate in this rule; to question or oppose the monarch was to rebel against God's purpose.
-
-And although we don’t have a King in the U.S. today, we do have a president and too often it seems that this theory is unilaterally applied to our leaders. It’s enough to make anyone angry . . . It’s Called Kings by Susana Cabana.
-```
-
-### Performance text (classify this)
-
-```text
-I’m angry because I hate to be angry and because I hate to be angry I’m angry angry makes me smoke too much and drink too much and eat too much or not enough binge this and binge that saturate yourself in something or the other to forget the fact that I’m angry I’m angry because I don’t like who I am who I become when I’m angry I’m mean and vengeful and vile and acid and ulcers and high blood pressure and headaches and backaches and aches and aches and aches and my head aches when I think how much I ached when I’m angry and how constipated I get when I realize how much I ache because I am so angry I’m so angry I don’t want to wake up much less go to bed that’s how angry rage rage rage fear pain anger I’m angry because why can’t we all be the same not some have too much while others not enough of nothing to eat not enough of a house over our heads not enough of the pain in our hearts that makes us to angry angry angry because don’t tell me that that guy sleeping on a stoop down the stoop from where you live doesn’t make you angry or the $40 real live trees that smell so good when you go by a whisper in our minds of a time gone by a time when the wind smelled of the sea or of trees a clean clear smell no more long time gone by your need to get out of the city and how many of us get a chance to get out of the city rolling up our pennies those of us who still have any left you know you are poor when you have to count your pennies in America to get high to forget how angry you can get in America in the land of milk and honey brother kills brother for a woman for a life for a piece of the land we shoot each other up day after day after day we shoot each other up because we’re so angry we’re so angry we break things we throw things we beat we beat each other up even those we love we yell and scream and scream and scream and hurt and cry and cry and rage and scream and cry and want to kill and want to die because we want to kill ourselves most of all because we’re so angry one must get very angry to put on a white robe white being the color of virtue of grace and add a white hood covering up the rage from our face and go burn a white cross on somebody’s lawn because of their color or creed or else to put on a white robe and stand on a white altar covered with the most exquisite white cotton and lace and hold up a gold chalice filled with red blood in which we submerge a white wafer and eat and drink of another’s flesh and blood in the name of the Lord in the name of the Lord this is my land says the conqueror and kills and kills with ease and grace in the name of the Lord whose Lord is my Lord your Lord is my God your God is your God my God do I believe in the Lord and Dukes and Earls and Princes and Pearls and Lords and Knights of the round table around the table of the Lord of the round table who rules above all and tells all the knights who sit around the round table what to do when to jump where to live divine right of kings have divine rights and dukes and earls and princes and pearls and lords the lord of the land and the supreme commander of the armed forces of all the nations and the people the masses of people who believe in the lord homeless wanderers wandering wandering wandering nomads migrating roaming moving constantly moving running from the landlord constantly moving constantly moving because the landlord owns all the land constantly moving in the name of the lord constantly moving constantly moving I’m angry I’m angry I’m angry I’m so angry.
-```
-
----
-
-## IC-1609: Jeremy
-
-- Title: Jeremy
-- Author (byline): Leonard Feeney
-- Work: Fish on Friday
-- Publisher: Loreto Publications
-- Publication date as stated: Aug 1999
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 326
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Leonard Feeney
-Book: Fish on Friday
-ISBN: 978-1930278004
-Publisher: Loreto Publications
-Date (Month/Year): Aug 1999
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Let’s face it: Women have some inherent portion of the second “X” chromosome that makes it easier for them to remember special occasions . . . . Like birthdays, Valentine’s day and Yes, even anniversaries. The smaller and disfigured “Y” chromosome simply wasn’t designed for these amazing feats of memory. It’s really not the man’s fault – It’s genetic. In fact there are some things that men are better at than women . . . . I just can’t remember what they are right now *grin* Jeremy by Leonard Feeney.
-```
-
-### Performance text (classify this)
-
-```text
-Lucy said to Jeremy, “Jeremy!” Jeremy said to Lucy, “What?” “Don’t you remember what day today is? Surely you’ve not forgot? Didn’t you notice the special pudding, And the little blue vase of flowers? Whose anniversary is it, Jeremy?” Jeremy said to Lucy, “Ours.”
-
-Lucy said to Jeremy, “Jeremy!” Jeremy said to Lucy, “What?” “I’ve been waiting till I’ve been weary Keeping your supper hot. All day long I’ve been so excited! Didn’t you like your tea?
-
-How many years are we married, Jeremy?” Jeremy said to Lucy, “Three.”
-
-Lucy said to Jeremy, “Jeremy!” Jeremy said to Lucy, “What?” “You seem dreadfully unromantic; Maybe we fuss a lot, But aren’t we still the same old lovers, Summer and winter through?
-
-Tell me who was your sweetheart, Jeremy?” Jeremy said to Lucy, “You.”
-
-Lucy said to Jeremy, “Jeremy!” Jeremy said to Lucy, “What?”
-
-“Remember the first year we were married, Out in the garden plot? The moon was lovely, and you said I had Something as blue as skies. What did I have so pretty, Jeremy?” Jeremy said to Lucy, “Eyes.”
-
-Lucy said to Jeremy, “Jeremy!” Jeremy said to Lucy, “What?” “Remember the winter we went to dances? Remember the gown I bought? We danced one night at the Grand Pavilion, And you wore an evening suit; And how did you say your wife looked, Jeremy?” Jeremy said to Lucy, “Cute.”
-
-Lucy said to Jeremy, “Jeremy!” Jeremy said to Lucy, “What?” “Remember the time when we had birthdays, And wasn’t it nice you thought To buy me bows for my satin slippers, Because I had tiny feet!
-
-And what did you have to call them, Jeremy?” Jeremy said to Lucy, “Sweet.”
-
-Lucy said to Jeremy, “Jeremy!” Jeremy said to Lucy, “What?” “Remember the poems we read together, The Maiden of Camelot And the Knight who lived in a wondrous castle, Holding her hand in his? Didn’t they used to thrill us, Jeremy?” Jeremy said to Lucy, “Zzzzzz!”
-```
-
----
-
-## IC-1610: Jesse
-
-- Title: Jesse
-- Author (byline): Scott Woods
-- Work: High Desert Voices
-- Publisher: The Wordsmith Press
-- Publication date as stated: 2006
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 501
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Scott Woods
-Book: High Desert Voices
-ISBN: 978-1893972834
-Publisher: The Wordsmith Press
-Date(Month/Year): 2006
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Who is Jesus to you? Great question! Do you have a great answer? Let's face it, we are asked many questions each day. "Where do you go to school?" "What is your favorite flavor of ice cream?" "Uh, would you like fries with that?" You see, most of the questions we are asked each day don't have much of a permanent impact on our life or on our future. They usually deal with stuff that's not all that important. Scott Woods in his poem “Jesse” describes his personal relationship with Jesus in a way that may seem strange to some, but is undeniably personal. Jesse by Scott Woods.
-```
-
-### Performance text (classify this)
-
-```text
-Jesus's name was not Jesus. It was JESSE. And YES, he was just another Black boy with a white boy's name.
-
-Every time we went to market, somebody would inevitably shout out "Jesse!" and Jesus and 12 white Roman kids would turn around. I ought to know: His house was up the street from mine, and we spent most of our respective childhoods this way: Jesse and me used to play Muslims and Indians when we were kids.
-
-I'd wrap a rag around my head and he'd starve himself for a month. We'd spend hours trying to knock down the old sandals hanging from the
-
-crosses in our neighborhood. He would heal the crips and convert the Blood. He always smelled like Jerusalem goat's meat pizza to me, but to Aaron he smelled like Dead Sea Salt Water Taffy and to Martha he smelled like something she couldn't place at the time,
-
-but when we went out on our third anniversary,
-
-two years after Jesse'd moved on,
-
-I walked with her through the Garden of Gethsemane
-
-and she stopped at a flower and said "Jesse used to smell like this"
-
-and the "this" in question was white
-oleander.
-See, he smelled differently to everyone.
-Whatever you liked, even if you didn't know it,
-that's how he smelled.
-You expect a little bit of occasional magic when
-your best friend is
-the Son of God.
-He was the best man at my wedding,
-gave a four word toast at the reception: "I love
-you guys."
-And he danced with my bride,
-
-and we arm-wrestled into the night,
-
-and he kept the party goin',
-
-gracious one-touch bartender that he was. And I loved him – and love him – like a brother,
-
-back when being a man's brother meant something,
-
-And that book? That book you can kill nations over? That book you stood black men on to lynch? That book you swing at the heads of gays on parade?
-
-That book doesn't give you HALF the magic tricks he used to do. But to you,
-
-he's the rock star of the universe, he's God Bon Jovi
-
-he's a gold necklace depicting his death, not his life. To me, he's larger than two lives stacked on top of one another, even
-
-Ghandi's and Mother Theresa's
-
-and I'm not here to debate with you about
-
-whether or not he was a great man – you
-
-wouldn't know greatness in this day and age
-
-if the real Madonna came down out of
-
-heaven and kissed Brittney Spears dead in
-
-her mouth of COURSE he was a great man,
-
-but you didn't know him. No matter how strongly you believe
-
-you will always, at best, just know the way,
-
-putting words in his quiet mouth,
-
-never resting your hat upon a friendly hook at the
-
-destination that is the truth. The truth is he smelled like Dead Sea Salt Water Taffy. The truth is he smelled like goat's meat pizza. The truth is Jesse smelled
-
-like love.
-```
-
----
-
-## IC-1611: A Jubilee of People Dreaming
-
-- Title: A Jubilee of People Dreaming
-- Author (byline): Not specified
-- Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 873
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Mahogany L. Browne
-Book: This is the Honey: An Anthology of Contemporary
-Black Poets, Pg 47
-ISBN: 978-0316417525
-Publisher: Little, Brown and Company
-Date (Month/Year): Jan 2024
-Author: Margarita Engle
-ISBN: 978-0544102293
-Publisher: Clarion Books
-Date (Month/Year): March 2015
-Author: Carrie Newcomer
-Book: Until Now: New Poems
-ISBN: 978-1737533504
-Publisher: Available Light Publishing
-Date (Month/Year): August 2021
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-That’s the world I want to live in – “A jubilee of people dreaming wildly” – A world when someone says you can’t do it. You do it twice and take pictures!
-
-This collection is dedicated to those who never accepted the word “can’t.” Did you know that Stphen King’s 1st novel was rejected by publishers 30 times? Oprah Winfrey was fired from her 1st TV job and Walt Disney was told he’d never make it because he lacked imagination and had no good ideas.
-
-A Jubilee of People Dreaming Wildly with This is the Honey by Mahagony L. Browne, Drum Dream Girl by Margarita Engle and Liminality by Carrie Newcomer
-```
-
-### Performance text (classify this)
-
-```text
-Wildly with poems by Mahogany L. Browne, Margarita Engle and Carrie Newcomer
-
-This is the Honey by Mahogany L. Browne
-
-(Pg 47) There is no room on this planet for anything less
-
-than a miracle We gather here today to revel in the rebellion of a silent
-
-tongue Every day, we lean forward into the light of our brightest
-
-designs
-
-& cherish the sun Praise our hands & throats
-
-each incantation, a jubilee of people dreaming wildly
-Despite the dirt
-beneath our feet
-or the wind
-pushing against
-our greatest efforts
-
-Soil creates things Art births change This is the honey
-
-& doesn’t it taste like a promise? Where your heart is an accordion
-
-& our laughter is a soundtrack
-
-Friend, dance to this good song— look how it holds our names!
-
-Each bone of our flesh-homes sings welcome
-
-O look at the Gods dancing
-
-as the rain reigns against a steely skyline
-
-Where grandparents sit on the porch & nod at the
-
-spectacle in awe of the perfection of their grandchildren’s faces Each small discovery unearthed in its own outpour Tomorrow our daughters will travel the world with each
-
-poem
-
-& our sons will design cities against the backdrops of
-
-living museums
-
-Yes! Our children will spin chalk until each equation
-
-bursts a familial tree
-
-Rooted in miraculous possibilities & alive
-
-Drum Dream Girl
-
-On an island of music
-in a city of drumbeats
-the drum dream girl
-dreamed
-
-of pounding tall conga drums tapping small bongó drums and boom boom booming with long, loud sticks on big, round, silvery moon-bright timbales.
-
-But everyone
-on the island of music
-in the city of drumbeats
-believed that only boys
-should play drums
-
-so the drum dream girl
-had to keep dreaming
-quiet
-secret
-drumbeat
-dreams.
-
-At outdoor cafés that looked like gardens
-she heard drums played by men
-but when she closed her eyes
-she could also hear
-her own imaginary
-music.
-
-When she walked under
-wind-wavy palm trees
-in a flower-bright park
-she heard the whir of parrot wings
-the clack of woodpecker beaks
-the dancing tap
-of her own footsteps
-and the comforting pat
-of her own
-heartbeat.
-
-At carnivals, she listened
-to the rattling beat
-of towering
-dancers
-on stilts
-
-and the dragon clang of costumed drummers wearing huge masks.
-
-At home, her fingertips
-rolled out their own
-dreamy drum rhythm
-on tables and chairs…
-
-and even though everyone kept reminding her that girls on the island of music have never played drums
-
-the brave drum dream girl
-dared to play
-tall conga drums
-small bongó drums
-and big, round, silvery
-moon-bright timbales.
-
-Her hands seemed to fly
-as they rippled
-rapped
-and pounded
-all the rhythms
-of her drum dreams.
-
-Her big sisters were so excited that they invited her to join their new all-girl dance band
-
-but their father said only boys should play drums.
-
-So the drum dream girl
-had to keep dreaming
-and drumming
-alone
-
-until finally
-her father offered
-to find a music teacher
-who could decide if her drums
-deserved
-to be heard.
-
-The drum dream girl’s
-teacher was amazed.
-The girl knew so much
-but he taught her more
-and more
-and more
-and she practiced
-and she practiced
-and she practiced
-
-until the teacher agreed
-that she was ready
-to play her small bongó drums
-outdoors at a starlit café
-that looked like a garden
-
-where everyone who heard
-her dream-bright music
-sang
-and danced
-and decided
-that girls should always
-be allowed to play
-drums
-
-and both girls and boys should feel free to dream.
-
-Liminality by Carrie Newcomer
-
-So much of what we know
-Lives just below the surface.
-Half of a tree
-Spreads out beneath our feet.
-Living simultaneously in two worlds,
-Each half informing and nurturing
-The whole.
-A tree is either and neither
-But mostly both.
-
-I am drawn to liminal spaces,
-The half-tamed and unruly patch
-Where the forest gives way
-And my little garden begins.
-Where water, air and light overlap
-Becoming mist on the morning pond.
-
-I like to sit on my porch steps, barn jacket and boots
-In the last long exhale of the day,
-When bats and birds loop in and then out,
-One rising to work,
-One readying for sleep.
-
-And although the full moon calls the currents,
-And the dark moon reminds me that my best
-language
-Has always emerged out of the silence,
-It is in the waxing and waning
-Where I most often live,
-Neither here nor there,
-But simply On the way.
-
-There are endings and beginnings
-One emerging out of the other.
-But most days I travel in an ever present
-And curious now.
-A betwixt and between,
-That is almost,
-But not quite,
-The beautiful,
-But not yet.
-
-I’ve been learning to live with what is,
-More patient with the process,
-To love what is becoming,
-And the questions that keep returning.
-
-I am learning to trust
-The horizon I walk toward
-Is an orientation
-Not a destination
-And that I will keep catching glimpses
-Of something great and luminous
-From the corner of my eye.
-
-(softly – from Drum Dream Girl) feel free to keep dreaming quiet secret drumbeat dreams
-
-(louder – from This is the Honey) Nod at the spectacle
-
-(with unbridled joy - This is the Honey) Be a jubilee of people dreaming wildly
-```
-
----
-
-## IC-1612: Kidnap Poem and Poem for Aretha
-
-- Title: Kidnap Poem and Poem for Aretha
-- Author (byline): Nikki Giovanni
-- Work: The Black Poets
-- Publisher: Bantam Books
-- Publication date as stated: April 1985
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 770
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Nikki Giovanni
-Book: The Black Poets
-ISBN: 978-0553275636
-Publisher: Bantam Books
-Date (Month/Year): April 1985
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-African-American women have contributed to music significantly over the last several decades. It is also significant to note that many African-American musicians succeeded at a time when blacks were still the recipients of discrimination in the United States.
-
-An American songwriter, singer and pianist, Aretha Franklin (aka the Queen of Soul) is regarded at least by Rolling Stone magazine to be the greatest singer who ever lived. She became famous in the late 1960s with the hit song “Respect.” In Poem for Aretha, Nikki Giovanni pays her tribute and “respect” to this amazing woman and the other black musicians who forged new ground in the music industry. After all . . . it was Johann Paul Richter who said . . . “Music is the poetry of the air”
-```
-
-### Performance text (classify this)
-
-```text
-Kidnap Poem
-
-ever been kidnapped
-by a poet
-if i were a poet
-i’d kidnap you
-
-put you in my phrases
-and meter you to jones beach
-or maybe coney island
-or maybe just to my house
-
-lyric you in lilacs
-dash you in the rain
-alliterate the beach
-to complement my see
-play the lyre for you
-ode you with my love song
-anything to win you
-wrap you in the red Black green
-show you off to mama
-
-yeah if i were
-a poet i’d kid
-nap you
-Poem for Aretha
-Cause nobody deals with Aretha—a mother with four
-
-children— having to hit the road
-they always say "after she comes
-home" but nobody ever says what it's like
-to get on a plane for a three week tour
-the elation of the first couple of audiences the good
-feeling of exchange the running on the high
-you get from singing good
-and loud and long telling the world
-what's on your mind.
-
-then comes the eighth show on the sixth day the
-
-beginning to smell like the plane or bus the if-you-forget-your-
-
-toothbrush in-one-spot-you-can't-brush-until-the-second-show
-
-the strangers pulling at you cause they love you but you having no love
-
-to give back the singing the same songs night after night day after
-
-day and if you read the gossip columns the rumors that your
-
-husband is only after your fame the wondering if your children will be glad to see you and
-
-maybe the not caring if they are scheming to get out of just one show and go just one place where some doe-
-
-doe-dupaduke won't say "just sing one song, please"
-
-mobody mentions how it feels to become a freak
-because you have talent and how
-no one gives a damn how you feel
-but only cares that Aretha Franklin is here like maybe
-
-that'll stop:
-
-chickens from frying
-
-eggs from being laid
-
-crackers from hating
-
-and if you say you're lonely or tired how they always just say "oh come off it" or "did you see how they loved you did you see huh did you?" which most likely has nothing to do with you anyway and i'm not saying Aretha shouldn't have talent and i'm
-
-certainly
-not saying she should quit
-singing but as much as i love her i'd vote "yes" to her
-doing four concerts a year and staying home or doing
-
-whatever
-she wants and making records cause it's a shame
-the way we're killing her.
-we eat up artists like there's going to be a famine at the
-
-end of those three minutes when there are in fact an
-
-abundance of talents just waiting let's put some of the giants away for a while and deal with them like
-
-they have a life to lead
-
-Aretha doesn't have to relive billie holiday's life doesn't
-
-have to relive dinah washington's death but who will stop the pattern?
-
-she's more important than her music—if they must be
-
-separated— and they should be separated when she has to pass out
-
-before
-anyone recognizes she needs
-a rest and i say i need
-aretha's music
-she is undoubtedly the one who put everyone on
-
-notice. She revived johnny ace and remembered lil green
-
-Aretha sings
-"i say a little prayer" and dionne doesn't
-want to hear it anymore
-aretha sings "money won't change you"
-but james can't sing "respect" the advent
-of aretha pulled ray charles from marlboro country
-and back into
-the blues made nancy wilson
-try one more time forced
-dionne to make a choice (she opted for the movies)
-and diana ross had to get an afro wig pushed every
-Black singer into his Blackness and negro entertainers
-into negroness you couldn't jive
-when she said "you make me/feel" the blazers
-had to reply "gotta let a man be/a man"
-aretha said "when my soul was in the lost and found/you
-
-came along to claim it" and joplin said "maybe" there has been no musician whom her very presence
-
-hasn't affected when humphrey wanted her to campaign she
-
-said
-"woeman's only hueman"
-and he pressured james brown
-they removed otis cause the combination was too strong
-the impressions had to say "lord have mercy/we're
-
-moving on up" the Black songs started coming from the singers on
-
-stage and the dancers
-in the streets
-aretha was the riot was the leader if she had said "come
-let's do it" it would have been done
-temptations say why don't we think about it
-
-think about it
-
-think about it
-```
-
----
-
-## IC-1613: Knock, Knock
-
-- Title: Knock, Knock
-- Author (byline): Daniel Beaty
-- Work: Not specified
-- Publisher: Little, Brown Books for Young Readers
-- Publication date as stated: Dec 2013
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 538
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Daniel Beaty
-ISBN: 978-0316209175
-Publisher: Little, Brown Books for Young Readers
-Date (Month/Year): Dec 2013
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-One in 28 children in the United States has a parent behind bars -- Among black children, one in nine. And while the media focuses on crime and the prison population, the children who must learn to cope without a parent often drop through the cracks of our society. They struggle to understand – they struggle to succeed. Daniel Beaty lost contact with his father at the age of three but even 20 years later, the pain of the loss, the love for his father and his unrelenting hope for the future shines through in his poem
-
-Knock, Knock by Daniel Beaty
-```
-
-### Performance text (classify this)
-
-```text
-Knock, Knock by Daniel Beaty
-
-As a boy I shared a game with my father.
-Played it every morning 'til I was 3.
-He would knock knock on my door,
-and I'd pretend to be asleep
-'til he got right next to the bed,
-Then I would get up and jump into his arms.
-"Good morning, Papa."
-And my papa he would tell me that he loved me.
-
-We shared a game.
-Knock Knock
-Until that day when the knock never came
-and my momma takes me on a ride past corn fields
-on this never ending highway 'til we reach a place of high
-rusty gates.
-A confused little boy,
-I entered the building carried in my mama's arms.
-Knock Knock
-We reach a room of windows and brown faces
-behind one of the windows sits my father.
-I jump out of my mama's arms
-and run joyously towards my papa
-Only to be confronted by this window.
-I knock knock trying to break through the glass,
-trying to get to my father.
-I knock knock as my mama pulls me away
-before my papa even says a word.
-And for years he has never said a word.
-And so twenty-five years later, I write these words
-for the little boy in me who still awaits his papa's knock.
-
-Papa, come home 'cause I miss you.
-I miss you waking me up in the morning and telling me you
-love me.
-Papa, come home, 'cause there's things I don't know,
-and I thought maybe you could teach me:
-How to shave;
-how to dribble a ball;
-how to talk to a lady;
-how to walk like a man.
-Papa, come home because I decided a while back
-I wanted to be just like you.
-but I'm forgetting who you are.
-And twenty-five years later a little boy cries,
-and so I write these words and try to heal
-and try to father myself
-and I dream up a father who says the words my father did
-not.
-Dear Son,
-I'm sorry I never came home.
-For every lesson I failed to teach, hear these words:
-Shave in one direction in strong deliberate strokes to avoid
-irritation
-Dribble the page with the brilliance of your ballpoint pen.
-Walk like a god and your goddess will come to you.
-No longer will I be there to knock on your door,
-So you must learn to knock for yourself.
-Knock knock down doors of racism and poverty that I could
-not.
-Knock knock down doors of opportunity
-for the lost brilliance of the black men who crowd these
-cells.
-Knock knock with diligence for the sake of your children.
-Knock knock for me for as long as you are free,
-These prison gates cannot contain my spirit.
-The best of me still lives in you.
-Knock knock with the knowledge that you are my son, but
-you are not my choices.
-Yes, we are our fathers' sons and daughters,
-But we are not their choices.
-For despite their absences we are still here.
-Still alive, still breathing
-With the power to change this world,
-One little boy and girl at a time.
-Knock knock
-Who's there?
-We are.
-```
-
----
-
-## IC-1614: Kong
-
-- Title: Kong
-- Author (byline): Pamela Sneed
-- Work: The Best American Short Plays 2005-2006
-- Publisher: Applause Books
-- Publication date as stated: Dec 2008
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 1278
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Pamela Sneed
-Book: The Best American Short Plays 2005-2006
-ISBN: 978-1557837141
-Publisher: Applause Books
-Date (Month/Year): Dec 2008
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Kong by Pamela Sneed tackles the current political landscape of war in Iraq, the crisis in New Orleans, the lack of American healthcare, gay and lesbian issues, and finally the need for new kinds of activism. Sneed’s poem never loses sight of her aim: to offer a work that is transformative, intellectual, emotional, and spiritual. At its heart, Kong is a resilient protest work, and a luminescent and universal call for freedom. Kong by Pamela Sneed.
-```
-
-### Performance text (classify this)
-
-```text
-I want to talk about that last Star Wars movie which
-they promised was a final installment
-But we'll see
-all I can say is it really sucked except for the part near
-the end
-where you see the transformation of Luke Skywalker
-into the evil Darth Vader
-His innocence destroyed
-crawling through some molten lava-limbless
-He looked like a soldier
-or something out of a war movie one of those battered
-survivors
-who has left his child self behind him
-But, I earnestly believed
-And now all I can do is carry myself/battle scarred to
-some semblance of safety
-All I can do is hold on like a survivor of the tsunami tidal
-wave
-Hold on to a tree, a pipe, anything, my papers from an
-old life
-verifying who I am
-wait for the storm to pass
-a shoulder to lean on/anything
-But I earnestly believed.
-You know when I left my parents house the small town
-for a big city
-and experienced all accoutrements of a counter culture
-I earnestly believed
-queer boys
-queer nations
-nose rings
-dread locks
-muscle shirts on girls
-punk rockers
-were all some semblance of an alternative
-I believed poet Glen James
-who called us the sissified warriors
-I believed when Marlon Riggs premiered the ground
-breaking film for Black Gay Men, Tongues Untied.
-I believed Audre Lorde when she said in synopsis if we
-don't do our work
-One day women's blood will congeal upon a dead planet.
-I believed poet Assoto Saint in all 6ft 4 of his cross
-dressing self
-I believed when he stood up at the funeral of Donald
-Woods
-and said in essence we must tell the truth about who we
-really are.
-I believed Black lesbian writer Pat Parker when she
-declared
-straights are OK, but why must they be so blatant
-I earnestly believed when my child eyes almost twenty
-years ago
-first saw bisexual poet June Jordan
-and the first thing she said was this country needs a
-revolution.
-I believed in Nelson and Winnie premiering even at the
-height of apartheid with their fists
-and heads held high
-I believed even after they found Angel my student at
-Hetrick Martin murdered
-a handsome boy chopped into pieces
-Yeah when they were still pulling queers out of the river
-there downtown
-Dead from queer bashings and suicide
-I kept on believing change was possible.
-I read the literature
-had hope
-I lived in America after all.
-I earnestly believed.
-You know this is an aside but
-I'm tired of the previews for that latest King Kong
-movie
-Tired of all the actors looking to the sky with that same
-perplexed look,
-That over the top awesome
-because King Kong is computer generated they can't see
-him
-so they're really acting
-and you know King is a thin veil for a Black man
-America assuaging it's racial fears.
-Still, I'll pay ten, or twelve or twenty with popcorn to
-see it.
-There was a time too when I earnestly believed in
-theatre
-in performance
-Believed I'd be a great big overnight success
-that courage, innovation, tenacity would be recognized. I
-earnestly believed
-And I know there are those who will say I'm bitter
-mislabel me
-say I spew hatred
-am raining down on their parade
-That I lack optimism
-when I try to say there is another America
-when I try to say things are not equal
-when I try telling them there are crimes being carried
-out with doctors
-many of them are modern criminals
-who don't deserve white coats
-There's another final solution that's occurring right
-under our noses
-and it's gonna get tougher and tougher
-and tougher and tougher to hide the bodies
-I earnestly believed
-Saddam Hussein has been tried and convicted
-but maybe it’s just my secret silly wish
-I keep wanting them to try George Bush
-I keep wanting those feared 30,000 Iraqi soldiers dead
-I want their bodies to rise up
-walk to the White House
-speak against this senseless war
-For them to matter
-to someone besides their mothers
-I want to see something like the truth and
-reconciliation
-hearings after apartheid
-where this country must admit to committing atrocities
-I want those millions of Americans living without health
-care after working an entire lifetime ...
-I want seniors who can't afford their prescriptions
-I want my parents to go
-I want America's poor
-ones who know about when hospitals and doctors pull the
-plug on those who can't pay
-I want the family of that little Black girl in New Orleans
-whose body was found floating facedown
-still wearing pink short shorts and a pink squeegee in
-hear hair.
-Again, in New Orleans, I want the son whose mother
-died during the floods
-waiting for governmental help,
-I want everyone to see the eyes of my student,
-a black girl whose family is from the Ninth Ward in New
-Orleans and how she looked the day in class when she
-said
-they won't give us back our houses
-want everyone to hear my friend when she said Bush
-got up in the middle of the night to sign papers to help
-Terry Schivo but did nothing to help the people of New
-Orleans
-I want every year for those gays and lesbians in New
-York during Gay Pride
-to stop dancing on the piers and form a political
-movement I want all those voiceless people we're turning
-our
-backs on
-right now in the Darfur region of Africa to speak
-And thank you Oprah, Thank you Bono, Thank you Jon
-Bon Jovi for your generous donations
-but the system has to change
-Yes, there was a time when I earnestly believed
-People get so defensive when I try telling them what's
-happening systemically
-when I say under this regime censorship has increased.
-Artists no longer have spaces to work
-nor money
-and it's not just all about personal will pulling oneself up
-by a bootstrap
-There is marginalization and silencing
-occurring across the board more than in other eras
-perhaps this is a return to.
-I honestly believed once that there were people more
-enlightened
-that competition and jealousy couldn't destroy our
-world.
-I believed helping a neighbor was more important than
-money
-I earnestly believed
-Yes, by now I'm probably like someone in a horror film
-who gets killed off easy
-wasn't careful enough
-Kept running toward instead of away
-from the monster
-The one who stayed in haunted house
-you know who goes into an attic or a basement to
-investigate what's going on
-when they should have been long gone, the one who stays
-in an abusive cycle
-believes the partner will change
-The one who hasn't read all the signals walks into a
-thieves den
-like on the old 42nd St.
-with money hanging out of their pockets.
-I earnestly believed like Anne Frank in human good.
-I believed the slogans I read in kindergarten
-that policemen help you across the street
-will return lost children to their parents.
-Maybe I'm as naive as MLK
-when he said he had a dream of what America could
-become
-Maybe he isn't here to witness
-just how tough things have become
-Integration is now only a small step or small slice of
-what we need.
-Yesterday I sat down in the sun
-and let it beam across my face
-I prayed like Martin Luther King I could live one day in
-freedom
-One day not racked by pain or injustice.
-I felt like Harriet who lived in slavery
-Just one day wanting to feel freedom's kiss
-And caress.
-```
-
----
-
-## IC-1615: Last Days
-
-- Title: Last Days
-- Author (byline): Donald Hall
-- Work: Inventions of Farewell (ed Sandra Gilbert)
-- Publisher: WW Norton & Co
-- Publication date as stated: April 2001
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 725
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Donald Hall
-Book: Inventions of Farewell (ed Sandra Gilbert)
-ISBN: 978-0393049725
-Publisher: WW Norton & Co
-Date (Month/Year): April 2001
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-In 1994, Jane Kenyon was diagnosed with leukemia. She and her husband opted for a harrowing bone marrow transplant rather than other less aggressive treatments. It was not successful, and 12 weeks later, Jane was dead. The following describes the moment of her dying in a way that makes one believe that the ultimate experience of intimacy is to watch your loved one die . . . to be the one to close her eyes. Last Days by Jane’s husband, Donald Hall.
-```
-
-### Performance text (classify this)
-
-```text
-“It was reasonable
-to expect.” So he wrote. The next day,
-in a consultation room,
-Jane's hematologist Letha Mills sat down,
-stiff, her assistant
-standing with her back to the door.
-"I have terrible news,"
-Letha told them. “The leukemia is back.
-There's nothing to do.”
-The four of them wept. He asked how long,
-why did it happen now?
-Jane asked only: “Can I die at home?”
-Home that afternoon,
-they threw her medicines into the trash.
-Jane vomited. He wailed
-while she remained dry-eyed – silent,
-trying to let go. At night
-he picked up the telephone to make
-calls that brought
-a child or a friend into the horror.
-The next morning,
-they worked choosing among her poems
-for Otherwise, picked
-hymns for her funeral, and supplied each
-other words as they wrote
-and revised her obituary. The day after,
-with more work to do
-on her book, he saw how weak she felt,
-and said maybe not now; maybe
-later. Jane shook her head: “Now,” she said.
-“We have to finish it now.”
-
-Later, as she slid exhausted into sleep,
-she said, “Wasn't that fun?
-To work together? Wasn't that fun?”
-He asked her, “What clothes
-should we dress you in, when we bury you?”
-“I hadn't thought,” she said.
-“I wondered about the white salwar
-kameez,” he said –
-her favorite Indian silk they bought
-in Pondicherry a year
-and a half before, which she wore for best
-or prettiest afterward.
-She smiled. “Yes. Excellent,” she said.
-He didn't tell her
-that a year earlier, dreaming awake,
-he had seen her
-in the coffin in her white salwar kameez.
-Still, he couldn't stop
-planning. That night he broke out with,
-“When Gus dies I'll
-have him cremated and scatter his ashes
-on your grave!” She laughed
-and her big eyes quickened and she nodded:
-“It will be good
-for the daffodils.” She lay pallid back
-on the flowered pillow:
-“Perkins, how do you think of these things?”
-They talked about their
-adventures – driving through England
-when they first married,
-and excursions to China and India.
-Also they remembered
-ordinary days – pond summers, working
-on poems together,
-walking the dog, reading Chekhov
-aloud. When he praised
-thousands of afternoon assignations
-that carried them into
-bliss and repose on this painted bed,
-Jane burst into tears
-and cried, “No more ***. No more ****!”
-
-Incontinent three nights
-before she died, Jane needed lifting
-onto the commode.
-He wiped her and helped her back into bed.
-At five he fed the dog
-and returned to find her across the room,
-sitting in a straight chair.
-When she couldn't stand, how could she walk?
-He feared she would fall
-and called for an ambulance to the hospital,
-but when he told Jane,
-her mouth twisted down and tears started.
-“Do we have to?” He canceled.
-Jane said, “Perkins, be with me when I die.”
-“Dying is simple,” she said.
-“What's worst is… the separation.”
-When she no longer spoke,
-they lay along together, touching,
-and she fixed on him
-her beautiful enormous round brown eyes,
-shining, unblinking,
-and passionate with love and dread.
-One by one they came,
-the oldest and dearest, to say goodbye
-to this friend of the heart.
-At first she said their names, wept, and touched;
-then she smiled; then
-turned one mouth-corner up. On the last day
-she stared silent goodbyes
-with her hands curled and her eye stuck open.
-Leaving his place beside her,
-where her eyes stared, he told her,
-“I'll put these letters
-in the box.” She had not spoken
-for three hours, and now Jane said
-her last words: “O.K.”
-At eight that night,
-her eyes open as they stayed
-until she died, brain-stem breathing
-started, he bent to kiss
-her pale cool lips again, and felt them
-one last time gather
-and purse and peck to kiss him back.
-In the last hours, she kept
-her forearms raised with pale fingers clenched
-at cheek level, like
-the goddess figurine over the bathroom sink.
-Sometimes her right fist flicked
-or spasmed toward her face. For twelve hours
-until she died, he kept
-scratching Jane Kenyon's big bony nose.
-A sharp, almost sweet
-smell began to rise from her open mouth.
-He watched her chest go still.
-With his thumb he closed her round brown eyes.
-```
-
----
-
-## IC-1616: Let My People Go
-
-- Title: Let My People Go
-- Author (byline): James Weldon Johnson
-- Work: God’s Trombones
-- Publisher: Penguin Books
-- Publication date as stated: Feb 1990
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 1271
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: James Weldon Johnson
-Book: God’s Trombones
-ISBN: 978-0140184037
-Publisher: Penguin Books
-Date(Month/Year): Feb 1990
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Estimates suggest that almost 900 million people have died in religious conflicts throughout history, with many more suffering a vast array of abuses in the name of God.
-
-In the Book of Exodus, God tells Moses to go to Pharaoh, to demand: “Let my people go.” The plea is insufficient. Pharaoh is an evil man, wielding murderous power. In the end, however, neither his wickedness nor his troops are any match for the rower of God. Pharaoh is defeated, at a terrible human price, and peace comes to the Children of Israel.
-
-Today, our Armed Forces battle in Iraq, because words failed to stop Saddam Hussein from his own mad murderousness. Let us pray that, when all is done, we will view the invasion of Iraq as an act of peace not war. Let My People Go by James Weldon Johnson.
-```
-
-### Performance text (classify this)
-
-```text
-And God called Moses from the burning bush,
-He called in a still, small voice,
-And he said: Moses - Moses
-And Moses listened,
-And he answered and said:
-Lord, here am I.
-And the voice in the bush said: Moses,
-Draw not nigh, take off your shoes,
-For you're standing on holy ground.
-And Moses stopped where he stood,
-And Moses took off his shoes,
-And Moses looked at the burning bush,
-And he heard the voice,
-But he saw no man.
-
-Then God again spoke to Moses,
-And he spoke in a voice of thunder:
-I am the Lord God Almighty,
-I am the God of thy fathers,
-I am the God of Abraham,
-Of Isaac and of Jacob.
-And Moses hid his face.
-And God said to Moses:
-I've seen the awful suffering
-Of my people down in Egypt.
-
-I've watched their hard oppressors,
-Their overseers and drivers;
-The groans of my people have filled my ears
-And I can't stand it no longer;
-So I'm come down to deliver them
-Out of the land of Egypt,
-And I will bring them out of that land
-Into the land of Canaan;
-Therefore, Moses, go down,
-Go down into Egypt,
-And tell Old Pharaoh
-To let my people go.
-And Moses said: Lord, who am I
-To make a speech before Pharaoh?
-For, Lord, you know I'm slow of tongue.
-But God said: I will be thy mouth and
-I will be thy tongue;
-Therefore, Moses, go down,
-Go down yonder into Egypt land,
-
-And tell Old Pharaoh
-To let my people go.
-And Moses with his rod in hand
-Went down and said to Pharaoh:
-Thus saith the Lord God of Israel,
-Let my people go.
-And Pharaoh looked at Moses,
-He stopped still and looked at Moses
-And he said to Moses: Who is this Lord?
-I know all the gods of Egypt,
-But I know no God of Israel
-So go back, Moses, and tell your God,
-I will not let this people go.
-Poor Old Pharaoh,
-He knows all the knowledge of Egypt,
-Yet never knew
-He never knew
-The one and the living God.
-Poor Old Pharaoh,
-He's got all the power of Egypt,
-And he's going to try
-To test his strength
-With the might of the great Jehovah,
-With the might of the Lord God of Hosts,
-The Lord mighty in battle.
-And God, sitting high up in his heaven,
-Laughed at poor Old Pharaoh.
-And Pharaoh called the overseers,
-And Pharaoh called the drivers,
-And he said: Put heavier burdens still
-On the backs of the Hebrew Children.
-Then the people chode with Moses,
-And they cried out: Look here, Moses,
-You've been to Pharaoh, but look and see
-What Pharaoh's done to us now.
-And Moses was troubled in mind.
-But God said: Go again, Moses,
-You and your brother, Aaron,
-And say once more to Pharaoh,
-Thus saith the Lord God of the Hebrews,
-Let my people go.
-And Moses and Aaron with their rods in hand
-Worked many signs and wonders.
-
-But Pharaoh called for his magic men, And they worked wonders, too. So Pharaohs' heart was hardened, And he would not, No, he would not Let God's people go. And God rained down plagues on Egypt, Plagues of frogs and lice and locusts, Plagues of blood and boils and darkness, And other plagues besides. But ev'ry time God moved the plague Old Pharaoh's heart was hardened, And he would not,
-
-No, he would not Let God's people go. And Moses was troubled in mind. Then the Lord said: Listen, Moses, The God of Israel will not be mocked, Just one more witness of my power I'll give hard-hearted Pharaoh.
-
-This very night about midnight,
-I'll pass over Egypt land,
-In my righteous wrath will I pass over,
-And smite their first-born dead.
-And God that night passed over.
-And a cry went up out of Egypt.
-And Pharaoh rose in the middle of the night
-And he sent in a hurry for Moses;
-And he said: Go forth from among my people,
-You and all the Hebrew Children;
-Take your goods and take your flocks,
-And get away from the land of Egypt.
-And, right then, Moses led them out,
-With all their goods and all their flocks;
-And God went on before,
-A guiding pillar of cloud by day,
-And a pillar of fire by night.
-And they journeyed on in the wilderness,
-And came down to the Red Sea.
-
-In the morning,
-Oh, in the morning,
-They missed the Hebrew Children.
-Four hundred years,
-Four hundred years
-They'd held them down in Egypt land.
-Held them under the driver's lash,
-Working without money and without price.
-And it might have been Pharaoh's wife that said:
-Pharaoh -look what you've done.
-You let those Hebrew Children go,
-And who's going to serve us now?
-Who's going to make our bricks and mortar?
-Who's going to plant and plow our corn?
-Who's going to get up in the chill of the morning?
-And who's going to work in the blazing sun?
-Pharaoh, tell me that!
-And Pharaoh called his generals,
-And the generals called the captains,
-And the captains called the soldiers.
-And they hitched up all the chariots,
-Six hundred chosen chariots of war,
-And twenty-four hundred horses.
-And the chariots all were full of men,
-With swords and shields
-And shiny spears
-And battle bows and arrows.
-And Pharaoh and his army
-Pursued the Hebrew Children
-To the edge of the Red Sea.
-
-Now, the Children of Israel, looking back,
-Saw Pharaoh's army coming.
-And the rumble of the chariots was like a thunder
-storm,
-And the whirring of the wheels was like a rushing wind,
-And the dust from the horses made a cloud that darked
-the day,
-And the glittering of the spears was like lightnings in
-the night.
-And the Children of Israel all lost faith,
-The children of Israel all lost hope;
-Deep Red Sea in front of them
-And Pharaoh's host behind.
-And they mumbled and grumbled among themselves:
-Were there no graves in Egypt?
-And they wailed aloud to Moses and said:
-Slavery in Egypt was better than to come
-To die here in this wilderness.
-But Moses said:
-Stand still! Stand still I
-And see the Lord's salvation.
-For the Lord God of Israel
-Will not forsake his people.
-The Lord will break the chariots,
-The Lord will break the horsemen,
-He'll break great Egypt's sword and shield,
-The battle bows and arrows;
-This day he'll make proud Pharaoh know
-Who is the God of Israel.
-
-And Moses lifted up his rod
-Over the Red Sea
-And God with a blast of his nostrils
-Blew the waters apart,
-And the waves rolled back and stood up in a pile,
-And left a path through the middle of the sea
-Dry as the sands of the desert.
-And the Children of Israel all crossed over
-On to the other side.
-When Pharaoh saw them crossing dry,
-He dashed on in behind them
-Old Pharaoh got about half way cross,
-And God unlashed the waters,
-And the waves rushed back together,
-And Pharaoh and all his army got lost,
-And all his host got drownded.
-And Moses sang and Miriam danced,
-And the people shouted for joy,
-And God led the Hebrew Children on
-Till they reached the promised land.
-Listen 1- Listen 1
-All you sons of Pharaoh.
-Who do you think can hold God's people
-When the Lord God himself has said,
-Let my people go?
-```
-
----
-
-## IC-1617: The Life of Lincoln West
-
-- Title: The Life of Lincoln West
-- Author (byline): Gwendolyn Brooks
-- Work: The Forerunners: Black Poets in America
-- Publisher: Howard University Press
-- Publication date as stated: Sept 1981
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 800
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Gwendolyn Brooks
-Book: The Forerunners: Black Poets in America
-ISBN: 978-0882580937
-Date (Month/Year): Sept 1981
-Publisher: Howard University Press
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-“I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character,” Martin Luther King told the masses in Washington D.C. in 1963.
-
-Many today celebrate that Barack Obama is the first black — or should we say African-American — president of the United States. Some others say he isn’t really the first black president, but instead the first “president of color,” because he is, in fact, bi-racial, borne of a white mother and black father. Others argue that if it were 1955, there’s little question as to which water fountain he would be allowed to drink from, or where he would be allowed to sit on a Montgomery city bus.
-
-Gwendolyn Brooks, a powerful voice of black consciousness and social protest in mid-century America, is among the most distinguished African-American poets of the twentieth century. Out of the loving security of her home, Brooks experienced racial prejudice in grade school, where other black students ridiculed her for her dark skin and lack of social or athletic abilities. She addressed this pervasive judgment of others in The Life of Lincoln West; and through her words we realize that King’s dream in many ways is still, in the words of Langston Hughes . . . “a dream deferred.”
-```
-
-### Performance text (classify this)
-
-```text
-Ugliest little boy that everyone ever saw. That is what everyone said.
-
-Even to his mother it was apparent—
-when the blue-aproned nurse came into the
-northeast end of the maternity ward
-bearing his squeals and plump bottom
-looped up in a scant receiving blanket,
-bending, to pass the bundle carefully
-into the waiting mother-hands—that this
-was no cute little ugliness, no sly baby waywardness
-that was going to inch away
-as would baby fat, baby curl, and
-baby spot-rash. The pendulous lip, the
-branching ears, the eyes so wide and wild,
-the vague unvibrant brown of the skin,
-and, most disturbing, the great head.
-These components of That Look bespoke
-the sure fibre. The deep grain.
-
-His father could not bear the sight of him. His mother high-piled her pretty dyed hair and put him among her hairpins and sweethearts, dance slippers, torn paper roses. He was not less than these, he was not more.
-
-As the little Lincoln grew,
-uglily upward and out, he began
-to understand that something was
-wrong. His little ways of trying
-to please his father, the bringing
-of matches, the jumping aside at
-warning sound of oh-so-large and
-rushing stride, the smile that gave
-and gave and gave—Unsuccessful!
-
-Even Christmases and Easters were spoiled.
-He would be sitting at the
-family feasting table, really
-delighting in the displays of mashed potatoes
-and the rich golden
-fat-crust of the ham or the festive
-fowl, when he would look up and find
-somebody feeling indignant about him.
-
-What a pity what a pity. No love
-for one so loving. The little Lincoln
-loved Everybody. Ants. The changing
-caterpillar. His much-missing mother.
-His kindergarten teacher.
-
-His kindergarten teacher—whose concern for him was composed of one part sympathy and two parts repulsion. The others ran up with their little drawings. He ran up with his. She tried to be as pleasant with him as with others, but it was difficult. For she was all pretty! all daintiness, all tiny vanilla, with blue eyes and fluffy sun-hair. One afternoon she saw him in the hall looking bleak against the wall. It was strange because the bell had long since rung and no other child was in sight. Pity flooded her. She buttoned her gloves and suggested cheerfully that she walk him home. She started out bravely, holding him by the hand. But she had not walked far before she regretted it. The little monkey. Must everyone look? And clutching her hand like that. . . . Literally pinching it. . . .
-
-At seven, the little Lincoln loved
-the brother and sister who
-moved next door. Handsome. Well-
-dressed. Charitable, often, to him. They
-enjoyed him because he was
-resourceful, made up
-games, told stories. But when
-their More Acceptable friends came they turned
-their handsome backs on him. He
-hated himself for his feeling
-of well-being when with them despite—
-Everything.
-
-He spent much time looking at himself
-in mirrors. What could be done?
-But there was no
-shrinking his head. There was no
-binding his ears.
-
-“Don’t touch me!” cried the little fairy-like being in the playground.
-
-Her name was Nerissa. The many
-children were playing tag, but when
-he caught her, she recoiled, jerked free
-and ran. It was like all the
-rainbow that ever was, going off
-forever, all, all the sparklings in
-the sunset west.
-
-One day, while he was yet seven,
-a thing happened. In the down-town movies
-with his mother a white
-man in the seat beside him whispered
-loudly to a companion, and pointed at
-the little Linc.
-“THERE! That’s the kind I’ve been wanting
-to show you! One of the best
-examples of the specie. Not like
-those diluted Negroes you see so much of on
-the streets these days, but the
-real thing.
-
-Black, ugly, and odd. You
-can see the savagery. The blunt
-blankness. That is the real
-thing.”
-
-His mother—her hair had never looked so
-red around the dark brown
-velvet of her face—jumped up,
-shrieked “Go to—” She did not finish.
-She yanked to his feet the little
-Lincoln, who was sitting there
-staring in fascination at his assessor. At the author of
-his
-new idea.
-
-All the way home he was happy. Of course,
-he had not liked the word
-“ugly.”
-But, after all, should he not
-be used to that by now? What had
-struck him, among words and meanings
-he could little understand, was the phrase
-“the real thing.”
-He didn’t know quite why,
-but he liked that.
-He liked that very much.
-
-When he was hurt, too much
-stared at—
-too much
-left alone—he
-thought about that. He told himself
-“After all, I’m
-the real thing.”
-
-It comforted him.
-```
-
----
-
-## IC-1618: Lift Off and Miracle Workers
-
-- Title: Lift Off and Miracle Workers
-- Author (byline): Donovan Livingston and Taylor Mali
-- Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 914
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Donald Livingston
-ISBN: 978-0399591372
-Publisher: Random House Publishing
-Date (Month/Year): April 2017
-NOTE: Presented at the Harvard Graduate School of
-Education’s 2016 Convocation -- May 25, 2016
-Author: Taylor Mali
-Book: The Last Time as We Are, Pgs 53-55
-ISBN: 978-0982148839
-Publisher: Write Bloody Publishing
-Date (Month/Year): Aug 2009
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-In 2016, Donovan Livingston delivered a convocation speech to the Harvard Graduate School of Education that went viral, reaching over 5 million people, and receiving national acclaim.
-
-Livingston's message that day -- the boundless potential that lies within each child, the continuing fight for equity, and the transformative promise of education -- retains its power to challenge and elevate. And at a time when the existence of the American Department of Education balances on the knife’s edge of existence, his words encourage and inspire students, educators, and communities to realize they have the power to change the shape of education, and to . . .
-
-Lift Off by Donovan Livingston and Miracle Workers by Taylor Mali
-```
-
-### Performance text (classify this)
-
-```text
-At the core, none of us were meant to be common.
-We were born to be comets,
-Darting across space and time —
-Leaving our mark as we crash into everything.
-
-Education then, beyond all other devices of human origin, Is a great equalizer of the conditions of men.”
-
-— Horace Mann, 1848.
-At the time of his remarks I couldn’t read, I couldn’t write.
-Any attempt to do so, punishable by death.
-For generations we have known of knowledge’s infinite
-
-power. Yet somehow, we’ve never questioned the keeper of the
-
-keys —
-The guardians of information.
-Unfortunately, I’ve seen more dividing and conquering
-In this order of operations — a heinous miscalculation of
-
-reality. For some, the only difference between a classroom and a
-
-plantation is time.
-How many times must we be made to feel like quotas —
-Like tokens in coined phrases? —
-“Diversity. Inclusion”
-There are days I feel like one, like only —
-A lonely blossom in a briar patch of broken promises.
-But hey, I’ve always been a thorn in the side of injustice.
-Disruptive. Talkative. A distraction.
-With a passion that transcends the confines of my
-
-consciousness —
-Beyond your curriculum, beyond your standards.
-I stand here, a manifestation of love and pain,
-With veins pumping revolution.
-I am the strange fruit that grew too ripe for the poplar tree.
-I am a DREAM Act, Dream Deferred incarnate.
-I am a movement — an amalgam of memories America
-
-would care to forget
-My past, alone, won’t allow me to sit still.
-So my body, like the mind
-Cannot be contained.
-As educators, rather than raising your voices
-Over the rustling of our chains,
-Take them off. Un-cuff us.
-Unencumbered by the lumbering weight
-Of poverty and privilege,
-Policy and ignorance.
-I was in the 7th grade, when Ms. Parker told me,
-“Donovan, we can put your excess energy to good use!”
-And she introduced me to the sound of my own voice.
-She gave me a stage. A platform.
-She told me that our stories are ladders
-That makes it easier for us to touch the stars.
-
-So climb and grab them. Keep climbing. Grab them. Spill your emotions in the big dipper and pour out your
-
-soul.
-Light up the world with your luminous allure.
-To educate requires Galileo-like patience.
-Today, when I look my students in the eyes, all I see are
-
-constellations.
-If you take the time to connect the dots,
-You can plot the true shape of their genius —
-Shining in their darkest hour.
-I look each of my students in the eyes,
-And see the same light that aligned Orion’s Belt
-And the pyramids of Giza.
-I see the same twinkle
-That guided Harriet to freedom.
-I see them. Beneath their masks and mischief,
-Exists an authentic frustration;
-An enslavement to your standardized assessments.
-At the core, none of us were meant to be common.
-We were born to be comets,
-Darting across space and time —
-Leaving our mark as we crash into everything.
-A crater is a reminder that something amazing happened
-
-here — An indelible impact that shook up the world. Are we not astronomers – searching for the next shooting
-
-star?
-I teach in hopes of turning content, into rocket ships —
-Tribulations into telescopes,
-So a child can see their potential from right where they
-
-stand.
-An injustice is telling them they are stars
-Without acknowledging night that surrounds them.
-Injustice is telling them education is the key
-While you continue to change the locks.
-Education is no equalizer —
-Rather, it is the sleep that precedes the American Dream.
-So wake up, wake up! Lift your voices
-Until you’ve patched every hole in a child’s broken sky.
-Wake up every child so they know of their celestial
-
-potential. I’ve been a Black hole in the classroom for far too long; Absorbing everything, without allowing my light escape.
-
-But those days are done. I belong among the stars. And so do you. And so do they. Together – together we can inspire galaxies of greatness For generations to come. No, no, sky is not the limit. It is only the beginning. Lift off.
-
-Miracle Workers (excerpt) by Taylor Mali (Pg 53-55) I like to lecture on love and speak on
-
-responsibility. I hold forth on humility, compassion, eloquence, and
-
-honesty. And when my students ask, "Are we going to be responsible for this?"
-
-I say, If not you, then who?
-You think my generation will be responsible?
-We're the ones who got you into this mess,
-now you are our only hope.
-And when they say, "What we meant to say
-was, 'Will we be tested on this?’"
-I say, Every single day of your lives!
-
-Once, I put a pencil on the desk of a student
-who was digging in her backpack for a pencil.
-But she didn't see me do it, so when I walked
-to the other side of the room and she raised her hand
-and asked if she could borrow a pencil,
-I intoned, “In the name of Socrates and Jesus,
-and all the gods of teaching,
-I declare you already possess everything you will ever
-
-need!”
-Shazzam!
-"You are the weirdest teacher I have ever -- "
-Then she saw the pencil on her desk and screamed.
-"You're a miracle worker! How did you do that?"
-
-I just gave you what I knew you needed
-before you had to ask for it.
-Education is the miracle, I'm just the worker.
-But I'm a teacher.
-And that's what we do
-```
-
----
-
-## IC-1619: Lion and Blue
-
-- Title: Lion and Blue
-- Author (byline): Robert Vavra
-- Work: Not specified
-- Publisher: William Morrow and Company
-- Publication date as stated: Oct 1974
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 590
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Robert Vavra
-ISBN: 978-0688611644
-Publisher: William Morrow and Company
-Date (Month/Year): Oct 1974
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-There’s only one kind of love that can fill us up, make us whole, and give us the happiness we all want: unconditional love or Real Love. This is the story of a lonely lion and a blue butterfly. You see, love comes in all shapes, sizes and colors. It is not bound by gender or age. True love conquers all. Lion and Blue by Robert Vavra
-```
-
-### Performance text (classify this)
-
-```text
-My lonely roars
-echoed far
-in a jungle
-that was old
-to me,
-a lion
-in the winter
-of his years,
-whose heart
-had never known
-spring.
-
-Until that afternoon
-when in the darkness
-of silent thoughts
-my yellow eyes
-were dazzled
-blue.
-
-Suddenly blossoms
-lit this dull stare
-when you,
-brilliant,
-beautiful,
-Brazilian
-butterfly
-drifted into
-my life.
-
-Blue became . . .
-Blue was
-my
-love,
-my
-life,
-my all around.
-
-Happiness was
-a spring and summer
-that seemed could never
-turn to
-fall.
-though you told me,
-‘Someday,
-Lion,
-the time will come
-when I will have to
-leave you,
-in search of
-
-the
-
-flower
-
-of
-
-the
-
-sun.’
-
-Those thoughts made me
-want to shut my ears
-or roar away
-a destiny
-which threatened
-our happy voyage
-across
-the sea of
-love.
-
-The other butterflies
-clustered round my
-head,
-and off somewhere
-I heard a lioness
-call,
-but in my world,
-my sky,
-there was only
-you
-my bella
-Blue.
-
-One night you left
-me, Blue,
-in search of
-your golden
-destiny.
-
-Then there was
-no world for me.
-Endless years
-I awaited your
-return.
-
-But our boat
-drifted past
-as empty as
-my
-heart.
-And so my quest
-began,
-I sailed to places
-far away.
-
-In search of
-you
-I wandered
-far,
-and all the while
-I thought,
-‘Why could we
-not have met
-when the time
-was right,
-when youth had lit
-my stars.’
-
-‘But yesterday is over,’ whispered the far-seeing giraffe, ‘as tomorrow is yet to come.’
-
-‘The only time
-that is ever
-right,’
-rumbled the
-wise elephant,
-‘is
-n o w,
-so make haste,
-this journey of yours
-is a one way trip
-eternally.’
-
-As I climbed the
-grass
-towards the clouds,
-a yellow blossom
-appeared.
-Could it be your
-destiny
-Would you be there,
-oh Blue?
-
-‘This flower is the leopard’s.’
-came the cheetah’s voice,
-‘it sprang from the garden
-of his soul.
-You won’t find the love
-of which you speak
-until your roots have grown strong,
-grown deep.’
-
-In the dark of
-night
-or in the flame of
-morning sky
-often hope would
-awaken in my
-heart
-with the flashing
-of blue wings.
-But feathers covered
-them
-and not your brilliance.
-
-Then one day
-on the plain’s edge,
-where the wind blows
-fast and clean,
-a wart hog came
-trotting by,
-a daisy in his
-mouth,
-and as he passed
-I heard these words,
-
-White and straight
-stood a daisy
-proudly at the
-field’s edge.
-‘Come among us,’
-beckoned the simple
-flower.
-And so I strode
-through that meadow
-of
-honey and snow.
-Then,
-not the tawny lioness’s
-purrrrr
-or the tides
-of oceans
-could take me from
-my course.
-
-But no blossom of
-the sun was
-there.
-‘The brilliant flower
-you seek,’
-lulled the daisies
-‘is springing now
-from your lion’s
-heart.’
-And as rich pollen
-covered me,
-golden petals crowned
-
-my
-
-head.
-
-Centuries,
-years,
-days . . .
-how many passed,
-I don’t know.
-But born again
-was I
-when in the
-evening sky
-a dot of blue
-appeared against
-the moon.
-
-And as the sky
-oranged
-with break of day,
-I saw you
-
-Blue.
-But to me
-why come
-when your search had been
-for that
-
-golden
-
-blossom
-
-who by now
-
-your heart
-
-had surely
-
-won?
-
-‘Lion, Lion!’
-Dreams do
-come true.
-You dared,
-you hoped,
-you believed,
-and for doing so
-look what you’ve become
-
-My
-Golden
-Maned
-Flower
-Hero
-Of
-The
-Sun!’
-
-And n o w . . .
-Blue!
-Blue!
-brilliant,
-bella,
-Brazilian
-butterfly,
-again my life,
-my all around
-
-is
-
-you.
-```
-
----
-
-## IC-1620: Listen Lord, The Creation and Prodigal Son
-
-- Title: Listen Lord, The Creation and Prodigal Son
-- Author (byline): James Weldon Johnson
-- Work: God’s Trombones
-- Publisher: Penguin Books
-- Publication date as stated: Feb 1990
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 1771
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: James Weldon Johnson
-Book: God’s Trombones
-ISBN: 978-0140184037
-Publisher: Penguin Books
-Date(Month/Year): Feb 1990
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-The poet and civil rights activist, James Weldon Johnson was influenced by his impressions of the rural South. His interest in the African-American folk tradition was ignited and resulted in a collection of “sermons” entitled God’s Trombones. It is said that Johnson considered the voice of the black preacher to be a musical instrument “not a piano . . . or trumpet but a trombone. From the printed page, peals the roar of the black preacher delivering a rousing sermon. The ability of Johnson to capture the sense of deliverance from the trials and tribulations of everyday life is indeed a talent. Listen Lord, The Creation and Prodigal Son by James Weldon Johnson from the anthology God’s Trombones.
-```
-
-### Performance text (classify this)
-
-```text
-LISTEN LORD
-
-O Lord, we come this morning Knee-bowed and body-bent Before thy throne of grace.
-
-O Lord - this morning
-Bow our hearts beneath our knees,
-And our knees in some lonesome valley.
-We come this morning
-Like empty pitchers to a full fountain,
-With no merits of our own.
-O Lord - open up a window of heaven,
-And lean out far over the battlements of glory,
-And listen this morning.
-Lord, have mercy on proud and dying sinners
-Sinners hanging over the mouth of hell,
-Who seem to love their distance well.
-Lord - ride by this morning
-Mount your milk-white horse,
-And ride-a this morning
-And in your ride, ride by old hell,
-Ride by the dingy gates of hell,
-And stop poor sinners in their headlong plunge.
-And now, O Lord, this man of God,
-Who breaks the bread of life this morning
-Shadow him in the hollow of thy hand,
-And keep him out of the gunshot of the devil.
-Take him, Lord - this morning
-Wash him with hyssop inside and out,
-Hang him up and drain him dry of sin.
-Pin his ear to the wisdom-post,
-And make his words sledge hammers of truth
-Beating on the iron heart of sin.
-Lord God, this morning
-Put his eye to the telescope of eternity,
-And let him look upon the paper walls of time.
-Lord, turpentine his imagination,
-Put perpetual motion in his arms,
-Fill him full of the dynamite of thy power,
-Anoint him all over with the oil of thy salvation,
-And set his tongue on fire.
-And now, O Lord
-When I've done drunk my last cup of sorrow
-When I've been called everything but a child of God
-When I'm done travelling up the rough side of the
-mountain
-O Mary's Baby
-When I start down the steep and slippery steps of
-death
-When this old world begins to rock beneath my feet -
-Lower me to my dusty grave in peace
-To wait for that great gittin' up morning - Amen.
-
-THE CREATION
-
-And God stepped out on space,
-And he looked around and said:
-I'm lonely -
-I'll make me a world.
-And far as the eye of God could see
-Darkness covered everything,
-Blacker than a hundred midnights
-Down in a cypress swamp.
-Then God smiled,
-And the light broke,
-And the darkness rolled up on one side,
-And the light stood shining on the other,
-And God said: That's good!
-Then God reached out and took the light in his hands,
-And God rolled the light around in his hands
-Until he made the sun;
-And he set that sun a-blazing in the heavens.
-And the light that was left from making the sun
-God gathered it up in a shining ball
-And flung it against the darkness,
-Spangling the night with the moon and stars.
-Then down between
-The darkness and the light
-He hurled the world;
-And God said: That's good!
-Then God himself stepped down -
-And the sun was on his right hand,
-And the moon was on his left;
-The stars were clustered about his head,
-And the earth was under his feet.
-And God walked, and where he trod
-His footsteps hollowed the valleys out
-And bulged the mountains up.
-Then he stopped and looked and saw
-That the earth was hot and barren.
-So God stepped over to the edge of the world
-And he spat out the seven seas -
-He batted his eyes, and the lightnings flashed -
-He clapped his hands, and the thunders rolled -
-And the waters above the earth came down,
-The cooling waters came down.
-Then the green grass sprouted,
-And the little red flowers blossomed,
-The pine tree pointed his finger to the sky,
-And the oak spread out his arms,
-The lakes cuddled down in the hollows of the ground,
-And the rivers ran down to the sea;
-And God smiled again,
-And the rainbow appeared,
-And curled itself around his shoulder.
-The God raised his arm and he waved his hand
-Over the sea and over the land,
-And he said: Bring forth! Bring forth!
-And quicker than God could drop his hand,
-Fishes and fowls
-And beasts and birds
-Swam the rivers and the seas,
-Roamed the forests and the woods,
-And split the air with their wings.
-And God said: That's good!
-Then God walked around,
-And God looked around
-On all that he had made.
-He looked at his sun,
-And he looked at his moon,
-And he looked at his little stars;
-He looked on his world
-With all its living things,
-And God said: I'm lonely still.
-Then God sat down -
-On the side of a hill where he could think;
-By a deep, wide river he sat down;
-With his head in his hands,
-God thought and thought,
-Till he thought: I'll make me a man!
-Up from the bed of the river
-God scooped the clay;
-And by the bank of the river
-He kneeled him down;
-And there the great God Almighty
-Who lit the sun and fixed it in the sky,
-Who flung the stars to the most far corner of the night,
-Who rounded the earth in the middle of his hand;
-This Great God,
-Like a mammy bending over her baby,
-Kneeled down in the dust
-Toiling over a lump of clay
-Till he shaped it in his own image;
-Then into it he blew the breath of life,
-And man became a living soul.
-Amen. Amen.
-
-THE PRODIGAL SON
-Young man Young man
-Your arm's too short to box with God. B
-ut Jesus spake in a parable, and he said:
-A certain man had two sons.
-Jesus didn't give this man a name,
-But his name is God Almighty.
-And Jesus didn't call these sons by name,
-But ev'ry young man,
-Ev'rywhere,
-Is one of these two sons.
-And the younger son said to his father,
-He said: Father, divide up the property,
-And give me my portion now.
-
-And the father with tears in his eyes said: Son,
-Don't leave your father's house.
-But the boy was stubborn in his head,
-And haughty in his heart,
-And he took his share of his father's goods,
-And went into a far-off country.
-There comes a time,
-There comes a time
-When ev'ry young man looks out from his father's
-house,
-Longing for that far-off country.
-And the young man journeyed on his way,
-And he said to himself as he travelled along:
-This sure is an easy road,
-Nothing like the rough furrows behind my father's plow.
-Young man
-Young man
-Smooth and easy is the road
-That leads to hell and destruction.
-Down grade all the way,
-The further you travel, the faster you go.
-No need to trudge and sweat and toil,
-Just slip and slide and slip and slide
-Till you bang up against hell's iron gate.
-And the younger son kept travelling along,
-Till at night-time he came to a city.
-
-And the city was bright in the night-time like day, The
-streets all crowded with people,
-Brass bands and string bands a-playing,
-And ev'rywhere the young man turned
-There was singing and laughing and dancing.
-And he stopped a passer-by and he said:
-Tell me what city is this?
-And the passer-by laughed and said: Don't you know?
-This is Babylon, Babylon,
-That great city of Babylon.
-Come on, my friend, and go along with me.
-And the young man joined the crowd.
-Young man
-Young man
-You're never lonesome in Babylon.
-You can always join a crowd in Babylon.
-Young man
-Young man
-You can never be alone in Babylon,
-Alone with your Jesus in Babylon.
-
-You can never find a place, a lonesome place,
-A lonesome place to go down on your knees,
-And talk with your God, in Babylon.
-You're always in a crowd in Babylon.
-And the young man went with his new-found friend, And
-bought himself some brand new clothes,
-And he spent his days in the drinking dens, Swallowing
-the fires of hell.
-And he spent his nights in the gambling dens,
-
-Throwing dice with the devil for his soul.
-And he met up with the women of Babylon.
-Oh, the women of Babylon!
-Dressed in yellow and purple and scarlet, Loaded with
-rings and earrings and bracelets, Their lips like a
-honeycomb dripping with honey, Perfumed and sweet-
-smelling like a jasmine flower; And the jasmine smell of
-the Babylon women Got in his nostrils and went to his
-head,
-And he wasted his substance in riotous living,
-In the evening, in the black and dark of night, With the
-sweet-sinning women of Babylon.
-And they stripped him of his money,
-And they stripped him of his clothes,
-And they left him broke and ragged
-In the streets of Babylon.
-Then the young man joined another crowd The beggars
-and lepers of Babylon.
-And he went to feeding swine,
-And he was hungrier than the hogs;
-He got down on his belly in the mire and mud And ate
-the husks with the hogs.
-And not a hog was too low to turn up his nose At the man
-in the mire of Babylon.
-Then the young man came to himself
-He came to himself and said:
-In my father's house are many mansions,
-Ev'ry servant in his house has bread to eat, Ev'ry
-servant in his house has a place to sleep; I will arise and
-go to my father.
-
-And his father saw him afar off,
-And he ran up the road to meet him.
-He put clean clothes upon his back,
-And a golden chain around his neck,
-He made a feast and killed the fatted calf,
-And invited the neighbors in.
-Oh-o-oh, sinner,
-When you're mingling with the crowd in BabylonDrinking
-the wine of Babylon
-Running with the women of Babylon
-You forget about God, and you laugh at Death. Today
-you've got the strength of a bull in your neck And the
-strength of a bear in your arms,
-But some 0' these days, some 0' these days,
-You'll have a hand-to-hand struggle with bony Death,
-And Death is bound to win.
-Young man, come away from Babylon,
-That hell-border city of Babylon.
-Leave the dancing and gambling of Babylon,
-The wine and whiskey of Babylon,
-The hot-mouthed women of Babylon;
-Fall down on your knees,
-And say in your heart:
-I will arise and go to my Father.
-```
-
----
-
-## IC-1621: Loch Ness Monsters and Something Like Fire
-
-- Title: Loch Ness Monsters and Something Like Fire
-- Author (byline): Lenelle Moise (pronounced "moy-eez")
-- Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: No
-- Spoken words (computed): 1116
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Lenelle Moise
-Book: Word Warriors: 35 Women Leaders in the Spoken
-Word Revolution
-ISBN: 978-1580052214
-Publisher: Seal Press
-Date (Month/Year): Oct 2007
-Author: Tana Hardy
-Book: We Will Be Shelter: Poems for Survival
-ISBN: 978-1938912474
-Publisher: Write Bloody Publishing
-Date (Month/Year): December 2014
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Martin Niemöller, a prominent Protestant pastor who opposed the Nazi regime, who spent the last seven years of Nazi rule in a concentration camp, spoke these words of wisdom 80 years ago: .First they came for the Socialists, and I did not speak out— Because I was not a Socialist. Then they came for the Trade Unionists, and I did not speak out— Because I was not a Trade Unionist. Then they came for the Jews, and I did not speak out— Because I was not a Jew. Then they came for me—and there was no one left to speak for me. How can we turn a blind eye to man’s inhumanity to man even on a small, individual scale. Lenelle Moise asks this question in her poem Loch Ness Monsters.
-```
-
-### Performance text (classify this)
-
-```text
-Loch Ness Monsters by Lenelle Moise
-
-after patricia’s face
-was dragged across
-the parking lot of pete’s
-grocery store and gasoline
-stop on buffalo street
-in ithaca, ny, one late afternoon
-during rush hour traffic in july
-2002’s brutal, blatant sun
-
-after a white man held her down and two white women kicked her jaw because they claimed – although they sat innocently in their parked pickup truck -- this stranger/black woman -- patricia – just had to go and look at them funny so they had to get out and try to put her in her place
-
-after their fists and their spit after their tired word nigger
-
-after ithacan would-be witnesses filled their giant grape slurpee cups – filled their unleaded tanks – filled their ears with the predictable weather forecast – their ears with an international report on terrorism -- their air-conditioned ears turned off to screams, turned on to britney spears’ overplayed number one hit hit me baby one more time.
-
-after bystanders sat
-in their jammed cars, unmoved, someone
-inside the grocery store
-called the cops and,
-late, the cops
-handcuffed the assaulted
-twenty-year-old black woman
-first because –
-
-though her stunned skull thumped
-with bitter bewilderment and her broad
-nose bled from the burden of meeting
-her tears on three dog shit shoes --
-since patricia was shrilling cracker and flailing
-her bruised arms uncontrollably, the ithacan
-cops thought she seemed
-menacing, not molested
-
-after the ithaca times
-reported the incident four days
-late, the local liberal whites simply
-could not believe
-it happened here. here?
-in Ithaca? My god,
-they said, that’s just
-incredible. are you serious? here?
-
-and i wonder how some people can keep their minds
-open to the possibility of a loch ness monster
-open to extraterrestrials, open
-to the crazed fantasy of a so-called king of rock
-and roll resurrected, somehow
-sighted alive; how people will
-nod of course to a headline that guesses
-angelina stole brad from jennifer;
-tarot cards, ouija boards
-tea leaves for spiritual guidance
-people will bribe invisible grim reapers
-with age-defying dreams and potions
-people will encourage their children
-to write letters to santa claus, share
-secrets with jesus and keep appointments
-with philanthropic tooth fairies
-
-but the sun we can all confirm and agree upon
-will shine down on one black woman –
-patricia - getting her ass kicked
-by three epithet-wielding whites –
-her spirit and features evidently crushed
-by their hate – the rage in her
-gut, the insistence of her fists
-obviously outnumbered
-
-and some people just cannot
-see it.
-and some people just don’t
-believe it.
-
-TRANSITION And yet in a sea of those who turn a blind eye, those who are wronged . . . abused . . . brutalized . . . somehow survive. Tana Hardy questions how those survivors come to view the world. Do they take up the mantle of “defender of the innocent” – “voice of the down-trodden” or do they revel in the word. Survivor. Because I survived, I am better than THOSE victims. Because I survived, they should be able to as well. What does the word survivor mean to you? Something Like Fire by Tana Hardy.
-
-Something Like Fire by Tana Hardy
-
-Survivor: “…but I did it because of the trauma.”
-
-Survivor- what a pointed word.
-What a something to sharpen and jab
-at someone. Survivor- what a blockade
-to stand behind. What a shield. What a
-corner around which to peek
-a gun. Explosive to roll into
-a party. “Everything I’ve said and done
-is because I am a Survivor!”
-When is the day we become responsible
-
-for ourselves? For the ways our damage spills over,
-onto others? I want to join a parade of: This is What
-I’ve Done and This is Where I Did it and This is to
-Whom. I want a spotlight
-on their scars, not mine. I want to carry
-my fault on a platter, like a cake
-down a street. With the names
-of the people I made into a whom
-on top. Until everyone comes out
-of their houses into the square
-and starts confessing, as if
-our future depends on it.
-(Because it does.)
-
-I want to meet the ones who made me
-a whom on the other edge of town
-at the end of their cake parade. I want them to put
-down their sharp sticks,
-empty their cheeks of explosives, and
-step out from behind the barricade. I
-want them to pull their whole bodies from around the
-corner and say,
-“Me. I did it.”
-Without blinking or minimizing.
-And then I want them to give me
-some cake. The slice with my name
-on top. But when I take a second look,
-I want it to be their name. I want our names to be the
-same.
-(Because they are.)
-
-And then I want to hug
-about it. I want Survivor to be a name
-we stop taking in vain, stop using
-as excuse. Here, I’ll start: I have raged
-and thrown and manipulated and coerced and lied and
-lied and lied
-and lied
-and lied. Every single time I have held up the card
-“survivor” as if it is a get out of jail free ticket. But
-there are real live names in my wake. In the sea foam
-behind my boat. Can’t you see their eyes?
-The way they spin in the waves- the whites and the blues
-and the browns and the hazels of them?
-Those are the people I made
-into a whom, people to whom I gave
-a card, while showing them exactly how to stand
-
-behind it. Survivor- what a pointed word.
-What a shield, an explosive. I want the day when
-Survivor means a temporary
-state, a place to pass through
-but not set up a permanent, fenced-in
-residence. I want survivor to mean something
-like a fire of renewal after which grows a forest with as
-many trees as human complexities.
-I don’t always want to stomp my feet
-on home plate saying,
-“That person. Did this. To me.”
-But neither do I want to stand
-on the pitchers mound- hurling forward
-what someone else pitched
-
-at me. I’ve been getting this backwards, thinking
-Survivor meant I had to toughen
-up instead of melt and maybe offer myself as something
-to quench.
-Something to ease, to nourish and embolden. Don’t get
-me wrong,
-I am as mad as a Volkswagen full of hornets about what’s
-been done to me, but that doesn’t mean
-I want to let my stingers out. Not
-only because the world needs all of us
-to step into the light. But also because what a day, what
-a triumph when Survivor means
--I am-
-so much more
-than what was done to me.
-(Because it does.)
-```
-
----
-
-## IC-1622: The Lorax
-
-- Title: The Lorax
-- Author (byline): Theo Geisel (aka Dr. Seuss)
-- Work: Not specified
-- Publisher: Random House Books
-- Publication date as stated: Aug 1971
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: NARRATOR, ONCE-LER, LORAX
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1395
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Theo Geisel (aka Dr. Seuss)
-ISBN: 978-0394823379
-Publisher: Random House Books
-Date (Month/Year): Aug 1971
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-When Dr. Seuss gets serious, you know it must be important. Published in 1971, and perhaps inspired by the "save our planet" mindset of the 1960s, The Lorax is an ecological warning that still rings true today amidst the dangers of clear-cutting, pollution, and disregard for the earth's environment. In The Lorax, we find what we've come to expect from the illustrious doctor: brilliantly whimsical rhymes and delightfully original. But there is also something more--a powerful message that Seuss implores both adults and children to heed.
-
-The Lorax by Theo Geisel (aka Dr. Seuss)
-```
-
-### Performance text (classify this)
-
-```text
-NARRATOR: At the far end of town where the Grickle-grass grows and the wind smells slow-and-sour when it blows and no birds ever sing excepting old crows. . . is the Street of the Lifted Lorax. And deep in the Grickle-grass, some people say, if you look deep enough you can still see, today, where the Lorax once stood just as long as it could before somebody lifted the Lorax away.
-
-NARRATOR: What was the Lorax? And why was it there? And why was it lifted and taken somewhere from the far end of town where the Grickle-grass grows? The old Once-ler still lives here. Ask him. He knows.
-
-ONCE-LER: Now I'll tell you, how the Lorax got lifted and taken away. . . It all started way back. . . such a long, long time back. . . Way back in the days when the grass was still green and the pond was still wet and the clouds were still clean, and the song of the Swomee-Swans rang out in space. . one morning, I came to this glorious place. And I first saw the trees! The Truffula Trees! The bright-colored tufts of the Truffula Trees! Mile after mile in the fresh morning breeze. And under the trees, I saw Brown Bar-ba-loots frisking about in their Bar-ba-loot suits as they played in the shade and ate Truffula Fruits. From the rippulous pond came the comfortable sound of the Humming-Fish humming while splashing around. But those trees! Those trees! Those Truffula Trees!
-
-All my life I'd been searching for trees such as these. The touch of their tufts was much softer than silk. And they had the sweet smell of fresh butterfly milk. I felt a great leaping of joy in my heart. I knew just what I'd do! I unloaded my cart. In no time at all, I had built a small shop. Then I chopped down a Truffula Tree with one chop. And with great skillful skill and with great speedy speed, I took the soft tuft. And I knitted a Thneed! The instant I'd finished, I heard a ga-Zump! I looked. I saw something pop out of the stump of the tree I'd chopped down. It was sort of a man. Describe him?. . . That's hard. I don't know if I can. He was shortish. And oldish. And brownish. And mossy. And he spoke with a voice that was sharpish and bossy.
-
-LORAX:(with a sneeze) Mister! I am the Lorax. I speak for the trees. I speak for the trees, for the trees have no tongues. And I'm asking you, sir, at the top of my lungs"- What's that THING you've made out of my Truffula tuft?
-
-ONCE-LER: Look Lorax, There's no cause for alarm.
-
-I chopped just one tree. I am doing no harm.
-I'm being quite useful. This thing is a Thneed.
-A Theend's a Fine-Something-That-All-People-Need!
-It's a shirt. It's a sock. It's a glove. It's a hat.
-But it has other uses. Yes, far beyond that.
-You can use it for carpets. For pillows! For sheets!
-Or curtains! Or covers for bicycle seats!"
-
-LORAX: Sir! You are crazy with greed. There is no one on Earth who would buy that fool Thneed.
-
-ONCE-LER: But the very next minute I proved he was
-wrong.
-For, just at that minute, a chap came along,
-and he thought that the Thneed I had knitted was great.
-He happily bought it for three ninety-eight.
-(laughing at the Lorax) You poor stupid guy!
-You never can tell what some people will buy.
-
-LORAX: I repeat, I speak for the trees!
-
-ONCE-LER: I'm busy. Shut up, if you please. I rushed 'cross the room, and in no time at all, built a radio-phone. I put in a quick call. I called all my brothers and uncles and aunts and I said Listen here! Here’s a wonderful chance for the whole Once-ler Family to get mighty rich! [They] were all knitting Theends just as busy as bees, to the sound of the chopping of Truffula Trees. Then . . . Oh! Baby! Oh! How the business did grow! Now, chopping one tree at a time was too slow So I quickly invented my Super-Axe-Hacker which whacked off four Truffula Trees at one smacker. We were making Thneeds four times as fast as before! And that Lorax? . . . He knocked on my new office door.
-
-LORAX: I'm the Lorax who speaks for the trees which you seem to be chopping as fast as you please. But I'm also in charge of the Brown Bar-ba-loots who played in the shade in their Bar-ba-loot suits and happily lived, eating Truffula Fruits. NOW. . . thanks to your hacking my trees to the ground, there's not enough Truffula Fruit to go 'round. And my poor Bar-ba-loots are all getting the crummies because they have gas, and no food, in their tummies! They loved living here. But I can't let them stay. They'll have to find food. And I hope that they may.
-
-ONCE-LER: I, the Once-ler, felt sad as I watched them all go. BUT . . . business is business! And business must grow I meant no harm. I most truly did not. But I had to grow bigger. So bigger I got. Then again he came back! I was fixing some pipes when that old-nuisance Lorax came back with more gripes.
-
-LORAX: (coughing) I am the Lorax (sneezing, snuffling) Once-ler! You're making such smogulous smoke! My poor Swomee-Swans. . . why, they can't sing a note! No one can sing who has smog in his throat. And so - please pardon my cough – they cannot live here. So I'm sending them off. What's more, let me say a few words about Gluppity- Glupp. Your machinery chugs on, day and night without stop making Gluppity-Glupp. Also Schloppity-Schlopp. And what do you do with this leftover goo?. . . I'll show you. You dirty old Once-ler man, you! You're glumping the pond where the Humming-Fish hummed!
-
-No more can they hum, for their gills are all gummed. So I'm sending them off. Oh, their future is dreary. They'll walk on their fins and get woefully weary in search of some water that isn't so smeary.
-
-ONCE-LER: And then I got mad. I got terribly mad. (yelling) Now listen here, Dad! All you do is yap-yap and day, 'Bad! Bad! Bad! Bad!' Well, I have my rights, sir, and I'm telling you I intend to go on doing just what I do! And at that very moment, we heard a loud whack! From outside in the fields came a sickening smack of an axe on a tree. Then we heard the tree fall. The very last Truffula Tree of them all! No more trees. No more Thneeds. No more work to be done. So, in no time, my uncles and aunts, everyone, all waved me good-bye. They jumped into my cars and drove away under the smoke-smuggered stars. Now all that was left 'neath the bad-smelling sky was my big empty factory. . . the Lorax. . . and I. The Lorax said nothing. Just gave a glance. . . just gave a very sad, sad backward glance. . .
-
-as he lifted himself by the seat of his pants.
-And I'll never forget the grim look on his face
-when he heisted himself and took leave of this place,
-through a hole in the smog, without leaving a trace.
-And all that the Lorax left here in this mess
-was a small pile of rocks, with the one word. . .
-UNLESS. (long pause)
-Whatever that meant, well, I just couldn't guess.
-That was long, long ago.
-But each day since that day I've sat here and worried
-and worried away.
-Through the years, while my buildings have fallen apart,
-I've worried about it with all of my heart.
-But now. . . Now that you're here, the word of the Lorax
-seems perfectly clear.
-UNLESS someone like you cares a whole awful lot,
-nothing is going to get better . . . It's not.
-SO. . . Catch! (he tosses something down)
-It's a Truffula Seed. It's the last one of all!
-You're in charge of the last of the Truffula Seeds.
-And Truffula Trees are what everyone needs.
-Plant a new Truffula. Treat it with care.
-
-Give it clean water. And feed it fresh air. Grow a forest. Protect it from axes that hack. Then the Lorax and all of his friends may come back.
-```
-
----
-
-## IC-1623: Lost in Translation
-
-- Title: Lost in Translation
-- Author (byline): James Merrill
-- Work: Collected Poems
-- Publisher: Knopf
-- Publication date as stated: Nov 2002
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1423
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: James Merrill
-Book: Collected Poems
-ISBN: 978-0375709418
-Publisher: Knopf
-Date (Month/Year): Nov 2002
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Build your life just as you would a puzzle. Piece by piece. Section by section. You may get bored at times, or frustrated, or feel as though you'd rather give up. What you must do, however, is know that the pieces are all there, and the more ways you try to place them where they belong, the more connections you discover.
-
-What does your puzzle look like? Is it falling into place, or are you forcing the pieces to fit where they don't belong. Lost in Translation by James Merrill uses the metaphor of a “puzzle” to describe one young boy’s attempt to understand the world around him though a series of memories – stories – puzzle pieces. .
-```
-
-### Performance text (classify this)
-
-```text
-Diese Tage, die leer dir scheinen und wertlos für das All, haben Wurzeln zwischen den Steinen und trinken dort überall.
-
-(TRANSLATION from GERMAN)
-"These days, which seem empty
-and entirely fruitless to you,
-have roots between the stones
-and drink from everywhere."
-
-A card table in the library stands ready To receive the puzzle which keeps never coming. Daylight shines in or lamplight down Upon the tense oasis of green felt. Full of unfulfillment, life goes on, Mirage arisen from time's trickling sands Or fallen piecemeal into place: German lesson, picnic, see-saw, walk With the collie who "did everything but talk"— Sour windfalls of the orchard back of us. A summer without parents is the puzzle, Or should be. But the boy, day after day, Writes in his Line-a-Day No puzzle.
-
-He's in love, at least. His French Mademoiselle, In real life a widow since Verdun, Is stout, plain, carrot-haired, devout. She prays for him, as does a curé in Alsace, Sews costumes for his marionettes, Helps him to keep behind the scene Whose sidelit goosegirl, speaking with his voice, Plays Guinevere as well as Gunmoll Jean. Or else at bedtime in his tight embrace Tells him her own French hopes, her German fears, Her—but what more is there to tell? Having known grief and hardship, Mademoiselle Knows little more. Her languages. Her place. Noon coffee. Mail. The watch that also waited Pinned to her heart, poor gold, throws up its hands— No puzzle! Steaming bitterness Her sugars draw pops back into his mouth, translated: "Patience, chéri. Geduld, mein Schatz." (Translation: “Patience, love. Patience, my dear”) (Thus, reading Valéry the other evening And seeming to recall a Rilke version of "Palme," That sunlit paradigm whereby the tree Taps a sweet wellspring of authority, The hour came back. Patience dans l'azur. Geduld im. . . Himmelblau? Mademoiselle. Translation: “Patience in the sky. Patience in . . . sky blue? Ma’am)
-
-Out of the blue, as promised, of a New York
-Puzzle-rental shop the puzzle comes—
-A superior one, containing a thousand hand-sawn,
-Sandal-scented pieces. Many take
-Shapes known already—the craftsman's repertoire
-Nice in its limitation—from other puzzles:
-Witch on broomstick, ostrich, hourglass,
-Even (surely not just in retrospect)
-An inchling, innocently branching palm.
-These can be put aside, made stories of
-While Mademoiselle spreads out the rest face-up,
-Herself excited as a child; or questioned
-Like incoherent faces in a crowd,
-Each with its scrap of highly colored
-Evidence the Law must piece together.
-Sky-blue ostrich? Likely story.
-Mauve of the witch's cloak white, severed fingers
-Pluck? Detain her. The plot thickens
-As all at once two pieces interlock.
-
-Mademoiselle does borders— (Not so fast.
-
-A London dusk, December last.
-Chatter silenced in the library
-This grown man reenters, wearing grey.
-A medium. All except him have seen
-Panel slid back, recess explored,
-An object at once unique and common
-Displayed, planted in a plain tole
-Casket the subject now considers
-Through shut eyes, saying in effect:
-"Even as voices reach me vaguely
-A dry saw-shriek drowns them out,
-Some loud machinery— a lumber mill?
-Far uphill in the fir forest
-Trees tower, tense with shock,
-Groaning and cracking as they crash groundward.
-But hidden here is a freak fragment
-Of a pattern complex in appearance only.
-What it seems to show is superficial
-Next to that long-term lamination
-Of hazard and craft, the karma that has
-Made it matter in the first place.
-
-Plywood. Piece of a puzzle." Applause
-Acknowledged by an opening of lids
-Upon the thing itself. A sudden dread—
-But to go back. All this lay years ahead.)
-
-Mademoiselle does borders. Straight-edge pieces
-Align themselves with earth or sky
-In twos and threes, naive cosmogonists
-Whose views clash. Nomad inlanders meanwhile
-Begin to cluster where the totem
-Of a certain vibrant egg-yolk yellow
-Or pelt of what emerging animal
-Acts on the straggler like a trumpet call
-To form a more soph"isticated unit.
-By suppertime two ragged wooden clouds
-Have formed. In one, a Sheik with beard
-And flashing sword hilt (he is all but finished)
-Steps forward on a tiger skin. A piece
-Snaps shut, and fangs gnash out at us!
-In the second cloud—they gaze from cloud to cloud
-With marked if undecipherable feeling—
-Most of a dark-eyed woman veiled in mauve
-Is being helped down from her camel (kneeling)
-By a small backward-looking slave or page-boy
-(Her son, thinks Mademoiselle mistakenly)
-Whose feet have not been found. But lucky finds
-In the last minutes before bed
-Anchor both factions to the scene's limits
-And, by so doing, orient
-Them eye to eye across the green abyss.
-The yellow promises, oh bliss,
-To be in time a sumptuous tent.
-
-Puzzle begun I write in the day's space,
-Then, while she bathes, peek at Mademoiselle's
-Page to the curé: ". . . cette innocente mère,
-Ce pauvre enfant, que deviendront-ils?" (Translation: . . .
-This mother innocent, this poor child, what will become?)
-Her azure script is curlicued like pieces
-Of the puzzle she will be telling him about.
-(Fearful incuriosity of childhood!
-"Tu as l'accent allemande" (Translation: You have the
-German accent) said Dominique.
-Indeed. Mademoiselle was only French by marriage.
-Child of an English mother, a remote
-Descendant of the great explorer Speke,
-And Prussian father. No one knew. I heard it
-Long afterwards from her nephew, a UN
-Interpreter. His matter-of-fact account
-Touched old strings. My poor Mademoiselle,
-With 1939 about to shake
-This world where "each was the enemy, each the friend"
-To its foundations, kept, though signed in blood,
-Her peace a shameful secret to the end.)
-"Schlaf wohl, chéri." (Translation: “Sleep well, darling”)
-Her kiss. Her thumb
-Crossing my brow against the dreams to come.
-
-This World that shifts like sand, its unforeseen
-Consolidations and elate routine,
-Whose Potentate had lacked a retinue?
-Lo! it assembles on the shrinking Green.
-
-Gunmetal-skinned or pale, all plumes and scars,
-Of Vassalage the noblest avatars—
-The very coffee-bearer in his vair
-Vest is a swart Highness, next to ours.
-
-Kef easing Boredom, and iced syrups, thirst, In guessed-at glooms old wives who know the worst Outsweat that virile fiction of the New: "Insh'Allah, he will tire—" "—or kill her first!"
-
-(Hardly a proper subject for the Home, Work of—dear Richard, I shall let you comb Archives and learned journals for his name— A minor lion attending on Gérôme.)
-
-While, thick as Thebes whose presently complete Gates close behind them, Houri and Afreet Both claim the Page. He wonders whom to serve, And what his duties are, and where his feet,
-
-And if we'll find, as some before us did,
-That piece of Distance deep in which lies hid
-Your tiny apex sugary with sun,
-Eternal Triangle, Great Pyramid!
-
-Then Sky alone is left, a hundred blue
-Fragments in revolution, with no clue
-To where a Niche will open. Quite a task,
-Putting together Heaven, yet we do.
-
-It's done. Here under the table all along Were those missing feet. It's done.
-
-The dog's tail thumping. Mademoiselle sketching
-Costumes for a coming harem drama
-To star the goosegirl. All too soon the swift
-Dismantling. Lifted by two corners,
-The puzzle hung together—and did not.
-Irresistibly a populace
-Unstitched of its attachments, rattled down.
-Power went to pieces as the witch
-Slithered easily from Virtue's gown.
-
-The blue held out for time, but crumbled, too.
-The city had long fallen, and the tent,
-A separating sauce mousseline,
-Been swept away. Remained the green
-On which the grown-ups gambled. A green dusk.
-First lightning bugs. Last glow of west
-Green in the false eyes of (coincidence)
-Our mangy tiger safe on his bared hearth.
-
-Before the puzzle was boxed and readdressed To the puzzle shop in the mid-Sixties, Something tells me that one piece contrived To stay in the boy's pocket. How do I know? I know because so many later puzzles Had missing pieces—Maggie Teyte's high notes Gone at the war's end, end of the vogue for collies, A house torn down; and hadn't Mademoiselle Kept back her pitiful bit of truth as well? I've spent the last days, furthermore, Ransacking Athens for that translation of "Palme." Neither the Goethehaus nor the National Library Seems able to unearth it. Yet I can't Just be imagining. I've seen it. Know How much of the sun-ripe original Felicity Rilke made himself forego (Who loved French words—verger, mûr, parfumer) In order to render its underlying sense. Know already in that tongue of his What Pains, what monolithic Truths Shadow stanza to stanza's symmetrical Rhyme-rutted pavement. Know that ground plan left Sublime and barren, where the warm Romance Stone by stone faded, cooled; the fluted nouns Made taller, lonelier than life By leaf-carved capitals in the afterglow. The owlet umlaut peeps and hoots Above the open vowel. And after rain A deep reverberation fills with stars.
-
-Lost, is it, buried? One more missing piece?
-
-But nothing's lost. Or else: all is translation
-And every bit of us is lost in it
-(Or found—I wander through the ruin of S
-Now and then, wondering at the peacefulness)
-And in that loss a self-effacing tree,
-Color of context, imperceptibly
-Rustling with its angel, turns the waste
-To shade and fiber, milk and memory.
-```
-
----
-
-## IC-1624: The Maiden without Hands
-
-- Title: The Maiden without Hands
-- Author (byline): Anne Sexton
-- Work: Transformations
-- Publisher: Mariner Books
+## IC-2007: The Department of Nothing
+
+- Title: The Department of Nothing
+- Author (byline): Colin Firth
+- Work: Speaking with the Angel
+- Publisher: Riverhead Trade
 - Publication date as stated: Feb 2001
-- Event as filed: Poetry
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: Yes
-- Spoken words (computed): 741
+- Spoken words (computed): 1547
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Anne Sextion
-Book: Transformations
-ISBN: 978-0618083435
-Publisher: Mariner Books
+Author: Colin Firth
+Book: Speaking with the Angel
+ISBN: 978-1573228589
+Publisher: Riverhead Trade
 Date (Month/Year): Feb 2001
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-We all need fairy tales. We read them or watched them as children and they serve as little idealistic beacons of hope once we reach adulthood. Then there are those who worry that all this exposure to happily ever after can warp our brains and leave us unprepared for the harsh reality that life has to offer. But regardless of the happily every eafter endings, there is no denying that many of the events that occur in our fairy tales are dark, scary, and intimidating events. Perhaps none as dark as the one that I have prepared for you today - A strange retelling of the Grimms’ fairy tale in which a wizard tricks a miller into giving him his daughter and then forces the miller to cut off her hands. The girl runs away, has good fortune, but is once again plagued by the malicious wizard. This adaptation is called The Maiden without Hands and is prepared in poetry format by Anne Sexton.
+The relationship between a young child and his grandmother is unmeasurable. Henry defines the hours spent with Grandma as the “best thing” and the time away from her and her stories as “time waiting to get back to this place of adventure, love, and imagination.”
+
+The Department of Nothing by Colin Firth
 ```
 
 ### Performance text (classify this)
 
 ```text
-Is it possible he marries a cripple out of admiration? A desire to own the maiming so that not one of us butchers will come to him with crowbars or slim precise tweezers? Lady, bring me your wooden leg so I may stand on my own two pink pit feet. If someone burns out your eye I will take your socket and use it for an ashtray. If they have cut out your uterus I will give you a laurel wreath to put in its place. If you have cut off your ear I will give you a crow who will hear just as well. My apple has no worm in it! My apple is whole!
+Items indicated this way <> are suggestions to convey the story. ***Directing note: at the start turn the clock away --- at the end turn the clock back to the audience.
 
-Once
-there was a cruel father
-who cut off his daughter’s hands
-to escape from the wizard.
+Emma wildly fought for passage --- and lo! By grace, she fell upon a door which gave onto . . . The Night Garden: full of eerie beauty and tranquility. Here the wind fell silent --- All around were crumbling walls and sundials, terrible gargoyles. What she didn’t see were little devilish faces poking from behind rocks. Then, one of them said, “Who are you?”
 
-The maiden held up her stumps
-as helpless as dog’s paws
-and that made the wizard
-want her. He wanted to lap
-her up like strawberry preserve.
-She cried on her stumps
-as sweet as lotus water,
-as strong as petroleum,
-as sure-fire as castor oil.
-Her tears lay around her like a moat.
-Her tears so purified her
-that the wizard could not approach.
+Before anyone could answer, this big loud voice from somewhere else, suddenly shouted, “Henry!!!” Which is my name . . .
 
-She left her father’s house
-to wander in forbidden woods,
-the good, kind king’s woods.
-She stretched her neck like an elastic,
-up, up, to take a bite of a pear.
-handing from the king’s tree.
-Picture her there for a moment,
-a perfect still life.
+And then it was just me sitting next to my grandma’s bed, probably late for school, wishing Grandma’s stories didn’t have to be always interrupted. I still wanted Grandma to go on, but that’s always when she gets strict and says, “No more talking, the session is closed.”
 
-After all,
-she could not feed herself
-or pull her pants down
-or brush her teeth.
+Whenever I’m listening to a story I always turn her bedside clock away (turn the clock away) so I don’t see the time. She says I’m not allowed to, because I have to respect punctuality – but I always manage it.
 
-She was, I’d say,
-without resources.
-The king spied upon her at
-that moment of stretching up, up
-and he thought,
-Eeny, Meeny, Miny, Mo –
-There but for the grace of --
-I will take her for my wife.
+It’s strange, because the place where clocks most can’t get you is in her stories.
 
-And thus they were married
-and lived together on a sugar cub.
-The king had silver hands made for her.
-they were polished daily and kept in place,
-little tin mittens.
-The court bowed at the sight of them from a distance.
-The leisurely passerby stopped and crossed himself.
+So when I came out of Grandma’s room I already knew I’d be thinking about the rest of the story until five o’clock. Your life is made of half-finished stories.
 
-What a fellow he is, they said of the king,
-and kept their lips pursed as for a kiss.
-But that was not the last word
-for the king was called to war.
-Naturally the queen was pregnant
-so the king left her in care of his mother.
-Buy her a perambulator, he said,
-and send me a message when my son is born.
-Let me hear no catcalls
-or see a burned mattress.
-He wad superstitious.
-You can see his point of view.
+There’s a name for all this: most people call it real life, but actually it’s called the Department of Nothing. It’s not just one department, but loads of mini departments. School is the Paper Department, where they have this special doom-paper so that anything you write on it is doomed. Then there’s the Waiting Room of Nothing where you get told Not now, I’m busy, or You’re not old enough yet and all that.
 
-When the son wads born
-the mother sent a message
-but the wizard intercepted it,
-saying, instead, a changeling was born.
-The king didn’t mind.
-He was used to this sort of thing by now.
-He said: Take care,
-but the wizard intercepted it,
-saying: Kill both;
-then cut out her eyes and send them,
-Also cut out his tongue and send it;
-I will want my proof.
+Absolutely everyone lives there --- unless they get to go to Grandma’s room, which is the only way out of the Department. The trick is holding on to the magic to get you through the Department of Nothing.
 
-The mother,
-now the grandmother --
-a strange vocation to be a mother at all --
-told them to run off in the woods.
-The queen named her son
-Painbringer
-and fled to a safe cottage in the woods.
-She and Painbringer were so good in the woods
-that her hands grew back.
-The ten fingers budding like asparagus,
-the palms as whole as pancakes,
-as soft and pink as face powder.
+Grandma doesn’t live in the world anymore, because she has to live in her room. Her health isn’t brilliant. And sometimes when she’s doing a story, I look at her hands, which I know are really old and kind of baggy but they’ve got paths that lead where you don’t know, like a map of mountains and rivers of countries you wish you could get to.
 
-The king returned to the castle
-and heard the news from his mother
-and then he set out for seven years in the woods
-never once eating a thing,
-or so he said,
-doing far better than Mahatma Ghandi.
+When you go to Grandma’s room, it’s like exploring with no fence at the end. She makes her room seem bigger than the world outside, which she wants to escape into, and I think it’s sad that there’s something back-to-front about it all. I want to escape to her room, and she wants to escape into the Department of Nothing.
 
-He was good and kind as I have already said
-So he found his beloved.
-She brought forth the silver hands.
-She brought froth Painbringer
-and he realized they were his,
-though both now unfortunately whole.
-Now the butchers will come to me,
-he thought, for I have lost my luck.
-It put an insidious fear in him
-like a tongue depressor held fast
-at the back of your throat.
-But he was good and kind
-so he made the best of it
-like a switch hitter.
+Grandma tries to persuade Mum to let her go out—to church or something. That’s what she talks about wanting to do, and she talks about it a lot. Grandma said she felt like Rapunzel, but who everyone’s forgotten about. She said, “My prince would get a bit of a nasty shock if he climbed the walls and saw me now, wouldn’t he?
 
-They returned to the castle and had a second wedding feast.
+I did get detention. When I got there <Mr.> McVittie had started a biology lesson. The thing is, at that exact same moment I was quite sure I saw a Devil Creature from Grandma’s story sitting at my desk. He was only there for a second and then he was gone and McVittie was saying, “look at me when I’m talking to you,” and then he said, “Don’t look at me like that.”
 
-He put a ring on her finger this time
-and they danced like dandies.
-All their lives they kept the silver hands,
-polished daily,
-a kind of purple heart,
-a talisman,
-A yellow star.
+Lynne Lassin saw it and asked me what it was, so I told her . . . and it meant telling a bit of the story . . . and you know what? She thought it was very cool indeed. And when it came lunchtime she wanted to hear the rest. I didn’t mind/
+
+I carried on the story and Deborah Willis and Zena Whitechurch came and listened as well.
+
+I wasn’t sure about telling Grandma about it all, because I thought maybe I should have asked her permission or something. But when I told her, she acted like she was about seven. She clapped her hands and kept asking what they’d said, and how she wished she could have seen their faces.
+
+I said, “Why don’t I bring you to school so you can see them?” And she said, “You don’t bring old ladies to school, Henry.” She said I would take her stories out of here and that was wonderful, because that way I’d be taking her out of her room every day. She did this big smile and said, “I’m your muse!”
+
+The next day I had about fifteen people listening to the story. It was brilliant, but I started to get so many questions that it got quite difficult to carry on, without being able to ask Grandma.
+
+Finally, I told them all about Grandma, and now everyone wants to meet her. So I decided to bust Grandma out of her room. That way she can see people’s faces at last when she tells a story and they can see she’s real and maybe see other things are real, too --- and the Department of Nothing might not be so nothing.
+
+Grandma did escape, but I didn’t bust her out. She bust herself out, by ambulance.
+
+The visit to the hospital was like a visit to the Nothing Department of the Department of Nothing…only more depressing --- like a place where everyone’s been in detention for about five hundred years; I was a bit scared. I didn’t know what it would be like trying to talk to her, but I really really wanted to know how the story ended. It was a bit creepy ‘cause she was in bed and only her bedside light was on and I thought she was asleep, but when I got close to her she opened her eyes quickly like a vampire. I said “Bugger” really loudly and it’s the only time I’ve ever said that in front of Grandma, and she didn’t tell me off. I said, “I came to sit with you for a while, Grandma.” And she said, “That’s another ring on your tree of shadows.” I didn’t know if it was a secret message, or what. Anyway it seemed very serious and it made me say what normally I would have been embarrassed to, which was, “I love you, Grandma.” And then she smiled this huge smile, which started out really nice but then it kept getting bigger until I could see all her dentures and then I realized she wasn’t smiling, she was poking out her teeth. She reached up and put them in the glass. This always means no more talking. The session is at an end. Anyway it didn’t look much like I was going to find out what happened.
+
+The next day all the people who had listened to the stories, because I couldn’t tell the rest, started saying there was no such thing as my grandma.
+
+That evening I fell asleep in Grandma’s room and I dreamt that I heard her dentures talking by themselves in the glass. They introduced themselves as “A fine set of molars, eight incisors, upper and lower, and four canines with a perfectly sound bite. How do you do.” And they had this really strong Scottish accent.
+
+I asked them if they could finish Grandma’s story and they said yes, but not yet. I said why not, and they said ‘cause we hadn’t got to the end. And I got angry with the teeth and threatened to pour their water out.
+
+I said, “Are you saying she’s definitely going to die?” And they said, “I don’t know, I’m a set of teeth!”
+
+I just knew when it happened. I was on the railway line going to school, and it was a bit rainy, and I suddenly got the smell of Grandma’s room in a gust of wind. I didn’t even think about it; I turned around and ran home.
+
+The house was locked, so I went up the drainpipe into Grandma’s room. Her eyes and her mouth were open and her skin was all stretched and her head was kind of back on the pillow. I stopped looking at her and ran out where the woods start. It was all slippery on the gravel from wet leaves and I kept falling over.
+
+I went home in the afternoon. My mum knew that I knew when she saw me. She hugged me and I cried again.
+
+During the funeral I kept trying to think up an ending for the story. Emma, maybe she goes off happily ever after with Blind Jack who’s not blind any more …’cause it’s a story. Actually, you know what? Jack could rescue her, ‘cause with being blind it wouldn’t make any difference, the castle being invisible! That’s not bad, is it? So maybe that’s the ending.
+
+So it’s back to the Department of Nothing but I had one or two tales to tell myself now, and maybe I should try them out. So that’s what I just did.
+
+And the session is now closed. (Turn the clock back to the audience)
 ```
 
 ---
 
-## IC-1625: Making Sarah Cry
+## IC-2008: Dinorella: A Prehistoric Fairy Tale
 
-- Title: Making Sarah Cry
-- Author (byline): Cheryl L. Costello-Forshey
-- Work: Chicken Soup for the Teen’s Soul II
-- Publisher: Health Communications, Inc
-- Publication date as stated: Oct 1998
-- Event as filed: Poetry
+- Title: Dinorella: A Prehistoric Fairy Tale
+- Author (byline): Pamela Duncan Edwards
+- Work: Not specified
+- Publisher: Scholastic, Inc.
+- Publication date as stated: Jan 1997
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, DORIS, DORA, DINORELLA, FAIRYDACTYL, DUKE, DEINONYCHUS, DINOSAUR, DINOSAUR DAME 1, DINOSAUR DAME 2, DORA/DORIS
+- Teaser before the introduction: No
+- Spoken words (computed): 504
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Pamela Duncan Edwards
+ISBN: 978-0590689489
+Publisher: Scholastic, Inc.
+Date (Month/Year): Jan 1997
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Ready for a new twist on the Cinderella fairy tale? A tale full of dinosaurs, mistaken identity and a battle? Well, wait no longer! It’s . . .
+
+Dinorella: A Prehistoric Fairy Tale by Pamela Duncan Edwards
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: Dora, Doris and Dinorella lived down in the sand dunes in a dinosaur den. Dora and Doris did nothing all day. They dumped debris around the den. They never did the dusting or the dishes. Dinorella was dainty and dependable. Dora and Doris were dreadful to Dinorella. All day they demanded . . .
+
+DORIS: Dinorella, dig the garden.
+
+DORA: Dinorella, fetch us drinks.
+
+DORIS: Dinorella, start the dinner.
+
+DORA: (sniggering) She’s a dingbat!
+
+DORIS: (giggling) She’s a dumbhead!
+
+NARRATOR: One day a card was delivered to the den:
+Dinosaur Dance
+Duke Dudley’s Den at dusk
+Hors d’oeuvers, Dandelion Cola
+Dancing until dawn
+
+Duke Dudley was the most dashing dinosaur in the dunes.
+
+DORA: (decorating herself with dinosaur jewels) I would die for a date with the duke.
+
+DORIS: (sighing as she dolls up for the dance) Definitely.
+
+DINORELLA: A dance. How divine!
+
+DORIS: You can’t go to the dance. You’re too dowdy.
+
+DORA: You’re too dull. And you don’t have decent dinosaur jewels. Of course you can’t go to the dance.
+
+NARRATOR: Poor Dinorella felt down in the dumps as she watched her stepsisters depart. Suddenly, Dinorella heard a droning noise.
+
+FAIRYDACTYL: Don’t be dismal. You shall go to the dance.
+
+DINORELLA: But I’m so drab, and I don’t have decent dinosaur jewels.
+
+FAIRYDACTYL: I’ll soon deal with that. (waves her wand and jewels magically appear) These will outdazzle all other dinosaur jewels.
+
+DINORELLA: Darling, Fairydactyl!
+
+NARRATOR: With her diamonds dangling, she set out for the dance. Dusk had fallen when Dinorella heard a deafening disturbance coming from the direction of Duke Dudley’s Den. A dastardly deed was taking place. A Deinonychus was dragging off the Duke.
+
+DUKE: I’m done for! He will devour me!
+
+DEINONYCHUS: Indeed, I will! (evil laugh) I’ll be digesting you by daybreak!
+
+NARRATOR: Dinorella was not a daring dinosaur, but something drastic had to be done.
+
+DINORELLA: I may become dessert, but I’m determined to drive away that dreaded carnivore. (climbing to the top of a dune and roared) You disgusting dummy, drop the Duke! (grabs some dirt and gets ready to attack)
+
+NARRATOR: Dinorella began to hurl dirt balls at the deinonychus. The dumbfounded deinonychus stopped in disbelief.
+
+DEINONYCHUS: Who called me a dummy?
+
+NARRATOR: The moon’s light caught Dinorella’s dangling diamonds. Dots and dabs of light darted toward the deinonychus.
+
+DEINONYCHUS: (blinded by the light) A devil! See its dreadful demon eyes?
+
+NARRATOR: Dinorella detached a diamond and directed it toward the deinonychus. The diamond hit the deinonychus hard in his dentures.
+
+DEINONYCHUS: (bellowing) The devil will destroy me with its deadly eyes!
+
+NARRATOR: He dumped Duke Dudley and departed double-quick. (Deinonychus runs away) The den was dense with dinosaurs dashing about in distress.
+
+DINOSAUR: A demon! We’re doomed!
+
+DUKE: Dimwits! Demons don’t throw diamonds. It was a damsel who defended me with her dazzling dinosaur jewel. When I discover her, I shall ask her to be my darling.
+
+NARRATOR: All the dinosaur dames were delirious.
+
+DINOSAUR DAME 1: The jewel is mine!
+
+DINOSAUR DAME 2: The jewel is mine!
+
+DORIS: Mine!
+
+DORA: (bellowing) No, definitely mine. I am the damsel you desire.
+
+DUKE: I doubt it. Your dinosaur jewels don’t match.
+
+NARRATOR: Just then, Fairydactyl arrived at the dance. She quickly saw the dilemma.
+
+FAIRYDACTYL: Where is Dinorella?
+
+DORA: (scoffing) Dinorella! That dopey domestic?
+
+DORIS: (laughing) Dinorella! She’s back at the den.
+
+NARRATOR: But Fairydactyl spied Dinorella dodging behind the dune.
+
+FAIRYDACTYL: Dinorella, come down!
+
+NARRATOR: So down came Dinorella, looking distracted.
+
+DUKE: She wears but one dazzling jewel! (Dinorella’s hands rush to her ears where there is only one dangling diamond left) Dinorella, you are adorable. You’re definitely quite a dish. I beg you to be my dearest.
+
+DINORELLA: Dreamy! (they dance off into the dawn)
+
+DORA/DORIS: Drat!
+```
+
+---
+
+## IC-2009: Doc Brackett
+
+- Title: Doc Brackett
+- Author (byline): Damon Runyon
+- Work: The World's Best Bathroom Book
+- Publisher: Honor Books
+- Publication date as stated: 2005
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: No
-- Spoken words (computed): 766
+- Spoken words (computed): 449
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Cheryl L. Costello-Forshey
-Book: Chicken Soup for the Teen’s Soul II
-ISBN: 1558746161
-Publisher: Health Communications, Inc
-Date (Month/Year): Oct 1998
+Author: Damon Runyon
+Book: The World's Best Bathroom Book
+ISBN: 978-1562927264
+Publisher: Honor Books
+Date (Month/Year): 2005
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-”Never criticize a man until you walk a mile in his moccasins” began as a Native American adage, but its truth stood the test of time. “Do unto others as you would have them do unto you” Even Aretha Franklin’s R-E-S-P-E-C-T demands that the moral message be heard. This message crosses religious barriers, cultural barriers and even bridges the gap between generations. It’s simple really . . . so simple even a child can understand why it’s wrong to enjoy Making Sarah Cry by Cheryl L. Costello-Forshey.
+Popular culture presents a variety of mythic frontier doctors, like Doc Baker from the 1970s television series Little House on the Prairie, galloping across the prairie to save young Billy or help Ma deliver a baby at the Nelson farm. In many ways, the myth was real. Most country doctors lived in town and traveled widely to visit sick patients on their homesteads.
+
+Doc Brackett speaks to the strong (almost religious) beliefs about the power of medicine in American culture. In a culture whose main values are narcissism and materialism, medicine appears to hold the "keys to the kingdom" once held by religion. On a more personal level, the story symbolizes the experience of being a healer at any time or place. The sick are needy, vulnerable, and sometimes demanding; the physician is only human, can only accomplish so much. Doc Brackett by Damon Runyon.
 ```
 
 ### Performance text (classify this)
 
 ```text
-He stood among his friends from school, He joined their childhood games Laughing as they played kickball And when they called poor Sarah names.
+.
 
-Sarah was unlike the rest; She was slow and not as smart, And it would seem to all his friends She was born without a heart
+Doc Brackett was a fine man. He doctored in our town for many years. He doctored more people than any other doctor in our town but made less money. That was because Doc Brackett was always doctoring poor people, who had no money to pay.
 
-And so he gladly joined their fun Of making Sarah cry.
+He would get up in the middle of the coldest night and ride twenty miles to doctor a sick woman or child or to patch up some fellow who got hurt. Everybody in our town knew Doc Brackett's office was over Rice's clothing store. It was up a narrow flight of stairs. His office was always filled with people. A sign at the foot of the stairs said: "DR. BRACKETT, OFFICE UPSTAIRS"
 
-But somewhere deep within his heart, He never knew just why
+Doc Brackett was a bachelor. He was once supposed to marry Miss Elvira Cromwell, the daughter of old Julius Cromwell, the banker. But, on the day the wedding was supposed to take place Doc Brackett got a call to go out into the country and doctor a Mexican child.
 
-For he could hear his mother's voice, Her lessons of right and wrong Playing over and over inside his head Just like a favorite song.
+Miss Elvira got sore at him and called off the wedding. She said that a man who would think more of a Mexican child than of his wedding was no good. Many women in our town agreed with Miss Elvira Cromwell, but the parents of the Mexican child were very grateful to Doc Brackett when the child recovered.
 
-"Treat others with respect, son, The way you'd want them treating you. And remember, when you hurt others, Someday, someone might hurt you."
+For forty years the lame and the halt and the blind of our town had climbed up and down the stairs to Doc Brackett's office. He never turned away anybody. He lived to be seventy years old and then one day he just keeled over on the sofa and died. By this time his black hair had turned white. Doc Brackett had one of the biggest funerals ever seen in our town. Everybody went to pay their last respects when he was laid out in Grubers undertaking parlor. He was buried in Riverview Cemetery.
 
-He knew his mother wouldn't understand The purpose of their game Of teasing Sarah, who made them laugh As her own tears fell like rain. The funny faces that she made And the way she'd stomp her feet
+There was talk of raising money to put a nice tombstone on Doc Brackett's grave as a memorial. The talk got as far as arguing about what should be carved on the stone about him. Some thought poetry would be very nice. Doc Brackett hated poetry. The matter dragged along and nothing whatever was done.
 
-Whenever they mocked the way she walked Or the stutter when she'd speak.
-
-To him she must deserve it Because she never tried to hide. And if she truly wanted to be left alone, Then she should stay inside.
-
-But every day she'd do the same:
-She'd come outside to play,
-And stand there, tears upon her face,
-Too upset to run away.
-
-The game would soon be over.
-As tears dropped from her eyes,
-For the purpose of their fun
-Was making Sarah cry.
-
-It was nearly two whole months
-He hadn't seen his friends.
-He was certain they all must wonder
-What happened and where he'd been
-
-So he felt a little nervous
-As he limped his way to class.
-He hoped no one would notice,
-He prayed no one would ask
-
-About that awful day: The day his bike met with a car, Leaving him with a dreadful limp And a jagged-looking scar.
-
-So he held his breath a little
-As he hobbled into the room,
-Where inside he saw a "Welcome Back" banner
-And lots of red balloons.
-
-He felt a smile cross his face As his friends all smiled, too And he couldn't wait to play outside- His favorite thing to do.
-
-So the second that he stepped outdoors And saw his friends all waiting there, He expected a few pats on the back- Instead, they all stood back and stared.
-
-He felt his face grow hotter As he limped to join their side To play a game of kickball And of making Sarah cry.
-
-An awkward smile crossed his face When he heard somebody laugh And heard the words, "Hey freak, Where'd you get that ugly mask?"
-
-He turned expecting Sarah, But Sarah could not be seen. It was the scar upon his own face That caused such words so mean.
-
-He joined in their growing laughter,
-Trying hard to not give in
-To the awful urge inside to cry
-Or the quivering of his chin.
-
-They are only teasing
-He made himself believe.
-They are still my friends;
-They'd never think of hurting me.
-
-But the cruel remarks continued
-About the scar and then his limp.
-And he knew if he shed a single tear
-They'd label him a wimp.
-
-And so the hurtful words went on, And in his heart he wondered why. But he knows without a doubt
-
-The game would never end, until they made him cry.
-
-And just when a tear had formed,
-He heard a voice speak out from behind.
-"Leave him alone you bullies,
-Because he's a friend of mine".
-
-He turned to see poor Sarah,
-Determination on her face,
-Sticking up for one of her own tormentors
-And willing to take his place.
-
-And when his friends did just that,
-Trying their best to make poor Sarah cry,
-This time he didn't join in,
-And at last understood exactly why.
-
-"Treat others with respect, son, The way you'd want them treating you. And remember, when you hurt others, Someday, someone might hurt you."
-
-It took a lot of courage
-But he knew he must be strong,
-For at last he saw the difference
-Between what's right and wrong.
-
-And Sarah didn't seem so weird.
-Through his understanding eyes.
-Now he knew he'd never play again
-The game of making Sarah cry.
-
-It took several days of teasing
-And razzing from his friends,
-But when they saw his strength,
-They chose to be like him.
-
-And now out on the playground, A group of kids meets every day For a game of kickball and laughter
-
-And teaching their new friend, Sarah, how to play.
+Then, one day George Gruber, the undertaker, said that Doc Brackett's memorial was already over his grave, with epitaph and all. George Gruber said the parents of the Mexican child that Doc Brackett had saved years ago had worried about him having no tombstone. They had no money themselves, so they took the sign from the foot of the stairs at Doc Brackett's office and stuck it over his grave. It read: "DR. BRACKETT, OFFICE UPSTAIRS."
 ```
 
 ---
 
-## IC-1626: The Man with the Broken Fingers
+## IC-2010: Don’t Blame it on Adam
 
-- Title: The Man with the Broken Fingers
-- Author (byline): Carl Sandburg
-- Work: Selected Poems
-- Publisher: Harvest Books
-- Publication date as stated: Aug 1996
-- Event as filed: Poetry
+- Title: Don’t Blame it on Adam
+- Author (byline): Anonymous Folktale
+- Work: 101 African-American Read-Aloud Stories
+- Publisher: Black Dog & Levanthal Publishers
+- Publication date as stated: Jan 1998
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: No
-- Spoken words (computed): 621
+- Spoken words (computed): 1032
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Carl Sandburg
-Book: Selected Poems
-ISBN: 978-0156003964
-Publisher: Harvest Books
-Date (Month/Year): Aug 1996
+Author: Kantor, Susan (ed)
+Book: 101 African-American Read-Aloud Stories
+ISBN: 1579120393
+Publisher: Black Dog & Levanthal Publishers
+Date (Month/Year): Jan 1998
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-"We are going to pick potatoes." That's what the family housekeeper told four-year-old Irene when she was whisked away to flee German-occupied Norway in 1942. Berman was one of 1,200 Norwegian Jews who escaped to Sweden, while the nearly 800 Jews who remained were deported and perished. What happened to the Jews of Norway is a largely unknown chapter in World War II history. However, Carl Sandburg’s poem “The Man with the Broken Fingers” published in The Chicago Times Syndicate newspapers August 23,1942brought to light a story of one incident in which a Norwegian nationalist defied the Gestapo. The Man with the Broken Fingers by Carl Sandburg.
+God created Adam and Eve and placed them in a garden of numerous fruit trees from which they could eat anything, except the fruit from one tree. Although Adam and Eve had no concept of good and evil, they obviously did know about disobedience, since Eve told the serpent, "From the fruit of the trees of the garden we may eat; but from the fruit of the tree which is in the middle of the garden, God has said, 'You shall not eat from it or touch it, or you will die.'" From her statement, it is clear that Eve knew that she shouldn't eat the fruit. However, she chose to disregard the instruction and did eat of the forbidden fruit. When confronted, she did not admit fault but blamed the serpent for it. It is enough of a mistake to disobey God, but to compound it by not admitting that she was at fault was sheer folly. Adam too chose to eat of the forbidden fruit, and did the same as Eve. Instead of admitting his fault, he blamed Eve.
+
+Today the issues of responsibility for one-s own actions is still of great concern to our society. It seems that individuals have the innate propensity to blame their misfortunes, not on their own choice, but on everything and everyone else. In this African folk-tale, a working man named Moses finally learns his lesson: Don’t Blame it on Adam.
 ```
 
 ### Performance text (classify this)
 
 ```text
-The Man with the Broken Fingers throws a shadow. Down from the spruce and evergreen mountain timbers of Norway- And across Europe and the Mediterranean to the oasis palms of Libya- He lives and speaks a sign language of lost fingers. From a son of Norway who slipped the Gestapo nets, the Nazi patrols, The story comes as told among those now in Norway. Shrines in their hearts they have for this nameless man Who refused to remember names names names the Gestapo wanted. "Tell us these names. Who are they? Talk! We want those names!" And the man faced them, looked them in the eye, and hours passed and no names came-hours on hours and no names for the Gestapo. They told him they would break him as they had broken others. The rubber hose slammed around face and neck, The truncheon handing pain with no telltale marks, Or the distinction of the firing squad and death in a split second The Gestapo considered these and decided for him something else again. "Tell us those names. Who were they? Talk! Names now-or else!" And no names came-over and over and no names.
+There once was a freed slave named Moses who lived at the edge of the woods in a small hut.
 
-So they broke the little finger of the left hand. Three fingers came next and the left thumb bent till it broke. Still no names and there was a day and night for rest and thinking it over. Then again the demand for names and he gave them the same silence. And the little finger of the right hand felt itself twisted, Back and back twisted till it hung loose from a bleeding socket. Then three more fingers crashed and splintered one by one And the right thumb back and back into shattered bone. Did he think about violins or accordions he would never touch again? Did he think of baby or woman hair he would never again play with? Or of hammers or pencils no good to him any more? Or of gloves and mittens that would always be misfits? He may have laughed half a moment over a Gestapo job So now for a while he would handle neither knife nor fork Nor lift to his lips any drinking-cup handle Nor sign his name with a pen between thumb and fingers. And all this was halfway-there was more to come. The Gestapo wit and craft had an aim. They wanted it known in Norway the Gestapo can be terrible. They wanted a wide whispering of fear of how the Nazis handle those who won't talk or tell names. "We give you one more chance to co-operate." Yet he had no names for them. His locked tongue, his Norwegian will pitted against Nazi will, His pride and faith in a free man's way, His welcoming death rather than do what they wanted They brought against this their last act of fury, Breaking the left arm at the elbow, Breaking it again at the shoulder socket- And when he came to in a flicker of opening eyes They broke the right arm first at the elbow, then the shoulder. By now of course he had lost all memory of names, even his own. And there are those like you and me and many many others Who can never forget the Man with the Broken Fingers. His will, his pride as a free man, shall go on. His shadow moves and his sacred fingers speak. He tells men there are a thousand writhing shattering deaths Better to die one by one than to say yes yes yes When the answer is no no no and death is welcome and death comes soon And death is a quiet step into a sweet clean midnight.
+Every morning Moses arose early and went deep into the forest to chop wood. Then he bundled the wood up and carried it to town to sell. Moses wouldn’t have enough money to buy breakfast until he sold some wood.
+
+So every morning a hungry Moses walked up and down the streets calling, “Wood, wood. Who will buy some of my wood? It’s all the fault of Adam. Good wood for sale.”
+
+One day as Moses was selling his wood. a rich man heard what he was saying. “Who is this person,” he asked, “and why does he say that it’s all the fault of Adam?” Because he wanted to know the answers to these questions, the rich man went up to Moses and asked him what he meant.
+
+This is what Moses said: “I have heard that long ago Adam disobeyed God and ate the forbidden fruit. If he had not, we would all now be living in the Garden of Eden and I would never go hungry. That is why I say it is the fault of Adam.”
+
+“I see,” said the rich man. “You work hard, yet you go hungry. It does not seem fair that you are suffering because of Adam’s mistake. I will help you.”
+
+The rich man brought Moses to his house. Moses took a long, hot bath, after which the rich man gave him new clothes. Then the rich man took Moses down the hall and showed him a room in which he could stay.
+
+The rich man said to Moses, “From now on you can call me brother. We will share everything. You can do anything you like except for one thing – you may not open the green door at the end of the hall. This is the one and only thing you may never do. Do you understand?”
+
+Moses thanked the man and said, “What reason would I ever have to open the green door? I have food, clothes and shelter; I now have a brother who cares for me. What more could I want?”
+
+And so Moses began a life of comfort. He never had to get up early or work hard. He had so much to eat that he was starting to get fat.
+
+Moses had forgotten all about the green door until one day he happened to pass by it, and as he did, he remembered that it was the door he was never to open. However, he couldn’t help but wonder why he, the rich man’s brother, was not allowed to find out what was in the room behind the door. Moses sighed and walked on.
+
+During the next few days, Moses seemed to be drawn to the green door. Several times a day he found himself outside the door, and each time he became more and more curious as to what was behind it. Sometimes, without realizing it, his hand actually moved toward the handle but he managed to stop himself each time.
+
+One day the rich man said, “Brother, I have been called away to another town, and I will not be back until late today. I am entrusting my home to you. Please take care that nothing happens.”
+
+After the rich man left Moses started thinking: “I am responsible for the house so surely I am responsible for the room behind the green door as well. I am going to find out what is hidden there.”
+
+After checking that no one was looking, Moses put his ear against the door. He could not hear anything.
+
+“I must know what is in there,” he said to himself. “ I will just open the door a crack and close it again. My brother will never know.” And so Moses opened the door a tiny bit. The room was dark, but after a while Moses could see that all that was in there were the old rags he used to wear and the wood he used to sell. Just then a mouse ran out the door.
+
+“Oh no,” Moses cried. “My brother was hiding a mouse in the room and now it has escaped. I must catch it.” As Moses ran after the mouse, his shoes fell off. He tripped over the bottom of his long fancy pants and had to take them off. Still, he could not catch the mouse, and now he was very tired and out of breath.
+
+Suddenly the rich man appeared. He had returned early. “What are you doing, Moses?” boomed the rich man. “Why are you running around my house naked?”
+
+Moses threw himself at the rich man’s feet. “I’m sorry,” he sobbed. “I did not mean to let your mouse go.”
+
+“What mouse?” asked the rich man. “I have no mouse.”
+
+“The mouse in the room. When I opened the green door...”
+
+“You opened the green door?”
+
+“I did not mean to. It was wrong, but my feet kept taking me there, and I was curious, and I was...”
+
+“Moses, I am very disappointed in you. Opening the green door was the one thing I told you not to do. You are as bad as Adam. You should have learned from Adam’s mistake.”
+
+“I am sorry, my brother. It will never happen again. I promise. What do you wish me to do?”
+
+The rich man’s anger had disappeared. Now he had tears in his eyes. “Go back to the room,” he said sadly, “ and take your rags and sticks. Return to the market and sell your wood.”
+
+“Yes, sir” was all Moses could say. He returned to the market. Once again he shouted, “Good wood for sale. Who wants to buy good wood?”
+
+Later Moses realized that no one else can make you happy or sad – that it is up to every person to determine his or her fate. Moses worked hard, and when things went well, he looked at what he had done to make good things happen. So, too, when things went badly, he looked at what he could change and what he could not. But he never mentioned Adam again.
 ```
 
 ---
 
-## IC-1627: March 25, 1911 (From Fragments from the Fire)
+## IC-2011: Don’t Fall in Love with Your Monkey
 
-- Title: March 25, 1911 (From Fragments from the Fire)
-- Author (byline): Chris Llewellyn
-- Work: Fragments from the Fire, Pg 4-9
-- Publisher: Puffin
-- Publication date as stated: March 1987
-- Event as filed: Poetry
+- Title: Don’t Fall in Love with Your Monkey
+- Author (byline): Ari Handel
+- Work: The Moth: 50 True Stories; Pgs 67-74
+- Publisher: Hyperion
+- Publication date as stated: Sept 2013
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: ARI
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1466
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Ari Handel
+Book: The Moth: 50 True Stories; Pgs 67-74
+ISBN: 978-1401311117
+Publisher: Hyperion
+Date (Month/Year): Sept 2013
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+The U.S. uses about 70,000 monkeys per year in studies of the brain. But controversy over animal research goes back a long way: In one corner, the world of biomedical research insists animals are crucial in developing new treatments and that their pain is properly overseen and mitigated. In the other, animal rights activists say lab animals suffer and die needlessly, and that humans have no moral or ethical right to use other species in this way.
+
+Did you know that the United Nations considers more than 15 days of solitary confinement in humans to be torture? But research monkeys often get a lifetime of solitary confinement in a 2.5 square foot cage. To cope, some monkeys pace in circles. Others rock or bounce for hours. A few self-stimulate by sticking their fingers into their eyes. Except for the monkeys in one Harvard University study where researchers have sewed baby macaques’ eyelids shut to investigate how visual deprivation affects brain development.
+
+In Don’t Fall in Love with Your Monkey by Ari Handel,
+```
+
+### Performance text (classify this)
+
+```text
+ARI: (Pg 67-74) Santiago is a wild animal. He does not want to be taken out of his cage. He keeps trying to hit my hand when I reach for him. He's big, and he's fast, and he's nimble. And I'm slow, in bulky clothing, and I'm starting to get hot. The monkeys in the room can sense that there's a conflict going on. They're starting to hoot and holler and screech.
+
+Finally, I get one hand around Santiago's bicep, and [he] does exactly what you would do if some blue ogre reached into your house and grabbed you by the arm. He bites me as hard as he possibly can right here in the soft part of my hand. And it hurts. It really hurts. Every nerve in my hand is screaming, Drop the monkey. Instead, I reach my other hand in, grab his other bicep, and pull his arms behind his back. I stick him into his monkey chair and bring him down to the lab.
+
+one researcher witnesses firsthand the psychological trauma of his research monkey, Santiago; and how easy it is to break the spirit of an animal in the name of research.
+
+ARI: Down in the lab, Santiago is now the one who is frightened. He is quaking, he is shivering in his chair. So, I take a bottle, and I fill it with juice -- Hawaiian punch. I can see his little mouth around the edge of the bottle, the juice is dripping down his chin, and he is so cute. I see this look in his eyes, and it is joy.
+
+When neurobiologists want to study the human mind, they look at the brains of monkeys. And I wanted to ask complex questions about mental functioning, and that meant that Santiago had to learn to play a video game. So I put him in a room facing a giant screen with a tube connected to his mouth that contained juice. I would go into the next room, where I had could control all these lights that would flash on that screen. Santiago's job was to look at the lights in the right order and with the right timing. If he did it right, he would get juice.
+
+Now, this was not a very complicated game, but it was hard to teach Santiago how to play. I could not just tell him how. We had to invent our own language. I would watch Santiago's eye movements. If they were drifting slowly, that meant he was very frustrated, but if they were shimmering very fast, that meant he was excited. So I would watch his eyes and adjust the difficulty of the task accordingly, to cajole him forward or to calm him down. Slowly and surely, we learned together.
+
+And when we did, Santiago got very, very happy. He was like a gambler who had just cracked the code of the blackjack tables, because now he could get juice, juice, juice, as much as he wanted, and he would sit in that room, and play that game all day long. And he would drink tremendous volumes of juice; and that made me happy too, because I could lower a probe into Santiago's brain.
+
+I would listen to the activity of individual neurons while he performed this task. And what I found was that there were neurons in Santiago's brain that would become activated every time he made an eye movement. But the thing that was cool, so cool, so cool it was mind-blowing, was that these neurons did not get activated just when he made a movement; they got activated as soon as I gave him enough information that he could choose which eye movement to make. Listening to these neurons, I could predict in advance what he was going to do before he did it. I was eavesdropping on him while he was making a decision. I was reading my monkey's mind.
+
+Santiago would get juice, and I would get data out of his brain, and we would do this for days and days and days. And then something happened. I went upstairs to get Santiago, and he tried to bite me. And when I brought him downstairs to the game room, he would not work, he just banged and banged and aborted every trial. Bang, bang, bang!
+
+I couldn't figure it out at first, and then it slowly dawned on me that Santiago must have figured out sometime during the night that I was not bringing him down to that room so that he could play games, so that he could have fun. I was bringing him down there for my benefit and he didn't want to do it anymore. I had a monkey who was on strike.
+
+So . . . I turned off the water in Santiago's cage. He's only going to get enough water, but anything extra, he's going to have to earn. Every night I would give Santiago his little supplement of water, and he would drink it right down and then he would have nothing. I [was] filled with guilt over what I was doing to him. But when I put him in that booth and he still wouldn't work, that guilt turned to anger. Whose fault was it really that Santiago was not drinking? Whose fault was it that I felt guilty every day? It was Santiago's fault. He was sitting with the juice tube in his mouth, there was a game he knew how to play, and he wasn't playing. And I would get so angry with him sometimes, I would pull on his little monkey ear and he would go "EEEH." And then the anger would turn back to guilt.
+
+This went on day after day after day after day. And I got so frustrated that eventually, I walked into the room and said, "I know you're thirsty. I'll show you how thirsty you are." I poured myself a huge glass of Hawaiian punch. I made eye contact with Santiago. And I drank that juice down, taunting him. And he just looked at me.
+
+I was engaged in a battle of will with an animal whose brain was the size of my fist, and I was losing. I was supposed to be training him, and he was training me to get guilty, get angry, cross the line, get guilty again. No more. I was going to be hard. I was going to be serious.
+
+When it was treat time, I went up to the room, and every monkey got treats: cucumbers and apples and grapes. But not Santiago. For Santiago, it was cashews and peanuts and crackers. Eventually there came a day, after months and months of suffering, I walked up to the monkey cage and Santiago just did this [extends one arm]. And when I took his hand in my hand, Santiago did this [places his other arm behind his back]. And I grabbed him, and I brought him downstairs to work. And he started to play the game. But he didn't play with the exceptional enthusiasm he had played it with before. He wasn't like, Wow, this is the greatest thing. He played the game like a factory worker on an assembly line whish, whish, whish.
+
+That should have been a good day for me. I was getting back to the science now. I would get my data, Santiago would get his juice. The suffering for us was over. But it wasn't a good day, because I had gotten to know Santiago. And now that Santiago wasn't there. I was sitting with just another monkey with a broken will. And I was the one who had broken it. The mystique of being a scientist -- of finding out all this stuff about the mind -- just didn't seem so magical anymore.
+
+There were other monkeys. I didn't need to be told not to fall in love with them. Instinctively, I held myself aloof from them, and because of that, I had no mercy on them. And when they went on strike, when they got upset and it was time to break them, I broke them like that [snaps fingers]. But I also didn't go up to the monkey room anymore. I didn't want to see those monkeys while they were still a little bit wild. I didn't want to be reminded of what I was going to do to that part of them.
+
+It took me eight years, but I got all the data I needed, piece by piece by piece. And I got my Ph.D. And then I quit. My thesis is 364 pages long and s filled with facts and data and graphs and theories. But the most significant page for me is the first one, which says simply: "Dedicated to the memory of Santiago."
+```
+
+---
+
+## IC-2012: “Edmond Kirsch’s Presentation” from Origin
+
+- Title: “Edmond Kirsch’s Presentation” from Origin
+- Author (byline): Dan Brown
+- Work: Origin
+- Publisher: Anchor
+- Publication date as stated: July 2018 (Reprint edition)
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: Yes
-- Spoken words (computed): 951
+- Spoken words (computed): 1228
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Chris Llewellyn
-Book: Fragments from the Fire, Pg 4-9
-ISBN: 978-0140585865
-Publisher: Puffin
-Date (Month/Year): March 1987
+Author: Dan Brown
+Book: Origin
+ISBN: 978-0525563709
+Publisher: Anchor
+Date (Month/Year): July 2018 (Reprint edition)
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-The Triangle Shirtwaist Factory Fire -- the deadliest workplace accident in New York City's history. An event that highlighted the disgusting nature of the “sweatshop” in America –sweatshops where children as young as 13 were paid a mere $15 a week and who were forced to work 12 hours a day, every day.
-
-On March 25th, 1911, the blaze ripped through the congested 8th, 9th and 10th floors of the building as petrified workers -- mostly teen-age immigrant girls who spoke little English -- desperately tried to make their way downstairs. By the time the fire burned itself out, 146 people were dead. Forty-nine workers had burned to death or been suffocated by smoke, 36 were dead in the elevator shaft and 58 died from jumping to the sidewalks.
-
-This poem takes us back to that fateful day. It was spring, it was Saturday, it was payday and it was close to closing time on March 25, 1911 . . . . by Chris Llewellyn
+“Edmond Kirsch’s Presentation on The Origin of Life” from Origin by Dan Brown
 ```
 
 ### Performance text (classify this)
 
 ```text
-(Pg 4-9) It was Spring. It was Saturday. Payday. For some it was Sabbath. Soon it will be Easter. It was approaching April, nearing Passover. It was close to closing time.
+(Pg 78-84) [Today] let us be like the early explorers -- those who left everything behind and set out across vast oceans . . . those who first glimpsed a land that had never before been seen . . . those who fell to their knees in awestruck realization that the world was far greater than their philosophies had dared imagine. Their long-held beliefs about their world disintegrated in the face of new discovery. This will be our mind-set.
 
-The heads of trees budding
-in Washington Square Park.
-The sun a hot flywheel spinning
-the earth’s axle. The days long
-enough for leaving in light.
+Early humans had a relationship of wonder with their universe, especially with those phenomena they could not rationally understand. To solve these mysteries, they created a vast pantheon of gods and goddesses to explain anything that was beyond their understanding—thunder, tides, earthquakes, volcanoes, infertility, plagues, even love.
 
-It was Spring.
+For the early Greeks, the ebb and flow of the ocean was attributed to the shifting moods of Poseidon. Infertility was caused by falling out of favor with the goddess Juno. Love was the result of being targeted by Eros. Epidemics were explained as a punishment sent by Apollo. When the ancients experienced gaps in their understanding of the world around them, they filled those gaps with God.
 
-America’s sweethearts – the ladies -- stroll in shirtwaists of lawn and lace, Mimic Charles Dana Gibson’s Girls. They pose in finery cut from bolts of flimsy and stitched by garment girls on Gibbs, Wilcox, and Singer machines.
+Countless gods filled countless gaps. And yet, over the centuries, scientific knowledge increased. As the gaps in our understanding of the natural world gradually disappeared, our pantheon of gods began to shrink. For example, when we learned that the tides were caused by lunar cycles, Poseidon was no longer necessary, and we banished him as a foolish myth of an unenlightened time.
 
-It was Saturday.
+We are an intellectually evolved and technologically skilled people. We do not believe in giant blacksmiths working under volcanoes or in gods that control the tides or seasons. We are nothing like our ancient ancestors. Or are we?
 
-Up in the Ash Building in the Triangle Shirtwaist Company Rosie Glantz is singing “Every Little Movement Has a Meaning of Its Own.” * Fixing hair, arranging puffs and trendils, the other girls in the cloakroom join in: (Sing) “Let me call you Sweetheart, I’m in love with you.” **
+We consider ourselves modern rational individuals, and yet our species’ most widespread religion includes a whole host of magical claims—humans inexplicably rising from the dead, miraculous virgin births, vengeful gods that send plagues and floods, mystical promises of an afterlife in cloud swept heavens or fiery hells.
 
-It was Payday.
+So just for a moment, let us imagine the reaction of humankind’s future historians and anthropologists. With the benefit of perspective, will they look back on our religious beliefs and categorize them as the mythologies of an unenlightened time? Will they look at our gods as we look at Zeus? Will they collect our sacred scriptures and banish them to that dusty bookshelf of history?
 
-Attar-of-roses, lily of the valley,
-still they smell of machine oil
-that soaks the motors and floors.
-The barrel in each stairwell
-could fill a thousand lamps.
+Yes, I believe all of that will happen. I believe future generations will ask themselves how a technologically advanced species like ours could possibly believe most of what our modern religions teach us. Future generations will look at our current traditions and conclude that we lived during an unenlightened time. As evidence, they will point to our beliefs that we were divinely created in a magical garden, or that our omnipotent Creator demands that women cover their heads, or that we risk burning our own bodies to honor our gods.
 
-For some it was Sabbath.
+How can it be that the modern human mind is capable of precise logical analysis, and yet simultaneously permits us to accept religious beliefs that should crumble beneath even the slightest rational scrutiny? As it turns out the answer is quite simple.
 
-Here at Triangle, Sophie Salemi
-and Della Costello sew on Singers.
-Neighbors from Cherry Street,
-they piecework facing each other,
-the oil pan hitting their knees.
-Tomorrow sisters will nail flowers
-on tenement doors.
+The human brain. Why does it believe what it believes? If we could look into the human mind and read its operating system, we would find something like this.
 
-Soon it will be Easter.
+DESPISE CHAOS.
 
-The machine heads connected by belts
-to the flywheel to rotating axle
-sing the Tarantella. Faster,
-Faster vibrate the needles, humming
-faster the fashionable dance.
+CREATE ORDER.
 
-It was approaching April.
+For the human brain any answer is better than no answer. We feel enormous discomfort when faced with ‘insufficient data,’ and so our brains invent the data— offering us, at the very least, the illusion of order— creating myriad philosophies, mythologies, and religions to reassure us that there is indeed an order and structure to the unseen world.
 
-Della and Sophie up on Ninth
-piece sleeves, race the needle’s pace
-no knowing on Eighth, paper patterns
-burn from the wire, fall on machines,
-Spark moths and pinwheels round the room.
-Rockets push up cutting-tables.
+Where do we come from? Where are we going? Tragically, on account of religious dogma, millions of people believe they already know the answers to these big questions. And because not every religion offers the same answers, entire cultures end up warring over whose answers are correct, and which version of God’s story is the One True Story.
 
-It was nearing Passover.
+Since the beginning of religious history, our species has been caught in a never-ending cross fire— atheists, Christians, Muslims, Jews, Hindus, the faithful of all religions—and the only thing that unites us all is our deep longing for peace. But faith, by its very definition, requires placing your trust in something that is unseeable and indefinable, accepting as fact something for which there exists no empirical evidence. And so, understandably, we all end up placing our faith in different things because there is no universal truth.
 
-On Eighth, cutters throw pails of water
-on the lawn of lame, and Louis,
-Holding the canvas hose, hollers:
-“No pressure! Nothing coming!”
+Science is the antithesis of faith. Science, by definition, is the attempt to find physical proof for that which is unknown or not yet defined, and to reject superstition and misperception in favor of observable facts. When science offers an answer, that answer is universal. Humans do not go to war over it; they rally around it.
 
-It was close to closing time.
+(Pg 93) Consider this! It took early humans over a million years to progress from discovering fire to inventing the wheel. Then it took only a few thousand years to invent the printing press. Then it took only a couple hundred years to build a telescope. In the centuries that followed, in ever-shortening spans, we bounded from the steam engine, to gas-powered automobiles, to the Space Shuttle! And then, it took only two decades for us to start modifying our own DNA!
 
-Down on Green Street, Old Dominick
-Pushes his wheelbarrow, describes
-“a big puff” when windows popped,
-glittering showers of glass.
+(Pg 372-375) - New species of technology are being born daily, evolving at a blinding rate, and each new technology becomes a tool to create other new technologies. The invention of the computer has helped us build astonishing new tools, from smartphones to spaceships to robotic surgeons. We are witnessing a burst of innovation that is happening faster than our minds can comprehend. We are now starting to embed computer chips directly into our brains, inject our blood with tiny cholesterol-eating nanobots that live in us forever, build synthetic limbs that are controlled by our minds, use genetic editing tools like CRISPR to modify our genome, and, quite literally, engineer an enhanced version of ourselves.
 
-It was Spring.
+Human beings are evolving into something different. We are becoming a hybrid species—a fusion of biology and technology. The same tools that today live outside our bodies—smartphones, hearing aids, reading glasses, most pharmaceuticals—in fifty years will be incorporated into our bodies to such an extent that we will no longer be able to consider ourselves Homo sapiens.
 
-Flaming swords, Pluto piles to Ninth.
-Sophie and Della and dozens of others
-jump on machine tables; the aisles jammed
-with wicker workbaskets and chairs.
+We are now perched on a strange cusp of history -- a time when the world feels like it’s been turned upside down, and nothing is quite as we imagined. But uncertainty is always a precursor to sweeping change; transformation is always preceded by upheaval and fear. I urge you to place your faith in the human capacity for creativity and love, because these two forces, when combined, possess the power to illuminate any darkness.
 
-It was Saturday.
+As we move into an undefined tomorrow, we will transform ourselves into something greater than we can yet imagine, with powers beyond our wildest dreams. And as we do, may we never forget the wisdom of Churchill, who warned us: ‘The price of greatness … is responsibility.’
 
-Mrs. Yaller testified: “Some froze at
-machines. Others were packed in the cloakroom
-filled with smoke. I heard them yelling
-in Yiddish or Italian, crying out
-the names of their children.”
-
-It was Payday.
-
-Reporter Bill Shepherd is writing:
-“I remember the great strike of last year,
-these same girls demanding decent
-working conditions.”
-
-For some it was Sabbath.
-
-Rosie runs to the stairway. The door, Locked! The telephone, Dead! Piling red Ribbons, fire backs girls into windows. They stand on sills, see the room a smashed altar lamp, hear the Screaming novenas of flame.
-
-Soon it will be Easter.
-
-Pleats of purple and gold wave, incandescent filaments of lace snow in shrapnel of needles and screws. The blaze from molten bolts stains glass, walls and lawns – on Cherry Street sisters nail flowers on tenement doors.
-
-It was approaching April.
-
-“I could see them falling,” Said Lena Goldman. “I was sweeping out front of my café. At first we thought it was bolts of cloth – till they opened with legs! I still see the day it rained children. Yes.
-
-It was nearly Passover”
-
-Sophie and Della stand on windowsill,
-look out on the crazy quilt of town:
-We will leave for our
-block on Cherry Street,
-Leave these skeletons
-leaning on machines,
-the faces fixed on black
-crucifix of cloakroom window.
-
-It was close to closing time.
-
-The Times quotes Mr. Porter: “The Triangle never had a fire drill – only three factories in the city have. One man I pleaded with replied, ‘Let em burn. They’re A lot of cattle anyhow.’”
-
-It was Spring.
-
-Sophie and Della stand on sill:
-We will leave, our arms
-around each other, our only
-sweethearts. Piling red roses
-two white hearses pull up
-Cherry Street and the Children
-of Mary Society march
-in banners of Prayers.
-
-It was Saturday.
-
-Captain Henry was the first policeman to arrive: “I saw dozens of girls hanging from sills. Others, dresses on fire, leapt from the ledges.”
-
-It was Payday.
-
-Sophie and Della look on crazy quilt of town:
-Fifty of our schoolmates
-sing in procession:
-O Trinity of Blessed Light
-Our Lady of Perpetual Help
-Ave Maria, Ave Maria
-Now and at the Hour
-of the Tarantella.
-
-For some it was Sabbath.
-
-Ordering the nets and ladders, Battalion Chief Worth explains, “I didn’t know they would come down three and even four together. Why these little ones went through life-nets, pavement and all.”
-
-Soon it will be Easter.
-
-Sophie and Della stand on windowsill:
-Look, the flywheel sun sinks
-in the west. In the Winter
-Garden, Mr. Jolson springs
-and bows in blackface.
-
-It was approaching April.
-
-At the Metropolitan Opera
-George M. Cohan struts “The Rose
-of Tralee” to the rich trailing
-in diamond-sackcloth, rending
-green ashes of dollar bills.
-
-It was nearing Passover. ‘
-
-Sophie and Della stand on sill,
-look down crazy quilt of town:
-Intertwined comets we will stream
-the nightmares of Triangle Bosses
-Joseph Asch
-Max Blanck
-Isaac Harris.
-
-It was close to closing time.
-
-Our Bosses of the Locked
-Doors of Sweetheart Contracts
-who in puffs and tendrils
-of silent telephones,
-Disconnected hoses, barred
-shutters, fire escapes
-dangling in perpetual no
-help on earth in heaven.
-
-It was Spring.
-
-The Lord is my shepherd
-green pastures still
-waters anointest heads
-With oil overflowing
-prepares a table – now
-our arms around each other
-we thread the needles
-where no rich man can go spinning
-the earth’s axle we are
-leaving in light.
+May our philosophies keep pace with our technologies. May our compassion keep pace with our powers. And may love, not fear, be the engine of change.
 ```
 
 ---
 
-## IC-1628: The Medical Profession – A Collection
+## IC-2013: Elevator ER
 
-- Title: The Medical Profession – A Collection
-- Author (byline): Anne Sexton, David Schiedermayer and John Stone
-- Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 912
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Anne Sexton
-Book: Poetry in Medicine: An Anthology of Poems
-About Doctors, Patients, Illness and Healing
-ISBN: 978-0892554492
-Publisher: Persea
-Date (Month/Year): March 16, 2015
-Author: John Stone
-Book: Music from Apartment 8: New and Selected
-Poems
-ISBN: 978-0807129548
-Publisher: LSU Press
-Date (Month/Year): 2004
-Author: David Schiedermayer
-Book: House Calls, Rounds, and Healings: A Poetry
-Casebook
-ISBN: 978-1883620172
-Publisher: Galen Press Ltd
-Date (Month/Year): October 1, 1996
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-When you were a child, what did you want to be when you grew up? An astronaut. A professional athlete . . . a doctor? Many children change their answer as they grow older. But for some, medicine will always be their calling. There’s a sense of pride in helping others – providing care in the direst of times. The poem, Gaudeamus Igitur by John Stone was presented to the graduates of Emory University School of Medicine in 1982.
-```
-
-### Performance text (classify this)
-
-```text
-From “Doctors”
-
-They work with herbs
-and penicillin
-They work with gentleness
-and the scalpel.
-They dig out the cancer,
-close an incision
-and say a prayer
-to the poverty of the skin.
-They are not Gods
-though they would like to be;
-they are only a human
-trying to fix up a human.
-
-From “Gaudeamus Igitur” *
-
-* Therefore, let us rejoice For this is the day of joy
-
-For this is the day you know too little
-
-against the day when you will know too much For you will be invincible
-
-and vulnerable in the same breath
-
-which is the breath of your patients For their breath is our breathing and our reason For the patient will know the answer
-
-and you will ask him
-
-ask her For the family may know the answer For there may be no answer
-
-and you will know too little again
-
-or there will be an answer and you will know too much
-
-forever For you will look smart and feel ignorant
-
-and the patient will not know which day it is for you
-
-and you will pretend to be smart out of ignorance For you must fear ignorance more than cyanosis For you will cry and there will be no one to talk to
-
-or no one but yourself
-For you will be lonely
-For you will be alone
-For there is a difference
-For the days will run together in gallops and the years
-
-go by as fast as the speed of thought
-
-which is faster than the speed of light
-
-or Superman
-
-or Superwoman
-For you will not be Superman
-For you will not be Superwoman
-For this is the end of examinations
-For this is the beginning of testing
-For Death will give the final examination
-
-and everyone will pass For the best hospital is a house of joy
-
-even with rooms of pain and loss
-
-exits of misunderstanding
-For there is the mortar of faith
-For it helps to believe
-For disease will peer up over the hedge
-
-of health, with only its eyes showing For you can be trained to listen only for the oboe
-
-out of the whole orchestra For you may need to strain to hear the voice of the patient
-
-in the thin reed of his crying For you will learn to see most acutely out of
-
-the corner of your eye
-
-to hear best with your inner ear For there are late signs and early signs For the patient's story will come to you
-
-like hunger, like thirst For you will know the answer
-
-like second nature, like first For the patient will live
-
-and you will try to understand For you will be amazed
-
-or the patient will not live
-
-and you will try to understand
-For you will be baffled
-For you will try to explain both, either, to the family
-For love is what death would always intend if it had the
-choice
-For there will be days of joy
-For there will be elevators of elation
-
-and you will walk triumphantly
-
-in purest joy
-
-along the halls of the hospital
-
-and say Yes to all the dark corners
-
-where no one is listening For the heart will lead For the head will explain
-
-but the final common pathway is the heart
-
-whatever kingdom may come
-For what matters finally is how the human spirit is
-spent
-For this is the day of joy
-For this is the morning to rejoice
-For this is the beginning
-
-Therefore, let us rejoice
-
-Gaudeamus igitur.
-
-TRANSITION But let’s bring the practice of medicine to a more personal level. One doctor, one patient – a fight for a life. Fighting Bare-Handed by David Schiedermayer
-
-Fighting Bare-Handed
-
-Last night, Saturday night
-I fought death bare-handed
-in and over the body
-of a 61 year-old man
-with liver and kidney failure
-which started and worsened
-after his back surgery.
-I had a bad feeling at about 6 pm,
-looking at his 4 pm labs,
-so I went to his room and found him
-barely breathing. Breathing once
-or maybe twice a minute.
-So I sat by his bed
-and I begged him to breathe
-I pinched his toes when he stopped.
-
-Once, when he had stopped for a minute,
-and I am not proud of this,
-but it is just true,
-I rubbed my bare knuckles right across
-the staples on his abdomen
-(they had operated his back from both
-the back and the front to fix the bones)
-and he woke up with a start
-and a grimace
-and said, "what do you want me to do?"
-And knowing how death was possessing him,
-I said "Breathe!" to him, not to death,
-and he took a big breath before he
-fell back to sleep.
-And so I kept him alive until we could
-move him down to the ICU, waited with him
-for an hour in that quiet room at the very end
-of the orthopedics unit, just me and him and death,
-me pinching him every minute
-death quietly creeping in and through
-I pinched him and shook him
-and used Narcan to fight the morphine
-so he would have a chance to breathe
-And when I went home
-I laughed a little as I walked across the driveway
-I skipped up the steps
-because
-in the ICU they were giving him all kinds of medicine
-and putting in all kinds of lines
-but me
-I guess I really do
-like a good bare-knuckled fight on a Saturday night.
-```
-
----
-
-## IC-1629: The Melancholy Death of Oyster Boy & Other Stories
-
-- Title: The Melancholy Death of Oyster Boy & Other Stories
-- Author (byline): Tim Burton
-- Work: Not specified
-- Publisher: Harper Collins
-- Publication date as stated: Oct 1997
-- Event as filed: Poetry
+- Title: Elevator ER
+- Author (byline): Jon Levine
+- Work: The Moth, Pg 103-111
+- Publisher: Hachette Books
+- Publication date as stated: Sept 2013
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1125
+- Spoken words (computed): 1245
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Tim Burton
-ISBN: 978-0688156817
-Publisher: Harper Collins
-Date (Month/Year): Oct 1997
+Author: Jon Levine
+Book: The Moth, Pg 103-111
+ISBN: 978-1401311117
+Publisher: Hachette Books
+Date (Month/Year): Sept 2013
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-In this collection, Tim Burton – the creative genius behind Edward Scissorhands, Sleepy Hollow and Nightmare Before Christmas, gives birth to a cast of gruesomely sympathetic children: misunderstood outcasts who struggle to find love and belonging in their cruel, cruel worlds. What Burton's sad kids all have in common are their bizarre differences.
+Jon Levine was lost . . . floating through life. No goals, no purpose, no ambition. But all that changed one fateful night in the most unexpected way possible.
 
-But the characters in these poems who are truly terrifying are humans, determined to destroy anything that is different. In many ways, the Oyster Boy universe reflects our own world: a place where innocence disappears too easily. As you listen to the seemingly childish verses, think about one thing: Who are the real monsters here?
-
-The Melancholy Death of Oyster Boy and Other Stories by Tim Burton
+Elevator ER by Jon Levine
 ```
 
 ### Performance text (classify this)
 
 ```text
-The Robot Boy
+When I was young, I was a bright, happy, enthusiastic kid. Years later I had become and angry, sullen, disaffected high school dropout.
 
-Mr. and Mrs. Smith had a wonderful life. They were a normal, happy husband and wife. One day they got news that made Mr. Smith glad. Mrs. Smith would be a mom which would make him the dad!
+If I could’ve signed a form to officially drop out of American society or the human race, that would've been next. So when I applied for a job working the night shift in the OR, it was not out of a great desire to help my fellow man. I was only doing it because the job paid really well -- $9 an hour.
 
-But something was wrong with their bundle of joy. It wasn't human at all, it was a robot boy!
+The fact that the hospital hired me at that time in my life should be sufficient to scare all of you into taking excellent care of yourselves from now on. But hire me they did, and my actual job title was OR nursing assistant, night shift.
 
-He wasn't warm and cuddly
-and he didn't have skin.
-Instead there was a cold, thin layer of tin.
-There were wires and tubes sticking out of his head.
-He just lay there and stared,
-not living or dead.
+The most fundamental part of the job was transporting patients to surgery, which I was trained to do during the day shift when the patients are in stable condition, usually awake but mildly sedated, and it's pretty simple. On the night shift nothing is scheduled. Patients are usually kinda bloody. Sometimes they're highly agitated and need to be restrained. But for the most part they were completely unconscious. I didn't see them as human beings at a time of great need so much as packages that needed to be delivered to a specific room as efficiently as possible.
 
-The Melancholy Death of Oyster Boy
+You know:
 
-He proposed in the dunes,
-they were wed by the sea,
-Their nine-day-long honeymoon
-was on the isle of Capri.
+• "Burst appendix to OR 22,"
 
-For their supper they had one spectacular dish-
-a simmering stew of mollusks and fish.
-And while he savored the broth,
-her bride's heart made a wish.
+• "Multiple stab wounds to OR 27,"
 
-That wish came true-she gave birth to a baby. But was this little one human Well, maybe.
+• "Guy who shot his face off to OR 33."
 
-Ten fingers, ten toes,
-he had plumbing and sight.
-He could hear, he could feel,
-but normal?
-Not quite.
+All manner of human suffering, but to me, it was all the same.
 
-This unnatural birth, this canker, this blight, was the start and the end and the sum of their plight.
+So, it's three in the morning, and there's a call from the ICU. They have a patient. So I go up to get him, and the nurses are disconnecting him from his respirator and his EKG and attaching a portable heart monitor to the rolling ICU bed and an air bag to his breathing tube, which I'm going to have to squeeze to breathe for him during the trip. This means that someone's gonna have to come with me, because you can't really steer an ICU bed and squeeze an air bag at the same time.
 
-She railed at the doctor: "He cannot be mine. He smells of the ocean, of seaweed and brine."
+Unfortunately, the nurses in the ICU couldn't spare anyone except a young woman named Melissa, a nursing student. She was very nervous because she'd never been anywhere else in the hospital before and had never really been given much responsibility. But the nurses assured us that, despite appearances, Mr. Williams was pretty much okay and this would be totally routine.
 
-"You should count yourself lucky, for only last week,
-I treated a girl with three ears and a beak.
-That your son is half oyster
-you cannot blame me.
-. . . have you ever considered, by chance,
-a small home by the sea?"
+So I'm pushing from the back and squeezing the air bag with my free hand, and I have Melissa steering from the front as I direct her on the shortest route to the OR.
 
-Not knowing what to name him,
-they just called him Sam,
-or sometimes,
-"that thing that looks like a clam"
+So this old, crappy elevator arrives. We get in. The doors close. I push the button. And nothing happens. And then the lights go out. We start to move. But it's not right, and we're moving too fast, and the elevator's not making its normal sound. And my stomach is in my throat, and we're falling, WE'RE FALLING!
 
-Everyone wondered, but no one could tell, When would young Oyster Boy come out of his shell?
+And if I had had time for a thought process, it probably would've been like, I'm not ready to die. I didn't sign up for this. But before any of that can take place, the elevator's emergency brake kicks in and slams us to a stop so violently that I'm thrown to my knees and Mr. Williams is bouncing in his bed.
 
-When the Thompson quadruplets espied him one day, they called him a bivalve and ran quickly away.
+So now we're stopped in this tiny, dark box, and there's three sounds I can hear: the elevator's emergency signal buzzing, Melissa screaming, and Mr. Williams's heart monitor indicating that, like our elevator, his heart has stopped.
 
-One spring afternoon,
-Sam was left in the rain.
-At the southwestern corner of Seaview and Main,
-he watched the rainwater as it swirled
-down the drain.
+No, no, no, no, NO! But denial and anger quickly give way to, in this case, bargaining: Well, Melissa's got some actual medical education, so she should be in charge.
 
-His mom on the freeway
-in the breakdown lane
-was pounding the dashboard-
-she couldn't contain
-the ever-rising grief,
-frustration,
-and pain.
+But then reality sets in. Melissa's cowering in the corner, wondering if we're all gonna die. But if we don't do something right away, ONE of us is DEFINITELY gonna die.
 
-"Really, sweetheart," she said
-"I don't mean to make fun,
-but something smells fishy
-and I think it's our son.
-I don't like to say this, but it must be said,
-you're blaming our son for your problems in bed."
+So I then hit acceptance and admitted to myself that I had to get in the game here. Fortunately, the hospital had trained me to do CPR when they hired me. So I had Melissa stand up, and by the dim lights of the LEDs on the heart monitor, I said, "Okay, you do the air bagging. I'm going to do chest compressions."
 
-He tried salves, he tried ointments
-that turned everything red.
-He tried potions and lotions
-and tincture of lead.
-He ached, and he itched and he twitched and he bled.
+I moved around to the side, but Mr. Williams was a big guy, and I couldn't get good leverage. So I did something I had seen one of the emergency ward doctors do one time. I climbed up, sort of mounting Mr. Williams, and did chest compressions from above. And it seemed to work.
 
-The doctor diagnosed, "I can't quite be sure, but the cause of the problem may also be the cure. They say oysters improve your sexual powers. Perhaps eating your son would help you for hours!"
+I have no idea how long we were like that in the dark, but it felt like hours, until the lights flickered and came back on, and the buzzing emergency thing stopped. We finally arrived at the third-floor OR and the doors opened. And Melissa was so eager to get us out of there, she started pushing us forward. And that's when something bad happened.
 
-He came on tiptoe,
-he came on the sly,
-sweat on his forehead,
-and on his lips-a lie.
+The wheels on the front of the ICU bed swiveled around ninety degrees, right as they were situated over the gap be-tween the elevator and the floor and slid down into the gap like slices of bread going into a toaster.
 
-"Son, are you happy? I don't mean to pry, but do you dream of Heaven? Have you ever wanted to die?
+And then, of course, the elevator doors started slamming on us over and over again. I was still doing chest com-pressions, and we both started screaming for help. Finally, someone showed up, a wonderful older gentleman named Mr. Selwin, who was one of the night cleaning crew.
 
-Sam blinked his eye twice. but made no reply. Dad fingered his knife and loosened his tie.
+He comes running in, and in his thick island accent says, "What's all the commotion? Oh my God! Keep doing what you're doing. I'll go get more help." And he runs out.
 
-As he picked up his son,
-Sam dripped on his coat.
-With the shell to his lips,
-Sam slipped down his throat.
+Within a few moments, he comes back with "reinforcements" and finally, with a horrible metal scraping sound, they wrench us free. And suddenly all the panic and confusion recede, and we are in motion. We're off to OR 29!
 
-They buried him quickly in the sand by the sea -sighed a prayer, wept a tear-and they were back home by three.
+The double doors open, and we're whipping around corners and everything's very effortless, and we're flying now - Melissa is running, trying to keep up, while still doing the air bagging.
 
-A cross of gray driftwood marked Oyster Boy's grave. Words writ in the sand promised Jesus would save.
+And of course, I'm still on top of Mr. Williams, still pumping away at his chest, and there's a breeze in my face from our newfound velocity. And I have to say, it was absolutely exhilarating, to the point where I had to stifle the urge to laugh out loud.
 
-But his memory was lost with one high-tide wave.
+So I screw my face up into a mask of seriousness because it would be a tad unseemly to appear to be enjoying riding a patient down the hall. And we get to OR 29, and the entire surgical team fly into action and seamlessly take over for everybody. They save him, and he lives. Not only did he live through the night, but he recovered and left the hospital!
 
-*****
+That exhilarating feeling didn't go away. It seems kind of obvious in retrospect, but at the time I was so unaccustomed to feeling anything positive, that it took me a really long time to recognize that I enjoyed what I did, and I enjoyed caring about it. I enjoyed caring about Mr. Williams and myself.
 
-Mummy Boy
-
-He wasn't soft and pink
-with a fat little tummy;
-he was hard and hollow,
-a little boy mummy.
-
-"Tell us, please, Doctor,
-the reason or cause,
-why our bundle of joy
-is just a bundle of gauze."
-
-"My diagnosis," he said
-"for better or worse,
-is that your son is the result
-of an old pharaoh’s curse."
-
-That night they talked
-of their son's odd condition-
-they called him "a reject
-from an archaeological expedition."
-
-They thought of some complex
-scientific explanation,
-but assumed it was simple
-supernatural reincarnation.
-
-With the other young tots
-he only played twice,
-an ancient game of virgin sacrifice.
-(But the kids ran away, saying, "You aren't very nice.")
-
-alone and rejected, Mummy Boy wept, then went to the cabinet where the snack food was kept.
-
-He wiped his wet sockets with his mummified sleeves, and sat down to a bowl of sugar-frosted tanna leaves.
-
-One dark, gloomy day, from out of the fog, appeared a little white mummy dog.
-
-For his newfound wrapped pet,
-he did many things,
-like building a doghouse
-à la Pyramid of kings.
-
-It was late in the day-
-just before dark.
-Mummy Boy took his dog
-for a walk in the park.
-
-The park was empty except for a squirrel, and a birthday party for a Mexican girl.
-
-The boys and girls had all started to play, but noticed that thing that looked like a papier mâché.
-
-"Look it’s a píñata,"
-said one of the boys,
-"Let's crack it wide open
-and get the candy and toys."
-
-They took a baseball bat
-and whacked open his head.
-Mummy Boy fell to the ground;
-he finally was dead.
-
-Inside of his head
-were no candy or prizes,
-just a few stray beetles
-of various sizes.
-
-*****
-
-Anchor Baby
-
-There was a beautiful girl
-who came from the sea.
-And there was just one place
-that she wanted to be.
-
-With a man named Walker
-who played in a band.
-She would leave the ocean
-and come onto the land.
-
-He was the one that she wanted the most. And she tried everything to capture this ghost.
-
-But throughout all their lives
-they never connected.
-She wandered the earth
-alone and rejected
-
-She tried looking happy
-she tried looking tragic,
-she tried astral projecting,
-and [you know] black magic.
-
-Nothing could join them,
-except maybe one thing,
-just maybe . . .
-something to anchor their spirits . . .
-They had a baby.
-
-But to give birth to a baby
-they needed a crane.
-the umbilical cord
-was in the form of a chain.
-
-It was ugly and gloomy,
-and as hard as a kettle.
-It had no pink skin,
-just heavy gray metal.
-
-The baby that was meant to bring them together, just shrouded them both in a cloud of foul weather.
-
-So Walker took off
-to play with the band.
-And from that day on,
-he stayed mainly on land.
-
-And she was alone
-with her gray baby anchor,
-who got so oppressive
-that eventually sank her.
-
-As she went to the bottom,
-not fulfilling her wish,
-it was her, and her baby . . .
-and a few scattered fish.
+Six months later, I found myself mentioning the incident in a personal essay that was part of an application to get back into college.
 ```
 
 ---
 
-## IC-1630: Middle Passage
-
-- Title: Middle Passage
-- Author (byline): Robert Hayden
-- Work: American Negro Poetry: An Anthology
-- Publisher: Hill & Wang
-- Publication date as stated: December 1995
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1207
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Robert Hayden
-Book: American Negro Poetry: An Anthology
-ISBN: 0809015641
-Publisher: Hill & Wang
-Date (Month/Year): December 1995
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-The poem Middle Passage by Robert Hayden, tells the story of the slave trade in three parts. Part 1 takes us on board a slave ship, and shows us the chilling inhumanity of a world with no borders or laws but itself. Part 2, in the terrifying voice of an unrepentant slave trader, presents a brotherhood of greed (which is no brotherhood at all) between the slavers and the African tribal kings with whom they traded in human flesh. Finally Part 3 describes the slave revolt on the Amistad, led by Cinquez, who became a symbol both of freedom and of the awful violence that must sometimes be its path. Middle Passage by Robert Hayden.
-```
-
-### Performance text (classify this)
-
-```text
-Jesús, Estrella, Esperanza, Mercy:
-
-Sails flashing to the wind like weapons, sharks following the moans the fever and the dying; horror the corposant and compass rose.
-
-Middle Passage: voyage through death to life upon these shores.
-
-"10 April 1800-- Blacks rebellious. Crew uneasy. Our linguist says their moaning is a prayer for death, our and their own. Some try to starve themselves. Lost three this morning leaped with crazy laughter to the waiting sharks, sang as they went under."
-
-Desire, Adventure, Tartar, Ann:
-
-Standing to America, bringing home black gold, black ivory, black seed.
-
-Deep in the festering hold thy father lies, of his bones New England pews are made, those are altar lights that were his eyes.
-
-Jesus Saviour Pilot Me Over Life's Tempestuous Sea
-
-We pray that Thou wilt grant, O Lord, safe passage to our vessels bringing heathen souls unto Thy chastening.
-
-Jesus Saviour
-
-"8 bells. I cannot sleep, for I am sick
-with fear, but writing eases fear a little
-since still my eyes can see these words take shape
-upon the page & so I write, as one
-would turn to exorcism. 4 days scudding,
-but now the sea is calm again. Misfortune
-follows in our wake like sharks (our grinning
-tutelary gods). Which one of us
-has killed an albatross? A plague among
-our blacks--Ophthalmia: blindness--& we
-have jettisoned the blind to no avail.
-It spreads, the terrifying sickness spreads.
-Its claws have scratched sight from the Capt.'s eyes
-& there is blindness in the fo'c'sle
-& we must sail 3 weeks before we come
-to port."
-
-What port awaits us, Davy Jones' or home? I've heard of slavers drifting, drifting, playthings of wind and storm and chance, their crews gone blind, the jungle hatred crawling up on deck.
-
-Thou Who Walked On Galilee
-
-"Deponent further sayeth The Bella J
-left the Guinea Coast
-with cargo of five hundred blacks and odd
-for the barracoons of Florida:
-
-"That there was hardly room 'tween-decks for half the sweltering cattle stowed spoon-fashion there; that some went mad of thirst and tore their flesh and sucked the blood:
-
-"That Crew and Captain lusted with the comeliest of the savage girls kept naked in the cabins; that there was one they called The Guinea Rose and they cast lots and fought to lie with her:
-
-"That when the Bo's'n piped all hands, the flames spreading from starboard already were beyond control, the negroes howling and their chains entangled with the flames:
-
-"That the burning blacks could not be reached,
-that the Crew abandoned ship,
-leaving their shrieking negresses behind,
-that the Captain perished drunken with the wenches:
-
-"Further Deponent sayeth not."
-
-Pilot Oh Pilot Me
-
-II
-
-Aye, lad, and I have seen those factories,
-Gambia, Rio Pongo, Calabar;
-have watched the artful mongos baiting traps
-of war wherein the victor and the vanquished
-
-Were caught as prizes for our barracoons.
-Have seen the nigger kings whose vanity
-and greed turned wild black hides of Fellatah,
-Mandingo, Ibo, Kru to gold for us.
-
-And there was one--King Anthracite we named him--
-fetish face beneath French parasols
-of brass and orange velvet, impudent mouth
-whose cups were carven skulls of enemies:
-
-He'd honor us with drum and feast and conjo
-and palm-oil-glistening wenches deft in love,
-and for tin crowns that shone with paste,
-red calico and German-silver trinkets
-
-Would have the drums talk war and send
-his warriors to burn the sleeping villages
-and kill the sick and old and lead the young
-in coffles to our factories.
-
-Twenty years a trader, twenty years, for there was wealth aplenty to be harvested from those black fields, and I'd be trading still but for the fevers melting down my bones.
-
-III
-
-Shuttles in the rocking loom of history, the dark ships move, the dark ships move, their bright ironical names like jests of kindness on a murderer's mouth; plough through thrashing glister toward fata morgana's lucent melting shore, weave toward New World littorals that are mirage and myth and actual shore.
-
-Voyage through death, voyage whose chartings are unlove.
-
-A charnel stench, effluvium of living death
-spreads outward from the hold,
-where the living and the dead, the horribly dying,
-lie interlocked, lie foul with blood and excrement.
-
-Deep in the festering hold thy father lies, the corpse of mercy rots with him, rats eat love's rotten gelid eyes. But, oh, the living look at you with human eyes whose suffering accuses you, whose hatred reaches through the swill of dark to strike you like a leper's claw. You cannot stare that hatred down or chain the fear that stalks the watches and breathes on you its fetid scorching breath; cannot kill the deep immortal human wish, the timeless will.
-
-"But for the storm that flung up barriers
-of wind and wave, The Amistad, señores,
-would have reached the port of Príncipe in two,
-three days at most; but for the storm we should
-have been prepared for what befell.
-Swift as a puma's leap it came. There was
-that interval of moonless calm filled only
-with the water's and the rigging's usual sounds,
-then sudden movement, blows and snarling cries
-and they had fallen on us with machete
-and marlinspike. It was as though the very
-air, the night itself were striking us.
-Exhausted by the rigors of the storm,
-we were no match for them. Our men went down
-before the murderous Africans. Our loyal
-Celestino ran from below with gun
-and lantern and I saw, before the cane-
-knife's wounding flash, Cinquez,
-that surly brute who calls himself a prince,
-directing, urging on the ghastly work.
-He hacked the poor mulatto down, and then
-he turned on me. The decks were slippery
-when daylight finally came. It sickens me
-to think of what I saw, of how these apes
-threw overboard the butchered bodies of
-our men, true Christians all, like so much jetsam.
-Enough, enough. The rest is quickly told:
-Cinquez was forced to spare the two of us
-you see to steer the ship to Africa,
-and we like phantoms doomed to rove the sea
-voyaged east by day and west by night,
-deceiving them, hoping for rescue,
-prisoners on our own vessel, till
-at length we drifted to the shores of this
-your land, America, where we were freed
-from our unspeakable misery. Now we
-demand, good sirs, the extradition of
-Cinquez and his accomplices to La
-Havana. And it distresses us to know
-there are so many here who seem inclined
-to justify the mutiny of these blacks.
-We find it paradoxical indeed
-that you whose wealth, whose tree of liberty
-are rooted in the labor of your slaves
-should suffer the august John Quincey Adams
-to speak with so much passion of the right
-of chattel slaves to kill their lawful masters
-and with his Roman rhetoric weave a hero's
-garland for Cinquez. I tell you that
-we are determined to return to Cuba
-with our slaves and there see justice done.
-Cinquez--
-or let us say 'the Prince'--Cinquez shall die."
-
-The deep immortal human wish, the timeless will:
-
-Cinquez its deathless primaveral image, life that transfigures many lives.
-
-Voyage through death to life upon these shores.
-```
-
----
-
-## IC-1631: Miss Spider’s Wedding
-
-- Title: Miss Spider’s Wedding
-- Author (byline): David Kirk
-- Work: Not specified
-- Publisher: Scholastic Press
-- Publication date as stated: 1995
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1225
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: David Kirk
-ISBN: 978-0590568661
-Publisher: Scholastic Press
-Date (Month/Year): 1995
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Miss Spider is spinning with joy! She has met a wonderful spider man who is wise and kind and ever so sincere. Perhaps he's just the one to be Miss Spider's Mr. Right. But when her well-meaning friends set out to find her a more dashing mate, the suave arachnid strongman they choose threatens to destroy even the best-spun spider plans
-
-Miss Spider’s Wedding by David Kirk.
-```
-
-### Performance text (classify this)
-
-```text
-“Good morning, Miss! A lovely day.” Miss Spider spun around To see Ike hanging by his knees Three inches from the ground.
-
-“My good friend Holley,” Ike went on, “Is someone you should know. But he’s too timid to come down Or even say hello.”
-
-They heard a snap and then a crash And gasped as Holley tumbled. He flopped down at Miss Spider’s feet, Embarrassed, stunned and rumpled.
-
-Miss Spider knelt to help him up. He blushed, to shy to speak. She bid demurely, “Won’t you come To tea one day this week?”
-
-The color drained from Holley’s face. He looked as though he’d swoon. His acorn hat slipped from his head. He gulped, “This afternoon?”
-
-And when she heard his little voice, It seemed to her somehow That she had known him always Though they’d never met ‘til now…
-
-“Please pay attention when I speak. Stop daydreaming!” barked May. Miss Spider’s thoughts were still upon The man she met that day.
-
-May nagged, “You should get on with life. I thought by now you’d be a wife!” “But I _” Miss Spider tried to say. “You mustn’t interrupt!” sniffed May.
-
-May jabbered on and on and on…. Miss Spider, with her patience gone,
-
-Surveyed the clock and tapped the floor, But when a face peeked ‘round the door,
-
-She whispered, “I apologize,
-But, May I just now realize,
-A gentleman who asked to call
-Is waiting for me in the hall.”
-
-“A man?” squealed May, “Well, Finally!” She dashed right out so she could see, The screamed, “Get lost you puny pest. She’s waiting for her special guest!”
-
-Miss Spider scurried toward the din. She took his hand, then led him in. May cried, “How can I stop her folly?
-
-She’s desperate if she’s dating Holley!”
-
-They talked of all her dreams and hopes, Of art and nature, love and fate. They peered though toy kaleidoscopes And murmured thoughts I shan’t relate.
-
-Then Holley held Miss Spider’s hand…. I’ll say no more, you understand. For private moments between spiders Should not be witnessed by outsiders.
-
-Back home, May snipped at Ike, her mate, “Miss Spider’s come undone! That milksop Holley is her date. Go fetch a better one!”
-
-“Be certain he’s intelligent, Strong, handsome, brave and elegant. Just find an eight-legged Mr. Right And bring him back here by tonight.”
-
-Ike said, “But I think Holley
-Is particularly nice.
-It’s not just me who thinks so.
-You can go and ask the mice.
-
-“They say he’s helpful, wise and kind And always so polite. Perhaps he’s just the one to be Miss Spider’s Mr. Right.”
-
-May gasped, “You’ve lost your senses too! That pantywaist will never do. What a difference if he’s kind and wise? He isn’t half Miss Spider’s size.
-
-“I see I’ll have to go with you. For clearly, Ike, You simply do not have a clue To what we women like.”
-
-May called, “Oh, spider sir, yoo-hoo! I’ve got the perfect girl for you.”
-
-She whispered, “Now I’ll put things right.”
-
-“I hope,” squeaked Ike, “he doesn’t bite.”
-
-“Please tell me of this lonely miss,” The spider strongman cooed. “Is she a beauty? Is she rich? And is she in the mood…
-
-“To be adroitly charmed and wooed By dashing, handsome me? But, how could it be otherwise!” He laughed triumphantly.
-
-Miss Spider later welcomed in This strange arachnid gentleman. His air was fine, his manner grand. He bowed and kissed her dainty hand,
-
-“I’ve journeyed her, dear lady, From the Land of Falling Leaves. Please let me introduce myself, I’m called Spiderus Reeves.”
-
-He peered around the drawing room
-At all the finery.
-He coveted the furnishings,
-The carpets and settee.
-
-All this, he thought, would soon be mine If she and I were wed. He mused, her house will suit me well. But here is what he said:
-
-“My darling, I can plainly see That you are everything to me. I long to know the soul within Your lovely exoskeleton.”
-
-“Is it mere chance? No, it is fate, That soon we shall co-webitate/ ‘Twas set down by a will divine That I am yours and you are mine.”
-
-“My angel let us not delay,”
-The sly Spiderus pled.
-“Tomorrow is the perfect day
-For you and I to wed.”
-
-“Kind sir, you move to fast for me,” Miss Spider cried protestingly. “My love already has been spun And promised to another one.”
-
-“You cannot mean,” Spiderus howled, “That you’re rejecting me! Tell me this loathsome rival’s name; I’ll squash him like a flea!”
-
-His hot breath sprayed Miss Spider’s face- With all the force he had, He screamed, “You will reveal his name!” She said, “I won’t you cad!”
-
-He turned his back and brayed, “I must Go find and grind him into dust! So foolish woman, be forewarned. Spiderus Reeves shall not be scorned.”
-
-At that same moment in the hall, Poor Holley, staring at the wall,
-
-Could dwell on one and just one thought, Does she love me? Does she not?
-
-Just then there was a little sound That didn’t seem quite right.
-
-He cocked his head and heard two voices Whimpering in fright.
-
-“And so it’s you,” Spiderus snarled, “Who dares to interfere.
-
-There’s been just one mistake, my friend, But I shall fix it here.”
-
-Holley’s life flashed before his eyes Peering up that toothy jaw. As everything was growing dim, Fading out, he thought he saw
-
-An angel swoop down in a gown Of yellow flecked with black,
-
-Who shrieked, “Let go of him, you brute!” And smacked the scoundrel’s back.
-
-Drifting back to consciousness, Holley sensed someone he knew…. Yes, yes, Miss Spider’s lovely face Came swimming into view.
-
-“Darling, are you back with me?” His spider nurse begged hopefully. “I’ve tried a hundred different ways
-
-To wake you up for three whole days!”
-
-He gazed upon here reverently, Then wobbling to her side,
-
-Looked up into her eyes and whispered, “Will you be my bride?”
-
-A blush of scarlet tinged her cheek. Her lips, aquiver, could not speak. He stroked her gently with his feet.
-
-She murmured softly, “Yes, my sweet.”
-
-They sat together in the sun,
-And when the day is through,
-They’d made a list of all the most
-Important things to do.
-
-The crickets would be asked to play The music on their wedding day. The field mice, woolly bears and bees Would cater and affair to please!
-
-“I’ll bake the cake,” Miss Spider said, “And weave my silken veils.” The Holley peeped. “I’ll spin a suit With silk to hat and tails!”
-
-“We’ll send an incitation out
-To every bug alive,
-With notices in every bush
-And treetop, hill and hive.”
-
-“Oh, see how handsome Holley looks!” Miss spider sings with glee. “Of all the spiders in the world, he chose to be with me.”
-
-“We’ve found the place where love abides, and share the warmth that it provides For all those who have found the way To savor life’s most sweet bouquet.”
-
-The bride and groom, at last withdrawn From all the chaos on the lawn, Poise low upon a willow tree And hold each other tenderly.
-
-We see their forms in silhouette, Their shapes are clear to us, and yet, How can we fully recognize The beauty seen through true loves eyes.
-```
-
----
-
-## IC-1632: The Missing Piece
-
-- Title: The Missing Piece
-- Author (byline): Shel Silverstein
-- Work: Not specified
-- Publisher: HarperCollins Publishers, Inc
-- Publication date as stated: May 1976
-- Event as filed: Poetry
+## IC-2014: The Elves and the Shoemaker
+
+- Title: The Elves and the Shoemaker
+- Author (byline): AJ Jacobs
+- Work: Fractured Fairy Tales
+- Publisher: Bantam Books
+- Publication date as stated: Jan 1999
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: No
-- Spoken words (computed): 558
+- Spoken words (computed): 838
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Shel Silverstein
-ISBN: 978-0060256715
-Publisher: HarperCollins Publishers, Inc
-Date (Month/Year): May 1976
+Author: AJ Jacobs
+Book: Fractured Fairy Tales
+ISBN: 978-0553099805
+Publisher: Bantam Books
+Date (Month/Year): Jan 1999
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-A truly unique and multi-faceted artist, Shel Silverstein was a renowned poet, playwright, illustrator, screenwriter, and songwriter. Best known for his immensely popular children’s books including The Giving Tree, Falling Up, and The Missing Piece, Silverstein has delighted millions of readers around the world, becoming one of the most popular and best-loved children's authors of all time.
+Things aren't going well in the Herman’s shop. The old shoemaker is hungry and cold and down to the final piece of leather to make one last pair of shoes. But help comes in a very unexpected way...This is Herman’s story.
 
-In The Missing Piece, Silverstein concocts a marvelous tale with a powerful message: “Nno one should try to find all the answers, no one should hope to fill all the hopes in themselves, because a person without a search, loose ends, internal conflicts and external goals becomes too smooth to enjoy life." Never stop searching for The Missing Piece by Shel Silverstein.
+PAINTER’S VOICE: Whaa Whaa Whaa . . . . Who wants to hear that tired old tale? The guy goes to sleep the elves make the shoes, he had no vision, no creativity . . . . Heck even I could do better . . . and I wouldn’t need the help of any old elves either! Why don’t you tell MY story?
+
+The Elves and the Shoemaker (who used to be a painter) by AJ Jacobs.
 ```
 
 ### Performance text (classify this)
 
 ```text
-It was missing a piece.
-And it was not happy.
-So it set off in search of its missing piece.
-And as it rolled it sang this song-
+Once upon a time, there was a painter. He was a good painter and he made a modest living for his wife and himself. All was well, except for one thing. The painter didn't want to be a painter. He wanted to be a shoemaker.
 
-"Oh I'm lookin' for my missin' piece
+"I'm drudging my way through life!" he whined to his wife one morning. "Every day, from nine to five, it's canvas and landscapes and easels and, oh, it's so dull. I want to do something creative!"
 
-I'm lookin' for my missin' piece
+"But I always thought painting was creative," said his wife. "You deal with light and shade and perspective and such."
 
-Hi-dee-ho, here I go,
+"You call that creative?" The painter shook his head sadly. "I'll tell you creative. Making shoes. That's creative-Something for the feet. Something that lives. Something to last through eternity. Shoes that sing!"
 
-Lookin' for my missin' piece."
-Sometimes it baked in the sun
-but then the cool rain would come down.
-And sometimes it was frozen by the snow
-but then the sun would come and warm it again.
-And because it was missing a piece it could not very
-fast so it would stop to talk to a worm
-or smell a flower
-and sometimes it would pass a beetle
-and sometimes the beetle would pass it
-and this was the best time of all.
-And on it went, over oceans
+But just then, the clock struck nine. Time for work. The painter shuffled off to the nearest still life and, with a sigh, began dabbing and swirling the canvas. "I wish I were a shoemaker. I wish I were a shoemaker. I wish I were a shoemaker." POOF! the third time he said the magic phrase, an elf appeared-the patron elf of shoemakers.
 
-"On I'm lookin' for my missin' piece
+"So you want to be like Herman Cappachino,"
 
-Over land and over seas
+said the elf.
 
-So grease my knees and fleece my bees
+"Who are you and who is Herman Cappachino?"
 
-I'm lookin' for my missin' piece."
-through swamps and jungles
-up mountains
-and down mountains
-Until one day, lo and behold!
+"No need to explain who I am," said the elf, "But Herman Cappachino-he was just the greatest little shoemaker to ever live. When Napoleon tromped through Russia, whose shoes was he wearing? When Hannibal crossed the Alps? And when Dorothy, that girl from Iowa or something, clicked her heels? Whose shoes did they have on? Herman Cappachino, that's who."
 
-"I've found my missin' piece," it sang,
+"Oooh," said the painter. "How can I be a famous shoemaker like Herman Cappachino?"
 
-"I've found my missin' piece
+"It ain't easy," replied the elf. "You gotta suffer. You gotta spend time on the Left Bank of Paris. You gotta study. You gotta wear berets and develop poor hygiene habits."
 
-So grease my knees and fleece my bees
+That night, the painter told his wife of his plans. She shook her head. "Great shoemakers are not made," she said. "They are born. Why don't you forget it and go back to something sensible like your painting."
 
-I've found my..."
-"Wait a minute," said the piece.
-"Before you go greasing your knees
-and fleecing your bees..."
-I am not your missing piece. I am nobody's piece.
-I am my own piece.
-And even if I was somebody's missing piece
-I don't think I'd be yours!"
-"Oh," it said sadly,
-"I'm sorry to have bothered you."
-And rolled on.
-It found another piece
-but this one was too small.
-And this one was too big
-this one too sharp
-and this one too square.
-One time it seemed to have found the perfect piece
+"No!" shouted the painter, stamping his feet and clenching his fists. "Anyone can paint. I want to sit in cafes, discuss shoelace exhibitions, make loafers in a garret. And above all, suffer!"
 
-but it didn't hold it tightly enough
+So that night, the painter left for Paris. He en-tered the famous shoe school, Beau Chaussure, and under the tutelage of the famous, if unwashed, pro-fessor, Jean-Claude Louis-Mark-Paul, he learned all there was to know about shoemaking. He took The History of the Heel in Eighteenth-Century Brazil. He read all the books on tongue theory and practice. He wrote an essay called "What Those Plastic Things on the End of Shoelaces Are Really Called." But alas, he never learned how to make a shoe that sang.
 
-and lost it.
+"If only I could make a shoe that sings of spring, of love. How can I make a shoe with a soul as well as a sole?"
 
-Another time it held too tightly
+Just then, as he stood on Paris's main boulevard, pulling the rest of his hair out, he heard the most beautiful music. He followed the lovely sound. And there, on the feet of a goatee-wearing man, was a singing shoe. The shoe sang its song, then said, "Thank you. Thank you very much. You've been a great audience. And it's for you, the audience, that I sing. Your appreciation is what- "
 
-and broke.
+"Now, that is truly a shoe with a soul!" inter-rupted the painter. "I must have that shoe!" He reached down and started pulling it off.
 
-So on and on it rolled,
+"What are you doing'?" the man demanded.
 
-having adventures
+"I just wanted to know where you bought your shoes."
 
-falling into holes
+"I got them in Elvesville!"
 
-and bumping into stone walls.
+Elvesville! Why, that was the painter's hometown. He had been suffering around Europe, when he could be home, making shoes that sing. So the painter returned to Elvesville and found that everyone in town was wearing the same exquisite singing shoes.
 
-And one day it came upon another piece that seemed to be just right.
+"Where did you get those exquisite singing shoes?" he asked a passerby.
 
-"Hi," it said.
+"Twenty-three eleven South Budlong. You turn left, go about three. , ,"
 
-"Hi," said the piece.
+"You don't have to tell me!" exclaimed the painter. 'That's my house!" And sure enough, when the painter got home, he found the walls of his cottage lined with exquisite shoes, all of them singing merrily away. And who did he find sitting behind the cobbler's bench, but his wife!
 
-"Are you anybody else's missing piece?"
+"Why didn't you tell me you made exquisite singing shoes?" he asked.
 
-"Not that I know of."
+"You never asked me."
 
-"Well, maybe you want to be your own piece?"
+And so from that day on, the painter went back to his easel every day from nine to five. Eventually, his paintings started selling like hotcakes and he became a very famous painter indeed. And his paintings hung in all the famous museums in Europe. But he never did become a shoemaker and had to be content with just being a wealthy man.
 
-"I can be someone's and still be mine."
-
-"Well, maybe you don't want to be mine."
-
-"Maybe I do."
-
-"Maybe we won't fit...."
-
-"Well..."
-
-"Hummm?"
-
-"Ummmm!"
-It fit!
-It fit perfectly!
-At last! At last!
-And away it rolled
-and because it was now complete,
-it rolled faster and faster.
-Faster than it had ever rolled before!
-So fast that it could not stop to talk to a worm
-or smell a flower
-too fast for a butterfly to land.
-But it could sing its happy song,
-at last it could sing "I've found my missing piece."
-And it began to sing-
-
-"I've frown my nizzin' geez
-
-Uf vroun my mitzin' brees
-
-So krease ny meas
-
-An bleez ny drees
-
-Uf frown..." Oh my, now that it was complete it could not sing at all. "Aha," it thought.
-
-"So that's how it is!"
-
-So it stopped rolling...
-
-and it set the piece down gently,
-
-and slowly rolled away
-
-and as it rolled it softly sang-
-
-"Oh I'm lookin' for my missin' piece
-
-I'm lookin' for my missin' piece
-
-Hi-dee-ho, here I go,
-
-Lookin' for my missin' piece."
+Which just goes to prove. Not everybody can be Herman Cappachino. Whatever that means.
 ```
 
 ---
 
-## IC-1633: Mission Statement
+## IC-2015: Encouraging Kelly
 
-- Title: Mission Statement
-- Author (byline): Big Poppa E (Eirik Ott)
-- Work: Big Poppa E's Greatest Hits: Poems To Read Out Loud
-- Publisher: Lulu.com
-- Publication date as stated: 2007
-- Event as filed: Poetry
+- Title: Encouraging Kelly
+- Author (byline): Seema Renee Gertsen
+- Work: Chicken Soup for the Teacher's Soul
+- Publisher: Health Communications, Inc.
+- Publication date as stated: April 2002
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: No
-- Spoken words (computed): 642
+- Spoken words (computed): 1165
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Big Poppa E (Eirik Ott)
-Book: Big Poppa E's Greatest Hits: Poems To Read Out
-Loud
-ISBN: 978-0615149486
-Publisher: Lulu.com
-Date(Month/Year): 2007
+Author: Seema Renee Gertsen
+Book: Chicken Soup for the Teacher's Soul
+ISBN: 978-1558749788
+Publisher: Health Communications, Inc.
+Date (Month/Year): April 2002
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-You have a purpose in life. You know in your heart what's most important to you. In fact, your mission and values are expressed every day, by how you live–you just may not realize it. A personal mission statement provides clarity and gives you a sense of purpose. It defines who you are and how you will live. Eirik Ott also known as Big Poppa E has crafted one of the most amazing Mission Statements that I’d like to share with you today. It’s not the Mission Statement for an organization or even for an individual, it is the Mission Statement for a group of people I hold in the hightest esteem . . . Poets. Mission Statement by Big Poppa E.
+What makes some children special? Perhaps they have a physical or mental handicap; But does that condition warrant that these children be treated differently than other children? The answer is really quite simple. There should be no difference in the way we treat or acknowledge them. Special children laugh and cry and savor and hurt just like other children.... In Encouraging Kelly, a first year teacher learns this very valuable lesson in the process of Encouraging Kelly by Seema Renee Gertsen.
 ```
 
 ### Performance text (classify this)
 
 ```text
-“We are poets. And that lifestyle choice may have destroyed our credit, yes. It may have destroyed relationships, yes. It may have destroyed our backs from sleeping on couches between times when we could afford a place of our own, yes. But, oh, the beauty. The soul. The whole wide world. We live for that connection between a poet and someone moved to touch their hand to their chest and whisper, “Oh.” Between two people sitting cross-legged on dusty wooden floors bathed in Joni Mitchell and candlelight at 3am. Heads bowed. Hands held. Knees touching. Between the wind and a person alone at a bus stop whispering his truth over invisible turntable break-beats from the shady confines of his hoodie. It’s all poetry. All of it. Every single breath is scented with poetry. We will die penniless, but oh the stories. The love. The whole wide world held limp in the palms of our hands. The smiles on our faces as we bid you all goodbye with a twinkle in our eyes and so many sweet, sad songs in our hearts. So many people never get the chance to fly, because they never have the courage to leap blindingly, stupidly, floppingly out of the nest and bash themselves against the branches all the way down then get up and do it again and again so many times they feel like they’ll die if they try again, but that’s the only way to learn how to fly. Every poet who has ever spread their wings and left the bonds of this earth has a body covered in scars and bruises you feel in every word they speak. We don’t just write poetry.
+It was my very first teaching job, and I was anxious to make an excellent first impression. I had been hired to lead a vibrant group of four-year-olds. As the parents escorted children into the room, I attempted to deal with crying kids, teary-eyed moms and tense dads. Finally, I managed to seat the kids on the carpet and we were ready to start our "morning circle time."
 
-We live poetry.
-Warm noses on cold windowpanes leave haiku in
-frost.
-Blank pages across foreheads yield truth.
-We can cut our wrists on your lips and drip songs on
-your tongues.
-We can’t help it.
-We are poets.
-People chain themselves to desks
-and cage themselves in cubicles
-and trade their precious hours on this planet
-for scraps of paper and a gold watch and some
-fleeting notion of security.
-And we’re the crazy ones?
-Wasting time with moonbeams and seashores.
-We’re the irresponsible ones?
-Chasing butterflies and making love on rooftops.
-To hell with that!
+We were in the middle of a rousing rendition of "Old McDonald" when the door opened and a mysterious woman entered the room. She stood next to the door quietly observing the children and me. My voice and smile never faltered, but quite frankly I was very nervous. Who is this woman? Why is she here? What exactly is she observing? When I looked up again she was gone.
 
-Poetry may be the rose colored glasses through
-which we see the world,
-but we get to see everything.
-We are not allowed to close our eyes.
-We do not have the right to remain silent.
-We are hopelessly, painfully, ravishingly,
-wonderfully, terribly, horribly
-in love with love. And life itself.
-Even when it hurts.
-Even when we cry and beg for it all to end.
-Even then it’s all so very beautiful and real and
-perfect.
-And we carry sunshine in our chests.
-Our rib cages cast shadows on the blind side of our
-skin.
-You can see ghosts dancing in our flesh if you
-squint.
-And we can guide ships to rocky shores
-just by toeing the lips of the ocean and spreading
-our arms wide.
-Our goal in life is simple.
-To be.
-Wide eyed and breathless at the wonders of the
-world around us
-and dance naked in the warm summer rain
-and laugh and laugh
-even when everything sucks.
-Because we may not always be happy
-and we may not always be right
-and we may not always be beautiful.
-But right here and right now we are all so young.
-Young enough to be alive.
-And all the stoplights are so green
-they sprout tendrils that tickle the tops of passing
-buses.
-And the whole wide world is still so full of magic
-and possibility.
-It would be an insult not to drink deeply of it.
-That’s what we do.
-We drink deeply of life in full-throated gulps.
-That’s who we are.
-We are poets.”
+The day went relatively smoothly, but by the time the last child was picked up, I was physically and emotionally drained. I longed for a nonfat latte, some Chopin and a bubble bath. Then my director came in and asked to meet with me before I left for the day.
+
+My heart raced. Did this have anything to do with the woman who had observed my class? Did I choose the wrong songs? Was the circle time too long? Too short? By the time I reached the office, I was an emotional wreck. I sat perched on the edge of my seat and waited for the axe to fall. My director told me the woman who had visited my room earlier was a potential parent to the school and was concerned about how her daughter would function in a regular classroom. Her little girl was born with a birth defect that required she wear leg braces from the knees down. The child was ambulatory but walked very slowly with a lopsided gait. She would need to be carried out to the yard and back to the classroom. Her balance was poor, and she had a tendency to topple over if she was jostled, even slightly. We would need to remind the other children to be careful when walking near her so they wouldn't accidentally cause her to fall.
+
+The director asked me how I felt about her becoming a member of my group. I was speechless. Here I was wondering if I could possibly survive a school year with fifteen of the liveliest four-year-olds in North America, and now I was being asked to take on a child with special needs? I replied that I would accept the child on a trial basis.
+
+That night I couldn't fall asleep. I tossed and turned until morning, then drove to work with my stomach in knots. We were all gathered on the carpet for our morning circle when the door opened and the woman walked in carrying her daughter. She introduced herself as Kelly's mommy and she gingerly sat her daughter down on the edge of the carpet. Most of the children knew Kelly from synagogue and greeted her with warm, affectionate hugs. I looked at Kelly and she looked at me. "Welcome to our room, Kelly. We are so excited that you will be a member of our group."
+
+The first day went really well; Kelly only fell over twice. After several days of carrying her to and from the yard, I thought, Why not encourage her to walk down the hallway a little by herself? I asked Kelly if she would like to try it, and she became very excited. The next day I sent the class out to the yard with my two assistants, and Kelly began her first journey down the hallway. She walked all the way to the next classroom, a total of ten feet. We were both thrilled! But my assistants were aghast that I was encouraging this poor child to walk. They pleaded with me to carry her outside and seat her on the bench so she could watch the other children run and play. "It would be so much easier," they murmured. But Kelly was persistent and eager to give it her best shot.
+
+And so we began the strenuous task of walking daily down the hall. I winced when Kelly teetered precariously too far to the right, but she just giggled and told me not to worry, she was perfectly fine. I began to cherish our quiet moments alone in the hallway, my arms outstretched to help her regain her balance. Kelly always grinned and told me she had never felt better.
+
+Each day Kelly and I continued our slow walk down the corridor. I charted her progress with little pencil marks on the wall. Every few days the pencil marks got farther and farther apart. Kelly's classmates started to notice and began cheering for her as she plodded along. After several weeks, Kelly made it all the way to the yard! She positively glowed as the children congratulated her with gentle pats on the back and warm hugs. My assistants were astonished and prepared a special snack in honor of Kelly's tremendous accomplishment. Weeks passed and Kelly continued to walk out to the yard every single day. We rarely carried her as she became more independent.
+
+One week in mid-December, Kelly was absent for several days. When I called her home I was told she was in Manhattan getting her annual checkup with her doctors. On Monday morning, when her mom brought her back to school, she inquired if I had been doing anything differently with Kelly. I wasn't quite sure what she meant. Then came the dreaded question: "Have you been forcing Kelly to walk?"
+
+I was dumbfounded. Maybe I shouldn't have encouraged Kelly to walk to the yard every day. Maybe I had caused permanent damage to her weakened legs. Maybe Kelly would need to be in a wheelchair for the rest of her life.
+
+I very softly told Kelly's mom that I had encouraged her to walk outside to the yard by herself. I explained that she seemed to enjoy walking independently. The mother gently lifted Kelly's dress to show me that Kelly's knee braces had been replaced with ankle braces.
+
+"Her legs have gotten more exercise in the past few months than in the past four years of her life." She looked at me with tears in her eyes. "I don't know how to thank you for everything you have done for my daughter."
+
+I hugged her. "Having Kelly as a member of my group has been a privilege."
+
+Seventeen years later, I still think back to the first time Kelly made it down the long hallway. Whenever I have a bad day teaching and life seems too overwhelming, I think of Kelly and her exuberant smile as she painstakingly walked down that hallway. She taught me that no obstacle in life is too big to overcome. You just need to keep working at it-one step at a time.
 ```
 
 ---
 
-## IC-1634: Move Pen Move
+## IC-2016: Encyclopedia Brown and the Case of the Barefoot Thieves
 
-- Title: Move Pen Move
-- Author (byline): Shane Koyczan
-- Work: Visiting Hours
-- Publisher: House of Parlance Media, Inc.
-- Publication date as stated: Sept 2005
-- Event as filed: Poetry
+- Title: Encyclopedia Brown and the Case of the Barefoot Thieves
+- Author (byline): Donald J. Sobol
+- Work: Encyclopedia Brown Takes the Case
+- Publisher: Penguin
+- Publication date as stated: 2008
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, TYRONE, ENCYCLOPEDIA, MR. BROWN
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1121
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Donald J. Sobol
+Book: Encyclopedia Brown Takes the Case
+ISBN: 978-0142410851
+Publisher: Penguin
+Date (Month/Year): 2008
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Encyclopedia Brown and the Case of the Barefoot Thieves by Donald J. Sobol
+```
+
+### Performance text (classify this)
+
+```text
+Police officers across America were asking the same question. Why did everyone who broke the law in Idaville get caught? Idaville looked like many seaside towns its size. It had delicatessens, three movie theatres, and four banks. It had churches, a synagogue, and lovely white beaches. And it had a certain Red Brick house on Rover Avenue. In the house lived Idaville’s secret weapon against law breakers—ten year old Encyclopedia Brown. Mr. Brown was the chief of the Idaville police force. He was proud of his men. But he was not too proud to get them help. Whenever Chief Brown came up against a case that no on the force could solve, he knew what to do. He went home and ate dinner. Before the meal was over, Encyclopedia had solved the case for him. Chief Brown wanted to tell the world about his only child—to announce over satellite television “my son is the greatest detective who ever shot a water pistol!” But what good would it do? Who would believe that the mastermind behind Idaville’s spotless police record was only a fifth-grader? Encyclopedia never let slip a work about the help he gave his father. He didn’t want to seem different from other boys his age. But there was nothing he could do about his nickname. Only his parents and teachers called him by his real name, Leroy. Everyone else called him Encyclopedia. An Encyclopedia is a book or set of books filled with facts from A to Z—just like Encyclopedia’s head. He had read more books that anyone in Idaville, and he never forgot what he read. All this knowledge gave him the ability to start his very own, Brown Detective Agency.
+
+NARRATOR: Tyrone Taylor knew how to treat the fair sex. He was the only boy in Idaville who got up to give a girl his seat- even when they were the only two passengers on the bus. The other fifth grade boys called him Sir Galahad. Monday afternoon Tyrone came into the Brown Detective Agency. He looked sick as a horse.
+
+TYRONE: (sadly) Don’t call me Sir Galahad . . . call me Sir Had-a-Gal.
+
+ENCYCLOPEDIA: Who was it this time?
+
+TYRONE: Betty Holden. Just when I figured I had a chance with her, what happens? She goes out with Stingy Stenson!
+
+ENCYCLOPEDIA: Don’t worry. Stingy is so tight that if he blinks his eyes, his knuckles crack. When he dates a girl, the money flows like glue
+
+TYRONE: That’s what I thought. But last night I saw them together in Mr. O’Hara’s drugstore. Stingy bought her the Idaville Special with three scoops of ice cream!
+
+ENCYCLOPEDIA: Wow! That costs twenty cents extra!
+
+TYRONE: I want to hire you. (slams a quarter on the gasoline can beside Encyclopedia). Find out where Stingy stole the money he’s spending.
+
+ENCYCLOPEDIA: Just a minute. You can’t go around accusing him of stealing --
+
+TYRONE: (snapping) What was he doing outside the Medical Building yesterday morning? It was Sunday. The building was closed. And you should have seen his crazy walk.
+
+ENCYCLOPEDIA: (scratching his head) You better show me.
+
+NARRATOR: The two boys biked to the Medical building. It was after five o’clock when they arrived. The doctors had all gone home. The parking lot was empty.
+
+TYRONE: Sunday was a hot day. So I sat under that shade tree while I thought about Betty. Suddenly I saw Stingy and his big brother Pete. They were walking in the parking lot, one behind the other. Crazy!
+
+ENCYCLOPEDIA: Crazy?
+
+TYRONE: They walked as if they couldn’t keep their balance. Then they jumped into a red truck that had “Mac’s Service Station” written on the door. They drove away, zoom!
+
+ENCYCLOPEDIA: Sit under the same tree. I’ll do what they did
+
+NARRATOR: He went down to the parking lot, which was enclosed by a seven-foot stonewall. He walked across the blacktop surface till he could see Tyrone over the wall.
+
+TYRONE: Stingy and Pete were farther back. I can see only your head above the wall. I saw them down to the waist. (Encyclopedia moved back a few steps.) Stop! That’s where they were
+
+NARRATOR: Encyclopedia had halted on a long, narrow white line. Branching out on either side of it were short white lines to mark spaces for cars to park.
+
+ENCYCLOPEDIA: Stingy and Pete were walking a narrow white line you can’t see from there! They were having fun keeping their balance
+
+TYRONE: Fun, nothing. They were celebrating. They probably just robbed some doctor’s office.
+
+NARRATOR: Tyrone refused to believe anything but the worst about Stingy. He made Encyclopedia promise to ask his father if the medical building had been robbed yesterday. At dinner, Encyclopedia put the question to his father.
+
+MR. BROWN: Why yes, Officer Clancy handled the case. I learned about it this morning. Thieves took about two hundred dollars altogether from the petty-cash boxes in several offices.
+
+ENCYCLOPEDIA: Isn’t the medical building locked on Sunday?
+
+MR. BROWN: The front door lock was broken Saturday. A watchman was hired till it could be repaired today
+
+ENCYCLOPEDIA: Where was the watchman during the robbery?
+
+MR. BROWN: He was drinking at the water fountain when he glimpsed two pairs of bare feet disappearing us the stairs. He chased them. As he turned a corner, he was struck and knocked out. He awoke to see Mac’s red service truck leave the parking lot. The watchman telephoned Mac immediately. Sundays, the truck is driven by Pete Stetson. Sometimes he takes his younger brother, the one everyone calls Stingy, along on service calls. When they returned to the station, both boys had on shoes
+
+ENCYCLOPEDIA: What were the Stetson boys doing at the parking lot?
+
+MR. BROWN: Pete says he was looking for a key, which he thought he dropped Saturday after visiting Dr. Marshall. He did see the doctor. We checked on that. No doubt the thieves removed their shoes in order to walk more quietly. Pete and Stingy may have robbed the offices. But we can’t shake their alibi.
+
+ENCYCLOPEDIA: You mean, you need a clue to prove they had their shoes off when they entered the building?
+
+MR. BROWN: One clue will do, but we don’t even have one!
+
+ENCYCLOPEDIA: (grinning) I have!
+
+NARRATOR: Pete and Stingy had taken off their shoes and socks in the truck in order to walk quietly. They had entered and left the building by walking along the white stripes of the parking lot. As they left, Tyrone Taylor had sat down under the tree. The brothers did not see him. But he saw them, from the waist up, walking back to the truck. Encyclopedia realized the brothers had not walked along the sidewalk just for fun. It was a hot day, remember? The blacktop burned their feet. So they had walked along the white strip—which was cooler. Faced with proof revealed by Tyrone’s sharp eyes and Encyclopedia’s sharp brain, the Stetson brothers confessed. Thanks to Encyclopedia, the money was returned and Tyrone—I mean, Sir Galahad, got the girl.
+```
+
+---
+
+## IC-2017: Enemy Pie
+
+- Title: Enemy Pie
+- Author (byline): Derek Munson
+- Work: Not specified
+- Publisher: Chronicle Books
+- Publication date as stated: Oct 2000
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, DAD, JEREMY, JEREMY’S MOM
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1454
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Derek Munson
+ISBN: 978-0811827782
+Publisher: Chronicle Books
+Date (Month/Year): Oct 2000
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Enemy Pie by Derek Munson
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: It should have been a perfect summer. My dad helped me build a treehouse in our backyard. My sister was at camp for three whole weeks. And I was on the best baseball team in town. It should have been a perfect summer. But it wasn’t.
+
+It was all good until Jeremy Ross moved into the neighborhood, right next door to my best friend Stanley. I did not like Jeremy Ross. He laughed at me when he struck me out in a baseball game. He had a party on his trampoline, and I wasn’t even invited. But my best friend Stanley was.
+
+Jeremy Ross was the one and only person on my enemy list. I never even had an enemy list until he moved into the neighborhood. But as soon as he came along, I needed one. I hung it up in my tree house, where Jeremy Ross was not allowed to go.
+
+Dad understood stuff like enemies. He told me that when he was my age, he had enemies, too. But he knew of a way to get rid of them. I asked him to tell me how.
+
+DAD: Tell you how? I’ll show you how!
+
+NARRATOR: He pulled a really old recipe book off the kitchen shelf. Inside, there was a worn-out scrap of paper with faded writing.
+
+DAD: (holding up the recipe and squinting) Enemy Pie!
+
+NARRATOR: You may be wondering what exactly is in Enemy Pie. I was wondering, too. But Dad said the recipe was so secret, he couldn’t even tell me. I decided it must be magic. I begged him to tell me something -- anything.
+
+DAD: I will tell you this. Enemy Pie is the fastest known way to get rid of enemies.
+
+NARRATOR: Now, of course, this got my mind working. What kinds of things -- disgusting things -- would I put into a pie for an enemy? I brought Dad some weeds from the garden, but he just shook his head. I brought him earthworms and rocks, but he didn’t think he’d need those. I gave him the gum I’d been chewing on all morning. He gave it right back to me.
+
+I went out to play, alone. I shot baskets until the ball got stuck on the roof. I threw a boomerang that never came back to me. And all the while, I listened to the sounds of my dad chopping and stirring and blending the ingredients of Enemy Pie. This could be a great summer after all.
+
+Enemy Pie was going to be awful. I tried to imagine how horrible it must smell, or worse yet, what it would look like. But when I was in the backyard, looking for ladybugs, I smelled something really, really, really good. And as far as I could tell, it was coming from our kitchen. I was a bit confused.
+
+I went in to ask Dad what was wrong. Enemy Pie shouldn’t smell this good. But Dad was smart.
+
+DAD: If Enemy Pie smelled bad, your enemy would never eat it.
+
+NARRATOR: I could tell he’d made Enemy Pie before.
+
+The buzzer rang, and Dad put on the oven mitts and pull the pie out of the oven. It looked like plain, old pie. It looked good enough to eat!
+
+But still. I wasn’t really sure how this Enemy Pie worked. What exactly did it do to enemies? Maybe it made their hair fall out, or their breath stinky. Maybe it made bullies cry. I asked Dad but he was no help. He wouldn’t tell me a thing. But while the pie cooled, he filled me in on my job.
+
+DAD: (quietly) There is one part of Enemy Pie that I can’t do. In order for it to work, you need to spend a day with your enemy. Even worse, you have to be nice to him. It’s not easy. But that’s the only way that Enemy Pie can work. Are you sure you want to go through with this?
+
+NARRATOR: Of course, I was. It sounded horrible. It was scary. But it was worth a try. All I had to do was spend one day with Jeremy Ross, then he’d be out of my hair for the rest of my life. I rode my bike to his house and knocked on the door. When Jeremy opened the door, he seemed surprised. He stood on the other side of the screen door and looked at me, waiting for me to say something. I was nervous. (to Jeremy) Can you play?
+
+JEREMY: (looking confused) I’ll go ask my mom.
+
+NARRATOR: He came back with his shoes in his hand. His mom walked around the corner to say hello.
+
+JEREMY’S MOM: (smiling) You boys stay out of trouble.
+
+NARRATOR: We rode bikes for a while and played on the trampoline. Then we made some water balloons and threw them at the neighbor girls, but we missed. Jeremy’s mom made us lunch.
+
+After lunch we went over to my house. It was strange, but I was kind of having fun with my enemy. He almost seemed nice. But of course, I couldn’t tell Dad that, since he had worked so hard to make this Enemy Pie.
+
+Jeremy Ross liked my basketball hoop. He said he wished he had a basketball hoop, but they didn’t have room for one. I let him win a game, just to be nice.
+
+Jeremy Ross knew how to throw a boomerang. He threw it and it came right back to him. I threw it and it went over my house and into the backyard. When we climbed over the fence to find it, the first thing Jeremy noticed was my tree house.
+
+My treehouse was my treehouse. I was the boss. If my sister wanted in, I didn’t have to let her. If my dad wanted in, I didn’t have to let him. And if Jeremy wanted in. . .
+
+JEREMY: Can we go in it?
+
+NARRATOR: I knew he was going to ask me that! But he was the top person, the ONLY person, on my enemy list. And enemies aren’t allowed in my tree house. But, he did teach me to throw a boomerang. And he did have me over for lunch. And he did let me play on his trampoline. He wasn’t being a very good enemy. (to Jeremy) Okay, but hold on.
+
+I climbed up ahead of him and tore the enemy list off the wall. I had a checkerboard and some cards in the tree house, and we played games until my dad called us down for dinner. We pretended we didn’t hear him, and when he came out to get us, we tried to hide from him. But somehow, he found us.
+
+Dad made us macaroni and cheese for dinner -- my favorite. It was Jeremy’s favorite too! Maybe Jeremy Ross wasn’t so bad after all. I was beginning to think that maybe we should just forget about Enemy Pie.
+
+But sure enough, after dinner, Dad brought out the pie. I watched as he cut the pie into eight thick slices. (to Dad) Dad, it sure is nice having a new friend in the neighborhood. (to audience) I was trying to get his attention and trying to tell him that Jeremy Ross was no longer my enemy. But Dad only smiled and nodded. I think he thought I was just pretending.
+
+Dad dished up three plates, side by side, with big pieces of pie and giant scoops of ice cream. He passed one to me and one to Jeremy.
+
+JEREMY: Wow! My dad never makes pies like this!
+
+NARRATOR: It was at this point that I panicked. I didn’t want Jeremy to eat Enemy Pie! He was my friend! I couldn’t let him eat it! (to Jeremy) Jeremy, don’t eat it! It’s bad pie! I think it’s poisonous or something! (mime Jeremy’s reaction as the next lines are spoken) Jeremy’s fork stopped before reaching his mouth. He crumpled his eyebrows and looked at me funny. I felt relieved. I had saved his life. I was a hero.
+
+JEREMY: If it’s so bad, then why has your dad already eaten half of it?
+
+NARRATOR: I turned to look at my dad. Sure enough, he was eating Enemy Pie! (mime Dad happily enjoying the pie)
+
+DAD: (with his mouth full) Good stuff!
+
+NARRATOR: And that was all he said. I sat there watching them eat Enemy Pie for a few seconds. Dad was laughing. Jeremy was happily eating. And neither of them was losing any hair! It seemed safe enough, so I took a tiny taste. Enemy Pie was delicious!
+
+After dessert, Jeremy rode his bike home but not before inviting me over to play on his trampoline in the morning. He said he’d teach me how to flip.
+
+As for Enemy Pie, I still don’t know how to make it. I still wonder if enemies really do hate it or if their hair falls out or their breath turns bad. But I don’t know if I’ll ever get an answer, because I just lost my best enemy.
+```
+
+---
+
+## IC-2018: Exchange
+
+- Title: Exchange
+- Author (byline): Ray Bradbury
+- Work: In the Stacks
+- Publisher: Overlook
+- Publication date as stated: Feb 2002
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: No
-- Spoken words (computed): 542
+- Spoken words (computed): 1671
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Shane Koyczan
-Book: Visiting Hours
-ISBN: 978-0973813104
-Publisher: House of Parlance Media, Inc.
-Date (Month/Year): Sept 2005
+Author: Ray Bradbury
+Book: In the Stacks
+ISBN: 978-1585672592
+Publisher: Overlook
+Date (Month/Year): Feb 2002
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-When your mother dies, lessons learned when you were four become much more meaningful. Sometimes the air thins and you gasp for breath just sitting in a chair. You lose something vast and precious that you didn't even know you had. Your chance to repay an enormous debt is lost. The one person who would take on anyone, or anything (any army for that matter) in your defense is no longer there for you. You very much want to give a big hug to every little old lady you meet. . . and you would love for them to hug you back.
-
-Move Pen Move by Shane Koyczan
+There is only one form of magic in the world: reading. Think about it for a moment. Reading can transport you to places you've never been and never will go. It can be your best friend and your escape from realities that are too difficult to manage. If there is any gift I could pass on to my own kids, it would be this one. Teaching them that reading is magic– true magic–and that libraries are the sanctuaries where you learn that magic. They are places where newcomers can be introduced to the magic, and old-timers can revel in it, one page at a time. Here, let me show you . . Exchange by Ray Bradbury.
 ```
 
 ### Performance text (classify this)
 
 ```text
-Stay
-That’s what mothers say when their sons and daughters go away
-They say stay
-My mother said go
-So I wasn’t there the night she fell out of her wheelchair
-So frustrated that she amputated her legs . . . rather tried to with
-a steak knife
-Her life lay on the white floor like
-Roses in the snow
-Our relationship was an anthem composed of words like
+There were too many cards in the file, too many books on the shelves, too many children laughing in the children's room, too many newspapers to fold and stash on the racks. . .
 
-“gotta go”
-So we went
-And sent our regards on post cards from the places we’ve been
-Stories about all the things we’ve seen
-That’s how it was with you and I
-Why say good bye when we could still write
-And then I took your hands
-We should have practiced our good-byes
-Because then I took your eyes
-And I was somewhere in the middle of nowhere
-Watching the sun rise
-Over a stop sign placed down the center line of a high way full of
-sudden turns for the worse
-Running back home cause I gotta play nurse
-Gotta figure out which pill alleviates which pain
-Which part of your brain is being used for a boxing bag
-As your body became a never ending game of freeze tag
-Taking place in an empty playground
-That was left looking for your limbs in the lost and found and I
-couldn’t set you free
-So we just sat there
-Our heads bent towards each other like flowers in the small
-hours of the morning
-While light wondering in like a warning that
-Time is passing
-And you right along with it
-Bit by bit everyday
-And all I can say is if I could I would write you some way
+Finally the last book was stamped, the last child fed through the great brass doors, and with immense weariness, Miss Adams moved back through a silence of forty years of books and being keeper of the books, and stood for a long moment by the main desk. Taking up her rubber stamp, she probed the files, weeding out errors, her fingers whispering between Dante and Darwin.
 
-out of this
-But my gift is useless
-And you said no
-Write me a poem to make me happy
-So I wrote move pen move
-Write me a bedroom where curse make love to our cancers
-But my mother just motions to a bottle full of answers and says
-Help me go
-And I know something of how pianos feel when it looks at the
-fireplace to see sheet music
-Being used for kindling
-Smoke signaling the end of some song that it thought would take
-too long to learn
-Now I just sit here and watch you burn away
-All those notes never had a chance to play to hear the music of
-what you had to say
-But I count out the pills just to see if I can do it
-I can’t even get half way through it before I turn back into your
-son and say
-Stay
-I could hook up my heart to your ears and let my tears be your
-morphine drip
-Because maybe it’s easier to let you slip away than it is to say
-goodbye
-So I hold my breath
-Because in the countdown to death the question of why melts
-into when
-How much time do we have left
-Because if I knew what I know now then
-I would say move pen move
-Write me a mountain
-Because head stones are not big enough
-And my mother says
-Stop it
-Write me a poem to make me happy
-So I write this
-Stay
-She smiles and says
-Gotta go
-I know
-Good bye. . .
+A moment later she heard the rapping on the front-door glass and saw a man's shadow outside, wanting in. Sighing, Miss Adams opened the door, saw a young man in uniform, and said, "It's late. We're closed." She glanced at his insignia and added, "Captain."
+
+"Hold on!" said the captain. "Remember me?" And repeated it, as she hesitated. "Remember?"
+
+She studied his face, trying to bring light out of shadow. "Yes, I think I do," she said at last. "You once borrowed books here. Many years ago.”
+
+"May I come in?"
+
+She hesitated, [then] led the way up the steps into the immense twilight of books. The young officer looked around and let his breath out slowly, then reached to take a book and hold it to his nose, inhaling, then almost laughing.
+
+"Don't mind me, Miss Adams. You ever smell new books? Binding, pages, print. Like fresh bread when you're hungry." His eyes were troubled and he fretted his cap, turning it in his long, slender fingers.
+
+She said gently, "Is anything wrong? Anything I can help you with?"
+
+He glanced out the window at the dark town, with just a few lights in the windows of the small houses across the way. "I was surprised. I don't know what I expected. Pretty dumb to expect that when I went away, everyone froze in place waiting for me to come home. That when I stepped off the train, all my old pals would unfreeze, run down, meet me at the station. Silly."
+
+"Did anyone know you were coming?" she asked.
+
+"I wrote a few, but no answers. I figured, they're busy, but they'll be there. They weren't."
+
+"I'm still here," she said.
+
+"You are," he said with a quick smile. "And I can't tell you how glad I am."
+
+"You know," she said, "I must confess you look familiar, but I don't quite fit your face with the boy who came here-"
+
+"Twenty years ago! And as for what he looked like, that other one, me, well-" He brought out a wallet and handed over a photograph of a boy perhaps twelve years old, with an impish smile and wild blond hair, looking as if he might catapult out of the frame.
+
+"Ah, yes." Miss Adams closed her eyes to remember. "Spaulding. William Henry Spaulding?"
+
+"Was I a lot of trouble?"
+
+"Yes." She nodded and held the picture closer and glanced up at him. "A fiend." She handed the picture back. "But I loved you."
+
+"Did you?" he said and smiled more broadly.
+
+"In spite of you, yes. A good question. Let's not stand like your frozen friends. Come along. Take off that coat. The file index is there. Go look up your old library cards.”
+
+He stood staring down into the index file like a bird fixing its gaze on a half-empty nest. He handed her one of the old purple-stamped cards. "I took out a lot of books."
+
+"Ten at a time. I said no, but you took them. And read them!”
+
+“Over here, of course, is the adult section."
+
+"I begged you to let me cross over when I was thirteen. 'You're not ready,' you said. But-"
+
+"I let you cross over anyway?"
+
+"I hope you won't be upset, but when I was a boy I used to look up and see you behind your desk, so near but far away, and, how can I say this, I used to think that you were Mrs. God, and that the library was a whole world, and that no matter what part of the world or what people or thing I wanted to see and read, you'd find and give it to me . . . You did, too. You had the world ready for me every time I asked. There was always a place I hadn't seen, a country I hadn't visited where you took me. I've never forgotten."
+
+She looked around, slowly, at the thousands of books. She felt her heart move quietly. "Did you really call me what you just said?"
+
+"Mrs. God? Oh, yes. Often. Always." He suddenly leaned against the banister, holding tight. "Miss Adams.” He exhaled. "I'm scared. I don't want to leave. I'm afraid. I don't want to go away without saying good-bye. If I never return, I want to see all my friends . . . But I walk around town and nobody knows me. Everyone's gone."
+
+Miss Adams took his arm and guided him to a brightly decorated room. ”Do you realize Thomas Wolfe was wrong?"
+
+"Wolfe? The great literary beast? Wrong?"
+
+"The title of one of his books."
+
+"You Can't Go Home Again?" he guessed.
+
+"That's it. He was wrong. This is home. Your friends are still here. This was your summer place."
+
+"Yes. Myths. Legends. Mummies. Aztec kings. Wicked sisters who spat toads. Where I really lived. But I don't see my people."
+
+She switched on a green-shaded lamp that shed a private light on a small table. "Isn't this nice? Most libraries today, too much light. There should be shadows, don't you think? Some mystery, yes? So that late nights the beasts can prowl out of the stacks and crouch by this jungle light to turn the pages with their breath. Am I crazy?"
+
+She vanished into the stacks and came out with ten books that she placed upright, their pages a trifle spread so they could stand and he could read the titles.
+
+"The summer of 1930, when you were, what? ten, you read all of these in one week."
+
+"Oz? Dorothy? The Wizard? Oh, yes."
+
+She placed still others nearby.
+
+"Alice in Wonderland. Through the Looking- Glass; Tarzan of the Apes; John Carter, Warlord of Mars. Dear lady, how come you remember all this?"
+
+"You never left. Summertimes you were here when I unlocked the doors. You sometimes brought sandwiches and sat out by the stone lion at noon. Your father pulled you home by your ear some nights when you stayed late. How could I forget a boy like that? You never played, never ran out in baseball weather, or football. Why?"
+
+He glanced toward the front door. "They were waiting for me . . . You know. The ones who never borrowed books, never read. They. Them. Those."
+
+"It's a wonder you survived. I used to watch you reading hunchbacked late afternoons. You looked so lonely."
+
+"No. I had these. Company."
+
+"Here's more." She put down Ivanhoe, Robin Hood, and Treasure Island. She came out not carrying many books but one at a time, as if each one were, indeed, special. She began to make a circle and as she placed the books, in lonely splendor, he said their names and then the names of the authors who had written them. She placed the first book and someone, far away, called "Kathy" a girl he had walked to school in the sixth grade [was] seated across the table.
+
+A second book was set in place and another girl [appeared], who hid behind the book and dared to pass him notes when he was twelve.
+
+And then [the girl] who always skirted the outer rim of school and went to swim in the deep lake ten thousand afternoons ago and never came out, so was never found, but suddenly now she made landfall here in the green-shaded light and opened Yeats.
+
+And on her right: John Huff, whose name came clearer than the rest, who claimed to have climbed every tree in town and fallen from none, who yodeled at your sun-up window and wrote the same Mark Twain book report in four different grades.
+
+And next to him was yet another girl.
+
+And next to her ...
+
+And just beyond ...
+
+And it was finished, all the books were placed. He sat for a long moment and then, one by one, opened them and read. Behind him, he heard the lady librarian quietly back away to leave him with words.
+
+A long while later he sat back, rubbed his yes, and looked around at the fortress of books, and nodded, his eyes wet.
+
+"Yes . . . Thomas Wolfe, the title of that book of his. Wrong. Everything's here. Nothing's changed."
+
+"Nothing will as long as I can help it . . . she said. Just then, from below the town, a train whistle blew. “Is that yours?"
+
+"No, but the one soon after," he said and got up and moved around the small monuments that stood very tall and one by one, shut the covers, his lips moving to sound the old titles and the old, dear names. Do we have to put them back on the shelves?"
+
+She looked at him and after a long moment said, "Tomorrow will do. Why?"
+
+"Maybe during the night, because of the color of those lamps, green, the jungle, maybe those creatures you mentioned will come out and turn the pages with their breath. And maybe . . . Maybe my friends, who've hid in the stacks all these years, will come out, too.”
+
+"They're already here.” She backed off across the room without making any sound, and when she reached her desk she called back, the last call of the night. "Closing time. Closing time, children." And turned the lights quickly off and then on and then halfway between; a library twilight.
+
+He moved from the table with the double circle of books and came to her and said, "I can go now."
+
+"Yes, William Henry Spaulding. You can
 ```
 
 ---
 
-## IC-1635: Mrs. Riberio and What Teachers Make
+## IC-2019: Fahrenheit 451
 
-- Title: Mrs. Riberio and What Teachers Make
-- Author (byline): Sarah Kay and Taylor Mali Mrs. Riberio
+- Title: Fahrenheit 451
+- Author (byline): Ray Bradbury
 - Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1320
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Sarah Kay
-Book: No Matter the Wreckage
-ISBN: 978-1938912481
-Publisher: Write Bloody Publishing
-Date (Month/Year): March 2014
-Author: Taylor Mali
-Book: What Learning Leaves
-ISBN: 978-1887012171
-Publisher: Hanover Press
-Date (Month/Year): July 2002
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-One of my favorite quotes about teaching goes something like this: One hundred years from now it will not matter what kind of car I drove, what kind of house I lived in, how much money I had in the bank, nor what my clothes looked like. But the world may be a little better, because... I was important in the life of a child. Teachers, I believe, are the most important people in our society – they shape the future.
-
-In her poem Mrs. Riberio, author Sarah Kay pays tribute to a teacher who most definitely shaped her future and the future of a multitude of students. Mrs. Riberio by Sarah Kay.
-```
-
-### Performance text (classify this)
-
-```text
-I was in Northern India, at a school run entirely by women volunteers, when I heard it for the first time in ages. It was barely audible above the shouting of children -- the squeals and laughter bubbling from the schoolyard into the classroom windows. But it was there: the swish of silk saris and the jingle jangle of bangles on thin wrists like wind chimes.
-
-This is what learning sounds like. I remember.
-
-I remember when I was five years old, the principal of my Junior School was Mrs. Ribeiro. She was an Indian woman the size of a nightlight, and she glided like a sailboat through the hallways of our school.
-
-Once, when I got close enough to grab a fistful of her draping silk sari, I lifted it to try and see whether she had any feet at all. I thought she floated.
-
-We begged to be sent to her office: the hanging plants like a jungle above our heads, her quiet laughter. Adults needed appointments, but we did not. And even when she was in a grown-up meeting, all it took was a gentle knock on the door, a peek around the corner, and she was off calling, "Sorry dear. We’ll have to reschedule. I have to see someone else about a very important matter. It’s about a gold star. It’s about a new diorama. It’s about a finished reading book one level higher than last time."
-
-She visited every classroom, knew every student by name. She spoke to us like we were scholars. Artists. Scientists. Athletes. Musicians. And we were My world was the size of a crayon box, and it took every color to draw her.
-
-Once, on a New York City sidewalk, a group of women in a brightly colored saris walked by and someone shouted, "Look, Mom. Look at all those principals!" My world was the size of a classroom. It was a tall as I could stretch my fingers, calling, Please! Let me be the one to read to Mrs. Ribeiro. Let me be the one to show her what I know. Clothes. Shirt. Pants. Socks. Shoes. Animals. Cat. Dog. Bird. Fish. Look how much I know.
-
-She brought us guests and artists and a petting zoo. They set up the cages in the parking lot while we were still tucked up in our classroom, unaware. Rabbits and guinea pigs poked out their noses, but Mrs. Ribeiro came to rest in front of the llama cage.
-
-She and the llama considered each other for a long time. She asked if he was tame enough to go inside. The trainers laughed and told her he was plenty tame, but he didn’t know how to go up stairs. So she led him to the elevator. And when the doors slid open on the second floor, there stood Mrs. Ribeiro in her bright pink sari, with gold bangles and a llama on a leash.
-
-She floated from class to class, and we stared, cheered, laughed, and shouted. We tugged at her sari calling, "Miss, what is that? Where did it come from?" She made us wonder. She made us question. She made us proud of what we had learned. Clothes. Shirt. Pants. Shoes. Socks. Saris. Animals. Cat. Dog. Bird. Fish. Llama. Look how much I’ve learned.
-
-She taught us to share. She taught us to listen when someone else is speaking. And then she let us go. We were dandelion seeds released to the wind, she asked for no return. We are saplings now with gentle hands.
-
-The girl with bright cheeks and messy hairpins now works at an orphanage in Cameroon. The boy with the color-ordered markers is now a graphic designer in Chicago. The one with the best diorama is now an animal activist in Argentina. The girl who loved to read out loud is now a poet in India. She let us fly. So I find myself at the front of a classroom. My students tug at my sleeves and ask me, "Miss, do all poets wear big black boots?" I pray for patience. For wisdom. To find a way to tame all the peculiar animals of this world, to coax them enough to brave the elevator, to see the doors slide open to my student’s gaping mouths.
-
-All the wile they wonder.
-They worry about everything.
-They worry about what to write.
-They worry about their grades.
-They talk over one another until I cannot hear them.
-
-I tell them, "Listen. Listen to one another like you know you are scholars. Artists. Scientists. Athletes. Musicians. Like you know you will be the ones to shape this world. Show me how many colors you know how to draw with. Show me how proud you are of what you have learned. And I promise I will do the same."
-
-TRANSITION So . . . . Sarah Kay leaves us with a teacher’s promise . . . but in this next poem, Taylor Mali leaves us with just as much passion when he speaks the truth about teaching. After all, he does have a policy about honest and ass-kicking. What Teachers Make by Taylor Mali What Teachers Make
-
-He says the problem with teachers is
-What’s a kid going to learn
-from someone who decided his best option in life
-was to become a teacher?
-He reminds the other dinner guests that it’s true
-what they say about teachers:
-Those who can, do; those who can’t, teach.
-I decide to bite my tongue instead of his
-and resist the temptation to remind the dinner guests
-that it’s also true what they say about lawyers.
-Because we’re eating, after all, and this is polite
-conversation.
-I mean, you’re a teacher, Taylor.
-Be honest. What do you make?
-And I wish he hadn’t done that— asked me to be
-honest—
-because, you see, I have this policy about honesty and
-ass-‐kicking:
-if you ask for it, then I have to let you have it.
-
-You want to know what I make? I make kids work harder than they ever thought they could. I can make a C+ feel like a Congressional Medal of Honor and an A-‐ feel like a slap in the face. How dare you waste my time with anything less than your very best. I make kids sit through 40 minutes of study hall in absolute silence. No, you may not work in groups. No, you may not ask a question. Why won’t I let you go to the bathroom? Because you’re bored. And you don’t really have to go to the bathroom, do you? I make parents tremble in fear when I call home: Hi. This is Mr. Mali. I hope I haven’t called at a bad time, I just wanted to talk to you about something your son said today. To the biggest bully in the grade, he said, “Leave the kid alone. I still cry sometimes, don’t you? It’s no big deal.”
-
-And that was noblest act of courage I have ever seen.
-I make parents see their children for who they are
-and what they can be.
-You want to know what I make? I make kids wonder,
-I make them question.
-I make them criticize.
-I make them apologize and mean it.
-I make them write.
-I make them read, read, read.
-I make them spell definitely beautiful, definitely
-beautiful, definitely beautiful
-over and over and over again until they will never
-misspell
-either one of those words again.
-I make them show all their work in math
-and hide it on their final drafts in English.
-I make them understand that if you’ve got this,
-then you follow this,
-and if someone ever tries to judge you
-by what you make, you give them this.
-
-Here, let me break it down for you, so you know what I say is true: Teachers make a goddamn difference! Now what about you?
-```
-
----
-
-## IC-1636: Mulatto Poetry Program
-
-- Title: Mulatto Poetry Program
-- Author (byline): Langston Hughes and Zora Howard
-- Work: Clutch
-- Publisher: Penmanship Books
-- Publication date as stated: Jan 2011
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 856
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Cross by Langston Hughes and
-Mulatto by Langston Hughes
-Book: The Collected Poems of Langston Hughes
-ISBN: 978-1439571736
-Publisher: Vintage Classics
-Date (Month/Year): Nov 2008
-Biracial Hair by Zora Howard
-Book: Clutch
-ISBN: 978-0983121909
-Publisher: Penmanship Books
-Date (Month/Year): Jan 2011
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-That first poem was Cross by Langston Hughes . . . and it makes me think about the difficulty of growing up as a part of two different cultures.
-
-I often hear people say things like, “It doesn’t matter what you look like on the outside; it’s what’s inside that counts,” or “Nobody’s really different; we are all the same,” Really?
-
-Let’s keep it real, we are not all the same, and you can sugar-coat it if you’d like to, but at the end of the day, each one of us has a unique story to tell and personal struggle that is all our own. Mulatto by Langston Hughes tells of his personal struggle to fit in.
-```
-
-### Performance text (classify this)
-
-```text
-Cross by Langston Hughes My old man’s a white old man And my old mother’s black. If ever I cursed my white old man I take my curses back. If ever I cursed my black old mother And wished she were in hell, I’m sorry for that evil wish And now I wish her well My old man died in a fine big house. My ma died in a shack I wonder where I’m going to die, Being neither white nor black.
-
-Mulatto by Langston Hughes
-I am your son, white man!
-Georgia dusk
-And the turpentine woods.
-One of the pillars of the temple fell.
-You are my son!
-Like Hell!
-The moon over the turpentine woods.
-The Southern night
-Full of stars,
-Great big yellow stars.
-What’s a body but a toy?
-Juicy bodies
-Of nigger wenches
-Blue black
-Against black fences.
-O, you little bastard boy,
-What’s a body but a toy?
-The scent of pine wood stings the soft night air.
-What’s the body of your mother?
-Silver moonlight everywhere.
-What’s the body of your mother?
-Sharp pine scent in the evening air.
-A nigger night,
-A nigger joy,
-A little yellow
-Bastard boy. Naw, you ain’t my brother.
-Niggers ain’t my brother.
-Not ever.
-Niggers ain’t my brother.
-
-The Southern night is full of stars,
-Great big yellow stars.
-O, sweet as earth,
-Dusk dark bodies
-Give sweet birth
-To little yellow bastard boys.
-Git on back there in the night,
-You ain’t white
-The bright stars scatter everywhere.
-Pine wood scent in the evening air.
-A nigger night,
-A nigger joy. I am your son, white man!
-A little yellow
-Bastard boy.
-
-TRANSITION Take two or more cultural identities and mix them together, then slap a few labels and stereotypes onto them, dice ‘em up and then, just for fun, put them all back together again into whatever one box you see fit that day based on, say . . . hair texture, skin tone, eye or nose shape, and lip fullness, et voila! You’ve got a mixed-race person. And for 13 year old Zora Howard, Bi-racial Hair is the worst!
-
-Biracial Hair by Zora Howard
-I have bi-racial hair
-Pantene Pro-V waves on the top
-Easy to style, comb, rock-
-Until-I encounter my naps,
-I’m not talking about those-cute detangle with the spray
-naps.
-I’m talking about those, slave naps, like,
-No comb, brush, or man can handle the kind of naps I
-got- like,
-No way you are touching my hair-naps like
-Back 10 feet up, or we can dance naps
-Those naps like-
-D***!
-I have bi-racial hair,
-Those smooth and silk rafts hanging all through my
-mane,
-Until you get to the back, and encounter the jungle, in
-which you can find Tarzan and Jane.
-In the front you forget and relax in the pleasure,
-Until you get to the back and remember pain
-Baby hair slicked back with that good 4 dollar pomade,
-That goes with roots and tangles,
-Soaked with that same olive oil; mixed with that
-spaghetti sauce mom made.
-I have bi-racial hair,
-Combs run freely through my fine breezy, just to the
-part, the most you can make,
-Until it gets to the back and
-Breaks.
-I have bi-racial hair
-Like-
-The only thing my mother could put it in was 2 big
-braids,
-And sometimes that was to much,
-So she left half undone.
-I was in the mirror, I was in the mirror,
-Convincing myself I looked just like a dark-skinned Alicia
-Keys
-I have bi-racial hair,
-because I have bi-racial blood.
-I’m not talking about that-cute they met then fell in
-love, blood
-I’m talking about that- slaved raped six times by the
-master,
-Birthing 6 mixed babies, later hung blood
-I’m talking about that cross burning in the mud, blood
-And you call me a mud blood,
-Slit my wrist,
-my blood does not excrete in black and white.
-I dream in verse and in red
-Like what drained from Emmett Tills’ lips when he was
-killed for breaking down color lines
-Bi-racial who succumbs to the abuse from her peers in
-her middle school,
-Those whose who constantly called me an Oreo
-Well she’s not white, it’s more like Reese’s cookie, mixed
-breed or a mulatto
-That’s what it is a reverse mulatto
-I AM NOT A F****** COOKIE OR A B****!
-My roots are deep too
-my bi-racial roots are not blind
-or more than cotton soft
-cause my blood were in the sun, picking cotton too
-a thousand times desecrated for my race
-a thousand time desecrated from my history y'all never
-get
-let textbooks be your truth
-and sprinkle the ashes of your history into streams
-I dream for a time and place where
-maybe y'all all accept me
-maybe we need to wake up again and remember a
-morning of you
-like something new
-baby I'll be green cause my people drove there
-you people drove me there
-with my tender heart
-tender head
-and my bi-racial hair
-```
-
----
-
-## IC-1637: Multi-Cultural Collection
-
-- Title: Multi-Cultural Collection
-- Author (byline): Regie Cabico, Margaret Burroughs and Willie Perdomo
-- Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1530
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Regie Cabico
-Book: Returning a Borrowed Tongue
-ISBN: 978-1566890434
-Publisher: Coffee House
-Date (Month/Year): 1995
-Author: Margaret Burroughs
-Book: Writing African American Women
-ISBN: 978-0313331961
-Publisher: Greenwood
-Date (Month/Year): April 2006
-2003 National Qualifier
-Author: Willie Perdomo
-Book: Where a Nickel Costs a Dime
-ISBN: 9780393313833
-Publisher: W.W. Norton and Company
-Date (Month/Year): March 1996
-Watch Willie Perdomo preform this poem at
-https://www.youtube.com/watch?v=Mvo0g3dHAHw
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Who can say what race a person belongs to strictly by his or her appearance? Labeling leads people to distinguish themselves from others based on a racial category. Why must we label people at all? Each person is different and possesses unique qualities. Check one race? How about The Human Race. This is a Collection on the concept of Race.
-```
-
-### Performance text (classify this)
-
-```text
-Check One by Regie Cabico
-
-The Government asks me to "check one" if I
-want money.
-I just laugh in their face and say,
-"How can you ask me to be one race?"
-
-I stand proudly before you a fierce Filipino who knows how to belt hard-gospel songs played to African drums at a Catholic mass-and loving the music to suffering beats, and lashes from men's eyes on the capitol streets-
-
-South-East D.C..., with its sleepy crime, my mother nursed patients from seven to nine, patients gray from the railroad riding past civil rights
-
-I walked their tracks when I entertained them at the chapel and made their canes pillars of percussion to my heavy gospel-my comedy out-loud, laughing about, our shared, stolen experiences of the South.
-
-Would it surprise you if I told you my blood was delivered from North off Portuguese vessels who gave me spiritual stones and the turn in my eyes-my father's name when they conquered the Pacific Isles. My hair is black and thick as "negrito," growing abundant as "sampaguita"-flowers defying civilization like pilipino pygmies that dance in the mountain.
-
-I could give you an epic about my ways of life or my look and you want me to fill it in "one square box." From what integer or shape do you count existing identities, grant loans for the mind, or crayola white census sheets- There's no "one kind" to fill for anyone.
-
-You tell me who I am, what gets the most money and I'll sing that song like a one-man caravan. I know arias from Naples, Tunis, and Accra-lullabyes from welfare, food-stamps, and nature
-
-and you want me to sing one song? I have danced jigs with Jim Crow and shuffled my hips to a sonic guitar of Clapton and Hendrix, waltzed with dead lovers, skipped to bamboo sticks, belleted kabuki and mimed cathacali arrivedercied-a-rhumba and tapped Tin Pan Alley-and you want me to dance the Bhagavad Gita on a box to small for a thumbelina-thin diva?
-
-I'll check "other"
-
-TRANSITION In 1970, 1 in 100 babies born was multiracial; these days, that number has climbed to 1 in 10. By 2050, 1 in 5 Americans is expected to be multiracial. Why is this important? Because in America, multiracial individuals are always labeled as “non-white” – and in America today, it’s still a white man’s world. What Shall I Tell My Children who are Black by Margaret Burroughs.
-
-What Shall I Tell My Children Who Are Black by Margaret Burroughs
-
-What shall I tell my children who are black Of what it means to be a captive in this dark skin? What shall I tell my dear one, fruit of my womb, of how beautiful they are when everywhere they turn
-
-they are faced with abhorrence of everything that is black. The night is black and so is the boogyman. Villains are black with black hearts.
-
-A black cow gives no milk. A black hen lays no eggs. Storm clouds, black, black is evil and evil is black and devil’s food is black…
-
-What shall I tell my dear ones raised in a white world A place where white has been made to represent all that is good and pure and fine and decent, where clouds are white and dolls, and heaven surely is a white, white place with angels robed in white, and cotton candy and ice cream and milk and ruffled Sunday dresses
-
-and dream houses and long sleek Cadillacs and Angel’s food is white… all, all… white.
-
-What can I say therefore, when my child Comes home in tears because a playmate
-
-Has called him black, big lipped, flatnosed and nappy headed?
-
-What will he think when I dry his tears and whisper, “Yes, that’s true. But no less beautiful and dear.” How shall I lift up his head, get him to square his shoulders, look his adversaries in the eye, confident in the knowledge of his worth. Serene under his sable skin and proud of his own beauty?
-
-What can I do to give him strength That he may come through life’s adversities
-
-As a whole human being unwarped and human in a world Of biased laws and inhuman practices, that he might Survive. And survive he must! For who knows? Perhaps this black child here bears the genius To discover the cure for… cancer
-
-Or to chart the course for exploration of the universe. So, he must survive for the the good of all humanity.
-
-He must and will survive. I have drunk deeply of late from the fountain of my black culture, sat at the knee of and learned from mother Africa, discovered the truth of my heritage. The truth, so often obscured and omitted. And I find I have much to say to my black children. I will lift up their heads in proud blackness with the story of their fathers and their father’s fathers. And I shall take them into a way back time of kings and queens who ruled the Nile, and measured the stars and discovered the laws of mathematics.
-
-I will tell them of a black people upon whose backs have been built the wealth of three continents. I will tell him this and more. And knowledge of his heritage shall be his weapon and his armor;
-
-It will make him strong enough to win any battle he may face. And since this story is so often obscured, I must sacrifice to find it for my children, even as I sacrifice to feed, clothe and shelter them.
-
-So this I will do for them if I love them. None will do it for me.
-
-I must find the truth of heritage for myself and pass it on to them.
-
-In years to come, I believe because I have armed them with the truth, my children and their children’s children will venerate me. For it is the truth that will make us free!
-
-TRANSITION In a climate currently riddled with anti-immigrant and anti- Latino rhetoric, people of mixed-race (black and Latino) face significant challenges as well. Afro-Latinos are often deemed too black for the Latino culture and not black enough for African Americans. Willie Perdomo explains in Nigger-Reecan Blues. I say again: Why must we label people at all? Check one race? How about The Human Race.
-
-Nigger-Reecan Blues by Willie Perdomo *NOTE: a link to the video of Willie Perdomo performing this selection is included at the end of this file. Multiple characters are portrayed.
-
-Hey, Willie. What are you, man? Boricua (a Puerto Rican, especially one living in the United States.) ? Moreno? (A Spanish term to refer to individual of dark skin tones) Que?
-
-I am.
-
-No, silly. You know what I mean: What are you?
-
-I am you. You are me. We the same. Can’t you feel our veins drinking the same blood?
-
-—But who said you was a Porta Reecan?
-—Tú no eres Puerto Riqueño, brother.
-—Maybe Indian like Gandhi Indian.
-—I thought you was a Black man.
-—Is one of your parents white?
-—You sure you ain’t a mix of something like
-—Portuguese and Chinese?
-—Naaaahhhh…You ain’t no Porta Reecan.
-—I keep telling you: The boy is a Black man with an
-accent.
-
-If you look closely you will see that your spirits are standing right next to our songs. Yo soy Boricua! You soy Africano! I ain’t lyin’. Pero mi pelo es kinky y kurly y mi skin no es negra pero it can pass…
-
-—Hey, yo. I don’t care what you say—you Black.
-
-I ain’t Black! Everytime I go downtown la madam blankeeta de madeeson avenue sees that I’m standing right next to her and she holds her purse just a bit tighter. I can’t even catch a taxi late at night and the newspapers say that if I’m not in front of a gun, chances are that I’ll be behind one. I won-der why…
-
-—Cuz you Black, nigger.
-
-I ain’t Black, man. I had a conversation with my professor. Went like this:
-
-—Where are you from, Willie?
-
-—I’m from Harlem.
-
-—Ohh! Are you Black?
-
-—No, but—
-
-—Do you play much basketball?
-
-Te lo estoy diciendo, brother. Ese hombre es un moreno! Míralo! Mira yo no soy moreno! I just come out of Jerry’s Den and the coconut spray off my new shape-up sails around the corner, up to the Harlem River and off to New Jersey. I’m lookin’ slim and I’m lookin’ trim and when my homeboy Davi saw me, he said: “Coño, Papo. Te parece como un moreno, brother. Word up, bro. You look like a stone black kid.”
-
-—I told you—you was Black.
-
-Damn! I ain’t even Black and here I am sufferin’ from the young Black man’s plight/the old white man’s burden/and I ain’t even Black, man/a Black man/I am not/Boricua I am/ain’t never really was/Black/like me…
-
-—Leave that boy alone. He got the Nigger- Reecan Blues
-
-I’m a Spic!
-I’m a Nigger!
-Spic! Spic! No different than a Nigger!
-Neglected, rejected, oppressed, and depressed
-
-From banana boats to tenements Street gangs to regiments… Spic! Spic! I ain’t nooooo different than a Nigger.
-```
-
----
-
-## IC-1638: The Museum of Broken Relationships
-
-- Title: The Museum of Broken Relationships
-- Author (byline): Andrea Gibson
-- Work: You Better Be Lightning, Pg 10-15; 45; 104-105
-- Publisher: Button Poetry
-- Publication date as stated: Nov 2021
-- Event as filed: Poetry
-- Record type: Cutting
-- Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 959
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Andrea Gibson
-Book: You Better Be Lightning, Pg 10-15; 45; 104-105
-ISBN: 978-1943735990
-Publisher: Button Poetry
-Date (Month/Year): Nov 2021
-Visit the virtual museum at https://brokenships.com/
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-In 2006, Olinka Vistica & Drazen Grubisic created a communal space, a kind of refuge for – and cathartic celebration of – the everyday objects that had outlasted love. These items, along with the anonymous, intimate stories each piece represented, quickly captured hearts and imaginations across the globe. As word spread, the tiny museum became a worldwide sensation.
-
-Today, you are invited to explore our ultimate need for love and connection despite the difficulties that go with it.
-
-The Museum of Broken Relationships by Andrea Gibson
-```
-
-### Performance text (classify this)
-
-```text
-Museum of Broken Relationships
-
-(Pg 10-15) In Croatia, in 2006, Olinka and Drazen broke up.
-Having no idea what to do with the relics
-from the four years of their love, they created
-the Museum of Broken Relationships.
-
-For years now they've been collecting items from the broken-hearted all over the world.
-
-Each day, treasures arrive at the museum's door: a small bottle of a lover's tears.
-
-The last checkbook with both partners' names.
-A shiny watch with the pin pulled out
-the second he said I love you for the first time.
-In the Museum of Broken Relationships
-
-there is a toaster. Beside it, a note:
-When I moved across the country
-I took the toaster. That will show you.
-How are you going to toast anything now?
-
-In another display there is a cell phone.
-Written beside it, the words: He gave me
-his own cell phone so I couldn't
-call him anymore.
-
-There is a letter T from a keyboard
-from a couple whose online passion died
-after their first real-life encounter.
-The keyboard taken apart in a commitment
-
-to never again trust a computer key
-to open one's heart. In the Museum
-of Broken Relationships, you can find a letter
-from a thirteen-year-old boy to his first love in Sarajevo
-written before leaving to escape the war.
-
-You can find an air sickness bag from a couple whose relationship did not survive the turbulence of long distance.
-
-You can find an ax used to chop the furniture of a partner who had an affair, giving new traumatic meaning to the phrase splitting up.
-
-There is a jar of Love Incense with a note that says, It simply doesn't work.
-
-And in the Museum of Broken Relationships in Croatia, there are three juggling balls sewn by hand,
-
-by my hands, from material cut from my socks, you say, though I am certain
-
-it was my underwear. Either way, the juggling balls were made from what I wore
-
-underneath what everyone could see
-and sewn with precision
-the way my grandma taught me
-before dying of a broken heart
-and leaving me a collection of thimbles
-so I couId be someone
-
-strong enough to keep things from falling apart. The first time I saw you
-
-I fell apart. I had no idea who you were. You walked into a studio l was in
-
-and walked out. Minutes later I was a puddle in the parking lot,
-
-my friend's hand on my back asking what was wrong. I couldn't explain it.
-
-It was 2003. I had no woo-woo in me back then. I didn't believe
-
-in reincarnation.
-I just knew I'd loved you once
-and would again. Months later,
-still not knowing who you were,
-I saw you on TV reporting the invasion
-of Iraq, then the occupation of Palestine,
-
-a blood fire in the sky above you and you not flinching, or I thought you weren't flinching
-
-until we started sharing a bed and I could see the war behind your eyelids,
-
-how you tore the covers off every morning like a kid unwrapping a gift.
-
-Like the dawn of a simple day was everything you'd ever put on your Christmas list.
-
-I'd still be sleeping when you'd leave for circus practice. Circus practice, where you'd walk the tightrope, twirl
-
-on trapeze bars, then come home
-and pull me into the front yard to teach me
-how to toss juggling balls
-into a still-blushing sky.
-When I think about why we broke up,
-why you flew all the way to Croatia
-
-to let go of the juggling balls I made you, I know it's because I was a terrible juggler. I couldn't figure out how to hold something
-
-and set it free at the same time. So I dropped the ball. Convinced myself I was up in the air about you
-
-when really I was up in the air about me. It's what we do turn our bodies into museums of what was broken. Blame
-
-the checkbook, the affair, the bottled up tears. Blame the toast going stale the day after the wedding.
-
-We rip the letter off the keyboard instead of control, command, escape, delete. Say it was the turbulence
-
-of long distance instead of the baggage unclaimed. But at the carousel of clarity (otherwise known as fifteen years of therapy).
-
-I see I wasn't running from the war back then. I was running from the peace. The love I did not believe I was worth.
-
-And because that lie held so much grief, I don't know that I ever got over you as much as I got under
-
-the engine of myself to fix the machine of my love, which now runs okay
-
-but still runs way too much, if you know what I mean, and I know you know what I mean,
-
-because this was not the first lifetime we said goodbye without wanting to say goodbye,
-
-was it?
-
-Spelling Bee Without Stinger
-
-(Pg 45) I love myself
-is often spelled
-g-o-o-d-b-y-e
-See This Through
-
-(Pg 104-105) My therapist has a theory about love. She says often we are believing a lie when we believe time is what helps us see each other more clearly. Says to consider the opposite might be true. Consider the beginning might actually be when our hearts have perfect vision.
-
-What if what you saw then was the truth? Your holiest self seeing someone else’s holiest self? What if what came after was the lie? What if the disco ball never stopped sparkling, something just closed your eyes? Your past, maybe? The terror you carry inside? The not enough or too much that raised you to do everything you could to ensure you’d be hurt more than you’d be loved.
-```
-
----
-
-## IC-1639: Neferti-iti
-
-- Title: Neferti-iti
-- Author (byline): Ethyl Eichelberger
-- Work: Extreme Exposure: An Anthology of Solo Performance Texts from the 20th Century
-- Publisher: Theatre Communications Group
-- Publication date as stated: February 1999
-- Event as filed: Poetry
+- Publisher: Del ray
+- Publication date as stated: Aug 1987
+- Event as filed: Prose
 - Record type: Cutting
 - Speaker labels in the text: none
 - Teaser before the introduction: No
-- Spoken words (computed): 2350
+- Spoken words (computed): 1859
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Ethyl Eichelberger
-Book: Extreme Exposure: An Anthology of Solo
-Performance Texts from the 20th Century
-ISBN: 978-1559361552
-Publisher: Theatre Communications Group
-Date (Month/Year): February 1999
+Author: Ray Bradbury
+ISBN: 978-0345342966
+Publisher: Del ray
+Date (Month/Year): Aug 1987
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-Nefertiti was the wife of the Egyptian Pharaoh Amenhotep IV (later Akhenaten), and mother-in-law of the Pharaoh Tutankhamun. Her name roughly translates to "the beautiful one is come". Famed throughout the ancient world for her outstanding beauty, Nefertiti remains the one of the most well known Queen of Egypt. Though Akhenaten had several wives, Queen Nefertiti was his chief wife. Nefertiti joined her husband in worship of a new religion that celebrated the power of the sun-disk Aten - a god of light. In this religion, she was a priest. Supposedly, It was only through the combined royal pair, that the full blessing of god Aten could be bestowed.
-
-May I introduce you to the woman who was . . . . . Neferti-iti by Etyhl Eichelberger.
-
-Ancient Egypt, Eighteenth Dynasty, inside the royal sunshade of Nefert-iti. The Egyptian queen has barricaded herself inside the tomb built for her by her husband Akhenaten. Her sisters and her lover, Bek, the artist who created the queen's famed bust, pay visits, yet remains locked outside the tomb.
+Fahrenheit 451 takes place in an unspecified future time in a hedonistic and rabidly anti-intellectual America that has completely abandoned self-control and bans the possession of books. People are now only entertained by in-ear radio and an interactive form of television. Firemen in this futuristic setting are not enlisted to fight first, but rather to burn books and the houses that hold them, and to persecuting anyone in possession of the banned material Over the years, the novel has been subject to various interpretations, primarily focusing on the historical role of book burning in suppressing dissenting ideas. However, Bradbury has stated that the novel is not about censorship, but is a story about how television destroys interest in reading literature, which ultimately leads to ignorance of total facts. Fahrenheit 451, “"the temperature at which book-paper catches fire, and burns …" by Ray Bradbury
 ```
 
 ### Performance text (classify this)
 
 ```text
-Thank Aten I'm a beautiful woman!
+Montag looked at these men whose faces were sunburnt by a thousand real and ten thousand imaginary fires, whose work flushed their cheeks and fevered their eyes. These men who looked steadily into their platinum igniter flames as they lit their eternally burning black pipes. They and their charcoal hair and soot-colored brows and bluish-ash-smeared cheeks where they had shaven close; but their heritage showed.
 
-Without that I'd have nothing, no one, nor my self-
-respect!
-(" Impassioned hormones" with a need to be expressed,
-a professional woman,
-a serious live-er of life!)
-Quel joie to be alone each day here in this lovely
-sunshade Akhenaten built me!
-Today is different, though
-All Egypt will regret!
+Montag started up, his mouth opened. Had he ever seen a fireman that didn't have black hair, black brows, a fiery face, and a blue-steel shaved but unshaved look? These men were all mirror images of himself! Were all firemen picked then for their looks as well as their proclivities? The color of cinders and ash about them, and the continual smell of burning from their pipes. Captain Beatty there, rising in thunderheads of tobacco smoke. Beatty opening a fresh tobacco packet, crumpling the cellophane into a sound of fire.
 
-(Laughter like the tinkling of bells is heard from offstage.) It's lovely here with no one telling me what to do! No one turning my priceless uniqueness into worthless guilt! Sometimes in this sunshade I have the distinct feeling I'm being watched, but I am alone here, you can see that!
+Montag looked at the cards in his own hands. "I- I've been thinking. About the fire last week. About the man whose library we fixed. What happened to him?"
 
-(Knocking is heard on tomb door.) There is a knocking at my temple door-who could it be? I'll ignore the eager knock!
+"They took him screaming off to the asylum."
 
-Go away, there's no one here! (Listens at door.) I won't go back to Memphis-I won't! You can't make me! Scarcity is valued, so value me-- I've made myself scarce! I'll keep right on praying to Aten, thank you. I'm too old to change! Time is running out! There just aren't enough hours in the day to worship all those other gods again! Besides, I've sworn my Ka to Aten, the one and only God, the god whose golden rays come streaming down to give me life!
+"He wasn't insane."
 
-(Knocking is again heard on tomb door.) Go 'way! No not Osiris; I won't let my beautiful body be shriveled into a dried-up image of Osiris Give me life, give me the globe, Aten; I have no need to be preserved forever, when I'm dead and gone they'll not forget me! "She passed like a meteor, leaving the world astonished and amazed!" (Knocking on door continues.) Stop that pounding and send for Bek- Have him make a bust of me, then carve my thoughts beneath it. And for Aten's sake make sure he carves my cartouche right this time; there is only one uraeus, not two! My dear, if Bek paid as much attention to his work as he did to his diet, something would get done around here! Tell me, what good are lazy people? Everybody has to work! I don't mind ... I love to work; the busier the better! Fill my life with work! But my father is a military genius, I've always been moderately wealthy and relatively unhappy -- could have spoiled me rotten, but he didn't- He cracked the whip at home and made us girls work! "People who don't work are bums," he taught us! "Bums!" What does he know? Who does he think he is anyway? The father of God! Casta diva ... Oh, Aten, make father Ay butt out of my life! He doesn't give me credit for anything!
+Beatty arranged his cards quietly. "Any man's insane who thinks he can fool the government and us."
 
-I've had to claw my way to the sanctity of this
-sunshade!
-Isis knows it hasn't been easy!
-It's a lot of hard work being a queen!
-And there are factions out there who don't like what I
-represent!
-Tough noogies!
-I have a right to be here!
-Don't do that here!
-"Don't be a queen," they say!
-The kinder ones tell me that I transcend queenery-
-They let me know they'll overlook my queenly failings
-and benignly be so gracious as to accept me as one of
-them.
-It's true most people would rather queens should stay
-under wraps, so to speak!
-Hide!
-Deny your feminine soul!
-Being a queen frightens them!
-But I am a queen, a beautiful one, at that!
-I know who I am!
+"I've tried to imagine," said Montag, "just how it would feel. I mean, to have firemen burn our houses and our books."
 
-Ms. Marcia and I share the same madnessI have seen it in a dream! If my soul were to present itself to me within a miraculous vision, I would have that soul emblazoned on my back for all the world to see! (Knocking on tomb door starts again.) Quit pounding on that door! You're giving me a headache. I don't care if the Hittites are coming I won't come out! Oh, go on, I'm not afraid! They wouldn't dare come in here! I am safe here! This is a magic place! Aten will protect me ...
+We haven't any books."
 
-(More knocking on tomb door is heard.) What light, lovely knocking now! Mut-Nodjme, Honey, is that you, my sweet little sister? No, Dear-heart, I shan't come out again I've decided to refuge myself in here forever. Oooeee, what is that awful stench? Mut, Honey, have you got those stinking dwarves with you again?
+"But if we did have some."
 
-I don't care if the Mitannia emperor did give them to
-you, do you have to take them everywhere you go?
-I will not shut up! I don't care if I hurt their little
-feelings!
-Let them hang around your sunshade!
-Mut-Nodjme, don't go away mad!
-Mut-Nodjme!
-Gone!
-Have a pleasant voyage back to Memphis!
-I'll miss you, light of my life!
-She's such a sweet girl -ambitious-
-But she's nice, my little Nodjme!
-Whoever followed me about and aped my ways!
-Will I never ever see happy Mut-Nodjme?
-She'll remember me kindly all her days!
-I'm hot!
-The Aten's globe has risen to its zenith! Now is the time
-to pray! (Starts to play dulcimer and sing-stops.)
-Merytaten should be here to shake her little sistrum
-while I play-ah, children!!!
-What can you do with them?
+"You got some?"
 
-All she cares for is that foolish Smenkhare and his
-vegetarian ways!
-She'll be sorry!
-Where is Meketaten now?
-I miss her so! ... (pause.)
-Oh, I won't let myself get started on that; not now!
-This is a joyous day! I must think positive!
-If Ankhesenpaten were here, she'd tell me a joke and
-tickle her little Neferneferura!
-Ah, three lovely children have I now,
-even though three lovely more have died -three
-daughters live while three have passed overthree out of
-six-not bad,
-could have been worse!
-Praise be to Aten ... (plays dulcimer and sings.)
-And here I sit alone-" I'm never bored!"
-This must be what life is like to barren people,
-disciples of Seth with never hope of having children-
-actually, it's not so bad, I rather like having no one's
-company but my own! (Picks up hand mirror and looks into
-it.)
+Beatty blinked slowly.
 
-I know who I am-
-you know who I am-
-and then there is the real me who grins and hides from
-sight!
-Thank goodness I've brought clay tablets and senet
-games!
-I'll summon Thoth and write 'til day is done!
-Thoth- Thoth(No response.) and here I sit alone!
-Dear Aunt Tiye once told me:
-"Being alone is not the worst thing in the world!" -But, it
-is!!! Yes it is-
-it's horrible=deplorable->
-especially when the Aten begins his nightly journey
-beneath the Nile!
-Where are my lover's arms to hold me!
-Oh for pity's sake!
-I hereby choose to be alone-
-I renounce my children; I have no children,
-I renounce my husband; I have no husband
-my belief in the Aten will sustain me-
-l have my beliefs in one God to guide me! (Knocking on
-tomb door starts again.)
-Cease knocking-
-I won't go back to Memphis, I won't; you can't make me!
-There just aren't enough hours in the day to worship all
-those other godsI am a student of the late Amenophis-
-son-of-Hapu who has given me the strength to fight for
-my
-belief in Tiye, no, not "Inti," but "Aten!" (Listens at
-tomb door.)
-Who sighs beside my door and stirs the desert's
-silence?
-Is it you at last?
-The sound of your voice awakens flowers in my heart!
-Go away!
-Do not tempt me!
-Let me feel nothing once again!
-Yes, I long to see you, hold you, give myself up to my
-caged desires like I did when you first looked into my
-eyes-
-Do I make no sense?
+"No." Montag gazed beyond them to the wall with the typed lists of a million forbidden books. Their names leapt in fire, burning down the years under his ax and his hose which sprayed not water but kerosene. "No." But in his mind, a cool wind started up and blew out of the ventilator grille at home, softly, softly, chilling his face. And, again, he saw himself in a green park talking to an old man, a very old man, and the wind from the park was cold, too.
 
-I never asked you to understand me
-Joy was mine when you but listened!
-No, it is too late-our lives got in the way!
-No, no! Of course I love you!
-You are the divine father, my lover, the sacred
-possessor of Min's phallic treasures!
-Call me by my rightful name again and sing to me of
-happiness, make hunger fly my aching heart!
-I do not choose to hear them, Bek!
-For me they do not exist!
-While you stand close, all I can hear are fleet gazelle
-and leopards screaming when the hounds have dragged
-them down!
-Oh bless you, simplicity becomes you,
-it is I who am pretentious-
-But you will always remain in my mind
-if I may use your own words: "Pretentiously
-unpretentious!"
-All right, for Aten's sake, labels, labels, labels!
-Forgive me, I've offended you again! ...
-But we don't change, do we?
+Montag hesitated. "Was-was it always like this? The firehouse, our work? I mean, well, once upon a time. . ."
 
-... Good-bye! ...
-Yes, I'm telling you to go! Would you rob me of
-my few remaining shreds of dignity!
-Leave me, let me be! I was happy before I needed you!
-No, I'm neither happy nor unhappy!
-I try not to think about it anymore! I exist! ...
-Of course I have survived!
-There was nothing left inside me to destroy after you
-had had your way ...
-Oh, please don't leave just yet! ...
-Yes, I do remember well! It was early morning!
-I was gazing out upon the azure Nile when suddenly I
-knew
-this homely, snoring stranger lying next to me with beer
-upon his breath was surely the greatest love of my life
-and I would live forever needing him alone!
-It made me violently depressed!
-Somehow I felt short-changed, tricked, cheated.
-Were you what I had lived for, hoped for, longed for all
-my days?
-Yee-gods! "What next," I thought! ...
+"Once upon a time!" Beatty said. "What kind of talk is that?"
 
-Am I repeating myself again? Yes, yes, of course I would do anything! I won't go back to Memphis, I won't; you can't make me! No, I can't come out, I give myself to God. I no longer belong to your race! I have given myself up to the great Aten from whom I spring each morning when the sacred lotus blooms anew! Sometimes I truly wish with all my might that I were a human being instead of whatever it is I am! I can feel, I want to be like the rest! I have a right to some sort of life like other people. Bek, Dear-heart, it's just not that easy! Let myself fall in love again? With whom if not with you? Oh, a lovely thought-the maiden returning from the tryst with a functioning looney on her arm! And what could I offer him, sagging flesh and swollen eyes? Bek, Bek, you're most kind! Yes, they'll say I was a lost woman; only my bust was found!
+Fool, thought Montag to himself, you'll give it away. At the last fire, a book of fairy tales, he'd glanced at a single line. "I mean," he said, "in the old days, before homes were completely fireproofed-" Suddenly it seemed a much younger voice was speaking for him. He opened his mouth and it was Clarisse McClellan saying, "Didn't firemen prevent fires rather than stoke them up and get them going?" "That's rich!" Stoneman and Black drew forth their rule books, which also contained brief histories of the Firemen of America, and laid them out where Montag, though long familiar with them, might read: "Established, 1790, to bum English-influenced books in the Colonies. First Fireman: Benjamin Franklin."
 
-That splendid bust!
-Do you really still have it where it was?
-Bek, what must your wife think?
-If only life could imitate art!
-If only it were true that truth is beauty!
-I can speak true!
-But if truth were beauty, more girls would get their hair
-done at the library!
-Yes, no, of course I've brought my mirror, what queen
-would be without one?
-All right, I'll look into it once again! Yes! Is that what
-you have seen?
-No! Must I say?
-Bek, what I see couldn't turn a trick in Boy's Town!
-No, I'm not being negative!
-Go then, back to your wife and leave me be!
-What do you need me for?
-You can create alone! You are an artist!
-Bek, I didn't mean it! Bek There is no key to let you in!
-Please don't accuse me of being negative again!
-I couldn't stand it! I am trying! I am trying!
+RULE 1. Answer the alarm quickly.
 
-I will be positive!
-Oh, God, don't leave me again, Bek. I couldn't stand it to
-be alone, abandoned!
-Bek, talk to me! Say something!
-Bek, Almighty Aten, bring him back! Bek!
-Don't leave me here to die alone!
-All right, I'm through.
-You have won.
-I don't believe in you-
-Is that what you want me to say?
-I curse you, I curse the name of the Aten.
-I believe in nothing.
-Strike me dead if you will! I don't believe in you!
-There is no chance of everlasting life!
-When I am dead, my detractors will erase my face and
-name from every building, every tablet, every wall!
-Bek will leave my image here to crumble into dust when
-he goes back to Memphis!
-The name of Nefert-iti will be gone forever! No one will
-remember who I am!
-I know what will be said:
-"Who is Achenchae, Nefertiti who?" "I've never heard
-of Akhenastae!
-Who was she?"
-Aten has tricked me! I believed in a calf of gold!
-Hear me, Aten, I believe in you no more!
-You are hateful!
-You lied when in a blast of fire you told me you were
-coming back to get me!
-You have abandoned me! I hate you! I hate you!
-Oh, why have you forsaken me?
-What have I said? What does it matter?
-Talk is cheap in the end Where is the Kohl to stain my
-eyes?
-Where is camel hair ground to bruise my lips?
-There is no one left to help me! I must carry on alone?!
-I have driven all away!
-Once I had many friends and lovers, they are all gone
-now; life goes on
+2. Start the fire swiftly.
 
-(Drinks poison. Plays dulcimer and sings "The Song of Abandon.") Give me a sign, kind Aten! Send gentle spirits down to join my dance!
+3. Burn everything.
 
-Is there no justice in the world? Must I accept what
-comes my way?
-No! I am fighting back!
-There must be some sort of justice, even in Egypt!
-I demand it!
-I won't be thrown out the door like yesterday's dinner
-to be eaten by crocodiles or hippopotami!
-I must be worth more than that, I can still learn!
-Hapu's son taught me to be forever a student!
-To be learned is to be trained for a world already gone,
-he said.
-Change, change and more change!
-It's happening fast-too fast!
-Busy, busy, busy, but I'm never too busy to count my
-assets!
-That's rule #1 in business and I have assets, Aten, hear
-me! I can work hard and long!
-I can listen!
-For a while, at least, I can be trusted!
-I am a true friend to a few and kind to many
-I can love,
-I've been burned once too often! You are looking at
-damaged goods!
-I have been abandoned! I can't find my way! Aten, do
-something! Help me! I beseech you!
-I will not be ignored any longer!
-Look at me!
-Acknowledge me!
-React or something
-Give me a sign!
-Aten! Aten! Aten!
-I've had it! Hapu's son was wrong! Believe in the one
-true God, he said and you will have everlasting life!
+4. Report back to firehouse immediately.
 
-(Nefert-iti dies.)
+5. Stand alert for other Alarms.
+
+Everyone watched Montag. He did not move.
+
+The alarm sounded.
+
+The bell in the ceiling kicked itself two hundred times. Suddenly there were four empty chairs. The cards fell in a flurry of snow. The brass pole shivered. The men were gone.
+
+Montag sat in his chair. Below, the orange dragon coughed to life. Montag slid down the pole like a man in a dream.
+
+The Mechanical Hound leapt up in its kennel, its eyes all green flame.
+
+"Montag, you forgot your helmet!"
+
+He seized it off the wall behind him, ran, leapt, and they were off, the night wind hammering about their siren scream and their mighty metal thunder! It was a flaking three-story house in the ancient part of the city, a century old if it was a day, but like all houses it had been given a fireproof plastic sheath many years ago, and this preservative shell seemed to be the only thing holding it in the sky.
+
+"Here we are!"
+
+The engine slammed to a stop. Beatty, Stoneman, and Black ran up the sidewalk, suddenly odious and fat in their plump fireproof slickers. Montag followed. They crashed the front door and grabbed at a woman, though she was not running, she was not trying to escape. She was only standing, weaving from side to side, her eyes fixed upon a nothingness in the wall, as if they had struck her a terrible blow upon the head. Her tongue was moving in her mouth, and her eyes seemed to be trying to remember something and then they remembered and her tongue moved again:
+
+" 'Play the man, Master Ridley; we shall this day light such a candle, by
+
+God's grace, in England, as I trust shall never be put out.' "
+
+"Enough of that!" said Beatty. "Where are they?" He slapped her face with amazing objectivity and repeated the question. The old woman's eyes came to a focus upon Beatty. ''You know where they are or you wouldn't be here," she said.
+
+Stoneman held out the telephone alarm card with the complaint signed in telephone duplicate on the back: "Have reason to suspect attic; II No. Elm, City. E. B."
+
+"That would be Mrs. Blake, my neighbor," said the woman, reading the initials.
+
+"All right, men, let's get 'em!"
+
+Next thing they were up in musty blackness swinging silver hatchets at doors that were, after all, unlocked, tumbling through like boys all rollick and shout. "Hey!" A fountain of books sprang down upon Montag as he climbed shuddering up the sheer stair well. How inconvenient! Always before it had been like snuffing a candle. The police went first and adhesive taped the victim's mouth and bandaged him off into their glittering beetle cars, so when you arrived you found an empty house. You weren't hurting anyone, you were hurting only things! And since things really couldn't be hurt, since things felt nothing, and things don't scream or whimper, as this woman might begin to scream and cry out, there was nothing to tease your conscience later.
+
+You were simply cleaning up. Janitorial work, essentially. Everything to its proper place. Quick with the kerosene! Who's got a match!
+
+But now, tonight, someone had slipped. This woman was spoiling the ritual. The men were making too much noise, laughing, joking, to cover her terrible accusing silence below. She made the empty rooms roar with accusation and shake down a fine dust of guilt that was sucked in their nostrils as they plunged about. It was neither cricket nor correct. Montag felt an immense irritation. She shouldn't be here, on top of everything!
+
+Books bombarded his shoulders, his arms, his upturned face. A book lit, almost obediently, like a white pigeon, in his hands, wings fluttering. In the dim, wavering light, a page hung open and it was like a snowy feather, the words delicately painted thereon. In all the rush and fervor, Montag had only an instant to read a line, but it blazed in his mind for the next minute as if stamped there with fiery steel. "Time has fallen asleep in the afternoon sunshine." He dropped the book. Immediately, another fell into his arms.
+
+"Montag, up here!"
+
+Montag's hand closed like a mouth, crushed the book with wild devotion, with an insanity of mindlessness to his chest. The men above were hurling shovelfuls of magazines into the dusty air. They fell like slaughtered birds and the woman stood below, like a small girl, among the bodies.
+
+Montag had done nothing. His hand had done it all, his hand, with a brain of its own, with a conscience and a curiosity in each trembling finger, had turned thief. Now, it plunged the book back under his arm, pressed it tight to sweating armpit, rushed out empty, with a magician's flourish! Look here! Innocent! Look! He gazed, shaken, at that white hand. He held it way out, as if he were farsighted. He held it close, as if he were blind.
+
+"Montag!"
+
+He jerked about.
+
+"Don't stand there, idiot!"
+
+The books lay like great mounds of fishes left to dry. The men danced and slipped and fell over them.
+
+Titles glittered their golden eyes, falling, gone. "Kerosene!"
+
+They pumped the cold fluid from the numeraled 451 tanks strapped to their shoulders. They coated each book, they pumped rooms full of it.
+
+They hurried downstairs, Montag staggering after them in the kerosene fumes.
+
+"Come on, woman!"
+
+The woman knelt among the books, touching the drenched leather and cardboard, reading the gilt titles with her fingers while her eyes accused
+
+Montag.
+
+"You can't ever have my books," she said.
+
+"You know the law," said Beatty. "Where's your common sense? None of those books agree with each other. You've been locked up here for years with a regular Tower of Babel. Snap out of it! The people in those books never lived. Come on now!"
+
+She shook her head.
+
+"The whole house is going up," said Beatty.
+
+The men walked clumsily to the door. They glanced back at Montag, who stood near the woman.
+
+"You're not leaving her here?" he protested.
+
+"She won't come."
+
+"Force her, then!"
+
+Beatty raised his hand in which was concealed the igniter. "We're due back at the House. Besides, these fanatics always try suicide; the pattern's familiar." Montag placed his hand on the woman's elbow. ''You can come with me." "No," she said. "Thank you, anyway."
+
+“I’m counting to ten," said Beatty. "One. Two."
+
+"Please," said Montag.
+
+"Go on," said the woman.
+
+"Three. Four."
+
+"Here." Montag pulled at the woman.
+
+The woman replied quietly, "I want to stay here."
+
+"Five. Six."
+
+“You can stop counting," she said. She opened the fingers of one hand slightly and in the palm of the hand was a single slender object. An ordinary kitchen match.
+
+The sight of it rushed the men out and down away from the house. Captain Beatty, keeping his dignity, backed slowly through the front door, his pink face burnt and shiny from a thousand fires and night excitements. Montag thought, how true! Always at night the alarm comes. Never by day! Is it because fire is prettier by night? More spectacle, a better show? The pink face of Beatty now showed the faintest panic in the door. The woman's hand twitched on the single matchstick. The fumes of kerosene bloomed up about her. Montag felt the hidden book pound like a heart against his chest.
+
+"Go on," said the woman, and Montag felt himself back away and away out the door, after Beatty, down the steps, across the lawn, where the path of kerosene lay like the track of some evil snail.
+
+On the front porch where she had come to weigh them quietly with her eyes, her quietness a vondemnation, the woman stood motionless. Beatty flicked his fingers to spark the kerosene.
+
+He was too late. Montag gasped.
+
+The woman on the porch reached out with contempt to them all, and struck the kitchen match against the railing.
+
+People ran out of houses all down the street.
 ```
 
 ---
 
-## IC-1640: Next Life Soundtrack – A Program
+## IC-2020: The Fall of Freddie the Leaf
 
-- Title: Next Life Soundtrack – A Program
-- Author (byline): Billy Joel, Buddy Wakefield and Terence Kawaja
+- Title: The Fall of Freddie the Leaf
+- Author (byline): Leo Buscalgia
 - Work: Not specified
-- Publisher: Not specified
-- Publication date as stated: Not specified
-- Event as filed: Poetry
-- Record type: Program
+- Publisher: Slack
+- Publication date as stated: Sept 1982
+- Event as filed: Prose
+- Record type: Cutting
 - Speaker labels in the text: none
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1215
+- Teaser before the introduction: No
+- Spoken words (computed): 1326
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Billy Joel
-Book: Storm Front, Pg 15-25
-ISBN: 978-0793502615
-Publisher: Hal Leonard Corporation
-Date (Month/Year): April 1990
-Author: Buddy Wakefield
-Book: Learn then Burn 2: This Time It’s Personal
-(Pg 69-73)
-ISBN: 978-1938912504
-Publisher: Write Bloody Publishing
-Date (Month/Year): Jan 2015
-Author: Terence Kawaja
-ISBN: On-Line Transcript
-Publisher: Youtube.com
-Date (Month/Year): Nov 15, 2022
-https://www.youtube.com/watch?v=Tnao981OyVw
-* We Didn’t Start the Fire by Billy Joel
-Music and Lyrics
-https://www.youtube.com/watch?v=eFTLKWw542g
+Author: Leo Buscaglia
+ISBN: 978-0805010640
+Publisher: Slack
+Date (Month/Year): Sept 1982
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-Artist Billy Joel said that the ultimate purpose of the song We Didn’t Start the Fire was to neither provide a complete account nor pass blame; what he really wanted to do was help young people realize that there are lessons in the past that might help us work through the present and plan for the future.
+This is the story of the life of a leaf named Freddie. On one level, it is a story of the seasons written in language simple enough for a child to understand. However, it is also a story of gentle depth, a meditation on the purpose of life, and a metaphor about the mystery and meaning of death.
 
-Buddy Wakefield takes that concept one step further and in reverse when he wrote: “Years from now, the enlightened civilization ahead of us will stare bewildered at our lethal masculinity and say, But each one, when he was running, tied bows to the top of his feet.” (From a Choir of Honest Killers)
-
-Where do you live your life? In the past . . . the present . . . or with an eye on the future?
-
-Next Life Soundtrack – A Program by Billy Joel, Buddy
+The Fall of Freddie the Leaf by Leo Buscalgia
 ```
 
 ### Performance text (classify this)
 
 ```text
-We Didn’t Start the Fire by Billy Joel Birth control, Ho Chi Minh, Richard Nixon back again Moonshot, Woodstock, Watergate, punk rock Begin, Reagan, Palestine, terror on the airline Ayatollah's in Iran, Russians in Afghanistan
+Spring had passed. So had Summer. Freddie, the leaf, had grown large. His mid section was wide and strong, and his five extensions were firm and pointed. He had first appeared in Spring as a small sprout on a rather large branch near the top of a tall tree.
 
-We didn't start the fire
-It was always burning, since the world's been turning
-We didn't start the fire
-No, we didn't light it, but we tried to fight it . . .
+Freddie was surrounded by hundreds of other leaves just like himself, or so it seemed. Soon he discovered that no two leaves were alike, even though they were on the same tree. Alfred was the leaf next to him. Ben was the leaf on his right side, and Clare was the lovely leaf overhead. They had all grown up together.
 
-Wakefield and Terence Kawaja
+They had learned to dance in the Spring breezes, bask lazily in the Summer sun and wash off in the cooling rains.
 
-Next Life Soundtrack by Buddy Wakefield Having pumped panic buttons and pedal metal down the throats of freeways and crashed like heavy glass ashtrays into our own homes broadside with department store force and a gas can, distended stomachs and God's holes. . .
+But it was Daniel who was Freddie's best friend. He was the largest leaf on the limb and seemed to have been there before anyone else. It appeared to Freddie that Daniel was also the wisest among them. It was Daniel who told them that they were part of a tree. It was Daniel who explained that they were growing in a public park. It was Daniel who told them that the tree had strong roots which were hidden in the ground below. He explained about the birds who came to sit on their branch and sing morning songs. He explained about the sun, the moon, the stars, and the seasons.
 
-Having shown off our momentum for yawning
-as a clever way to denigrate deeds of kindness. . .
-Having created enough minimum wage faith
-to distract orphans from the exit rows
-then thrown holding pattern parties in their honor
-only to present each other with our own names on gold
-plaques bolted
-to a fountain of toll booths used to dressed up up in our go
-go
-go and gone uninterrupted
-by the signs that serve to encourage calming down,
-it is good to know I have at least been loosening my grip on
-the expectation
-that our thumbs will necessarily oppose each other
-in the next life.
+Freddie loved being a leaf. He loved his branch, his light leafy friends, his place high in the sky, the wind that jostled him about, the sun rays that warmed him, the moon that covered him with soft, white shadows. Summer had been especially nice. The long hot days felt good and the warm nights were peaceful and dreamy.
 
-There is a next life
-and it is my understanding we will not necessarily
-be binge-drinking bros
-wearing Greek lamp shades paying for friendships
-based on how our breath smells.
-I will not necessarily find myself rationalizing with computer
-gamers
-and overly polite customer service robots
-about how much life is lost on alternative realities
-or how much violence peaceful consumers cause.
-The results of our language cannot be programmed.
-There is no proper way to hide the rampage with whom we
-have been banking.
-There are no words thick enough to conceal the
-transparencies
-in these stories we have crafted
+There were many people in the park that Summer. They often came and sat under Freddie's tree. Daniel told him that giving shade was part of his purpose.
 
-out of loopholes and nothin' but net.
+"What's a purpose?" Freddie had asked.
 
-The next life is being offered to us daily
-via live streaming satellite by entitled white rabbits and
-tragedy addicts
-dragging their
-fingernail
-file
-cabinets
-across records of the damage my nerves have done.
-You inglorious preachers of a sensational game.
+"A reason for being," Daniel had answered. "To make things more pleasant for others is a reason for being. To make shade for old people who come to escape the heat of their homes is a reason for being. To provide a cool place for children to come and play. To fan with our leaves the picnickers who come to eat on checkered tablecloths. These are all the reasons for being."
 
-Sensations and games are at the root of why we are walking so inefficiently, warped 45's with credit card swagger charging up a sad sad path like Ray Charles singing Seven Spanish Angels to the bottom of the barrel in broad daylight. Stop congregating in the valley just because an echo sounds good when it agrees with itself A trajectory of misery -- at this point -- seems intentional. We have all the information we need to see clearly. We are no longer unaware toddlers on the landscape of consciousness. It is no longer cute to crap ourselves.
+Freddie especially liked the old people. They sat so quietly on the cool grass and hardly ever moved. They talked in whispers of times past. The children were fun, too, even though they sometimes tore holes in the bark of the tree or carved their names into it. Still, it was fun to watch them move so fast and to laugh so much.
 
-Get the sticky off your buns and roll with me.
-Brush the hair from your eyes and comb over.
-Stop paying the dentist for a night guard if it's still allowing
-your jaw to
-pulverize the truth.
-The truth is: You feel fine, right now.
+But Freddie's Summer soon passed. It vanished on an October night. He had never felt it so cold. All the leaves shivered with the cold. They were coated with a thin layer of white which quickly melted and left them dew drenched and sparkling in the morning sun. Again, it was Daniel who explained that they had experienced their first frost, the sign that it was Fall and that Winter would come soon.
 
-We are a point of complete, not a soundtrack to the next
-life.
-The future
-gets no say in who we are.
-Settle your debt and logout.
-Thank you
-for laughing at the joke several lines ago about sticky buns.
-That was sweet. This is nuts.
-Listen. . .
+Almost at once, the whole tree, in fact, the whole park was transformed into a blaze of color. There was hardly a green leaf left. Alfred had turned a deep yellow. Ben had become a bright orange. Clare had become a blazing red, Daniel a deep purple and Freddie was red and gold and blue. How beautiful they all looked. Freddie and his friends had made their tree a rainbow.
 
-Having listened
-to the parentheses of passive aggression
-and made far too much bracket in response,
-incriminating ourselves as sucker punches and suckerfish,
-soaker hoses
-and preying on the dead weight
-of fashion-forward food for overpopulation,
-having inflicted the most amount of pleasure with the least
-harm done
-then called it progress,
-I am still, without fail, eligible to remind us that there is a
-reason
-the future gets so agitated by our advances.
-We are not built to barge ahead of ourselves in false fast-
-forward on a
-flat fifth wheel made out of spokespeople for progress
-who fly off the handle whenever anyone taps the breaks.
-Throw it in park.
+"Why did we turn different colors," Freddie asked, "when we are on the same tree?"
 
-Gauge the pressure.
-Renunciation is not a frigid concept.
-It is okay to abandon the tackle practice
-of having and crashing and having and crashing
-through this circuit board of carrier pigeons carrying torch
-carriers
-over an orchestra of strung-out sixteenth notes
-composed with a matchstick that struck out and broke off
-but did not
-burn up.
-If the next life keeps finding us in these uncomfortable
-positions
-they might mistake us for honest.
-How honest is it that we drink until we are dehydrated?
-If my throat turns into carbonated leather
-and you hang me like a lucky foot from the rearview mirror
-while barreling down the freeway, toll booth after toll
-booth, in a heavyglass ash tray, wondering how the hell
-freeways got so expensive, remember this:
+"Each of us is different. We have had different experiences. We have faced the sun differently. We have cast shade differently. Why should we not have different colors?" Daniel said matter-of-factly. Daniel told Freddie that this wonderful season was called Fall.
 
-The White Rabbit is said to be a symbol of human beings who are pompous and belittling toward anything they deem less valuable than themselves, yet they grovel to accommodate anyone from whom they stand to gain. To what end are you gaining? I'm not speaking to our governments, I'm speaking to the way we govern ourselves. Make your stopwatch live up to its name. We are not late for an important date, we have simply shown up too early for the next life and forgot to knock, forgot that the future doesn't want us to arrive. It knows that if we do, it dies. As if people on stilts really need you to offer them more gravity.
+One day a very strange thing happened. The same breezes that, in the past, had made them dance began to push and pull at their stems, almost as if they were angry. This caused some of the leaves to be torn from their branches and swept up in the wind, tossed about and dropped softly to the ground. All the leaves became frightened.
 
-TRANSITION
+"What's happening?" they asked each other in whispers.
 
-Baby Boomers considered “We Didn’t Start the Fire” a soundtrack documenting their lives. But what about Gen Xers, Millennials and Zoomers? Where's our soundtrack? Events are spiraling rapidly – Let’s take just a quick look at the year 2022.
+"It's what happens in Fall," Daniel told them. "It's the time for leaves to change their home. Some people call it to die."
 
-We Didn't Start the Fire: 2022 EDITION by Terence Kawaja
+"Will we all die?" Freddie asked.
 
-Jeff Epstein, Uyghur mess, Fentanyl, COVID stress Royal hush, Metaverse, election lies keep getting worse Crypto scams, tech stock crash, Canadian truckers make a splash Lockdown driving us insane, trouble in Ukraine
+"Yes," Daniel answered. "Everything dies. No matter how big or small, how weak or strong. We first do our job. We experience the sun and the moon, the wind and the rain. We learn to dance and to laugh. Then we die."
 
-Work from home, supply chain, Oscar slap, sanction pain Gender roles, Ukraine aid, say goodbye to Roe v. Wade Russian war, KBJ, Fed rate hikes, don’t say gay Putin bash, Uvalde, tourists on a travel spree
+"I won't die!" said Freddie with determination. "Will you, Daniel?"
 
-Saudi golf, streaming ads, Latins voting for comrades Pipeline bomb, Chairman Xi, Tim Cook says it’s privacy Chip wars, antitrust, Greg Norman, Elon Musk $5 buck gas, going green?, Britain loses its loved Queen
+"Yes," answered Daniel, "when it's my time."
 
-Interest rates, crypto pain, web3 mania insane Recession fears, SPACs don’t work, Boris such a Tory jerk World War 3?, Taiwan threats, Rocketman, hijab protests Lettuce wins, Elon’s sink, democracy at the brink
+"When is that?" asked Freddie.
 
-Kanye hate, election lies, tech layoffs on the rise
-Russians lose, Bannon jail, Elon’s Twitter product fail
-Crypto crash, FTX, US young men get no sex
-Lula wins, trade dispute, MAGA Trumpists get the boot
+"No one knows for sure," Daniel responded.
 
-Billy Joel’s 80s song covered issues decades long This parody so true only cites 2022 More change is on the way, consternation’s here to stay Election 2024, I swear I can’t take any more Billy Joel Reprieve (Singing) We didn't start the fire It was always burning, since the world's been turning We didn't start the fire But when we are gone It will still burn on, and on, and on, and on, and on, and on, and on, and on
+Freddie noticed that the other leaves continued to fall. He thought, "It must be their time." He saw that some of the leaves lashed back at the wind before they fell, others simply let go and dropped quietly. Soon the tree was almost bare.
+
+"I'm afraid to die," Freddie told Daniel. "I don't know what's down there."
+
+"We all fear what we don't know, Freddie. It's natural," Daniel reassured him. "Yet, you were not afraid when Summer became Fall. They were natural changes. Why should you be afraid of the season of death?"
+
+"Does the tree die, too?" Freddie asked.
+
+"Someday. But there is something stronger than the tree. It is Life. That lasts forever and we are all a part of Life."
+
+"Where will we go when we die?"
+
+"No one knows for sure. That's the great mystery!"
+
+"Will we return in the Spring?"
+
+"We may not, but Life will."
+
+"Then what has been the reason for all of this?" Freddie continued to question. "Why were we here at all if we only have to fall and die?"
+
+Daniel answered in his matter-of-fact way, "It's been about the sun and the moon. It's been about happy times together. It's been about the shade and the old people and the children. It's been about colors in Fall. It's been about seasons. Isn't that enough?"
+
+"That afternoon, in the golden light of dusk, Daniel let go. He fell effortlessly. He seemed to smile peacefully as he fell. "Goodbye for now, Freddie," he said.
+
+Then, Freddie was all alone, the only leaf on his branch. The first snow fell the following morning. It was soft, white, and gentle; but it was bitter cold. There was hardly any sun that day, and the day was very short. Freddie found himself losing his color, becoming brittle. It was constantly cold and the snow weighed heavily upon him.
+
+At dawn the wind came that took Freddie from his branch. It didn't hurt at all. He felt himself float quietly, gently and softly downward. As he fell, he saw the whole tree for the first time. How strong and firm it was! He was sure that it would live for a long time and he knew that he had been part of its life and made him proud.
+
+Freddie landed on a clump of snow. It somehow felt soft and even warm. In this new position he was more comfortable than he had ever been. He closed his eyes and fell asleep. He did not know that Spring would follow Winter and that the snow would melt into water. He did not know that what appeared to be his useless dried self would join with the water and serve to make the tree stronger. Most of all, he did not know that there, asleep in the tree and the ground, were already plans for new leaves in the Spring.
+```
+
+---
+
+## IC-2021: Fear (from Seven Signs of Life)
+
+- Title: Fear (from Seven Signs of Life)
+- Author (byline): Aoife Abbey
+- Work: Sevens Signs of Life, Pgs 17-31
+- Publisher: Arcade
+- Publication date as stated: Oct 2019
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1852
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Aoife Abbey
+Book: Sevens Signs of Life, Pgs 17-31
+ISBN: 978-1948924825
+Publisher: Arcade
+Date (Month/Year): Oct 2019
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Grief. Anger. Hope. Joy . . . Fear. All emotions we expect to encounter over our lifetime. But what if this was every day? And what if your ability to manage them was the difference between life and death? For a doctor in Intensive Care this is part of the job. And the fear in the eyes of a terminally ill patient who pleads with you to not let them die can be overwhelming.
+
+In the words of Nelson Mandela: I learned that courage was not the absence of fear, but the triumph over it ...
+
+Fear from Seven Signs of Life by Aoife Abbey
+```
+
+### Performance text (classify this)
+
+```text
+(Pgs 17-31) If someone had asked me in medical school what I might be most afraid of, dead people wouldn't even have made the list. The first body I ever saw was when my grandmother died. She was laid out in her best clothes on top of her own duvet on her own bed. I remember being 11 years old and sitting on the bed beside my cousin, chatting, whilst absent-mindedly rearranging the rosary beads around her cold, dead fingers.
+
+My first job as a doctor was on an elderly care ward and, for obvious reasons, it didn't take long until the issue of a dead patient presented itself. I don't think I had even considered it might be my job to 'verify' death. I entered the room alone and shut the door behind me. I approached the bedside and when I placed my stethoscope on her chest, I could hear those hollow noises that rumble inside the thorax of somebody who is dead - the sort of noises that make a newly qualified doctor think: What if they're not dead at all? What if I say they are dead, and then the family walk in the door and she moves?
+
+Verification of death involves looking in the pupils, checking for a response to pain and stating that there is no respiratory effort, no palpable pulse and no heart sounds. I stood for the requisite 2 minutes with my stethoscope on her chest and my hand on her neck, where you would find a carotid pulse in a living person. I became convinced that she was going to open her eyes. I pictured them snapping open, her hand lurching towards my wrist, clamping shut with a strength that I knew she did not have in recent life. I let my imagination construct the whole terrifying ordeal; I couldn't stop it, and when the second-hand signaled the passing of 2 minutes, I raced out of the room, heart pounding.
+
+I don't know if I've ever experienced undiluted fear quite like that again, though I do think that at least some of what I do requires a level of courage. And how can I call myself brave, if I cannot admit to still feeling fear?
+
+It reminds me of something . . . In my childhood home, we had a staircase, and the first seven steps had empty spaces between the treads. As a child, I would convince myself that a hand was about to spring from one of those holes and grab my ankles. It wasn't real, I knew it wasn't, but I let myself believe it and I ran so fast up those stairs. Perhaps it is true that we create most of the fear we experience.
+
+George Eliot said that 'we learn words by rote, but not their meaning; that must be paid for with our life-blood, and printed in the subtle fibers of our nerves'. From the first day that I started working as a doctor, I knew what a 'Do not Resuscitate' (DNR) order was. But more than 3 years into my career, I stood with a patient and a DNR order, and fear made me question everything I knew.
+
+It was 4 a.m. and I had found myself on the way to the oncology ward to see a woman in her fifties. She was about the same age as my own mother and was very short of breath. I still recall thinking how calm and composed she was, for somebody who was struggling so obviously. I enquired if the woman had any pain. She shook her head. 'You don't have any pain in your chest? Can you slow your breathing down?' I placed my stethoscope on the patient's back and listened to her breath sounds; air moved in and out of her lungs, and they sounded clear. 'I'll be back,' I said, as I left her behind me to look at the ECG, which had been placed on the nurses' station outside. I picked up her folder and there, poking out of the front cover, was the DNR order. It had been discussed and signed just two days before, citing metastatic cancer. I remembered only in that instant that I was on the oncology ward.
+
+The nurse called from the patient's bedside, 'You better come back in here, Doctor.' My patient lay flat on top of her bed: breathing, heart beating, but unresponsive.
+
+Seconds ticked past and I was helpless, standing there thinking that I owed her something, but she was dying so abruptly. The nurse said she would go and call her family, although the patient would probably be dead before they arrived. I couldn't bring myself just to leave this woman alone.
+
+In that moment, time surrounded me like an army advancing: step, step, the sound of heavy boots on ground, rifles brandished with their bayonets pointed in. Was there even a minuscule chance that there was something else that could be done, beyond standing there and watching her die? For a doctor who was scared, yes, it was the right thing for me. Within seconds, I felt my patient's pulse slip away and then she was dead. Was it the right thing for my patient? I don't believe it was, entirely. The best thing would have been for me to hold her hand and be present with her for her death. That wasn't the doctor she got that night; I did not have that presence of mind, and I don't mind admitting it.
+
+Doctors have coping strategies to explain away fear. Mostly this happens unconsciously - the goal is to micromanage it. You cannot be a rabbit in the headlights - it simply isn't helpful. As an intensive-care doctor, my patients are often afraid. In many ways, their fear becomes routine. It is something I expect, and there is a standard reassuring phrase that I have come to say: 'Don't worry, everything is going to be okay. We're all here to keep you safe.' When I call a patient's fear 'routine', it is not a value judgement, it is just part of my routine. The sort of work I do doesn't leave a lot of time to work through the origins of fear with a patient. They need something, urgently, and you are required to deliver it, urgently, whether or not they're frightened. So you find yourself focusing on reassurance: ‘. . . everything is going to be okay, we've got you.’ In practical terms, what else can you say?
+
+I'm not sure why, but one day I tried an approach that was less paternalistic in its reassurance. The patient had been thrown through a windscreen in a car accident. He was a young male in his twenties, bleeding, a lot, and I had found myself in the position of keeping my hand pressed on his previously gushing neck-wound.
+
+'Am I going to die?' he asked suddenly. 'We're doing absolutely everything we can to help you. I know it is hard, but I need you to try and stay calm. Louder: 'But am I going to die?' 'You've got some significant wounds; we're going to do everything we can to make sure that doesn't happen.' Now shouting: 'AM I GOING TO DIE?'
+
+He wanted a definitive: a yes or no, and I could have chosen either, but they would both have been a lie. I had no guarantees. The reality is that some patients look at you through their terrified, dilated pupils and they want you to say it's going to be okay. In the end, either I am right and they will be okay, or I am wrong and I will live with the fact that I chose to tell them otherwise: 'Don't worry, everything is going to be okay. We're all here to keep you safe.' Was I strong enough to cope with the burden of telling patients they would be all right, when actually there was always some chance - however remote - that they might be dead. Maybe it wasn't my job to take away a patient's fear -- usually what was happening to them was frightening . . . But you go to work the next day and stare into the next set of terrified eyes. That patient's fear explodes into the moment that you share together.
+
+I have distracted frightened children with YouTube videos and teddy bears, so that somebody can put a cannula into their hand. I have stood by an MRI machine with a claustrophobic patient while she had her whole spine scanned and massaged her feet, because it helped her get through the scan. Sometimes, though, patients hand you their fear and you can do absolutely nothing about it.
+
+I met Gloria when I was less than a month qualified. She was ninety years old and had been in hospital for many weeks. She was frail and had become immobile with pneumonia. It was clear that she was in the last days of her life. I remember standing by her bed one morning, when she gripped my hand suddenly and, looking at me with desperation, said, 'Please, don't let me die.'
+
+What could I do? You can't say, 'Of course you are dying, Gloria; you are ninety years old, you have been dying for weeks and I can't change that now.' I tried to explain, to soothe her, but she couldn't hear me through her anguish. As a new doctor, I don't think I expected elderly people to be frightened of dying. I guess it is just easier if they are not; easier for me, anyway.
+
+I prescribed Gloria medications to help her death pass as comfortably and painlessly as possible, but that didn't seem helpful enough, so I called the consultant. I told him that I thought Gloria needed emotional support. The consultant suggested we should phone and invite the family in that afternoon for a conversation. With apprehension, I asked them if they had any thoughts about how Gloria was feeling. As it turned out, they had already suspected she was frightened, and they thought what would bring Gloria comfort was a chaplain. It seemed like such a straightforward and obvious answer. Why did I not think of it myself? Confronted by her fear, I had panicked because I had no medical solutions.
+
+Gloria died that night, sooner than any of us had expected. I believe the chaplains gave her what she needed - that which I couldn't give her - and I don't think she died frightened. I like to think that Gloria's fear became something else. If you are lucky, I believe that is what happens. Your fear of death becomes an impetus to find comfort. Your fear of losing your hard-fought independence becomes the momentum you need to stand on your feet again. Your fear of becoming the reason your family must experience grief gives you the strength to seek out truths that may be painful to hear.
+
+And the fear of standing over a patient, with their life in your hands? [That fear] becomes the push you need to know that you did your best. . . . 'Don't worry, everything is going to be okay.
+```
+
+---
+
+## IC-2022: The Final Days of Dog-Baby
+
+- Title: The Final Days of Dog-Baby
+- Author (byline): Mary O’Connell
+- Work: Not specified
+- Publisher: Chicago Tribune
+- Publication date as stated: Sept 26, 1999
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1684
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Mary O’Connell
+ISBN: Newspaper
+Publisher: Chicago Tribune
+Date (Month/Year): Sept 26, 1999
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+The birth of a baby affects everyone in the family: mom, dad, and siblings. But what about the family pet? Mary O’Connell explores the mind of a dog going through this traumatic change in “The Final Days ofDog-Baby” by Mary O’Connell.
+```
+
+### Performance text (classify this)
+
+```text
+Some younger age “cut” suggestions are designated by parenthesis
+
+Mark and I were snuggled up on the couch, watching a little basketball, and I felt happy. Then we heard Beth screaming in the bathroom. She rushed out to us, waving the pregnancy-test stick in the air, yelling, "It's a cross, it's a cross."
+
+It wasn't a cross, of course, it was an X. The X means you are pregnant.
+
+I had been dreading this news. But God knows I'm a sucker for fun, so I hopped off the couch and ran in a circle around their feet as they jumped up and down, game-show style.
+
+"A baby," Mark said.
+
+"A baby," Beth said.
+
+A fierce premonition of loneliness flooded my heart, and I slunk away from them, trying to steel myself against the love that would soon be taken so cruelly. I imagined myself staked in the back yard the following winter, parched and starving, gnawing ice chips from a dented water bowl. With their love for the baby, I would become a curiosity: "Why did we ever want this old thing? Dog-Baby, free to good home."
+
+When I started to cry, they (said) "Give us some kisses, Dog-Baby, you big velvet schmutz.” and I was happy again. Hey, I'm moody.
+
+In the beginning I was Dahlia, named for the flowers on the patio: Legend has it that the day they brought me home from the kennel, I stretched my neck up to the terra-cotta pots, and smelled the flowers.
+
+Beth yelled, "Dahlia." Mark had reservations, and he was right, because the name never stuck. By the second day, enamored of my tight, round tummy, caramel-colored eyes and they cuddled me to their shoulders and called me Dog-Baby.
+
+But my name has caused real pain for all of us. Recently, Mark and Beth had a dinner guest who told endless stories about her brilliant toddler. This was back when they believed the doctors who claimed they would never have a baby, and they both sat there with stiff smiles stretched across their faces. To break up the tension, I sprang out from my post under the kitchen table and started barking. The woman gaped at me with an expression of repulsed curiosity. "Dog-Baby. So your dog's like your. . . baby."
+
+When it was just the three of us again, Beth raged: "This is who we are, Mark. We're yuppies who treat our dog like a baby.”
+
+Mark tried to comfort her.
+
+Anyway, Beth stormed out of the house and soon
+
+we heard the car rocketing down the street.
+
+Mark gave me a peanut-butter biscuit, then
+
+poured a juice glass. I held the biscuit in my
+
+mouth, watching him; I cannot eat on a nervous
+
+stomach. When I rested my head on his knee and
+
+sighed, Mark reached under the table and
+
+stroked my ears.
+
+After some time, he raised his glass. "Here's to us, Dog-Baby." For as long as I can remember, I have been the Dog-Baby.
+
+Strange how the days gallop past when you dread the future. It is the first Saturday in November, misty and gray, and Beth is eight months along. Mark is painting "the nursery," I'm relegated to the back yard for the morning--the beginning of the end. I peer through the planks in the fence and see Trixie, the dachshund who lives in the house behind us, skitter through her tiny dog-door.
+
+"Trixie," I yell, "over here," and she runs across her yard and zips under the fence.
+
+We sniff each other's butt, then kiss-kiss.
+
+"Trixie," I say, my lips quivering like Bette Davis, "if they forget to feed me when the baby comes, will you save your Snausages for me?"
+
+"Aw, Dog-Baby, they won't forget to feed you! After Madison came, Sue and Campbell never forgot to feed me. They let my water dish go dry a time or two, but I just licked the shower floor, no problem!"
+
+I shudder at this image. How can I expect her to understand? She was a pound dog and lived through atrocities before Sue and Campbell brought her home and made her perpetually grateful. But I have known only opulence: a king-size bed, organic biscuits, and love. Now that unhappiness looms ahead of me, I find myself more than a little ill-prepared.
+
+"Dog-Baby, I know you've been sad about the little baby comin' and you have what I consider to be a classic fear of displacement. But I'm here to tell you: Buck up, buttercup! They'll still love you. When a baby comes, it just means the pack gets bigger!"
+
+Sue calls out the kitchen window for Trixie to come home.
+
+"Okay, Trix," I sigh, "we'll be seeing you,"
+
+"Not if I see you first, Dog-Baby," she says, flashing the smile that saved her from Death Row.
+
+The bed shrinks as Beth gets bigger and bigger. Tonight, as I listen to the rain, I suffer from a kind of self-induced insomnia. Since time is my enemy, I keep my eyes open, trying to hold on to the day, watching the numbers slip past on the digital clock. Beth turns on her side, and spoons her body to mine. Pressed against my spine I feel the great weight of Beth's stomach, and then, movement, like a giant heart beating.
+
+"The baby is kicking you, Dog-Baby."
+
+And I'm thinking about how true that is, when Beth sits up in bed. "Holy Mother of God, I'd like a cigarette." (Possible substitution for younger ages: "Oh my gosh, I need ice-cream.”)
+
+Next thing you know she's slogging her big body out of bed and putting on slippers. I follow her.
+
+I sit on the rug and watch her with disdain.
+
+"Don't give me that look, Dog-Baby. I haven't had a cigarette for ages. I know it's disgusting; I don't know why I love it so much." (Possible substitution for younger ages: I haven't had ice cream for ages.)
+
+It's chilly. Beth notices me shivering and takes a sequined sweater from the garbage bag of clothes destined for the Salvation Army. She buttons the top button of the sweater around my neck, arranging the arms of the sweater to look like human arms jutting out of my Dog-Baby body.
+
+She just leans back and laughs. "Dog-Baby, you look just like a glamorous spinster aunt sitting at a soda fountain! Miss Prim!"
+
+I've heard it all before.
+
+And I prefer when she wants to watch "I Love Lucy" at 2 a.m. and we cuddle under a quilt on the couch. "See how Ricky loves Lucy, the look in his eyes?” And there are the night sounds of the house: the hiss of the furnace, the refrigerator's song, mice running in the walls, the perpetual drip of the kitchen faucet.
+
+Beth takes a last drag on her cigarette (Possible substitution for younger ages: Beth takes a last spoonful of ice-cream), and bursts into tears. I whimper along with her--it's my way. She's worried the baby will have six heads because she smoked a cigarette (Possible substitution: She's worried the baby will have six heads because she had too much sugar;) me, I'm sad our private late-night rendezvous are coming to an end.
+
+The digital clock reads 8:10 when Mark walks into the bedroom carrying a blue blanket with white stars, and right away I know I slept through the whole deal.
+
+The blanket is in front of my face.
+
+"Smell, Dog-Baby."
+
+This is what it says to do in the books. The books have a lot of crazy advice. It is upon us. Acceptance is the only choice. I sniff the dog blanket, Mark takes me in his arms and I feel his love, but it's like how you love an old aunt in a nursing home: Gosh, you were nice. We have a lot of really nice pictures of you.
+
+Beth staggers in the door carrying a white baby carrier and the big, black diaper bag. Mark comes next, carrying the actual baby in a mint green blanket. I sit stoically, holding my head up but casting my eyes down, ever the brave coquette.
+
+Beth winces as she bends down and lays her head on my bony shoulder. She bursts into tears. "Oh, Dog- Baby, it's like I haven't seen you in a million trillion years."
+
+Which is the reception I've been hoping for. It's a relief when Mark sits on the couch and motions for me to join him. He pulls the blanket back from the baby's face and offers me a look.
+
+"Here's the baby, Dog-Baby."
+
+Well. He's nothing like the big, rubbery babies on TV. He is small and red and ancient-looking, a tiny guy in a panda outfit. As I gaze at him, I feel the weird miracle of it all, how odd it is that a body can produce another body.
+
+The baby cries out, and Beth coos to it nervously as Mark caresses the baby's cheek with his quivering finger. They are afraid of this baby! This is something I never anticipated, and I can't help but feel a little smug, for certainly they were never afraid of me.
+
+The first night, I stand at the doorway as Mark and Beth climb into bed. The baby is sleeping in the bassinet on Beth's side of the bed. I chant to myself, "I am a dog," a mantra for the future, when Mark whispers, "Dog-Baby, do you need an engraved invitation get in the bed?" My heart leaps up, and I sail onto the bed, snuggle down between them.
+
+Beth puts her finger to her lips and whispers, "I just wanted to make sure he was still breathing."
+
+Of course, it's me who's in danger of falling into that final sleep, me who has the arthritis and poor circulation and iffy heart. But my ears are perfect; I hear each breath expanding in the baby's new lungs. I hope I live to see this baby grow into his childhood. I want to be stranded, say, in Antarctica, and have him make a solo journey to rescue me, as brave children do in the movies. But for now he is just a baby, living every second at the mercy of others. My brother.
+```
+
+---
+
+## IC-2023: Fly Away Home
+
+- Title: Fly Away Home
+- Author (byline): Eve Bunting
+- Work: Not specified
+- Publisher: Clarion Books
+- Publication date as stated: Mar 1993
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: CHILD, MR. SLOCUM, DAD, STRANGER 1, STRANGER 2, DENNY
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1081
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Eve Bunting
+ISBN: 978-0395664155
+Publisher: Clarion Books
+Date (Month/Year): Mar 1993
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+There is a common misconception that homelessness is an issue that only pertains to single men and women, but **according to the National Alliance to End Homelessness, almost 60,000 families are homeless on a given night in the United States.
+
+Homelessness is a devastating experience for families. It disrupts every aspect of their lives, damaging their physical and emotional health and interfering with children’s education and development. *** According to the Bassuk Center: 1 in 30 children in the US experience homelessness – That’s 2.5 million children! This is Andrew’s story . . .
+
+Fly Away Home by Eve Bunting
+```
+
+### Performance text (classify this)
+
+```text
+CHILD: (sings) * I never dreamed I'd ever be,
+Without a home to comfort me
+'Til a friend of mine this very Spring
+Lost his whole house and everything.
+
+CHILD: My dad and I live in an airport. That's because we don't have a home and the airport is better than the streets. We are careful not to get caught. (beat) Mr.
+
+Slocum and Mr. Vail were caught last night.
+
+MR. SLOCUM: (singing) Ten green bottles, hanging on the wall . . .
+
+CHILD: They were as loud as two moose bellowing. Dad said they broke the first rule of living here.
+
+DAD: Don't get noticed.
+
+CHILD: Dad and I try not to get noticed. We stay among the crowds. We change airlines.
+
+DAD: Delta, TWA, Northwest, we love them all.
+
+CHILD: He and I wear blue jeans and blue T-shirts and blue jackets. We each have a blue zippered bag with a change of blue clothes. Not to be noticed is to look like nobody at all. Once we saw a woman pushing a metal cart full of stuff. She wore a long dirty coat and she lay down across a row of seats in front of Continental Gate 6. The cart, the dirty coat, the lying down were all noticeable. Security Moved her out real fast. Dad and I sleep sitting up. We use different airport areas. (to Dad) Where are we tonight?
+
+DAD: (checking his notebook) Alaska Air. Over in the other terminal.
+
+CHILD: That's OK. We like to walk. We know some of the airport regulars by name and by sight. There's Idaho Joe and Annie Frannie and Mars Man. But we don't sit together.
+
+DAD: Sitting together will get you noticed faster than anything.
+
+CHILD: Everything in the airport is on the move -- passengers, pilots, flight attendants, cleaners with their brooms. Jets roar in, close to the windows. Other jets roar out. Luggage bounces down chutes, escalators glide up and down, disappearing under floors. Everyone's going somewhere except Dad and me. We stay.
+
+Once a little brown bird got into the main terminal and couldn't get out. It fluttered in the high, hollow spaces. It threw itself at the glass, fell panting on the floor, flew to a tall metal girder, and perched there exhausted. (to bird) Don't stop trying. Don't! You can get out!
+
+(to audience) For days the bird flew around, dragging one wing. And then it found the instant when a sliding door was open and slipped through. I watched it rise. Its wing seemed OK. (whispering to bird) Fly bird. Fly away home! (to audience) Though I couldn't hear it, I knew it was singing. Nothing made me as happy as that bird.
+
+The airport's busy and noisy even at night. Dad and I sleep anyway. When it gets quiet, between two and four a.m., we wake up.
+
+DAD: Dead time. Almost no flights coming in or going out.
+
+CHILD: At dead time there aren't many people around, so we're extra careful. In the mornings Dad and I wash up in one of the bathrooms, and he shaves. The bathrooms are crowded, no matter how early. And that's the way we like it. (beat) Strangers talk to strangers . . .
+
+STRANGER 1: Where did you get in from?
+
+STRANGER 2: Three hours our flight was delayed. Ma, am I bushed!
+
+CHILD: Dad and I, we don't talk to anyone. We buy doughnuts and milk for breakfast at one of the cafeterias, standing in line with our red trays. Sometimes Dad gets me a carton of juice.
+
+On the weekends Dad takes the bus to work. He's a janitor in an office in the city. The bus fare's a dollar each way. On those days Mrs. Medina looks out for me. The Medinas live in the airport too - Grandma, Mrs. Medina and Denny, who's my friend. He and I collect rented luggage carts that people have left outside and return them for fifty cents each. If the crowds are big and safe, we offer to carry bags.
+
+(to traveler) Get this one for you, lady? It looks heavy. (to another traveler) Can I call you a cab?
+
+Denny's real good at calling cabs. That's because he's seven already. Sometimes passengers don't tip. Then Denny whispers, stingy! But he doesn't whisper too loud. The Medinas understand that it's dangerous to be noticed.
+
+When Dad comes home from work, he buys hamburgers for us and the Medinas. That's to pay them for watching out for me. If Denny and I've had a good day, we treat for pie. But I've stopped doing that. I save my money in my shoe.
+
+(to Dad) Will we ever have our apartment again? (to audience) I'd like it to be the way it was before Mom died.
+
+DAD: Maybe we will. If I can find more work. If we can save some money. (tousling the child’s hair) It's nice right here, though, isn't it? It's warm. It's safe. And the price is right.
+
+CHILD: But I know he's trying all the tme to find us a place. He takes newspapers from the trash baskets and makes pencil circles around letters and numbers. Then he goes to the phones. When he comes back he looks sad. Sad and angry. I know he's been calling about an apartment. I know the rents are too high for us.
+
+(to Dad) I'm saving money, too! (lifts one foot and points to shoe)
+
+DAD: (smiling) Atta boy!
+
+DENNY: If we get a place, you and your dad can come live with us.
+
+CHILD: And we get a place, you and your mom and your grandma can come live with us.
+
+DENNY: Yeah!
+
+CHILD: (to audience) We shake on it. That's going to be so great! After next summer, Dad says, I have to start school. (to Dad) How?
+
+DAD: I don't know. But it's important. We'll work it out.
+
+CHILD: Denny's momsays he can wait for a while. But Dad says I can't wait. (long beat) Sometimes I watch people meeting people.
+
+STRANGER 1: We missed you.
+
+STRANGER 2: It's so good to be home.
+
+CHILD: Sometimes I get mad, and I want to run at them and push them and shout.
+
+(shouting) Why do you have homes when we don't? What makes you so special?
+
+(to audience) That would get us noticed, all right. Sometimes I just want to cry. (long beat) I think Dad and I will be here forever. (beat) Then I remember the bird. (whispering to himself) Don't stop trying. Don't! You can get out!
+
+It took a while, but a door opened. And when the bird left, when it flew free, I know it was singing
+
+(sings) * I never dreamed I'd ever be,
+Without a home to comfort me
+'Til a friend of mine this very Spring
+Lost his whole house and everything.
+So now I know that life is strange,
+That all is luck and luck can change,
+And don't forget, it's sad but true,
+The next time around it could be you . . .
+```
+
+---
+
+## IC-2024: Fortunately, the Milk
+
+- Title: Fortunately, the Milk
+- Author (byline): Neil Gaiman
+- Work: Not specified
+- Publisher: HarperCollins
+- Publication date as stated: Sept 2014
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: ME, DAD, SISTER, ALIEN, PIRATE QUEEN, STEG, PONY, VAMPIRE, POLICE
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1684
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Neil Gaiman
+ISBN: 978-0062224088
+Publisher: HarperCollins
+Date (Month/Year): Sept 2014
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Author Neil Gaiman is a phenomenon. I'm not saying that's good. I'm not saying that's bad. I'm simply stating a fact. A fellow author recently commented that when Gaiman talks, people clap. When he coughs, they laugh. And there’s no better way to introduce you to his unique storytelling style than to take you on a mystical adventure with an imaginative and creative father in Fortunately, the Milk by Neil Gaiman
+```
+
+### Performance text (classify this)
+
+```text
+ME: (searching the refrigerator) There was only orange juice in the fridge. Nothing else that you could put on cereal, unless you think that ketchup or mayonnaise or pickle juice would be nice, which I do not.
+
+DAD: Eat your cereal. Remember, it’s Orchestra Practice this afternoon
+
+SISTER: We can’t eat our cereal. No milk.
+
+ME: He looked like he was going to suggest that we have something for breakfast that you do not need milk for, like sausages, but then he remembered that, without milk, he couldn’t have his tea.
+
+DAD: You poor children. I will get milk . . .
+
+SISTER: Where have you been all this time?
+
+DAD: I bought the milk. I walked out of the corner shop and heard something odd coming from above me. It was a noise like this: thummthumm. I looked up and saw a huge silver disc hovering in the air. And the next thing I knew, I was being sucked up into the disc. Fortunately, I had put the milk into my coat pocket. The people in the disc were a bit green and rather globby and they looked very grumpy indeed.
+
+ALIEN: As a representative of your species, we demand that you give us ownership of the whole planet. We are going to remodel it.
+
+DAD: I jolly well won’t. (to the kids) I noticed a large metal door with EMERGENCY EXIT DO NOT OPEN FOR ANY REASON THIS MEANS YOU! on it. I opened the door.
+
+ALIEN: Don’t do that. You’ll let the space-time continuum in.
+
+DAD: But it was too late; I had already pushed open the door. I JUMPED. Fortunately, I had kept tight hold of the milk, so when I splashed into the sea I didn’t lose it.
+
+PIRATE QUEEN: What was that? A big fish? A mermaid? Or was it a spy?
+
+DAD: I wanted to say that I wasn’t any of those things, but my mouth was full of seawater. I felt myself being hauled up onto the deck. There were a number of men and a woman on the deck, and they all looked very cross.
+
+PIRATE QUEEN: Who be ye, landlubber? What are you doing here?
+
+DAD: Well . . . I just set out to the corner shop for some milk for my children’s breakfast and for my tea, and the next thing I knew—
+
+PIRATE QUEEN: You dare lie to the Queen of the Pirates?
+
+DAD: If I did not go to the corner shop to fetch the milk, then where did this milk come from? (showing her the milk)
+
+PIRATE QUEEN: You’re on a pirate ship now, my fine bucko. There are only two choices—you can join my pirate crew, or refuse to join and we will slit your cowardly throat and you will go to the bottom of the sea, where you will feed the fishes.
+
+DAD: I wish that I could, but I have children. And they need their breakfast.
+
+PIRATE QUEEN: Then you must die! Walk the plank!
+
+DAD: I edged out to the end of the plank. Sharks were circling. So were piranhas—
+
+ME: Hang on. Piranhas are a freshwater fish. What were they doing in the sea?
+
+DAD: You’re right. Right. So . . . I was out at the end of the plank, facing certain death, when a rope ladder hit my shoulder . . .
+
+STEG: QUICKLY! CLIMB UP THE ROPE LADDER!
+
+DAD: Fortunately, the milk was pushed deep into the pocket of my coat. And I soon made it to the top of the rope ladder. I’d never been in the basket of a hot air balloon before.
+
+STEG: I hope you don’t mind me helping, but it looked like you were having problems down there.
+
+DAD: You’re a stegosaurus!
+
+STEG: I am an inventor. I have invented the thing we are traveling in, which I call Professor Steg’s Floaty-Ball- Person-Carrier.
+
+DAD: (to Steg) I call it a balloon . . . (to the kids) He showed me his Time Machine. He was very proud of it. It was a large cardboard box with several pebbles on it, and stones stuck to the side. There was also a large, red button. (to Steg) Hang on. Those are diamonds. And sapphires. And rubies.
+
+STEG: Actually, I call them special-shiny-clear-stones, special-shiny-bluey-stones, and, um—
+
+DAD: Well, it was very lucky for me that you turned up when you did and rescued me. I need to get home in order to make sure my children get milk for their breakfast. (shows him the milk) Although I expect that one hundred and fifty million years ago you called it ‘wet-white-drinky-stuff. Can you take me home?
+
+STEG: Yes and no. Yes, I would love to take you home. Nothing would make me happier. No, I cannot take you home. My Time Machine is being temperamental. I have pressed that button many times but nothing happens.
+
+DAD: Button? Don’t you mean ‘big-red-flat-pressy-thing’?
+
+STEG: I most certainly do not. It is a button. I named it after my Aunt Button.
+
+DAD: Can I press it? (to the kids) I pressed the button. The sun shot around the sky, and the balloon began to rock and lurch and zoom around like an angry fly. I held on to the ropes as hard as I could. Fortunately, I was still keeping tight hold of the milk in my right hand.
+
+SISTER: Are there any ponies in this? I thought there would be ponies by now.
+
+DAD: (ad libbing like crazy to somehow incorporate ponies) The machine stopped. We were hanging in the air above a grassy plain. Below me, on a number of brightly colored ponies were gathered.
+
+PONY: You must be the man with the milk. We have heard about you, in our tales.
+
+SISTER: I’m so glad there were ponies.
+
+DAD: The milk! My children are breakfastless . . . (to the kids) And with that, Professor Steg pressed the red button with his heavily armored tail. There was a ZOOM, a TWORP, and a THANG, and we were hurtling through the cosmic void --FLOATING above a landscape of ominous towers and castles. It was not a friendly place. Bats flew across the sky in huge flocks. There was a loud FLUT!, and where the bats had been, several pallid people were now standing. The man in front had a very bald head. THEY ALL HAD SHARP TEETH.
+
+VAMPIRE: Ve are wumpires. Vot is this? Who are you? Answer us, or ve vill wiwisect you.
+
+STEG: I am Professor Steg. We are on an important mission. My assistant is trying to get home to the future for breakfast.”
+
+DAD: At the word BREAKFAST all the wumpires looked very excited.
+
+VAMPIRE: Ve have not had our breakfast. Ve normally have vigglyvorms, vith orange juice on them. Orange juice makes vorms ewen vigglier. Like vandering spaghetti. But if ve cannot eat vorms ve vill eat assistant, or ewen roast professor.
+
+DAD: One of the wumpires took out a fork and looked me up and down in a hungry sort of way. The professor tinkered with the jewels and the string and the buttons.
+
+STEG: I think I’ve got it properly fine-tuned, now. This next press should bring you back to your own time, place, and breakfast.
+
+DAD: I pressed the red button. The hole in space opened again. And [we and] the milk came rocketing through. There was an ear-popping noise and I was floating, in a balloon basket. I could see our house. I could see the bicycles in the back garden. I could see the rabbit hutch.
+
+ME: Does that mean that there is a Stegosaurus in a hot air balloon outside?
+
+DAD: There is not. For reasons that will become apparent
+
+SISTER: (wistfully) I think that there should have been some nice wumpires . . . Nice, handsome, misunderstood wumpires.”
+
+DAD: There was a familiar sort of a thumm-thumm noise, and before I had a chance to press the red button [again], we were deposited, balloon and all, on the enormous metal deck of a flying saucer, with a number of very grumpy-looking green globby people staring at us with too many eyes. They did not look pleased.
+
+ALIEN: HaHA! You thought you had escaped us! And you were wrong! Now, you must sign the planet over to us so that we can remodel it. We will take out all the trees and put in plastic flamingoes. Also, we are going to replace the clouds with scented candles. We have been tracking your movements through time and space. Now, see what happens when I press this grundledorfer
+
+(points to a button on the spaceship control panel).
+
+DAD: It’s called a button.
+
+ALIEN: Nonsense. We named it after our brood-aunt, Nessie Grundledorfer. (pushes the button)
+
+DAD: There was a CRACKLE. There was a FIZZ. Standing around us, in attitudes of anger and irritation, were several pirates and some wumpires.
+
+PIRATE QUEEN: Prepare to be keelhauled, you scurvy dogs.
+
+VAMPIRE: Ve vants those willains and warmints wiolently vound up.
+
+DAD: The aliens looked at each other. One of them pressed the grundledorfer. The wumpires and pirates were gone. It was at that moment that a voice louder than anything I have ever heard said
+
+POLICE: GALACTIC POLICE. DO NOT MOVE.
+
+DAD: There were red and blue flashing lights and about half a dozen uniformed dinosaurs, holding unmistakably large and extremely serious weapons. They pointed their weapons at the green globby aliens.
+
+POLICE: You are charged with breaking into people’s planets and redecorating them. And then with running away and doing it again somewhere else, over and over.
+
+You have committed crimes against the inhabitants of eighteen planets, and crimes against good taste. DADThe Tyrannosaurus handcuffed all the green globby people together with something that looked a lot more like pink string-in-a-can than it looked like handcuffs, which was a good thing because they probably didn’t have hands and they definitely didn’t have wrists. The last I saw of any of them, the whole inside of the saucer was fading into light so bright I had to close my eyes and look away. And then I was standing at the back door of our house, none the worse for wear. So I came in. And here I am . . .
+
+ME: That was what my dad said. I looked around the kitchen. At the calendar on the wall with the hot air balloons on it. At my dinosaur models and my sister’s ponies, at my sister’s vampire books.
+
+SISTER: You know we don’t believe any of this.
+
+ME: Especially not how you saved the world from being remodeled. Or the pirates. Not. Any. Of. It.
+
+DAD: (shrugging) Suit yourselves. But it was all true. And I can prove it. Here’s the MILK!
+```
+
+---
+
+## IC-2025: The Frog Prince Continued
+
+- Title: The Frog Prince Continued
+- Author (byline): Jon Scieszka
+- Work: Not specified
+- Publisher: Viking Juvenile
+- Publication date as stated: May 1991
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, PRINCESS, PRINCE, WITCH 1, WITCH, WITCH 2, WITCH 3, FAIRY GODMOTHER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1042
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Jon Scieszka:
+ISBN: 978-0670834211
+Publisher: Viking Juvenile
+Date (Month/Year): May 1991
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+And they lived happily ever after . . .This is where most fairy tales end. The prince and princess marry and ride off into the sunset to begin their new life together as husband and wife, a life full of promise, romance, and above all, love. But no one has ever told us how this is supposed to happen, or why it succeeds if it does. In The Frog Prince Continued by Jon Scieszka, the truth behind happily ever after is revealed -- warts and all. (CROAK)
+
+The Frog Prince Continued by John Scieszka
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: The Princess kissed the frog, he turned into a prince and they lived happily ever after. Well, let’s just say they lived sort of happily for a long time. Okay, so they weren’t so happy. In fact, they were miserable.
+
+PRINCESS: Stop sticking your tongue out like that.
+
+PRINCE: How come you never want to go down to the pond anymore?
+
+NARRATOR: The Prince and Princess were so unhappy. They didn’t know what to do.
+
+PRINCESS: I would prefer that you not hop around on the furniture. And it might be nice if you got out of the castle once in a while to slay a dragon or giant or whatever.
+
+NARRATOR: The Prince didn’t feel like going out and slaying anything. He just felt like running away. But then he reread his book. And it said right there at the end of his story: “They lived happily ever after. The End.” So he stayed in the castle and drove the Princess crazy. Then one day, the Princess threw a perfectly awful fit.
+
+PRINCESS: First you keep me awake all night with your horrible, croaking snore. Now I find a lily pad in your pocket. I can’t believe I actually kissed your slimy frog lips. Sometimes I think we could both be better off if you were still a frog.
+
+NARRATOR: That’s when the idea hit him. The Prince thought . . .
+
+PRINCE: Still a frog . . .Yes! That’s it!
+
+NARRATOR: And he ran off into the forest, looking for a witch who could turn him back into a frog. The Prince hadn’t gone far when he ran into just the person he was looking for.
+
+PRINCE: Miss Witch, Miss Witch. Excuse me, Miss Witch. I wonder if you could help me?
+
+WITCH 1: Say, you’re not looking for a princess to kiss are you?
+
+PRINCE: Oh, no. I’ve already been kissed. I’m the Frog Prince. Actually, I was hoping you could turn me back into a Frog.
+
+WITCH: Are you sure you’re not looking for a beautiful sleeping princess to kiss and wake up?
+
+PRINCE: No, no -- I’m the Frog Prince.
+
+WITCH: That’s funny. You don’t look like a frog. Well, no matter. If you’re a prince, you’re a prince. And I’ll have to cast a nasty spell on you. I can’t have any princes waking up Sleeping Beauty before the hundred years are up.
+
+NARRATOR: The Prince didn’t stick around to see which nasty spell the witch had in mind. He ran deeper into the forest until he came to a tiny cottage where he saw another lady who might help him.
+
+PRINCE: Miss Witch, Miss Witch. Excuse me, Miss Witch. I wonder if you could help me. I’m a prince and---“
+
+WITCH 2: Eh? What did you say? Prince?
+
+PRINCE: No, I mean, yes. I mean, no, I’m not the prince looking for Sleeping Beauty. But, yes, I’m the Frog Prince. And I’m looking for a member of your profession who can turn me back into a frog so I can live happily ever after.
+
+WITCH: Frog Prince, you say? That’s funny. I thought frogs were little green guys with webbed feet. Well, no matter: If you’re a prince, you’re a prince. And I can’t have any princes rescuing Snow White. Here- eat the rest of this apple.
+
+NARRATOR: The Prince, who knew his fairy tales (and knew a poisoned apple when he saw one), didn’t even stay to say, “No Thank you.” He turned and ran deeper into the forest. Soon he came to a strange-looking house with a witch outside.
+
+PRINCE: Ahem. Miss Witch, Miss Witch. Excuse me, Miss Witch. I wonder if you could help me? I’m the Frog-
+
+WITCH 3: If you’re a frog, I’m the King of France.
+
+PRINCE: No, I’m not a frog. I’m the Frog Prince. But I need a witch to turn me back into a frog so I can live happily ever after, can you do it?”
+
+WITCH: (eyeing the Prince and licking her lips) Why, of course, dearie. Come right in. Maybe I can fit you in for lunch.
+
+NARRATOR: The Prince stopped on the slightly gummy steps. Something about this house seemed very familiar. He broke off a corner of the windowsill and tasted it. Gingerbread.
+
+PRINCE: I hope you don’t mind my asking, Miss Witch. But do you happen to know any children by the name of Hansel of Gretel?
+
+WITCH: Why yes, Prince darling, I do. I’m expecting them for dinner.
+
+NARRATOR: The Prince who, as we said before, knew his fairy tales, ran as fast as he could deeper into the forest. Soon he was completely lost. He saw someone standing next to a tree. The Prince walked up to her, hoping she wasn’t a witch, for he’d quite had his fill of witches.
+
+PRINCE: Madam. I am the Frog Prince. Could you help me?”
+
+FAIRY GODMOTHER: Gosh, do you need it. You are the worst-looking frog I’ve ever seen.
+
+PRINCE: I am not a frog. I am the Frog Prince and I need someone to turn me back into a frog so I can live happily ever after.
+
+FAIRY GODMOTHER: Well, I’m on my way to see a girl in the village about going to a ball, but I suppose I could give it a try. I’ve never done frogs before, you know.
+
+NARRATOR: And with that the Fairy Godmother waved her magic wand and turned the Prince into a beautiful carriage. The Prince couldn’t believe his rotten luck. The sun went down. The forest got spookier. And the Prince became more and more frightened.
+
+PRINCE: Oh, what an idiot I’ve been. I could be sitting at home with the Princess, living happily ever after. But instead, I’m stuck here in the middle of this stupid forest, turned into a stupid carriage. Now I’ll probably just rot and fall apart and live unhappily ever after.
+
+NARRATOR: The Prince thought these terrible, frightening kinds of thoughts (and a few worse- too awful to tell), until far away in the village the clock struck midnight. The carriage instantly turned back into his former Prince self and ran by the light of the moon until he was safe inside his own castle.
+
+PRINCESS: Where have you been? I’ve been worried sick. You’re seven hours late. Your dinner is cold. Your clothes are a mess.
+
+PRINCE: The Prince looked at the Princess who had believed him when no one else in the world had, the Princess who had actually kissed his slimy frog lips. The Princess who loved him.
+
+NARRATOR: The Prince kissed the Princess. They both turned into frogs. And they hopped off happily ever after. (CROAK)
+```
+
+---
+
+## IC-2026: Garbage Scan
+
+- Title: Garbage Scan
+- Author (byline): Dave Barry
+- Work: Dave Barry Talks Back, Pg 158-162
+- Publisher: Three Rivers Press
+- Publication date as stated: May 1992
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: SPEAKER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 577
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Dave Barry
+Book: Dave Barry Talks Back, Pg 158-162
+ISBN: 978-0517588680
+Publisher: Three Rivers Press
+Date (Month/Year): May 1992
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Channel-surfing enables the listener to escape the incessant pressures of political advertising, commercials, talk radio, news reports, radio evangelists and of course, the dreaded CLASSICAL MUSIC channels.
+
+Let’s face it . . . we don’t want to hear any of those things on the way to work. We want REAL music . . . the kind that makes you long for a convertible and a hundred miles of open road.
+
+Unfortunately, for those of us without I-Tunes, Sirius XM or, for you more mature audience members, CDs
+
+(ARGGGHHHH) . . . we are left with only one option in our quest for Rock and Roll. . . the Garbage Scan by Dave Barry.
+```
+
+### Performance text (classify this)
+
+```text
+SPEAKER: (Pg 158-162) Monday morning. Bad traffic. Let's just turn on the radio here, see if we can get some good tunes, crank it up. Maybe they'll play some early Stones. Yeah. Maybe they . . .
+
+-POWER ON- ". . . just reached the end of 14 classic hits in a row, and we'll be right back after we . . ."
+
+-SCAN- ". . . send Bill Doberman to Congress. Because Bill Doberman agrees with us. Bill Doberman. It's a name we can trust. Bill Doberman. It's a name we can remem-ber. Let's write it down. Bill . . ."
+
+-SCAN- ". . . just heard 19 uninterrupted classic hits, and now for this. . ."
+
+-SCAN- ". . . terrible traffic backup caused by the. . ."
+
+-SCAN- . . . EVIL that cometh down and DWELLETH amongst them, and it DID CAUSETH their eyeballs to ooze a new substance, and it WAS a greenish color, but they DID not fear, for they kneweth that the. . ."
+
+-SCAN- "(spoken as rapidly as possible) . . . followingisbasedonan500yearleaseanddoesnot-includetaxtagsinsuranceoranactualcarwegetyourhousea ndyourchildrenandyour-kidneys. . ."
+
+-SCAN- "NINE THOUSAND DOLLARS!!! BUD LOOTER CHEVROLET OPEL ISUZU FORD RENAULT JEEP CHRYSLER TOYOTA STUDEBAKER TUCKER HONDA WANTS TO GIVE YOU, FOR NO GOOD REASON. . ."
+
+-SCAN- ". . . Bill Doberman. He'll work for you. He'll fight for you. If people are rude to you, Bill Doberman will kill them. Bill Doberman . , ."
+
+-SCAN- ". . . enjoyed those 54 classic hits in a row, and now let's pause while, . ."
+
+-SCAN- ". . . insects DID swarm upon them and DID eateth their children, but they WERE NOT afraid, for they trustedeth in the. . ."
+
+-SCAN-
+". . . listening audience. Hello?"
+"Hello?"
+"Go ahead."
+”Steve?"
+
+"This is Steve, Go ahead."
+"Am I on?"
+"Yes. Go ahead."
+"Is this Steve?"
+
+-SCAN- "This is Bill Doberman, and I say convicted rapists have no business serving on the Supreme Court. That's why, as your congressman, I'll make sure that. . . "
+
+-SCAN- ". . . a large quantity of nuclear waste has been spilled on the interstate, and police are trying to. . ."
+
+-SCAN- ". . . GIVE YOU SEVENTEEN THOUSAND DOLLARS IN TRADE FOR ANYTHING!!! IT DOESN'T EVEN HAVE TO BE A CAR!!! BRING US A ROAD KILL!!! WE DON'T CARE!!! BRING US A CANTALOUPE-SIZED GOB OF EAR WAX!!! BRING US. . .”
+
+-SCAN- ". . . huge creatures that WERE like winged snakes EXCEPT they had great big suckers, which DID cometh and pulleth their limbs FROM their sockets liketh this, 'Pop,' but they WERE not afraid, nay they WERE joyous, for they had. . ."
+
+-SCAN- ". . . just heard 317 uninterrupted classic hits, and now.. ."
+
+-SCAN- "Bill Doberman will shrink your swollen membranes. Bill Doberman has. . ."
+
+-SCAN- ". . . glowing bodies strewn all over the road, and motorists are going to need.”
+
+-SCAN- ". . . FORTY THOUSAND DOLLARS!!! WE'LL JUST GIVE IT TO YOU!!! FOR NO REASON!!! WE HAVE A BRAIN DISORDER!!! LATE AT NIGHT, SOMETIMES WE SEE THESE GIANT GRUBS WITH FACES LIKE KITTY CARLISLE, AND WE HEAR THESE VOICES SAYING. . ."
+
+-SCAN-
+"Steve?"
+"Yes."
+"Steve?"
+"Yes."
+"Steve?"
+
+-SCAN- "Yes, and their eyeballs DID explode like party favors, but they WERE NOT sorrowful, for they kneweth. . ."
+
+-SCAN- Bill Doberman. Him good. Him heap strong. Him your father. Him. . ."
+
+-SCAN- ". . . finished playing 3,814 consecutive classic hits with no commercial interruptions dating back to 1978, and now. . ."
+
+-SCAN- ". . . the radiation cloud is spreading rapidly, and we have unconfirmed reports that. . ."
+
+-SCAN- ". . . liquefied brain parts did dribbleth OUT from their nostrils, but they WERE not alarmed, for they were.. ."
+
+-SCAN- ". . . getting sleepy. Very sleepy. When you hear the words 'Bill Doberman,' you will . . ."
+
+-POWER OFF- SPEAKER: OK, never mind. I'll just drive. Listen to people honk. Maybe hum a little bit. Maybe even, if nobody's looking, do a little singing. (Quietly) I can't get nooooooo Sa-tis-FAC-shun . . .*
+```
+
+---
+
+## IC-2027: Garden Wars
+
+- Title: Garden Wars
+- Author (byline): W. Bruce Cameron
+- Work: Not specified
+- Publisher: Rocky Mountain News
+- Publication date as stated: 2003
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: No
+- Spoken words (computed): 750
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: W. Bruce Cameron
+ISBN: Syndicated Columnist:
+Publisher: Rocky Mountain News
+Date (Month/Year): 2003
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+THEME FROM THE VEGGIE TALES:
+```
+
+### Performance text (classify this)
+
+```text
+SING . . . . . If you like to talk to tomatoes
+
+If a squash can make you smile
+
+If you like to waltz with potatoes
+
+Up and down the produce aisle...
+
+Have we got a show for you!
+
+VeggieTales, VeggieTales, VeggieTales,
+
+VeggieTales . . . . Ok . . . . not really. I mean VeggieTales are OK, but not for a mature high school forensics performance. Instead . . . I’ll stay with the same theme, but instead of Veggie Tales, I present to you (in a loud echoing voice) GARDEN WARS by W. Bruce Cameron . . . .
+
+Copyright 2003 W. Bruce Cameron — Please do not remove the copyright from this essay
+
+It's harvest time, that bountiful season when amateur gardeners such as myself can finally say, "how the heck am I going to get rid of all these vegetables?"
+
+I've got zucchini growing thick as Popeye's forearms out there, bloating past prime because after the zucchini tacos and the zucchini flambé and the zucchini pancakes and the zucchini fondue, no one can even look at another one of the darn things without experiencing squash-induced food disorder. Tomato plants sag like bellhops carrying Ivana Trump's luggage to her room. Wicked peppers drip toward the ground, and potatoes tunnel all over the yard like prairie dogs. I'm overrun.
+
+My children react to their vegetable-enriched meals by making projectile gagging sounds and attempting to foist spoonfuls of zucchini casserole on the dog, who for the first time in her canine life has stopped begging at the table. "I'm a carnivore," my son declares. "I'm not eating anything but meat."
+
+"Meat! Meat!" my children chant.
+
+My neighbor Fred deserves some of the blame-it was he who showed up at my door with a wheelbarrow full of horse manure last spring. "Guess who I've just been talking to?" he trumpeted.
+
+I eyed the foul-smelling cargo. "Our congressman?" I speculated.
+
+"The guy who manages the stables. We can have all the manure we want!" Fred cried gleefully.
+
+"Fred, even with none, I already have all the manure I want," I replied.
+
+Fred explained it was for our gardens, and proceeded to show me how to "work it into the soil." Since I have an aversion to anything with the word "work" in it, I sat in a hammock and watched him, calling out encouragement until I fell asleep.
+
+So now, with my garden going berserk, I load up a grocery bag and head over to Fred's house. "Hey Fred!"
+
+I call when he opens the door to my knock. "I brought you summer squash, some peas, and lots of tomatoes!"
+
+He peers at me. "I already have more than I can eat."
+
+"I really don't care, buddy. I'm your neighbor and I'm sharing the vegetables of my labor. You have to take it."
+
+Fred slams the door.
+
+Okay, no problem. I simply go to his garden and place my excess crops around his own prolific plants. What's a few more onions? He'll hardly notice!
+
+The next day the coward sends his WIFE to my house with some zucchini bread, a case of canned tomatoes, and a host of other thinly-disguised garden delivery systems. I retaliate immediately.
+
+"You can't put vegetables in my mailbox," he complains when he phones. "That's against federal law."
+
+"No it isn't, I put stamps on them," I retort.
+
+"I'm bringing over some cucumber cheesecake," he threatens.
+
+"You do and I'm calling the cops!" I storm.
+
+The next day, I call HIM. "What's with all the stuff in my car?"
+
+"I left you vegetable medley a la grand,'" he explains.
+
+"What? It's a bunch of dirty vegetables in paper bags," I rage.
+
+"Medley a la sack," he amends.
+
+My attempts to retaliate that night by delivering him "salsa verde a la not yet made into salsa" are thwarted. "That BB gun HURT, you jerk," I seethe over the phone. "How did you know I was up by your chimney, anyway?"
+
+"Night vision goggles," he boasts. "Plus, we knew something was going on when the tomatoes started to roll out of the fireplace."
+
+Night vision goggles! See how deranged some people can be? Why would anyone go to such ridiculous lengths over a few vegetables?
+
+Anyone know where I can get a catapult?
+
+So I've had to keep all the outside lights on around my house, in case Fred and his high-tech weaponry are making a sneak attack. I know he's up to something, because he's mad at me for my last salvo. But hey, all I did was SEND the Fed-ex!
+
+HE signed for it.
+```
+
+---
+
+## IC-2028: Geek Love
+
+- Title: Geek Love
+- Author (byline): Katherine Dunn
+- Work: Not specified
+- Publisher: Warner Books
+- Publication date as stated: Aug 1993
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1845
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Katherine Dunn
+ISBN: 978-0446391306
+Publisher: Warner Books
+Date (Month/Year): Aug 1993
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Enter the world of the carnival freaks . . . . I’m Olympia Binewski, and this is the story of my family. All of us children were precious to our parents. . . In fact, Mama used to say: "What greater gift could you offer your children than an inherent ability to earn a living just by being themselves?" My family’s story is a raw, insight into the human condition, a glimpse of tormented people who live on the fringe. I’m proud to be a product of Geek Love by Katherine Dunn.
+```
+
+### Performance text (classify this)
+
+```text
+"WHEN YOUR MAMA WAS the geek, my dreamlets," Papa would say, "she made the nipping off of noggins such a crystal mystery that the hens themselves yearned toward her, waltzing around her, hypnotized with longing. 'Spread your lips, sweet Lil,' they'd cluck, 'and show us your choppers!' "
+
+This same Crystal Lil, our star-haired mama, sitting snug on the built-in sofa that was Arty's bed at night, would chuckle at the sewing in her lap and shake her head. "Don't piffle to the children, Al. Those hens ran like whiteheads." Nights on the road this would be, between shows and towns in some campground or pull-off, with the other vans and trucks and trailers of Binewski's Carnival Fabulon ranged up around us, safe in our portable village.
+
+After supper, sitting with full bellies in the lamp glow, we Binewskis were supposed to read and study. But if it rained the story mood would sneak up on Papa. The hiss and tick on the metal of our big living van distracted him from his papers. Rain on a show night was catastrophe. Rain on the road meant talk, which, for Papa, was pure pleasure.
+
+"Your Mama fluttered around like a dainty bird, and when she caught those ugly squawking hens you couldn't believe she'd actually do anything. When she went right ahead and geeked 'em that whole larruping crowd went bonzo wild. There never was such a snap and twist of the wrist, such a vampire flick of the jaws over a neck or such", champagne approach to the blood. She'd shake her star-white hair and the bitten-off chicken head would skew off into the corner while she dug her rosy little fingernails in and lifted the flopping, jittering carcass like a golden goblet, and sipped! Absolutely sipped at the wriggling guts! She was magnificent, a princess, a Cleopatra, an elfin queen! That was your mama in the geek pit.
+
+"People swarmed her act. We built more bleachers, moved her into the biggest top we had, eleven hundred capacity, and it was always jammed." Papa would half frown, looking down at his hands, quieted suddenly. Feeling the story mood evaporate, one of us children would coax, "What made you quit, Mama?"
+
+She would sigh and look up from under her spun-glass eyebrows at Papa and then turn to where we were huddled on the floor in a heap and say softly,
+
+"I had always dreamed of flying. The Antifermos, the Italian trapeze clan, joined the show in Abilene and I begged them to teach me." Then she wasn't talking to us anymore but to Papa. "And, Al, you know you would never have got up the nerve to ask for my hand if I hadn't fallen and got so bunged up. Where would we be now if I hadn't?"
+
+Papa nodded, "Yes, yes, and I made you walk again just fine, didn't I?" But his face went flat and smileless and his eyes went to the poster on the sliding door to their bedroom. It was old silvered paper, expensive, with the lone lush figure of Mama in spangles and smile, high-stepping with arms thrown up so her fingers, in red elbow-length gloves, touched the starry letters arching "CRYSTAL LIL" above her.
+
+My father's name was Aloysius Binewski. He was raised in a traveling carnival owned by his father and called "Binewski's Fabulon." Papa was twenty-four years old when Grandpa died and the carnival fell into his hands. Al carefully bolted the silver urn containing his father's ashes to the hood of the generator truck that powered the midway. The old man had wandered with the show for so long that his dust would have been miserable left behind in some stationary vault.
+
+My mother, Lillian Hinchcliff, was a water-cool aristocrat from the fastidious side of Boston's Beacon Hill, who had abandoned her heritage and joined the carnival to become an aerialist. Nineteen is late to learn to fly and Lillian fell, smashing her elegant nose and her collarbones. She lost her nerve but not her lust for sawdust and honky-tonk lights. It was this passion that made her an eager partner in Al's scheme. She was willing to chip in on any effort to renew public interest in the show. Then, too, the idea of inherited security was ingrained from her childhood. As she often said, "What greater gift could you offer your children than an inherent ability to earn a living just by being themselves?"
+
+The resourceful pair began experimenting with illicit and prescription drugs, insecticides, and eventually radioisotopes. My mother developed a complex dependency on various drugs during this process, but she didn't mind. Relying on Papa's ingenuity to keep her supplied, Lily seemed to view her addiction as a minor by-product of their creative collaboration.
+
+Their firstborn was my brother Arturo, usually known as Aqua Boy. His hands and feet were in the form of flippers that sprouted directly from his torso without intervening arms or legs. He was taught to swim in infancy and was displayed nude in a big clear-sided tank like an aquarium. His favorite trick at the ages of three and four was to put his face close to the glass, bulging his eyes out at the audience, opening and closing his mouth like a river bass, and then to tum his back and paddle off, revealing the turd trailing from his muscular little buttocks. Al and Lill laughed about it later, but at the time it caused them great consternation as well as the nuisance of sterilizing the tank more often than usual. As the years passed, Arty donned trunks and became more sophisticated, but it's been said, with some truth, that his attitude never really changed.
+
+My sisters, Electra and Iphigenia, were born when Arturo was two years old and starting to haul in crowds. The girls were Siamese twins with perfect upper bodies joined at the waist and sharing one set of hips and legs. They usually sat and walked and slept with their long arms around each other. They were, however, able to face directly forward by allowing the shoulder of one to overlap the other. They were always beautiful, slim, and huge-eyed. They studied the piano and began performing piano duets at an early age. Their compositions for four hands were thought by some to have revolutionized the twelve-tone scale.
+
+I was born three years after my sisters. My father spared no expense in these experiments. My mother had been liberally dosed with cocaine, amphetamines, and arsenic during her ovulation and throughout her pregnancy with me. It was a disappointment when I emerged with such commonplace deformities. My albinism is the regular pink-eyed variety and my hump, though pronounced, is not remarkable in size or shape as humps go. My situation was far too humdrum to be marketable on the same scale as my brother's and sisters'. Still, my parents noted that I had a strong voice and decided I might be an appropriate shill and talker for the business. A bald albino hunchback seemed the right enticement toward the esoteric talents of the rest of the family. The dwarfism, which was very apparent by my third birthday, came as a pleasant surprise to the patient pair and increased my value. From the beginning I slept in the built-in cupboard beneath the sink in the family living van, and had a collection of exotic sunglasses to shield my sensitive eyes
+
+Despite the expensive radium treatments incorporated in his design, my younger brother, Fortunato, had a close call in being born to apparent nor-malcy. That drab state so depressed my enterprising parents that they immediately prepared to abandon him on the doorstep of a closed service station as we passed through Green River, Wyoming, late one night. My father had actually parked the van for a quick getaway and had stepped down to help my mother deposit the baby in the cardboard box on some safe part of the pavement. At that precise moment the two-week-old baby stared vaguely at my mother and in a matter of seconds revealed himself as not a failure at all, but in fact my parents' masterwork. It was lucky, so they named him Fortunato. For one reason and another we always called him Chick.
+
+"Papa," said Iphy. "Yes," said Elly. They were behind his big chair, four arms sliding to tangle his neck, two faces framed in smooth black hair peering at him from either side.
+
+"What are you up to, girlies?" He would laugh and put his magazine down.
+
+"Tell us how you thought of us," they demanded.
+
+I leaned on his knee and looked into his good heavy face. "Please, Papa," I begged, "tell us the Rose Garden."
+
+He would puff and tease and refuse and we would coax. Finally Arty would be sitting in his lap with Papa's arms around him and Chick would be in Lily's lap, and I would lean against Lily's shoulder while Elly and Iphy sat cross-legged on the floor with their four arms behind them like Gothic struts supporting their hunched shoulders, and Al would laugh and tell the story.
+
+"It was in Oregon, up in Portland, which they call the Rose City, though I never got in gear to do anything about it until a year or so later when we were stuck in Fort Lauderdale."
+
+He had been restless one day, troubled by business boondoggles. He drove up into a park on a hillside and got out for a walk. ''You could see for miles from up there. And there was a big rose garden with arbors and trellises and fountains. The paths were brick and wound in and out." He sat on a step leading from one terrace to another and stared listlessly at the experimental roses. "It was a test garden, and the colors were. . . designed. Striped and layered. One color inside the petal and another color outside.
+
+"I was mad at Maribelle. She was a pinhead who'd been with your mother and me for a long while. She was trying to hold me up for a raise I couldn't afford." The roses started him thinking, how the oddity of them was beautiful and how that oddity was contrived to give them value. "It just struck me-clear and complete all at once – no long figuring about it.” He realized that children could be designed. “And I though to myself, no that would be a rose garden worthy of a man’s interest!”
+
+We children would smile and hug him and he would grin around at us and send the twins for a pot of cocoa from the drink wagon and me for a bag of popcorn because the red-haired girls would just throw it out when they finished closing the concession anyway. And we would all be cozy in the warm booth of the van, eating popcorn and drinking cocoa and feeling like Papa's roses.
+```
+
+---
+
+## IC-2029: George Carlin’s Guide to Dining Out
+
+- Title: George Carlin’s Guide to Dining Out
+- Author (byline): George Carlin
+- Work: Brain Droppings, Pgs 8-13
+- Publisher: Hyperion Press
+- Publication date as stated: May 1997
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, GUY, CUSTOMER, WORKER, WAITER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1282
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: George Carlin
+Book: Brain Droppings, Pgs 8-13
+ISBN: 978-0786863136
+Publisher: Hyperion Press
+Date (Month/Year): May 1997
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Let’s face it. The American public is in LOVE with eating out. Some studies have shown the average American eats out 4 to 5 times a week. How many other “pleasurable” activities does the average adult engage in 4 to 5 times a week?
+
+Food is IMPORTANT but enjoying yourself during the dining experience is also important. In the true nature of fun, I offer you George Carlin’s Guide to Dining Out (may he rest in peace)
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: Are you a fan of restaurant chains? I’m not. Every now and then I get a Waffle House attack, and I have to get something scattered and smothered, but I don’t make a habit of it. After all, Applebee’s slogan of Eatin’ Good in the Neighborhood takes on a whole new meaning when you think about the fact that they have 2,000 locations. Then of course there is Olive Garden whose food is about as Italian as Taco Bell is Mexican. And last but not least, there is my beloved IHOP, where you can be convinced that pancakes with dripping strawberry syrup and whipped cream is a healthy dinner any day of the week!
+
+(Excerpted from Restaurant Menus Recreated to be Honest by Diana Adams https://bitrebels.com/entertainment/restaurant-menus-recreated-to-be-honest-humor/ )
+
+NARRATOR: (Pg 8-13) There are certain clues that tell you how much a restaurant will cost. If the word cuisine appears in the advertising, it will be expensive. If they use the word food, it will be moderately priced. However, if the sign says eats, even though you'll save some money on food, your medical bills may be quite high.
+
+I don't like trendy food. When I hear, "sauteed boneless panda groin," I know I'm in the wrong place. There's such a thing as pretentious food. Puree of woodchuck, marinated bat nipples, weasel chops, porcupine cacciatore. Or fried eagle. A guy said to me recently,
+
+GUY: C'mon, we'll go to Baxter's, they have really great fried eagle."
+
+NARRATOR: I'm thinkin' to myself, "Do I really wanna know this guy?" However, if you are going to dine with pretentious people, here are some items you can order that are sure to impress (each said with a different affectation): • gorilla fondue, • filet of hyena, • jackal tartare, • rack of prairie dog, • free-range mole en brochette, • wolf noodle soup, • loin of chipmunk, • koala flambe, and • wombat souvlaki Then, at the other end of the spectrum, there is the decidedly non-trendy restaurant, where the special sometimes is simply "meat." Big sign in the window: "Today's special: Meat."
+
+CUSTOMER: I'll have the meat.
+
+WORKER: Would you like sauce with that?
+
+CUSTOMER: What kind of sauce would that be?
+
+WORKER: That would be meat sauce.
+
+NARRATOR: It's similar to a fish sandwich. Have you ever seen these places that feature "fish sandwiches"? I always think, "Well, that's kind of general." I mean, I wouldn't order something called a "meat sandwich," would you?" At least not without a couple of follow-up questions:
+
+CUSTOMER: Does anyone know where this meat came from? . . . Are any of the waitresses missing?
+
+NARRATOR: I think when you eat out you should have a little fun; it's good for digestion. Simple things. After the waiter recites a long list of specials, ask him if they serve cow feet. But act really interested in the specials. When he says,
+
+WAITER: Today we have goat-cheese terrine with arugula juice, sauteed cod with capers and baby vegetables, coastal shrimp cooked in spiced carrot juice, roast free-range chicken with ginger and chickpea fries, and duck breast in truffle juice.
+
+NARRATOR: Act like you're completely involved. Say,
+
+CUSTOMER: The cod. What is the cod sauteed in?
+
+WAITER: A blend of canola and tomato oils.
+
+CUSTOMER: (No hurry here.) Ahhh, yes! (pointing thoughtfully at the waiter) I'll have the grilled cheese sandwich.
+
+NARRATOR: Even some low-end places are pretentious. The menu can't merely say "cheeseburger." They have to get wordy. So, go along with them. When you order your food use their language. But you must look right at the waiter; no fair reading from the menu. Look him in the eye and say . . .
+
+CUSTOMER: I'll have the succulent, fresh-ground, government-inspected, choice, all-beef, six-ounce patty on your own award-winning sesame-seed bun, topped with a generous slice of Wisconsin's finest Grade-A cheddar cheese made from only premium milk and poured from large, galvanized steel cans, having originally been extracted from a big, fat, smelly, champion blue-ribbon cow with a brain disease.
+
+NARRATOR: Continue that style with other items: Instead of asking for a glass of water, say you'd like a . . .
+
+CUSTOMER: cylindrical, machine-blown, clear drinking vessel filled with nature's own colorless, odorless, extra-wet, liquid water.
+
+NARRATOR: Have fun. Be difficult. Order unusual things: a chopped corn sandwich. Rye potato chips. Filet of bone with diced peas. Peanut butter and jellyfish. Ask for a glass of skim water. Insist on fried milk. Chocolate orange juice. Order a grilled gorgonzola cheese sandwich on whole-wheat ladyfingers. Then top the whole thing off with a bowl of food coloring and a large glass of saturated fat.
+
+Issue special instructions. Ask for the French toast, medium rare. Get a pizza with no toppings, hold the crust. Tell 'em you want eggs: "Fry the whites and poach the yolks." Order a basket of poppy seed rolls and tell them to scrape off the seeds and put them in a separate bowl and heat them to 200 degrees. Keep them busy.
+
+Tell your waiter you want to make a substitution: "Instead of my napkin, I'll have the lobster tails." See what he says. Ask him if the garnish is free. If it is, tell him all you're having is a large plate of garnish. If they have a salad bar, ask how many times you can go back. If they say as many times as you like, ask for a lawn bag. Come back the next day with a small truck. Tell them you weren't quite finished eating the night before. You're actually within your legal rights, because, technically, no one is ever finished eating.
+
+Ask him if the chef would mind preparing a dish that's not on the menu. Then describe something simple but unusual. Like half a coconut filled with egg whites. When the waiter comes back and says,
+
+WAITER: Yes, the chef said he will be delighted to make that for you . . .
+
+NARRATOR: Tell him, "Well, never mind, I don't like that anymore.” When the food arrives, change your mind. Say. . .
+
+CUSTOMER: I've changed my mind, waiter. Instead of the roast suckling pig, I believe I'll have a half order of Kellogg's Product 19.
+
+NARRATOR: And always, when the food arrives, send something back. It's considered very sophisticated. But make sure you use colorful language. Tell him . . .
+
+CUSTOMER: Waiter, this veal tastes like the inside front panel of Ferdinand Magellan's shorts. And I'm referring to the first voyage.
+
+NARRATOR: Show him you're a man of new ideas. When he comes with the pepper mill . . . Actually, the pepper mill can be a source of great fun. Keep the waiter going on the pepper mill for a long time. Disturbingly long. Until everyone in the restaurant is really uncomfortable. Then, when your food and silverware are completely covered with a thin layer of ground pepper, say . . .
+
+CUSTOMER: Okay, stop! That's perfect!
+
+NARRATOR: Then, a few minutes later, call the waiter over and tell him . . .
+
+CUSTOMER: This food has way too much pepper on it!
+
+NARRATOR: Now that you have your food, the waiter can begin to ask you if everything is all right.
+
+WAITER: Is everything all right?
+
+CUSTOMER: Yes. Thank you. Good-bye!
+
+NARRATOR: Usually, when they ask if everything is all right, tell them the truth. Say . . .
+
+CUSTOMER: Well, I had a problem with the peas. I received 143 peas. Of them, 36 were overcooked, 27 were undercooked, and 18 were not quite the same color as the others.
+
+NARRATOR: Or tell them more than they really want to know.
+
+CUSTOMER: No, everything is not all right. I'm going through a period of upheaval. I have a rogue polyp in my bowel, my wife ran off with a periodontist, and my son has been arrested for defecating in a mall.
+
+NARRATOR: And always fill out the "How did we do?" card. It's very helpful to the owner.
+
+CUSTOMER: (writing on the comment card) Everything was wonderful, except the waiter had some vomit on his shoes and a tiny snot on the end of his nose. It was small, but it was definitely a snot.
+```
+
+---
+
+## IC-2030: The Giant’s Tooth
+
+- Title: The Giant’s Tooth
+- Author (byline): Bruce Coville
+- Work: Odds are Good
+- Publisher: Magic Carpet Books
+- Publication date as stated: March 2006
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: MEAGAN, EDGAR
+- Teaser before the introduction: Yes
+- Spoken words (computed): 2177
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Bruce Coville
+Book: Odds are Good
+ISBN: 978-0152057169
+Publisher: Magic Carpet Books
+Date (Month/Year): March 2006
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+The Giant’s Tooth by Bruce Coville
+```
+
+### Performance text (classify this)
+
+```text
+EDGAR TWONKY had no intention of getting eaten by a giant the morning he left for Cottleston Fair. Sometimes these things just happen. He was ambling along, humming tunelessly, when an enormous hand swept down from the sky, scooped him up, and deposited him in a mouth the size of a cave. The tongue on which he landed was coarse and soggy, like a bed of rain-soaked ferns. It flung him toward the back of the mouth, where a vast bulb of red flesh dangled above the gaping black hole that would, Edgar presumed, be the last thing he ever saw. With a leap, Edgar grabbed the dangling piece of flesh. It was moist and slick, and far too wide for him to put his arms around. Digging his fingers into the soft surface, he hung on for dear life. "Gunnarrrgh.” said the giant. "Gunnarrrgh.”
+
+Edgar's grip was loosening, and he was expecting to fall into the waiting hole at any second, when he heard a creaky voice call, "Over here! Hurry!" Edgar flung himself forward, landing on the giant's tongue once more. The great pad of flesh rippled alarmingly as the giant tried to swallow him.
+
+MEAGAN: Come on, come on! I can't hold this out here forever. It'll make him sneeze, which will almost certainly kill you! Reaching forward, Edgar grabbed another handful of tongue and pulled himself along the rough surface. He dragged himself hand over hand toward the beckoning torch, when the giant made a last desperate attempt to swallow him. "Gak gak gak.” hacked the giant. Edgar leaped forward, landing within a foot of the torch. A withered hand reached out to him. He grabbed it thankfully and was pulled into the most astonishing room he had ever seen. Well, it wasn't a room, exactly. It was the inside of one of the giant's back teeth. But the flickering light of the torch showed that it had been hollowed out to make an area large enough to hold a table and two chairs and a clutter of items that covered both floor and table: cups, plates, knives, pitchforks, shovels, coils of rope, chunks of wood, and an old wagon wheel, among other things. "Salvage," wheezed a voice behind him. Edgar turned and received yet another surprise. His rescuer was a woman.
+
+MEAGAN: By salvage, I mean the stuff in the room, not you. First time since I've been here that I've actually been able to save someone. Silly things all panic and slide down his gullet before I can do a thing to help them. That was very good, the way you managed to grab on to something. Quick thinking. I like that in a man.
+
+EDGAR: (nervously) Thank you. (looking around) How long have you lived here?
+
+MEAGAN: (shrugging) Can't really say. It's hard to keep track of the time in here. (stroking her hair, sadly) I do know I was young when he took me. Young and pretty, some thought. And my hair was black as a raven's wing. Now come on, ducky. Sit down, sit down. I haven't had a visitor in . . . well, ever, actually. (flipping hair over shoulder) My name is Meagan.
+
+EDGAR: And I'm Edgar. How do you live here, anyway? Where do you get your food?
+
+MEAGAN: (shrugging) I scavenge. Anything that comes along that doesn't go down his gullet. I've dug bits of meat out of his teeth that would feed a family of ten. Edgar shuddered, and decided not to ask what she did for water. He was afraid he already knew the answer. He leaped ahead to the bigger, more important question. "Have you ever tried to get out?"
+
+MEAGAN: (bitterly) What do I look like? Of course I've tried to get out. I tried every way I could think of. Finally, when it became clear I wasn't going to make it, I gave up and accepted my fate. With every flash of light that came when the giant opened his mouth, I took stock of where I was. Many was the hour I spent huddled in this tooth, weeping to myself, wondering what was to become of me. But I never gave up. I drank from pools of spit. I snatched passing food. And when I found my first tool, I began to dig, to make myself a home. Chip, chip, chip, I picked away at this tooth. (pause, chuckles) He didn't like that, I can tell you. Oh, the roars of pain! I thought I would go deaf. (Beat) Did I try to get out? Of course I tried to get out. But in the end, I made myself a home here. Night inside the giant's tooth came in two stages. The first was when the giant himself lay down to rest, which changed the floor into a wall, and the rear wall into the floor. Stage two came when Meagan decided to put out the torch. As he lay in the dark, wrapped in misery, Edward finally did drift into a fitful slumber-only to be jolted back into wakefulness by a deep rumble, something like a cross between a thunderstorm and an avalanche. (Sound of giant snoring, ending in 3 peeps)
+
+EDGAR: (horrified) What was that?
+
+MEAGAN: (groggily) What was what?
+
+(Sound of giant snoring, ending in 3 peeps)
+
+EDGAR: That!
+
+MEAGAN: (snarling) It's just the giant, snoring. Forget it and go back to sleep. He was still wide awake, though completely exhausted, when Meagan lit the torch again. Only a few moments later the giant groaned and lurched to his feet, causing everything that had fallen to the wall the night before to return to the floor.
+
+MEAGAN: I've been thinking, and I've decided that you're going to have to build a home of your own. This place really is too small for the two of us. Odds are good I'd end up killing you. Edgar, who was still determined to think of this as a temporary situation, felt that digging out his own home would be a waste of time and energy.
+
+EDGAR: (snarling whine) Where do you suggest I make this home.
+
+MEAGAN: (snapping) Well, he has nearly thirty more teeth to choose from! However, I'd suggest you stick with the molars. They're roomier. And so, after a breakfast so gray that Edgar decided he didn't really want to know what it consisted of, they left Meagan's home to search for a tooth where he could live. The giant's tongue, pulsating beside them like a pink and fleshy whale, was a constant danger. Even worse, when they first started out they had to dodge into the gap between Meagan's tooth and the next one while the giant poked at their hiding spot with the tip of his tongue, as if he was trying to dislodge an irritating bit of food that had become stuck there. It was a humbling thought for Edgar to realize that "an irritating bit of food" was, in fact, precisely what he had become. The tooth directly next to Meagan's was strong and solid, with no obvious place for Edgar to begin excavating a home. The one next to that, however-the tooth farthest back in the giant's mouth-had a hole twice the size of Edgar's fist. The odor of decay hung rank about it, but Meagan said that would disappear when Edgar had cut away the rot. Before Meagan would let him start to work, she bound them both to the tooth with a combination of ropes and leather straps. Edgar swung the pick and knocked away a chunk of the yellowed enamel. The outraged roar of pain that rose from deep within the giant nearly deafened him. Edgar almost felt sorry for the giant. Then he reminded himself that the only reason the creature was suffering this way was because it had tried to eat him. The outer coating of the tooth was hard but brittle, and broke away fairly easily. After about four feet, the material changed to something dense and yellow, and tougher to work with the pick.
+
+Finally the time came when the excavation in the tooth was big enough for Edgar to take up his home in it. He moved his things-that is, the two or three items Meagan had given him, as well as a pitchfork (the single thing he had managed to snag on his own)-to his new abode. While he continued work on his new dwelling, Meagan taught him how to snatch things from the tide of food and rubble that poured down the giant's throat three times a day. When she "went fishing," as she called it, she first secured a safety rope about her waist, anchoring the other end of the rope to one of the chairs inside her tooth. Normally she pulled things in with the help of a long pole that had a hook on one end. But if something particularly good came rushing past that was too far out on the tongue for her to snag simply by leaning for it, she would fling her whole body onto the surface of the tongue, then use the rope to haul herself back. Once Edgar was truly settled, he began to explore the giant's mouth in search of a way out.
+
+Though he did not tell Meagan this was what he was doing, he suspected she was able to guess. Not that it made any difference. He could find no way of escape. It was like being at the bottom of a well: easy enough to fall in, impossible to climb out. Edgar continued his explorations, until he had at last reached the most distant of the giant's molars. He carried a torch with him, which he lit and waved to Meagan when he reached the far side. When he returned from that trip, he was burning with a new idea.
+
+EDGAR: If we string a rope directly across the center of his mouth, we might have better luck snagging things as they go by.
+
+MEAGAN: Might work. Just how good an idea became clear as the weeks rolled on and they were able to retrieve more and more items. The most unexpected of these items was a young man named Charles, whom Edgar snatched from certain doom by hanging upside down from the rope and reaching out to him.
+
+During Edgar's second year in the giant's mouth, they rescued Farley. Next to be pulled to safety, about six months later, were a pair of sisters, named Babette and Cleo, and their dim-witted brother, Herbert. The time had come to begin building homes in the teeth on the other side of the mouth. Babette and Cleo chose to live together. Herbert took the tooth above them. Before too many more years had passed, a thriving community had risen in the giant's mouth. Edgar was elected mayor of Giant's Mouth Township. They gave him a jeweled scepter, which they had managed to retrieve one afternoon when the giant swallowed a king. (They had tried to save the king, too, of course, but his grip was weak and flabby, and he had not been able to hold on when Herbert reached out to him.) Many was the night Edgar sat in his tooth and looked out the window he had carved on the tongueward side, feeling warm and cozy at the sight of the lights twinkling on the other side of the giant's mouth. In this way, the years rolled on. And then, one afternoon while he was setting a rope, Edgar was suddenly yanked from the giant's mouth. It happened because the giant, who was in a foul mood that day, became particularly irritated by the feeling of things moving in his mouth. Edgar was stringing a rope across the roof of the giant's mouth in order to do some salvage work when the giant reached in and began to scratch at the roof of his mouth. Though the rope was less to him than a silk thread would be to a human, it caught on his fingernail. When he pulled his hand out, one end of the rope came free-and with it, still clinging to the end, came Edgar. As he hurtled out of the giant's mouth, two things caused Edgar to blink. The first was the unexpected brightness of the sun, which he had not seen except at a distance for so many years. The second was the horrifying distance that separated him from the ground. Knowing he could not keep his grip on the saliva-slick rope, Edgar made a desperate leap and landed on the giant's collar. The giant swatted at him, as one would at an annoying insect, but Edgar quickly scrambled under the giant's collar, where he held as still as he could, scarcely breathing. Finally night darkened the sky, bringing with it the stars that he had not seen in so many years. Their beauty made him weep. The giant lay down, and after a time began to snore. Edgar climbed out onto his chest. He stood, staring out at the rising moon, the river on whose water it was reflected, the dark ridge of the distant mountains, and the road that led back to his village. Then he began to climb the giant's shirt-not down, but up-onto the giant's chin, where the stubble grew so thick it was like a grove of small pine trees. Across the loose and pendulous lip Edgar climbed. Then he lowered himself back into the moist cavern of the giant's mouth, where his home and friends lay waiting.
+```
+
+---
+
+## IC-2031: Gifted
+
+- Title: Gifted
+- Author (byline): Simon Rich
+- Work: Spoiled Brats
+- Publisher: Back Bay Books
+- Publication date as stated: May 2015
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1690
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Simon Rich
+Book: Spoiled Brats
+ISBN: 978-0316368650
+Publisher: Back Bay Books
+Date (Month/Year): May 2015
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+It's a natural instinct to want to help your child. After all, that's what parents do: We protect and support our children until they are ready to go out on their own. But these days some parents are defining "protect" and "support" a little differently than usual. And the definition of when kids are ready to be on their own has gotten fuzzy, too.
+
+Compound this social phenomenon with being the parent of a differently-abled child, author Simon Rich and you get a short story rife with hyperbole entitled . . . . Gifted
+```
+
+### Performance text (classify this)
+
+```text
+When the nurses handed me my son, I couldn’t believe how perfect he was. Ben was so robust, nearly fifty inches tall, including horns and tail. Even the doula was impressed.
+
+“My God,” she said. “My holy God in heaven.”
+
+Alan and I knew instantly that our child was exceptional. He was just so adorable, with his pentagram birthmark and little, grasping claws. His red eyes gleamed with intelligence. When the doctors came in with all their charts, they just confirmed what we already knew. Our child was “one of a kind” and “unlike any creature born of man.”
+
+Alan and I were ecstatic – but also a little bit nervous. Raising a gifted child is a huge responsibility. We vowed then and there that we would do all we could to ensure he achieved his full potential.
+
+The first step was getting him into the right preschool. We figured it would be a breeze, given Ben’s obvious star quality. But, to our great surprise, he struggled. At Trevor Day, a teacher asked him how old he was. Instead of saying “three,” he pinned her to the ceiling with his mind. We were able to get him an interview at Trinity, thanks to a family connection. But when Ben saw the crucifix in the lobby, his eyes turned black and the walls wept blood. Why was Ben behaving this way?
+
+There was only one logical explanation: attention deficit disorder. We took him to a specialist on Park Avenue, and within five minutes our son had his first prescription for Ritalin.
+
+At first Ben wouldn’t take his pills. Padma, our nanny, had to chase him for hours around the apartment, blowing incense in the air to try to scare him down from the ceiling. Within months, though, Ben got used to his medication. He became calmer, more alert, and far less murderous. He was a real joy to be around.
+
+In some ways, Ben still lagged behind most children. He spoke only one word: arrgh. And he was unable to tie his shoes or blink his eyes. We didn’t care, though. Because, by the age of five, he’d finally found an outlet for his gifts. Art!
+
+Ben always had a creative temperament. He could grip crayons by his second birthday (which is very rare), and by the age of six he was drawing every day. His favorite colors were black and red. Sometimes, while composing a sketch, he would become so excited that his crayon would break apart in his claws and he would start to ram his horns against the wall as noxious steam emitted from his ears. If Ben’s art supplies were taken from him, he would respond with so much violence that Padma would have to subdue him, using one of the sleeper holds she’d learned. It didn’t take long for Alan and me to realize we had a true artiste on our hands.
+
+We decided to enroll Ben at Dalton, because of its emphasis on creativity. I wasn’t going to let Ben’s talent go to waste at some cookie-cutter public school where every child is forced into the same dull mold. I wanted him to have a chance to find himself.
+
+Ben’s time at Dalton was not without incident. He’s incredibly unique – every teacher said so. But his creativity could sometimes be a burden. If a subject didn’t ‘grab’ him, he would have trouble focusing – and instead create a game of his own design. For example, in fifth grade, a teacher asked him to calculate the area of a four-by-six-foot rectangle. Instead of multiplying four by six, as a typical child might have done, Ben crab-walked across the ceiling and blinded the teacher with a fire stare. The incident was very traumatic for our son. Alan and I decided it was time to reexamine his treatment.
+
+After consulting with our specialist, we chose to switch Ben from Ritalin to Focalin, which is a slightly stronger medicine. We also hired Han Cho, an astrophysics PhD candidate at Columbia, to tutor Ben five days a week after school.
+
+The sad truth is, our world is just not designed for differently abled children. Many assignments at Dalton require the use of pencils, which Ben cannot hold in his claw. Other projects involve calculators, which Ben considers food, or the use of English, which Ben cannot speak. Enlisting Han allowed Ben to complete his assignments at his own pace and in a way that showcased his distinct gifts.
+
+Ben’s grades soon improved. We were so grateful to Han for unlocking our son’s potential. Once, they were studying vocab by the pool when I heard a loud splashing noise. When I went outside to check on them, Ben was holding Han upside down by the ankles and growling with delight.
+
+“Help!” Han shouted, playing along with Ben’s game. “I’ve lost control! I’ve lost control!”
+
+When Ben turned thirteen, we knew it was time to start thinking about college. We met with a number of counseling firms. They helped us structure a four-year strategy for Ben that would demonstrate his skill set – and we followed the plan to the letter. By the time Ben was a senior, his résumé was absolutely glittering. He’d received five participation gavels from Model UN, been elected tri-captain of the Dalton golf team, and contributed numerous drawings to the school’s Fine Arts Magazine. His GPA was a respectable 1.4, and even though he’d accidentally eaten several sections of his SAT he still managed to notch a 420.
+
+Despite all of Ben’s achievements, he did not seem excited about college. He’d spend hours in his room, playing violent video games. The only time I’d see Ben was late at night, when he’d emerge from his room to raid the fridge for Popsicles. I worked to take advantage of these ‘sightings’ as best I could. But when I tried to engage him in conversations about his future, he replied in typical teenage fashion, with a series of shrugs, grunts, and monosyllables.
+
+“Do you want to go to a big school or a small school?”
+
+“Arrgh.”
+
+“Do you want to be in a city or in the country?”
+
+“Arrgh.”
+
+“Would you prefer lecture classes or seminars?”
+
+“Arrgggh!!!!”
+
+It was exasperating. In the end, we were able to persuade Ben to apply early to Bard. Alan and I had taken him there on a college tour and we were so impressed that we donated several tennis courts to their campus. When Ben was accepted, Alan and I were beside ourselves! But Ben wasn’t as thrilled as you’d expect. Here he was, accepted into his dream school, and his smile was so faint I could barely see his fangs. It was obvious what had happened: Ben had burned out.
+
+We met with Ben’s psychiatrist and decided it would be best for him to take a ‘gap year’. The only question was: where would Ben go? It was difficult to decide. He had his heart set on Transylvania, which I found baffling. (Italy would make more sense, since it has such a grand artistic tradition.) In the end, we compromised. Ben would spend two weeks on his own in Transylvania, as a reward for all his hard work. Then he’d spend six months at a wonderful program I found in Costa Rica that builds eco-friendly houses for the poor.
+
+When Ben returned from his time abroad, he was a changed man. He had a swagger to his step and a confidence I’d never seen before. Part of me wondered if he’d maybe met a girlfriend overseas, but I knew better than to ask. If there’s one thing I’ve learned from my years as a parent, it’s that the mother is always the last to know!
+
+Unfortunately, though, Ben had trouble adjusting to college. He thrived within his major, creating dozens of ‘splatter’ paintings in the Abstract Expressionist tradition. But he had difficulty with his core curriculum courses. Once, during a Spanish midterm, he escaped into the Hudson Valley woods and lived as a beast for several months, taking residence in a cave and eating neighborhood pets to survive. The local authorities were able to subdue him. And, thankfully, they turned him over to the Bard police, so that his outburst could be handled internally by the school. But the event was traumatic for Ben, and I decided it would be best for him to take a semester off. We also got him a prescription for Adderall, which is a slightly stronger medicine than Focalin.
+
+It took nearly seven years, but Ben eventually earned his BA in painting. I’ll never forget how handsome he looked on the podium, with his cute little horns poking out through his mortarboard. No sooner had he snatched his diploma, though, than my heart began to race. All I could think was, What now?
+
+We got him a prescription for Kilmax, which is a slightly stronger medicine than Adderall. Then, on a rainy February morning, I sat down with him to talk about his future. As usual, it was difficult for us to connect.
+
+“Would you like us to rent you your own artist’s studio in Williamsburg?”
+
+“Arrgh.”
+
+The Kilmax, I noticed, had produced several troubling side effects. Ben’s eyes – usually so bright and searing – had dimmed to a pale ocher. His horns were pointed downward and his fur was falling out in clumps. I was telling him about another option – the birthright trip to Israel – when he suddenly held up his claw, cutting me off midsentence.
+
+“No… more.”
+
+I screamed for Alan, and he came running. “Ben spoke!” I cried. We leaned in toward our son, keeping as still as possible. Ben gasped a few times, obviously struggling. Eventually, though, he managed to continue.
+
+“No more… arrrrrgh! Pleeeeeaseeeearrrrrgh! Me… not… sick. Me… arrrrrrrgh! Monster. Let… be… monster. Let be monster.”
+
+My eyes filled with tears. I’d always assumed that Ben would never talk – and now here he was, carrying on a full conversation! If Ben could master language, there was no limit to what he could achieve. I whipped out my iPhone and typed in Han’s number from memory.
+
+It was time to start thinking about law school.
+```
+
+---
+
+## IC-2032: The Goblins
+
+- Title: The Goblins
+- Author (byline): A.J. Jacobs
+- Work: Fractured Fairy Tales
+- Publisher: Bantam Books
+- Publication date as stated: Nov 1997
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: No
+- Spoken words (computed): 1078
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: A.J. Jacobs
+Book: Fractured Fairy Tales
+ISBN: 978-0553099805
+Publisher: Bantam Books
+Date(Month/Year): Nov 1997
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+One of the most successful and beloved of Victorian fairy tales, George Macdonald’s The Princess and the Goblin tells the story of young Princess Irene and her friend Curdie, who must outwit the threatening goblins who live in caves beneath her mountain home.
+
+This version of the story by A.J. Jacobs – simply called “The Goblins” modifies the original a bit to fit the format of what the world has come to know as “Fractured Fairy Tales” If you ever watched the Rocky and Bullwinkle show on Saturday mornings as a child, you may remember this one!
+
+The Goblins by A.J. Jacobs
+```
+
+### Performance text (classify this)
+
+```text
+A long, long, long time ago, a little kingdom sat perched on top of a high mountain. The king of the kingdom was constantly trying to raise money for things he thought the country needed. Like, for instance, another robe for the king.
+
+“That robe-the one with the lion fur around the collar?" the king told his prime minister. "Got to have it. I'll have to levy another tax on the little people."
+
+"But we already have a tax on everything, Your Majesty," said the prime minister. "What can you tax them for?"
+
+"Easy! I'll just tax them for being little people." And so the king levied a tax on all people under four feet six. Problem was, there weren't that many people that little. Matter of fact, only one family in the kingdom was under four feet six. The Goblins. And they didn't like it a bit.
+
+"We may not have height, but we got heart!" father Goblin told the tax collector who banged on his door. "We may not have altitude, but we got attitude. We may not have-"
+
+"All right, I got the point," said the tax collector. "But if you're going to live on this mountain, you gotta pay the tax."
+
+"Well, then," said the goblin, "we won't live on the mountain. We'll live in the mountain."
+
+And with that, the entire Goblin family entered a hole in the side of the mountain and slammed the door shut, vowing to come out only on moonlit nights to try to get the big people. But as we said, that was a long, long, long time ago. After many years passed by, the kingdom entered the era officially known as a long time ago. (We'll skip the era called a long, long time ago.) Anyway, a long time ago, the goblins still lived inside the mountain and still sallied forth to try to get people. Although, it should be said they had never actually gotten a person, and wouldn't really know what to do if they did.
+
+The reason the goblins had never actually got-ten someone was that they had a weakness: poetry. Repeat a couple of lines-something like "One, two, buckle my shoe, three, four, shut the door"-and the goblins were stopped cold. Repeat a couple more lines-for instance, "I should have been a pair of ragged claws scuttling across the floors of silent seas"-and the goblins ran away, screaming.
+
+One day, the new king was teaching his daughter, Irene, the facts of life.
+
+"And remember, the goblins will get you if you don't watch out!"
+
+"Oh, yeah?" said Irene. "Have you ever seen a goblin?"
+
+"Umm, no, but ... "
+
+"Well, how do you know there are even such things as goblins? Is that a goblin?" asked Irene, pointing to a red couch.
+
+"No, but-"
+
+"Is that a goblin?" asked Irene, pointing to a brass candlestick.
+
+"Um, no."
+
+"Is that a goblin?" asked Irene, pointing to a little, four-foot, three-inch man with an evil glint in his eyes.
+
+"Why, yes," said the king. "I believe that is a goblin."
+
+And with that, the goblin began chasing Princess Irene around the castle and out the door and over the moat and into the kingdom.
+
+"l'm gonna get you!" the goblin cackled.
+
+"I don't want to be got! I don't want to be got!" shouted Irene.
+
+Things looked bad for the princess until she bumped into a young miner named Curdy, and he was so struck by the princess's beauty that he was moved to poetry.
+
+"Oh, Princess fair," said Curdy. "Your golden hair. Upon your head. I see it there."
+
+And of course, that stopped the goblin in his tracks, for he just couldn't stand poetry.
+
+"You saved me with your poem," said the grateful princess to the miner. "Are you a handsome prince in disguise?"
+
+"No, I'm just a miner boy," said the ever-modest Curdy. "Although for a lonely miner, I'm quite courageous and have excellent hygiene."
+
+"Oh," said the crestfallen princess. "Couldn't you go somewhere to learn to be a prince?"
+
+"Like where?" asked Curdy. "How 'bout Princeton?"
+
+Oooof. That kind of talk makes the poetry seem appealing. Anyway, little did the princess know that the goblin who had chased her was himself a prince, the Prince of Goblins, and that he was determined to make her his bride. And so a pack of goblins-led by Prince Goblin-burrowed underneath the mountain precisely to the spot where the princess was, and popped up.
+
+Actually, they made a slight miscalculation. They popped up in the middle of a croquet court. Af-ter a hasty retreat and a couple of aspirin (those croquet mallets aren't made of rubber, you know), the goblins tried again. They popped up and grabbed the princess! Well, actually, there was another slight miscalculation. They grabbed the hygienic miner instead.
+
+"You fellows have made a terrible mistake," protested Curdy, as he was dragged into the moun-tain. "l'm Curdy!"
+
+"You sure are, hun!" giggled the prince, not knowing what curdy meant, but thinking it sounded rather appealing.
+
+So Curdy figured he would just recite a poem and make these goblins disappear. But without the princess to inspire him, Curdy couldn't think of a sin-gle rhyme. He could only think of words like orange. And month.
+
+In no time at all, Curdy found himself in a very embarrassing position. Namely, standing next to Prince Goblin, dressed in a bridal gown.
+
+"Do you take this earthling to be your lawful wedded wife?" a four-foot, two-inch minister asked the prince.
+
+"Um, could you give me a second on that one?" requested the prince. "She looks a bit different than I remembered her." The prince decided to take Curdy out into the daylight for a closer look. Out they popped and who should Curdy see just outside the hole, but the princess herself. Finally inspired, Curdy burst into verse.
+
+"What a gladsome fine surprise, to see you with mine eyes," he recited.
+
+The prince winced and cupped his ears.
+
+"I love you more, my lovely princess, than pies of apples or minces."
+
+At this, the prince could stand no more. He let go of Curdy and fled back to the mountain forever. The king was overjoyed to have his daughter back where she belonged.
+
+"See," he said. "I told you the goblins will get you if you don't watch out."
+
+"But you were wrong!" shouted Irene. "It's the love bug that gets you if you don't watch out."
+
+Now that's a happy ending.
+```
+
+---
+
+## IC-2033: Good News Versus Bad
+
+- Title: Good News Versus Bad
+- Author (byline): Erin Barker
+- Work: The Moth
+- Publisher: Hachette Books
+- Publication date as stated: Sept 2013
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1285
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Erin Baker
+Book: The Moth
+ISBN: 978-1401311117
+Publisher: Hachette Books
+Date (Month/Year): Sept 2013
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Good News Versus Bad by Erin Baker
+```
+
+### Performance text (classify this)
+
+```text
+(Pg 201-205) When I was about twelve years old, my mom said she wanted to talk to me about something. My mom and I didn’t have a lot of talks. I loved her very much, but she was one of those corporate working moms with the beeper and the pants suit. She yelled important things into phones, and she was away a lot on business.
+
+But she sat me down in the living room, and she told me that she was pregnant. And it was kind of strange the way she said it, almost like she wasn’t that happy about it. It had been eight years since my brother was born, but even I could remember how excited everybody had been—how everyone had ideas for names, how all the grandparents had flown in from out of town, how barely a day went by that we didn’t get some kind of massive delivery of balloons or a giant stuffed animal. But this time there were no balloons. There weren’t even any cards.
+
+But I was still very excited. I had never expected to have another sibling after my little brother, and I was optimistic that this time I'd get one who could throw a baseball. So I told everyone the big news. I told everyone at school, everyone at church, my Girl Scout troop, the next-door neighbors, the kid who mowed our lawn -everybody. And they were all just as excited as I was. Except after a while, I started to notice that when these people would inevitably congratulate my dad on the big news, there would be this sort of whispered exchange, and then that person would say, "Oh my God, I'm so sorry." And I didn't know what that meant until one day when my dad took me out for ice cream.
+
+My dad was my best friend when I was a kid. He was the dad who would read to us every night before bed and would listen very seriously to my thoughts on the Roald Dahl masterpiece James and the Giant Peach. He taught me how to throw a baseball, and at one point really believed he could teach my brother the same. He taught us that Darth Vader had to wear that suit because he had been injured in a car accident, and so my brother and I better always wear our seat belts unless we wanted to end up like him.
+
+Because my dad and I were so close I knew what ice cream meant. Every time my dad has bad news he takes us out for ice cream. It's kind of his M.O. Don't ever go to the Cold Stone Creamery with my dad -just don't do it. Unless you want to find out that Grandpa has cancer, or your dog's been put to sleep, or your nanny's been fired for stealing your mother's jewelry, just don't go.
+
+So we get our ice cream of doom, and my dad takes a deep breath, and he says, "The baby your mother is pregnant with is not mine." And I can see him looking at me trying to see if I understand at twelve years old what he means.
+
+As it just so happened, I had conveniently just learned what sex was in school, when my science teacher forced poor Craig Berken to read it out loud from our biology textbook. I can still remember the exact words, as read in Craig's shaky, giggly voice: The man jiggles his penis inside the woman's vagina.
+
+Yes, jiggles. Even at that age I was like, I really feel like that is not the right word for this context. "Jiggles" is a word that's neither sexy nor scientific, and probably only belongs in a Jell-0 commercial. But you know, it did the trick. I learned what sex was, and I understood exactly what was going on here. I understood what my dad was telling me, and I could tell how hard it was for him to tell me.
+
+And then he says, "Do you know who the father is?" And I realize with sudden clarity that I do know.
+
+"Andy?" I said, and my dad nodded.
+
+Andy was my mom's coworker, this British guy about ten years younger than her, who would take me and my mom and my brother on little trips and buy us expensive presents. He'd even, oddly enough, gone to church with us. I thought he was our friend.
+
+I realized now that I'd been wrong, and that I'd been stupid not to realize it. And as a result, not only had I failed to prevent this disaster (and like every child I truly believed in my heart that I could have, with a well-timed tantrum or the right number of slammed doors), but I'd also made it infinitely worse for the person who deserved it the least, my father. I'd been coming home for months saying things like, "Dad, look at the awesome Lego castle Andy brought us." "Dad, guess what, we taught Andy how to play baseball today," never noticing the tense silence. Not to mention I'd publicly humiliated him by telling everyone about my mother's pregnancy.
+
+I was devastated, and I was no longer excited about the new baby. Shortly after this my parents got divorced, and my mom bought a house down the street from my dad's because the neighborhood didn't already have enough to talk about. One day I went down and there was cake on the table and my mom said, "Andy and I got married today. Do you want a piece of the wedding cake?"
+
+No, I did not want a piece of the cake of lies.
+
+The next time I went down, I was met with an even bigger surprise, this time in the form of a strange pink baby who I was told was my new sister.
+
+"Do you want to hold her?" my mom asked.
+
+No, I did not want to hold her. I didn't want to look at her, at this baby who had broken my father's heart. I loathed this horrible creature, and I decided then that I always would. I made a commitment in that moment to hate this baby for the rest of my life, possibly longer.
+
+There was just one problem ... I don't know if you've ever tried to hate a baby, but it is difficult. Because everything they do is magical. And this was especially true in the case of my sister, Emma, who had a little Pebbles Flintstone ponytail on top of her head. Every night that I was at my mom's house, she would refuse to go to sleep until I came and sang to her.
+
+Soon I found myself bonding with my mom for the first time in a long time over our mutual love for Emma and our mutual hatred of the Teletubbies. Slowly all my anger fell down like dominoes. When I forgave my sister, it was easier to forgive my mom, and when I forgave my mom, it was easier to forgive myself. I'll admit I never quite forgave Andy, but that was okay because it turned out that his stay with us was only temporary anyway. He met another married woman with children and started going to church with them, and presumably started this story all over with someone else.
+
+As for my dad, I never had to ask for his forgiveness. It was always there.
+
+Emma is fourteen years old now, and she's gone from Teletubbies to Twilight. Clearly she has questionable taste-in a few years it'll probably be Dan Brown novels. But despite that, we're great friends, and I love her very much, and I can't regret anything that happened because without it we wouldn't have her. Although she never did learn how to throw a baseball.
+```
+
+---
+
+## IC-2034: Good Pupils
+
+- Title: Good Pupils
+- Author (byline): Jack Lothian
+- Work: If This Goes On
+- Publisher: Parvus Press
+- Publication date as stated: March 2019
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: DAVID, ME, MR. GARVEY
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1473
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Jack Lothian
+Book: If This Goes On
+ISBN: 978-0999784211
+Publisher: Parvus Press
+Date (Month/Year): March 2019
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Good Pupils by Jack Lothian
+```
+
+### Performance text (classify this)
+
+```text
+On Monday, David's desk is still empty. We've gone through the same process that we go through every day: lining up, trudging through the metal detectors, bags on the conveyor belt, random searches that never feel that random. Picking up our collars from the tray at the end, putting them on. Through another set of metal detectors into the room, and then to the desk, and the whole time I didn't want to look to my right, didn't want to see his seat, as if by not looking, it'll somehow break the jinx. David will be slouched there, scowling, like it was a normal Monday. But the seat is empty, because of what happened last week.
+
+David and I grew up on the same street before his father lost his job and they had to relocate to cheaper housing. I'd been best friends with David since we were six, almost ten years now. I couldn't care less where he lived. [He is . . . was] an ally in this world, someone who has your back, no matter what. Our big guilty pleasure: old teen movies. Breakfast Club, Ridgemont High, Heathers, Grease . . . I get they're corny, and the clothes are weird and the music bad, but they've got a strange energy and spirit. In Dead Poet's Society they stand on their desks. My desk has my name printed on it and is bolted to the ground. When Bender tells Mr. Vernon to 'eat his shorts’, it's amazing to see someone talk to a teacher like that, and not end up on their knees as a result, drooling and disoriented.
+
+DAVID: (laughing) These are not good pupils. The problem with David is that he's not really a good pupil either. He's a smart ass, likes to talk back, and even when he's not speaking he's got an array of tuts and snorts he can deploy to signify displeasure at whoever is talking. When we started in Mr. Garvey's class, it was clear that David's prime motivation was to test the limits of our new teacher, day by day, lesson by lesson. He's also smart though, in a way I don't think I could ever be. He looks at equations or math problems, and something in that brain of his just clicks. So when they introduced the collars, I could see his eyes light up. I knew he'd eventually find a way to slip one out from school, take into his garage, and dissect it.
+
+(Pause) It's been three months since I've seen anyone collared. I don't know the exact details of the incident. All I know is what I saw. He was shouting at Mr. Phillips, gesturing, spit flying from his mouth, some argument they'd got into. He picked up a trash can to throw it. At that moment Mr. Phillips gave a verbal command, and the kid just dropped. His body spasmed and shook. Security took him away, and it was a few weeks until he was allowed back. He's okay now. Sits quiet. Does his work. Never asks questions in class, but never disrupts either. Definitely what they call a "good pupil." The collars had been part of our everyday school life for over a year when David finally sneaked one out. He laid it down on the bench and started taking it apart.
+
+He stripped out the metal work, showing me the tiny motherboard, which he said controls both the shock and the voice trigger.
+
+DAVID: Easy enough to smuggle it out of school. Smuggling it back in-that's the challenge! He'd been engaged in an on-going debate with Mr. Garvey for weeks, something to do with amendments and rights. You can tell Mr. Garvey can't stand David. I don't blame him. When David thinks he's right, he gets this tone in his voice, like he pities you for not being able to keep up. Like it's not enough for him to be right, but he's got to humiliate you as well. He reached into his drawer and rummaged around, taking out a pair of scissors.
+
+DAVID: Cut my hair
+
+ME: I’m not a hairdresser, dumbo.
+
+DAVID: I know that, dumbo. That's why I want you to do it. Just chop away. I want Garvey to look at me and think, 'What is wrong with that kid.’ So I hacked off a clump. David smiled as the hair tumbled into his lap.
+
+You could see security giving him odd looks when he came in the next day. This was the day he decided to smuggle the dismantled collar back in, looping it round the handle of his bag, so you could barely notice. His hair was lopsided. He'd ended up shaving one side as well, then stopping before it was complete. It gave the impression of someone who'd staggered out of a medieval asylum. "You look like a freak," I whispered before I filed through the metal detector ahead of him. On that day he sidetracked Garvey into an argument on rights. David said the exercise of your rights cannot infringe on another person's. Garvey leaped on that, and they went round and round, until David pointed out that he was quoting something Garvey had said a few weeks before, so either it still held true, or Garvey didn't know what he's talking about.
+
+MR. GARVEY: You will apologize.
+
+DAVID: (dripping with sarcasm) I’m sorry. I’m sorry that you don’t know what the *** you’re talking about!
+
+David then started recounting the plot of The Breakfast Club as if it was a historical documentary, drawing special attention to the scene where the kids ran free through the halls.
+
+DAVID: Have you ever stopped to think about what that meant, about what all we've sacrificed! David was moving towards the blackboard when Garvey gave the verbal command to activate the collar. David's body jerked. He staggered forward and there was an audible gasp in class. You could tell some people were horrified, and some were secretly excited to see a collar going off. David stumbled forward a few more steps, and his arms flew out, like a marionette with its strings all tangled . . . Then he raised his head and smiled at our teacher.
+
+DAVID: Mr. Garvey? Go eat my shorts. (takes off the modified collar and throws it to the ground) (Pause) There's that scene in the movies where everyone starts spontaneously applauding at once. That's exactly what happened as David walked out of the room. Even the kids who couldn't stand him were banging on their desks, hollering. Mr. Garvey just stood there, staring at us, like we were animals in a zoo, and the bars weren't as solid as he thought. A week passed. David was absent. His parents didn't pick up the phone. My mother sat me down for "a talk." She told me he's a bad influence. She said if I wanted to do well in life, go to a good college and have a career, then I needed to stay away from [people] like that. David returned on Tuesday. His head has been completely shaved. He is pale, and he walks with a slow and deliberate gait. He doesn't look at me. He sits at his desk, a fresh collar on, his hands folded. He copies down notes. He listens when other kids ask questions. He repeats back the phrases that Mr. Garvey tells us to. He never disagrees. He never rolls his eyes at something Garvey says. His eyes are vacant lots, where once there used to be cities on fire. Something inside me breaks.
+
+ME: What's wrong with David, sir?
+
+MR. GARVEY: (turns from the blackboard to answer. Smiles) Nothing.
+
+ME: (louder) What's wrong with David, sir? I know I can keep asking forever, until the school crumbles and falls, and I'll still never get a proper answer from him. I think of those kids in the movies, running in the corridors. Standing on desks. Getting high behind the bleachers. Breaking into the school at night. I think of glorious, wild, untamed youth. I am already out of my seat and running for Mr. Garvey. I think I'm shouting, "What's wrong with David?" but I'm not entirely sure anymore. Mr. Garvey is yelling the command, and pain rips through my neck, yet still my legs are moving, and my hands are out. That's when Mr. Garvey reaches for his gun and pulls the trigger. They tell me I'm lucky. The bullet grazed my skull. (Long pause) They were going to open it up anyway. (Long pause) (with no emotion or affect) I can name all the States. I can tell you that John Hancock put the first signature on the Declaration of Independence. I know that the tallest mountain is McKinley. I can't tell you what that anger feels like though anymore, that helpless rage. I can't watch those movies either. They seem jumbled and strange, like a language I'll never learn. I sit next to David in class. We nod, and we copy down answers, and we listen intently to what the teacher says. We are good pupils, just like they wanted us to be.
+```
+
+---
+
+## IC-2035: A Guide to Some of the Lesser Ballets
+
+- Title: A Guide to Some of the Lesser Ballets
+- Author (byline): Woody Allen
+- Work: The Complete Prose of Woody Allen
+- Publisher: Crown Publications
+- Publication date as stated: Nov 1991
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: No
+- Spoken words (computed): 1593
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Woody Allen
+Book: The Complete Prose of Woody Allen
+ISBN: 978-0517072295
+Publisher: Crown Publications
+Date (Month/Year): Nov 1991
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+WITH OVER THE TOP ENTHUSIASM . . . . (think excitable sports caster)
+
+In a perfect world, ballet commentators (Yes, I said BALLET) could make annual salaries that exceed $1 million, and become household names in the homes of every American . . . SERIOUSLY! Play-by-play commentators would do most of the talking during performance; they’re smooth talkers who are valued for their ability to tell you what’s happening on the stage. Color commentators, on the other hand, provide deeper analysis because they possess experience from having danced or directed with proven success – MIKHEL BARISNAKOV would definitely be a color commentator. Large theatres -- both on the professional and college levels – would have one of each . . . and it would sound something like this: A Guide to Some of the Lesser Ballets by Woody Allen.
+```
+
+### Performance text (classify this)
+
+```text
+Dmitri
+
+The ballet opens at a carnival. There are refreshments and rides. Many people in gaily colored costumes dance and laugh, to the accompaniment of flutes and woodwinds, while the trombones play in a minor key to suggest that soon the refreshments will run out and everybody will be dead.
+
+Wandering around the fairgrounds is a beautiful girl named Natasha, who is sad because her father has been sent to fight in Khartoum, and there is no war there. Following her is Leonid, a young student, who is too shy to speak to Natasha but places a mixed-green salad on her doorstep every night. Natasha is moved by the gift and wishes she could meet the man who is sending it, particularly since she hates the house dressing and would prefer Roquefort.
+
+The two strangers accidentally meet when Leonid, trying to compose a love note to Natasha, falls out of the Ferris wheel. She helps him up, and the two dance a pas de deux, after which Leonid tries to impress her by rolling his eyes until he has to be carried to the comfort station. Leonid offers profuse apologies and suggests that the two of them stroll to Tent NO.5 and watch a puppet show-an invitation that confirms in Natasha's mind the idea that she is dealing with an idiot.
+
+The puppet show, however, is enchanting, and a large, amusing puppet named Dmitri falls in love with Natasha. She realizes that although he is only sawdust, he has a soul, and when he suggests checking into a hotel as Mr. and Mrs. John Doe, she is excited. The two dance a pas de deux, despite the fact that she just danced a pas de deux and is perspiring like an ox. Natasha confesses her love for Dmitri and swears that the two of them will always be together, even though the man who works his strings will have to sleep on a cot in the parlor.
+
+Leonid, outraged at being thrown over for a puppet, shoots Dmitri, who doesn't die but appears on the roof of the Merchants Bank, drinking haughtily from a bottle of Air Wick. The action becomes confused, and there is much rejoicing when Natasha fractures her skull.
+
+The Sacrifice
+
+A melodic prelude recounts man's relation to the earth and why he always seems to wind up buried in it. The curtain rises on a vast primitive wasteland, not unlike certain parts of New Jersey. Men and women sit in separate groups and then begin to dance, but they have no idea why and soon sit down again. Presently a young male in the prime of life enters and dances a hymn to fire. Suddenly it is discovered he is on fire, and after being put out he slinks off. Now the stage becomes dark, and Man challenges Nature-a stirring encounter during which Nature is bitten on the hip, with the result that for the next six months the temperature never rises above thirteen degrees.
+
+Scene 2 opens, and Spring still has not come, although it is late August and no one is quite sure when to set the clocks ahead. The elders of the tribe meet and decide to propitiate Nature by sacrificing a young girl. A maiden is selected. She is given three hours to report to the outskirts of town, where she is told they are having a weenie roast. When the girl appears that night, she asks where all the frankfurters are. She is ordered by the elders to dance herself to death. She pleads pathetically, telling them that she is not that good a dancer. The villagers insist, and, as the music builds relentlessly, the girl spins in a frenzy, achieving sufficient centrifugal force to hurl her silver fillings across a football field. Everyone rejoices, but too soon, for not only does Spring fail to come but two of the elders get subpoenaed in a mail-fraud charge.
+
+The Spell
+
+The overture begins with the brass in a joyous mood, while underneath, the double basses seem to be warning us, "Don't listen to the brass. What the hell does brass know?" Presently, the curtain rises on Prince Sigmund's palace, magnificent in its splendor and rent-controlled. It is the Prince's twenty-first birthday, but he grows despondent as he opens his gifts because most of them turn out to be pajamas.
+
+One by one, his old friends pay their respects, and he greets them with a handshake or a slap on the back, depending on which way they are facing. He reminisces with his oldest friend, Wolfschmidt, and they vow that if either of them grows bald the other will wear a toupee. The ensemble dances in preparation for the hunt until Sigmund says, "What hunt?" No one is quite sure, but the revelry has gone too far, and when the check comes there is much anger.
+
+Bored with life, Sigmund dances his way down to the shore of the lake, where he stares at his perfect reflection for forty minutes, annoyed at not having brought his shaving equipment. Suddenly he hears the flutter of wings, and a group of wild swans flies across the moon; they take the first right and head back to the Prince. Sigmund is astounded to see that their leader is part swan and part womanunfortunately, divided lengthwise. She enchants Sigmund, who is careful not to make any poultry jokes. The two dance a pas de deux that ends when Sigmund throws his back out. Yvette, the Swan Woman, tells Sigmund that she is under a spell cast by a magician named Von Epps, and that because of her appearance it is nearly impossible to get a bank loan. In an especially difficult solo, she explains, in dance lan-guage, that the only way to lift Von Epps's curse is for her lover to go to secretarial school and learn shorthand. This is odious to Sigmund, but he swears he will. Suddenly Von Epps appears, in the form of yesterday's laundry, and spirits Yvette away with him as the first act ends.
+
+As Act II begins, it is a week later, and the Prince is about to be married to Justine, a woman he had completely forgotten about. Sigmund is torn by ambivalent feelings because he still loves the Swan Woman, but Justine is very beautiful, too, and has no major drawbacks like feathers or a beak. Justine dances seductively around Sigmund, who seems to be debating whether to go through with the marriage or find Yvette and see if the doctors can come up with anything. Cymbals crash and Von Epps, the Magician, enters. Actu-ally, he was not invited to the wedding, but he promises not to eat much. Furious, Sigmund pulls his sword and stabs Von Epps through the heart. This casts a pall on the party, and Sigmund's mother commands the chef to wait a few minutes before bringing out the roast beef
+
+Meanwhile, Wolfschmidt, acting on Sigmund's behalf, has found the missing Yvette-not a difficult task, he explains, "because how many half women, half swans are there hanging around Hamburg?" Despite Justine's imploring, Sigmund rushes off to Yvette. Justine runs after him and kisses him, as the orchestra strikes a minor chord and we realize Sigmund has his leotards on inside out. Yvette weeps, explaining that the only way to lift the spell is for her to die. In one of the most moving and beautiful passages in any ballet, she runs headlong into a brick wall. Sigmund watches her body change from a dead swan to a dead woman and re-alizes how bittersweet life can be, particularly for fowl. Grief-stricken, he decides to join her, and after a delicate dance of mourning he swallows a barbell.
+
+The Predators
+
+This celebrated electronic ballet is perhaps the most dramatic of all modern dances. It begins with an overture of contemporary sounds-street noises, ticking clocks, a dwarf playing "Hora Staccato" on a comb and tissue paper. The curtain then rises on a blank stage. For several minutes, nothing happens; eventually, the curtain falls and there is an intermission.
+
+Act II begins with a hush as some young men dance on, pretending to be insects. The leader is a common housefly, while the others resemble a variety of garden pests. They move sinuously to the dissonant music, in search of an immense buttered roll, which gradually appears in the background. They are about to eat it when they are interrupted by a procession of women who carry a large can of Raid. Panic-stricken, the males try to escape, but they are put into metal cages, with nothing to read. The women dance orgiastically around the cages, preparing to devour the males the minute they can find some soy sauce. As the females prepare to dine, one young girl notices a forlorn male, with drooping antennae. She is drawn to him, and the two dance slowly to French horns as he whispers in her ear, "Don't eat me." The two fall in love, and make elaborate plans for a nuptial flight, but the female changes her mind and devours the male, preferring instead to move in with a roommate.
+
+A Day in the Life of a Doe
+
+Unbearably lovely music is heard as the curtain rises, and we see the woods on a summer afternoon. A fawn dances on and nibbles slowly at some leaves. He drifts lazily through the soft foliage. Soon he starts coughing and drops dead.
+```
+
+---
+
+## IC-2036: Halloween
+
+- Title: Halloween
+- Author (byline): Jerry Seinfeld
+- Work: Not specified
+- Publisher: Little, Brown and Company
+- Publication date as stated: Sept 2002
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: No
+- Spoken words (computed): 873
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Jerry Seinfeld
+ISBN: 978-0316706254
+Publisher: Little, Brown and Company
+Date (Month/Year): Sept 2002
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+I’ll trade you ALL my tootsie rolls for 3 of your Snickers! Yup . . . that’s when we first learned to barter! But that’s not all we learned on . . . Halloween by Jerry Seinfeld.
+```
+
+### Performance text (classify this)
+
+```text
+When you’re a kid you can eat amazing amounts of food. All I ate when I was a kid was candy. Just candy, candy, candy. And the only really clear thought I had as a kid was get candy. Get candy, Get Candy, Get Candy, GET CANDY.
+
+Family, friends, school – they were just obstacles in the way of getting more candy.
+
+So the first time you hear the concept of Halloween when you are a kid, you’re brain can’t even process the idea.
+
+You’re like, “What is this? What did you say? Someone’s giving out candy? Who’s giving out candy? EVERYONE WE KNOW IS JUST GIVING OUT CANDY?”
+
+“I gotta be a part of this. Take me with you! I’ll do anything they want . . . I can wear that. I’ll wear anything I have to wear. I’ll do anything I have to do to get the candy from those fools who are so stupidly giving it away.”
+
+The first couple of years I made my own costumes. Ghost, hobo . . . the worst.
+
+I knew my destiny was to one day get a real Superman Halloween costume from the store. You know the one . . . The cardboard box . . . the cellophane top, mask included in the set . . . OH, BABY!
+
+Remember the rubber band on the back of those masks? That was a quality item. Thinnest gray rubber in the world. It was good for about ten seconds before it snapped out of that cheap little staple they put it in there with.
+
+You go to the first house, “Trick or . . .” SNAP! It broke, I don’t believe it! “Wait up! I got to fix it. You guys, wait up!” Kids don’t want other kids to wait, they want them to wait UP. Would you wait up?
+
+Because when you’re little, your whole life is up. You want to grow up. Everything is up!
+
+“Wait UP!”
+
+“Hold UP!”
+
+“Shut UP!”
+
+“Mom, I’ll clean UP . . .
+
+Just let me stay UP!”
+
+When you’re a parent, it’s just the opposite: Everything is down.
+
+“Just calm down!”
+
+“Slow DOWN!”
+
+“Sit DOWN!”
+
+“Come DOWN here!”
+
+“Put that DOWN!”
+
+“And keep it DOWN in there!
+
+“You’re GROUNDED!”
+
+So the day finally came. I finally convinced my parents to buy me an official Superman Halloween-store costume. I was physically ready. I was mentally prepared. And I absolutely believed when I put this costume on that I would look exactly like the Superman I had come to know on television and in the movies.
+
+Unfortunately, these costumes are not exactly the super fit that you are hoping for. You look more like you are wearing Superman’s pajamas. It’s all loose and flowy. The neckline comes down to about your stomach. You got that flimsy little ribbon string in the back holding it all together.
+
+Plus, my mother makes me wear my winter coat over the costume anyway. I don’t recall Superman wearing a jacket. I read every comic book. I do not remember him ever once flying with a coat on. Not like the one I had – cheap corduroy, phone fur.
+
+So you go out anyway and the mask keeps breaking, the rubber band keeps getting shorter because you need to keep re-tying it. It’s getting tighter and tighter on your face. Now you can’t even see!
+
+You’re trying to breathe through that little hole that gets all sweaty. Whoosh, whoosh. The mask starts slicing into your eyeballs. “I can’t see, I can’t breathe. But let’s keep going. We gotta get the candy!”
+
+About half an hour into trick-or-treating you take that mask off. “Oh, the heck with it!”
+
+Bing-Bong. “Yeah, it’s me, give me the candy. I’m Superman, look at the red pant legs.”
+
+Year after year, I never gave up on trick-or-treating. But I remember those last, few Halloweens.
+
+I was getting a little too old for it . . . I was just kinda going through the motions. Bing-Bong. “Come on lady, let’s go! Halloween, doorbells, candy, let’s pick it up in there.”
+
+They come to the door; they always ask you the same stupid question. “What are you supposed to be?”
+
+“I’m supposed to be done by now. You want to move it along with the 3Musketeers? I got eighteen houses on this block, sweetheart. You hit the bad, we hit the road. That’s the way it works.” Halloween 3-Step Program:
+
+• Step 1: See kid.
+
+• Step 2: Give candy.
+
+• Step 3: Good night.
+
+Sometimes people give you the little white bag, twisted on the top. You know that’s gonna be some crummy candy. “No official Halloween markings on it? I don’t think so.”
+
+“Wait a second, what is this? The orange marshmallow shaped like a big peanut?
+
+“Do me a favor, you keep that one. We’ve got all the doorstops we need already, thank you very much. We’re going for name candy only this year.”
+
+At the end of Halloween I was able to fill a punch bowl so full of candy that the top of it would be curved. It was like a planet. And I would consume the ENTIRE THING that night.
+
+Next morning, I’d wake up, feel fantastic. And that’s when I realized, when you’re a kid you don’t need a costume, you are Superman.
+```
+
+---
+
+## IC-2037: The Happiest Man on Earth
+
+- Title: The Happiest Man on Earth
+- Author (byline): Albert Maltz
+- Work: Heath Anthology of American Literature
+- Publisher: Houghton Mifflin College Division
+- Publication date as stated: May 2003
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1256
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Albert Matlz
+Book: Heath Anthology of American Literature
+ISBN: 978-0618542406
+Publisher: Houghton Mifflin College Division
+Date (Month/Year): May 2003
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+During the Great Depression, millions of people were out of work across the United States. Unable to find another job locally, many unemployed people hit the road, traveling from place to place, hoping to find some work. Children also greatly suffered from malnutrition. Dietary diseases were rampant because food such as milk, fruit, fresh vegetables, and eggs could not be bought with the family’s low income. So what would make a husband and father happy during this difficult time – a job of course – any job – even a dangerous one would make him The Happiest Man on Earth by Albert Matlz
+```
+
+### Performance text (classify this)
+
+```text
+Jesse felt ready to weep. He had been sitting in the shanty waiting for Tom to appear, grateful for the chance to rest his injured foot, quietly, joyously anticipating the moment when Tom would say “Why, of course, Jesse, you can start whenever you’re ready!”
+
+For two weeks he had been pushing himself, from Kansas City, Missouri to Tulsa, Oklahoma, through nights of rain and a week of scorching sun, without sleep or a decent meal, sustained by the vision of that one moment.
+
+“Yes?” Tom Brackett said suddenly. “What do you want?”
+
+“I guess you don’t recognize me, Tom . . . I’m Jesse Fulton . . . and Ella sends you her love”
+
+Brackett rose and walked over to the counter until they were face to face. He surveyed Fulton incredulously, trying to measure the resemblance to his brother-in-law as he remembered him. But the face was too gaunt, the body to spiny under the baggy clothes. It was like looking at a faded, badly taken photograph and trying to recognize the subject. “Yes, I believe you are . . . but you sure have changed.”
+
+“By God, it’s been five years, ain’t it?” Jessie said resentfully. Then in mingled vehemence and shame, “What if I have changed. Don’t everybody? I ain’t no corpse.”
+
+Brackett knew what was bothering the boy and it filled his heart with pity. The whole thing was appalling. He had never seen anyone who looked more down-and-out. “Well now, listen, tell me things. How’s Ella and the kids?”
+
+“Oh, they’re fine . . . Well, you know, the young one has to wear a brace. He can’t run around, you know. But he’s smart. He draws pictures and he does things, you know.”
+
+“Ella didn’t tell me things were so bad for you, Jesse. Damn it, boy. I can’t help much. I only get thirty-five a week and I’m damn grateful for it?”
+
+“I know you can’t help us with money! But we met a man who works for you! He said you could give me a job!”
+
+Brackett groaned aloud. “You come walking from Kansas City in two weeks so I could give you a job? You don’t want to work in my department. . . . You don’t know what it is.”
+
+“Yes I do . . . Egbert told me all about it, Tom. You send the dynamite trucks out for the oil business. He told me it was risky work, Tom. But I don’t care. Ain’t there any jobs, Tom?”
+
+“Sure there’s jobs. There’s even Egbert’s job if you want it.”
+
+“He quit?”
+
+“He’s dead! On the job, Jesse. Last night if you want to know, Now you listen to me. I’ll tell you a few things that you should have asked before you started out. It ain’t dynamite you drive. They don’t use anything as safe as dynamite in drilling oil wells. It’s nitroglycerin! You just cough loud and it blows! This stuff goes only in special trucks! At night! They can’t go through any city. Don’t you see what that means? Don’t that tell you how dangerous it is?”
+
+“Tom, you can’t scare me. I got my mind fixed on only one thing: Egbert said he was getting a dollar amile. He was making five to six hundred dollars a month for half a month’s work. Can I get the same?
+
+“Sure you can get the same. A dollar a mile. It’s easy. But why to you think the company has to pay so much. It’s easy - - until you run over a stone or get a blowout. We can’t ask Egbert what happened to him. There’s no truck to give any evidence. There’s no corpse. There’s nothing! Do you understand now? That’s what you get for your God damn dollar a mile!”
+
+There was a moment of silence. Jesse sat twisting his long thin hands. His mouth was sagging open, his face was agonized. Then he shut his yes and spoke softly, “Just look at me, Tom. I just can’t live like this any more. I got to be able to walk down the street with my head up.
+
+“You’re crazy . . . Every year there’s one out of five drivers gets kills. That’s the average. What’s worth that?”
+
+“Is my life worth anything now? We’re just starvin’ at home, Tom. They ain’t put us back on relief yet. There ain’t been other jobs for six years.”
+
+Brackett sat down with his shoulders hunched up wearily. He gripped his hands together and sat leaning forward, staring at the floor.
+
+Jesse stood over him, his gaunt face flushed with emotion, almost unpleasant in its look of pleading and bitter humility. “I ain’t done right for Ella, Tom. Ella deserved better. This is the only chance I see in my whole life to do something for her. I’ve just been a failure. “
+
+“Don’t talk nonsense . . . You ain’t a failure. There’s millions of men in the identical situation. It’s just the depression, or the recession, or the God damn New deal, or . . . !” He swore and lapsed into silence.
+
+Jesse’s face turned an unhealthy mottled red. It looked swollen. “Well I don’t care! You want me to keep looking at my little boy’s legs and tell myself if I had a job he wouldn’t be like that? Every time he walks he says to me, ‘I got soft bones from the rickets and you give it to me because you didn’t feed me right.’
+
+Brackett leaped to his feet. “You say you’re thinking about Ella. How’s she going to like it when you get killed? When you take this job, the only thing certain is that sooner or later you get killed.”
+
+Jessie spoke softly, passionately. “I got it all figured out. On six hundred a month look how much I can save. If I last only three months . . . that’s a thousand dollars . . . more! And maybe I’ll last longer. Maybe a couple years. I can fix Ella up for life!”
+
+“Oh, shut up,” Brackett said. “You think you’ll be happy? Every minute, waking and sleeping, you’ll be wondering if tomorrow you’ll be dead. “
+
+Jesse laughed. “I’ll be happy! Don’t you worry, I’ll be so happy, I’ll be singing. Lord God, Tom, I’m going to feel proud of myself for the first time in seven years!”
+
+“Bracket sighed. “oh, God damn it,” he said finally, “all right, I’ll take you on, God help me.” His voice was low, hoarse, infinitely weary. “If you’re ready to drive tonight, you can drive tonight.
+
+Jesse didn’t answer. He couldn’t. Bracket looked up. The tears were running down Jesse’s face. He was swallowing and trying to speak, but only making an absurd, gasping noise. His heart felt so close to bursting that he pressed both hands against it, as though to hold it locked within his breast.
+
+“Come back here at six o’clock.” Bracket said. “Here’s some money. Eat a good meal.” Bracket turned away. “Oh, get out of here . . . I’m busy.”
+
+Jesse went out. The wet film blinded him, but the whole world seemed to have turned golden. He limped slowly, with the blood punding his temples and a wild joy in his heart. “I’m the happiest man in the world,” he whispered to himself. “I’m the happiest man on the whole earth.”
+
+Bracket sat watching till finally Jesse turned the corner of the alley and disappeared. Then he hunched himself over with his head in his hands. His heart was beating painfully like something old and clogged. He listened to it as it beat. He sat in desperate tranquility, gripping his head in his hands.
+```
+
+---
+
+## IC-2038: Harry
+
+- Title: Harry
+- Author (byline): Rosemary Timperley
+- Work: Roald Dahl's Book of Ghost Stories, Pgs 18-37
+- Publisher: Farrar, Straus and Giroux
+- Publication date as stated: Oct 1983
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: MOM, CHRISTINE, JIM, MISS CLEAVER, OLD WOMAN, TEACHER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1780
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Rosemary Timperley
+Book: Roald Dahl's Book of Ghost Stories, Pgs 18-37
+ISBN: 978-0374251314
+Publisher: Farrar, Straus and Giroux
+Date (Month/Year): Oct 1983
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Harry by Rosemary Timperley
+```
+
+### Performance text (classify this)
+
+```text
+MOM: (Pg 18-37) Ordinary things make me afraid. Sunshine. Sharp shadows on grass. White roses. Children with red hair. And the name Harry. Such an ordinary name.
+
+MOM: The first time Christine mentioned the name, I felt a premonition of fear. She was 5 years old, and she was playing alone in the garden, as she often did. I saw her lying on her stomach in the grass, making daisy-chains. The sun on her pale red hair made her skin look very white. Her big blue eyes were wide with concentration. Suddenly she looked towards the bush of white roses and smiled.
+
+CHRISTINE: Yes, I'm Christine . . . With my mummy and daddy (pause) Oh, but they are my mummy and daddy.
+
+MOM: Uneasy, without quite knowing why, I called her, "Chris, come indoors now. It's too hot for you out there.
+
+CHRISTINE: I must go in now. Goodbye.
+
+MOM: Chris, who were you talking to?
+
+CHRISTINE: Harry.
+
+MOM: (to Christine) Who's Harry? (to audience) I couldn't get anything else out of her, so I read to her until bedtime. As she listened, she stared out at the garden. Once she smiled and waved. When Jim, my husband, came home I told him about the mysterious "Harry."
+
+JIM: (laughing) It's not rare for only children to have an imaginary companion. She hasn't any brothers or sisters or friends her own age. So she imagines someone. I don't know what you're worrying about.
+
+MOM: I felt consoled. Until next morning. Again, the sun shone on the small, bright lawn and white roses. Christine was sitting on the grass, cross-legged, staring towards the rose bush, smiling.
+
+CHRISTINE: Hello. I hoped you'd come. How old are you? I'm only five. I'm not a baby! I'm going to school soon and I shall have a new green dress. Do you go to school? . . . What do you do then?
+
+MOM: She was silent for a while, nodding, listening, absorbed. I felt myself going cold as I stood there in the kitchen. "Don't be silly.” I told myself. "Just carry on as if nothing were happening. Don't listen. Don't be a fool." But I called Chris in earlier than usual for her mid-morning milk. (to Christine) Your milk's ready, Chris. Come along.
+
+CHRISTINE: Can Harry come too?
+
+MOM: Who is Harry, darling?
+
+CHRISTINE: Harry's my brother.
+
+MOM: But Chris, you haven't got a brother. Daddy and mummy have only one child, one little girl, that's you.
+
+CHRISTINE: Harry's my brother. He says so.
+
+MOM: I came to dread those long summer days. I longed for the white roses to wither and die. I trembled when I heard Christine's voice prattling away in the garden. One Sunday, when Jim heard her at it, he said . . .
+
+JIM: You know, I'm getting quite attached to young Harry. Wouldn't it be fun if one day we looked out and saw him?
+
+MOM: Don't say that! It's my waking nightmare. Oh, Jim, I can't bear it much longer. Day in, day out, I hear nothing but 'Harry says,' 'Harry thinks,' 'Can Harry come too?' I'm afraid, Jim.
+
+CHRISTINE: (enters) Harry's got red hair. Redder than my hair. And he's nearly as tall as daddy only thinner. He's 14. He says he's tall for his age.
+
+MOM: She looked up as if at someone beside her. For a brief, dreadful second, I saw a shadow alongside her own - a long, thin shadow. Then it was gone. The child in my house was becoming a stranger. For the first time since Jim and I had adopted Chris. I wondered seriously: Who is she? Who were her real parents? Another week passed. It was Harry, Harry all the time. The day before she was to start school, Chris said:
+
+CHRISTINE: Not going to school.
+
+MOM: You're looking forward to it. There'll be lots of other little girls and boys.
+
+CHRISTINE: Harry says he can't come too.
+
+MOM: You won't want Harry at school. He'd feel silly among little boys and girls, a great lad of 14.
+
+CHRISTINE: (crying) I won't go to school without Harry. I want to be with Harry.
+
+MOM: (angrily) Chris, stop this nonsense! Stop it!
+
+CHRISTINE: (eerily quiet and cold) You don't love me. Harry loves me. He says I can go with him.
+
+MOM: She slept with the tear stains still on her face. I went to the window to draw her curtains. Golden shadows in the garden. Then, like a dream, the long thin clear-cut shadow of a boy near the white roses -- a glimmer of red like close red curls on a boy's head. Then there was nothing. (pause) I told Jim about Christine's emotional outburst. (to Jim) Harry doesn't want her to go to school. . .
+
+JIM: (teasingly) Believing in evil spirits at your old age?
+
+MOM: I don't think Harry's evil. He's just a boy. A boy who doesn't exist, except for Christine. And who is Christine?
+
+JIM: (sharply) None of that! When we adopted Chris, she was to be our own child. No probing into the past. Who is Christine indeed! She's our daughter!
+
+MOM: He'd been so fierce about it that I didn't tell him what I planned to do the next day while Chris was at school. I kissed her goodbye at the gate, and I felt quite light-hearted as I walked away, knowing that Chris was safe and I didn't have to worry. I took a bus to the Greythorne Adoption Society. (to secretary) May I see Miss Cleaver? My name is Mrs. James. (to audience) Miss Cleaver, a tall, thin, grey-haired woman came to meet me.
+
+MISS CLEAVER: Mrs James. How nice to see you again. How's Christine?
+
+MOM: She's very well, Miss Cleaver. I'll get straight to the point. I know you don't normally divulge the origin of a child to its adopters and vice versa, but I must know who Christine is.
+
+MISS CLEAVER: Sorry, Mrs James, our rules . . .
+
+MOM: Please let me tell you the whole story, then you'll see I'm not just suffering from curiosity. (to audience) I told her about Harry.
+
+MISS CLEAVER: Mrs. James, I'm going to break my rule. Christine was born in a very poor part of London. There were four in the family, father, mother, son and Christine herself.
+
+MOM: Son?
+
+MISS CLEAVER: Yes. He was 14 when -- when it happened. Let me start at the beginning. The parents hadn't really wanted Christine. The family lived in one room at the top of an old house which should have been condemned. It was difficult when there were only three of them, but with a baby, life became a nightmare. The mother was neurotic, unhappy. After she'd had the baby, she took no interest in it. The brother, however, adored the little girl. He got into trouble for cutting school so he could look after her. The father had a steady job in a warehouse, not much money, but enough to keep them alive. Then he was sick and lost his job. He was laid up in that messy room, ill, worrying, nagged by his wife, irked by the baby's crying and his son's eternal fussing over the child. Suddenly it all proved too much for him.
+
+One morning, a woman in the ground floor room saw something fall past her window and heard a thud. She went out to look. The son was there on the ground. Christine in his arms. The boy's neck was broken. Christine was blue but still breathing faintly.
+
+The woman woke the household, sent for the police and the doctor. They had to break down the door. An overpowering smell of gas greeted them, in spite of the open window.
+
+They found husband and wife dead in bed and a note from the husband saying: 'I can't go on. I am going to kill them all.' The police concluded that he'd sealed up the door and windows and turned on the gas when his family was asleep. But the son must have wakened. All he could do was pluck away the seals from the window, open it, and fling himself out, holding his adored little sister tightly in his arms.
+
+MOM: Miss Cleaver, what was his name? (to audience) She referred to her files and said . . .
+
+MISS CLEAVER: The family's name was Jones and the 14- year-old brother was called Harold.
+
+MOM: Did he have red hair?
+
+MISS CLEAVER: That I don't know, Mrs James. (pause) We don't think of children as having much memory, but there must be images of the past tucked away somewhere. Christine doesn't invent Harry. She remembers him. So clearly that she's almost brought him to life again.
+
+MOM: May I have the address of the house where they lived? [And] I set out to find # 13 Canver Row. The house was filthy and derelict. But there was a tiny garden with one strange glory that none of the other houses possessed - a bush of white roses. They bloomed gloriously.
+
+OLD WOMAN: What are you doing here?
+
+MOM: It was an old woman, peering from the ground floor window. (to woman) I thought the house was empty.
+
+OLD WOMAN: Should be. Been condemned. But they can't get me out. Nowhere else to go. That's where he fell. Among the roses. He still comes back--won't go away until he gets her. Harry Jones. Nice boy he was. Red hair. Loved Christine too much I thought. Go away, will you? This place isn't for you. It's for the dead who aren't dead, and the living who aren't alive.
+
+MOM: (to audience) Mad people are terrifying. One can pity them, but one is still afraid. Then I heard something that chilled my blood. A clock struck three. At three o'clock I was supposed to be at the school gates, waiting for Christine. At last, I caught the right bus and reached the school. I ran across the empty playground. In a classroom, the teacher was gathering her books together. (to teacher, gasping) I've come for Christine.
+
+TEACHER: (frowning) Christine James? Oh, yes, the little redhaired girl. Her brother called for her. It's sweet to see a boy of that age so fond of his baby sister. Has your husband got red hair, like the two children?
+
+MOM: (aghast) What did - her brother say?
+
+TEACHER: He didn't say anything. He just smiled. They'll be home by now, I should think.
+
+MOM: I ran all the way home. (entering the house frantically calling out) Christine, where are you? Chris! (to audience) Even now I hear my own voice screaming through the house. "Harry! Don't take her away!” I rushed into the garden. The roses glared whitely. For a moment, I seemed very near to Christine, although I couldn't see her. Then the roses danced before my eyes and turned red. The world turned red. I fell through to nothingness - to almost death.
+
+For weeks I was in bed. Jim and the police searched for Christine in vain for months. The papers were full of the strange disappearance of the red-haired child -- stories of kidnappings, child murders. Then the sensation died down. Just another unsolved mystery. (pause)
+
+Such ordinary things make me afraid. Sunshine. Sharp shadows on grass. White roses. Children with red hair. And the name, Harry . . . Such an ordinary name!
+```
+
+---
+
+## IC-2039: Harry Potter and the Chamber of Secrets
+
+- Title: Harry Potter and the Chamber of Secrets
+- Author (byline): J.K. Rowling
+- Work: Not specified
+- Publisher: Scholastic, Inc
+- Publication date as stated: Aug 2000
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: RIDDLE
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1090
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: J.K. Rowling
+ISBN: 978-0439064873
+Publisher: Scholastic, Inc
+Date (Month/Year): Aug 2000
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Harry Potter defeated the dark Lord Voldemort at the age of only a year. Now he is 12 and is facing his second year at Hogwart’s School of Witchcraft and Wizardry. There have been attacks petrifying students, all over the school. No one knows who’s committing these attacks until Harry Potter uncovers the mystery of The Chamber of Secrets by J.K Rowling.
+```
+
+### Performance text (classify this)
+
+```text
+RIDDLE: Twice-in your past, in my future-we have
+
+met. And twice I’ve failed to kill you. How
+
+did you survive? Tell me everything. The
+
+longer you talk the longer you stay alive.”
+
+“Tom-Tom Riddle?” Harry stared at him. Tom Riddle had been at Hogwarts 50 years ago, yet here he stood not a day older than 16. “Are you a ghost?”
+
+“A memory preserved in a diary for 50 years.” Riddle pointed toward the floor. Lying open there was the little black diary Harry had found. “I’ve waited a long time for this Harry Potter, for the chance to speak to you.”
+
+“What’s happened to Ginny?”
+
+“Well, that’s an interesting question, and quite a long story. I suppose the real reason Ginny Weasley’s missing is because she opened her heart and spilled all her secrets to an invisible stranger.”
+
+“What are you talking about?”
+
+“The diary, my diary. Little Ginny’s been writing in it for months and months, telling me all her pitiful worries and woes. It’s very boring having to listen to the silly troubles of an eleven-year-old girl. Yet Ginny simply loved me. No one’s ever understood me like you Tom. . . . I’m so glad I’ve got this diary to confide in. . . . It’s like having a friend I can carry around in my pocket. . . . So Ginny poured out her soul, and her soul happened to be exactly what I wanted. . . . I grew stronger and stronger on a diet of her deepest fears, her darkest secrets. I grew powerful. Powerful enough to start feeding Miss Weasley a few of my secrets, to start pouring a little of my soul back into her. . .”
+
+“What d’you mean?”
+
+Ginny Weasley opened the Chamber of Secrets. She daubed threatening messages on the walls. She set the serpent of Slytherin on four mud bloods. Of course she didn’t know what she was doing at first. It was very amusing. I wish you could have seen her new diary entrees . . . far more interesting they became. . . . Dear Tom, I think I’m loosing my memory, There was an attack today and I don’t know where I was. Tom, what am I going to do? I think I’m going mad. . . . It took a very long time for stupid little Ginny to stop trusting her diary, but she finally became suspicious and tried to dispose of it, and that’s where you came in, Harry. Of all the people who could have picked it up, it was you, the very person I was most anxious to meet. . . .”
+
+“And why did you want to meet me?”
+
+“Well you see, Ginny told me all about you, Harry, your whole fascinating history. I knew I must find out more about you, meet you if I could. So I mad you think that great oaf Hagrid opened the chamber. As though Hagrid had the brains or the power! It had taken me five whole years to find the secret entrance to the chamber. “I knew it wouldn’t be safe to open the Chamber again while I was still at school. But I wasn’t going to waste those long years I spent searching for it. I decided to leave behind a diary, preserving my sixteen-year-old self in its pages, so that one day, with luck, I would be able to lead another in my footsteps, and finish Salazar Slytherin’s noble work.”
+
+“Well you haven’t finished it. No one’s died this time.”
+
+“Killing mud bloods doesn’t matter to me anymore. For many months now my new target has been-you. I knew what I must do. I made Ginny write her own farewell on the wall and come down here to wait. She struggled and cried and became very boring. But there isn’t much life left in her. . . . She put too much into the diary, into me. Enough to let me leave its pages at last. . . . I have been waiting for you to appear. I know you would come. I have many questions for you, Harry Potter.”
+
+“Like what?”
+
+“Well, how is it that you- a skinny boy with no extraordinary magical talent-managed to defeat the greatest wizard of all time? How did you escape with nothing but a scar, while Lord Voldemort’s powers were destroyed?”
+
+“Why do you care how I escaped? Voldemort was after your time. . . .”
+
+“Voldemort, is my past present and future, Harry Potter. . . .” He pulled his wand from his pocket and began to trace it through the air, writing three shimmering words: TOM MARVOLO RIDDLE The he waved the wand once and the letters of his name rearranged themselves: I AM LORD VOLDEMORT “You see Harry? I fashioned myself a new name, a name I knew wizards everywhere would one day fear to speak, when I had become the greatest sorcerer in the world!”
+
+Harry’s brain seemed to have jammed. He stared numbly at Riddle, at the orphaned boy who had grown up to murder Harry’s own parents, and so many others.
+
+“To business, Harry. Twice- in your past, in my future-we have met. And twice I’ve failed to kill you.
+
+How did you survive? Tell me everything. The longer you talk, the longer you stay alive.”
+
+Harry was thinking fast, weighing his chances. It looked bad, but if it had to be a fight between him and Riddle, better sooner than later.
+
+“No one knows why you lost your powers when you attacked me. I don’t know myself. But I know why you couldn’t kill me, because my mother died to save me. My common muggle-born mother. She stopped you killing me. And now, you’re a wreck, you’re barely alive. That’s where all your power got you. You’re in hiding, you’re ugly, you’re foul!”
+
+“So, your mother died to save you. Yes, that’s a powerful counter charm. I can see now . . . There’s nothing special about you after all. Now, Harry, I’m going to teach you a lesson. Let’s match the powers of Lord Voldemort, heir of Salazar Slytherin, against famous Harry Potter.”
+
+Then Harry noticed it-the diary. Then without thinking, without considering, as though he meant to do it all along, Harry seized a snake fang off the floor and plunged it straight into the heart of the book. There was a long, dreadful, piercing scream. Ink sputtered out of the diary in torrents, streaming over Harry’s hands, flooding the floor. Riddle was writhing and twisting, screaming and flailing and then- He was gone, and there was silence. Silence except for the steady drip drip of ink still oozing from the diary.
+```
+
+---
+
+## IC-2040: Heaven Help Us!
+
+- Title: Heaven Help Us!
+- Author (byline): Cedric the Entertainer
+- Work: Grown A$$ Man
+- Publisher: Ballantine Books
+- Publication date as stated: Oct 2002
+- Event as filed: Prose
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: No
+- Spoken words (computed): 2123
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Cedric the Entertainer
+Book: Grown A$$ Man
+ISBN: 0345447786
+Publisher: Ballantine Books
+Date(Month/Year): Oct 2002
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Church was a big part of my growing up. Back then, it seemed like church was so important. It was about community. It was a time when everybody got together. Sunday was the day for the whole family. You'd go home, have dinner together--cousins and uncles would show up and it'd be a nice day, That's how it was in Caruthersville, Missouri, where I lived until age ten. It was the kind of small town where the lady across the street could whip your butt if she saw you doing something wrong and your mama wasn't home. Those were the good old days. Heaven Help Us by Cedric the Entertainer.
+```
+
+### Performance text (classify this)
+
+```text
+"Cedric, get off that man's grass! You know that man don't want nobody on his grass!" That was Miss Tessie Mae.
+
+"I hate her," I'd say under my breath.
+
+"I heard you!"
+
+And that lady really did hear you even though she was sitting way up on her porch. She would whip your ass and then make sure you got another whipping when your mama got home from work. Those were the good old days.
+
+You can imagine how important Sunday was in a town like that. My grandmother was one of those real religious people who believed the Lord did everything. She was constantly muttering something about the Lord.
+
+"Ooooh, I woke up this morning, and the Lord put on my house shoes, yes he did. Then I was drivin' down the street and the light turned red, but the Lord told me to keep on going."
+
+"No he didn't, Grandma," I said. "The Lord doesn't tell people to break the law."
+
+I'd hear her speech every Sunday morning for years to come. She didn't care what time you got home from partying on Saturday night. She didn't care that you were sound asleep--one of those good, satisfying, deep sleeps. She'd come in and hit you with the speech.
+
+"You can't tell me you've got time to party on Saturday, but you ain't got time for the Lord on Sunday. Get on up and go on in there." And you'd know it was useless to argue.
+
+Then you'd find yourself sitting up at church with your nightclub clothes on, trying to stay awake. And you aren't the only one. Everybody's nodding--except your grandma and mother. They see your head start jerking like a fishing lure, your eyelids dropping, and you know what happens next? You get that pinch.
+
+"Ouch!" Then you look the other way.
+
+"Man, you got a peppermint, a Certs, a lemon drop, or something? I'm trying to tell you, I ain't gonna make it."
+
+But that was back in the day, before Altoids. Because two or more Altoids will freeze your whole head.
+
+Back then, when you're ten, you're still trying to resist. You start thinking about your daddy. He never goes to church. You see him sitting at home, watching television, drinking a beer, scratching himself, having the kind of good old time you wish you could have.
+
+In fact, he'd never look as happy as he did while waving good-bye and talking about praying for him.
+
+"Y'all pray for me now," he'd say. "Go on ahead."
+
+So you'd turn to your grandma. "What about Daddy?"
+
+"What about him?"
+
+"He don't never go to church?"
+
+"Your daddy knows better. But he's decided he'd rather be going to hell."
+
+And you know she's right. You know your daddy's in trouble. You picture yourself arriving at the pearly gates and St. Peter's saying to him, "Hey dawg, remember that Sunday you didn't feel like getting dressed?"
+
+That's when I think, "A little church might be good for me. Let me just run down and get a TiVo so I don't miss the game."
+
+My favorite part about going to church was the change I got from my mother. It was just a few coins. I'd hit the bottom of the basket as I pretended to put the money in while making the basket jingle.
+
+I wanted my mom to think I'd put the money in, though secretly I put it in my pocket. Only me and God knew. Then after church, I'd buy gum and suckers. I was fine until bedtime. Then I'd think, "Am I going to hell now?"
+
+The other big thing to do on Sundays was go to the Dairy Queen, and everyone in church started to think about that around the same time. So about fifteen minutes before church was over, people started whispering to each other.
+
+There'd be light bickering in which you could tell people were saying, "You go."
+
+"No, you go."
+
+"Just get up, I'm right behind you."
+
+"That's right, amen . . . I went first last week!"
+
+Then people made their moves. One person would pretend to cough and finally get up. He'd be followed by another. Next thing you know, everyone's at the Dairy Queen. The preacher, though not finished with his sermon, knew what was going on, and as the last person hurried out, he worked it right into his sermon, saying, "God wants you to . . . order me a Dilly bar."
+
+"Amen," someone would say from the choir. "Make that two."
+
+The Dairy Queen was right next door to the city jail, so often times you had relatives at the window, hollering down, "Hey, kinfolk, throw me up a banana split or a Blizzard or something."
+
+"Naw, that's too messy. How about a Dilly bar?" At least you got some visiting time in from the Dairy Queen.
+
+That's how it was back in the day. But there seems to be less of that now. Society as a whole seems to be going in a totally different direction. Today, it doesn't seem like church and Sundays have the same importance. You have so many religious leaders, so many televangelists, who are as big as rappers. They're just as famous as the celebrities. They live inside their fame. These guys got private jets. They have mansions. They have money. They're living the same lifestyle as the celebrities. They're friends with Will Smith and Chris Tucker. They want them coming to their church--not so much to save them, but to be associated with them.
+
+Church has become trendy. Choirs have record deals. Going to church nowadays is like going to a concert. It's semicool to go. It's star-studded, people looking around to see who's coming. If you're a celebrity, you get to park in a special parking lot and go in a special back door. You're a celebrity, you don't have to do the regular thing.
+
+That's church in L.A. As if God cares that you're a celebrity, like there's going to be some special roped-off section in Heaven.
+
+I go to church and folks got their instant box cameras with them. People wanting a picture and an autograph . . . during services.
+
+"Can you sign this?"
+
+"Uh, that's your Bible, dawg!"
+
+"Yeah, sign right in Matthew, chapter 7 between verses 20 and 21."
+
+I guess all of that has me a little tainted. The regular common folks want autographs. Is that necessary on a day when everyone should be normal? How do you get celebrity status in a church?
+
+There's something about church and the church environment that indicates we all should be equal because we're all looking for the same thing--salvation.
+
+No matter what, you still have to go to church. When you haven't been to church in a while, you start feeling guilty. You start having thoughts, like maybe the end is near, and suddenly you start hearing a deep, authoritative voice.
+
+"You might want to get up in there, dawg."
+
+"Is that you God?"
+
+"I ain't saying. Alls I'm sayin' is you might want to get your behind into My house soon."
+
+"What do you mean, soon?"
+
+"I mean right now. Not now, but right now!"
+
+Then you start promising yourself that you're going, but you don't make it.
+
+"I'm gonna get on up 'n go on in," you say. "That's what I'm gonna do."
+
+But you don't go, and the next week you raise the ante.
+
+"I'm a go in and pray some, that's what I'm gonna do. I'm a iron my clothes on Saturday. That way, I can just hop right up and go on in."
+
+It's easy to spot the brothers who haven't been to church for a long time. They're the ones who don't know what to do. They walk in thinking they're in a club and find themselves in the pulpit.
+
+"Hey, player, these seats taken? These two?" pointing to the choir director's and deacon's seats. "Ah, they're somebody's seats? All right, damn!"
+
+But he stays cool. He tries another seat.
+
+"Hey, dawg, that's where the preacher sits. You can't sit there. That's where the preacher go!"
+
+It's frightening when you do finally go to church after not having been in a long time. First, you might be identified as a visitor, which means you might have to stand up and have words. And that's a lot of pressure at a black church.
+
+You don't know that church language, which is painfully obvious if you've got to follow that lady who's out traveling. She knows the whole little speech and everything. She gets up right in front of you, giving honor to God, looking you right in the eye.
+
+"Pastor, members, and friends. I come to you on behalf of the Greenway Missionary Baptist Church, Greenway, Mississippi, where my reverend, the Honorable Thesselonious Archinkaid Junior the Third says . . ."
+
+The brother behind her starts panicking. He's next. He starts talking to himself.
+
+"I'm in trouble. I don't know none of that shit. What am I supposed to say?! I don't know none of what that woman's saying. All I know is hip-hop language."
+
+Then he just thinks, "What the hell!" because when his turn comes, he stands up in the middle of the church and gives it a try.
+
+"Ummm, ummm, first of all, givin' big ups to God, Reverend, you 'bout it, you 'bout it. Everybody, big ups. And the choir. Y'all real tight. Real tight. That's on everything. Big ups to y'all."
+
+He keeps on rolling until the sister in the pew next to him leans over and whispers, "Sit your ass down."
+
+The other pressure you might have to deal with going to church after a long dry spell is a good sermon. A good sermon puts a lot of damn pressure on you, boy. You're sitting in your seat and the preacher is doing his thing, calling people up. When he gets like that, he'll eventually find you. You'll think he's finished, but then the Lord will remind him you're there.
+
+"Well, I feel it's just one more person in here that wants to come to the Lord," and he's looking directly at you.
+
+A good sermon is dangerous. It gets you thinking. It starts that internal debate the preacher spoke about. You're in your seat going through it, thinking about it, telling yourself, "Damn, I should go on up there to the altar. I should go ahead on. Pastor's right. I should get my life together. Start right now. Today. If only I didn't . . . have that last little bit of weed left at the crib . . . I'm a join next week. That's what I'm gonna do."
+
+Once, I went to an all-white Catholic church, and I noticed that they prayed differently than black folks. It's true. White folks be praying about trees, clean oceans, peace. They don't care what it is, as long as they're in church they're happy to pray.
+
+"Oh Father, thank you for the trees. Thank you for the birds that fly, Father, and the rivers that run. And the streets we drive on. Amen."
+
+Now you know, if you was at the Great Amount Give A Lot Missionary Baptist Church--in other words, a black church--the prayer is going to be totally different. Black folk pray for stuff that they need--like their lottery numbers to come through.
+
+Then there's always that brother who comes out and prays the same way every time, and for the same things, and you know it's going to be long. You've been planning your escape. You saw Heaven, and it looked like the open highway straight to home. Suddenly you're like, "Oh no, not him! Damn, the game's on!"
+
+But that brother don't care about no game. He's got a whole list of praying to do.
+
+"Dear Lord, you gave me government cheese. Yes you did, Father. I was able to make me a grilled cheese sandwich that was burnt around the edges just like I like it. And Father, when my cable got turned off, your kindness let me run cable from next door. Jesus, y'alright, you such a friend to me. In Jesus's name, Amen."
+
+White folks are so orderly and solemn when they take communion. They're full of quiet contemplation. It ain't that way in a black church. There's always that brother sitting up all important, having the communion wine like he was at a club. He knocks one back and says, "Yo, usher, let me get two more of them. Y'all got any snacks? What's up playa, you gonna eat your cracker? Don't shush me, I'm just askin' if you was gonna eat your cracker?! I was just askin' . . . damn!"
 ```

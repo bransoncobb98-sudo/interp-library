@@ -1,4 +1,4 @@
-# Classification request: batch 23 of 63 (40 records, IC-0881 to IC-0920)
+# Classification request: batch 23 of 53 (40 records, IC-1281 to IC-1320)
 
 You are an experienced high school speech and debate coach classifying interpretation cuttings
 for a searchable library used by students and coaches.
@@ -125,4075 +125,758 @@ Save the reply as `batch-023-reply.json`.
 
 ---
 
-## IC-0881: Oedi
+## IC-1281: New York Regional Mormon Singles Halloween Dance
 
-- Title: Oedi
-- Author (byline): Rich Orloff
-- Work: The Best American Short Plays 1997-1998 (Edited by Glenn Young), Pgs 162-178
-- Publisher: Applause Theatre Books
-- Publication date as stated: May 2000
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: TOWN CRIER, OEDIPUS, CREON, JOCASTA
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1853
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Rich Orloff
-Book: The Best American Short Plays 1997-1998 (Edited by Glenn Young),
-Pgs 162-178
-ISBN: 978-1557833655
-Publisher: Applause Theatre Books
-Date (Month/Year): May 2000
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR 2: Welcome to Ancient Greece and the city of Thebes – the birthplace of the infamous Oedipus.
-
-ACTOR 1: Before he was even born, the oracle at Delphi (both gesture in some way to the gods) told his parents that the boy would grow up to kill his father and marry his mother. (shocked gasp)
-
-ACTOR 2: So . . . his parents did what many people with unwanted children did in the past.
-
-ACTOR 1: They had the baby's feet spiked and hired a herdsman to abandon the child in the wild. (both shrug)
-
-ACTOR 2: The kind-hearted herdsman just couldn’t do it. Instead, he gave baby Oedipus to a childless king and queen in Corinth and they raised Oedipus as their own.
-
-ACTOR 1: (in an ominous voice) But one cannot circumvent the will of the gods! (thunderclap)
-
-ACTOR 2: Okay, enough with the dramatic. Our story opens with Oedipus as an adult finding out the news of who he truly is.
-
-ACTOR 1: This is Sophocles’ story of Oedipus from the comedic imaginings of Rich Orloff
-
-ACTOR 2: . . . Oedi! Come on down!
-```
-
-### Performance text (classify this)
-
-```text
-Suggested Roles: ACTOR 1: Town Crier, Creon and Jocasta ACTOR 2: Oedipus
-
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-TOWN CRIER: (Pg 162-178) (off stage) Hear ye, hear ye! ________o’clock and all is well. For the best in dining delicacies, treat yourself to Hecuba’s House of Hummus! Try their babagonoosh!
-
-OEDIPUS: Creon, my trusted aide, you have returned! Ever since the plague has hit our beloved Thebes, the people insist that we find the killer of their former king. They are convinced that until we punish the murderer, the plague shall continue. As their new king, I owe them the truth. Besides, the latest polls show my popularity's plummeting. I created the Creon Commission to ferret out the facts of this fearsome felony, and I demand to know what you have learned.
-
-CREON: Well, first we visited the oracles of Delphi. They [told] us that King Laios was murdered by his own son!
-
-OEDIPUS: But that's crazy. Laios had no son.
-
-CREON: Actually, he did, many years ago, but the child was banished as an infant. People assumed the child died in the wilderness.
-
-OEDIPUS: Poor child. I feel his pain, as if it were my own.
-
-CREON: Funny you should say that. We learned the child had been rescued by a shepherd a grew up to be about your height, your weight, and according to descriptions, he looked a lot like you.
-
-OEDIPUS: What a coincidence.
-
-CREON: Oedipus, how to put this... You know how much I admire you. When you first came to town, it was I who encouraged the people to make you king. (beat) You never murdered anyone, did you? Say, kill anyone on your journey here?
-
-OEDIPUS: Let me recall. I decided it was time to leave Corinth and seek my fortune in the world. So I decided to journey to Thebes. When I got to the town of Phokis, I met a hostile band of travellers. One of them called me a mama's boy, so I clubbed them all to death. Other than that, I didn't kill anyone.
-
-CREON: For that you clubbed him to death? Well, Oedipus, I don't know how to tell you this, but we learned that King Laios was clubbed to death in the town of Phokis.
-
-OEDIPUS: You're not suggesting I - I'd never kill a king. It's - It's inappropriate.
-
-CREON: He was on a religious pilgrimage. . . He always dressed down for those things.
-
-OEDIPUS: Then it's possible But Tiresias prophesied that Laios would be killed by his own son. I never even met the man before.
-
-CREON: Oedipus, we discovered Polybus and Merope weren't your real parents. You're an orphan. We also know that the son of Laios had a birthmark in the shape of an olive on the bottom of his left foot. [Creon stares at Oedipus' left foot.]
-
-OEDIPUS: But I hate taking off my sandals. It always takes so long to lace them back up.
-
-[Oedipus unlaces his left sandal and lifts his left foot. On the bottom of his foot is a birthmark in the shape of a huge green olive with a red pimento.] As you can see, my foot has no such mark.
-
-CREON: Oedi, admit it. That's an olive.
-
-OEDIPUS: I prefer to think of it as an unripe eggplant with ketchup on it.
-
-CREON: It's an olive.
-
-OEDIPUS: Okay, okay. Technically speaking, it's an olive. Oh, woe to me and those who dwell in my house! I've slain a king, and I promised the people I'd put the killer to death. I even said, "Read my lips." But wait! One thing isn't clear.
-
-CREON: Here comes the messy part.
-
-OEDIPUS: If I'm Laios' son, and if Laios was married to Jocasta, who is now my wife, that means, that means, that means - Laios must've had a previous wife, right?
-
-CREON: I'm afraid not.
-
-OEDIPUS: Ever fool around on the side?
-
-CREON: Never.
-
-OEDIPUS: Sperm donor?
-
-CREON: Nope.
-
-OEDIPUS: Oh my gods! Oh my gods! I've married my mother!! No wonder she always knows what I want for breakfast. Oh my gods! I've murdered my father and married my mother! Oh, wretched day! Oh, cursed life! How can I expunge the evil deed from my soul? There is only one way! I must pluck out my eyes immediately! [Oedipus tries to pluck out his eyes, but Creon holds his arms back.]
-
-CREON: Don't do it! You'll have a moment's satisfaction, and a lifetime of wondering if your toga's on straight.
-
-OEDIPUS: Okay, okay. Let go...Does my beloved wife know about this?
-
-CREON: Not yet.
-
-JOCASTA: [off stage] Yoo-hoo, oh, Oedi!
-
-CREON: The queen approaches. [Creon exits]
-
-OEDIPUS: [Calling out] In here, snookums! [Jocasta enters. She's easily thirty or more years older than Oedipus. If she happens to be short and speaks with a slight old world inflection, so much the better.]
-
-OEDIPUS: Jocasta, I must tell you something most horrible, worse than the most terrible news you could imagine.
-
-JOCASTA: You didn't like my brisket last night?
-
-OEDIPUS: That's not it.
-
-JOCASTA: My toga's too short, isn't it? You think a woman my age . . .
-
-OEDIPUS: Your toga's fine.
-
-JOCASTA: Are we having problems I'm unaware of in the horizontal department?
-
-OEDIPUS: No, everything's fine in the - Jocasta, I just received the report of the Creon Commission.
-
-JOCASTA: Oh, good. As soon as we name the murderer of Laios and make him drink some seltzer with a shpritz of hemlock, I know your approval rating will bounce right back.
-
-OEDIPUS: I don't think so. Jocasta. . . The murderer of your late husband stands before you.
-
-JOCASTA: You killed Laios? Oh, no! Horror of horrors! I suddenly feel like plucking
-
-OEDIPUS: Don't pluck your eyes out!
-
-JOCASTA: No, I feel like plucking a chicken. I'm so stressed. How are we going to put a spin on this so the public doesn't hate you?
-
-OEDIPUS: Don't you hate me?
-
-JOCASTA: How can I hate you for something I thought of doing every single day of our marriage?
-
-OEDIPUS: I thought you loved him.
-
-JOCASTA: What's to love? The man snored, he had bad breath, and when I think of the things he made me do . . . the news is not that bad at all.
-
-OEDIPUS: But I have not told you all of it. Jocasta, you remember the prophecy of Tiresias that your husband would be murdered by your son?
-
-JOCASTA: Yes, also remember he prophesied. . .The Iliad would never make it as a novel.
-
-OEDIPUS: [Well], there's reason to believe that, by some ferocious folly of the fates, you married your own son.
-
-JOCASTA: So? Tell me something I don't know. From the first moment you came into town. I took one look at those eyes, that smile, that - oh, wait a second, you have a little shmutz on your forehead. [Jocasta licks her fingers and begins to wipe Oedi's forehead.]
-
-OEDIPUS: Stop that! How could you know I was your son and not tell me?
-
-JOCASTA: I didn't think it was significant.
-
-OEDIPUS: You married me!
-
-JOCASTA: You asked. I would've been happy just dating; you were the one in a hurry. "Marry me, Jocasta, and I'll be the happiest man on earth." What mother could refuse such an offer?
-
-OEDIPUS: But I killed Dad!
-
-JOCASTA: So? He never liked you anyway. Once he heard Tiresias' prediction that you were destined to murder him, he insisted you be sent away. I said, "Can't we wait and see? Maybe he'll just wound you a little." Look, you're here and all is well, so unless there's some more news, I want to get to my belly dancercize class. I need to be in ship shape.
-
-OEDIPUS: Don't you think we have some issues to discuss?
-
-JOCASTA: Like what?
-
-OEDIPUS: Like the fact that we can no longer live as husband and wife.
-
-JOCASTA: Why not?
-
-OEDIPUS: Because you're my mother!
-
-JOCASTA: You say that like it's a negative.
-
-OEDIPUS: Men cannot marry their mothers!
-
-JOCASTA: From what I've heard, most men marry women who remind them of their mothers. Why settle for second best when you can have the real thing?
-
-OEDIPUS: No! I want to be with a woman to whom I'm not already related. I'm a public official. I'm a role model.
-
-JOCASTA: So? Look at the Gods. Zeus has slept with his half-sister, his quarter-sister, his sixteenth- sister. If our own gods get to boff their relatives, why can't you?
-
-OEDIPUS: Because you're my mother!
-
-JOCASTA: Must you make everything so complex, Oedipus? Look, Oedi, I understand this is traumatic for you. But in a healthy marriage, you work through these things.
-
-OEDIPUS: We don't have a healthy marriage! Mom. . . I want a divorce.
-
-JOCASTA: [breaks into hysterical crying] I never thought I'd hear such a thing from my own son. Call in your advisor. See what he says.
-
-OEDIPUS: Get me Creon! [CREON enters]
-
-CREON: I have been busy, my lord, making some initial inquiries into public response to the crisis: The people are confused. 85% of those polled strongly agreed with the statement, "If two people love each other, nothing else in a marriage is important." But 54% also believe that those who commit incest should be boiled alive in non-virgin olive oil.
-
-OEDIPUS: I didn't know she was my mother, does it still fit the technical legal definition of incest?
-
-CREON: Why don't you start a war? That's always a good distraction.
-
-OEDIPUS: I'm not going to start a war just to boost my approval rating. There's only one answer which will prove to the people I show remorse for my sins. I must pluck out my eyes!
-
-CREON: Wouldn't a sincere "I'm sorry" suffice?
-
-OEDIPUS: No! Give me your golden pins. [Oedi grabs two large pins from Jocasta’s toga or hair.]
-
-CREON: Oedipus, don't!
-
-OEDIPUS: Silence! Stand back! [Raising the pins.] I declare myself guilty of wretchedness and sin! From this hour forth, I go in darkness! [Oedipus is about to plunge the pins into his eyes, but he stops at the last moment.] Or . . . maybe I'll just cut off the offending organ which caused the sinful deed. That's it! I'll save my sight but lose my jewels. I declare myself guilty of wretchedness and sin! From this hour forth, I go in eunuchness! [Oedipus is about to plunge the pins into his pelvic region, but stops at the last moment.] Or . . . maybe I'll just cut off my arm. It's a more visible symbol anyway. My left arm, or maybe just one of my fingers, since we're talking symbolic action!
-
-CREON: You know, Oedipus, the more I think about it, the more I wonder, why are we driving ourselves into such a tizzy? You know how fickle the people are. Today they'll want to burn you at the stake; in a week, they'll be obsessed with the latest gossip about the gods. All we need is one good speech and a heartfelt explanation.
-
-OEDIPUS: But how can we explain such a monstrous deed? Oh, what am I to do? If only the gods would give me a sign.
-
-CREON: Maybe they have. Run with me a little. Tiresias saw your fate when you were born; you tried your best not to live it out, but there are powers beyond those of we poor mortals.
-
-OEDIPUS: I get it! Any efforts to forswear malfeasance were futile; it was the fault of the fates! I'll make a speech where I'll take complete responsibility for my actions, but none of the blame.
-
-CREON: We'll say you wanted to smite out your eyes, but you placed your sense of public duty ahead of your own desires. [Imagining the headline:] "Oedipus Rex, Tragic Hero."
-```
-
----
-
-## IC-0882: Okoboji
-
-- Title: Okoboji
-- Author (byline): Suzanne Bradbeer
-- Work: The Best Ten-Minute Plays 2012, Pgs 170-176
-- Publisher: Smith and Kraus
-- Publication date as stated: June 2013
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: ALAN, ANNIE
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1801
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Suzanne Bradbeer
-Book: The Best Ten-Minute Plays 2012, Pgs 170-176
-ISBN: 978-1575257938
-Publisher: Smith and Kraus
-Date (Month/Year): June 2013
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTRESS: Welcome to Okoboji Lake
-
-ACTOR: -- where ordinary conversations ripple with unspoken revelation –
-
-ACTRESS: -- where every glance, every pause, suggests a deeper story..
-
-ACTOR: Here on the shore, Alan (a father) and Annie (his son’s friend) are drawn together by necessity –
-
-ACTRESS: -- or coincidence, to exchange words that reverberate in the stillness.
-
-ACTOR: Often the battles that matter most:
-
-ACTRESS: Depression, despair . . . guilt
-
-TOGETHER: Are the ones we cannot see.
-
-ACTRESS: But somewhere, perhaps, there might exist a glimmer of grace.
-
-TOGETHER: Okoboji by Suzanne Bradbeer
-```
-
-### Performance text (classify this)
-
-```text
-Alan Harper – mid 40s / 60s – an artist from Boston; Annie Hansgen – early 20s “ / ” indicates an overlapping of lines
-
-*****
-
-(Alan and Annie, looking at West Okoboji Lake. It is early morning in Iowa)
-
-ALAN: (Pg 170-176) So this is it. The famous blue lake . . .
-
-ANNIE: Yeah.
-
-ALAN: Cobalt. Cobalt blue. It's almost a Prussian blue, but not quite. No, it's definitely cobalt. My favorite color.
-
-ALAN: Have you ever been to Boston?
-
-ANNIE: No. I'd like to someday.
-
-ALAN: There's a painting at the Museum of Fine Arts, it's by William Merritt Chase, have you heard of William Merritt Chase?
-
-ANNIE: No.
-
-ALAN: I don't much care for him, I find him a little prissy in his subject matter, but I like this particular painting, and he uses this exact shade of blue.
-
-ANNIE: I'd love to see it.
-
-ALAN: This exact shade of blue . . .. (uncomfortable, he looks behind them) Look at all those trees.
-
-ANNIE: I know, aren't they beautiful? Oak trees are my favorite.
-
-ALAN: I hate nature.
-
-ANNIE: (picking up a feather from the ground) Look, a hawk's feather! Look!
-
-ALAN: Are you Indian? I mean, sorry, Native American?
-
-ANNIE: No.
-
-ALAN: How do you know so much about the fauna and the flora?
-
-ANNIE: You mean, the hawk's feather?
-
-ALAN: Hawk's feather, oak trees, yes, how do you know all that?
-
-ANNIE: Um, the oak is a pretty common tree? And the red-tailed hawk, they've made their homes all over this country -- in meadows, mountains -- the desert. They even have them in cities, like where you're from, Boston; I even heard there were these red-tailed hawks on Fifth Avenue in New York, a hawk couple named Pale Male and Lola.
-
-ALAN: Fascinating. (looks back at the lake, considering) They say this is one of only three true blue water lakes on the planet. 'Course you probably already know that, what with your obsessive cataloguing of the natural world. (no response from Annie) One of three on the planet and yet I had never heard of West Okoboji Lake until a year ago. Do you know where the other two blue water lakes are?
-
-ANNIE: Lake Geneva in Switzerland, and Lake Louise in Alberta, Canada.
-
-ALAN: Correct. I wonder how many people in the world have seen all three? Maybe there's a group, a society you can join, I could probably go online and find the Blue Water Lake Club.
-
-ANNIE: Sounds neat.
-
-ALAN: Sounds hideous. I hate clubs. Turns out though, I could be a founding member.
-
-ANNIE: You've seen all three? Really?
-
-ALAN: Lake Geneva, beautiful of course. Lake Louise, Brian was conceived in the Hotel Banff on the shores of Lake Louise. At least that's what we always liked to say. Brian's mother and I were very . . . at any rate, let's just say it's hard to pinpoint the exact moment. But I like to think it was in the Hotel Banff. (beat) I'm always quite moved by rarity. One of only three blue water lakes. Biggest diamond in the world. Only son.
-
-ANNIE: (beat) Brian's eyes were this color.
-
-ALAN: Yes.
-
-ANNIE: That was one of the first things I noticed about him. I've never met anyone else with eyes that were/ so blue.
-
-ALAN: Brian's great-great-great grandfather was a Colonel in the Revolutionary Army. A Colonel is a very high rank, during the Revolution it was second only to General and, and I, I don't know what made me think of that except that he, the Colonel, he seemed to be quite fond of nature too. We have a few of his letters; he survived the war and wrote constantly, incessantly about his travels up and down the Massachusetts Shore. They're quite valuable these letters – Boring but valuable. Why are you smiling?
-
-ANNIE: We used to call Brian 'the Colonel'. Even in the short time we knew him. It was very important to him that people respect the lake and the woods. He always spoke to everyone in a nice way, but he was very firm about it, if they were littering, or being careless, he was very firm.
-
-ALAN: Were they mean to him?
-
-ANNIE: Who?
-
-ALAN: Anyone, was anyone mean to him?
-
-ANNIE: No. No.
-
-ALAN: He was bullied quite a lot when he was in school.
-
-ANNIE: He told me.
-
-ALAN: So, calling him the Colonel, they weren't being, mocking/ or, or ?
-
-ANNIE: No, not at all --
-
-ALAN: Because a boy less like a Colonel you could hardly hope to find.
-
-ANNIE: We called him the Colonel because he / had very ---
-
-ALAN: Yes, I remember that he advised people not to litter.
-
-ANNIE: It wasn't just that . . . he, he had standards of behavior, very high standards of behavior -- for himself especially. And he was very, responsible and, and -- Oh! He always identified time in that military way, like nine o'clock at night wasn't nine o'clock, it was 2100 hours.
-
-ALAN: 2100 hours, yes. He started doing that when he was about seven, for some reason.
-
-ANNIE: And he valued loyalty. And doing the right thing. And niceness . . . I think he valued niceness most of all.
-
-ALAN: Brian was much more like his mother. I had a good night’s sleep that night.
-
-ANNIE: Sir?
-
-ALAN: I don't usually sleep well, but that night I was sleeping very well. Until the call. I don't understand how I slept through . . . that moment. I don't understand that. They say he died immediately.
-
-ANNIE: Yes.
-
-ALAN: I thought maybe they lied. To spare me, I thought maybe they lied.
-
-ANNIE: No.
-
-ALAN: (This is what he's been waiting to say) See, I would prefer to think that you fired the gun accidentally, accidentally of course -- but I would prefer to think that you fired it, rather than . . . rather than what you want me to think.
-
-ANNIE: I don't want you to think anything.
-
-ALAN: But can you understand that? Can you understand how a father would prefer to think that?
-
-ANNIE: . . . I guess.
-
-ALAN: So this, this inquiry, or inquest, or
-
-ANNIE: Autopsy, it was just / an autopsy-
-
-ALAN: Whatever it was, it doesn't have a workable result for me.
-
-ANNIE: But why -- I mean, that was a month ago – why / are you
-
-ALAN: And I've been giving it a great deal of thought in the last month, a great deal. As you can imagine. And I just think that maybe you should admit what really happened.
-
-ANNIE: I'm sorry, but didn't you read the report? The forensics were very clear.
-
-ALAN: I don't care about God-damn forensics! I care about my boy. You were there; you could have shot him, you'd / both been
-
-ANNIE: No.
-
-ALAN: Yes! A bunch of you had been drinking earlier that night, you admitted as much. And maybe, maybe you'd never held a gun before / and maybe you-
-
-ANNIE: How can you say that to me?
-
-ALAN: Where did he get the gun?
-
-ANNIE: It's not hard to get a gun.
-
-ALAN: Maybe you were curious and wanted to see what it felt like and maybe Brian was trying to show you but neither of you realized that the gun was loaded / and maybe
-
-ANNIE: Is this why you came all the way back here?
-
-ALAN: No one would blame you. I would make sure / of that.
-
-ANNIE: He shot himself in front of me, Mr. Harper.
-
-ALAN: No he didn't. It was an accident.
-
-ANNIE: He shot himself in front of me.
-
-ALAN: If you ever have children you might understand how cruel you're being right now.
-
-ANNIE: (beat) I'm sorry.
-
-ALAN: My son was not cruel.
-
-ANNIE: No, he wasn't.
-
-ALAN: That's a very cruel thing, if it's true. To do what he did in front of you.
-
-ANNIE: I don't think he meant to.
-
-ALAN: See! It was an accident!
-
-ANNIE: I just meant that he didn't mean for me to see; he didn't expect / me to --
-
-ALAN: Why can't you say it was an accident-just tell me it was a God damn accident -- what the hell is wrong with you?!
-
-ANNIE: . . . It was an accident.
-
-ALAN: . . . I could wish you were a better liar.
-
-ANNIE: . . . Me too. (beat) I knew he was depressed. I think he was depressed for a long time. We talked about it sometimes. He said he considered it part of his life. But it wasn't the only part. And it doesn't take away from the things that made him happy. This lake made him happy, especially this time of day, especially right here. Remembering his Mom made him happy. And you, your paintings, your paintings made him happy.
-
-ALAN: I'm not painting anymore.
-
-ANNIE: You don't hate nature.
-
-ALAN: What?!
-
-ANNIE: You said you hated nature. You're a painter, I don't think you hate nature.
-
-ALAN: You don't know me. You don't know me and you barely knew my son -- you knew him, what, ten months? You can't know someone in ten months.
-
-ANNIE: He talked about showing you this lake. He said the first thing you'd do would be to identify the exact color.
-
-ALAN: Anyone would do that.
-
-ANNIE: And say it was your favorite color and then mention some obscure painter who has three names.
-
-ALAN: William Merritt Chase is hardly obscure. (beat) It's true; Brian was often amused by what he called my, predictability. Did he tell you that? (Annie nods) What else did he say about me?
-
-ANNIE: I know that he loved you, Mr. Harper.
-
-ALAN: (beat) I'm not a warm person. I am aware of that, you know. (Annie rolls her eyes) Did you just roll your eyes?
-
-ANNIE: Did I? Sorry. I thought I just rolled them in my mind. Sorry.
-
-ALAN: It's all right. (looking around) This is a nice spot. And it was nice of you to bring me here. You seem like a nice kid. I'm ready to go back now. (walks off, then looks back at Annie who hasn't moved) Are you coming?
-
-ANNIE: . . . I'm not a nice kid.
-
-ALAN: What?
-
-ANNIE: (distraught) I let him down. I'm not a nice kid! He needed me and I let him down.
-
-ALAN: How?
-
-ANNIE: He reached out to me -- that last week. He left me a couple messages, but I was preoccupied. I don't even know with what, with nothing, with my own boring problems, which were nothing, they were nothing! I didn't get back to him until the party. I knew he was depressed and I didn't get back to him until that party. What is wrong with me?!
-
-ALAN: (carefully) I shouldn't have said those things to you. I'm sorry.
-
-ANNIE: I'm not a nice kid!
-
-ALAN: You didn't let him down.
-
-ANNIE: You don't know!
-
-ALAN: I do know. I know a few things. I've lived a long time and in spite of all evidence to the contrary, I know a few things. You didn't let him down. (looking at her) You don't believe me? (Annie shakes her head) I'm your elder. I think that means you have to believe whatever I say.
-
-ANNIE: I'm sorry, but I don't.
-
-ALAN: Well. Then we'll just have to stay in touch till I figure out how to convince you. Can we do that? (Annie shrugs, helpless) (gently) Let's do that, let's stay in touch. Now tell me something. Why are you still carrying around that dirty feather?
-
-ANNIE: (looking at the feather, surprised she still has it) Birds are believed to carry messages of the spirit. Did you know that? A bird feather represents strength and . . . protection. And a hawk feather, a hawk feather is extra special. If you find a feather like this, you're supposed to let it go back into the wind with a prayer, or . . . or a message.
-
-ALAN: I thought you weren't an Indian.
-
-ANNIE: I'm not, I'm just from Iowa.
-
-ALAN: (of the feather) You're supposed to send it back into the wind?
-
-ANNIE: (nods) With a prayer or a message.
-
-ALAN: Then, let's do it.
-
-ANNIE: Do what?
-
-ALAN: Let's send a message. (Annie hesitates. Then she holds the feather aloft. Alan stands next to her, but not touching her. Beat. Annie lets go of the feather and they watch it fly off over the lake)
-```
-
----
-
-## IC-0883: Once Upon a Tim
-
-- Title: Once Upon a Tim
-- Author (byline): Stuart Gibbs
+- Title: New York Regional Mormon Singles Halloween Dance
+- Author (byline): Elna Baker
 - Work: Not specified
-- Publisher: Simon and Schuster Books
-- Publication date as stated: Mar 2022
-- Event as filed: Duo Interpretation
+- Publisher: Dutton Adult
+- Publication date as stated: Oct 2009
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: TIM, BELINDA, PRINCESS, TOWN CRIER, RUPRECHT, NERLIM, PRINCESS GRACE, STINX
+- Speaker labels in the text: ELNA, MOTHER, FATHER, FRIEND, RANDOM MALE, CHURCH MAN, DAVE
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1311
+- Spoken words (computed): 1924
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Stuart Gibbs
-ISBN: 978-1534499256
-Publisher: Simon and Schuster Books
-Date (Month/Year): Mar 2022
+Author: Elna Baker
+ISBN: 978-0525951353
+Publisher: Dutton Adult
+Date (Month/Year): Oct 2009
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-Once Upon a Tim by Stuart Gibbs
+New York Regional Mormon Singles Halloween Dance by Elna Baker -- where the costumes are creative, the rules are strict, and the dating pool is deeply committed to not touching you.
 ```
 
 ### Performance text (classify this)
 
 ```text
-Suggested Roles: Actor: Tim, Nerlim, Stinx
+(hum or sing “Party in the USA” by Miley Cyrus *)
 
-Actress: Belinda, Princess Grace, Town Crier, Ruprecht,
+ELNA: (Pg 12) (stuffing a cookie in her mouth) [Welcome to the] New York Regional Mormon Singles Halloween Dance. That’s right -- it’s a Halloween dance for all the single Mormons between the ages of 18 and 30 who live in the tristate area. That’s a lot of virgins in one room. And I’m one of them.
 
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
+Tonight I’m dressed like a Queen Bee. The best part of my costume is my stinger. I bought a black funnel from the hardware store and stuck it on my butt. (turn and wiggle) Genius! I was certain that some Mormon guy was going to see me and fall head over heels in love. I joked to my friends that the Queen Bee was going to find a drone. Instead, I’m by myself at the punch bowl stocking up on Oreo cookies. When I’m wrong, I’m wrong and strong.
 
-TIM: (Pg 1-7) Once upon a time there was a prince who was revered throughout the land for being exceptionally brave in the face of grave danger (strike a brave pose)
+The worst part is, I should’ve known better. This is my 4th New York Regional Mormon Singles Halloween Dance in a row -- a lame dance held in a church gym. Every year, I come hoping to meet “The One.” And every year, I leave by myself, vowing never to come again. But by the time 365 days have passed, I’ve completely forgotten this commitment. In the end, I am here for one reason and one reason only: I want very much to fall in love.
 
-BELINDA: This is NOT his story.
+ELNA: (Pg 12-13) [That’s right!] The dance rules. The most important one, announced over the pulpit on Sunday, is that there is to be no cross-dressing or wearing of masks. I understand the logic behind no cross-dressing, though I doubt that if a man were to dress like a woman at this function he would suddenly realize his true identity. But masks? Two: there is to be no inappropriate dancing or lascivious behavior. That’s why there are too many lights overhead and only “safe” songs like “Cotton-eyed Joe” on the sound system. (**dance and sing/hum a few lines from the song). When slow songs do play people joke that you should be able to fit Old Testament, New Testament, The Book of Mormon, Doctrine and Covenants, and Pearl of Great Price between you and your partner. . . or you’re dancing too close.
 
-TIM: (drops façade) Well, there are lots of other people who aren’t princes or princesses and trust me: we have way more problems than the rich folks do.
+If it weren’t already painfully obvious, these events are organized to facilitate marriage. How else would we Mormons meet, marry, then make more Mormons? (Take that, Sally and your seashells on the seashore.) Contrary to popular belief, there are Mormons who live in New York City. I don’t know how many of us there are all together, but there are probably 800 single Mormons and at least 20,000 former Mormons.
 
-BELINDA: We’re called peasants. And being a peasant stinks. We’re all really, really poor.
+I moved to New York to go to NYU for acting (strike a dramatic pose) (Pg 14-15) My parents wanted me to go to BYU, Brigham Young University, in Provo, Utah. They were worried that if I didn’t go to BYU, I’d stop being Mormon, and I wouldn’t meet anyone to marry. Well, they were right about the second part. When I got my letter of acceptance to NYU, my mother was terrified, so she sat me down for a mother-daughter talk. (they begin packing Elna’s suitcase)
 
-TIM: See [what] I’m wearing? The only clothes I own. I’ve been wearing the same outfit for two years – and it was a hand-me-down from a cousin who wore it for two years before me.
+MOTHER: (nervously) Elna, the first thing that will happen when you move to New York is, you might start to swear. And swearing will lead to drinking. And drinking will lead to doing drugs. (beat) And Elna, (pursing her lips) what would you do if a lesbian tried to make out with you? (crosses her arms, waiting for an answer)
 
-BELINDA: All the princes and princesses live in castles with hundreds of rooms.
+ELNA: (holding back laughter) I was used to her saying words like church calling and relief society. Not the word lesbian, let alone lesbian and make out in the same sentence. It was awesome!
 
-TIM: I live in a hut (gestures to imaginary dwelling) You might be thinking to yourself, “Gosh, that’s awfully small, but it looks cozy.” Well, it’s not! Peasants can’t afford fancy stuff. Any animal that wants to get into your house can do it!
+If you followed my mother’s logic, each step was a progression toward becoming more of a sinner. First I’d swear, then I’d drink, then I’d do drugs. By that point I was getting used to the narrative, so I assumed sex with men would be next. But no—my mother skipped that altogether and jumped to my becoming a lesbian. Did my mother honestly think that I had a better chance with a woman than a man? (composing herself; to mother) I’d say, ‘No, thank you . . . lesbian.’
 
-BELINDA: Flies (swats at a fly), lice (scratches furiously), raccoons . . .
+MOTHER: (rolling her eyes) There are these clubs in New York where men pay larger women to dance with very little clothing on; don’t do that.
 
-TIM: . . . wild boars and the occasional dragon (scans the sky). Here are a few other things we don’t have: Air-conditioning, refrigerators, televisions
+ELNA: (to audience) Great, my mom thinks I’m moving to the big city to become a lesbian stripper. Apparently, when she told me I was “special,” this is what she meant. (Pg 16) That’s when my mother saw it, among my tightly folded clothes: a rainbow scarf. It reminded me of Punky Brewster in a retro eighties sort of way.
 
-BELINDA: Internet. Bathrooms!
+MOTHER: (snatching it out) You can’t wear this in New York! Everyone will think that you’re gay.
 
-TIM: We don’t have bathrooms. No toilets! I’ll admit the princes and princesses don’t have flush toilets either, but they at least have professional wipers to clean them afterward.
+ELNA: (to audience) My mother thought gay people had a monopoly on rainbows. In my opinion rainbows are for everyone, like unicorns. (to mother) Mom, I’m not gay.
 
-BELINDA: Like I said, being a peasant stinks! (sniffs Tim and makes a face)
+MOTHER: I know, but you should avoid the appearance.
 
-TIM: There is one way a peasant can change his lot in life. It’s ridiculously, terribly, insanely dangerous. But if you’re smart, brave, confident –
+ELNA: (to audience) I tried to get my scarf back. I explained how cold I would be without it. I even tried to usher her into this century by explaining that wearing rainbows didn’t automatically mean a person was gay. The Lucky Charms leprechaun was not necessarily a homosexual. The Care Bear with the rainbow on his tummy did not have a life partner. He didn’t even have genitals. Eventually my mom gave me money to buy a new scarf. But she was not, under any circumstances, going to let me take the rainbow scarf to New York City.
 
-BELINDA: And if you don’t die in the process . . .
+(Pg 15) My father sat me down a few days later for another leaving-the-nest talk. His advice was a little different.
 
-TIM: This is the story of how I took that shot.
+FATHER: Elna, never forget these three things. Number One: Never wear a dead man’s socks. Number Two: Never let ’em see you sweat. And Number Three: Never touch a fat man’s stomach.
 
-TIM: (Pg 9-13) My story begins with a princess . . . Princess Grace, who lives in the next kingdom. (gazes at her adoringly until she begins to sing)
+ELNA: (exaggerated confused look) That was all the advice I was given before moving to New York City. (Pg 17) When I walked into my dorm room, the first thing I noticed was a big rainbow flag hanging on the wall. The only way it could have possibly gotten better would have been if my roommate walked in smoking a cigarette and offered to give me a lap dance. I’d never actually met a lesbian until I met Lisa. It turned out Lisa had never met a Mormon until she met me. And despite all the things we were supposed to be, we hit it off right from the start.
 
-PRINCESS: (singing – off key and badly and continues during Tim’s next line)
+(Pg 18-19) I guess this probably isn’t the kind of stuff most Mormons would even acknowledge. But then again, I’ve always been different from most Mormons. Mormonism can sound pretty farfetched: Joseph Smith digs up golden plates and translates them into a book, The Book of Mormon. This book ends up being a history of the ancestors of the Native Americans, who originated in Jerusalem and believed in Jesus. When you write it all out like that you can’t help but reconsider. Once I tried explaining it to a friend. I went into all the things that I believed. I thought I was doing a good job explaining everything until he said . . .
 
-TIM: (making a face in response to her singing, covers ears) People said she had a voice like an angel, and that when she sang woodland creatures would gather around and gaze at her adoringly. (shakes head) You can’t believe everything you hear.
+FRIEND: So basically according to you, Pocahontas was actually a Jew?
 
-PRINCESS: AIEEEEE!! (she is snatched away by a monster)
+ELNA: (Pg 123-124) (distracted by events at the dance) Ohhhh! It’s time for the talent show!
 
-TIM: Princess Grace was snatched away by a stinx. Not a sphinx. A stinx!
+RANDOM MALE: (rapping with a microphone) Hey brothers and sisters, Listen to me,
+I’m talking to you religiously,
+My Mormon Rap will make you see,
+That I’m as funky as Donny and Marie.
+Mormon, Mormon Rap, Do the Mo-mo-mo-mo- mormon Rap.
+I’m a fine young man, I’m living clean,
+Don’t smoke, Don’t drink, If you know what I mean.
+Flipp’n, fetch’n, scruddle-dee-me,
+Jiminy cricket, and fiddledy-dee!
 
-BELINDA: It has the left side of a lion, the wings of a bat . . .
+ELNA: (clapping politely, then turns to the audience) [Where were we? . . . Oh yes,] (Pg 19) The miracles one is expected to believe in the Mormon faith are no different from the miracles you are supposed to believe in any faith. My problem is I was always a skeptic.
 
-TIM: . . . and the right side of an entirely different lion who doesn’t get along with the first.
+When I was four and my mom first told me the story of Moses parting the Red Sea with his hands, I looked at her and said, “Yeah right, Mom.” My mother tried to convince me that Moses had indeed parted a sea just by lifting his arms. I rolled my eyes and patted her on the knee like she was a crazy person.
 
-BELINDA: It’s always in an incredibly bad mood and has a smell –
+By the age of six, I was already asking my mother, “When do we graduate from church?” To my dismay I was told that the word to describe being done with church was not “graduate” – it was death.
 
-TIM: A malodorous stench – that keeps anyone from coming within 5 miles of it.
+And I wasn’t exactly enthusiastic about getting baptized. Mormons are baptized at eight years old. According to my parents and teachers, when you were baptized you were washed clean. So why get baptized at eight? None of us had done anything. Why not wait until we were seventy? That way you could lead a fun life, do whatever you wanted to, and have a Get Out of Jail Free card at the end.
 
-BELINDA: (Pg 15-17) Prince Ruprecht had a serious crush on Princess Grace. He decided to defeat the stinx, rescue the princess and win her hand in marriage -- along with all of her money.
+(Pg 21-22) When I was 19, I read The Book of Mormon cover-to-cover for the first time. And while I was reading it, I felt like I was leading a better life and making better choices. But [if] I’m being honest. I think most religious people experience just as much doubt as they do faith. And I don’t think doubting makes you bad. I think it makes you smart. (Pg 144) If everyone based their faith on common sense no one would be religious—faith is totally illogical.
 
-TIM: There were just two problems: 1) Ruprecht was a coward
+(Pg 22) A few Sundays ago, some idiot stood up in church and started talking about how we were having such a mild autumn. He went on and on about how pleasant the weather was and then jumped to,
 
-BELINDA: And 2) He didn’t have any knights to join him on his quest. His sinister adviser, Nerlim, came up with a dastardly plan. It required someone they could take advantage of. Basically, it required a sucker.
+CHURCH MAN: So really if you think about it, it’s a sign that Jesus Christ [is] coming soon.
 
-TIM: That’s where I come in! (both begin chopping wood) (Pg 21) I was chopping wood with Belinda when we heard the news. Belinda was not supposed to be chopping wood at all, because she was a girl. (Pg 23) [And] while I was annoyed by my lack of options in life, Belinda’s options were even worse: making dinner, scrubbing floors, taking care of children and if they were princesses . .
+ELNA: And so began my usual downward spiral: The weather is warm because of climate change not because Jesus is on his way. How can I belong to a church where people believe such crazy things? I mean, nowhere in The Book of Mormon does it say mild autumn equals Jesus, but technically I’m supposed to believe in the second coming. Do I? I don’t know. How can I possibly sign my name to something I don’t entirely agree with?
 
-BELINDA: Getting abducted by mythical creatures! (laughs)
+(distracted again) Oh, hold on. A guy, Dave, totally hot, just made eye contact with me. He’s dressed as Paul Bunyan, which would be cool if 2 other guys hadn’t also thought of it. Wait, I think he’s walking in my direction. Oh, my gosh, he is. What do I do? Okay. Just play it cool. Show him your stinger. (adjust slightly and wiggle stinger)
 
-TIM: If a girl wasn’t born royal, she had two career choices: housewife or witch. (Belinda cackles) We were in the woods near the castle when the town crier came along.
+DAVE: (Pg 23) How’s it going?
 
-TOWN CRIER: (Pg 25) (unrolls a scroll and begins reaching; actually sobbing) Princess . . . WAAAHHHH . . . Grace . . . AAAUUGGHH . . . has been . . . BOOHOOHOO . . . taken!
+ELNA: (flirting awkwardly) Fine. Where’s Babe?(Dave looks incredibly confused) Paul Bunyan traveled with a blue ox.
 
-TIM: (Pg 26) (grabs the scroll and reads aloud) Kidnapped by a stinx . . . looking for brave men to become knights and join me to rescue Prince Grace . . . Have a nice day – Prince Ruprecht
+DAVE: I’m not Paul Bunyan. (annoyed) I’m Brigham Young! (struts off)
 
-BELINDA: (gasps with excitement) Help convince Prince Ruprecht that I’m a boy! I’ll tuck my ponytail under my hat, steal some boy’s clothes and act dumber than usual. (spits and scratches her butt)
+ELNA: (choking on a cookie and calling after him) Sorry, the fake beard threw me off. (to audience) I should’ve stopped there, but instead I added . . . (calling after Dave) So the women who’ve been congregating around you all night, they weren’t your multiple wives? (to audience) I thought this was pretty funny. Dave didn’t even laugh. Mormons don’t know how to laugh at themselves. (beat)
 
-TIM: (Pg 34) (considering) Belinda was smarter and braver than anyone I knew. I couldn’t imagine anyone better to have by my side. (to Belinda) I’ll do it!
+(Pg 25-26) After four years of being a Mormon in New York, I’ve become a reluctant spokesperson for my faith. I’m constantly answering questions or explaining my religion. Every question is about whether I’m a polygamist, whether I’ve had sex, whether I wear magic underwear, and whether I believe in dinosaurs. For the record: I’m not a polygamist, I have not had sex, I don’t wear magic underwear, and I do believe in dinosaurs.
 
-BELINDA: (Pg 43) (to audience) We were going on a quest! *****
+[But] There are Mormon stereotypes: Mormons have big families; they’re from Utah; they wear modest clothes; they’re friendly, naive people; they have white teeth; and they’re Republican. But that list only scratches the surface.
 
-TIM: (Pg 58) The whole town came to see us off and cheered for Ruprecht as he bravely let the way. (Ruprecht smiles regally and waves to the crowd) (Pg 60-61) However, once we were aways from the town . . .
-
-RUPRECHT: (dropping his façade and whining) How much farther is it? This is boooooring. (to Nerlim) Can’t you just do some magic and get us there instantly?
-
-NERLIM: Um . . . no. . . [but] I have a map! (unfurls another scroll)
-
-BELINDA: We had always been told Nerlim was a great and powerful wizard, but the person who told us that was Nerlim himself. He was always proclaiming things like:
-
-NERLIM: Behold! I am Nerlim, the great and powerful wizard! Do not cross me, or I shall turn you into a newt!
-
-BELINDA: (looks to left, the right, then whispers) I had never seen him turn anyone into a newt.
-
-NERLIM: BEHOLD! (makes a grand gesture)
-
-BELINDA: (Pg 73) We’re wasting time. Are we going to rescue the princess or not? (to audience)
-
-TIM: (making small talk as they walk) I was hoping we’d have a break before encountering something doom-y. Like maybe the Fields of Joy or the Path of Pleasantness. . . [but] we headed into the Forest of Doom. (intimidating sound effect)
-
-BELINDA: (Pg 79-80) This river doesn’t look so bad. And look – there’s even a raft!
-
-NERLIM: Wait! This is called the River of Doom. Why would it be called the River of Doom if there wasn’t any doom?
-
-RUPRECHT: Maybe it was a marketing thing? My uncle, King Snodgrass discovered a beautiful place to build a kingdom, but he didn’t want anyone invading him, so he named it Plague City and now everyone avoids it like the plague.
-
-NERLIM: I heard that place was a cesspit!
-
-RUPRECHT: Exactly! It’s all marketing! This river looks fabulous (sing the last word)! ******
-
-TIM: (Pg 121-122) The stinx’s lair wasn’t hard to find. All we had to do was follow the smell, which could only be described as: HOLY COW THIS IS THE MOST HORRIBLE, DISGUSTING, AWFUL STENCH I HAVE EVER ENCOUNTERED ON EARTH!
-
-BELINDA: (looking incredulously at Tim – then speaks to the audience, holding her nose) Luck appeared to be on our side. The stinx wasn’t at home,
-
-TIM: But we could see the distant form of Princess Grace far across the cave.
-
-RUPRECHT: (Pg 124-126) (also holding his nose) Beer not, bear baidin! I’ll save you! (rushes cross-stage)
-
-TIM: He dashed across the cave, swept the princess up in his arms and then . . . her head fell off! (all scream and cover their eyes- Tim peeks then approaches) [We] steeled ourselves for the sight of some disgusting carnage but . . . (picks up the body) It’s a doll!
-
-PRINCESS GRACE: (stepping from the shadows) Hi there! (all scream) I didn’t mean to scare you. The stinx didn’t actually want to steal me. It only wanted a dress for its doll. I just happened to be wearing the one it liked best.
-
-TIM: [We] had plenty of follow-up questions, but before we could ask them, a shadow fell over all of us.
-
-BELINDA: Our luck seemed to have run out.
-
-TIM: The stinx was home! (Pg 127-129) [We] turned around slowly, expecting to find ourselves face-to-face with he most vicious, terrifying, ill-tempered beast . . .
-
-STINX: (poses with large doe eyes, flaps its wings gently and makes a purring sound)
-
-BELINDA: Awwwww! It’s a baby!
-
-NERLIM: And it’s adorable!
-
-STINX: (flaps over to the doll, picks it up notices the head is missing and starts to cry)
-
-PRINCESS GRACE: Don’t worry, Fluffy! It was just an accident.
-
-TIM: (Pg 130-133) So you weren’t being held prisoner her? You could have left at any time? Why didn’t you?
-
-PRINCESS GRACE: (pauses to think) Well, when a princess gets into trouble, she’s not supposed to rescue herself. She’s supposed to wait for a brave and handsome prince to rescue her – and once he does, they look into each other’s eyes and fall madly in love – and possibly sing a delightful song about it.
-
-TIM: You could have rescued yourself at any time . . .
-
-BELINDA: (righteous indignation) Society has taught you that you had to wait for a man to come and save you? You have to be kidding me! This whole idea that you shouldn’t be able to rescue yourself because you’re a woman is garbage.
-
-TIM: Women can do anything that men can.
-
-RUPRECHT: (asserting his dominance) I am the Brave Prince Ruprecht and I have saved you from the vile stinx! You are only a woman, while I am a man! It is only right for you to fall madly in love with me! (laughing mockingly)
-
-PRINCESS GRACE: (angrily) But you didn’t save me . . . (whacks him with Fluffy’s doll; Ruprecht is knocked out cold – to others) (Pg 141) There’s no way I’m marrying that guy. He’s a jerk!
-
-(spits and scratches her butt) *****
-
-TIM: So that’s how I became a knight and how Belinda became one too. But [we] learned some things.
-
-BELINDA: Princes aren’t always brave and honorable
-
-TIM: Some beasts aren’t nearly as vicious and mean as people say they are.
-
-BELINDA: Princesses don’t always need a hero to rescue them. And if they do, they’re under no legal obligation to fall in love! (spits and scratches butt)
+(Pg 29) I [just] am a Mormon in New York. A Mormon in New York seeking another Mormon in New York. Which brings me back to: The New York Regional Mormon Singles Halloween Dance. (Pg 161) [This is] the year I meet the Morman man of my dreams. (digs down deep for courage . . .) (Pg 89) Let’s Dance! (sing and do a few dance moves to the Macarena***)
 ```
 
 ---
 
-## IC-0884: One Tennis Shoe
+## IC-1282: The Odd Couple (Female Version)
 
-- Title: One Tennis Shoe
-- Author (byline): Shel Silverstein
-- Work: An Adult Evening of Shel Silverstein
-- Publisher: Dramatists Play Service, Inc.
-- Publication date as stated: March 2003
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: HARVEY, SYLVIA
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1662
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Shel Silverstein
-Book: An Adult Evening of Shel Silverstein
-ISBN: 978-0822218739
-Publisher: Dramatists Play Service, Inc.
-Date (Month/Year): March 2003
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-TOGETHER: One Tennis Shoe by Shel Silverstein
-```
-
-### Performance text (classify this)
-
-```text
-HARVEY: This is not going to be easy to say. It’s not an easy subject to discuss –
-
-SYLVIA: What is it? What? What? Are you sick? Are you --?
-
-HARVEY: I’m fine –
-
-SYLVIA: You’re having an affair – you’re in love with somebody else –
-
-HARVEY: No, I’m fine – I love you –
-
-SYLVIA: Well, then what?
-
-HARVEY: I can’t – say it – I’ve got to say it – I’m going to say it – you – are –becoming – a –
-
-SYLVIA: Yes – yes – what? I’m becoming a what? I’m becoming a nag? I’m becoming a bore? What?
-
-HARVEY: Worse.
-
-SYLVIA: Nothing is worse than a bore. Harvey – what? What am I becoming?
-
-HARVEY: You – are becoming a – you are turning into a – a – bag lady.
-
-SYLVIA: A bag lady –
-
-HARVEY: Yes. That’s the hardest thing I’ll ever have to say.
-
-SYLVIA: I’m turning into a bag lady.
-
-HARVEY: Yes, I’m afraid you are
-
-SYLVIA: I assume you mean one of those crazy old raggy ladies who pick things out of garbage cans and carry all their clothes in shopping bags and have lice in their hair and talk to themselves – I assume we’re talking about the same ladies.
-
-HARVEY: I didn’t say you had lice in your hair.
-
-SYLVIA: But you did say I was a bag lady.
-
-HARVEY: I said turning into – not was –
-
-SYLVIA: Turning into a bag lady – well, that’s pretty much like turning into a werewolf, isn’t it?
-
-HARVEY: Please – I’m just trying to –
-
-SYLVIA: You are trying to tell me I’m a bag lady.
-
-HARVEY: It’s been evident for some time – you’ve been showing signs for quite some time.
-
-SYLVIA: Signs –
-
-HARVEY: Indications – symptoms – manifestations –
-
-SYLVIA: Of becoming a bag lady –
-
-HARVEY: Yes.
-
-SYLVIA: There’s no chance that you could be mistaken – you’re sure. Well, I think I’d like a second opinion.
-
-HARVEY: I’m serious about this.
-
-SYLVIA: Harvey – look at me. Tell me – look at me, Harvey – wouldn’t you say I was a little too young to be a bag lady? Maybe a little too old to be queen of the prom – but just a teensy weensy too young to be an old bag lady –
-
-HARVEY: You think old bag ladies started out as old bag ladies? They started out as young women and then –
-
-SYLVIA: And then they went to a wild party and somebody slipped them a shopping bag and it was all over.
-
-HARVEY: I’m trying to make you understand –
-
-SYLVIA: That I am a bag lady – because I am carrying a singular shopping bag – a Bloomingdale’s shopping bag – that makes me – a bag lady – oh – Harvey – you are such a schmuck.
-
-HARVEY: It’s not because of carrying a shopping bag – it is because of what’s in the bag –
-
-SYLVIA: Well I’m sorry if the contents of my bag don’t meet your standards – from now on I’ll try to carry only Gucci shoes and Pierre Cardin –
-
-HARVEY: I’m not talking about that – I’m telling you what not to carry.
-
-SYLVIA: What not to carry – what should I not carry, Harvey? Tell me and I’ll stop carrying it – tell me – tell me –
-
-HARVEY: A sweater. And a plastic raincoat-
-
-SYLVIA: A sweater and a raincoat make me a bag lady.
-
-HARVEY: And a tennis shoe - shoe singular – one shoe. Why are you carrying one tennis shoe?
-
-SYLVIA: I’m taking it down to the Bowery – to meet my wino lover – my one-legged wino lover – on Avenue B.
-
-HARVEY: May I Inquire about the picture frame?
-
-SYLVIA: It’s a picture frame – beveled wood – probably pine – approximately nine by twelve with a wire –
-
-HARVEY: Why the picture frame?
-
-SYLVIA: Why indeed – how about to hang a picture with? How about that?
-
-HARVEY: Why did you pick it up – out of the garbage can? That’s what I –
-
-SYLVIA: Not out of the garbage can – it was next to the can – leaning against the can – not touching the garbage.
-
-HARVEY: Why did you pick it up from next to the can?
-
-SYLVIA: Well, how can I hang a picture in it if I didn’t pick it up?
-
-HARVEY: Why didn’t you buy a frame?
-
-SYLVIA: Why buy a frame when this is a perfectly good frame?
-
-HARVEY: That somebody threw away. And the couch cushion –
-
-SYLVIA: It’s a perfectly good cushion – I can use it on my desk chair.
-
-HARVEY: So you just took it.
-
-SYLVIA: When this cushion is covered in a blue floral patter it will be so –
-
-HARVEY: And the magazines – all the magazines –
-
-SYLVIA: Why are you attacking me like this? What’s really bothering you?
-
-HARVEY: This – this is what’s really bothering me – what could bother a man more than seeing his wife collecting picture frames and tennis shoes and –
-
-SYLVIA: Well don’t forget the grapes while you’re at it.
-
-HARVEY: You have grapes in there?
-
-SYLVIA: I have everything in here – I’m a bag lady, aren’t I?
-
-HARVEY: You are a bag lady – you say you have grapes and a tennis shoe in there like it’s perfectly normal – it is not normal – you are a bag lady.
-
-SYLVIA: A moment ago I was becoming a bag lady – now I am a bag lady.
-
-HARVEY: A moment ago I didn’t know about the grapes.
-
-SYLVIA: The grapes make me a bag lady.
-
-HARVEY: The grapes and the raincoat and the tennis shoe –
-
-SYLVIA: Stop harping on the tennis shoe – if the tennis shoe offends you I’ll get rid of it – There – all right?
-
-HARVEY: And the rest of the stuff –
-
-SYLVIA: You want me to throw it all away? I will – I can just leave the bag here and walk away. . . Except for the picture frame – We can leave the rest right here –
-
-HARVEY: Sylvia, do you not see what is happening to you?
-
-SYLVIA: What is happening to me is you – you’re attacking me –
-
-HARVEY: I’m trying to reach you – I’m trying to make you see what you’re doing.
-
-SYLVIA: I’m not doing anything. I just found a nice little picture frame and you turn it into a –
-
-HARVEY: We can stop this now – if we’re aware of it we can nip it in the bud –
-
-SYLVIA: I don’t see what needs nipping – what? What am I doing?
-
-HARVEY: Will you do me a favor? One favor.
-
-SYLVIA: What is it?
-
-HARVEY: Open your purse.
-
-SYLVIA: Why?
-
-HARVEY: As a favor to me – as a whim – Will you open your purse?
-
-SYLVIA: You think there’s another tennis shoe in my purse?
-
-HARVEY: Will you - open your purse? Will you open your purse?
-
-SYLVIA: No. A woman’s bag – purse – is a personal thing –
-
-HARVEY: I’m going to open this purse –
-
-SYLVIA: You will not find another tennis shoe.
-
-HARVEY: (Opens purse – looks away – then looks at her – he extends purse toward her) Look –
-
-(She looks away) Look- (She darts a glance) Please look at this purse – (She nervously looks) What do you see? What? What do you see in your purse? (Sylvia mumbles) What? (She mumbles again) Speak out – let me hear you –
-
-SYLVIA: Oatmeal – oatmeal! All right?
-
-HARVEY: Oatmeal!
-
-SYLVIA: Yes – are you happy now? Are you satisfied – oatmeal!
-
-HARVEY: Cooked oatmeal.
-
-SYLVIA: Yes – cooked oatmeal – cold cooked oatmeal – you are vicious – you knew there was oatmeal in that purse!
-
-HARVEY: I want you to know it. I want you to see it.
-
-SYLVIA: I see it – I see it.
-
-HARVEY: Now – Why? – Why – is your purse filled – filled to the brim with old, cold, wet, cooked oatmeal. Why, Sylvia, why?
-
-SYLVIA: I don’t know.
-
-HARVEY: Do you want a purse full of oatmeal?
-
-SYLVIA: No –
-
-HARVEY: Does any woman want a purse full of cooked oatmeal? Does anybody need that?
-
-SYLVIA: No –
-
-HARVEY: Then why is it there, Sylvia?
-
-SYLVIA: I – don’t know.
-
-HARVEY: It’s because you put it there, didn’t you.
-
-SYLVIA: I’m so embarrassed.
-
-HARVEY: And you got it where?
-
-SYLVIA: Please, you’ve made your point – I can’t –
-
-HARVEY: Where did you get the oatmeal? Did you cook it this morning at home? Did you cook it and then pour it in your purse?
-
-SYLVIA: No.
-
-HARVEY: Then you found it – somewhere.
-
-SYLVIA: Stouffers.
-
-HARVEY: Stouffers – You went into Stouffers for breakfast and you – And you saw a bowl of oatmeal on the next table and reached –
-
-SYLVIA: On the same table – on the table where I sat down - They hadn’t cleared the table yet.
-
-HARVEY: You sat down at a dirty table.
-
-SYLVIA: It was crowded – they were busy.
-
-HARVEY: And you emptied out the bowl into your purse.
-
-SYLVIA: I didn’t empty it – I put it in my purse – all of it.
-
-HARVEY: The bowl too – Sylvia – What does this make you?
-
-SYLVIA: The oatmeal?
-
-HARVEY: The oatmeal and the hubcap and the ketchup bottle and the chicken bones – Chicken bones. Sylvia, you’re an intelligent woman – what does this make you?
-
-SYLVIA: A – bag – lady? I don’t want to turn into a bag lady, Harvey – I don’t want to push a supermarket cart down the street talking to myself and screaming at everybody – I don’t want to sleep in a doorway.
-
-HARVEY: You’ll never sleep in a doorway –
-
-SYLVIA: This is how it starts – the oatmeal – and shopping bags – then talking to myself, then screaming at people on the street and rummaging through garbage cans and begging for money and not bathing and weaving things into my hair and growing a moustache and drinking wine and sleeping in doorways and getting arrested – Oh my God, Harvey, don’t let them arrest me – don’t let me sleep in the doorway, please, Harvey – please –
-
-HARVEY: Don’t get hysterical –
-
-SYLVIA: And if I start weaving that crazy stuff into my hair you’ve got to stop me – slap me –
-
-HARVEY: I could never slap –
-
-SYLVIA: You’ve got to be forceful, Harvey. They have no homes – they prowl the streets – they don’t get their hair done – they don’t have to bathe – they don’t have to shave their legs – they don’t worry about it – No cooking to do – no house to clean – no man to – consider.
-
-They scream out “Hey buster, watch your fender – you son-of-a-bitch – Watch out, you rotten creep – pompous self-righteous – Kiss – me.” (Slap) Ow! Thank you, Harvey – I’m leaving that bag right there – we can go home. I’m all right now!
-
-HARVEY: I jut wanted you to be aware of –
-
-SYLVIA: I’m grateful – you saved me, I’m lucky to have you, Harvey. I’m going to take this sandwich home for later –
-
-HARVEY: Sylvia. . .
-
-SYLVIA: That’s all right – I don’t need it. Wait a minute – what if they see we’re leaving the bag – what if the waitress sees – and shouts – “Hey lady, you’re forgetting your bag” – I’d die of embarrassment, Harvey, I’ll tell you what – I’ll take it outside and we can dump it in the nearest trash basket – now, I know there’s a large basket over on Third Avenue and Fifty- Seventh – oh, wait – there’s a better one on Fifty-Ninth Street – we can just -
-```
-
----
-
-## IC-0885: Opening
-
-- Title: Opening
-- Author (byline): Matthew Kelty
-- Work: Off Off Broadway Festival Plays (32nd Series)
-- Publisher: Samuel French, Inc.
-- Publication date as stated: October 2010
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: SELZNICK
-- Teaser before the introduction: No
-- Spoken words (computed): 1452
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Matthew Kelty
-Book: Off Off Broadway Festival Plays (32nd Series)
-ISBN: 978-0573660238
-Publisher: Samuel French, Inc.
-Date (Month/Year): October 2010
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: The year is 1939 and Loew's Grand Theater in Atlanta, Georgia, has been selected as the site for the premiere of Gone with the Wind.
-
-ACTRESS: As the date of the premiere approaches, all the black actors are notified that they have been barred from attending.
-
-ACTOR: Ads depicting black actors are also forbidden under the Jim Crow laws.
-
-ACTRESS: This selection shows the complex dynamic between one of the supporting actress of the film, Hattie McDaniel . . .
-
-ACTOR: (Who went on to become the first black actress to win an Oscar for her role in the Gone with the Wind)
-
-ACTRESS: . . . and David Selznick. the producer, as he makes Hattie aware of the restrictions that have been placed on the . . .
-
-TOGETHER: Opening by Matthew Kelty
-```
-
-### Performance text (classify this)
-
-```text
-(Lights fade up. DAVID O. SELZNICK sits behind a large desk in his studio office, rubbing his forehead with his fingertips. After a moment, he presses a button on his intercom.')
-
-SELZNICK: Sally, could you send Miss McDaniel in, please? (A moment passes. HATTIE McDANIEL enters the office, dressed for a business meeting. She waits for SELZNICK to speak.) Good morning, Hattie.
-
-McDANIEL: Good morning, Mr Selnick.
-
-SELZNICK: Hattie. David. Please.
-
-McDANIEL: Morning, David.
-
-SELZNICK: How are you today?
-
-McDANIEL: I'm fine.
-
-SELZNICK: Good. Good. (Small pause.) I... Listen, Hattie, I just want to thank you again for your wonderful work on the film.
-
-McDANIEL: Thank you, Mr. Selzuick.
-
-SELZNICK: David.
-
-McDANIEL: Thank you, David.
-
-SELZNICK: I mean, you're practically a co-star in the film - not really supporting at all.
-
-McDANIEL: I'm glad you're pleased. Did you ask me to come in today so that you could thank me for my work?
-
-SELZNICK: Yes.
-
-McDANIEL: (Turning to leave:) Well, then. ..
-
-SELZNICK: I mean, that wasn't the only reason, but yes, I... (As McDANIEL turns back to him:) I... Yes, I wanted to thank you. (Small pause.) You're wondering why we're here.
-
-McDANIEL: I think I know, to tell the truth.
-
-SELZNICK: You know.
-
-McDANIEL: I think that I do. (Pause.)
-
-SELZNICK: Well then for God's sake don't make me
-
-McDANIEL: I'm just hoping that I'm wrong.
-
-SELZNICK: Hattie ...
-
-McDANIEL: (Continuing:) I mean, I'm praying that I'm wrong.
-
-SELZNICK: This isn't something we can
-
-McDANIEL: Why am I here today, Mr. Selznick? (Pause.)
-
-SELZNICK: I've been talking to one of our boys down in Atlanta. (No response.) There's been a problem with the programs for the premiere. (No response.) Some of the people - at the theatre and at the print house - they were unhappy with your picture. Unhappy that it was there. They didn't think it would be appropriate for you and Butterfly to be on the cover of the program.
-
-McDANIEL: Are we inside the program?
-
-SELZNICK: We're working on that. Certainly, you'll be on the programs in Los Angeles, New York ... It's just in Atlanta. (Small pause.)
-
-McDANIEL: Well, thank you for asking me. (Turning to go:) I don't know what Butterfly will say, but if you need to take my-
-
-SELZNICK: Hattie, stop. (McDANIEL turns back around.) Please. Just let me finish. Let me say what I have to say. (She stares at him and waits.) We've been talking with the theatre, trying to determine where the cast will sit, where they'll enter. (Small pause.) They've told us that the theatre ... It's segregated. The black actors won't be seated with the rest of the cast. You'll have to enter and exit separately, use separate restrooms - it's crazy, I know, it's ridiculous, but... The restaurant, too. The banquet before the premiere. They won't serve you. (Small pause.) You already know all of this.
-
-McDANIEL: It's Hollywood, David. People talk. (Small pause.)
-
-SELZNICK: I don't want to see you treated badly, Hattie.
-
-McDANIEL: Then don't let them treat me badly, David.
-
-SELZNICK: I think it's just best for everyone involved if –
-
-McDANIEL: Everyone?
-
-SELZNICK: Yes, everyone, if you don't attend the premiere.
-
-McDANIEL: How would that be better for me?
-
-SELZNICK: Do you really want to be turned away at the door, Hattie? With all the press there watching? That's embarrassing for us, humiliating for you -
-
-McDANIEL: They wouldn't do it. Not with people taking pictures.
-
-SELZNICK: They're already making us change the program.
-
-McDANIEL: You could tell them, just tell them. They'd let me in.
-
-SELZNICK: And the public would stream out the doors, while the cameras snapped. We've sunk a lot of money into this movie; we can't have people running out of the premiere. It'll be in every paper in the country. (Pause.)
-
-McDANIEL: (With mock sincerity:) Maybe I could go, and then leave once we get to the theatre.
-
-SELZNICK: I don't see that that's going to -
-
-McDANIEL: (Continuing, over SELZNICK, allowing the sarcasm to show:) You know, just so Vivienne can have someone to carry her things. I've got a really nice kerchief I could wrap around my head that's not too worn ...
-
-SELZNICK: Hattie, I don't know what else to do.
-
-McDANIEL: Move the premiere. Why does Atlanta get to have the premiere if they're going to treat your actors so badly?
-
-SELZNICK: Half the movie takes place in Atlanta.
-
-McDANIEL: Half The Wizard of Oz takes place over the rainbow, but they didn't put little Judy Garland in a hot air balloon and send her -
-
-SELZNICK: We can't move the premiere. We've already announced it, gotten so far along in the planning. If we move it, it'll be a scandal.
-
-McDANIEL: And it won't be a scandal if your black actors don't go to the premiere? (Small pause.)
-
-SELZNICK: Not to as many people, no. (Pause.)
-
-McDANIEL: Well, I guess I didn't know why you called me in here after all. I thought you wanted to talk about how to handle Atlanta, but instead you just called me in to give me an order about -
-
-SELZNICK: Well, the publicity boys actually think we've come up with something that ... (Small pause.) You know that I appreciate the ... It's a wonderful performance you gave us in this movie, Hattie.
-
-McDANIEL: You said that earlier, yes.
-
-SELZNICK: It's really very fine.
-
-McDANIEL: Thank you.
-
-SELZNICK: I think it's deserving of recognition. From the Academy. I'd like to recommend you for consideration for Best Supporting Actress after we open. (Small pause.)
-
-McDANIEL: Thank you, Mr. Selnick.
-
-SELZNICK: David, please.
-
-McDANIEL: David.
-
-SELZNICK: Hattie. I'd like for you to write me a letter.
-
-McDANIEL: About the nomination? I didn't know you needed a-
-
-SELZNICK: I'd like for you to write me a letter saying that you have a previous commitment, and won't be able to attend the premiere in Atlanta.
-
-McDANIEL: And the one is dependent on the other?
-
-SELZNICK: I've really tried to work with you on this movie, Hattie.
-
-McDANIEL: Oh?
-
-SELZNICK: You wanted us to take "nigger" out of the script, we took it out.
-
-McDANIEL: And left in "darkies." You wanted to leave in "nigger."
-
-SELZNICK: It's a historical document, Hattie.
-
-McDANIEL: It's a movie.
-
-SELZNICK: Still, you wanted it out, and I took it out.
-
-McDANIEL: And you did that just for me? That's so sweet, David. It didn't have anything to do with Butterfly and Oscar coming to you and -
-
-SELZNICK: You sent them over.
-
-McDANIEL: (Continuing:) - or the Hayes Commission or the editorials in the Negro papers protesting you even turning this book into a -
-
-SELZNICK: I am trying to give you a way out of this. Trying to find a graceful way for us to handle this. The premiere is in Atlanta. The theater is segregated. We want to avoid a scandal. If you would just write me a letter saying that you have prior commitments, then -
-
-McDANIEL: Then they win.
-
-SELZNICK: Yes. Yes, they do win. You're right. And I hate to see it. But maybe you win, Hattie, injust a few months. Maybe they win that night, but you win at the Awards in the Spring. The first Negro to win an Academy Award, Hattie. Wouldn't that be something?
-
-McDANIEL: You keep bringing those things up together.
-
-SELZNICK: You said it yourself, Hattie. This is Hollywood. People talk.
-
-McDANIEL: Talk about what?
-
-SELZNICK: All kinds of things besides someone's performance. Like whether they're a team player, whether people would want to work with them again. A good role, that's only half of it. Maybe less.
-
-McDANIEL: You're saying I won't win if I make a fuss about this.
-
-SELZNICK: I'm saying you won't work again. (Small pause.)
-
-McDANIEL: I think that's a little extreme. (Small pause.)You'd ruin my career because I won't write you a letter.
-
-SELZNICK: There are plenty of colored actors in this town who want to work.
-
-McDANIEL: And not enough roles as slaves and mammies to go around.
-
-SELZNICK: What's that quote you gave in that interview, Hattie? Something ... "I've worked as a maid in real life ... The money's better in Hollywood." Something.
-
-McDANIEL: I said I'd rather play a maid than work as one.
-
-SELZNICK: Words to live by. (Small pause.) It's going to get better, Hattie. It'll just take some time. Make sure you're around for when it gets better. (McDANIEL doesn't answer. SELZNICK turns to a stack of papers on his desk and begins to shuffle through them.) Good, good, terrific. Now, I'm going to call one of the boys in from publicity to work with you on the letter. We'll keep it nice and simple, short, nothing we could get caught -
-
-McDANIEL: But David, what if we -
-
-(SELZNICK throws his papers onto the desk in frustration; they scatter all over the desk and the floor.)
-
-SELZNICK: All right, I've had enough. I'm going to get someone to work with you on this. I'll be back in five minutes. If you're here, you're going to have a signed letter on my desk before you go home. If you're not here, don't bother coming back. Do you understand?
-
-(He gets up and leaves without waiting for an answer. McDANIEL looks around the office for several moments. Some of the paper has fallen at her feet; she picks it up and puts it on the desk She looks around some more, then picks up some of the other paj)ers that have fallen. As she places them on the desk, her voice is heard reading the text of McDANIEL S letter to
-
-SELZNICK: The voice continues as she straightens the papers on the desk, and then possibly begins to straighten the office a little. She cleans as the voice continues and the lights begin to fade.)
-
-McDANIEL'S VOICE: Dear Mr. Selznick: Thank you so much for your invitation to attend the world premiere of the studio's new film, Gone with the Wind, in Atlanta next month. I am thrilled to be a part of the film, and hope that the premiere goes well. Unfortunately, I will be unable to attend the premiere, due to circumstances that I'm unable to change. Best of luck in Atlanta. Please accept my apologies. And my deep, deep regrets.
-```
-
----
-
-## IC-0886: The Original Last Wish Baby
-
-- Title: The Original Last Wish Baby
-- Author (byline): William Seebring
-- Work: The Best American Short Plays 1996-97
-- Publisher: Applause Books
-- Publication date as stated: Nov 1996
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: SUGGESTED ROLES, ACTOR 1, ACTRESS 1, NARRATOR, DOCTOR, NURSE, EXECUTIVE, ASSISTANT, MAN, MS. KORNFELD, REPORTER, WELDA, CLARA, CUSTOMER #2, CUSTOMER #1, GE PITCHMAN, WOMAN, KORNFELD, NEWSBOY, JUDGE, SURGEON
-- Teaser before the introduction: Yes
-- Spoken words (computed): 2533
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: William Seebring
-Book: The Best American Short Plays 1996-97
-ISBN: 978-1557832559
-Publisher: Applause Books
-Date: Nov 1996
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR 1: The Original Last Wish Baby, as researched, recorded and revised by William Seebring. Cleveland, Ohio.
-
-ACTOR 2: Or, more specifically, the third-floor maternity room of the Holy Name Hospital on Cleveland's impoverished west-side where, at precisely seven-oh-one P.M. A baby was born.
-
-ACTOR 2: Not just any baby, but the infamous, original, Last Wish Baby.
-
-ACTOR 1: The baby born without a heart.
-
-TOGETHER: The Original Last Wish Baby by William Seebring
-```
-
-### Performance text (classify this)
-
-```text
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-SUGGESTED ROLES:
-
-ACTOR 1: Doctor, Assistant, Man, Reporter, Customer #1, GE Pitchman, Woman, Judge
-
-ACTRESS 1: Nurse, Executive, Ms. Kornfeld, Welda, Clara, Customer #2, Newsboy, Surgeon
-
-NARRATOR: Shared role between actors
-
-DOCTOR: No heart? Good Heavens, that's impossible.
-
-NURSE: Check for yourself, Doctor. [The DOCTOR extends his stethoscope into the crib.] DOCTOR: Nothing, no pulse. Not a sound. And yet, this baby clearly mimics life. A freak.
-
-NURSE: A miracle. . . the baby is a miracle.
-
-DOCTOR: A miracle? This is Cleveland. It'll be a miracle if the mother's insured.
-
-NARRATOR: Not only were the baby's parents uninsured, the identity of the baby's father was unknown. However, the birth mother's name was given as Welda Mae Forms, a thirty-one-year-old unemployed cosmetologist. At the time, little else was known about Ms. Forms but word of her remarkable progeny spread quickly from the maternity ward to the scrub rooms to the hospital's administrative offices where a larger picture began to emerge.
-
-EXECUTIVE: A baby born without a heart? Sounds awful. Sounds really awful.
-
-ASSISTANT: Maybe not as bad as you think.
-
-EXECUTIVE: C'mon Chet, how the hell do ya' window dress a missing heart? God knows we've had our share of high-risk deliveries here at Holy Name-little baby heads get smushed, tiny baby limbs get... it's messy, terrible, makes me shudder. But delivering a baby and not the heart-good God! [Beat.] What's our liability on something like that?
-
-ASSISTANT: Well here's the thing, sir. . . the baby is alive. The baby is fully functioning, quite spirited and has a healthy appetite I might add. Its short life could, with the right spin, be played out as the most incredible P.R. story of our time. What's more, the timing couldn't have been more. . . fortuitous. . . sir. A miracle. . . and it happened here, in our hospital, under the care and guidance of our health care professionals. Think of it sir, Holy Name, the get-well place where miracles happen.
-
-EXECUTIVE: Good boy. Oh, one other thing. . . the heart? Did anyone ever find the heart?
-
-ASSISTANT: No. Actually, as far anyone knows, there never was a heart.
-
-NARRATOR: In point of fact, there was a heart. However, through one of those unfathomable anomalies which defy all logic, yet govern most things, the heart was delivered separately by a surprised New Jersey woman on her way home from the store.
-
-[Lights up on MS. SYDNEY KORNFELD, as she crosses the stage. She is walking past a MAN when something like a beef-steak tomato falls from her skirt. MS. KORNFELD continues on, unmindful.]
-
-MAN: Yo, Miss. . . Ma'am! You dropped something. .[MS. KORNFELD stops, turns and looks back.]
-
-MS. KORNFELD: Oh-my-god, what is it! [Lights dim on MS. KORNFELD as she bends to retrieve the heart.]
-
-NARRATOR: That something would later be determined to be the baby's heart. However, at that particular moment, the New Jersey woman, later identified as Ms. Sydney Kornfeld, and who would soon become known as "The Baby Heart Mom," was not yet aware of the miracle baby story unfolding in Cleveland. As for Ms. Kornfeld, she fortuitously retrieved the baby heart and returned immediately to her home in Paramus where, as the demonstrator shall faithfully recreate, she placed the pulsating vital organ into a clear, air-tight, number-seven tupperware container, which she then filled with a high-fructose, low sodium, heavy-syrup drained from a can of Libby's yellow-cling sliced peaches. After burping for a tight seal, Ms. Kornfeld placed the container in the crisper drawer of her refrigerator where, according to product designers, the heart could have been stored indefinitely and would remain every bit as fresh and vigorous as the moment she delivered it.
-
-REPORTER: But, what about the baby's mom? I'd like to hear her side of the story. I'd like to ask her a few questions.
-
-ASSISTANT: Uh, well, actually-that's impossible. I'm sorry, we're just, she's just-she's in recovery right now.
-
-NARRATOR: In fact, Welda Mae Forms was not in recovery. The so-called Baby Mom was not only alert and well-rested, she was, much to the dismay of hospital staffers, quite lucid and most out-spoken.
-
-WELDA: What's with the seat belts! And where's my kid! I come into this dump to pop off another slug, which is the last thing I need, and you-all got me tied down so I can't even see Oprah!
-
-EXECUTIVE: Ms. Forms, please, please calm down. There's something we have to tell you.
-
-WELDA: What, is my baby dead, or deformed, or something?
-
-ASSISTANT: Ub, well, Miss Forms, actually, it's more than that.
-
-WELDA: Huh? Was that a hard question or are you really as stupid as you look? Listen here lap-dog, tell your fat boss that as far as I'm concerned I could care less if the little maggot's dead or mutated-hell, I never wanted one tuh begin with. Tried to have it flushed out in one of them clinics but them bible-thumpers chased me away and SO, I figured I'd drown the slug in booze. Well, did it work or what?
-
-ASSISTANT: This is insane. We can't put that before the public. She'll ruin everything!
-
-NARRATOR: Meanwhile, at that very moment, the afternoon press conference was being fed via satellite to network studios in New York. And news it was. "Within the hour, satellite-beaming reporters from around the world had descended on Cleveland like the plague and every last one of them wanted one thing-a baby mom exclusive. Hospital officials acted with both haste and prudence.
-
-CLARA: Hello, Ms. Forms. My name is Clara Collins, I've been hired to be your image consultant.
-
-NARRATOR: Clara Collins proved she was worth every penny of her hefty fee. In short order, Ms. Welda Mae Forms was polished, enlightened and coiffured. At long last, cameras were admitted into her room and a nation known for its thirst of spectacle, tuned in.
-
-WELDA: [Her hands folded as if in prayer.] With the Lord's help, my precious, precious baby will live. Of course, I can't begin to thank all you wonderful little people out there who have kept me and my baby in your thoughts and prayers. Bless you. Bless you all.
-
-NARRATOR: With that one newsbit, the groundswell of public emotion became unquenchable. Overnight, Cleveland's miracle tot became America's most adored critical-list baby. There were news conferences every morning and afternoon and updates on the baby's condition flashed every hour on the hour, but it wasn't enough. Americans not only wanted to know more, they wanted to know what more they could do . . .
-
-CUSTOMER #2: And they say that baby could die any moment.
-
-CUSTOMER #1: Hate to see that baby die and me not knowing if they was something I coulda' done.
-
-CUSTOMER #2: Can't give baby my heart. But I'd give that baby anything else. Anything a'tall.
-
-CUSTOMER #1: Say, you know I hear baby likes to watch big time wrestling! What say we call the hospital and see if we could buy that baby a brand new color TV! Now wouldn't that make us all feel a whole sight better?
-
-NARRATOR: Calls from like-minded Americans jammed the hospital's switch-board. It was reported that in a single, twenty-four hour period more than twenty thousand color TV's were bought and delivered. Corporate America stood up and took note. Syndicate giant, GLAM ENTERTAINMENT, culled their best minds and put forward a most alluring concept.
-
-GE PITCHMAN: Every night we'll feature the baby mom, Welda Mae Forms. We get her and we call it, "The Last "Wish Baby Show." See, every night mom stands in front of the camera holding little baby no-heart in her arms like this and she's pouting 'cause the doc's are telling her how the baby's supposed to die any minute but, and here's the kicker, before baby goes, baby's made this one last wish. . . get it? Baby's last wish- Last Wish Baby!
-
-NARRATOR: A deal was proffered and quickly struck with Ms. Forms and her people. That very night, "The Last Wish Baby Show" blew out the ratings board with a whopping 75 share. Even more notable, the show's seamless tie-in with corporate sponsors set an industry standard.
-
-WELDA: Poor, poor baby. Baby doesn't have a heart. Doctors say baby might have to leave us all for Heaven any minute now.[we hear the baby cry.] What's that Baby. . . ? [After leaning in to the baby, WELDA returns her gaze to the cameras.] Awww. Baby wishes some nice person out there would buy us a uh . . . a Sony XRK-35 Digital Game System.
-
-NARRATOR: Meanwhile, in a certain kitchen in Paramus, New Jersey, a certain Guatemalan cleaning woman was wiping down a certain refrigerator when she made an unusual discovery.
-
-WOMAN: Eeeeee! Mios Dios! Eeeee!
-
-KORNFELD: What? Que? Que esta? What the hell is it?
-
-WOMAN: Nino! Nino con last wish! Nino con last wish!
-
-KORNFELD: Baby? You mean that baby? That Last Wish baby? The one on TV? Give me that! [Studies the heart for a moment.] Oh-my-God, it's alive! I have the baby heart! What should I do? What should I do?
-
-WOMAN: Llama de medico! Pronto! Pronto!
-
-KORNFELD: Call a doctor?! Are you crazy? This is big, really big! I'm calling Howard Stern!
-
-NARRATOR: Ms. Kornfeld's call to the popular radio shock jock was quickly put through and she revealed that she possessed what she believed was the Last Wish Baby's Heart. Meanwhile, word of the whereabouts of the newly discovered baby heart spread fast and a race, of sorts, was on. EMS crews were first on the scene but no sooner had they readied the baby heart for shipment to Cleveland when. . . the lawyers arrived. Motions were made. Injunctions issued. Larger questions loomed. The battle for custody of the Last Wish Baby had begun. The hearing to determine the rightful custodial parents of The Last Wish Baby had barely opened when legal fees threat-ened to exceed even Ms. Welda Mae Forms' recently fatted purse-strings. However, with the baby show still posting record ratings, Ms. Forms saw fit to make full use of her forum.
-
-WELDA: [Angelic.] Poor, poor precious baby. Baby doesn't have a heart. . . know why? Hmmm? [Bitter.] 'Cause some East Coast floozy has got it and won't hand it over unless I give her half a' baby's royalties on the [The baby cries. WELDA looks down.] Yeah, what is it? [A beat to compose herself] Awww, but of course, baby. [WELDA looks up again and com poses herself] Baby wishes there was some nice, pro-bono law firm out there who would take Baby's rightful mother's custody case, and when that was all settled, and a certain individual from a certain so-called Garden-State was financially ruined, that same nice law firm might just be retained to negotiate with those shysters at Glum Entertainment for a more favorable contract. . . idn't that what baby wants? Yes, baby's so sweet. I just hope and pray this won't be baby's last wish.
-
-NARRATOR: But, no sooner had Welda Mae and her people retained new legal counsel than a shocking courtroom revelation hit the newsstands.
-
-NEWSBOY: Read all about it! "Last Wish Baby Show" Hoax! Read all about it!
-
-NARRATOR: Unsealed court documents alleged that the "Last Wish Baby Show" Baby was not the real Last Wish Baby, the baby born without a heart, but rather, a sixteen-year-old unemployed actor with a glandular condition. Americans shuddered. Did this mean the Original Last Wish Baby was dead? Or, Heaven forbid, was there even an original Last Wish Baby in the first place? Con-gressional spouses convened a hearing and demanded answers.
-
-ASSISTANT: Okay, look, it was all my fault. I agreed to pull the baby from the show and I was the one who okayed it when the Forms woman wanted to hire [a stand-in]. But I only went along with it 'cause the doctors insisted on keeping the baby in intensive care. That's the God's-honest truth. There really is a Last Wish Baby, there really is a baby without a heart! I can prove it! I swear to God, I can prove it!
-
-NARRATOR: Needless to say, Americans were skeptical and demanded that proof. Thus, the following night, "The Last "Wish Baby Show" aired live from the Holy Name Hospital's pediatric intensive care unit. Viewers held their breath as the Baby Mom ushered the cameras toward the swinging doors which led to Baby's chamber.
-
-WELDA: Shhhh. Be quiet. This way, please.
-
-ASSISTANT: Watch it, he's got a gun!
-
-NARRATOR: Four shots, each one following its own fatal trajectory, were fired into the torso and cranial cavity of the woman most Americans knew only as the Last Wish Baby Mom. The assailant was identified as Daryl Wayne Trebleu, a'slope-shouldered, itinerant floral designer from nearby Loraine, Ohio, and, purportedly, the man many believed to be the Last Wish Baby Dad. Daryl Wayne Trebleu never uttered a single word in his own defense. Rather, he expressed himself through artfully-designed floral arrangements. Mr. Trebleu's "Not competent to stand trial bouquet" was a lovely and eloquent display of mums, gladiolus, and forty-four magnum shell casings set in a handsome earthenware bowl. Meanwhile, in another court in another state, the judge in the custody hearing for the Last Wish Baby had reached a verdict.
-
-JUDGE: As per the dictates of the honorable State of New Jersey, court of Domestic Relations, I have found as follows: Said infant, here-in-and-ever-after known as, "The Original Last Wish Baby," shall be granted ward status of this court, and thereby ordered to be joined immediately with heart. So be it, so help us God.
-
-NARRATOR: With the Last Wish Baby Show having been abruptly pulled from the airwaves, no effort was made to appeal the Judge's decision. Thus, a medical team of the nation's leading cardio-vascular surgeons were assembled to carry out the court's wishes and, with God's blessing, prolong the baby's life. We take you now live, directly to the Hoppscotch Medical Center in Tarmack, New Jersey.
-
-SURGEON: The operation to implant the baby heart into the Last Wish Baby was both... a success and... a failure. The heart was successfully sutured and continues to pump vigorously. Unfortunately, the baby, for reasons we do not fully understand, has ceased all other life sustaining functions and. . . appears to be in a rapid state of. . . decay.
-
-NARRATOR: There was no denying it. The Original Last Wish Baby, the baby born without a heart, was now, and irretrievably, a dead baby, but one with a very healthy heart. And that presented doctors and lawyers with an entirely new set of problems. For one, the baby could not be considered legally dead unless the heart were either stopped or removed. However, if the baby was not legally dead, then removing or stopping the heart would be, in a word, murder. Therefore, despite all appearances to the contrary, the Last Wish Baby was, in the eyes of the law, very much alive. Further, this being a democratic society, it didn't take long for Americans to gaze upon their own dearly departed loved ones and find similar cause to stretch the definition of what constitutes life. . . and death. Suddenly, Americans became embroiled in an entirely new moral debate-when did life end? The question was not at all as simple as it sounded. After all, who in this country can say with any real certainty when life begins?
-```
-
----
-
-## IC-0887: Othello
-
-- Title: Othello
-- Author (byline): William Shakespeare
+- Title: The Odd Couple (Female Version)
+- Author (byline): Neil Simon
 - Work: Not specified
-- Publisher: Washington Square Press
-- Publication date as stated: Jan 2004
-- Event as filed: Duo Interpretation
+- Publisher: Random House, Inc.
+- Publication date as stated: June 1971
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: OTHELLO, DESDEMONA
-- Teaser before the introduction: No
-- Spoken words (computed): 770
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: William Shakespeare
-ISBN: 978-0743477550
-Publisher: Washington Square Press
-Date: Jan 2004
-FORENSICS AWARDS
-IL State Qualifier
-KS State Qualifier
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Othello can be regarded as Shakespeare’s greatest lover. Whilst other plays have waxed and waned in popularity, Othello has remained universally acclaimed since its first performance back in 1604. From its inter-racial marriage theme, to the fatal flaw that mars the character of many . . . Othello is an epic tale of manipulation, passion and sorrow. It is, therefore, regarded as one of the finest literary works, and Shakespeare’s greatest tragedy.
-
-We find Othello and his bride Desdemona alone in their bedchamber. Othello’s first lieutenant, Iago has masterfully manipulated events and perceptions to achieve this chilling confrontation. We’ve prepared . . . Othello by William Shakespeare.
-```
-
-### Performance text (classify this)
-
-```text
-OTHELLO: It is the cause, it is the cause, my soul.
-Let me not mane it to you, you chaste stars.
-Ti is the cause. Yet I’ll not shed her blood,
-Nor scar that whiter skin of hers than snow,
-And smooth as monumental alabaster.
-Yet she must die, else she’ll betray more men.
-Put out the light, and then put out the light.
-If I quench thee, thou flaming minister,
-I can again thy former light restore
-Should I repent me. But once put out thy light,
-Thou cunning’st pattern of excelling nature,
-I know not where is that Promethean heat
-That can thy former light relume.
-When I have plucked (the) Rose,
-I cannot give it vital growth again.
-It needs must wither. I’ll smell (it) on the tree.
-O balmy breath, that dost almost persuade
-Justice to break her sword! {He kisses her}
-One more, one more.
-Be thus when thou art dead, and I will kill thee
-And love thee after.
-One more, and (this) the last.
-
-(He kisses her)
-So sweet was ne’er so fatal. I must weep,
-But they are cruel tears. This sorrow’s heavenly:
-It strikes where it doth love. She wakes.
-
-DESDEMONA: Who’s there? Othello?
-
-OTHELLO: Aye, Desdemona.
-
-DESDEMONA: Will you come to bed, my lord?
-
-OTHELLO: Have you prayed tonight, Desdemona?
-
-DESDEMONA: Aye, my lord.
-
-OTHELLO: If you bethink yourself of any crime Unreconciled as yet to heaven and grace, Solicit for it straight.
-
-DESDEMONA: Alack, my lord, What may you mean by that?
-
-OTHELLO: Well, do it, and be brief. I will walk by. I would not kill thy unprepared spirit. No, (heaven) forfend! I would not kill thy soul.
-
-DESDEMONA: Talk you of killing?
-
-OTHELLO: Aye, I do.
-
-DESDEMONA: Then heaven have mercy on me.
-
-OTHELLO: Amen, with all my heart.
-
-DESDEMONA: If you say (so) I hope you will not kill me.
-And yet I fear you, for you’re fatal then
-When your eyes roll so. Why I should fear I know not,
-Since guiltiness I know not, but yet I feel I fear.
-
-OTHELLO: Think on thy sins.
-
-DESDEMONA: They are loves I bear to you.
-
-OTHELLO: Ay, and for that thou shall die.
-
-DESDEMONA: That death’s unnatural that kills for loving.
-Alas, why gnaw you so your nether lip?
-Some bloody passion shakes your very frame.
-These are portents, but yet I hope, I hope
-They do not point on me.
-
-OTHELLO: Peace, and be still.
-
-DESDEMONA: I will so. What’s the matter?
-
-OTHELLO: That handkerchief Which I so loved, and gave thee, thou gav’st Cassio.
-
-DESDEMONA: No, by my life and soul! Send for the man, ask him.
-
-OTHELLO: Sweet soul, take heed, take heed of perjury. Thou art on thy deathbed.
-
-DESDEMONA: Ay, but not yet to die.
-
-OTHELLO: Presently.
-Therefore confess thee freely of thy sin.
-For to deny each article with oath
-Cannot remove nor choke the strong conception
-That I do groan withal. Thou art to die.
-
-DESDEMONA: Then Lord have mercy on me!
-
-OTHELLO: I say “Amen.”
-
-DESDEMONA: And have you mercy, too. I never did
-Offend you in my life, never loved Cassio
-But with such general warranty of heaven
-As I might love. I never gave him token.
-
-OTHELLO: By heaven, I saw my handkerchief in ‘s hand! O perjured woman, thou dost stone my heart And mak’st me call what I intend to do A murder, which I thought a sacrifice! I saw the handkerchief!
-
-DESDEMONA: He found it, then. I never gave it him. Send for him hither. Let him confess a truth.
-
-OTHELLO: He hath confessed.
-
-DESDEMONA: What, my lord?
-
-OTHELLO: That he hath used thee.
-
-DESDEMONA: How? Unlawfully?
-
-OTHELLO: Aye
-
-DESDEMONA: He will not say so.
-
-OTHELLO: No. His mouth is stopped. Honest Iago hath ta’en order for ‘t.
-
-DESDEMONA: O, my fear interprets. What, is he dead?
-
-OTHELLO: Had all his hairs been lives, my great revenge Had stomach for them all.
-
-DESDEMONA: Alas, he is betrayed and I undone. {she weeps}
-
-OTHELLO: Out, strumpet! Weep'st thou for him to my face?
-
-DESDEMONA: Banish me, my lord, but kill me not!
-
-OTHELLO: Down strumpet!
-
-DESDEMONA: Kill me tomorrow, let me live tonight.
-
-OTHELLO: Nay, if you strive –
-
-DESDEMONA: But half an hour!
-
-OTHELLO: Being done there is no pause.
-
-DESDEMONA: But while I say one prayer!
-
-OTHELLO: It is too late. {He smothers her}
-What noise is this?—Not dead? Not yet quite dead?
-I that am cruel am yet merciful.
-I would not have thee linger in thy pain.
-So, so.
-Who’s there?
-Yes. ‘Tis Emilia.—By and by.—She’s dead.
-‘Tis like she comes to speak of Cassio’s death.
-The noise was here. Ha, no more moving?
-Still as the grave. Shall she come in? Were ‘t good?
-I think she stirs again. No. What’s best to do?
-If she come in, she’ll sure speak to my wife.
-My wife, my wife! What wife? I have no wife.
-```
-
----
-
-## IC-0888: Out of Control
-
-- Title: Out of Control
-- Author (byline): Mary Krell-Oishi
-- Work: Perspectives: Relevant Scenes for Teens, Pg 113-122
-- Publisher: Meriwether Publishing
-- Publication date as stated: March 1997
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: MARY, BILL
+- Speaker labels in the text: FLORENCE, OLIVE
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1567
+- Spoken words (computed): 1274
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Mary Krell-Oishi
-Book: Perspectives: Relevant Scenes for Teens, Pg 113-122
-ISBN: 978-1566080309
-Publisher: Meriwether Publishing
-Date (Month/Year): March 1997
+Author: Neil Simon
+ISBN: 978-0573618284
+Publisher: Random House, Inc.
+Date (Month/Year): June 1971
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTOR: Alarming numbers of teens experience and accept abusive behavior in dating relationships. Many teens also feel physically and sexually threatened.
+2 roommates: Olive who has to be the most UN-sensitive, UN-organized, UN-appreciative, UN-couth, woman (and I use that term loosely) on the planet. ARGHHH! And Ms. Manners, also known as Florence, will probably die of exhaustion, excessive neatness and then demand to organize her own funeral. They drive each other crazy! Yup, of all the possible roommate combinations they are definitely
 
-ACTRESS: 1 in 5 teens who have been in a serious relationship report being hit, slapped or pushed by a partner.
-
-ACTOR: Dating abuse can happen to anyone, at any age, no matter what race or religion they are, and no matter what their level of education or economical background.
-
-ACTRESS: Dating abuse isn't an argument every once in a while, or a bad mood after a bad day. Dating abuse is a pattern of controlling behavior that someone uses against a girlfriend or boyfriend.
-
-ACTOR: Abuse can cause injury and even death, but it doesn't have to be physical. It can include verbal and emotional abuse - constant insults, isolation from family and friends, name calling, controlling what someone wears-and it can also include sexual abuse.
-
-TOGETHER: Out of Control by Mary Krell-Oishi
+The Odd Couple by Neil Simon
 ```
 
 ### Performance text (classify this)
 
 ```text
-(BILL and MARY give their points of view about their breakup. Note: All ". . . " mean the characters pick up the line before the end of the preceding sentence.)
+(Florence is vacuuming, and Olive comes in. Olive sees her vacuuming and unplugs it. Florence begins winding up the cord, then Olive steps on it. After two tugs at the cord, Olive lifts her foot before the third. Florence falls while Olive laughs. They glare at each other and then turn their heads at the same time. Olive then sits down and picks up a newspaper from underneath the chair. Florence takes the vacuum into the kitchen and returns with a plate of spaghetti. She sits down and begins eating. Olive smells the spaghetti and goes into the bathroom. She comes out with a can of deodorizer, and she then sprays the spaghetti and slams the can on the table. Olive freezes as Florence continues into the introduction.)
 
-BILL and MARY: (Pg 113-122) There was nothing I could do. You don't understand. You weren't there.
+FLORENCE: All right, how much longer is this going to go on? Are you going to spend the rest of your life not talking to me?
 
-MARY: He was out of control. . .
+OLIVE: You had your chance to talk last night. I begged you to come upstairs with me. I was looking for romance, and instead I got a petrified woman standing in my doorway. I don’t want to hear the sound of your voice, do you understand?
 
-BILL: She was out of control. . .
+FLORENCE: Si, Yo comprendo. Gracias.
 
-MARY: He was like a crazy man. I was truly frightened. . .
+OLIVE: (gets a key out of back pocket and slams it on the table) There! There’s a key to the back door. Stick to your room and the hallway and you won’t get hurt. (turns to leave)
 
-BILL: Frightening. That's the only word I can think of. She came at me like a crazy woman. . .
+FLORENCE: Oh Olive! Need I remind you, I pay half the rent and I’ll go into any room I want!
 
-MARY: The guy is crazy.
+OLIVE: Not in my apartment! Fine, but I don’t want to see you! Cover the mirrors when you walk through the house. . . and I am sick and tired of smelling your cooking. I have had it up to here with your polyunsaturated oils. Now, get that spaghetti off of my table.
 
-BILL: I just went to see how she was; I was concerned. Hey, we were together for a long time. It's natural. . .
+FLORENCE: (laughing hysterically) That’s funny. . . that’s really funny. . .
 
-MARY: It's unnatural. He was checking up on me. He always did. He never trusted me. That's why I broke it off with him. . .
+OLIVE: (getting angry) what is so funny about that?
 
-BILL: I broke it off with her. She said she couldn't trust me. I don't know where that came from. But I wanted to make sure she was OK.
+FLORENCE: It’s not spaghetti, it’s linguini.
 
-MARY: He was OK at first. Then, jeez, all hell broke loose. He came over about ten o'clock that morning. . .
+OLIVE: (looks at her like an insane person. She then grabs the plate of linguini and throws it at the opposite wall)
 
-BILL: I went over about ten o'clock that morning. She was alone. . .
+FLORENCE: Are you crazy! Look at that mess! I’m not cleaning that up, it’s your mess. Look at it hanging all over the walls.
 
-MARY: I was alone.
+OLIVE: I like it.
 
-BILL and MARY: That made me a little nervous. . .
+FLORENCE: You’d just leave it there wouldn’t you, until it turns all brown and hard. . . yich! I’m cleaning it up.
 
-MARY: Being alone with him, I mean. . .
+OLIVE: (grabbing her and putting her hands on her head) If you touch one strand of that linguini. . . I will break every sinus in your head.
 
-BILL: I mean, I never knew what to expect. . .
+FLORENCE: Why? What did I do this time? What’s bothering you? Is it the cooking, the cleaning, the crying?
 
-MARY: The whole thing was completely unexpected. . .
+OLIVE: I’ll tell you exactly what’s bothering me. It’s the cooking, the cleaning, and the crying. It’s the moose calls that open your ears at two o’clock in the morning. I can’t take it anymore Florence, I’m cracking up. Everything you do irritates me, and when you’re not here the things I know you’re going to do when you come in irritate me. You leave me little notes on my pillow; we’re all out of cornflakes F.U. It took me three hours to figure out that F.U. was Florence Unger! It’s no one’s fault Florence; we’re just a rotten pair.
 
-BILL: I just wanted to see how she was. . .
+FLORENCE: I get the picture.
 
-MARY: I was sitting on the chair, reading a book and there was a knock at the door. (Her version of the scene begins.)
+OLIVE: That’s just the frame. The picture I haven’t even painted yet. Every night in my diary, I write down the things you did that day that aggravate me. . . this is June, and so far I’ve filled it up till January. I haven’t even put in about the Gazpacho Brothers yet.
 
-BILL: Anybody home?
+FLORENCE: Oh! Is that what’s bothering you. . . that I loused up your sex life?
 
-MARY: (Quietly) Oh, shit. (Out loud) Just a minute. (She lets him in.) Hey, how you doin'?
+OLIVE: What sex life, I can’t even have dirty dreams, you come in and clean them up!
 
-BILL: Are you alone?
+FLORENCE: (pointing a finger at her) I warned you not to make that date in the first place.
 
-MARY: Uh. Yeah. But my parents will be back soon.
+OLIVE: (grabbing finger, attempting to bite it) Don’t point that finger at me unless you intend to use it.
 
-BILL: Oh, yeah? I heard they were on vacation in Mexico.
+FLORENCE: Alright Olive get off my back. . . OFF! Do you hear me!
 
-MARY: Oh. Yeah, well, they might be coming home early.
+OLIVE: What’s this? A display of temper? I haven’t seen you really angry since I dropped my eyelashes in your pancake batter.
 
-BILL: Uh-huh. So, can I sit?
+FLORENCE: Okay Olive, there’s something I don’t want to say, but if I say it. . . I think you’d better hear it.
 
-MARY: Sure. I guess. Really, though, you can't stay long.
+OLIVE: I’m trembling all over. . . look how I’m trembling all over.
 
-BILL: No?
+FLORENCE: You’re a wonderful girl Olive. You’ve done everything for me. You took me in here, gave me a place to live and something to live for. If it weren’t for you, I don’t know what would have happened to me. You’re the tops with me Olive.
 
-MARY: No. See, I really shouldn't have anyone here without my parents being home. So. . .
+OLIVE: If I’ve just been told off. . . I think I may have missed it.
 
-BILL: So? I have to leave soon? Is that what you're saying?
+FLORENCE: It’s coming now.
 
-MARY: Well, yes, I guess it is.
+OLIVE: Good.
 
-BILL: Are you expecting someone else?
+FLORENCE: You’re also one of the biggest slobs in the world.
 
-MARY: No, I'm not.
+OLIVE: I see.
 
-BILL: So, you're here. Alone. Not waiting for anyone?
+FLORENCE: Unreliable,
 
-MARY: Please leave.
+OLIVE: Is that so?
 
-BILL: Since when do you tell me when to come and when to go?
+FLORENCE: Undependable,
 
-MARY: Bill, I think you should leave now.
+OLIVE: Is that it?
 
-BILL: Do you? Do you really?
+FLORENCE: And indescribably inefficient. There I’m done, now you’ve been told off. How do you like that?
 
-MARY: Come on, Bill, Just go.
+OLIVE: Good, because now I’m going to tell you off. For eight months, I lived in this apartment. I thought I was miserable, I thought I was lonely. I took you in here because I thought we could help each other, but after three weeks of close personal contact. . . I have hives, shingles, and the heartbreak of psoriasis. I am growing old at twice the speed of sound. I have seven new liver spots on the back of my hand that look like the Big Dipper. Do me a favor Florence, move into the kitchen, live with your pots, your pans, your ladle, and your meat thermometer. I’m going to lie down now, because my teeth are coming loose, and I’m afraid if I drop them in here, you’re going to get out your vacuum cleaner again. (turns to bedroom)
 
-BILL: I'll go when I'm ready. And I'm not ready. So watch your mouth. Don't tell me what to do. I never liked when you told me what to do. Never. Or don't you remember that?
+FLORENCE: (after a pause) Walk on the papers in there. . . I just cleaned the floors.
 
-MARY: I know, Bill,
+OLIVE: (looks at her with a crazy glare) In the kitchen! I want to get your head in the oven and cook it like a capon! (chasing her)
 
-BILL: I don't think you do. Maybe you need a little reminder, huh? (He crosses to her threateningly, then freezes.)
+FLORENCE: (squeals; runs into the bathroom and locks it) You’re going to find yourself in one nasty lawsuit!
 
-MARY: (Coming out of the scene) It was always like that. He was always trying to control me, threatening me, grabbing me. (She moves back into the scene.)
+OLIVE: It’s no use running Florence, there are only six rooms and I know all of the shortcuts. (goes through the bedroom and through a different door to the bathroom. Florence runs out of the door Olive just came in)
 
-BILL: (Coming out of the scene) She had called me a couple days before and sounded down, so I just wanted to say hi. I mean, I'm not a complete ass. I was concerned. So I went over there. She seemed happy to see me at first. (He moves back into the scene.)
+FLORENCE: Is that how you settle your problems, like an animal? (reaches for her purse) This is tear gas. . . you lay one finger on me and you’ll be using eye drops for the rest of your life!
 
-MARY: (Hugging him) Bill, Hi.
+OLIVE: You want to see how I settle my problems? I’ll show you how I settle my problems! (goes into the bedroom)
 
-BILL: (Hugging back, but being the first to pull away) Hey, you OK?
+FLORENCE: Alright! I warned you, I’m getting out my siren. (pulls a siren out of her purse. Then she lifts it in the air and pushes the button. Nothing happens. She holds it to her ear, again nothing) Olive? Have you been playing with my siren? (banging it on the table) Twenty-two fifty for a piece of Japanese-
 
-MARY: I am now that you're here.
+OLIVE: (slamming a suitcase on the table) There! That is how I settle my problems!
 
-BILL: I just wanted to say hi, see how you were.
+FLORENCE: Where are you going?
 
-MARY: I'm glad you're here. Stay a while.
+OLIVE: Not me, you idiot! YOU! You’re the one who’s leaving! I can fix your siren so it will whistle for a cab!
 
-BILL: I can't stay long.
+FLORENCE: What are you talking about?
 
-MARY: My parents aren't here. I don't expect them back for days. They're out of the country. You can stay as long as you like.
+OLIVE: (going to the kitchen, she gets pots and pans) The marriage is over Florence. We’re getting an annulment. I don’t want to live with you anymore. I want you to pack your things, tie them up with your Saran Wrap, and get out!
 
-BILL: Oh. Well. So, you doing all right?
+FLORENCE: You mean actually move out?
 
-MARY: Yeah. Sort of. You want to sit down with me on the couch?
+OLIVE: Actually, physically, and immediately! (puts the pots in the suitcase, then takes the case to the door and sets it down) There! You’re all packed.
 
-BILL: No. Really, I can only stay a minute.
+FLORENCE: You know, I have a good mind to really leave.
 
-MARY: Why? No one is here except us. Just us, alone.
+OLIVE: (looking heavenward) Why doesn’t she hear me? I know I’m talking; I recognize the sound of my voice.
 
-BILL: Yeah. Alone.
+FLORENCE: Okay, but let it be on your conscience.
 
-MARY: Don't you want to be alone with me?
+OLIVE: Let what be on my conscience?
 
-BILL: It's OK. It's fine. Really. Not a problem. So what have you been doing?
+FLORENCE: Get out of my house is what you said. I just wanted to get the record straight. Whatever happens to me is your responsibility, and may it be on your head!
 
-MARY: Doing? You mean since you broke up with me? Since you tore my heart out and threw it on the ground?
+OLIVE: Let what be on my head? Don’t put things on my head! Take it off!
 
-BILL: I guess. Yeah. Uh. . .
+FLORENCE: I left you plenty of food, all you have to do is heat it up. You can ask one of the neighbors how to light a match.
 
-MARY: Nothing. I've been doing nothing. Eating, watching TV, waiting, hoping for the phone to ring. . . (She goes to him; he freezes.)
+OLIVE: You’re not leaving until you take it back!
 
-BILL: (Coming out of the scene) It was so obvious she wasn't over me. . .
+FLORENCE: Take what back?
 
-MARY: (Coming out of the scene) It was so obvious he wasn't over me. . .
+OLIVE: Let it be on your head. . . what is that, the curse of the cat people?
 
-BILL: She looked so pathetic. . .
+FLORENCE: I’d like to leave now.
 
-MARY: He looked so angry. . .
+OLIVE: Florence, we’ve been good friends for too long to end it this way. We’re civilized people, let’s just shake hands and part like gentlemen.
 
-BILL: So out of it. . .
-
-MARY: So lost. . . BILL and MARY: I actually felt sorry about the whole situation. . .
-
-MARY: Then he grabbed me. (She goes back into her version of the scene.) What are you doing?
-
-BILL: I'm not doing anything I haven't done before.
-
-MARY: Listen, Bill, that was before. You have no right to touch me, now or ever.
-
-BILL: I told you before, don't tell me what to do.
-
-MARY: I'm simply asking you to keep your hands off me.
-
-BILL: Since when? Since when do you tell guys to keep their hands off you? You think I didn't hear about you and David? Did you think I'd never hear about it? You can't humiliate me like that and think nothing will happen.
-
-MARY: What I do now is none of your business. We broke up. Get over it.
-
-BILL: You bitch. You really imagine I can get over us? I never will. You belong to me, now and forever. (He goes to grab her and freezes.)
-
-MARY: (Coming out of the scene) I knew I was in big trouble. . .
-
-BILL: (Coming out of the scene) Trouble. The girl is trouble.
-
-MARY: He was grabbing me, touching me; it made my skin crawl.
-
-BILL: She couldn't keep her hands off me. Every ime I moved away from her, she'd follow me, holding me. It was freaking me out. I couldn't get away from her.
-
-MARY: (Back in Bill’s version) The phone never rang. But now you're here and everything will be OK. Won't it?
-
-BILL: Listen, Mary. We broke up. You need to get over it. Move on.
-
-MARY: Oh, like you have? I heard about you and Caroline. Did you think I wouldn't? Did you think I'd do nothing about it? You can't humiliate me like that and think nothing will happen?
-
-BILL: What I do now is none of your business. We broke up. Get over it.
-
-MARY: You bastard. You really imagine I can get over us? I never will. You belong to me, now and forever. (She goes to grab him and freezes.)
-
-BILL: It was always that way with her. . .
-
-MARY: He was always like that. . .
-
-BILL: Accusations. . .
-
-MARY: Insinuations. . .
-
-BILL: Constant little remarks. . .
-
-MARY: Little remarks that always sounded like a threat. . .
-
-BILL: A threat. I never knew what she'd do. . .
-
-MARY: He'd do the most bizarre things. . .
-
-BILL: Things that didn't make sense. . .
-
-MARY: Ever since I broke up with him, he's been weird, scary weird. . .
-
-BILL: Ever since I broke up with her, it's scary, how she is. It's hard to explain. . .
-
-MARY: I can't explain it.
-
-BILL: (Back in MARY's version) I'll never let you go. You know that, don't you? Never.
-
-MARY: Bill, I don't know what you expect from me. We were together a long time and our relationship ended. You knew it would. I couldn't allow myself to be treated the way you were treating me.
-
-BILL: I treated you how you deserved to be treated. You asked for it.
-
-MARY: I asked for it? Are you insane? No one asks to be treated like a possession, a thing. I wanted respect and I got abuse.
-
-BILL: I respect people who deserve it. You were a lying, cheating, little slut.
-
-MARY: I never cheated on you. Ever!
-
-BILL: Lying bitch. (He freezes in mid-slap.)
-
-MARY: (She comes out of the scene.) That's how it was - name calling, accusations - then it started into physical abuse. . .
-
-BILL: (Coming out of the scene) The abuse took me by surprise. I mean, what's a guy supposed to do? I've never hit a girl in my life, but when you start getting hit, after awhile you have to defend yourself, right?
-
-MARY: I never did anything. . .
-
-BILL: Nothing would have made me. . .
-
-MARY: He thought it was fine to take any action. . .
-
-BILL: Actions speak louder than words. . . (He goes back into his version of the scene.)
-
-MARY: Why are you here?! Did you come to make me feel worse than I already do? Do you get some sort of perverted pleasure in torturing me?
-
-BILL: Mary, come on. We were together a long time. I'm concerned. I still have some feelings for you.
-
-MARY: Do you? You still have feelings for me?
-
-BILL: I would for anyone I cared about.
-
-MARY: You still care about me?
-
-BILL: Like any friend.
-
-MARY: Friend! Friend! Don't do me any favors. I have all the friends I need.
-
-BILL: I think I better go.
-
-MARY: Fine, get out. (She shoves him.) Go! You son of a bitch. Bastard. (She slaps at him, connecting.)
-
-BILL: (Fending off MARY's physical attack) Hey! That's enough. (He grabs her arms.) Stop!
-
-MARY: (Grabbing his arms, also) Stop! (They both freeze.)
-
-BILL: I told her to stop, but she wouldn't.
-
-MARY: He wouldn't. He wouldn't stop. I didn't know what to do. . .
-
-BILL: What would you do? Just stand there?
-
-MARY: He's bigger and stronger. . .
-
-BILL: She's stronger than she looks. . .
-
-MARY: He grabbed my hands, I couldn't move. . .
-
-BILL: I had to hold her so she couldn't move. . .
-
-MARY: I was so scared. . .
-
-BILL: I was so scared. . .
-
-MARY: It had never been like this before. . .
-
-BILL: Before it had been just her slapping, but now she was, going crazy.
-
-MARY: He was crazy. He pinned me down. . .
-
-BILL: She fell down. . .
-
-MARY: I grabbed whatever I could find. . .
-
-BILL: I felt something hit me on the head. . .
-
-MARY: I hit him on the head. . .
-
-BILL: Things went black, just for a second. . .
-
-MARY: I couldn't see what I was doing.
-
-BILL: Then there was blood in my eyes. . .
-
-MARY: Then his blood fell on my face. . .
-
-BILL: I had to let her go. . .
-
-MARY: He let me go, just for a second. . .
-
-BILL: She got up. . .
-
-MARY: I got up and tried to get away. . .
-
-BILL: She moved. . .
-
-MARY: He grabbed my leg. . .
-
-BILL: I tried to get up. . .
-
-MARY: I fell back against the table. . .
-
-BILL: I couldn't get up. . .
-
-MARY: It was like a slow-motion movie. . .
-
-BILL: Everything just slowed down. Got blurry. . .
-
-MARY: It's all a blur. I hit the table. . .
-
-BILL: I heard a crack on the table. . .
-
-MARY: My head. . .
-
-BILL: Everything was dark. . .
-
-MARY: I could feel the warm sticky blood. . .
-
-BILL: My blood. . .
-
-MARY: My blood. . .
-
-BILL: There was the loud rushing sound of waves. . .
-
-MARY: Waves of nausea. . .
-
-BILL: Waves of fear. . .
-
-MARY: I looked over at him. . .
-
-BILL: I saw her. . .
-
-MARY: Bleeding. . .
-
-BILL: Bleeding. . .
-
-MARY: How did we get here?
-
-BILL: How did this happen?
-
-MARY: I looked and then stared. . .
-
-BILL: I stared. . .
-
-MARY and BILL: And then there was nothing.
+FLORENCE: (looks at the outstretched hand and spits in it)
 ```
 
 ---
 
-## IC-0889: Owl and the Pussycat
+## IC-1283: Personality
 
-- Title: Owl and the Pussycat
-- Author (byline): Bill Manhoff
+- Title: Personality
+- Author (byline): Gina Wendkos and Ellen Ratner
+- Work: Women Heroes: Six Short Plays from the Women’s Project
+- Publisher: Applause Theatre Book Publishers
+- Publication date as stated: 1987
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ELLEN, LORETTE, ELLEN AS JAKE OR RICK OR TONY, GAME SHOW LADY, SPANISH CHA-CHA GIRL, VIDEO GIRL, MISS AMERICA, HOUSEWIFE, WAITRESS
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1935
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Gina Wendkos and Ellen Ratner
+Book: Women Heroes: Six Short Plays from the Women’s Project
+ISBN: 978-0936839226
+Publisher: Applause Theatre Book Publishers
+Date (Month/Year): 1987
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Personality by Gina Wendkos and Ellen Ratner
+```
+
+### Performance text (classify this)
+
+```text
+ELLEN: In America, you look around and you see all these images of people who you should be. People with long hair down to their waist, people with eyes that sparkle, people with clever accents, people who tell witty stories, people who have courage, people who make shyness an art form. There are so many images of people to choose from . . . everywhere.
+
+(Lights up on woman sitting in chair, downstage, lighting cigarette. Her posture and accent is that of "Lorette," her mother, a Jewish cartoon figure of 54 years old. Lorette speaks to imaginary husband "Sol." He is stage left and never seen. Lorette speaks very stylized New York Jewishese.)
+
+LORETTE: In America if you are not famous you are nothing more than a slimy cockroach, and you are quickly forgotten. When you are famous life is easy. Everyone wants to be your friend. They invite you to the right parties, they ask your opinion. Basically it is all of you that is enviable -- your hair, your smile, your figure, your face, your personality, everything. With her personality she should be listening. Ellen, are you listening to me? Ellen! (With a slight change in posture woman becomes Ellen, Lorette's daughter. She is 30 years old, no strong accent.)
+
+ELLEN: Confidence? Please, that's easy. . . let's face it. We're living in New York City. Right? City of heroes. Isn't everyone here exactly the kind of person you want to be? Who should I be? I mean, I get along. I don't have all that much of a problem making friends. No, really I don't. They say, "Hi Ellen, how's life'!", and I say "Hi gang, life is swell." You see that's an attitude you have to have in N.Y.C, that things are swell. Just say it with me, things are swell. See! If you say it enough, it starts to have a nice ring to it. Things are swell. And when things aren't, if you want my opinion, say they are anyway. Because that's exactly what gets you over. There isn't a single person in this city that wants to hear, things suck. (phone rings, Ellen picks up) Hello, hi Ma. Yes, I got the invitation. They're real nice. . .is Eileen happy with them? Well, I'm not sure yet. . . can't I come alone? No one right now. . . there is this one guy, but. . .well, I don't think it's really right, cause we just met. . . yeah, He’s real nice. I'm sure he works. .. I don't know. . . I didn't ask him. . . if we see each other one more time I'll ask him ... about 5'11" maybe 6'. Yeah, he's handsome... like a Robert Deniro type. Ma, what is wrong with Italian? Why would that embarrass you? Tell me. Why?
+
+LORETTE: I remember a few years ago, there was this bar mitzvah. Ellen was a little heavy then. So I said to her whatever you do, do not wear white. What color do you think she wore? White. She looked like a blimp. To this day people from that bar mitzvah still ask me, how is Ellen? Is she still a little chunky'!
+
+ELLEN: I always wanted to wake up one morning with some guy and hear him on the phone. I wanted to lie in bed pretending to be asleep. I’ll move my hair so that it covers the pillow but still shows my face and I'd lift up my hips so my waist looks smaller just like in the photos and I'll listen to this Jake or Rick or Tony guy on the phone, talking to one of his friends.
+
+ELLEN AS JAKE OR RICK OR TONY: "Hey, buddy, how ya doin'? Listen I've got this girl here. Huh? Her name is Ellen. One of those round, hot Italians. Nah, met her on the street. I went up to her and said I've never wanted anyone like you, and she just looked at me and smiled. I knew once I touched her I'd never leave. Yeah, she's really something else. I could get lost in her hair alone, it's so long and gets everywhere but I want it."
+
+ELLEN: That's the kind of conversation I imagine. Then this Jake or Rick or Tony guy would come in and see me posed like that. Even if he knows it's arranged he'll like it. He'll just look at me. Forget the personality for a minute. Sometimes I want to be wanted just for the way I walk.
+
+LORETTE: There are a lot of pretty girls in this world, a lot of competition. So, it would seem to me that, it would be very difficult, if you're not so good looking, to get a man to take care of you. I told Ellen she should get a skill.
+
+ELLEN: Money. Sure, got lots of it. Can't you tell? I never understood how to have money. . . the idea of becoming a career girl always seemed so stupid to me . . . of all the stupid advances of women, that has got to be the worst. What the hell is so liberating about leaving the home and kids for some stupid desk job. . .? (Phone rings and Ellen picks up)
+
+Hello, Hi Mom. Yeah, we had a great time.. Y'know one of those really fun nights, where everything went well. Mom, why do you ask me stuff like that? Cause I think it's sort of personal. No, I am not ashamed. . . it's just really personal. So what if he did? What difference does it make? What if he did sleep over, what does that mean?
+
+LORETTE: Four men is the limit for a woman to sleep with before she gets a bad reputation. Number one is the one you lost your virginity to; it was summer, he had a nice car. Number two, that one's because you kind of forgot what it was like the first time. You were a little nervous. The third one is like practice - makes perfect. You're preparing yourself for number four, the one you're gonna marry. I tell Ellen the number is four. After that they call you a used car.
+
+ELLEN: Pretty strict rules in this woman biz. As a kid it never mattered, you could climb trees and giggle. But now only one of those attitudes is allowed or you don't get over. It's OK. If you want to act tough, then people know who you are . . . on, she's a tough broad, watch out. And it's cool if you have pert breasts and giggle, then people know the score. But make a sexy girl tough and no one knows the right response. So you see, some days I'm a giggly type. I laugh at everything. I'm coy. I'm sweet. I'm available. And other days I'm a tough broad. That's where things get pretty confusing for the world at large.
+
+LORETTE: Ellen. Ellen, Ellen, Ellen. She's thirty years old. She doesn't know what she wants to do with her life. When I was her age, I had two children, a home I could basically call my own and I was president of the P.T.A. Ellen never has any money. I told her a good job for her is word processing. You work in an office, you meet nice people. She won't investigate it. She's lazy and she's sloppy. She is not pretty per se. What man is gonna want her? You know what her problem is? She is not aware. Ellen would never have had such a lousy personality if she listened to me.
+
+ELLEN: And the tension, the tension. It winds me up so bad. I'm pissed off. Real pissed off. So pissed off that I want to start a fight. I’m so finished with being that ugly, skinny little thing. All the Frenchmen in the cafes, all the Italians in the gondolas, all the Indians on the reservations, all the children hiding under the swings, all the old people hiding under wrinkles. It's them, all of them. . . whispering things to me . . . (phone rings) they make me who I am. (Ellen picks up) Hello. No, Ma, he didn't call. . . how do I know? Huh, are you satisfied. . . you said he wouldn't and he didn't. So do you have the balloons out?? Are you throwing a party? Huh? Did you make a cake while you're at it? No, no! I'll say whatever I want at this point. I am sick and tired of hearing how I should do it, how I should say it, how I should act it . . . My personality, Ma. WHAT IS WRONG WITH MY PERSONALITY? WHO DO YOU WANT ME TO BE? HUH? WHO?
+
+(Ellen flashes through a number of “PERSONALITIES”)
+
+GAME SHOW LADY: (Midwest accent) I'm going to be on the 10,000 Dollar Pyramid. I'm so excited. You see I read everything. Books, magazines, backs of cereal boxes. Just ask me anything. "What is the capital of Burma?" "Rangoon." "How does the whojoo bird protect itself?" "Its fur inflates into a protective covering." I know it all. Animal, vegetable, and mineral. They also like me on TV because I have a bubbly personality…
+
+SPANISH CHA-CHA GIRL: (Low-class Spanish accent) Maria, conyo, Julio, si. I love this place. Mongo Santa Maria (dances and sings) Julio get me a gin and tonic. Julio, he's my boyfriend. He and I are going to be in a contest and we're going to win. Julio thinks the prize is fifty dollars but I'm going to surprise him. The prize is going to be me. And I'm not going to use birth control. So that way I get the ring, the car, and Julio.
+
+VIDEO GIRL: (Brooklynese accent) Hey, hi guys, hi Rusty. How ya doin'? Slap me five. Hi Pee Wee. How ya doin'? (Pantomimes playing PacMan) Oh boy, 500 points, I don't believe it. Better watch out you're gonna be eaten. Better watch out. Told you. (Makes the sound of Pac Man) See I do this game better than I know anything else. See. People say I could go pro at this game. Then I could quit school.
+
+MISS AMERICA: (Southern drawl; sings "Here She Comes Miss America") Thank you all, thank you so much. It's been a wonderful year being Miss America. I traveled around the world and saw so many underprivileged people. You should see how these poor darlin's live. They have animals right in the house, So I turned and said (sings) "We are the world. We are the children." That's just one of the many things I've done as Miss America.
+
+HOUSEWIFE: (Nancy Reagan accent) I take pride in the things I do. Every single one of them. Some women keep their homes in horrible condition. They serve jelly from the jar and it develops and unsightly crust around the rim. Oh yes, and they use paper napkins. REALLY! Paper napkins. (screams at kids) TOMMY, JIMMY, GET AWAY FROM THAT REFRIGERATOR BEFORE I CUT YOUR HANDS OFF. (resumes Nancy Reagan personality) I use cloth napkins only. I have several patterns. Checkers, stripes, floral prints, even polka dots.. (screams at kids) DID YOU HEAR WHAT I SAID? GET UPSTAIRS WITH YOUR BROTHER.
+
+WAITRESS: (low-class urban accent) Hi, hon, coffee? How ya doin' today? What's it gonna be? Whole wheat, white or rye? Cole slaw or French-fries? Anything to drink? Coke. Here you go.. I run this counter like clockwork. By the time they have their cigarettes out of their pocket I get a cup of java in front of their face. (ding) When I hear that bell I run. I don't care what anyone says anything made with cheese gets soggy under these lights. I have a lot of miles on these feet. But when my customers come in they know they're gonna get quick courteous service. Not many people give you that at all.
+
+(Medley and frenzy of characters blends into a cacophony of all characters until final frenzy-woman switches accents and characters.)
+
+GAME SHOW LADY: uh. (buzz) Kentucky. Tennessee I always get that one right.
+
+SPANISH CHA-CHA GIRL: What do you mean you're dancing with someone else Julio?
+
+VIDEO GIRL: Hey, what's the matter with this machine? I never lose my quarter.
+
+MISS AMERICA: Let me keep the crown just one more year. I promise I'll give it back. Just one more year.
+
+HOUSEWIFE: I only have paper napkins. I only have paper napkins.
+
+WAITRESS: What do you mean my coffee is bitter? This is a fresh pot. Why don't you go somewhere else buddy?
+
+(Frenzy flip out-shaking-etc. Pause, breathe. Switch to ELLEN)
+
+ELLEN: What is a personality? Huh Ma? What is a personality? So, I said to the Frenchmen in the cafes, the Italians in the gondolas, to the Indians on the reservations, so I said to her, I'm lazy, I'm sloppy, and I have flat feet. Take me or leave me. Hopefully she'll take me.
+```
+
+---
+
+## IC-1284: POTUS
+
+- Title: POTUS
+- Author (byline): Selina Fillinger
 - Work: Not specified
 - Publisher: Samuel French, Inc.
-- Publication date as stated: October 1965
-- Event as filed: Duo Interpretation
+- Publication date as stated: Aug 2022
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: DORIS, FELIX
+- Speaker labels in the text: CHARACTERS, SETTING, JEAN, HARRIET, MARGARET, CHRIS FROM THE TV, CHRIS, DUSTY
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1420
+- Spoken words (computed): 1479
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Bill Manhoff
-ISBN: 0573613540
+Author: Selina Fillinger
+ISBN: 978-0573709999
 Publisher: Samuel French, Inc.
-Date (Month/Year): October 1965
+Date (Month/Year): Aug 2022
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTRESS: Felix is a "writer". He also considers himself an intellectual. He is snobby, elitist, and finicky.
+One four-letter word is about to rock 1600 Pennsylvania Avenue. When the President unwittingly spins a PR nightmare into a global crisis, the brilliant and beleaguered women he relies upon risk their sanity to keep the commander-in-chief out of trouble.
 
-ACTOR: Doris is a prostitute who lives across the alley.
-
-ACTRESS: Felix has basically been spying on Doris with binoculars -- he tells the landlord of her building about her extra-curricular activities and Doris gets thrown out of her apartment.
-
-ACTOR: She finds out that Felix is the one who turned her in - so she comes knocking on his door, dragging a suitcase and her television set - demanding that he put her up until she can find a new place.
-
-ACTRESS: The relationship progresses and Felix decides that Doris is train-able - he starts giving her little tasks - she is supposed to look up a word a day in the dictionary and then use it in a sentence.
-
-ACTOR: Not exactly a match made in Heaven . . . but for Doris and Felix it seems to work
-
-TOGETHER: The Owl and the Pussycat by Bill Manhoff
+For any woman who’s ever found herself the secondary character in a male farce . . . This is POTUS by Selina Fillinger
 ```
 
 ### Performance text (classify this)
 
 ```text
-DORIS: Read me your story.
+CHARACTERS: Harriet (Chief of Staff), Jean (Press Secretary), Margaret (First Lady), Chris
 
-FELIX: (Picks up typewriter script) You won’t like it.
+(a journalist), Dusty (POTUS’ pregnant dalliance)
 
-DORIS: I’ll love it.
+SETTING: The White House – Perhaps not the current administration, exactly, but broad strokes of past presidents combined with stress dreams of future ones. And if we’re being honest, an amalgamation of them all . . .
 
-FELIX: (Reading.) Scream –
+JEAN: (Pg 1- 3) He said the words, “My wife’s a ****?” (expletive should be mouthed or indicated with a broad gesture rather than spoken) (beat)
 
-DORIS: “Scream.” That’s the title, right – “Scream.”
+HARRIET: He said, “Please excuse my wife’s absence. She’s having a *****-y morning.”
 
-FELIX: Yes.
+JEAN: Publicly? Who exactly was there?
 
-DORIS: That’s a wild title.
+HARRIET: Washington Post, CNN, New York Times, BBC, and three Chinese diplomats. Everyone heard it, everyone got it, two people gasped.
 
-FELIX: Thank you. (Reads) The sun spit morning into Werner’s face – one eyelid fluttered – dragging the soul back screaming from its stealthy flight to death –
+JEAN: Well, that’s not so bad.
 
-DORIS: The sun spit morning into this guy’s face?
+HARRIET: Wow.
 
-FELIX: Yes.
+JEAN: It’s not! We can contain that. We all have ****-y mornings sometimes. My son has them every week.
 
-DORIS: You were right.
+HARRIET: Margaret wasn’t absent, she was in the room.
 
-FELIX: When?
+JEAN: Why didn’t he see her?
 
-DORIS: I don’t like it. I hate it. The sun spit morning into his face! What right do you have to put down a terrible thing like that in a story – “The sun spit morning in a man’s face.”
+HARRIET: She was sitting.
 
-FELIX: All right - - you don’t like it – but calm down.
+JEAN: And therefore invisible?
 
-DORIS: You know what you are? Your inflabious (hic)
+HARRIET: He was standing, so the diplomats felt like it would be rude to sit, so they were all standing in front of her, blocking his view.
 
-FELIX: Inflabious?
+JEAN: He stood for the entirety of the meeting?
 
-DORIS: Yeah
+HARRIET: He can’t sit right now because of (pause) the thing on his . . .
 
-FELIX: What does that mean?
+JEAN: The abscess on his – right. I thought they were removing it.
 
-DORIS: (thumbing her nose.) Ah ha! How does it feel? I’m not gonna tell you!
+HARRIET: They couldn’t because (Pg 4-5) he’s booked, Jean! His friend Jerry, from college, said he had the same thing and he should just rub tea tree oil on it.
 
-FELIX: You just made up a word?
+JEAN: (Pg 6) I don’t want to know! (Pg 11) I’m going into the press room right now and (Pg 6) I’m trying to figure out if my biggest problem today will be explaining why the President of the United States used the word ***** to describe his wife to three diplomats – OR if there is something MORE awful I need to know about.
 
-DORIS: How do I know you’re not making up yours?
+HARRIET: (Pg 11) (with a week cheer) Go get ‘em! Wooohhh!
 
-FELIX: Mine are in the dictionary.
+JEAN: Oh, shut up . . .
 
-DORIS: That’s your story!
+MARGARET: (Pg 7) (seething) I’m gonna punt that man’s abscessed ass across the South Lawn and if you don’t get out of my way I will shred you like the sad cardigan you are.
 
-FELIX: I suppose it never occurred to you that as an alternative to getting angry, you might make some attempt to understand whatever it is that confuses you?
+HARRIET: (Pg 9-10) (blocking the door) He didn’t mean it. He’s in a lot of pain and it’s clouding his judgment.
 
-DORIS: Why? Why should I? What about people making some attempt to not confuse me? (hic)
+MARGARET: Dammit, Harriet, you cannot prevent me from having a marital discussion with my husband!
 
-FELIX: Because progress does not lie in the pampering of the brainless.
+HARRIET: I absolutely can, especially today, when he has a nuclear non-proliferation meeting, a gubernatorial candidate endorsement and an oozing pustule on his . . . I finally got him calmed down from your argument this morning
 
-DORIS: Drop - (Hic) dead! Damn it!
+MARGARET: It wasn’t an argument
 
-FELIX: Hold your breath
+HARRIET: When you told him to stop behaving like his father, grow a pair and have the procedure without anesthesia?
 
-DORIS: Hold yours . . .
+MARGARET: I had two natural births and one root canal with no drugs, he can certainly
 
-FELIX: Maybe you can hiccup yourself to sleep.
+HARRIET: (Pg 57) Wait! I can’t hear the TV!
 
-DORIS: You better not be so funny – people have been known to – (His) die from the hiccups.
+CHRIS FROM THE TV: . . . President reportedly stormed out of the nuclear non-proliferation discussions after a fiery exchange with the Prime Minister of Bahrain.
 
-FELIX: Drink a glass of water.
+HARRIET: No, no, no!
 
-DORIS: That never works with me. Only one thing words with me – you gotta scare me.
+CHRIS FROM THE TV: Sources within the White House say the President refused to sit for the duration of the negotiations, which the Prime Minister and several other world leaders interpreted as, quote ‘an aggressive power move.’ The Prime Minister says there will be, quote, ‘regretful consequences.’ ****** FLOTUS interview with CHRIS*****
 
-FELIX: How the devil am I gonna scare a holy terror like you?
+MARGARET: (Pg 25-26) Well there is no typical, Chris. My daily work is determined by the ever-shifting needs of my five non-profits, two children, and of course, one and only president. The truth is, even before I was First Lady, after graduating from Stanford and then Harvard, I managed to keep busy with my law firm, my talk show, my book, my other book, my gallery and Taekwondo.
 
-DORIS: (Hic.) I get them very deep – it’s a strain on the heart, so stop fooling around and scare me – (Hic.) or I’ll scream (Felix turns and walks around the sofa – suddenly pounces with clawed hands snarling like a tiger.) O come – (Hic) on! (Felix drops down behind sofa – Doris hiccups twice. Felix suddenly appears on all fours around the end of the sofa rising menacingly and hissing like a asnake.) It’s no use. I was expecting it. You have to do it when I’m not – (Hic.) expecting it.
+CHRIS: (joking) Why aren’t you president? (they both laugh for a moment then fall into silence) ****** In the Hallway*****
 
-FELIX: Oh, that’s ridiculous! How can I do that? You’re waiting for me to frighten you.
+DUSTY: (Pg 28) (flags down Jean who is in a rush) Wait, hi, hi, I know you, you’re on TV!
 
-DORIS: Well, mate me – (hic.) forget about it – stupid. Then when my mind is on – (Hic) something else – then do it.
+JEAN: Ask one of the other interns . . . I can’t
 
-FELIX: When your mind is on something else!
+DUSTY: Could you just point me towards the president? I’m Dusty. (Pg 18) I was told to be discreet. I’m here about the position. (she winks)
 
-DORIS: Of course, stupid! Change the subject – put me off my – (hic) guard.
+JEAN: (Pg 29) You’re meeting with Harriet? (struggling to comprehend) But you’re here to see the president?
 
-FELIX: Some weather we’re having. It’s a wonderful summer, isn’t it?
+DUSTY: He sent a private jet! I’m only here until tomorrow night and then I’m flying back to the farm.
 
-DORIS: Beautiful (Hic)
+JEAN: Hang on. . . The farm?
 
-FELIX: I think it’s quite a bit warmer than it was last year at this time Don’t you?
+DUSTY: In Iowa.
 
-DORIS: Come on, will you – you want me to hiccup to death? (hic)
+JEAN: (with dawning horror) And you’re pregnant.
 
-FELIX: I’m putting you off your guard!
+DUSTY: Eighteen weeks! Big as a bell pepper.
 
-DORIS: I’m off my (hic) guard by now. Stupid!
+JEAN: (Pg 30-31) (to herself) What’s happening – how is this happening!
 
-FELIX: You’re expecting it now.
+DUSTY: The president and I are in love . . .
 
-DORIS: I am not (hic) Com on, will you! (Felix gives a hideous roar. Doris looks at Felix for a second, then) You’re right. I was (hic) expecting it.
+JEAN: LOWER your voice, oh my god. SHUT UP!
 
-FELIX: Listen – I’m through- I’m finished – I’m exhausted. I just don’t care. I’m going to bed! (Felix exits to bedroom. Doris turns facing audience)
+DUSTY: (Pg 37) Ma’am, I’m going to need you to take a deep breath
 
-DORIS: Dirty (hic) fink! (Behind her Felix creeps on tiptoe from the bedroom) Rotten (hic) pervert. I could die for all he cares (hic). I could die right . . . (Suddenly Felix growls and puts his hands around Doris’ neck. Doris jumps in terror. She turns and clouts Felix in the face)
+JEAN: YOUR NAME IS AN ADJECTIVE: DON’T TELL ME WHAT TO DO!
 
-FELIX: What’s the idea!
+HARRIET: (Pg 34) (entering) What the hell is going on here?
 
-DORIS: You wanna give somebody a heart attack? You maniac, you wanna kill me?
+JEAN: (Pg 38-39) YOU are Chief of Staff. YOUR job is to contain situations. I’m the PRESS SECRETARY. MY job is to contain STORIES, and I can’t contain stories if I don’t KNOW the STIUATION, so perhaps you’d like to explain THIS SITUATION. (she motions to Dusty’s pregnant belly)
 
-(Felix takes a deep breath, calms himself and then changes the subject)
+(The door to the interview room opens and CHRIS and MARGARET enter the hallway- Chris immediately turns on her phone to record)
 
-FELIX: How many times did you say you used the dictionary today?
+MARGARET: (Pg 40) (regarding DUSTY) What is this?
 
-DORIS: I don't know.
+HARRIET: (Pg 42) No, no, no, no . . .
 
-FELIX: Please go over to the dictionary and look at it closely.
+MARGARET: If you think you can show up here, unannounced and blackmail the president
 
-DORIS: [Doris goes and looks at the dictionary] What am I supposed to see?
+DUSTY: What? No, POTUS invited me. I’m here to celebrate our little president-to-be.
 
-FELIX: Look at the edges -- at the top --
+CHRIS: (Pg 14) (softly into her phone) I don’t need to stir shit up: we got a president throwing his feces at the wall.
 
-DORIS: What's this? [Peeling off a strip of scotch tape]
+JEAN: (Pg 42-43) Oh shit.
 
-FELIX: That is a strip of Scotch tape. It's been there for two days. Undisturbed. Where were you this afternoon?
+DUSTY: When I sent him a pic of the ultrasound he texted me that I should come in to celebrate.
 
-DORIS: That's such a nasty thing to do.
+HARRIET: Nope, that was me. POTUS is really busy, so you and I are just gonna have a quick little chat and
 
-FELIX: Where were you yesterday afternoon?
+JEAN: (whispers to Harriet) Here . . . You’re doing this IN the White House?
 
-DORIS: I do not care for the tone of your voice.
+HARRIET: (whispers to Jean) Where else am I gonna do it? A back alley? You don’t think that’d make her a bit suspicious? (to Dusty) Okay, honey, here’s the thing: as much fun as I’m sure you and the president had together.
 
-FELIX: Where did you get the dirty but brand new radio?
+DUSTY: We’re in love.
 
-DORIS: I'm warning you -- stop it -- this warning will not be repeated.
+MARGARET: (cackles bitterly)
 
-FELIX: We're not going to fight anymore. We're going to have an honest unemotional discussion.
+HARRIET: The thing is this pregnancy is not, um. Happening. (Pg 44) See, the way it works is we give you money and, in exchange, the pregnancy isn’t – it it it goes away. We’re talking about the President of the United States, right? The married president.
 
-DORIS: Yeah? So you start out by calling me a liar.
+MARGARET: (cackles bitterly- to Harriet) (Pg 9) Your loyalty to my husband is admirable. I hope you continue to feel fulfilled by your choice to trade youth and beauty for a life of service to him.
 
-FELIX: I did not call you a liar. I'm not going to lose my temper.
+HARRIET: (Pg 44) (ignoring Margaret) Do you see how that could make from some icky headlines?
 
-DORIS: You might as well. I'm gonna lose mine!
+CHRIS: (Pg 12) (into her phone) What a time to be alive, isn’t it! (suddenly everyone notices Chris who has been recording everything with her phone - Pandemonium ensues – a wild and epic chase)
 
-FELIX: Would you care to tell me what's wrong?
+MARGARET: (Pg 45-47) GET HER!
 
-DORIS: What's wrong? You're a creep that puts scotch tape on the dictionary -- you know that word -- "creep"? Used in a sentence: "Fred Sherman is a big creep".
+JEAN: I GOT HER PHONE!
 
-FELIX: [starting at "Fred"] What did you call me?
+HARRIET: DON’T LET HER LEAVE!
 
-DORIS: It's your name. Fred -- Freddie -- I thought that would jar your apricots! I found your yearbook from school -- Fred Sherman. You didn't tell me you changed your name, did you? You creep. I'm sorry -- pardon my language, but you are a creep.
+CHRIS: (grabs a bust from a pedestal in the hallway and raises it over her head) Give me my phone and get out of my way or I will break this into a million pieces
 
-FELIX: It's all right -- it's a step up from "fink". Congratulations -- now -- I'd like to hear why you feel you have to sneak out afternoons and lie to me.
+MARGARET: That is notable suffragist Alice Paul!
 
-DORIS: I just got bored. I had to get out. Look -- I tried. I tried working on hats. I tried looking for a job, right? I tried.
+CHRIS: I will break her ugly face! . . . One . . . Two . . . Three
 
-FELIX: Have you been plying your old trade?
+(she hurls the bust just as the office door opens. It sails through the doorway offstage. There is a thunk of the bust colliding with an unseen person’s head and the thud of a body hitting the floor. Silence – The women are frozen in shock sharing through the open door at the body on the ground)
 
-DORIS: Have I been what? No, I haven't. I told you I was through doing that.
+DUSTY: (Pg 48) YOU KILLED HIM. YOU AND YOUR MEAN FRIENDS KILLED MY LOVE!
 
-FELIX: Where'd you get the radio?
+CHRIS: I’m going to go away for life. They’re going to send me to Guantanamo!
 
-DORIS: I collected some money. Somebody owed me some money and they paid me.
+MARGARET: (Pg 50) Chris, stand up. Jean, go tell the secret service that the president is going to be a bit.
 
-FELIX: I see. Why didn't you tell me that?
+CHRIS: A bit? He’s going to be more than a bit.
 
-DORIS: Because I knew you wouldn't believe it. I knew what you'd think.
+MARGARET: Oh, I’m sorry, do you have a better idea? Because I though your contribution ended at death by discus!
 
-FELIX: I see.
+HARRIET: Now, Jean, before we go down in history next to Booth and Oswald!
 
-DORIS: Dont' say "I see", like you were looking through your lousy spy glasses. Listen -- why don't you stop trying to make out like you're a human being? I mean the strain must be terrible -- why don't you just relax and admit you're God and you know all about everything?
+CHRIS: (Pg 52) This is a matter of national security! We need to notify the vice president right now.
 
-FELIX: Why did you have to lie? I just want to know why you lied to me about going out and about looking up words.
+MARGARET: That man is as useful in a crisis as a turnip.
 
-DORIS: Because I'm a liar, okay?
+CHRIS: Someone else, then. We murdered the president.
 
-FELIX: Why didn't you tell me?
+JEAN: You mean YOU murdered the president.
 
-DORIS: Why didn't you tell me you changed your name from Fred to Felix?
+CHRIS: Don’t. You. Dare. If he was doing his job he would be across the White House right now making peace treaties! He should not be living in this house, he should not be running this nation and you know it! He’s the pyromaniac, but you gave him tmatches. You figured he’d burn his fingers and learn his lesson – Well he didn’t, and now the whole world is on fire! So we douse those flames, or we will burn in them together, but don’t think for one second I am marching to that stake by myself!
 
-FELIX: [ignoring her question] I'm very sad. You had a chance to do something important for yourself and you're quitting. You're not giving yourself a chance.
+DUSTY: (inspired) Why isn’t SHE president?
 
-DORIS: I gave myself a chance -- you had me going there for a while, but it's silly. I'm a dope and that's all there is to it.
+JEAN: (launches the plan) (Pg 58-59) We can still contain this. Stay visible, don’t talk to each other. Then tonight, right when he’s supposed to be onstage for his speed, POTUS will be found with a suicide note in his hand. He was unwell. He can’t be responsible for his words, or his actions, he can’t be held to etiquette – he was sad!
 
-FELIX: You're not a dope. You're a bright girl.
+HARRIET: (sobbing) It’s too much. I’m too tired
 
-DORIS: Not when it comes to dictionaries and the history of philosophy, I'm not.
+JEAN: This is what you do, Harry. You’ve done it for years. You clean up his messes, you make excuses, you do his job and then you wake up and do it all over again. But what if this is the last mess of his you ever have to clean? ****** Dream vision of Harriet, Jean and Margaret in control******
 
-FELIX: You have a potential capacity for --
+HARRIET: (Pg 61) (on the phone) What do you mean, “Why would Norway involve itself? Because that’s what allies do. You back us and in exchange we give you things that Norway needs, like peanut butter and genetic diversity . . .
 
-DORIS: No, I don't have any potential anything.
+JEAN: (addresses the press) Do I seem worried? No, like I said, the talks did not stall, they just broke for lunch. No, Eric, don’t speak until I call on you . . .
 
-FELIX: [losing the fight against his temper] Don't interrupt me -- who do you think is better qualified to judge mental capacity -- you or I?
+MARGARET: (Pg 67) (addressing the press) Which is why it is with great pride and joy that the president and I endorse Leslie Hopper as the next governor of . . . ****** Dream ends – back to reality******
 
-DORIS: You --
+JEAN: (Pg 77) We can’t just leave the body . . . What if something happens to it?
 
-FELIX: Then why are you arguing with me?
+HARRIET: What’s he going to do – stand up and walk out? (a long loud moan from the president - the women scream)
 
-DORIS: Felix, I --
+MARGARET: (Pg 84) He’s awake! (long beat, then to audience) We told him he took too many pain meds, backed out and hit his head. Idiot totally bought it.
 
-FELIX: Would I be wasting my time with you if you didn't have a brain?
-
-DORIS: Felix --
-
-FELIX: Do you think an intellectual such as myself would waste his time with a dumbbell?
-
-DORIS: Felix, I know myself -- you can't tell me --
-
-FELIX: I tell you you're a very intelligent girl, and you'd know it yourself if you weren't so damned stupid!
-
-DORIS: I am not stupid! I've got good healthy everyday brains. I haven't got your kind of brains and I'm glad, because I'm gonna tell you something -- I think your brains are rotten!
-
-FELIX: Ah -- the cat turns inevitably and bares her atavistic fangs.
-
-DORIS: To use those ugly, lonely words nobody else uses -- that's all your brains are good for. To keep people away because you're scared to death of people!
-
-FELIX: She spits in inarticulate fury!
-
-DORIS: You know what your brains are good for? To make up your own lousy little language that the rest of the world can't even understand.
-
-FELIX: Well, all right -- stay with the rest of the world -- don't let anybody make you a foreigner there by teaching you to speak the English language!
-
-DORIS: [going to closet] What a dope I was to listen to you. [Mimicking him] I'm gonna save you, Doris! [In her own voice] You are such a phony. I can't believe it. You don't write for money but you keep sending your junk to magazines, don't you? And you keep getting it sent back, don't you? Meanwhile all you got is a phony job, a phony girlfriend, a phony apartment and a phony bunch of words. [she has taken the suitcase from the closet and started to throw garments into it as she talks]
-
-FELIX: What are you doing?
-
-DORIS: What does it look like I'm doing?
-
-FELIX: Now don't get washed away. Think, Doris, try to understand one basic thing. Try to hold on to what I see in you.
-
-DORIS: [Yelling] You see nothing! You don't see me at all! You don't see anything. Because even your eyes are phony! You are now and forever, a miserable magazine peddler named Freddie Sherman and a lousy writer and you always will be and you wanna know why --? [Hitting him deliberately with every word] Because, The -- sun -- does -- not -- spit!
+HARRIET and JEAN: *****! (beep can censor this expletive)
 ```
 
 ---
 
-## IC-0890: People, Places and Things
+## IC-1285: Property of the Rebel Librarian
 
-- Title: People, Places and Things
-- Author (byline): Duncan Macmillan
+- Title: Property of the Rebel Librarian
+- Author (byline): Allison Varnes
 - Work: Not specified
-- Publisher: Oberon Books
-- Publication date as stated: March 2016
-- Event as filed: Duo Interpretation
+- Publisher: Random House Books
+- Publication date as stated: Sept 2018
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: ACTRESS, DOCTOR, EMMA, THERAPIST, MEREDITH, TOGETHER AS GROUP, LAURA, PAUL, MARK
+- Speaker labels in the text: ANNOUNCEMENT, JUNE, DAD, MOM, STUDENT, OFFICER, MR. BEELER, MR. HAWKINS, MOIRA ROBERTS, SCHOOL BOARD CHAIR
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1676
+- Spoken words (computed): 1780
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Duncan Macmillan
-ISBN: 978-1783199099
-Publisher: Oberon Books
-Date (Month/Year): March 2016
+Author: Allison Varnes
+ISBN: 978-1524771478
+Publisher: Random House Books
+Date (Month/Year): Sept 2018
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTOR: Recovery from an addiction is a journey between life and death that can only be walked one day at a time.
-
-ACTRESS: Life has to win every single day.
-
-ACTOR: And death only has to win once.
-
-TOGETHER: People, Places and Things by Duncan Macmillan
+Property of the Rebel Librarian by Allison Varnes
 ```
 
 ### Performance text (classify this)
 
 ```text
-Suggested Roles: ACTOR: Doctor, Therapist, Paul, Mark
+ANNOUNCEMENT: (Pg 59) Effective immediately, Dogwood School Libraries will no longer house texts that contain profanity, drugs, violence, rock/rap music, witchcraft, drinking, smoking, or rebellion of any kind. They are hereby banned for unsupervised distribution. Students in possession of unapproved texts will face disciplinary action. Teachers in violation of this resolution will be terminated.
 
-ACTRESS: Emma. Meredith, Laura
+JUNE: (Pg 58) Since when does this school get so worked up about books? (Pg 59-60) I’m going to be sick. I mean, who thought books would be cause for punishment? (Pg 2-4) I walk home from school (June opens the door to her house and is confronted by her father)
 
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
+DAD: (holding up a book) Would you care to explain this?
 
-DOCTOR: (Pg 24-27) Nina? Nina? (No response) Excuse me, hello.
+JUNE: (shrugging) Um, it’s a book?
 
-EMMA: (jittery, nervous, obviously under the influence) Sorry. Yes, that’s me.
+DAD: (disapprovingly) Yes, The Makings of a Witch. One that we don’t approve of. What concerns me more than anything is that it’s from the Dogwood Middle library, of all places.
 
-DOCTOR: Great. (reviews the intake form) Your name is ‘Nina” and you’re an alcoholic and drug addict.
+JUNE: (to audience) I can’t watch TV or use the family computer without someone looking over my shoulder, but books have always been safe. (to Dad) Dad, if you’d just . .
 
-EMMA: This was a mistake.
+DAD: No. This sort of thing won’t happen again. You’re grounded. No TV. No phone. No internet.
 
-DOCTOR: You’re not an alcoholic and drug addict?
+JUNE: What? (Pg 8) Being grounded for reading? That’s a new one.
 
-EMMA: I’m not saying I’m anything. I just want to get clean, get my certificate and go back to work.
+JUNE: (Pg 30) I haul my bags up to my room. (she reacts with shock) The bookshelf in the corner. It’s empty. Every. Single. Book. Gone. (racing downstairs) What did you do with my books? (Mom and Dad are reading her books)
 
-DOCTOR: Certificate?
+DAD: They’re in safekeeping until we can make sure they’re quality reading material. You will request books through us. If we have read a book and approve, we will release it to you.
 
-EMMA: A piece of paper or a signed whatever, something that says I can work. That I’m not a risk.
+JUNE: What? You can’t be serious! (June exits in huff)
 
-DOCTOR: Once you complete the grogram we can . . .
+MOM: (Pg 33) I never dreamed we’d need to monitor kids’ books. The look on her face. Our child hates us.
 
-EMMA: (interrupting) How long will that take?
+JUNE: This doesn’t make sense. Nothing makes sense.
 
-DOCTOR: It varies. First, I’ll need to see your results and take a history and psychological examination. (consulting the form) Benzodiazepine, Lorazepam.
+DAD: Our house, our rules. She’ll get over it. *****Scene – The Next Day at School*****
 
-EMMA: Valium, yeah. For anxiety. It’s a prescription.
+JUNE: (Pg 56-57) [The next day when I get to school] two moving trucks are parked in the pickup/drop-off circle. I wander off to the library. CLOSED FOR INVENTORY – and the door is locked. I’m about to turn away when the door creaks open, revealing a heaping cartload of books behind it. I hold the door while two older men wheel the cart into the hallway. Then I slip inside. The space is almost unrecognizable. Huge gaps linger on the shelves where large quantities of books used to be. Dad! What are you doing?
 
-DOCTOR: Detoxing from benzos takes about ten days. You’ll start tonight and tomorrow morning you can begin with Group.
+DAD: It’s called a book extraction. It’s necessary for quality control.
 
-EMMA: I don’t need that; I just need the first thing.
+JUNE: (Pg 3) Dad is president of the PTSA, and he keeps his thumb on everything at Dogwood Middle. (Pg 59) Now I’m going to be sick. Just like that, I can’t read a book at home or in the library. (Pg 70) I set off down the hall. (she gazes at the walls) New posters with phrases like COMMUNITY STRONG, PROTECT OUR CHILDREN, and STUDENTS FOR A MORAL FUTURE. It’s signed by the Student Club for Appropriate Reading. SCAR (groans) (Pg 121) There’s a picture of a homeless kid on a street corner smoking and drinking beer. Below it, it says DO YOU KNOW WHAT YOUR KIDS ARE READING? Who came up with this? There isn’t even a book in the picture. (she rips it down, wads it up) *****Scene – The Next Day *****
 
-DOCTOR: Nina, the Group is the program. The truth is that it doesn’t take long to get everything out of your body. It’s the behavior that is the important thing to address. We can’t do that until we’ve dealt with the physical symptoms. Then it’s twenty-eight days of therapy. Ideally, it’ll be closer to ninety.
+JUNE: (Pg 54-55) [Walking to school] the stop sign looms ahead. Except this time, I don’t go where I always go. I turn left onto Maple Lane – the long way to school. Midway down the street, balanced on a tall wooden post, right by the curb is some sort of dollhouse. I’ve never seen anything like it. Below its top two windows, a glass door protects books on the other side. LITTLE FREE LIBRARY is engraved in a metal plate at the top. I feel like I just found a wad of cash, but better. (Pg 269-270) Roll of Thunder, Hear My Cry by Mildred D. Taylor, The Lightning Thief by Rick Riordan, Diary of a Wimpy Kid by Jeff Kinney, Because of Winn-Dixie by Kate DiCamillo, and the first Harry Potter book! (she stuffs the books in her bookbag excitedly)
 
-EMMA: Ninety? No, that’s not possible.
+ANNOUNCEMENT: (Pg 59) (echoing) Students in possession of unapproved texts will face disciplinary action.
 
-DOCTOR: Blackouts . . . Memory loss . . . It says here ‘suicide attempt.’
+JUNE: (Pg 88) But what if nothing is found in my possession? Rule #1: Don’t get caught. (Pg 93) I have to wait until lunch to visit my locker. (Pg 69-70) [When] I slam my locker shut, the impact pops open the locker next to mine – candy wrappers and a few wadded-up balls of paper – nothing else. (Pg 90) And then I stop. [The perfect place for] a library! (Pg 94) (she glances down the hall, clears the debris from the locker and transfers the contraband books from her bookbag into the empty locker) One book can change everything. And I know where I can get more! (she pulls a notebook from her bookbag and a black sharpie she writes) (Pg 98) PROPERTY OF THE REBEL LIBRARIAN (she stands up taller with confidence) (Pg 90) Rule #1: Don’t get caught. I mean it. Rule #2: Don’t squeal. You just found this book. I had nothing to do with it. Rule #3: Give it back to me when you’re done. (Pg 97) I’m going to use code names to keep track of everything. You know, just in case. (she removes the combination lock from her locker and puts it on the new library locker) (Pg 103) Locker 319 is secure! **** A few weeks later****
 
-EMMA: Not a successful one. That’s me. Never seeing anything through. Violin lessons. Diets. Suicide attempts. I never finish what I start.
+JUNE: (Pg 269-270) Bridge to Terabithia. . .The Outsiders. . .Matilda. . .Number the Stars. . . Coraline. (Pg 119) Everywhere I look, kids line the hallways with oversized textbooks in their laps. Lunchtime, after school, their sneakers dangle off sidewalk benches. I don’t have to look to see what they’re doing I already know. Reading! And Dan Fuller, the most popular guy in school, high-fives me in the lobby. (air high-five and happy dance) This is no longer the same Dogwood Middle. It’s an alternate reality where reading is the coolest thing you can do and I, June Harper, am the leader of the cool kids – of the rebellion.
 
-DOCTOR: Your addiction will fight any progress. It’s a parasite and it will fight for its own survival until you’re dead. But progress is possible. I just need to hear you say that you are willing and motivated to make changes.
+6th Grader: (Pg 129-130) (in a whisper) Hey, June? Do you have any Captain Underpants books? It’s not for me. My little brother loves those books, but his school said they weren’t good for kids.
 
-EMMA: I know that the next time I drink or use that’ll be it. I’ll be dead. I’m not sure if I knew that until now, until I just literally just said it. But it’s true. It’s going to kill me. (She rubs her eyes) Yes. I need help. Please help me.
+JUNE: You’re kidding, right. What’s so wrong with a superhero saving the day in his underwear? It’s not going to make kids refuse to put on pants or anything. What did the school think is wrong with them? 6th Grader: They said they were offensive and couldn’t believe something with underpants in the title was in the school library.
 
-DOCTOR: (Pg 39-40) The program works for a lot of people. (Pg 27) Let’s start with your name shall we? Your real name.
+JUNE: Oh no, not underpants! I do declare, what happened to decency? ***** At June’s Home****
 
-EMMA: Emma. (cynical) (Pg 39) If it’s vital to my recovery that I come to believe in a power greater than me – to turn my will and my life over to God and have Him remove my defects of character – if all this depends on me having a spiritual awakening, then we might all just be wasting our time.
+MOM: (Pg 141-143) Honey! Come down here a sec! We thought it was time we return some things to you.
 
-DOCTOR: You’re worried about the steps.
+JUNE: (excited) My books? They’re all here?
 
-EMMA: I’m worried that a trained medical professional can also wear a crucifix.
+DAD: More or less. It took us forever to read them all, but we finally did it.
 
-DOCTOR: I don’t believe the scientific methods disproves the existence of . . .
+JUNE: I have to take them an armload at a time. Ten of them, actually. Surrounded by my collection I sift through the piles. Old Yeller first. One of the pages toward the end feels thicker than the others. A white index card has been glued over the existing page. Travis is supposed to pick up his shotgun here, but instead it reads “And then Old Yeller was cured of rabies and lived happily ever after. That’s it. The rest of the pages have been ripped from the spine. (her jaw drops and she reaches for another book) Diary of a Wimpy Kid -- Card stock glued over the fart jokes. The same edits are in my other books. Someone took great care to cut out tiny black rectangles and past them over certain words. This is exactly what Locker 319 exists! ***** At school****
 
-EMMA: (bitterly interrupting) Of course it does. I really need you to be cleverer than this. Otherwise, I’m going to leave. I’m not powerless. I’m not helpless. I don’t believe addiction is a disease and I’m scared and angered by the suggestion that from now on it’s either eternal abstinence or binge to death. I can’t surrender to a higher power because there isn’t one. There just isn’t. My brother had a brain hemorrhage while reading Pinocchio to a group of five-year-olds. Mark. Hew was two years younger than me and never touched drugs or alcohol. He ran marathons. For charity. I should have died a thousand times, but it was him.
+JUNE: (Pg 195-196) The last thing I want to see when it’s pouring raining and freezing is a line of students waiting to get into the building (to another student) Is there a reason we’re standing out here?
 
-DOCTOR: When did you start using, Emma? (Pg 37) Before you join the Group I need some historical context for your using.
+STUDENT: Some kind of random search. It’s probably about books.
 
-EMMA: (Pg 40-42) If I tell you I was sexually abused or the child of alcoholics, if I tell you I returned from back-to-back tours of Iraq and started to self-medicate; is that the kind of thing you want to hear?
+JUNE: (nonchalantly) Yeah. I heard books have been a big problem lately. (Pg 199-200) (to audience) The line leads to a table staffed by two security officers.
 
-DOCTOR: Is it the truth?
+OFFICER: Bags down first, ladies. One at a time.
 
-EMMA: No. I never had a brother. And he didn’t die in front of children. He died in his car. Or he was stillborn maybe. Or he grew up and died of old age.
+JUNE: A trash bin overflows with novels. My novels. Mr. Beeler, the principal, stands with his arms crossed, his eyes growing bigger with each book added to the pile. They found what they were looking for. ***** AFTER SCHOOL ASSEMBLY****
 
-DOCTOR: Do you lie to protect yourself or your addiction?
+MR. BEELER: (Pg 203) There will be an emergency PTSA meeting Immediately following 6th period today. (Pg 206) We will begin promptly at 3:45. (Pg 209 – 210) As many of you have heard, we collected two hundred forty-two novels from the student body this morning. This isn’t an isolated case of one or two books. This is a – a movement that has gripped out students. All lockers are being searched by the safety committee at this very moment.
 
-EMMA: I can’t base my survival on slogans and abstractions and vagueness. I’m not someone who can do Pilates on a beach and mistake relaxation for spirituality. I spent a year in the Far East, but I didn’t find enlightenment, I found slums and sex tourism. I need something definitive. I need to be fixed.
+JUNE: (covering her smile and faking a yawn)(to audience) They’ll have a field day with Locker 319. No one has any ties at all to the locker. Not even me. Even if the notebook turns up, so what? Our names aren’t in it.
 
-DOCTOR: It doesn’t work like that. It’s a long-term, daily . . .
+MR. HAWKINS: (Pg 212) (rushing in from the back of the auditorium) We found it! (he whispers frantically to Mr. Beeler and hands him a green notebook)
 
-EMMA: I don’t do long-term.
+MR. BEELER: Parents. It appears we have our answer. Locker 319. Unfortunately, there is no registered owner of this locker, which makes the offense even more serious. (Pg 214-215) I had hoped for the name of the person responsible for this. I don’t see one actual student name in this entire book. It’s one thing to run an illegal library on public property. But to write this on the cover? (He holds up the green notebook) PROPERTY OF THE REBEL LIBRARIAN
 
-DOCTOR: You’re going to learn. The strategies you’ve been using just aren’t working. Intellectually inferior as I may be, I’m trying to save your life. Now, sit down. (Emma sits) The Twelve Steps outline the process of recovery. Have you heard the expression “powerless over nouns’?
+JUNE: (looking at the notebook with her best bored expression) There will be no confession tonight. Rule #1: Don’t get caught.
 
-EMMA: Nouns? As in
+MOM: (stiffens and looks over at June, she speaks loudly) Alma June Harper. How could you!
 
-DOCTOR: People, places and things. It’s a rewrite of Step One of Twelve. Instead of declaring ourselves powerless over alcohol or drugs, we admit that we are powerless over people, places and things. People who make us want to relapse, places we associate with using and things that reactivate old behavior. When you’re in recovery
+JUNE: (aghast) My handwriting! *****Scene*****
 
-EMMA: Back in the real world.
+MOIRA ROBERTS: (Pg 217) Hi, I’m Moira Roberts, and this is the news at six. Tensions are running high today in the halls of Dogwood Middle. Classic literature was confiscated on the basis that it was not morally sound for young people. But they couldn’t collect all of it. What school officials did not anticipate is that students would find a way to fight back. Not everyone is in agreement with the limits put on student freedom. But will the school board listen? Find out tomorrow night when I report live at Six. I’m Moira Roberts, and this is your Dogwood. *****Scene*****
 
-DOCTOR: You’ll need to find a way to handle being in those places, with those people.
+JUNE: (Pg 216) Suspension. (Pg 220-221) And the school board is holding an emergency session to deal with everything. My parents have arranged for me to publicly apologize. I’m not sorry. I didn’t commit a crime. I opened a library!
 
-EMMA: And those things. I find reality pretty difficult. I find picking up my phone to be a mammoth struggle. The friends who won’t see me anymore. The bombings and beheadings, the moral ambivalence you have to have to just be able to carry on with your day. Drugs and alcohol have never let me down. There are substances I can put into my bloodstream that make the world perfect.
+MOM: (firmly) What you did was wrong, and when you’re wrong, you apologize. End of discussion. (Cut to school board meeting)
 
-DOCTOR: I can’t force you to stay. I can’t force you to be truthful. I can tell you that the process only works if you are honest. With yourself, with me and with others. Denial is what kills you. (beat) You’ve already come so far Emma. Don’t let that be for nothing. I’d like you to meet the Group. ****** GROUP THERAPY*****
+SCHOOL BOARD CHAIR: (Pg 237) Alma June Harper . . . You have five minutes (June steps to the mic)
 
-THERAPIST: (Pg 43) Hi. I’m Lydia, one of the therapists here. Why don’t you introduce yourself?
-
-EMMA: Er, okay. Hello everyone I’m . . . Emma.
-
-MEREDITH: (Pg 54) I’m Meredith and I’m a Heroin addict.
-
-TOGETHER AS GROUP: Hello, Meredith.
-
-LAURA: Hello, I’m Laura. I’m an alcoholic.
-
-TOGETHER AS GROUP: Hello, Laura.
-
-THERAPIST: (Pg 43-44) Emma, why don’t you tell us about yourself?
-
-EMMA: Seriously? I have to just jump straight in? (Pg 45-47) (Suddenly the door opens and Paul enters, urgently)
-
-PAUL: I’d like to say something to the Group please.
-
-THERAPIST: Mr. Waverly, I’m sorry but your treatment has been terminated. You can’t be in here.
-
-PAUL: (takes a piece of paper from his pocket and reads) I want to apologize to you all with my whole heart. I know that my behavior here was stupid and dangerous. I smuggled in some substances. Ketamine. (he lowers the paper – this is hard for him) But I don’t’ like begging. I was making progress here. I was doing well. Please. Please give me a second chance. I wouldn’t have used if what happened hadn’t happened.
-
-EMMA: What happened?
-
-PAUL: Robert. My fiancé. My partner of eighteen years. Dead. Heroin. I can’t go home again. It’s not real. I don’t want to die. I want it all to stop.
-
-EMMA: (Pg 48) I’m sorry your fiancé died. My brother died too. The week before I came here. Pills. I found him in the stairwell of our building curled into a ball. He cried blood. I wish I’d died instead. I wish I’d died without having to see him dead. We’re the same.
-
-THERAPIST: Paul, you understand you can’t simply re-join the Group.
-
-PAUL: (looks around, laughs bitterly) None of this is real. When you’re sitting here tonight being all serious, think of me out there. I’ll be having the night of my life. (Paul leaves, beat)
-
-THERAPIST: (Pg 55) Would you like to speak to the Group Emma?
-
-EMMA: No.
-
-MARK: (steps up to fill the silence) (Pg 54) [Hello, I’m Mark] I’m a drug addict. (Pg 58) Amends. That’s the hardest part of this whole thing. I can’t forgive myself for a lot of things, so I can’t expect other to. My eldest sister, she was pouring a bottle of Smirnoff down the sink. Vodka to me was like spinach to Popeye. I didn’t know my own strength. I broke her jaw then stamped on her leg, broke her ankle. She forgave me. (he is finding his hard; beat) My gran. She raised me. Cancer. She was in pain and I (big breath in an out, trying to keep his composure) I took her pain relief. I’d hear her calling out. Screaming. And I’d be like ‘sorry Nan. There’s nothing left.’ Now she’s dead so how do I amend for that?
-
-EMMA: (Pg 60-61) (softly) Hello. I’m Emma. I’m an alcoholic and drug addict.
-
-MARK: I’ve seen you onstage a few time. I remember thinking, she’s going to be great.
-
-EMMA: I used to think that too. With a play you get instructions. Stage directions. Dialogue. Someone tells you where to be and when. You get to live the most intense moments of a life over and over again. You get to practice. For weeks. And you’re applauded. Then you leave through stage door. Back to real life. Audition comes in. Never hear back. You try not to take it personally. But you keep going because sometimes, if you’re really lucky, you get to be onstage and say things that are absolutely true, even if they’re mad-up. You get to do things which feel more real to you, more authentic, more meaningful than anything in your own life. You get to speak poetry . . . (From Antigone) When he shall die, take him and cut him out in little stars, and he will make the face of heaven so fine that all the world will be in love with night, and pay no worship to the garish sun. I played Antigone and every night my heart broke about her dead brother. Then my own brother died and I didn’t feel anything. I’m not avoiding talking to the Group because I’ve got something to hide. It’s the opposite. If I’m not in character, I’m not sure I’m really there. (Pg 63) I’m brilliant at being other people and totally useless at being myself. (Pg 61) I’m nothing. (long beat) (Pg 64) (with growing anger) I’d like to believe that my problems are meaningful. But they’re not. There are people dying of thirst. People living in war zones and here we are thinking about ourselves. As if we can solve everything by confronting our own defects. We’re not defective. It’s the world that’s f****ed. (She steps out of the scene and speaks to the audience) (Pg 60) (softly) Hello. I’m Emma. I’m an alcoholic and drug addict. (Pg 87) (sadly) In rehab they tell you: avoid people who make you want to relapse. Places you associate with using and objects that might be a trigger. People, places and things. That’s basically, you know. . . everything.
+JUNE: (Pg 238-240) Adults are always saying how we need to be responsible citizens, but how can we even learn what that means if you put the library on lockdown. I thought about that. And when I found a book I wanted to read, I read it. Then other people asked to read it, so I said yes. It got bigger. Before I knew it, I had dozens of books and an empty locker to put them in. And you know what? Everyone started reading. I’ve never seen more students read at school in my life. All because you said we couldn’t. Are you going to keep punishing the whole school because we thought outside the box you tried to put us in. Will you do it in front of the entire nation? They’re watching. I’m not some troubled kid trying to destroy the community. I am outraged. I am censorship gone wrong. (she takes a deep breath, squares her shoulders, looks directly into the cameras) (Pg 246) I believe in the freedom to read. Most people around here would call that rebellion, so I thought I’d beat them to the punch. Don’t tell me what to read. (Pg 240) I am the Rebel Librarian.
 ```
 
 ---
 
-## IC-0891: Post-Its (Notes on a Marriage)
-
-- Title: Post-Its (Notes on a Marriage)
-- Author (byline): Paul Dooley and Winnie Holzman
-- Work: Laugh Lines: Short Comic Plays
-- Publisher: Knopf Doubleday Publishing Group
-- Publication date as stated: 2007
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: ACTOR, ACTRESS, PS
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1256
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Paul Dooley and Winnie Holzman
-Book: Laugh Lines: Short Comic Plays
-ISBN: 978-0307277138
-Publisher: Knopf Doubleday Publishing Group
-Date (Month/Year): 2007
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Actress: In today’s society, everyone is so busy, it isn’t any wonder than more and more of our communication happens via text message or written message left for our family members to find as we go about our hectic lives. Actor: In Post-Its (Notes on a Marriage) by Paul Dooley and Winnie Holzman, the primary source of communication utilizes that cultural phenomenon of the Post-It. Actress: Here you will find the ups and downs of a relationship that were unexpectedly captured on scraps of paper.
-```
-
-### Performance text (classify this)
-
-```text
-(There is a chair with a small table and a glass if water on either side if the stage, ala A. R. Gurney's Love Letters. The ACTOR and ACTRESS enter simultaneously from either wing, dressed simply. Each grasps a handful if Post-its as if it were a script. They sit, modestly acknowledging each other and the audience. Each takes out a pair of reading glasses, puts them on. 'The ACTOR lifts his first Post-it to begin ... and reads. Every line is read from a Post-it.)
-
-ACTOR: Had an early meeting, couldn't bear to wake you. Close front door hard or it won't lock. PS: Last night was incredible.
-
-ACTRESS: Helped myself to breakfast. You need milk. PS: Next time, wake me.
-
-ACTOR: Hey, sleepyhead. Tried to wake you. Not easy. Left you some coffee, hope you like it black.
-
-ACTRESS: Thought I should spend at least one night this week at my place. Picked up some milk; you don't have to pay me back.
-
-ACTOR: Off to work, extra set of keys on hall table.
-
-ACTRESS: Darling: Went jogging with Lila. If you go out, we need milk. Wow. I can't believe we're a "we"!
-
-ACTOR: Hon: If you have time, could you pick up my shirts? Ticket on hall table. Thanks. PS: Milk.
-
-ACTRESS: Shirts are in your closet. Your mother called. She seemed surprised to hear my voice. You obviously never mentioned me. (Icy.) Your shirts came to fourteen-fifty.
-
-ACTOR: Gone to florist. Back soon. Hope you liked the chocolates.
-
-ACTRESS: Darling, don't go in the den.
-
-ACTOR: Sweetheart, I understand how much it means to you, but at this stage of our relationship I'm just not ready ... to have a dog.
-
-ACTRESS: (After a beat.) We need Milk-Bones. (Next Post-it.) Your mother called; call her. (Next Post-it.) Did you call your mother? (Next Post-it.) Went to lunch with your mother. Back soon.
-
-ACTOR: Your new best friend my mother called. Call her.
-
-ACTRESS: We need milk. Also, your mom mentioned how much you hate Eugene. I don't think Eugene's so bad. You should hear my middle name. Thank God my mother's dead!
-
-ACTOR: Please do not mention the name Eugene to me ever again. Thank you.
-
-ACTRESS: Shopping list: Pistachio ice cream. Sardines. Those tiny little cheeses that come in that cute little net bag .... They're so adorable, they make me cry.
-
-ACTOR: Darling: I understand how much it means to you, but at this stage of our relationship I'm just not ready-
-
-ACTRESS: We need Pampers. And baby wipes. And we need to get married.
-
-ACTOR: Meet me City Hall, six sharp. You bring old and borrowed; I'll do new and blue. Mom will stay with Eugenia.
-
-ACTRESS: Note to self: Find breast pump.
-
-ACTOR: Take cold shower.
-
-ACTRESS: Lose forty pounds.
-
-ACTOR: Redirect sex drive into career. (Next Post-it.) Home late. Don't wait up.
-
-ACTRESS: Hey, stranger, if you're not too busy, could you call Eugenia tonight, around bedtime? Just to see if she recognizes your voice?
-
-ACTOR: Hon: Sorry about your birthday. PS: I got the raise!
-
-ACTRESS: To the new vice president in charge of marketing. We need milk. Please advise.
-
-ACTOR: Hon: I think we're out of milk. (Next Post-it.) Still no milk!
-
-ACTRESS: If you want it so bad, get it yourself The milk train doesn't stop here anymore.
-
-ACTOR: If you can't even manage to get to the store-get some household help!
-
-ACTRESS: (Icy.) Have gone to bed. Dinner is in fridge. If there is something in particular you wish for dinner tomorrow night, please leave note to that effect, and I will have Ursula or Carla or Jose, if it's heavy, pick it up. (Beat.) I can't take this anymore! We barely- (Turns Post-it over.) - communicate! There's got to be more to this marriage than a few hastily scribbled words on a small square of pastel paper! (Beat.) By the way, we're out of Post-its.
-
-ACTOR: You think I want to spend every night at the office? You have absolutely no concept of how a business is run.
-
-ACTRESS: To Whom It May Concern: Regarding your Post-it of June the tenth, allow me to clarify my position-up yours. Eugenia and I will be at your mother's.
-
-PS: You need milk. (The ACTOR glances over at the ACTRESS, she sips her water, coolly avoids his gaze. Finally ... )
-
-ACTOR: Call her at my mother's. (Next Post-it.) Must call her. (Next Post-it.) Reminder: Take out garbage. Call her. (Next Post-it.) People to call: Her.
-
-(The ACTOR looks over again at the ACTRESS. She continues to ignore him.)
-
-ACTOR: Shopping list: Small loaf bread. Half pint milk. Soup for one. (Next Post-it.) Scotch for one. (Next Post-it.) Inflatable doll. (Next Post-it.) Scotch for two.
-
-(The ACTRESS looks at him. He catches her eye. Caught, she hastily looks away.)
-
-ACTOR: Things to tell her. That I'm sorry. That I miss her. That all I want-all I ever wanted-is for her to be happy. (The ACTRESS turns to him, touched by this. Then ... takes the next Post-it. Reads.)
-
-ACTRESS: We need milk.
-
-ACTOR: Dearest-have gone down to the end of the driveway to get the paper. Back soon.
-
-ACTRESS: Honey, that therapist called back. He can see you Monday.
-
-ACTOR: Sweetie, your therapist says your Tuesday is now Friday.
-
-ACTRESS: What a session! Dr. K. believes that part of me is locked in unconscious competition with you, and envious of your masculine role. By the way, we need cucumbers, sausages, and a really big zucchini.
-
-ACTOR: At last-+a breakthrough today with Dr. G. It all became crystal clear. My mother. My father. His mother. You. Your mother. (Turns Post-it over, continues.) I see our entire marriage in a new light! I must free myself from the past so we can truly have a future. This changes everything.
-
-ACTRESS: Hon: A Diet Coke exploded allover that note you left. Hope it wasn't important. (He stares at her. Oblivious to his reaction, she reads the next Post-it.) Took Eugenia to Brownies. Back soon.
-
-ACTOR: Took Eugenia to kickboxing. Back soon.
-
-ACTRESS: Took Eugenia to therapy. Could be a while.
-
-ACTOR: Someone named Olaf called. Needs your resume. What resume?
-
-ACTRESS: I landed the job! I start Monday! (Next Post-it.) Lastminute meeting. I'll try to call. (Next Post-it.) I'll be working late, don't wait up. (Next Post-It.) I'm glad you waited. Last night was incredible.
-
-ACTOR: Drove Eugenia to DMV Hope she doesn't drive me home.
-
-ACTRESS: Eugenia called. Loves college. Mentioned someone named Tyrone. Doesn't miss us at all.
-
-ACTOR: Pick up travel brochures.
-
-ACTRESS: Eugenia called. When can we meet Tyrone?
-
-ACTOR: Schedule trip to campus when we get back.
-
-ACTRESS: Sweetheart: Travel agent called. Cruise is confirmed! The honeymoon we never had! A time for us to leave all this behind and enjoy ten glorious days of total togetherness. (A long, silent beat. Very long. Very silent. They both look straight ahead. Finally he lifts the next Post-it.)
-
-ACTOR: (With great relief.) God, it's good to be home! (Next Post- it.) Dinner Wednesday with Eugenia and what's-his-name.
-
-ACTRESS: Tyrone called-it's a boy. Kareem Eugene.
-
-ACTOR: Eugenia called. Loves being a mom.
-
-ACTRESS: Off to throw pots! Back soon! (Next Post-it.) Don't forget-we're bird-watching Thursday! (Next Post-it.) What night is good for square dancing?
-
-ACTOR: Any night you want-we're free! Nothing to tie us down.
-
-ACTOR: Eugenia called. Could we take Kareem for the weekend?
-
-ACTRESS: Tyrone called. Could we take Kareem for spring break?
-
-ACTOR: Kareem called. Could he spend the summer with us? Again. (Next Post-it.) Took Kareem to DMV
-
-ACTRESS: Honey-last night was incredible. I couldn't believe how long it went on. You've got to do something about your snonng.
-
-ACTOR: Shopping list: Bengay. Dentucreme. Viagra.
-
-ACTRESS: Wrinkles Away. I-Can't-Believe-It's-Support-Hose. Estrogen in a Drum.
-
-ACTOR: We need milk of magnesia.
-
-ACTRESS: Call Medicare.
-
-ACTOR: You left your keys in the door again.
-
-ACTRESS: Do you have my keys?
-
-ACTOR: I can't find my glasses.
-
-ACTRESS: Have you seen my cane?
-
-ACTOR: How can I see your cane if I can't find my glasses?
-
-ACTRESS: Gone for walk.
-
-ACTOR: Where are you? Next time you go out, leave me a note!
-
-ACTRESS: Sweetheart-dinner in oven. Taking nap. Love ya. (There's a pause as lights slowly fade on the ACTRESS. Then ... )
-
-ACTOR: Call Emily. Also cousin Ruthie. Send note to Father McKay and everyone who sent flowers. (Beat.) The service was lovely. Everybody said so. (Beat.) I was looking through your things for that locket you said Eugenia should have. I could hardly believe what I found. You'd saved every Post-it I ever wrote you. I wish I'd saved yours. I could be reading them now. (Beat.) Back soon. Going to the store. We need milk.
-```
-
----
-
-## IC-0892: The Problem
-
-- Title: The Problem
-- Author (byline): A.R. Gurney, Jr.
-- Work: Plays in One Act
-- Publisher: Harper Perennial
-- Publication date as stated: Nov 1999
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: WIFE, HUSBAND, USBAND
-- Teaser before the introduction: No
-- Spoken words (computed): 1599
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: A.R. Gurney, Jr.
-Book: Plays in One Act
-ISBN: 0880014903
-Publisher: Harper Perennial
-Date (Month/Year): Nov 1999
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-(no introduction)
-```
-
-### Performance text (classify this)
-
-```text
-Actress: A pipe-smoking absent-minded Professor hasn't had marital relations with his beautiful young wife for five years, but doesn't seem to notice she is pregnant. He nobly deigns to accept the child as his own. Actor: And that’s just he beginning of . . . The Problem by A.R. Gurney, Jr.
-
-WIFE: Hey.
-
-HUSBAND: (Not looking at her.) I'm reading, dear.
-
-WIFE: (Sticking out her stomach.) I know. But look at me.
-
-HUSBAND: (Still reading.) I'm preparing for a class, dear.
-
-WIFE: I know, but just look. (She crosses to him, stands by his chair, and sticks out her stomach.) Just take a gander. (HUSBAND turns his head and looks right into her stomach. He starts, takes off his glasses, looks again, and then looks up into her face.) Well, well.
-
-WIFE: Yes.
-
-HUSBAND: Surprise, surprise. Why have I never noticed before?
-
-WIFE: Because I wear loose-fitting clothes.
-
-HUSBAND: That's true.
-
-WIFE: Clothes without waists. Merri-mekkos. Sack dresses. Granny gowns.
-
-HUSBAND: That's true. (Pause. They smile at each other. Then he looks at his watch.) I've got to teach a class in an hour.
-
-WIFE: I just wanted you to know. (Pause.) So you could plan.
-
-HUSBAND: Yes. I will. I'll plan accordingly. (Smiles at her again, puts on his glasses, and returns to his book. She starts off left, and then stops.)
-
-WIFE: Oh, there's one thing, though.
-
-HUSBAND: (Reading.) Mmmmmm?
-
-WIFE: One small problem.
-
-HUSBAND: (Reading.) Mmmmmm. And what's that, dear?
-
-WIFE: I don't know whether you've thought about this, or not.
-
-HUSBAND: (Looking up.) State the problem. And I'll tell you whether I've thought about it.
-
-WIFE: It's a little tricky.
-
-HUSBAND: Well. We're married, after all.
-
-WIFE: All right. (Pause.) You see, I'm not absolutely sure that this. . .(She looks down at her stomach.) is yours. (Pause. He marks his place in his book, puts it down carefully, takes off his glasses, and then looks up.)
-
-HUSBAND: Ah. So that's the problem.
-
-WIFE: Yes. That's the problem.
-
-WIFE: The thing is . . . that you and I . . . haven't made love very much. Recently. Well, I mean. . . five years, more or less. . . give or take a month or two.
-
-HUSBAND: (Lighting his pipe.) My gosh, has it been that long?
-
-WIFE: Oh, yes.
-
-HUSBAND: Yes, yes. I understand now. What you're really saying is . . .now stop me if I'm wrong. . . but what you're really saying is that you think someone else might have impregnated you.
-
-WIFE: More or less. Yes. On these evenings that you have to go teach.
-
-USBAND: So we do have a problem there, don't we?
-
-WIFE: Yes. We really do. (Pause; he looks at her, looks at her stomach, scratches his head, taps his teeth with a pencil, lights his PiPe, twirls his glasses.)
-
-HUSBAND: You know, darling. . . it occurs to me . . . that I should have made love to you more. But why didn't I? Darn it! Darn it all!
-
-WIFE: Darling, you have your work.
-
-HUSBAND: Oh, sure, but. . .
-
-WIFE: You have your intellectual life . . .You had your book to get out. . .
-
-HUSBAND: Yes, yes, but, darling, that doesn't really answer the question. The question is, why haven't I made love to you in the past five years? That's the question. (Pause.)
-
-WIFE: Well. You used to laugh too much, maybe.
-
-HUSBAND: Laugh?
-
-WIFE: Yes. In the old days. Whenever we started to make love, you'd start to chuckle.
-
-HUSBAND: I did, didn't I? I remember now. (He chuckles.)
-
-WIFE: Yes. You'd chuckle.
-
-HUSBAND: (Chuckling.) Because the whole thing struck me as being slightly absurd. (Chuckling.) When you think about it. (Chuckling.) I should learn to control myself. (He chuckles louder; controls himself stoically; then bursts into loud laughter; then forces himself to subside; looks at her.) I'm sorry.
-
-WIFE: Oh, don't be sorry. I was just as bad.
-
-HUSBAND: Did you chuckle?
-
-WIFE: No. Actually I'd cry.
-
-HUSBAND: I don't remember your crying.
-
-WIFE: Well, I'd whimper.
-
-HUSBAND: Yes, yes! You would. You'd whimper. (Chuckles.)
-
-WIFE: Well, I felt so sad! Making love. While all these horrible things are going on in the world.
-
-HUSBAND: Yes. So you'd whimper. I remember now.
-
-WIFE: Vietnam... Urban blight. . . all that. . . . I felt so guilty!
-
-HUSBAND: And I felt so absurd.
-
-WIFE: Yes. You chuckling, me whimpering. . . .
-
-HUSBAND: Yes. Oh, yes.
-
-WIFE: And so it wasn't very conducive.
-
-HUSBAND: Right. So we gave it up. That answers that. (Pause; picks up his book and starts to read.)
-
-WIFE: But now there's this. (Indicates her stomach.)
-
-HUSBAND: Keep it. Bear it. Bring it home. Give it my name. Consider me its father.
-
-WIFE: Oh, sweetheart.
-
-HUSBAND: I've let you down. Now I'll make it up. Keep it. But you're not satisfied.
-
-WIFE: Oh, I am, I am.
-
-HUSBAND: Darling, we've been married ten years. You are not satisfied.
-
-WIFE: You've got a class.
-
-HUSBAND: My wife comes first. Come on. What's the problem now?
-
-WIFE: All right. (Pause.) What if this. . . (She looks at her stomach.) turns out to be black? (Pause.)
-
-HUSBAND: Black?
-
-WIFE: Black. Or at least mulatto. Depending on how the chromosomes line up. I mean, can you still act as its father if it's black?
-
-HUSBAND: (Pause. Settles down.) Black, eh? That’s a problem. (Pause.) So you must let me think it out.
-
-WIFE: But your class. . .
-
-HUSBAND: I'll just be less prepared than I like to be. Which may be good. Which may be very good. Which may make things more lively and spontaneous. So let me think about this other problem. (Puffs on his pipe; she stands watching him.) I could still adopt it.
-
-WIFE: How?
-
-HUSBAND: We could tell the world that you had a blue baby. Which died. And then we could bring home the black one. Which we say we adopted.
-
-WIFE: That sounds awfully complicated. Besides, the real father might object. He might take pride in it himself.
-
-HUSBAND: No, no. Now wait a minute. . . . (He thinks carefully, then suddenly pounds his fist on the arm of his chair.) Sweetheart, I'm going to be honest with you. (Points to the footstool.) Sit down. Now don't look at me. Face forward. Because this is going to be hard for me to tell, and hard for you to hear.
-
-WIFE: All right. I won't look at you.
-
-HUSBAND: And if I'm inarticulate about this, you must try to understand that this is a difficult thing for a man to tell his wife. I'm only doing it-I'm only telling you-because it seems to be the only way to solve this problem. All right. (He takes a deep breath.) Now. To begin with, I've been lying to you this evening. I don't have a class tonight. I've never had a class at night. I don't believe in evening classes. All these years I've been lying. The class that I've told you meets at night actually meets on Mondays, Wednesdays, and Fridays at ten A.M.
-
-WIFE: I see.
-
-HUSBAND: You may well ask, therefore, where I go on these nights when I say I have classes. (Pause.) And that is what is so difficult to tell you. (Pause.) The fact is, I don't leave this house. Not really. Oh, I leave by the front door, all right. But I immediately circle around in back and go down into the cellar by means of the bulkhead. Now. What do I do in the cellar? You are probably asking yourself that. What do I do in the cellar? . . . Don't look at me, darling! (Pause; then grimly:) Here's what I do in the cellar. I make my way to a small space behind the furnace. And in that small space, I have hidden. . . certain things. (Pause.) What have I hidden? I'll tell you. (He counts them off on his fingers.) Some black theatrical makeup. A woolly wig. A complete change of clothes. And a small mirror. That's what I have hidden in the cellar.
-
-WIFE: I see. . . .
-
-HUSBAND: Yes. You see, my darling, or you're beginning to. When I go into the cellar, I set the mirror up on an adjacent water pipe. I strip myself to the buff. I daub myself from head to toe with that dusky makeup. I glue on that curly wig. I don those makeshift clothes. I leave the cellar. Go to the front door. Ring the bell. And reappear to you. So you see, my poor darling, I am your Negro visitor, and have been all along.
-
-WIFE: You.
-
-HUSBAND: Oh, I know it sounds implausible. But remember how you always lower the lights. Remember, too, that I played Othello in high school. Somehow I was able to pass. I have deceived you for these past years. Deceived my own wife! Disguising myself as a Negro and capitalizing on the sympathies you naturally feel for that unhappy race!
-
-WIFE: But... why?
-
-HUSBAND: Because I wanted to make love to you. And somehow this seemed to be the only way I could do it. You'll have to admit it worked.
-
-WIFE: (Looking at her stomach.) Oh, yes. It worked.
-
-HUSBAND: SO out of all this depravity, at least a child will be born. And I was its father, after all.
-
-WIFE: I'm somewhat. . . stunned. . . by all this. (Grimly.) Sit down. I have a tale to tell too. . . I've known all along you were my dark lover!
-
-HUSBAND: (Sits down.) You've known?
-
-WIFE: From the beginning.
-
-HUSBAND: But... how?
-
-WIFE: Five years ago, when you announced to me that you had scheduled some evening classes, I became suspicious. And so when you left for the first class, I . . . followed you. Yes. I followed my own husband. Followed you to that tacky little theater-supply shop downtown where you bought your disguise. Followed you into the cellar, hid behind the hot-water heater, watched you change into your poor, pathetic imitation of a Negro. When I understood that you were doing it for me, my heart went out to you. With a great rush of longing, I dashed back upstairs, eager to receive you, but at the same time terrified that you would see that I recognized you. Frantically, I dimmed the lights, to make things easier for both of us.
-
-HUSBAND: I thought it was because you were romantic.You were acting? The whole time?
-
-WIFE: Yes. Wasn't I good? Pretending that you were someone new and strange? I, I, who am no actress, improvising like a professional during that whole scene!
-
-HUSBAND: (Shaking his head.) It's hard to believe. . . . You seemed so . . . excited!
-
-WIFE: I was! I was terribly excited. I'll admit it. That strange, sly courtship, the banter, the give-and-take, with all those peculiar racial overtones. I threw myself into it with a vengeance. . . . This is hard to say, but looking at you now, slouched in that chair, surrounded by your books and papers, I sud-denly have the strange urge to experience the stale comforts of bourgeois married love. But there's still this! (Indicating her stomach.) This problem!
-
-HUSBAND: (Moving toward her.) That's no problem.
-
-WIFE: No problem?
-
-HUSBAND: (Stalking her.) That's not really a baby you have in there.
-
-WIFE: (Backing away.) Not really a baby?
-
-HUSBAND: No. That's a balloon you have in there.
-
-WIFE: A balloon? It's a baby. I'm practically positive.
-
-HUSBAND: No, no. Look. I'll show you. (Takes the pointed metal prong of his pipe cleaner and gives her a quick, neat jab in the stomach.) Touche! (There is a pop, and then a hissing sound. She slowly deflates. They both watch.) You see? The problem was simply academic. (Pause.)
-
-WIFE: (Looking at him sheePishly.) Aren't we awful?
-
-HUSBAND: (Going to his chair, closing his book, carefully marking the place.) You started it.
-
-WIFE: I know. It was my turn. You started the last one.
-
-HUSBAND: (Neatening his books and papers.) Well, it's fun.
-
-WIFE: Shouldn't we see a psychiatrist?
-
-HUSBAND: (Tapping out his pipe; putting his glasses in his glasses case.) Why? We're happy. (Turns off his light. The stage is now lit only from a light off left.)
-
-WIFE: But we're so depraved! (He looks at her, then throws back his head and gives a long Tarzan-like whoop; then he pounds his chest like a gorilla; she giggles.) Quiet! You'll wake the children! (He picks her up in his arms; she pummels him melodramatically; speaks in an English accent.) No, Tarzan! White men do not take women by force! No, Tarzan! White men court their women!
-```
-
----
-
-## IC-0893: The Proposal
-
-- Title: The Proposal
-- Author (byline): Stephen Bittrich
-- Work: 2006: THE BEST 10-MINUTE PLAYS FOR TWO ACTORS
-- Publisher: Smith & Kraus
-- Publication date as stated: September2007
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: MR. AINSWORTH, JULIA
-- Teaser before the introduction: No
-- Spoken words (computed): 1255
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Stephen Bittrich
-Book: 2006: THE BEST 10-MINUTE PLAYS FOR TWO ACTORS
-ISBN: 978-1575255637
-Publisher: Smith & Kraus
-Date (Month/Year): September2007
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: The traditional marriage proposal goes something like this: (down on one knee to Actress) “Will you do the honor of becoming my wife?”
-
-ACTRESS: “Of course I will, darling!” (they embrace)
-
-ACTOR: And yet, one fiancée-to-be rejects the common proposal and invents his own marriage invitation.
-
-ACTRESS: An invitation that is less than traditional and, sadly, less than cordial.
-
-BOTH: “The Proposal” By Stephen Bittrich
-```
-
-### Performance text (classify this)
-
-```text
-MR. AINSWORTH: There you are Miss Hightower. I was beginning to think I'd be called upon to fish you from the trout stream.
-
-JULIA: Beg your pardon, I required a bit of air.
-
-MR. AINSWORTH: Ah, yes. Lovely evening for it. (Pause.) And are you sufficiently pleased with the grounds of Willowbrook?
-
-JULIA: Of course.
-
-MR. AINSWORTH: Splendid - then you approve?
-
-JULIA: Who could find fault with ... the grounds, Mr. Ainsworth?
-
-MR. AINSWORTH: No indeed. No indeed. (Beat.) But then I derive from your careful inflection that there is that at Willowbrook which you could find fault with, Miss Hightower.
-
-JULIA: I - I cannot -
-
-MR. AINSWORTH: Ah, tush, tush, not another word of it. (Beat.) Beautiful, clear night. Did you take in the full moon rising above the peat bogs?
-
-JULIA: I marked it.
-
-MR. AINSWORTH: Dramatic indeed. (Pause.) You know, Ms. Hightower, I rather blush to say, but the highlight of my trip to Sussex last summer was not the tedious family business which beckoned me thither, no, no, but rather my brief sojourn in Heathfield and the various social gatherings during which I was privileged to make the acquaintance of you and your family.
-
-JULIA: (With a taste of irony.) It was a thrilling season.
-
-MR. AINSWORTH: And during the picnic at Heathfield Park I must confess I was most smitten with your wonderful charcoal sketches of the countryside. It is thrilling indeed to discover a woman of such varied and studied accomplishment. Upon leaving there, I admit, I could think of not much else for sometime ... but you ... and your beautiful sketches.
-
-JULIA: You flatter, Mr. Ainsworth.
-
-MR. AINSWORTH: No, indeed, I do not. I very greatly wished to be… connected to you and your great talent - to have some ownership in it.
-
-JULIA: Ownership?
-
-MR. AINSWORTH: And when your family took lodgings in Hampshire this spring it seemed a fortuitous event indeed.
-
-JULIA: Quite fortuitous. I must return to the house, Mr. Ainsworth. It grows cold.
-
-MR. AINSWORTH: Then let me warm you, Ms. Hightower ... Julia.
-
-JULIA: No-
-
-MR. AINSWORTH: Please, take my coat.
-
-JULIA: I fear the chill has deeply set in. There is no remedy you can provide.
-
-MR. AINSWORTH: (Relinquishing all false civility) I grow weary of these intrigues and double entendres. I am not a stupid man, Miss Hightower. I know the particulars for your family's visit. Plainly, your parents mean to parade you about polite society as a farmer at the county fair flaunts his choicest pig-
-
-JULIA: Mr. Ainsworth!
-
-MR. AINSWORTH: - but, and please excuse my audacious candor, you won't be winning any ribbons, I'm sorry to say, nor any husbands either for that matter, because, as sordid as it may be, there are scurrilous and unseemly tongues that wag this way and that 'round this tiny little hamlet. And they wag, Miss Hightower, about you. (Julia appears almost dizzy from Mr. Ainsworth's utter lack of decorum.)
-
-JULIA: I'm sure ... I'm sure I haven't the faintest notion -
-
-MR. AINSWORTH: You are a marked woman. There it is. Sorry to be the bearer of ill tidings. But there 'tis. You may as well sew your old maid's weeds forthwith because no suitors of any repute will be knocking at your door.
-
-JULIA: How dare you, sir!
-
-MR. AINSWORTH: I dare, Miss Hightower. I am the first-born son of the wealthiest man in Christendom. In all truthfulness, mere social convention is a paltry constraint for my sizeable wealth and stature. I dare. .. because I can. The fates, however, have been less kind to you. Being without a male sibling, your birthright, such that it is, has been entailed away, and your future, but for the unsecured and certainly meager offerings of an obscure male relative, can promise nothing more than abject poverty.
-
-JULIA: (After a beat, regaining her composure.) And yet ... I do not tremble, Mr. Ainsworth.
-
-MR. AINSWORTH: (After a beat, taking her in.) And yet you do not. There is much to be admired in you, Julia.
-
-JULIA: And much to be abhorred in you.
-
-MR. AINSWORTH: And still ... such an abhorred man as I might yet be your salvation. (Beat.) I like you, Julia.
-
-JULIA: Mr. Ainsworth, you've said quite enough.
-
-MR. AINSWORTH: Are you surprised? Yes, I like you. You are as handsome a specimen as ever I've seen, lively and energetic, talented in music and art, intelligent almost to a fault. These attributes, I daresay, when matched with my own myriad of graces, could well produce exceptionally pleasing offspring.
-
-JULIA: Thank you for your astute observations, Mr. Ainsworth, but despite your previous reference to prized livestock, you'll be surprised to learn, I am no farm animal. Producing "exceptionally pleasing offspring" is not my life's chief objective.
-
-MR. AINSWORTH: (Ignoring and pressing on.) Be assured, I am not looking for love, Julia, and I am quite certain that you do not love me. However, I do require a wife, a partner, in the business of expanding my honorable lineage. It is a grand, unbroken line spanning centuries before me, and I am called upon to bid adieu to the temptations and distractions of my youth and perform my family duty. I see you as a worthy candidate.
-
-JULIA: Mr. Ainsworth, though your described partnership of convenience is no doubt brimming with fruitful promise, you will be shocked to discover your eloquent declaration of affection met with rejection. I hope the dis-appointment will not linger with you for long. Good evening, sir.
-
-(She starts to leave, and He cuts her off)
-
-MR. AINSWORTH: Julia, certainly you are not ignorant of what I can offer a woman such as yourself in a "partnership of convenience" as you describe it. Not that I care a jot for social mores, but you cannot be completely unaware that your very reputation has recently been called into question. Your association with a local artist, a certain Monsieur Legard, whose name alone inspires credulity, is fatty meat for the maw of outrage, namely, the elder matrons of Bishops Waltham.
-
-JULIA: My association with the gifted Mr. Legard is of my concern alone
-
-MR. AINSWORTH: Unjust, I know. Your guilt in this acquaintance, real or imag-ined, pure or impure, has set you alone and adrift at sea. And I alone am your last hope for security, Ms. Hightower.
-
-JULIA: Really, Mr. Ainsworth, I think you missed your calling. Prize pigs, gristle-filled maws, adrift at sea. It seems you have a bent toward the poetic. But perhaps you should have said, "I alone might offer a sturdy mast and sail" ... or "I alone am a fruitful uncharted isle in your course" or better still "I alone am the God Poseidon deigning to grant fair seas for your passage home."
-
-MR. AINSWORTH: Perhaps I might have.
-
-JULIA: Mr. Legard, whom, as you have intimated, is of French heritage is in fact as true an Englishman as you or I. He is my friend, and his skill with either brush or chisel is equal to anything I have seen displayed in the National Gallery. I admire his talent.
-
-MR. AINSWORTH: Yes, I agree he is talented. I've seen his nudes. He's an eye for detail. (She starts again to leave. He grabs her arm.)
-
-JULIA: Mr. Ainsworth, you will let go my arm!
-
-MR. AINSWORTH: (Pulling her close.) The deal is sealed, Ms. Hightower. Your parents have already accepted my offer of matrimony and despite social proprieties dictating the contrary, have accepted a generous gift of real estate in this accord. You have been sold -
-
-JULIA: - I will not bow -
-
-MR. AINSWORTH: Nay, but you will! As I said, Miss Hightower. You have been sold. I possess the painting!
-
-JULIA: Wh-what did you say?
-
-MR. AINSWORTH: I possess the painting. And I think you must know the one I mean.
-
-JULIA: Impossible ...
-
-MR. AINSWORTH: (Quiet and vicious, in her ear.) It did not come cheaply. (Beat) You now sit precariously on the edge of ruin. If you do not accept my magnanimous offer, you will suffer the pangs of social ignominy that only an itinerant leper might endure. And moreover, I am quite certain that Mr. Legard will never in his short career see profit from a single painting in all of Hampshire. You will give me satisfaction. (She crumbles to her knees and begins to cry.)
-
-JULIA: Have you no heart? Have you no soul? I - I love him.
-
-MR. AINSWORTH: I know. (Beat) Will we be married?
-
-JULIA: (After a pause.) Y- Yes. (The lights fade to black.)
-```
-
----
-
-## IC-0894: Puberty: The Game Show
-
-- Title: Puberty: The Game Show
-- Author (byline): Greg Atkins
-- Work: Not specified
-- Publisher: Samuel French, Inc.
-- Publication date as stated: Sept 1998
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: BABS, ALAN, ELANA, KAREN, TOMMY, KAREN AND TOMMY, MOTHER, DATE, PIMPLES, RAPPER 1, BEATBOXER, RAPPER 2
-- Teaser before the introduction: Yes
-- Spoken words (computed): 2019
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Greg Atkins
-ISBN: 978-0874400649
-Publisher: Samuel French, Inc.
-Date (Month/Year): Sept 1998
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTRESS: Everyone’s been through the change!
-
-ACTOR: The only thing different about this sudden morph into adulthood is that it’s done on a gameshow.
-
-ACTRESS: Join your hosts and the contestants on a wild ride in
-
-TOGETHER: Puberty: The Game Show by Greg Atkins.
-```
-
-### Performance text (classify this)
-
-```text
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-Suggested Roles: Actress -- Babs, Elana, Karen, Tommy’s Date, Pimples, Rapper #1 Actor -- Alan, Tommy, Mother, Pimples, Rapper #2, Beatboxer
-
-BABS: [And we’re on in five, four, three, two, and…] (Pg 7-8) Welcome to . . . Puberty! (applause) The show that leads you through the most exciting, frustrating, exhilarating, frightening, and embarrassing time of your life! (applause) Puberty! And now, the hosts of Puberty! Alan Beckman and Elana King! (Alan and Elana walk out and take their places – applause)
-
-ALAN: Thank you, thank you everyone! Well, Elana, you look very nice today.
-
-ELANA: So do you, Alan.
-
-ALAN: Oh, this? It was a hand-me-down from my older brother. (laughing) I’m used to it. I was thirteen before I got my own toothbrush.
-
-ELANA: (laughing) Oh, gross.
-
-ALAN: And how about you? I understand you have been very busy.
-
-ELANA: Yes, I’ve just released my very own brand of perfume.
-
-ALAN: Congratulations, Elana! (He claps) What is the name of this wonderful fragrance?
-
-ELANA: Elana Wanna. It tells the boys, “Here I am!”
-
-ALAN: That sounds great! Are you wearing it right now?
-
-ELANA: Yes. (leans forward for Alan to smell)
-
-ALAN: (not pleased with the smell) (chokes) Pungent! Well, I guess we had better get on with it and introduce our first two pre-pubescence contestants.
-
-BABS: Hailing from Portsmouth, New Hampshire, a state famous for producing Bauxite, please welcome Tommy Landry! (Tommy enters to applause) And from Oxnard, California, the vacation playground of migrant farm workers, let’s put our hands together for Karen Stiver! (Karen enters to applause)
-
-ALAN: WELCOME TO... PUBERTY!
-
-ALAN: (Pg 8-14) Alright, but before we begin, let’s find out a little about our contestants. Karen, let’s start with you. I understand you are in the seventh grade.
-
-KAREN: Yes, I am, Alan. I go to Heinekin Middle School. (She turns to the television audience and cheers) Go Weevils! My parents are divorced, I live with my mother and see my father on weekends and I have a dog named Bosco and a little brother I hate.
-
-ALAN: Sounds good.
-
-ELANA: And what about you, Tommy?
-
-TOMMY: I’m Tommy Landry and I go to Our Lady of Perpetual Motion Catholic School in Portsmouth. I’m in the seventh grade and my school just went co-ed this year, which is okay I guess. My parents have been married for twenty years and I have an older brother, Kevin, and a younger sister, Patty. I like computer games and baseball and my best friend is Chuck.
-
-(He waves at television audience). Hi, Chuck.
-
-ALAN: It looks like we’ve got two live ones, Elana.
-
-ELANA: It sure looks that way, Alan.
-
-ALAN: Are you ready to get on with Puberty?!
-
-KAREN: Yeah! TOMMY: Let’s do it. (simultaneously)
-
-ALAN: Alright, let’s get you all set up while Elana explains the rules. Elana?
-
-ELANA: Thank you, Alan. After picking a card from Alan, our contestants must move the number of spaces designated on the card. Wherever our contestants land on our Puberty Path they must follow the instructions corresponding with the square they land on. Each square holds something new and different for our contestants. Whether it's Most Embarrassing Moments, Hormone Hijinx, or My Parents Will Kill Me, every square moves you further along the path of Puberty! And remember, each square gives you the opportunity to get Adulthood Points. The more points you get the easier it is to pass through Puberty.
-
-ALAN: Don’t forget to mention the Experience Circle.
-
-ELANA: How could I forget that? In order to score extra Adulthood points, the contestants have the option of entering the Experience Circle where they must actually deal with an incident in their growing up process. If they deal with the Experience well, they get those valuable extra points, if they don’t they could lose everything. It’s a risk, but, hey, what in life isn’t a risk?
-
-ALAN: Confusing? Of course it is, it’s Puberty!
-
-ELANA: Are we ready, Alan?
-
-ALAN: Are you ever ready for Puberty, Elana? Of course not. But if you’re asking if we’re ready to play . . . contestants are you ready to play Puberty?!
-
-KAREN AND TOMMY: YEAH! (Game show music from Babs)
-
-ALAN: Then let’s get started! And since girls seem to begin Puberty before boys, who are we to go against nature? Karen, you go first. Do you choose the green card or the red card?
-
-KAREN: The red card. (She takes the card and moves 3 squares)
-
-ELANA: And you’ve landed on the The Parent Trap. Do you want to go for a three point Question or the six point Experience?
-
-KAREN: I think I’ll take the Question to start out with.
-
-ELANA: Alright, here it is. You are asked to the movies by Tom Child!
-
-KAREN: I am!?! Oh my *gosh*, oh my *gosh*! He’s in the ninth grade and on the basketball team!
-
-ELANA: Your Question is: Do your parents let you go?
-
-KAREN: (A pause) Yes, they have to let me go, I’ll die if they don’t let me go! Yes, yes!
-
-ALAN: (Buzzer from Babs) So sorry, Karen. They say you’re too young to date and anyway the movie was rated NC-17, they’d have never let you in.
-
-KAREN: I hate my parents. I hate them!
-
-ALAN: Of course you do, it’s Puberty! Now on to Tommy. Pick a card.
-
-TOMMY: Red, please, Alan.
-
-ALAN: Red it is. And you move one square.
-
-ELANA: You land on Hormone Hijinks. Would you like the three point Question or the six point Experience?
-
-TOMMY: Hormone Hijinks? I better go with the Question.
-
-ELANA: Alright, it’s a multiple choice and here it is: Your voice is beginning to change and the first time it happens you are: A - Singing in the shower. B - Talking to the guys after you lost a baseball game. C - Talking to Becky Casey in Math class. Or, D - in front of the entire English class during your oral report?
-
-TOMMY: Ummmmm?
-
-ALAN: You only have fifteen seconds, Tommy.
-
-TOMMY: D. During my oral report?
-
-ELANA: (Ding-ding-ding! - Bell from Babs) That’s right! That’s good for three Puberty points!
-
-ALAN: And back to you, Karen. Red or Green?
-
-KAREN: Green.
-
-ALAN: Move ahead one.
-
-ELANA: And it’s back to The Parent Trap. Experience or Question?
-
-KAREN: I think I’ll go for the Experience.
-
-ALAN: Then let’s go! (he takes her center stage) You know how this works, you get to live the Experience and if the judges feel you have moved ahead in your growing up process, you get the six Puberty points and move into the lead. Got it?
-
-KAREN: Yeah.
-
-ALAN: (moving back) Take it, Elana.
-
-ELANA: Thanks, Alan. Your category is The Parent Trap and your Experience is: Coming Home Late.
-
-KAREN: Oh, no.
-
-MOTHER: (A studio audience member assumes the role of “Mother” walks into the experience circle) Hello. Or should I say, Good morning?
-
-KAREN: Mom, I can explain.
-
-MOTHER: 12:16. 12:16 on a school night? When is your curfew?
-
-KAREN: Mom, look, I -
-
-MOTHER: Answer me! When is your curfew?
-
-KAREN: 9:00 on weeknights, 10:00 on weekends? . . . We didn’t leave the library until 9
-
-MOTHER: So it took you three hours to get home?! (Screams in frustration, then takes a calming breath) Karen, I want to trust you -
-
-KAREN: You can!
-
-MOTHER: But you make it so hard sometimes. This is why I won’t even entertain the thought of you dating! (Pause) So what am I supposed to do?
-
-KAREN: Ground me, I guess.
-
-MOTHER: I guess you’re right! Curfew is now 8:00 - (Karen is about to interrupt) - and you are grounded for two weekends!
-
-KAREN: But . . .
-
-MOTHER: Three weekends.
-
-KAREN: That’s not . . .
-
-MOTHER: Four weekends! Wanna try for five? (Karen fumes silently) Alright, up to bed.
-
-ALAN: (Ding-ding-ding! – Bell from Babs) And there’s the bell! Good for six points! Congratulations!
-
-KAREN: I can’t believe it! Grounded for four weekends?! This sucks!
-
-ELANA: And one extra weekend of restriction for having a potty mouth.
-
-ALAN: You’d think she’d learn, wouldn’t you, Elana?
-
-ELANA: Yes, Alan, you’d think she would. Well, Tommy, here’s your chance to really rack up some points. Step on up.
-
-TOMMY: A red card, please.
-
-ALAN: The red card says… move three spaces!
-
-ELANA: (Pg 19-21) And you’ve landed on Those Magic Moments.
-
-ALAN: Question or Experience?
-
-TOMMY: I’d better go for the points. Experience
-
-ALAN: Then let’s go! (Alan hands Tommy a baseball mitt) [I hope you’re good at baseball.] (Tommy enters the Experience Circle in the middle of a baseball game)
-
-TOMMY: Oh, my *gosh*. Here it comes. I gotta catch it. Don’t panic, it’s just a game. Just the difference between being a social outcast and a hero. (he readies himself to catch a pop fly) Where is it? It’s in the sun! Ah, ah! AHHH!
-
-(catches ball – the bell rings then Tommy drops the ball – The buzzer sounds)
-
-ALAN: Oh, too bad Tommy! No points.
-
-TOMMY: I’m gonna be a social defect. No one on the team will ever talk to me again.
-
-ALAN: Well, we can only imagine the ridicule and embarrassment you are going to have to endure for the rest of your life.
-
-ELANA: Luckily, we can only imagine it, you have to live with it. Now on to Karen.
-
-ALAN: Red or green, Karen?
-
-KAREN: Green, Alan.
-
-ALAN: And it’s a big move -- five spaces!
-
-ELANA: And you land on… oh oh, “Mother finds your diary!” And reads all your complaints about her. Too bad.
-
-KAREN: Stupid diary! Stupid Mom!
-
-ALAN: Too bad about your diary. Get up here, Tommy! Pick a card, buddy.
-
-TOMMY: Red!
-
-ALAN: You move two spaces!
-
-ELANA: And land on first love! Question or Experience?
-
-TOMMY: Well, Elana, I better go for the 6-point Experience.
-
-ELANA: Alright, your category is first love and your Experience is First Kiss.
-
-TOMMY: FIRST KISS?!? Oh, man! This is gonna make me nervous.
-
-ALAN: Head on over to the Experience Circle. (Tommy steps in and a member of the studio audience assumes the role of his date – they are walking up to her front porch at the end of their first date)
-
-TOMMY: (Pg 24) So you liked the movie?
-
-DATE: I told you I liked the movie four times. I liked the movie. Why are you acting so weird?
-
-TOMMY: I guess because it’s our first date. I want everything to be perfect.
-
-DATE: It has been perfect. (each look away from each other, then Date applies Chapstick) Well… here we are. I had a wonderful time tonight.
-
-TOMMY: So did I. (Both lean in for a quick kiss and porch light turns on. Both jump back.)
-
-DATE: It’s okay. It’s just my mom flicking the porch light on and off. It means I have to go in.
-
-TOMMY: Oh, well then, goodnight (he starts to leave)
-
-DATE: (She grabs his arm) Hey, didn’t you forget something? (She pulls him to her and they kiss) (Ding-ding-ding!)
-
-ALAN: And six points for Tommy!
-
-BABS: (beedeeepbobbityboop)
-
-ELANA: [Looks like we’ll have to take a quick break. Here’s] a word from our sponsor. COMMERCIAL BREAK
-
-PIMPLES: (Pg 26-30) (Both actor and actress sing/rap together) We are your pimples, we live upon your face, we are happy pimples, you’ll find us everyplace. We are nasty pimples, you’ll never get rid of us, we are pus-filled pimples that erupt like Vesuvius.
-
-RAPPER 1: Not so fast. (Pimples gasp)
-
-BEATBOXER: (creates beat for Rappers to follow during next song)
-
-RAPPER 2: What you need is a Zip-Zap Pad, the best friend you ever had.
-
-RAPPER 1: Just wipe it all along your face and pimples leave without a trace.
-
-RAPPER 2: Now that your skin is looking hot, you can go back to eating chocolate.
-
-RAPPER 1: Fries and chips and all things bad.
-
-RAPPER 2: Just thank your handy Zip-Zap Pad.
-
-BEATBOXER: Zip-Zap Pads come in Padettes, Extra Strength pads and full body wraps -
-
-RAPPER 1: - from AmWay TRANSITION BACK TO THE GAME SHOW
-
-BABS: And we’re back in five, four, get ready, two and… (Babs points to Alan)
-
-ALAN: Well, Elana, we’re almost through Puberty! Boy what an exciting show we’re having today.
-
-ELANA: You’re right, Alan. As the score now stands: it’s Karen with [6] points and Tommy with [9], and it’s Karen’s turn.
-
-ALAN: Right you are. Karen pick a card, if you please.
-
-KAREN: I pick green, Alan.
-
-ALAN: And it’s another five spacer! You land on Unexpected Turn of Events.
-
-ELANA: That also puts you near the end of Puberty! Question or Experience?
-
-KAREN: I’ll take the Experience.
-
-ALAN: If you get this Experience correct, you will take the lead. Your Category is Unexpected Turn of Events and your Experience is: What Do They Really Think? (Karen steps into the circle and pulls Tommy in with her)
-
-TOMMY: Whoa - what’s going on? This isn’t my Experience.
-
-ELANA: Actually, Tommy, this Unexpected Turn of Events is partially YOUR experience.
-
-KAREN: Where are your parents? (Karen’s inner voice) He looked so cute when lost at Puberty.
-
-TOMMY: They’re finishing signing some papers so I can get my prizes. (Tommy’s inner voice) I can’t believe she reached Puberty before I did!
-
-KAREN: These game shows show really give you nice parting gifts. (Karen’s inner voice) I think he’s still upset. I kinda like him.
-
-TOMMY: Yeah. (Tommy’s inner voice) Yeah, you get to go through puberty and I get the home version, plus a year’s supply of zit pads. (to Karen) Well, I gott ago.
-
-KAREN: Don’t you need my phone number? (Karen’s inner voice) I wonder if I should kiss him.
-
-TOMMY: Sure. (Tommy’s inner voice) Oh, man this stuff makes me nervous.
-
-KAREN: It’s J-K-L-M-N-O-P. (Karen’s inner voice) Let’s see if he can figure it out.
-
-TOMMY: 555-6667? (Tommy’s inner voice) Good work, Tommy! (to Karen) Karen . . .
-
-(Tommy leans over and kisses her on the cheek) (Ding-ding-ding!)
-
-ALAN: Six points for Karen! And that final bell tells us we’re out of time! So the score now stands with [nine] points for Tommy and [twelve] points for Karen!
-
-ELANA: Which means, Karen, you’ve made it through Puberty! (Karen screams, giggly excitement)
-
-ALAN: Congratulations, Karen. You are embarking on an exciting ‘next step’ in your life - Young Adulthood. Looking forward to it?
-
-KAREN: (excited) I sure am, Alan. (Tommy looks defeated. During this next section to the end, Tommy pouts and looks angry, Karen waves to audience members and blows kisses at people)
-
-ELANA: Well, Tommy, you’re no doubt a bit disappointed, but don’t worry! We have some lovely parting gifts! Tell us about them, Babs.
-
-BABS: Tommy will receive a case of Zip-Zap Pads, a bottle of Elana Wanna and the home version of Puberty!
-
-ALAN: So this is Alan Beckman -
-
-ELANA: - and Elana King -
-
-ALAN: saying Join us tomorrow
-
-ELANA: - because no one wants to go through Puberty alone!
-
-BABS: (Pg 31) All contestants are under medical supervision while going through Puberty. And don’t forget t o play Video Puberty! By Nintendo. Now you’re playing with Power!
-```
-
----
-
-## IC-0895: Rabbit Hole
-
-- Title: Rabbit Hole
-- Author (byline): David Lindsay-Abaire
-- Work: Not specified
-- Publisher: Theatre Communications
-- Publication date as stated: Sept 2006
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: ACTRESS, HOWIE, BECCA, VOICE OF DANNY, NEWS REPORTER
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1048
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: David Lindsay-Abaire
-ISBN: 978-1559362900
-Publisher: Theatre Communications
-Date (Month/Year): Sept 2006
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: Eight months ago, in a happy suburban home, the family dog darted out of the front yard
-
-ACTRESS: And Danny followed - right into the path of an oncoming car.
-
-ACTOR: It was an "accident,"
-
-ACTRESS: But that just means that no one is to blame but everyone feels guilty.
-
-ACTOR: The journey through grief is different for all of us . . .
-
-ACTRESS: We each take our own path. There is no right or wrong way to grieve.
-
-TOGETHER: Rabbit Hole by David Lindsay-Abaire
-```
-
-### Performance text (classify this)
-
-```text
-Suggested Roles: ACTOR: Howie
-
-ACTRESS: Becca, Danny’s voice, TV Voice over (Tornadoes)
-
-HOWIE: (Pg 14) You want more wine?
-
-BECCA: No, I’ve had two already.
-
-HOWIE: Half a glass . . . (he empties the rest into her glass and lowers the lights in the room)
-
-BECCA: What are you doing?
-
-HOWIE: My eyes are sore, staring at that computer all day.
-
-BECCA: (Pg 15-18) How was squash?
-
-HOWIE: Good. I lost but it was good
-
-BECCA: How’s Rick? . . . . and Debbie? Did Rick mention her?
-
-HOWIE: You can call her, you know. You can call Debbie.
-
-BECCA: I don’t wanna call her. She should call me.
-
-HOWIE: She’s uncomfortable, Bec. If she hasn’t called you, it’s because she doesn’t know what to say.
-
-BECCA: How about “Hey, Becca, how you doing? Haven’t seen you in a while. I would’ve been there for her if God forbid something had ever happened to Robbie or Em. I wouldn’t have vanished the way she did.
-
-HOWIE: If you’re pissed, you should call her and tell her . . . Okay, let it go.
-
-BECCA: Let what go?
-
-HOWIE: Whatever’s making you tense. You should try to relax a little. (He moves to massage her shoulders and starts to kiss her neck)
-
-BECCA: What are you doing?
-
-HOWIE: I’m trying to relax you – something wrong with that?
-
-BECCA: I see what this is. Dimming the lights . . . plying me with liquor . . . . You’re trying to seduce me.
-
-HOWIE: Am I? (moves in again romantically)
-
-BECCA: Alright, Romeo (pushes him away) Enough.
-
-HOWIE: Jesus, Bec . . . it’s been almost eight months. (Beat)
-
-BECCA: I’m just not ready yet, Howie. I’m sorry if you think that’s abnormal.
-
-HOWIE: I thought it was nice. That’s all. I was trying to make things nice.
-
-BECCA: Well . . . you can’t. I’m sorry, but things aren’t “nice” anymore.
-
-HOWIE: (Pg 19-20) -- then . . . maybe we should try again. (Beat)
-
-BECCA: Oh for godsakes, Howie . . . Is that . . . Is that what this was?
-
-HOWIE: No. No, of course not. It just . . . it might be something to talk about at some point.
-
-BECCA: I . . . I can’t. I’m sorry. I can’t have that talk. (Becca exits, Howie watches her go, then goes to the TV cabinet and pulls out a videotape and pops it in.)
-
-VOICE OF DANNY: Did you see me, Daddy?
-
-HOWIE: (speaks along with the video) I did.
-
-VOICE OF DANNY: No, you didn’t. I’m invisible. I have magic.
-
-HOWIE: (speaks along with the video) Down, Taz . . . Oh, I didn’t realize. (lights fade) ******** A few weeks later***********
-
-(Howie clicks on the TV and hits play on the VCR. We hear a documentary on tornadoes playing. [ ] words in red are not printed in the original script )
-
-NEWS REPORTER: [Last year was the strongest storm season in a decade . . . ] (Howie is confused. Something isn’t right. He ejects the tape, examines it, puts it back in and hits play again [An F5 Tornado is the most damaging wind force]
-
-HOWIE: (Pg 32-34) What is this? Becca? Becca!?!! (Becca enters – Howie is beside himself)
-
-BECCA: What’s the matter?
-
-HOWIE: The television. What is this?
-
-BECCA: (Looks to TV) It’s the Discovery Channel. The tornado program. I recorded it for you. What’s the matter?
-
-HOWIE: It’s Danny’s tape. You recorded over Danny’s tape. Jesus, Becca! It’s the only copy!
-
-BECCA: Well, I didn’t do it on purpose. (Howie looks at her skeptically) You think I recorded over Danny’s tape on purpose?
-
-HOWIE: You took the paintings off the fridge. Danny’s paintings. And shoved them in a box.
-
-BECCA: For safekeeping
-
-HOWIE: You’re trying to get rid of him. I’m sorry, but that’s how it feels to me sometimes. Every day, it’s something else. It feels like you’re trying to get rid of any evidence he was ever here.
-
-BECCA: (It’s as if she’s been slapped) The paintings are downstairs. In a box. You can look at them whenever you want.
-
-HOWIE: The clothes. His shoes.
-
-BECCA: We don’t need all that stuff. Why would we keep –
-
-HOWIE: Taz. Sending Taz to your mother’s!
-
-BECCA: There was a lot going on, Howie. We couldn’t deal with the dog.
-
-HOWIE: If I hadn’t bought the dog –
-
-BECCA: And if I hadn’t run inside to get the phone, or if I had latched the gate –
-
-HOWIE: I left the gate unlatched!
-
-BECCA: Well, I didn’t check it. (Retreats a bit) I’m not playing this game again, Howie. It was no one’s fault
-
-HOWIE: Not even the dog’s . . . Dogs chase squirrels. Boys chase dogs.
-
-BECCA: Are you telling me or yourself?
-
-HOWIE: He loved that dog! . . . And you got rid of him!
-
-BECCA: Right, like I got rid of the tape. I get it.
-
-HOWIE: He was a reminder.
-
-BECCA: Yes, he was a reminder. So what? I wanted one less reminder around here. (Pg 19) I can’t move without – I mean, Jesus, look at this. (grabs a toy from the shelf) Everywhere. (grabs a kid’s book from a stack of magazines) Here: “Runaway Bunny” for godsake. The puzzles. The smudgy fingerprints on the doorjambs.
-
-HOWIE: I like seeing his fingerprints.
-
-BECCA: Because you don’t have to sit and stare at them day in and day out. You get to escape. You get to go to work. . . . I left all that to be a mom.
-
-HOWIE: (Pg 18-19) (after a pause) I think you should see someone. (Beat) I know you’re not one for therapists, but I think you should. We could go together if that’s help. Or maybe you could try the group again.
-
-BECCA: No. (Pg 29) A room full of God-freaks.
-
-HOWIE: They’re not God-freaks.
-
-BECCA: Most of them are, Howie. That’s all they talk about. God’s plan. My favorite is “God needed another angel.” What is that? He’s God! Why can’t he just make another angel? It pisses me off. Trying to find some ridiculous meaning in – “Hey look, I stepped in shit, it must be part of God’s plan.” How nice they all have something that makes them feel a little better. Like I don’t feel bad enough. I’ve gotta go and have that rubbed in my face? [God’s] a sadistic prick.
-
-HOWIE: (Pg 34-35) (long silence) You have to stop erasing him! I’m not [just] talking about the tape, Becca! It’s Tax, and the paintings, and the clothes and it’s everything! You HAVE - TO - STOP!
-
-BECCA: Do you really not know me, Howie? Do you really not know how utterly impossible that would be? To erase him? No matter how many things I give to charity, do you really think I don’t see him every second of every day? That tape was an accident. And believe me, I will beat myself up about it forever. Like everything else that I could’ve prevented but didn’t.
-
-HOWIE: That’s not what I want, Bec. It’s not what I’m talking about.
-
-BECCA: No? Because it feels like it is. It feels like I don’t feel bad enough for you. I’m not mourning in the right way. But let me just say, Howie, that I am mourning as much as you are. And my grief is just as real and awful as yours.
-
-HOWIE: I know that.
-
-BECCA: You’re not in a better place than I am, you’re just in a different place. And that sucks that we can’t be there for each other right now, but that’s just the way it is.
-
-HOWIE: His stuff is all we have left. That’s all I’m saying. And every bit of it you get rid of –
-
-BECCA: I understand that. You don’t wanna let go of it. I understand, Howie.
-
-HOWIE: Do you? Do you? (No response) Something has to change here. Because I can’t do this . . . like this. It’s too hard. (Beat) it’s too hard. (Howie exits, leaving Becca alone.)
-```
-
----
-
-## IC-0896: Radiant Vermin
-
-- Title: Radiant Vermin
-- Author (byline): Phillip Ridley
-- Work: Not specified
-- Publisher: Methuen Drama
-- Publication date as stated: 978-1474251501
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: ACTOR, JILL, OLLIE, MISS DEE, TOGETHER
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1626
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Phillip Ridley
-ISBN: Mar 2015
-Publisher: Methuen Drama
-Date (Month/Year): 978-1474251501
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-TOGETHER: Radiant Vermin by Phillip Ridley
-```
-
-### Performance text (classify this)
-
-```text
-Suggested Roles: ACTRESS: Jill and Miss Dee
-
-ACTOR: Ollie
-
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-Enter Ollie and Jill, Jill is holding a baby.
-
-JILL: (Pg 7-8) Hello, I’m Jill OLLIE: And I’m Ollie.
-
-JILL: This is our son Benjy. OLLIE: We’d like to tell you about our home.
-
-JILL: Our dream home [and] how we got it.
-
-OLLIE: Exactly. Because . . . well . . .
-
-JILL: We’re good people. We try to be.
-
-OLLIE: And yet . . . some of the things we’ve done – well . . . they’re not exactly . . . nice. In fact, they’re . . . horrible.
-
-JILL: I’m afraid they are, yes. OLLIE: But I’m sure once we’ve explained
-
-JILL: Why we did -- OLLIE: What we did –
-
-JILL: Then you’ll understand.
-
-****6 months before Benjy is born****
-
-JILL: (Pg 9) We’ve just got a letter. Hand delivered. Looks official. (reading) ‘Dear Mr. and Mrs. Swift . . . My name is Miss Dee and I have been asked to head a new department of the government’s housing program known as the Department of Social Regeneration through the Creation of Dream Homes. You’ve been selected for participation in our new scheme. To put it simply. We will give you a house.’
-
-OLLIE: What?! (Takes letter and continues reading) ‘To hear more, meet me at the house in question tomorrow at midday. The address is below along with directions.’ (Scene shift) (Pg 10) It’s the next day. (The Swifts arrive at the house and exit their car)
-
-JILL: (Pg 11-12) The front of the house looks okay. (peering through the windows; Ollie is more hesitant) Big rooms. (She tries the door) The front door’s open! Miss Dee?! . . . Miss Dee?!
-
-OLLIE: You’re not going inside?!
-
-JILL: Why not? (beat) Ollie! (he joins her) The hallway’s lovely.
-
-OLLIE: If you like the smell of damp.
-
-JILL: Two reception rooms. We can knock that wall down. More open-plan.
-
-OLLIE: Am I the only one who can see loose wires everywhere? (Jill wanders into another room)
-
-JILL: The kitchen’s huge! . . . [and] Three bedrooms. Three! This would make the perfect nursery, wouldn’t it? (Miss Dee has appeared in true fairy godmother style)
-
-MISS DEE: Miss Dee – that’s me! What a joy to meet you at last!
-
-OLLIE: (Pg 13-15) Have we been under surveillance?
-
-MISS DEE: What on earth makes you say that?
-
-JILL: Miss Dee . . . this house –
-
-MISS DEE: The contract’s in my bag! (Gives contract to Ollie)
-
-OLLIE: I have some questions first. (as he looks over the contract) So . . we just get given it. This house. And it’s ours. You can’t take it back? Not ever?
-
-MISS DEE: Clause One, as you see.
-
-OLLIE: And if we sell it?
-
-MISS DEE: Clause Two.
-
-OLLIE: . . . We keep all the money.
-
-JILL: Oh, Ollie, it’s too good to be true.
-
-OLLIE: Dad used to say if something’s too good to be true it usually is. (Thunder crash or other sound effect)
-
-MISS DEE: Children please. Listen to Miss Dee. This house is a wonderful chance for you both. I tell you – as God is my witness- no two people are more deserving.
-
-OLLIE: We’re nothing special.
-
-MISS DEE: Nothing special? Jillian! When your mums arthritis got so bad her hand swelled up like rubber gloves full of golf balls – who was it washed her? Dressed her, fed her and – forgive any inappropriate language – took her to the toilet?
-
-JILL: Any daughter would have done the same.
-
-MISS DEE: And you, Oliver! Living with your dad’s alcoholism wasn’t easy. All hugs and kissed one second then [one] too many and – BAHM!
-
-OLLIE: Dad was never violent.
-
-MISS DEE: Not physically. But verbally? Yet you never retaliated. Not once. You’re both good people.
-
-JILL: (Pg 20) Give me that contract! (Snatches the contract and signs) I want this house! (to Ollie) Red Ocean Estate sucks all the joy out of you. I don’t want to bring our baby into a world like that. What will its future be? Drugs? Gangs? Prison? I want more than that for our child. I want . . . this house. I know there’ll be problems. But at least we’ll have the hope of things getting better. (Ollie signs contract) *****The Next Night – In Their New Home*****
-
-OLLIE: (Pg 21-22) (Stretching) Bedtime? JILL: We haven’t put a curtain up!
-
-OLLIE: There’s no neighbors, Jill. (a look from Jill) Okay, okay. I’ll hang a sheet over it. (he peers outside as he is hanging the sheet) Hang on! What’s that? (Jill goes to see)
-
-JILL: Oh! A bonfire. OLLIE: There’s another one.
-
-JILL: Who’s made them, d’you think?
-
-OLLIE: The homeless. Didn’t you see them under the flyover? Cardboard City.
-
-JILL: If we can see their fire, I’m sure they can see our candles.
-
-OLLIE: (Pg 23-26) . . . . Next night! (rustling sounds)
-
-JILL: . . . What’s that? A noise . . . Downstairs. Shhhh!
-
-OLLIE: It’s coming from the kitchen.
-
-JILL: (Panicked) It’s one of the homeless. They saw our candles. I told you they would! (Ollie creeps to the bedroom door) What’re you doing? You’re not going downstairs!? There might be more than one down there, Ollie.
-
-OLLIE: Then I’ll . . . politely ask them to leave.
-
-JILL: Politely ask them?!
-
-OLLIE: They’re just homeless, Jill. Not psycho killers.
-
-JILL: What’re you looking for? OLLIE: A weapon.
-
-JILL: I thought you just said –
-
-OLLIE: Candlestick! This’ll crack a skull in! (he exits the bedroom and heads to the kitchen) (From off stage) AHHH! Someone’s grabbed me from behind! (Sounds of a struggle)
-
-JILL: (When it is quiet, Jill races downstairs) Ollie! (Ollie keeps her from entering the kitchen)
-
-OLLIE: We . . . we struggled . . . he stumbled and he fell.
-
-JILL: He’s . . . he’s dead?!
-
-OLLIE: Listen to me, Jill. Deep breaths (Jill breathes deep) Sit on the stiars . . . now what’s happened here is just a bit of bad luck.
-
-JILL: Look! Under the kitchen door. OLLIE: Light?
-
-JILL: There’s no electric, Ollie. So what’s causing the -- I want to know what it is, Ollie! I want to know right now. It’s fading . . . it’s gone.
-
-OLLIE: Wait here. . . (pushes open the kitchen door a crack and stares – in shock) The body. . . It’s gone. (Jill joins Ollie and screams . . . in delight)
-
-JILL: It’s the kitchen we saw in Selfridges!
-
-OLLIE: (Ollie’s phone chimes) Text. Unknown sender. (reads text) ‘Enjoy your dream home. Love, Miss Dee.’ ***** 7 hours later*****
-
-JILL: (Pg 30) . . . What’re you saying, Ollie? You killed a vagrant and he’s been reincarnated as a designer kitchen?!
-
-OLLIE: Isn’t that quite clearly what has happened? (he exits)
-
-JILL: (Pg 31-33) I can’t stay here. I won’t! (to audience) A man died here last night. Oh, I know what some of you are thinking. He was just a vagrant. When I see a homeless person I always give some money. I know what you’re thinking: “They’ll just spend it on drugs.” Well, some might, yes. But most just want a sandwich. Another thing, when you walk past one of them on the street and you don’t give any money, they mumble something like ‘Have a nice day.” Like they’re trying to make us feel guilty. Guilty for what? Having self-respect? Aspiring to a better life. Why should I – why should any of us? – feel guilty about that? I’m going to the kitchen! (As she enters a beautiful sound effect) Oh! Notice the way the marble shines? Beautiful hot water! And the cupboards full of food. The fridge is full too! (Ollie enters and goes to the sink to wash his hands) Oh, don’t wash your hands in the kitchen sink, Ollie!
-
-OLLIE: No hot water upstairs.
-
-JILL: (thinking) Perhaps we can get – not just hot water – but a whole new bathroom. A bathroom every bit as good as this new kitchen.
-
-OLLIE: What happened last night was an accident. What you’re asking me to do now – this is pre-meditated, cold-blooded . . .
-
-JILL: I want a bath!
-
-OLLIE: And you’re prepared to murder for it?! What if it doesn’t work?
-
-JILL: I think we should at least . . . try. ***** The Renovations Continue****
-
-OLLIE: (Pg 35-36) Stab!
-
-JILL: The dead Intruder With the Baseball Cap is starting to sparkle with fairy lights. It’s the staircase and hallway I saw in Ideal Home magazine!
-
-OLLIE: Stab! The Intruder With the Limp is starting to sparkle with . . .
-
-JILL: Fairylights! Outside! – It’s the front garden I saw in Perfect Gardens and Porches magazine. Look, Ollie, look!
-
-OLLIE: It’s the new Lamborghini Huracan LP 610-2 Super Trofeo!
-
-JILL: Let’s go for a spin.
-
-OLLIE: Who! Jill. What’re you thinking? I kill two people -- Brutally. And then a new car comes along and Shazam! You think I can just forget all about it?! Just like that?
-
-JILL and OLLIE: YESSSSS! *****The New Plan*****
-
-OLLIE: (Pg 38-39) If we’re going to carry on . . .
-
-JILL: The renovations? Oh, I think we should!
-
-OLLIE: So do i. But, we can’t have any more . . . messiness. Not for my sake, you understand.
-
-JILL: Of course not. For their sake. The renovations have to be humane. And, Ollie? I can’t see any of it. It’ll upset baby. And I don’t want to know . . . anything about them. Don’t ever tell me their names. And we can’t wait for them to break in. You’ll have to get in the car and . . .
-
-OLLIE: Find them.
-
-JILL: The ones you choose . . . they should only be the ones who . . . deserve it.
-
-OLLIE: Deserve it? JILL: The one who will never . . . contribute.
-
-OLLIE: Of course . . . the scum. JILL: The scroungers.
-
-OLLIE: The spongers.
-
-JILL: The vermin – Aw! (she rubs her stomach lovingly)
-
-OLLIE: (Ollie touches Jill’s belly and chuckles) He’s saying ‘Let me out of here!’
-
-JILL: Not yet! We’ve got your dream home to get ready first. (Beat)
-
-OLLIE: (to audience) Next day. I’ve been trying to solve the problem of humane home renovation. After many hours of trial and error, I’ve finally come up with something I think ticks all the boxes. Electrocution! Yessss! Fast. Silent. Clean And so - Ta dah! This is the answer to our prayers. Think cattle prod times a million.
-
-JILL: (Pg 40-42) I have married a genius! BZZZZZ! It’s the bathroom I saw in Best Bathroom magazine!
-
-OLLIE: After that the renovations – oh, they happened quickly. Garage, Our bedroom.
-
-JILL: Back Garden, Utility room
-
-OLLIE: Spare bedroom, Loft, Nursery
-
-JILL: It all looked wonderful. (a sound attracts her attention) Oh! What’s that?
-
-OLLIE: (Pg 80-83) Sounds like the letterbox. . . . (he retrieves a letter from the box by the front door) Hand delivered. . . From Larry (reading) Dear Ollie and Jill, I speak on behalf of all your good neighbors. It has come to our attention that some of your behavior is not beneficial to the tone of the neighborhood.
-
-JILL: Not beneficial to the?! (Snatches letter from Ollie) Namely, your persistence in bringing vagrants back to your house. May I remind you, these vagrants are not only potential robbers, but also carriers of disease.
-
-OLLIE: The heartless bastard!
-
-JILL: To conclude, you are lowering the value of our houses.
-
-OLLIE: What!??
-
-JILL: We are instigating a Neighborhood Watch. We are setting up CCTV cameras and we would be grateful if you would sign the enclosed contract . . .
-
-OLLIE: We can’t do any more renovations, can we?
-
-JILL: They’ll be watching us all the time.
-
-MISS DEE: (Appears) Hello, children. I know – That silly letter. Something like this always happens. Clause Six. (makes a tsking sound and shakes her head)
-
-JILL: Maintain discretion.
-
-MISS DEE: We have reached . . . “the moment” where you have to make a decision. To say or . . . move on. (beat) I have a new contract for you here. Exactly the same.
-
-OLLIE: With the same . . . perks?
-
-MISS DEE: Perks? I’ve no idea what you mean. If you can make the new house look as wonderful as this, you’ll make Miss Dee very proud. [but] a friendly warning . . . with each new house, it sometimes feels the sacrifices we have to make . . . double.
-
-OLLIE: (draws Jill aside) You know what she’s saying?
-
-JILL: Each renovation will need two renovators.
-
-OLLIE: That’s a lot of renovators, Jill.
-
-JILL: We can’t stay here and never renovate again. That’s just not an option you know that! Miss Dee!
-
-TOGETHER: We’ll sign!
-```
-
----
-
-## IC-0897: Rain, Rain, Go Away
-
-- Title: Rain, Rain, Go Away
-- Author (byline): Isaac Asimov
-- Work: Buy Jupiter and Other Stories
-- Publisher: Fawcett
-- Publication date as stated: November 1976
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: LILLIAN, GEORGE
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1755
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Isaac Asimov
-Book: Buy Jupiter and Other Stories
-ISBN: 0449230627
-Publisher: Fawcett
-Date(Month/Year): November 1976
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-Rain, Rain, Go Away by Isaac Asimov
-```
-
-### Performance text (classify this)
-
-```text
-LILLIAN: There she is again, There she is, George.
-
-GEORGE: There who is?
-
-LILLIAN: Mrs. Sakkaro, The new neighbors, for goodness sake. Sunbathing. Always sunbathing. I wonder where her boy is. He’s usually out on a nice day like this, standing in that tremendous yard of theirs and throwing the ball against the house. Did you ever see him, George?”
-
-GEORGE: I’ve heard him. It’s a version of the Chinese water torture. Bang on the wall, biff on the ground, smack in the hand. Bang, biff, smack, bang, biff—
-
-LILLIAN: He’s a nice boy, quiet and well-behaved. I wish Tommie would make friends with him. He’s the right age, too, just about ten. I should say.
-
-GEORGE: I didn’t know Tommie was backward about making friends.
-
-LILLIAN: Well, it’s hard with the Sakkaros. They keep so to themselves. I don’t even know what Mr. Sakkaro does.
-
-GEORGE: Why should you? It’s not really anyone’s business what he does.
-
-LILLIAN: It’s odd that I never see him go to work.
-
-GEORGE: No one ever sees me go to work.
-
-LILLIAN: You stay home and write. What does he do?
-
-GEORGE: I dare say Mrs. Sakkaro knows what Mr. Sakkaro does and is all upset because she doesn’t know what I do.”
-
-LILLIAN: Oh, George. I think we should make an effort; the neighborhood should.
-
-GEORGE: What kind of effort?
-
-LILLIAN: To get to know them.
-
-GEORGE: Well, didn’t you, when she’d just moved in? You said you called.
-
-LILLIAN: I said hello but, well, she’d just moved in and the house was still upset, so that’s all it could be, just hello. It’s been two months now and it’s still nothing more than hello, sometimes. —She’s so odd. She’s always looking at the sky; I’ve seen her do it a hundred times and she’s never been out when it’s the least bit cloudy. Once, when the boy was out playing, she called to him to come in, shouting that it was going to rain. I happened to hear her and I thought, Oh no, wouldn’t you know and me with a wash on the line, so I hurried out and, you know, it was broad sunlight. Oh, there were some clouds, but nothing, really.”
-
-GEORGE: Did it rain, eventually?
-
-LILLIAN: Of course not. I just had to run out in the yard for nothing.
-
-GEORGE: Well, since they’re from Arizona, I dare say they don’t know rainclouds from any other kind.
-
-LILLIAN: From where?
-
-GEORGE: From Arizona, according to Tommie. He talked to their boy, in between ball chucks, I guess, and he told Tommie they came from Arizona and then the boy was called in. At least, Tommie says in might have been Arizona, or maybe Alabama some place like that. You know Tommie and his non-total recall. But if they’re that nervous about the weather, I guess it’s Arizona and they don’t know what to make out of a good rainy climate like ours.
-
-LILLIAN: But why didn’t you ever tell me?
-
-GEORGE: Because Tommie only told me this morning and because I thought he must have told you already and, to tell the absolute truth, because I thought you could just manage to drag out a normal existence even if you never found out. Wow—”
-
-LILLIAN: [looking out the window at the neighbor] I’ll simply just have to make her acquaintance. She looks very nice. —Oh, look at that, George. I know she’s staring at that cloud. And now she’ll be going in. Honestly.
-
-LILLIAN: Now, you’re not doing anything tomorrow.
-
-GEORGE: That sounds like a statement, not a question.
-
-LILLIAN: It is a statement. We’re going out with the Sakkaros to Murphy’s Park. With the next-door neighbors, George. How can you never remember the name?”
-
-GEORGE: I’m gifted. How did it happen?
-
-LILLIAN: I just went up to their house this morning and rang the bell. I stood there, jittering, with my finger on the doorbell, till I thought that ringing the bell would be easier than having the door open and being caught standing there like a fool. She was sweet as she could be. Invited me in, knew who I was, said she was so glad I had come to visit. You know.”
-
-GEORGE: And you suggested we go to Murphy’s Park.
-
-LILLIAN: I thought if I suggested something that would let the children have fun, it would be easier for her to go along with it. She wouldn’t want to spoil a chance for her boy. You should see her home. I have never seen any place so spotless.
-
-GEORGE: If you get to know her, then, she’ll be setting you impossible standards and you’ll have to drop her in self-defense.
-
-LILLIAN: Her kitchen was so spanking clean you just couldn’t believe she ever used it. I asked for a drink of water and she held the glass underneath the tap and poured slowly so that not one drop fell in the sink itself. It wasn’t affectation. She did it so casually that I just knew she always did it that way. And when she gave me the glass she held it with a clean napkin. Just hospital-sanitary.
-
-GEORGE: She must be a lot of trouble to herself. Did she agree to come with us right off?
-
-LILLIAN: Well—not right off. She called to her husband about what the weather forecast was, and he said that the newspapers all said it would be fair tomorrow but that he was waiting for the latest report on the radio. Anyway, she called up the weather bureau and had them tell her the latest and she called it out to her husband and they said they’d go, except they said they’d phone us if there were any unexpected changes in the weather.
-
-GEORGE: [To audience] The Sakkaros were young and pleasant, dark and handsome.
-
-LILLIAN: Is that a handbag he’s carrying?
-
-GEORGE: Pocket-radio. To listen to weather forecasts, I bet.”
-
-LILLIAN: [To audience] It was a beautiful day at Murphy’s Park; hot and dry without being too hot; and with a cheerfully bright sun in a blue, blue sky. Even Mr. Sakkaro, though he inspected every quarter of the heavens with a careful eye and then stared piercingly at the barometer, seemed to have no fault to find.
-
-GEORGE: [gloomily] The Sakkaro’s went to the refreshment stand. I told them we’d wait here for them.
-
-LILLIAN: Anything wrong?
-
-GEORGE: No, not really, except that I think he must be independently wealthy. I don’t know what he does for a living. I hinted— He said he’s just a student of human nature. With a handsome, wealthy man next door, it looks as though I’ll have impossible standards set for me, too.”
-
-LILLIAN: Don’t be silly.
-
-GEORGE: And he doesn’t come from Arizona. I said I heard he was from Arizona. He looked so surprised, it was obvious he didn’t. Then he laughed and asked if he had an Arizona accent.
-
-LILLIAN: He has some kind of accent, you know. There are lots of Spanish-ancestry people in the Southwest, so he could still be from Arizona. Sakkaro could be a Spanish name.”
-
-GEORGE: Sounds Japanese to me. —Come on, they’re waving. Oh, look what they’ve bought -- cotton candy,
-
-LILLIAN: [To audience] Huge swirls of pink foam. The Sakkaros held one out to each of us, and out of politeness we accepted. We went down the midway and tried their hand at darts. We took pictures of ourselves. Eventually we collected the youngsters, and the Sakkaros ushered theirs off instantly to the refreshment stand. Tommie hinted the extent of his pleasure at the possible purchase of a hot-dog and George tossed him a quarter. He ran off, too.
-
-GEORGE: Frankly, I prefer to stay here. If I see them biting away at another cotton candy stick I’ll turn green and sicken on the spot. If they haven’t had a dozen apiece, I’ll eat a dozen myself.”
-
-LILLIAN: I know, and they’re buying a handful for the child now.
-
-GEORGE: I offered Sakkaro a hamburger and he just looked grim and shook his head. Not that a hamburger’s much, but after enough cotton candy, it ought to be a feast.
-
-LILLIAN: I know. I offered her an orange drink and the way she jumped when she said no, you’d think I’d thrown it in her face. —Still, I suppose they’ve never been to a place like this before and they’ll need time to adjust to the novelty. They’ll fill up on cotton candy and then never eat it again for ten years.
-
-GEORGE: Well, maybe. You know, Lil, it’s clouding up. Uh-oh, Sakkaro’s seen it. One gets you fifty, he’ll want to go home.
-
-LILLIAN: [To audience] All three Sakkaros were polite but insistent. They were sorry, they had had a wonderful time, a marvelous time, the we would have to be their guests as soon as it could be managed, but now, really, they had to go home. It looked stormy. Mrs. Sakkaro wailed that all the forecasts had been for fair weather.
-
-GEORGE: It’s hard to predict a local thunderstorm, but even if it were to come, and it mightn’t, it wouldn’t last more than half an hour on the outside
-
-LILLIAN: [To audience] The Sakkaro youngster seemed on the verge of tears, and Mrs. Sakkaro’s hand trembled visibly.
-
-GEORGE: [resigned] Let’s go home, [to audience] The drive back seemed to stretch interminably. There was no conversation to speak of. Mr. Sakkaro’s radio was quite loud now as he switched from station to station, catching a weather report every time. They were mentioning “local thundershowers” now.
-
-LILLIAN: [brightly] It does look rather threatening, doesn’t it? [under her breath] Honestly!
-
-GEORGE: [To audience] A wind had sprung up, driving the dust of the weeks-dry road before it, when we entered our street. The leaves rustled ominously. Lightning flickered. [to Sakkaros] You’ll be indoors in two minutes, friends. We’ll make it.
-
-LILLIAN: [To audience] George pulled up at the gate that opened onto the Sakkaro’s front yard and got out of the car to open the back door. We were just in time.
-
-GEORGE: [To audience] The Sakkaros tumbled out, faces drawn with tension, muttering thanks, and started off toward their long front walk at a dead run.
-
-LILLIAN: Honestly, you would think—”
-
-GEORGE: [to audience] The heavens opened and the rain came down in giant drops as though some celestial dam had suddenly burst. The top of our car was pounded with a hundred drum sticks, and halfway to their front door the Sakkaros stopped and looked despairingly upward. Their faces blurred as the rain hit; blurred and shrank and ran together. All three shriveled, collapsing within their clothes, which sank down into three sticky-wet heaps.
-
-LILLIAN: -- they were made of sugar and afraid they would melt.
-```
-
----
-
-## IC-0898: Ravenswood from Bad Habits
+## IC-1286: Ravenswood from Bad Habits
 
 - Title: Ravenswood from Bad Habits
 - Author (byline): Terrance McNally
 - Work: Terrence McNally 15 Short Plays
 - Publisher: Dramatists Play Service
 - Publication date as stated: June 1994
-- Event as filed: Duo Interpretation
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
 - Speaker labels in the text: BENSON, HUGH
 - Teaser before the introduction: Yes
@@ -4213,19 +896,9 @@ Date (Month/Year): June 1994
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTOR: Let's face it, all of us have our own bad habits.
+Let's face it, all of us have our own bad habits. We may bite our nails or crack our knuckles. Some of us interrupt people often or procrastinate. All these nasty habits are hard to break. But have no fear! Ravenswood is a special facility that has the answer! With daily injections . . ., all of your bad habits can be resolved. No pain, no work, no suffering. Call it a quick fix, if you will.
 
-ACTRESS: We may bite our nails or crack our knuckles.
-
-ACTOR: (Interruption) Some of us interrupt people often or procrastinate. All these nasty habits are hard to break.
-
-ACTRESS: But have no fear! Ravenswood is a special facility that has the answer! With daily injections . . ., all of your bad habits can be resolved. No pain, no work, no suffering. Call it a quick fix, if you will.
-
-ACTOR: Ruth Benson, former patient and now a nurse at the facility is the poster child to prove the program works. Once she was an overweight slob with a horrible drinking and smoking habit . . . but now she’s committed her life to helping others . . . and today is her lucky day.
-
-ACTRESS: The love of her life, Hugh Gumbs, has checked himself into
-
-TOGETHER: Ravenswood from Bad Habits by Terrance McNally.
+Ruth Benson, former patient and now a nurse at the facility is the poster child to prove the program works. Once she was an overweight slob with a horrible drinking and smoking habit . . . but now she’s committed her life to helping others . . . and today is her lucky day. The love of her life, Hugh Gumbs, has checked himself into Ravenswood from Bad Habits by Terrance McNally.
 ```
 
 ### Performance text (classify this)
@@ -4460,4625 +1133,5447 @@ HUGH: {Horrified expression – then slowly puts one finger up his nose)
 
 ---
 
-## IC-0899: Removing the Glove
+## IC-1287: The Role of Della
 
-- Title: Removing the Glove
-- Author (byline): Clarence Coo
+- Title: The Role of Della
+- Author (byline): John Wooten
+- Work: Plays for Actresses
+- Publisher: Vintage Books
+- Publication date as stated: March 1997
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ELIZABETH, EMMA, WOMAN
+- Teaser before the introduction: No
+- Spoken words (computed): 1327
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: John Wooten
+Book: Plays for Actresses
+ISBN: 978-0679772811
+Publisher: Vintage Books
+Date (Month/Year): March 1997
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+An acting audition can cause a lot of stress for aspiring actors and actresses. Finding a good acting audition can be hard enough, getting invited to an audition is even harder, and the actual act of auditioning for the role is sometimes the biggest moment of an actor’s life. So here are some tips:
+
+The judges will look into more than just your facial expressions. Basics, such as, were you on time? Did you show an extravagant personality when you were walking into the room? Make them remember your name!
+
+Use your own creativity to do this (be professional, don’t go crazy), but there’s something to be said about making a lasting impression on someone. If it’s close between you and another star actor or actress then it could be your ace in the hole.
+
+Make sure you follow direction well. You will be so focused on your own monologue or whatever you have to do for your audition that you might forget an important factor. Listen to your casting director during your acting audition!
+
+As long as you are sure your casting director is REALLY a casting director. The Role of Della by John Wooten
+```
+
+### Performance text (classify this)
+
+```text
+Lights up on an audition studio. EMMA stands in front if a table. She carefully examines a few head shots, which are spread about the table. She notices one if interest and slowly sits down in a chair in front if the table. ELIZABETH slowly sticks her head into the room.
+
+ELIZABETH: Excuse me. (Startled, Emma quickly puts the head shot on the table. She begins to rise.) No, don't get up. I'm a little early. There was no monitor out front. I saw the door open. I didn't know if I should come straight in ... or if I should wait ... I'll come back in a few minutes. (Starts out)
+
+EMMA: Do you have your audition card?
+
+ELIZABETH: Oh, yeah. (With a smile.) I wouldn't lose this. I had to get here at 6 A.M. to wait in line and I still barely got a slot. Some girl offered me fifty dollars for this card. Just for a chance to audition. It's like a zoo out there.
+
+EMMA: Hand it to me, please.
+
+ELIZABETH: Sure. (She crosses to her. Offers hand.) I must say it's a great pleasure to meet you, Ms. Stewart. I've heard great things about your theatre.
+
+EMMA: (Shakes hand.) Thank you. The card.
+
+ELIZABETH: Oh, right. (She hands Emma the audition card.) Sorry. Just a little nervous.
+
+EMMA: That's all right. I understand.
+
+ELIZABETH: John Wyatt says hello.
+
+EMMA: Really.
+
+ELIZABETH: He's doing great. He just booked ...
+
+EMMA: Do you have a head shot and resume?
+
+ELIZABETH: Of course. (She hands EMMA her resume.)
+
+EMMA: (Takes a moment, looks at the headshot.) No, I need your headshot. (ELIZABETH laughs.) Is something funny?
+
+ELIZABETH: I don't understand.
+
+EMMA: (Deliberately slow.) I need your headshot.
+
+ELIZABETH: This is my headshot.
+
+EMMA: No.
+
+ELIZABETH: Yes, that's me.
+
+EMMA: Really? You've gained a few pounds since this picture was taken, haven't you?
+
+ELIZABETH: I beg your pardon?
+
+EMMA: What role are you interested in?
+
+ELIZABETH: Della.
+
+EMMA: Della? Really? The young ingenue?
+
+ELIZABETH: (A beat.) Yes.
+
+EMMA: (Chuckles to herself.) Okay. Why not. What piece are you doing?
+
+ELIZABETH: Uh ... Today, I
+
+EMMA: Can you move back a little, please?
+
+ELIZABETH: Sure. Sorry. (She moves back, away from table.) Good morning. My name is Elizabeth Ryan. Today, I will be doing a selection from ...
+
+EMMA: Just do the monologue.
+
+ELIZABETH: Right.
+
+EMMA: You only have two minutes, you know?
+
+ELIZABETH: Yes. (She turns and takes a breath. She turns back around, and begins.) "Oh, we would get into terrible arguments, my mother and I."
+
+EMMA: Do I have something on my face?
+
+ELIZABETH: Pardon?
+
+EMMA: Why are you looking at me?
+
+ELIZABETH: Is it okay if I direct my piece to you?
+
+EMMA: What do you think?
+
+ELIZABETH: (Begins again, awkwardly directing piece to chair.) "Once, when I was twelve or thirteen, I told her that God was a moronic fairy tale-I think I'd spent an entire night ... "
+
+EMMA: Do you have anything else?
+
+ELIZABETH: Excuse me?
+
+EMMA: Do you have another monologue? (ELIZABETH looks confused.) Anything? ... I've already heard that twice today.
+
+ELIZABETH: Really?
+
+EMMA: Yes, and I was glad Agnes killed the baby.
+
+ELIZABETH: (Taken aback.) I'm sorry. If you'd like to give me a direction with it, I'd be happy to ...
+
+EMMA: This is not an acting class, Elizabeth. Besides, what you need is an interpretation class. Agnes of God is not a melodrama.
+
+ELIZABETH: No, of course not. I wasn't trying to ...
+
+EMMA: Don't make excuses. Just do something else.
+
+ELIZABETH: I don't have anything else prepared. I thought that piece was appropriate.
+
+EMMA: Actors do not think, Beth. They act. Those who think, think. Those who act, act. Those who think they can act, spend more time thinking than acting.
+
+ELIZABETH: Of course. Can I please try again?
+
+EMMA: No. Tell me a story ... Something funny.
+
+ELIZABETH: Funny?
+
+EMMA: Yes. Make me laugh.
+
+ELIZABETH: Just like that?
+
+EMMA: You want this job, don't you? You want to play Della?
+
+ELIZABETH: Of course.
+
+EMMA: Then make me laugh. Are you an actress or aren't you?
+
+ELIZABETH: Okay ... Let's see ... When I was a little girl, my friend Carol and I found this old doll's house in her attic. We sneaked it carefully downstairs and cleaned it off. Carol had a pet mouse, Binkey. So we dressed Binkey up in this white Barbie dress and ...
+
+EMMA: (Ignoring her.) So, I see here that you've listed Sandy in Grease as one of your credits.
+
+ELIZABETH: Oh, yes. It was a great experience. Working with Paul Jones. Do you know him?
+
+EMMA: Didn't anyone ever tell you not to lie on your resume?
+
+ELIZABETH: I didn't.
+
+EMMA: Oh, come now.
+
+ELIZABETH: I didn't. I swear I didn't.
+
+EMMA: There's no character listing here by The Glass Menagerie. Was it done in the absurdist style or did you play the gentleman caller?
+
+ELIZABETH: I played Laura.
+
+EMMA: That must have been some time ago.
+
+ELIZABETH: Last summer.
+
+EMMA: I'm sorry, I didn't mean to interrupt your little story.
+
+ELIZABETH: That's okay ... Uh, where was I ... So, after we dressed Binkey up in the Barbie costume, we placed him inside the doll house and he crawled right into the miniature bathroom as if he wanted to take a bath ...
+
+EMMA: Add a Southern accent.
+
+ELIZABETH: (Adding a Southern accent.) ... Then he got stuck in the miniature hall closet and we had to shake the doll house up and down and then Binkey popped out but he was all hyper and we couldn't catch him so he ran downstairs and Carol's mom was having this big ritzy dinner party and Binkey ran right at ...
+
+EMMA: Let's see a little Spanish.
+
+ELIZABETH: ... la grande jefe de mi madre, pero cuando la senorita jefe ...
+
+EMMA: No. I don't want Spanish dialogue. I want a Spanish accent. Comprende?
+
+ELIZABETH: Oh ... I can't do a Spanish accent.
+
+EMMA: Then at least show me you have some energy ... Act the story out.
+
+ELIZABETH: (A beat. Elizabeth proceeds to act out everything she says.) So, Carol's mother's boss screamed, leaped up onto the couch and pulled up her dress. Well, she wasn't wearing underwear ...
+
+EMMA: Faster.
+
+ELIZABETH: ... Then Carol's mother's boss's husband tried to grab her but instead he knocked her off into the double salsa sour cream dip and ...
+
+EMMA: Faster!
+
+ELIZABETH: ... and Binkey got scared and ran out into the front yard and the whole party went outside to look for him except Carol's mother's boss's husband and Carol's mother's boss who was crying, not because of the double salsa dip or even the flashing incident.
+
+EMMA: No words!
+
+ELIZABETH: Pardon?
+
+EMMA: No words. (Completely enthralled in the story, Elizabeth then acts out the rest of the story without words. This includes a chase scene, fainting, a cat, a dog, maybe even death. Elizabeth finishes with a loud laugh. She can't help but applaud herself.)
+
+EMMA: (A beat. Dryly.) Couldn't think of anything funny, huh?
+
+ELIZABETH: (A long beat. On the verge of tears) Why are you being so rude to me.
+
+EMMA: (Innocently.) Rude. Am I being rude? I'm sorry, Elizabeth. Please continue your quaint little rodent story.
+
+ELIZABETH: I don't want to. I'm leaving.
+
+EMMA: Leaving. You sure? You still have a few seconds left.
+
+ELIZABETH: If you didn't think I was right for the role you should have just said so.
+
+EMMA: Right? You're perfect. I just wanted to make sure you could handle all the terrible things Della must endure.
+
+ELIZABETH: Really?
+
+EMMA: Sure.
+
+ELIZABETH: And?
+
+EMMA: There is no doubt in my mind that you think you would be perfect for this role. I don't think I've ever seen an actress quite like you before.
+
+ELIZABETH: Thank you!
+
+EMMA: But out of fairness I have to finish out the day. I'll call you tomorrow. Mind you, it will be late. Between midnight and 4 A.M. Make sure you're awake and by the phone. If you don't pick up after the first ring, I'll offer Della to someone else.
+
+ELIZABETH: Don't worry. I won't sleep a wink.
+
+EMMA: Good.
+
+ELIZABETH: Anything I should know about the character? Keep in mind?
+
+EMMA: Leave the wig at home. It doesn't fit.
+
+ELIZABETH: Wig?
+
+EMMA: And learn a Spanish accent and combine it with the Southern. You can talk faster too.
+
+ELIZABETH: Even faster?
+
+EMMA: Pace is everything.
+
+ELIZABETH: Okay. I'll work on it tonight.
+
+EMMA: Alright. Run along now. I'll be in touch ... (ELIZABETH smiles and turns to go.) Wait! Your number is 555-8798?
+
+ELIZABETH: Yes.
+
+EMMA: Just wanted to make sure.
+
+ELIZABETH: Thank you. Thank you so much!
+
+EMMA: No, thank you. (ELIZABETH exits. EMMA watches her off. She picks up ELIZABETH's head shot, crosses to the waste basket and throws the head shot away, giggling to herself. A woman enters with coffee and takeout bag.)
+
+SCENE
+
+WOMAN: Hi, can I help you?
+
+EMMA: (Startled.) Yes. (A wide-eyed smile suddenly appears.) Hi, I'm a little early. I saw the door open. Should I wait outside? ... I'll wait outside.
+
+WOMAN: No, that's okay. Do you have your audition card?
+
+EMMA: Yes. (Hands her ELIZABETH’S card.) Here you go ... I must say it's a pleasure to meet you, Ms. Stewart. I've heard great things about your theatre.
+
+WOMAN: Well, thank you. We try.
+
+EMMA: (Trying to be sincere.) John Wyatt says hello.
+
+WOMAN: John! How is he?
+
+EMMA: Great.
+
+WOMAN: Do you have a picture for me?
+
+EMMA: Sure do. (Crosses to bag and pulls out her resume.)
+
+WOMAN: It's like a zoo out there.
+
+EMMA: I know. I had to get here at 6 A.M. just to get an audition card. I didn't think I was going to get to see you. (Elizabeth hands the woman her resume.)
+
+WOMAN: What piece are you doing?
+
+EMMA: A short selection from Agnes of God.
+
+WOMAN: (Smiles.) In that case, you better move back a few steps.
+
+EMMA: Of course. (Emma backs up.) Good morning. My name is Emma Winns.
+
+WOMAN: Wait ... Uh, what role would you like to be considered for, Emma?
+
+EMMA: (A beat.) Della.
+```
+
+---
+
+## IC-1288: Ruthless!
+
+- Title: Ruthless!
+- Author (byline): Joel Paley
 - Work: Not specified
 - Publisher: Samuel French, Inc.
-- Publication date as stated: 1994
-- Event as filed: Duo Interpretation
+- Publication date as stated: July 2016
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: ACTOR 2, LOUIE, SUPPORT GROUP MEMBERS, WILL, NEWSCASTER’S VOICE, PROTESTER’S VOICE, DISAGREER’S VOICE, DAD, MOM, CINDY, JESSICA, MARK
+- Speaker labels in the text: SYLVIA, JUDY, TINA, MISS THORN, LOUISE, NEWSCASTER
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1231
+- Spoken words (computed): 1347
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Clarence Coo
-ISBN: 978-0874406993
+Author: Joel Paley
+ISBN: 978-0573704680
 Publisher: Samuel French, Inc.
-Date (Month/Year): 1994
+Date (Month/Year): July 2016
+Revised in August 2015 to reflect the 2015 Off Broadway production.
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-Removing the Glove by Clarence Coo
+What do you get when you mix a struggling talent agent, a 1950’s style stay-at-home mom, an elementary school teacher who has written her own (probably illegal) version of Pippi Longstocking, and a 3rd grader who knows what she wants and will do anything to get it? You get a parody of the original Bad Seed! You get . . . Ruthless! by Joel Paley
 ```
 
 ### Performance text (classify this)
 
 ```text
-Suggested Roles: ACTOR 1: Louis, Support Group Members, Newscaster’s Voice, Disagreer’s Voice, Dad, Mom, Jessica, Mark
+SYLVIA: (Pg 9) Good evening, my name is Sylvia St. Croix. Where does talent come from? Meet Judy Denmark. (Pg 11) A wife and mother leading an idyllic suburban life, and although Judy has absolutely no talent whatsoever, her only child, her daughter Tina has been blessed with a great deal of talent. Blessed, or dare I say, cursed? But I get ahead of myself.
 
-ACTOR 2: Will, Protestor’s Voice, Cindy
+(Scene opens with Judy answering the telephone – Phone rings)
 
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
+JUDY: (Pg 12-13) Tina’s mother. . . Hello, Pastor Peters Tina has a choir solo Sunday? Oh, she just loves to sing and yes, she loves to pray. She’s good at everything! She’s positively heaven-sent. My kid’s the perfect 8-year-old. Yes, she’s enthralling. Thank you for calling. Good bye. (She hangs up. Doorbell – Judy answers) Won’t you come in. (Sylvia hands her a business card) Miss St. Croix.
 
-(WILL walks to some empty chairs up Centerstage. He sits in one of them. The other chairs soon fill up with people of various ages and genders. A middle-aged man, LOUIE, stands in front of them. LIGHTS come up on the SUPPORT GROUP.)
+SYLVIA: Please, call me Sylvia. (Pg 14) This lovely home, and of course the very reason I’m here . . . your daughter, Tina. I caught her performance last Saturday at The Rolling Hils Twilight Home for the Elderly. Sensational.
 
-LOUIE: Hi. I’m Louie and I’m left-handed!
+JUDY: We’re very proud of our daughter. (Pg 15) Would you like to meet her? She’s out in the garage breaking in her new tap shoes. (calls off stage) Tina! We have company. (Tina enters) Darling, say hello to Ms. St. Croix.
 
-SUPPORT GROUP MEMBERS: AND THAT’S OKAY!
+TINA: (performs a jazzy dance combination) Hi!
 
-LOUIE: So are there any new members today? (everyone looks at WILL who appears to be very intimidated.)
+SYLVIA: (claps enthusiastically) (Pg 16) Tina, how would you like to be a star?
 
-WILL: Uh… me. I’m Will.
+TINA: Why, it’s all I’ve ever wanted! More than anything in the whole wide world!
 
-SUPPORT GROUP MEMBERS: HI, WILL! YOU’RE OKAY!
+SYLVIA: That’s why I’m here. I work with specially gifted children. (to Judy) You are planning a theatrical career for your daughter, are you not?
 
-WILL: I saw the ad for your support group in the paper and I thought I’d stop by for a meeting. (weakly) Okay… I’m left-handed.
+JUDY: (Pg 17) We want our daughter to have a normal childhood.
 
-LOUIE: What was that?
+TINA: I’ve had a normal childhood! It’s time to move on. (Pg 18) Oh, Mama, please say yes. Please?!
 
-WILL: (stronger) I’m left-handed.
+JUDY: Well, I suppose some coaching can’t hurt, but only after school.
 
-LOUIE: What was that?
+SYLVIA: We start this afternoon!
 
-WILL: (shouting) I’M LEFT-HANDED! (pause) You know, that’s the first time I’ve said those words aloud.
+TINA: (shaking her head) Today’s the audition for the school show. I’m trying out for the lead.
 
-LOUIE: Congratulations, Will. You’ve taken your first step in being honest with yourself. The first step in being honest with the world. The first step in… (raises his left hand) Removing the Glove! (in an overly dramatic fashion, pantomimes removing a glove from his hand. Cheers follow)
+SYLVIA: Oh, Judy, you must be so proud. I wish I had a little girl.
 
-WILL: (very intimidated) Removing the glove. Okay. So, what is that like?
+JUDY: Don’t you have any children, Sylvia?
 
-LOUIE: Removing the glove is removing the lie that you have lived for other people. Removing the glove means doing what is truly natural for you. It means to be yourself. Because you, Will are okay.
+SYLVIA: Let’s just say she didn’t have any talent. (Pg 19) Oh, she used to jump around the living room. “Look, Mama, I’m dancing!” But she was merely jumping. It was embarrassing! ******* The Turner School Auditorium – Later that afternoon *******
 
-WILL: But… but… then people will know.
+MISS THORN: (Pg 20) Good afternoon, students. I’m Miss Thorn, and after directing last year’s riveting production of Who’s Afraid of Virginia Woolf, I’m delighted to announce this year, the Turner School will present “Pippi in Tahiti,” the musical written and directed by me (gesturing to herself) Myra Thorn! (Pg 21) And now . . . the starring role of Pippi Lingstocking will be played by . . . Louise Lerman! (Tina clearly is disappointed) ******* The Denmark Living Room – later that afternoon *******
 
-LOUIE: That’s right, Will. People will know. Because you tell them. Not just in your actions, but in your words. It’s better for your friends and family to know from you before they find out for themselves. You HAVE to tell them.
+SYLVIA: (Pg 22) You had your heart set on playing Pippi, didn’t you?
 
-WILL: I’m going to (raises his left hand) remove the glove! (removes an imaginary glove over dramatically) I’m going to start with my family at the dinner table. Then I’ll tell my friends at school. I’m committed to this. I just can’t live my life like this. I can’t hide anymore. I’m ready.
+TINA: It’s the best part in the show! I don’t understand.
 
-NEWSCASTER’S VOICE: Left-handed activists are staging another protest in front of the White House this afternoon. They demanded the passage of a new civil rights bill which would ban job discrimination based on hand dominance. We take you there now, live.
+JUDY: Oh, so what if Louise Lerman is playing Pippi -- You get to play Puddles!
 
-PROTESTER’S VOICE: (sound of protesters chanting is heard in the background) The fact that I am left-handed does not make me any less of a worker, or a person, than anyone else. I was born left-handed and I am proud. . .
+TINA: (Showing her true nature) I don’t want to play a dog. I mean, look at me. I was born to play Pippi Longstocking! (She stomps her feet) And Louise Lerman can’t act!
 
-DISAGREER’S VOICE: Left-handedness is a sick, depraved practice. That’s why it’s called LEFT-handedness -- because it is not RIGHT. God intended for us all to use our right hand. You, sir, are a pervert. (cheering from the bystanders; shouts of “pervert” and “lefty” are hurled at the protesters. Dad shuts off television and addresses the family)
+JUDY: Now you listen to me, young lady, do you want to stay in showbusiness?
 
-DAD: I read in the paper today that they’re going to let left-handers in the military.
+TINA: (angelic) You’re right, Mother. What would you give me for a bucket of kisses? [doorbell] (Pg 23) I’ll get it. (Opening the door) Why, good afternoon, Miss Thorn. Haven’t changed your mind, have you?
 
-MOM: Oh, yes. The new “Don’t Ask, Don’t Tell” policy. It was the President’s decision.
+MISS THORN: I’m afraid not. (Tina pouts)
 
-CINDY: Well, why would the President be catering to the interests of those left-handers? (pause) Wait, you don’t think that the President . . .
+JUDY: Miss Thorn, the reason I’ve asked you here is because Tina’s awfully upset about not playing Pippi.
 
-DAD: Cindy, don’t be silly. If the President was left-handed, he would have never been elected to office.
+MISS THORN: I must admit, Mrs. Denmark, I’ve never known anyone to want a part so desperately.
 
-CINDY: Have you heard about all those left-handed priests and left-handed Boy Scout leaders? The world just isn’t safe anymore. (remembering, then getting choked with excitement.) Oh, I can’t believe I forgot to tell you guys. George Bradshaw removed the glove about being ambidextrous at the game last night.
+SYLVIA: (Pg 26) My dear Miss Thorn, might you considered letting Tina be the Lerman girl’s understudy?
 
-MOM: George Bradshaw . . . isn’t he the school’s biggest football star?
+MISS THORN: We’re only giving one performance, but if it makes you happy then, yes, Tina can be Louise’s understudy.
 
-CINDY: Sure is. No one ever suspected HIM. I mean, George Bradshaw was a football player. He never seemed peculiar. It’s not like he was one of those Drama Lefties. . . He got kicked off the team.
+TINA: Wait a minute. You expect me to learn all of Pippi’s songs and all of Pippi’s lines -- and there’s still a chance I don’t even get to play Pippi?
 
-DAD: I tell ya, kids, those left-handed people are everywhere these days. You’ve got to be real careful. Speaking of football, Will, why didn’t you try out for the team at school? You could have been the quarterback, like I was when I was your age. *******
+MISS THORN: (Pg 27) That’s correct.
 
-(WILL address the audience; his family and two friends are listening intently)
+SYLVIA: Unless, of course, something were to happen to Louise. (she looks knowingly at Tina)
 
-WILL: Hey guys. Can I talk to you for a moment? I’ve been meaning to tell you something that’s been burning inside of me for a long time. I’ve tried to deny it myself––but I just can’t. I’ve faced the fact that it’s true and I hope that you can, too. I’m left-handed. I can still remember my first left-handed experience. I was doing my math homework one day, when my mind started to wander to other things. I looked at my pencil and thought, “What would it be like to put it in my left hand?” So, then I took my apprehensive fingers and wrapped it gently around that hard, wooden number 2. And I slid it across that piece of paper like there was no tomorrow. And it felt so good. So good. It was ecstasy! Sorry, but this thing I am -- left-handed -- it doesn’t change who I am. I hope you realize that. Because I’ve always been that way. And I guess I always will. Please try to understand? Please?
+TINA: (Tina gets the message) I’ll do it! ******* The Turner School Auditorium – 6 weeks later *****
 
-MOM: Jim, turn around right now. Jim, he’s our son.
+MISS THORN: (Pg 32) Okay, let’s take it from after the storm at sea. Rachael Hobbs, stop giggling. This is a theater, not a playground. We’re not here to have fun. Okay, here we go. Take your places for scene five. Go music!
 
-DAD: Well, he can be YOUR son because MY son was right-handed.
+LOUISE: (enters dressed as Pippi Longtocking; looks around in awe) This must be Tahiti! And I’m Pippi! Pippi Longstocking! I’d like you to meet my best friend, Puddles! (An unhappy Tina enters as the dog) (Pg 33) Puddles and I were in a terrible storm. Our boat tipped over and everyone got drowned. But Puddles saved my life and brought me to this tropical paradise. Way to go, Puddles! Shake! (holds out her hand) You’re supposed to shake my hand.
 
-CINDY: (on the phone) Yes, my own brother, first George Bradshaw; now my own brother. . .
+TINA: (with an attitude) Look! I don’t think Puddles would want to shake hands here, ok? Not after being shipwrecked and having to doggy-paddle fifty miles!
 
-DAD: My own son had possibilities of becoming a quarterback. Not with a left-hand. He’d be a laughingstock. He’d be a disgrace. They’d never let him into the locker room. I can just picture it now. It’s after a game and he’s in there showering with them. He reaches out to turn the hot water on and because he can’t control himself he . . . (disgusted.) turns the COLD water on!
+LOUISE: I’m sorry, I can’t act with this. (gestures to Tina)
 
-CINDY: (still on the phone.) Yeah, I know . . . It’s like they’re coming out from everywhere these days . . . Yeah . . . I know. It’s like earthworms after a rainstorm . . .
+TINA: You can’t act period. The only reason you got the part is because Mommy and Daddy bought it for you.
 
-DAD: I can’t believe this. Do you know what this means? This means I’ve failed as a parent.
+LOUISE: (Pg 34) Do you honestly think I want to be in this stupid play? It’s embarrassing. But it makes my parents happy, and when Mike and Betty are happy, I’m happy. Got it?
 
-WILL: Dad, please turn around
+TINA: But I’ve got to play Pippi!
 
-DAD: I won’t until you apologize for lying to us about being left-handed.
+LOUISE: You don’t have the range! (Louise flippantly leaves the stage)
 
-WILL: Dad, I’m not lying to you. I keep trying to tell you that.
+TINA: (menacingly) I ASKED POLITELY. I SAID PLEASE . . . Now there’s nothing left to do but . . .
 
-DAD: So, if you’re not lying, why did you choose this lifestyle?
+(Sweetly) Oh, Louise! (exits after Louise) ********* The Denmark Living Room – Later that afternoon*******
 
-WILL: Dad, I didn’t choose it.
+NEWSCASTER: (Pg 35) (voice over) Time for the local news. One of the students attending Turner Elementary School accidentally hung herself with a jump rope after falling from a catwalks high above the auditorium. The child’s name is being withheld until parents can be notified. In other news . . .
 
-DAD: I’m disappointed in you, Will. Don’t you know how wrong this is? This is the most sinful and morally reprehensible thing you could do. Don’t you understand why left-handedness is wrong, Will? It’s completely unnatural! I don’t want to ever speak to you again. *********
+JUDY: (Pg 36) That poor little girl.
 
-WILL: Jessica, we need to talk.
+TINA: Tina enters from school) Hello, Mother. We didn’t have our lunch because something bad happened to Louise Lerman. (smiling) Can I have a hamburger?
 
-JESSICA: I don’t have to talk to you. You’re left-handed now. Next thing you know, you’ll be cutting up paper with special scissors. Then you’ll join one of those leftist organizations and march down the streets of Washington, D.C. proclaiming your handedness in front of nationwide TV.
+JUDY: Of course. Now, sweetheart . . . if you want to go to your room . . . if you want to cry – or even stop smiling, I’ll understand.
 
-WILL: Jessica . . .
+TINA: Why should I cry? I didn’t get killed. (Tina exits, then doorbell)
 
-JESSICA: (walks off in a state of shock) Hey Ted, would you like to cut some paper with me? I have some very nice scissors! Ha ha ha. Ha ha ha.” (MARK enters) **********
+MISS THORN: (obviously shaken) Hello, Mrs. Denmark.
 
-WILL: Mark. I’m glad you’re here. Look, I’m really sorry if . . .
+JUDY: (Pg 37) Come in, Miss Thorn. Of course, the play has been canceled.
 
-MARK: Oh, sorry huh? I know the trick you’re playing. Next, you’ll suggest we shake hands and make up. But, of course, you’ll want to shake with our LEFT hands. Wasn’t that the plan, eh? But I’m ahead of your game, you little deviant. What are you looking at? You’re looking at my left hand, aren’t you? You are! I saw you, so stop it. Stop looking! (hysterical, as he runs off) Aaaaaaaaaaaah! *********
+MISS THORN: Whatever gave you that idea? I think this is an excellent opportunity for the children to learn that the show must go on!
 
-WILL: I thought removing the glove would make me feel better. (walks over to the dinner table.)
+JUDY: (Pg 38) But it’s wrong. Shockingly wrong!
 
-DAD: You’re back! (gives WILL a big hug.)
+MISS THORN: (Pg 37) How’s Tina. She is the understudy. (losing it) (Pg 38) Look, Mrs. D! That talented little girl of yours better be in costume and in place by show time, or I shall be forced to go to the police!
 
-WILL: Dad, you talked to me!
+JUDY: The police?!
 
-DAD: It’s going to be okay, Will. It’s going to be okay! Everything will turn out just fine. (removes a brochure from his pocket) Cindy gave this to me. There’s this nice psychiatrist in the city named Dr. Fussbaum. And this guy can really help you. He says that with two years of therapy and electroshock treatment, you’ll be as good as normal! Isn’t that great? Thank you, modern science! Thank you! (one more hug then WILL steps downstage and speaks to the support group)
+MISS THORN: It seems the Pippi wig is missing. Now, Tina was seen chasing Louise and snatching at the wig. But, I suspect nothing. Not a thing.
 
-WILL: You know, removing the glove has really taught me a lesson. So, I thought that I should tell you something that I’ve never told anyone before. Well . . . I’m a Pisces.
+JUDY: Why don’t you just come out and say it? Look me straight in the eye and tell me that my eight-year-old child killed for a part in the school play.
+
+MISS THORN: Not just any part, Mrs. Denmark. The lead! (she storms out) *********
+
+JUDY: (Pg 39) [Judy notices Tina’s school bag by the door, she unzips it and pulls out the Pippi wig andwhispers in horror) Tina!
+
+TINA: Did you call me, Mother?
+
+JUDY: What are you doing with Louise Lerman’s Pippi wig? And don’t lie.
+
+TINA: (with feigned innocence) I found it after Louise had her. . . accident. I was afraid to give it to Miss Thorn. Afraid Miss Thorn would think I was naughty.
+
+JUDY: Were you naughty, Tina?
+
+TINA: (innocently) Oh, no, Mommy. I wasn’t naughty. I found the wig and put it in my bag so it wouldn’t get lost. (Pg 40) [Besides] It’s my wig and it’s my part! (beat) I love you and I think you’re the best mother in the whole wide world. That’s what I tell everyone.
+
+JUDY: Knock it off, Tina. You’re not that good! You did it, didn’t you? You killed Louise Lerman for a part in a play?
+
+TINA: Not just any part, Mother! The lead! I told Louise I had to play Pippi. But she said I didn’t have the range. So, I chased her up onto the catwalk. That’s when she gave me the wig. I asked her if that meant I could play Pippi and she said . . . “Yeah, over my dead body!” So I wrapped the jump rope around her fat neck and pushed her over the side.
+
+JUDY: Oh, Tina, Tina!
+
+TINA: I wanted the part. What could I do?
+
+JUDY: You could have hurt her. You didn’t have to kill her.
+
+TINA: (Pg 41) I wasn’t thinking. I was tired and I didn’t have my lunch.
+
+JUDY: Look at me, Tina. You did a bad thing, a very bad thing. You killed that little girl Do you know what that means?
+
+TINA: (beat and then with an evil smile) Yeah, it means I’m playing Pippi!
 ```
 
 ---
 
-## IC-0900: The Rental
+## IC-1289: Saving Grace
 
-- Title: The Rental
-- Author (byline): Mark Harvey Levine
-- Work: The Best 10-Minute Plays 2010
-- Publisher: Smith and Kraus, Inc.
-- Publication date as stated: Sept 2010
-- Event as filed: Duo Interpretation
+- Title: Saving Grace
+- Author (byline): Cynthia L. Cooper
+- Work: Elvis Monologues
+- Publisher: Heinemann Drama
+- Publication date as stated: Dec 1997
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: HAROLD, SONYA
+- Speaker labels in the text: none
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1839
+- Spoken words (computed): 1473
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Mark Harvey Levine
-Book: The Best 10-Minute Plays 2010
-ISBN: 978-1575257723
-Publisher: Smith and Kraus, Inc.
-Date (Month/Year): Sept 2010
+Author: Cynthia L. Cooper
+Book: Elvis Monologues
+ISBN: 0435070444
+Publisher: Heinemann Drama
+Date(Month/Year): Dec 1997
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTOR: No, Sonya didn’t just wake up in an episode of the Twilight Zone
+We the undersigned, in our enduring love for Elvis, implore all those involved in cloning to hear our plea. One cell would allow future generations to witness his presence. The technology is here, and this petition is a testament to our will. Bacteria, sheep, monkeys—all cloned! Some fear the possibilities. I urge you to seize them. Americans for Cloning Elvis (ACE) requests your support. Make your view known around the world by signing our petition.
 
-ACTRESS: Harold is truly her Birthday present for the day from her best friend Valerie
+Seriously, the organization exists and likely prompted this monologue in response . . . Saving Grace by Cynthia L. Cooper
 
-ACTOR: And although this selection is a work of fiction . . .
-
-ACTRESS: There really is a website available where you can “RENT A FRIEND” for around $10.00 an hour.
-
-ACTOR: Shameless plug for the website: RENTAFRIEND.com! - You can rent a local Friend to hang out with,
-
-ACTRESS: Go to a movie or restaurant with,
-
-ACTOR: Or someone to go with you to a party or event.
-
-ACTRESS: Rent a friend to teach you a new skill or hobby, or to show you around an unfamiliar town.
-
-ACTOR: RENTAFRIEND.com!
-
-ACTRESS: Ok, enough . . . enough . . . on with the show!
-
-TOGETHER: The Rental by Mark Harvey Levine
+(JANEANNE, wearing a lab coat, sits at a bare unadorned desk, leaning across. Unseen is an investigator, to whom she speaks. She suddenly leans back, closes her eyes for a moment, and begins to sway in her seat. SHE takes a deep breath, opens her eyes and begins to sing, demonstrating great feeling if minimal ability.)
 ```
 
 ### Performance text (classify this)
 
 ```text
-Sonya's apartment, early morning. There is a knock at the door. Sonya staggers out, half awake, tying on a robe. At her door is Harold, a thirtyish, normal-looking man in a nice coat. He carries a bouquet of flowers, a clipboard, and a picnic basket.
+Characters: JaneAnne – a mature woman lab worker with a reasonable respect for Elvis. She speaks to an unseen investigative agent.
 
-HAROLD: (Through door.) Hello, Sonya? It's Harold!
+"Love me tender, love me true ..." 1956. Title of Elvis' first movie, too; same year. (SHE hums.)
 
-SONYA: ... Who?
+So you don't like my singing. I can tell by the way you look down at your pad, pretending there's some very important information you have to write down for the captain. Well, you don't like my singing, and I didn't like what they were doing to Elvis. So that's why I did something about it.
 
-HAROLD: (Through door.) Harold! Valerie sent me. Valerie Persky?
+Oh, I heard when you said it's not about arrest. "You're merely conducting an investigation into potentially improper expenditure of government funds." What are you? FBI? Or was it the Food and Drug Administration -- the FDA? Or did you say the FTC? Or the CDC? All those people in all those agencies with all those letters who are all interested in investigating DNA. And Elvis. And little old me.
 
-SONYA: Valerie ... ? (She opens her door a little. She gapes at all the stuff he has.) Oh my God!!! What did she do?
+Well, you can bust me if you want to. I don't care. All those letters get right to the heart of the problem. I saw it when I first went back into biology. I discovered that people had lost the feel of things.
 
-HAROLD: (Handing her the flowers.) Happy Birthday from Valerie Persky. I'm Harold, your boyfriend. (He kisses her in a familiar manner and enters.)
+Like take DNA. That's all wrong. Three lousy letters. It's deoxyribonucleic acid. God, I love the sound of it so much. Deoxyribonucleic acid. Deoxyribonucleic acid. I feel like I'm making beautiful music every time I say it. And it's just one part. When you really get behind deoxyribonucleic acid -- put your body and feeling and emotion under DNA -- deoxyribonucleic acid -- ahhh ...that is fine. Really, really fine.
 
-SONYA: I ... I ... What?!
+(SHE says the last line as if SHE is in love.) But even really fine things need tender loving care. (SHE stands, as if stepping back into the lab.)
 
-HAROLD: (Quickly.) Let me get this stuff in the fridge ... Honey, did I wake you? I did. I'm so sorry. Sit down, relax, I'll be right back. Is this the kitchen? Great. (He exits to kitchen. Sonya grabs a baseball bat she has by the door.)
+The director gave a little seminar to all of us new people when I was first hired at the lab. (SHE becomes the director.)
 
-SONYA: Excuse me! Excuse me! Hello? Who are you?
+"One day because of our work on something invisible to the eye -- DNA -- we will begin to know the complete identity of humans. We will know every nucleotide, every A, C, G and T inside the human body, all three billion elements of the interior code that defines a person completely, making an exact blueprint for every human being."
 
-HAROLD: (Offstage.) I'm Harold! Harold, your boyfriend.
+Suffice to say, I was about the oldest one there. I'd come back to biology after having two kids. So maybe my understanding of history was a little different -- at least on certain points. I'd sit and listen at lunch hour. (She becomes three other technicians.)
 
-SONYA: My boyfriend?!
+"Imagine," said one, "if we could figure out the complete DNA code of one really famous person."
 
-HAROLD: (Off stage.) Yeah ... You know, for your birth - ? (He reenters and sees her with the bat. He ducks behind the couch.) Aaaah! Don't shoot!
+"Yeah," said another, "even if DNA has three billion elements, that's still quantifiable. It's not infinity."
 
-SONYA: ... It's a baseball bat.
+"And there is money in it. People are willing to put up investment capital for DNA banks, that kind of thing."
 
-HAROLD: Alright, don't hit.
+"But you'd need one really famous person."
 
-SONYA: I'm pretty sure I'd remember having a boyfriend.
+"There's Einstein ..."
 
-HAROLD: From Valerie! I'm from your friend Valerie! Wait, wait ... I come with a card. (He holds out a standard "enclosure card" which she grabs and open.)
+"Not splashy enough."
 
-SONYA: Well, this IS her hand-writing. (Reading.) "Sonya ... what do you get for the girl who deserves everything? Well, you deserve a really great boyfriend, so I got you one, for today at least. Don't wear him out, ha ha. Happy Thirtieth! Love, Valerie." (Pause.) You gotta be kidding.
+"Queen Elizabeth."
 
-HAROLD: You had no idea I was coming. OK, OK ... this happens occasionally. Once they sent me to the wrong house; I thought I was gonna have to date an eighty-year-old guy named "Lou" ...
+"No one really cares."
 
-SONYA: (Waving bat) They?! Who's they? What is this?
+"Shakespeare."
 
-HAROLD: Wait! I'm your birthday present! From Rent-a-Boyfriend, Ltd.! ... Apparently, I'm a SURPRISE birthday present.
+"Too esoteric."
 
-SONYA: Rent-a-Boyfriend, Ltd.?!
+(To investigator.)
 
-HAROLD: I can explain, if you promise not to shatter my skull. (Still suspicious, she lowers the bat.) Thank you. (The company speech.) "Rent-A-Boyfriend, Ltd., has been providing the finest in temporary romantic relationships to the discriminating woman since 1985." I've been rented to you for our sixteen hour "affaire de coeur" package. I'm sure you'll enjoy it, it's one of our most popular ones.
+These names went round and round like a hound dog crying all the time, and, as I recall, that's when Elvis first came up.
 
-SONYA: I'm going to kill Valerie for this.
+(As the characters.)
 
-HAROLD: Listen, this is a generous gift. And I can promise you a relationship that, though brief, will create a burning, romantic memory that will shine in your heart to the end of your days. (Pause, she snickers.) They make me say that.
+"Think about all the Elvis imitators."
 
-SONYA: So you're a ... a gigolo?
+"If -- we could actually discover Elvis' complete DNA code..."
 
-HAROLD: No, no, no. A professional boyfriend. It's a specialized craft. There's six months of training, three months of supervised infatuation ...
+"and alter a person's genes to make a new Elvis, a real Elvis, someone with the exact genetic makeup of Elvis, we'd be ..."
 
-SONYA: Valerie rented me a boyfriend.
+"Rich."
 
-HAROLD: It's a very thoughtful present. She told me that ... um, that you've had a lot of ... disappointments in this area. Well, Sonya, you're about to have the most fantastically romantic day of your life.
+(To investigator.)
 
-SONYA: This is crazy ...
+"Rich." That's what they said. How could they understand? Watson and Crick only discovered the double helix one year before "That's All Right, Mama." The people in the labs were so-o young. They had no perspective.
 
-HAROLD: (Really selling it.) Is it? Sonya, today you have someone who cherishes you the way you should be cherished. Who adores the way you curl your fingers in your hair, the way you move across a room. The way you hold a baseball bat. Someone who lives and breathes and dies upon the merest glance of your cobalt blue eyes ... (Sonya's starting to crack.) ... and all you have to say is yes, I deserve this. Yes, at long last. Yes.
+Think of it. If these people really understood DNA -- or Elvis -- they would listen to the words -- roll them around in their mouths, let them melt under their tongues, and then let them out gently, mellifluously, with tenderness. Take the DNA bases. Even the director called them by their initials: A or G or C or T. When the words are so marvelous -- "Adenine." "Guanine." "Cytosine." "Thymine." But all the people in the labs say are A or G or C or T. As if you could sing 'Don't be C' and that would suffice for "cruel" or 'don't step on my B Suede Shoes' and that would make up for "blue." No, I believe that people in the labs have no concept of the artistic.
 
-SONYA: ... Yes.
+Still, I didn't pay much mind. I took the lunch discussions as idle chatter. Because it didn't seem really possible. And then more and more things kept happening. New testing. New equipment. Funding. Grants. More genes on the genome were identified. The pace accelerated. And then one day people were huddled in a corner.
 
-HAROLD: (Whipping out a contract.) Sign here.
+(Acting as other characters.)
 
-SONYA: (Signing.) I don't believe I'm doing this. But you know what, I DO deserve it.
+"If someone pretended to be a journalist and got an interview with Lisa-Marie, and then Lisa-Marie had something to drink, and we got the saliva off the rim of the glass, and extracted DNA ..."
 
-HAROLD: Of course you do. And initial here, and here.
+"You'd still only have offspring with Elvis and Priscilla's DNA. There's a better way. Elvis had a twin, but the twin died at birth. No one knows exactly where the twin is buried. But twins, if they are identical, have the same DNA. So if we went down to Tupelo with one of those laser probes, and found the body of ..."
 
-SONYA: (Initialing.) After all the creeps, the bad dates, the blind dates, the personal ads, the -
+"Wait. We can keep it simple. If one of us visited Graceland and got a swab off an item of clothing -- where he sweated, the armpits or collar, for example on the gold lame suit or the karate robe -- we could test that."
 
-(Harold kisses her full on the lips the moment she finishes signing.) - mmmph!
+(To investigator)
 
-HAROLD: Thank God we got that over with. Finally, I can hold you in my arms. Hello, sweetheart. Happy Birthday.
+I still didn't think anything of it. But then one day, one of the technicians mentioned that he was taking a vacation in Memphis. Everyone else nodded and smiled.
 
-SONYA: Wh - OK. We've started, right?
+I'm not paranoid. I saw it with my own eyes. My back stiffened. Elvis' song, "Don't," started pumping through my brain, as if he were singing to me personally.
 
-HAROLD: Right. Your boyfriend has come to whisk you away on a fun-filled birthday celebration! I've got a picnic here I think you'll like. Salami and egg sandwiches! Chinese noodles in sesame oil! Chocolate Raspberry Mousse Cake!
+(Confidentially.) They were working on a secret plan to identify the entire genetic code of Elvis, which they planned to sell to a commercial entity for harvesting -- to recreate Elvis. And it was happening right here in a research lab supported with government money.
 
-SONYA: How do you know what my favorite foods are?!
+(More voluble.) I want you to understand one thing. I am not a fanatic. I am not one of those people who celebrates Elvis' birth and memorializes his death. I don't make pilgrimages to Graceland. But they didn't understand Elvis at all.
 
-HAROLD: Valerie told me. But remember, I'm your boyfriend. I know all about you. You like Louis Prima records and old Dick Van Dyke reruns. Your books are in strict alphabetical order. You never wear beige. You live in constant fear you've left your purse somewhere.
+See, DNA, genes -- they don't tell the whole story. Because you could know every vowel in "Love Me Tender" and sing every note, like I do. But you still wouldn't be Elvis. You still wouldn't have that wonderful curl at the end of a phrase, that little hiccup of delight that injects surprise, that deep boom and slow slide up, the saving grace, that made Elvis. Notes don't make a song, and you could name all the genes in a person's body, but you wouldn't have a singer. You wouldn't have his smile; the eyes that could take in an audience; his soul.
 
-SONYA: My God.
+After this technician came back, my suspicions grew. I noticed a group of people working late each night. There were hushed conversations, passed notes, winking and blinking. They always seemed intent on ushering me out the door as soon as possible at the end of the work day.
 
-HAROLD: But Valerie never told me you wake up first thing in the morning looking breathtakingly gorgeous. I thought that only happened in the movies.
+I watched this for several days. And then I couldn't take it anymore. While they were at lunch, I snuck to the back and stole the key to the locked refrigerator from one of the drawers. Then I opened the refrigerator. And just as I suspected there were fresh vials in there. Vials marked "E," like "E-1," "E-2," E-3." You know what that meant.
 
-SONYA: Wh-What? Oh God. I must look like hell.
+And there were notes on one of the tables. Had "G Information" on them, and that stood for Graceland. My suspicions were confirmed.
 
-HAROLD: You're stunning. Look at you. Your eyes are -
+After that, I didn't waste any time. I knew what I had to do. I had to save Elvis.
 
-SONYA: Wait, wait ... this is a little much for me right now, OK? I don't like to be cherished before my first cup of coffee. (He takes out a "travel-cup" of coffee and hands it to her.)
+I took the "E" "1-2-3" vials, stuck them in my shirt, checked out with the guard, flashing my badge, of course, and walked out the door, down to the strip -- the commercial strip -- looking for the right place. I came to a toy store and I knew that's what he wanted. I could hear him singing to me, "I only want to be your teddy bear." I poured out the vials on the sidewalk. 1-2-3. And then I smashed the vials. 1-2-3. I destroyed private property. And then I tore up the notes into little bits, and destroyed some more.
 
-HAROLD: Ah! I brought you some. Dark roast Kenyan. Your fav –
+And I'm the one left all those no-name messages with you and every other high-'faluting agency I could think of and said there was something you ought to know. You're just the first to show.
 
-SONYA: (Overlapping.) - My favorite ... of course. I don't believe this.
+But I don't care if you know my name anymore. "I don't care if the sun don't shine." Because there will be only one King.
 
-HAROLD: Sonya, my dear, this is just the beginning ... (She sits stunned on sofa, sipping coffee. Harold starts to massage her feet. Sonya protests, then with an "I give up" wave, lets him.) First, I make you breakfast. Then it's off to Lavender Springs Spa, where you get a mud bath and a massage while I see how many sonnets I can compose about you. Then our picnic lunch in a secluded grove, -
-
-SONYA: (Stunned, softly overlapping.) Uh-huh ...
-
-HAROLD: - a drive along the coast, sailing in the bay-
-
-SONYA: (Falling into his spell.) Yeah sure ...
-
-HAROLD: - Our reservations at La Coupole are for seven-thirty, and afterwards a horse-drawn carriage takes us to - (He produces two tickets from his pocket.)
-
-SONYA: The Eric Clapton concert?!!! Oh my GOD!!! I love you!!! (She throws her arms around him. Then realizes what she's doing.) I'm sorry! I mean ... Wow. You ARE good. Are you sure you're just here for one day?
-
-HAROLD: It'll be a day to remember.
-
-SONYA: (Makes a little noise of disbelief) I ... gotta get dressed. Would you ... excuse me for a minute? Don't go anywhere.
-
-HAROLD: Of course.
-
-SONYA: I'll be right back. (As she leaves.) Oh my God ... Oh my God! (She exits. He produces a dust buster-type sweeper and begins to casually clean.) (Sonya - Off stage.) So ... um ... Harold. Do you do this often? I mean ... how many ... uh, girlfriends do you - ?
-
-HAROLD: Sonya ... right now there are no other women for me. I've never met anyone like you.
-
-SONYA: (Off stage.) Oh ... my ... GOD. (She hops in, half-dressed, putting on shoes.) Well, I've certainly never met anyone like - What the HELL are you doing?
-
-HAROLD: Dusting.
-
-SONYA: Don't! Don't ... do that. Just ... sit. Sit! Stay! You win. You are officially the best boyfriend I have ever had. Or ever will have. (She exits. He appears a little concerned over this last remark.)
-
-HAROLD: Really?
-
-SONYA: (Off stage.) Are you kidding? Gold medal, Boyfriend Olympics, One Day Sprint.
-
-HAROLD: I was a little worried. We got off to a kinda weird start there, what with you swinging a baseball bat at me. (Sonya reenters, fully dressed.)
-
-SONYA: (Peeved.) You've been my boyfriend ten minutes, already we're reminiscing? Anyway, I didn't SWING it, I brandished it.
-
-HAROLD: ... in a threatening manner.
-
-SONYA: How do you "brandish” in a non-threatening manner?
-
-HAROLD: All I'm saying, is, is, we started off on the wrong -
-
-SONYA: What the hell did you expect, a strange man comes bursting through my door, kisses me ... you kissed me! You're lucky I didn't bash your brains in!
-
-HAROLD:(Beaming.) We're having our first fight! Oh honey! (He hugs her.)
-
-SONYA: I'm not sure I'm ready for this kind of relationship.
-
-HAROLD: I'm sorry, sweetheart. Let's forget about it.
-
-SONYA: Yeah ... yeah ... we let it go too long ... (He laughs. She leans back and relaxes into his arms.) I have to admit, this is nice. Y'know, this is all I wanted. Just to be in someone's embrace. Is this too much to ask?
-
-HAROLD: Absolutely not.
-
-SONYA: You know what? I want to walk down the street swinging our arms like we're fifteen.
-
-HAROLD: OK.
-
-SONYA: I want to sit at a restaurant and stare into each other's eyes and completely annoy everyone else.
-
-HAROLD: You got it!
-
-SONYA: I can't wait to show up at yoga tomorrow. You'll drop me off with a quick kiss, and then watch as I - you're not gonna be here tomorrow.
-
-HAROLD: Forget about tomorrow.
-
-SONYA: It's just ... kinda hard. Here I am, in your arms. And then you just leave? It's not fair. This is all I get? One really romantic day? For the rest of my life? (She starts to cry a little.)
-
-HAROLD: The nice thing about this kind of relationship is you KNOW when - Sonya? Are you - ? No - don't cry! Oh God.
-
-SONYA: I'm OK.
-
-HAROLD: No, crying's bad. There's not supposed to be any crying.
-
-SONYA: Oh, I cry all the time. (He grabs a tissue and starts to dry her tears himself) I'm OK ... (He hands her tissues - and then more tissues, until she has way too many. He places them on her, floats them at her, etc. She laughs.)
-
-HAROLD: Much better. You know, I just discovered something. I can't stand to see you cry.
-
-SONYA: Oh, Harold. You're very sweet, y'know.
-
-HAROLD: Sonya ... there's something else ... I love you.
-
-SONYA: What?!
-
-HAROLD: I love you! Can't you see it in my eyes?
-
-SONYA: (Since she is wiping her eyes.) Not at the moment, no ... (She continues to wipe her eyes. jokingly glances at him for a split second.) Yeah, now I can. Got it. (Finishes wiping her eyes, then looks at him again.) You can't be serious.
-
-HAROLD: You don't believe in love at first sight?
-
-SONYA: Do you mean it, or is this part of the package?
-
-HAROLD: I'm your boyfriend. I really love you.
-
-SONYA: How can you love me?
-
-HAROLD: How could I not? You're warm, funny, smart -
-
-SONYA: Stop, stop. Look, I don't know if you're crazy, or I am, but -
-
-HAROLD: Don't you deserve to be loved?
-
-SONYA: Of COURSE I do. EVERYONE does. But this - you just - I mean, you don't REALLY really love me. You're doing this because Valerie paid you.
-
-HAROLD: We have today, because someone paid for it, sure. But I do "REALLY really" love you. I love you, Sonya. (She stares at him. They move in closer ... they almost kiss, but - )
-
-SONYA: Wait a minute. As presents go, this beats a basket of bath gels. But don't come in here telling me you love me.
-
-HAROLD: But I do.
-
-SONYA: Well, that's just swell! Where were you when I needed you? Like when my car was stolen. Or when my Grandmother died? I could have used a boyfriend! You weren't there! I had to deal with that alone!
-
-HAROLD: Sonya, I--
-
-SONYA: And are you gonna be there tomorrow or the next day when something really good happens and I want to tell you about it? You gonna be there?
-
-HAROLD: No, I'm not gonna be there.
-
-SONYA: You love me. Ha! You're just like all the other men.
-
-HAROLD: No, I'm not! I'm a trained professional!
-
-SONYA: I mean, yes, I like romance. Yes, picnics are fun. But I want someone who ... wants to do laundry with me. Or do absolutely nothing - with me.
-
-HAROLD: We could do that too! I'm here to give you what you want!
-
-SONYA: What I WANT is someone who not only knows my favorite coffee but also my soul. Love me? You haven't even MET me!
-
-HAROLD: Listen, I thought I'd -
-
-SONYA: You thought you'd give the girl a small thrill for once in her life?! I make my own thrills, darling. Hey, we're having our second fight!
-
-HAROLD: I'm offering you love -
-
-SONYA: No, thanks! Already got some! I've got my whole family! They drive me crazy, but they love me! And my friends - I have great friends! THEY love me! My God, look what Valerie did for my birthday. I have plenty of love, pal.
-
-HAROLD: Do you.
-
-SONYA: Yes I do. And I sure as hell don't need a Don Juan wanna-be. Guess what, Harold, we're breaking up! I'll remember the ten minutes we had with great fondness. But y'know what? This isn't half a couple standing over here. OK? I'm a whole couple all by myself with a great family, incredible friends - I even kind of like my job! Y'know? So if I end up meeting someone, fine! If I don't, ALSO fine! Got it? I don't need you!
-
-HAROLD: No, you don't.
-
-SONYA: You better believe I don't! (Still yelling.) Did you just agree with me?!
-
-HAROLD: Yeah, I did. Because you're right. You don't need me. But if you ever find someone ... who deserves to love you ... I will envy him. Goodbye Sonya. (He exits. Pause. He returns, slightly embarrassed.) (Company speech.) 'This has been a date from Rent-ABoyfriend, Ltd. If you've enjoyed our service, please ... tell a friend." (With a curt bow, he exits. Sonya stands stunned for a moment.)
-
-SONYA: (shouting after him.) Hey! I enjoyed your service! Now get back here and MAKE ME BREAKFAST!
+(Hums 'Love Me Tender.' Sits back down.) The name'sJaneanne. So does that answer all of your questions?
 ```
 
 ---
 
-## IC-0901: Ruined
+## IC-1290: The Search for Signs of Intelligent Life in the Universe
 
-- Title: Ruined
-- Author (byline): Lynne Nottage
+- Title: The Search for Signs of Intelligent Life in the Universe
+- Author (byline): Jane Wagner and Lily Tomlin
+- Work: Not specified
+- Publisher: HarperCollins Publishers, Inc
+- Publication date as stated: March 1991
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: TRUDY
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1210
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Jane Wagner and Lily Tomlin
+ISBN: 978-0060920715
+Publisher: HarperCollins Publishers, Inc
+Date (Month/Year): March 1991
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Searching for Signs of Intelligent Life in the Universe by Jane Wagner
+```
+
+### Performance text (classify this)
+
+```text
+TRUDY: Here we are, standing on the corner of “Walk don’t walk.” You look away from me, trying not to catch my eye, but you didn’t turn fast enough, did you? You don’t like my raspy voice, do you? I got this raspy voice ‘cause I have to yell all the time ‘cause nobody around here ever LISTENS to me.
+
+You don’t like that I scratch so much; yes. And excuse me, I scratch so much ‘cause my neurons are on fire. And I admit my smile is not at its Pepsodent best ‘cause I think my caps must’ve somehow got osteoperosis. And if my eyes seem to be twirling around like fruit flies, the better to see you with, my dears!
+
+Look at me. You mammalian-brained LUNKHEADS! I’m not just talking to myself, I’m talking to you, too. And you And you And you And you and you and you!
+
+TRUDY: I know what you’re thinking, you’re thinkin’ that I’m crazy. You think I give a hoot? You people! Look at my shopping bags. Call me crazy, cause I save this junk. What should we call the ones who buy it?
+
+It’s my belief we all, at one time or another, secretly ask ourselves the question: Am I crazy.. In my case, the answer came back: A resounding YES!
+
+In my case, the symptoms are subtle but unmistakable to the trained eye. For instance, here I am, standing at the corner of “Walk, Don’t Walk.” Waiting for these aliens from outer space to show up. I call that crazy, don’t you? If I were sane, I should be waiting for the light like everybody else.
+
+They’re late . . . as usual. You’d think, as much as they know about time travel, they could be on time once in a while. I could kick myself. I told ‘em I’d meet ‘em on the corner of “Walk, Don’t Walk” ’round lunchtime. Do they even know what “lunch” means? I doubt it. And “round” -- why did I say “round” Why wasn’t I more specific?
+
+Now they’re probably stuck somewhere in time, wondering what I meant by ”round lunchtime” And when they get here, they’ll be dying to know what “lunchtime” means. And when they find out it means going to Howard Johnson’s for fried clams, I wonder, will they be just a bit let down. I dread having to explain tarter sauce.
+
+I know what you’re thinking, you’re thinkin’ that I’m crazy. But frankly, goin’ crazy was the best thing that ever happened to me. I don’t say it’s for everybody; some people couldn’t cope. But for me it came at a time when nothing else seemed to be working. I got the kind of madness Socrates talked about, a divine release of the soul from the yoke of custom and convention. I refuse to be intimidated by reality anymore.
+
+After all, what is reality anyway. Nothin’ but a collective hunch. My space chums think reality was once a primitive method of crowd control that got out of hand. In my view, it’s absurdity dressed up in a three-piece business suit. Reality is the leading cause of stress amongst those in touch with it. I can take it in small does, but as a lifestyle, I found it too confining. With all I have to do, I had to let something go.
+
+Now, since I put reality on a back burner, my days are jam-packed and fun-filled. Some days, I go hand out around Seventh Avenue; I love to do this old joke: I wait for some music-loving tourist from one of the hotels on Central Park to go up and ask someone, “How do I get to Carnegie Hall.” Then I run up and yell, “Practice!” The expression on people’s faces is priceless. I never could’ve done stuff like that when I was in my right mind. I’d be worried people would think I was crazy.
+
+When I think of the fun I missed, I try not to be bitter. See, the human mind is kind of like a piñata. When it breaks open, there’s a lot of surprises inside.
+
+I was not always a bag lady, you know. I used to be a designer and creative consultant for big companies! Who do you think thought up the color scheme for Howard Johnson’s? At the time, nobody was using orange and aqua together with fried clams.
+
+Laugh tracks: I gave TV sitcoms the idea for canned laughter. I got the idea, one day I head voices and no one was there.
+
+Who do you think had the idea to package panty hose in a plastic goose egg. One thing I personally don’t like about panty hose, when you roll ‘em down to the ankles the way I like ‘em, you can’t walk too good. People seem amused, so what’s a little loss of dignity. You got to admit: It’s a look!
+
+The only idea I’m proud of -- my umbrella hat. Protects against sunstroke, rain, and muggers. For some reason, muggers steer clear of people wearing umbrella hats. So it should come as no shock. I am now creative consultant to these aliens from outer space. They’re a kinda cosmic fact-finding committee. Amongst other projects, they’ve been searching all over for sign of intelligent life. It’s a lot trickier than it sounds.
+
+We’re collecting all kinds of data about life here on Earth. We’re determined to figure out, once and for all, just what the hell it all means. I write the data in these Post-its and then we study it. Don’t worry, before I took the consulting job, I gave ‘em my whole psychohistory. I told ‘em what drove me crazy was my last creative consultant job with the Ritz Cracker mogul, Mr. Nabisco. It was my job to come up with snack inspirations to increase sales. I got this idea to give Cracker Consciousness to the entire planet.
+
+I said, “Mr. Nabisco, sir! You could be the first to see the concept of munching to the third world. We got an untapped market here! These countries got million and millions of people don’t even know where their next meal is coming from. So the idea of eatin’ between meals is somethin’ just never occurred to ‘em!”
+
+Must’ve been when I went off the deep end. I woke up in the nuthouse. They were hookin’ me up. One thing they don’t tell you about shock treatments, for months afterwards you got flyaway hair. And it used to be my best feature. See, those shock treatments gave me new electrical circuitry (I think one of the doctors. hands must’ve been wet). I started having these time-space continuum shifts, I guess you’d call it. Suddenly, it was like my central nervous system had a patio addition out back. Not only do I have a linkup to extraterrestrial channels. I also got a hookup with humanity as a whole. Animals and plants, too. I used to talk to plants all the time; then, one day, they started talking back. They said, “Trudy, shut up!”
+
+(mutters to herself for a moment, then peers at the sky) I told ‘em I’d meet ‘em on the corner of “Walk, Don’t Walk.” They’re late . . . as usual. You’d think, as much as they know about time travel, they could be on time once in a while. (mutters again and shuffles off)
+```
+
+---
+
+## IC-1291: Seriously, Cinderella is So Annoying!
+
+- Title: Seriously, Cinderella is So Annoying!
+- Author (byline): Trisha Shaskan
+- Work: Not specified
+- Publisher: Capstone Press
+- Publication date as stated: August 2011
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: STEPMOTHER, HUSBAND, CINDY, NARRATOR, STEPSISTER 1, STEPSISTER 2, FOOTMAN, STEPSISTERS
+- Teaser before the introduction: Yes
+- Spoken words (computed): 718
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Trisha Shaskan
+ISBN: 978-1404870482
+Publisher: Capstone Press
+Date (Month/Year): August 2011
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Every story has two sides. It just so happens that we usually hear from the victim’s or protagonist’s point of view. In the classic retelling of the Cinderella story, the Stepmother has her own opinion of miss goody-two-shoes in. . .
+
+Seriously, Cinderella is So Annoying!: The Story of Cinderella as Told by The Wicked Stepmother by Trisha Shaskan.
+```
+
+### Performance text (classify this)
+
+```text
+STEPMOTHER: You must have heard of me. The wicked stepmother? That’s not true. It’s just another one of Cinderella’s wild stories. Not as wild as the one about the pumpkin, or the one about the fairy godmother. The real story, the true story, began with some chatter- and some dust.
+
+STEPMOTHER: All I ever wanted was a husband and a mansion. Before I married Cindy’s father, my two darlings and I had met Cindy only a few times. The girl had seemed normal then. After I married Cindy’s father, my darlings and I moved in. When I had just one foot on the front step, my dear husband kissed me and said,
+
+HUSBAND: I’m off on business!
+
+CINDY: He’s often away, but the animals stay put. They talk. They joke. They sing. They even help out - especially the bluebirds.
+
+STEPMOTHER: Now, I don’t mind a good story but I do prefer facts to fiction. Soon, the girl was talking all kinds of nonsense.
+
+CINDY: Once upon a time, one of the bluebirds became blue. Not the color. The feeling. His friend had flown south . . . .
+
+STEPMOTHER: My darlings and I were stuck near the front door. I just wanted to put away my bags. That’s when I saw it: dust. (To Cindy) Dear, is the whole house this dusty?
+
+CINDY: I don’t know. I’ll give you a tour!
+
+STEPMOTHER: In the dining room, Cindy told stories. . . In the study, Cindy told stories. Non-stop. (To the girls) Girls, time to get to work. This place needs a good cleaning.
+
+CINDY: Once upon a time when I was cleaning . . .
+
+STEPMOTHER: Oh dear. Cindy mopped the floor. She finished so fast! My darlings had barely started.
+
+CINDY: Did you know robins and sparrows are my friends? The sparrows don’t like the robins, though. Silly creatures! Once upon a time, one of the robins . . .
+
+STEPMOTHER: Cindy, dear, why don’t you go and wash the clothes now, hmm? (To audience) Cindy washed them so fast! How on Earth did she do it? I had to find her another chore, just to keep her busy.
+
+CINDY: If there’s one thing squirrels love, it’s washing clothes. The rats, though, would rather iron. You know, I . . . ”
+
+STEPMOTHER: Squirrels and rats doing laundry? (To Cindy) Stop telling such foolish stories!” (To audience) Time passed but nothing changed. In the garden, Cindy told stories. In the kitchen, Cindy told stories. At dinner I could hear myself think. (To Cindy) Dear please, STOP TALKING! (To audience) Cindy didn’t stop.
+
+NARRATOR: One day, a letter arrived. It was an invitation to the king’s ball. The prince would sure fall in love with one of my darlings. then they would marry, live in a beautiful castle and be the king and queen of the land!
+
+CINDY: Oh Stepmother, I want to go too! Once upon a time a girl and a prince . . .
+
+STEPMOTHER: Then just like that Cindy lost her voice. Imagine! It had to be from all that storytelling. Well, what could I do? I told her she had to stay home for her health. She cried, of course. Still, a ball was no place for a poorly girl. She needed rest. Sometimes it was hard being a stepmother.
+
+NARRATOR: At the ball my darlings twirled, they whirled. Then a strange girl walked in. Her gown was magnificent. I couldn’t take my eyes off it. I wondered how much it would cost if my seamstress could copy it for me.
+
+The prince and the girl danced and pranced while my darlings were left prince-less A few days later, the prince made an announcement: a glass slipper was left at the castle. The prince would marry the girl whose foot it fitted. Our big chance! After visiting every other mansion in the city, the prince’s footman arrived at the door.
+
+STEPSISTER 1: Me! Me!
+
+STEPSISTER 2: NO! Me me.
+
+FOOTMAN: One at a time.
+
+STEPMOTHER: Each girl tried, but the shoe didn’t fit. Then Cindy croaked out a whisper. . .
+
+CINDY: P . . . P . . . please let me try.
+
+STEPMOTHER: The shoe fit! Cindy pulled out the other glass shoe from her apron pocket.
+
+STEPSISTERS: WHAAAT!
+
+STEPMOTHER: Cindy croaked again. She said something about a pumpkin and mice that turned into horses. She even added something about a fairy godmother. PLEASE, there is no such thing! I must say, I still don’t know where she got those shoes . . . A few days later, the prince married Cindy - the poor man had no idea what he was getting himself into. We, on the other hand, lived happily ever after.
+```
+
+---
+
+## IC-1292: She Kills Monsters
+
+- Title: She Kills Monsters
+- Author (byline): Qui Nguyen
+- Work: Not specified
+- Publisher: Samuel French, Inc.
+- Publication date as stated: Oct 2012
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, TILLY, AGNES, CHUCK, KALIOPE, LILITH, EVIL TINA, EVIL GABBI, ORCUS/RONNIE
+- Teaser before the introduction: Yes
+- Spoken words (computed): 2129
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Qui Nguyen
+ISBN: 978-0573700569
+Publisher: Samuel French, Inc.
+Date (Month/Year): Oct 2012
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+One day as Agnes, a teacher at Tilly’s high school, is going through her sister’s things, she finds a notebook -- a Dungeons and Dragons notebook. It becomes her mission to find out more about her sister Tilly by deciphering the contents of that notebook. And thus a quest begins . . . a quest that forges a link between Agnes’ reality and Tilly’s fantasy. She Kills Monsters By Qui Nguyen
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: (Pg 7-8) In a time before Facebook and Worlds of Warcraft, there once existed simply a game -- Forged by the hands of nerds and crafted in the minds of geeks. And here in the land of Ohio during the year of 1995, one of the rarest types of geeks walked the earth -- Tilly Evans. Lights up on TILLY, a teenage girl decked out in full D&D armor with a sword in hand. She is surrounded by a horde of goblin-like creatures. Suddenly they attack! TILLY slays each of the monsters with grace and efficiency. She stands poised over their dead bodies as the NARRATOR continues. . .
+
+NARRATOR: But this story isn’t about her. . . This story is about her sister Agnes, the girl who never left home. . . Agnes Evans grew up average. She had average parents and grew up in the average town of Athens, Ohio with her little sister Tilly. Tilly however was anything but average.
+
+TILLY: What are you doing?
+
+AGNES: Talking on the phone. What are you doing?
+
+TILLY: Trying to re-animate a dead lizard with the power of electricity.
+
+AGNES: Oh, okay. . . WHAT!?!
+
+NARRATOR: Being a bit more than half a decade apart in age, the two girls had very little in common. Agnes was into more typical things such as boys, music, and popular television programs, while her sister Tilly became fascinated with the dark arts - magic, dragons, and silly costumes . . . As Agnes grew, she became more engrossed with transcending her averageness and made one grand wish on the night of her college graduation that she would forever regret.
+
+AGNES: I wish my life was less boring.
+
+NARRATOR: And so the Gods answered her wish by smiting down her loved ones in a single car crash. But this isn’t the story of those tragedies. It is a story about how Agnes, the girl who never left home, finally found a way out. . .
+
+Lights come up on CHUCK, a nerdy teen working the counter of a “RPG Gaming Store”
+
+CHUCK: (Pg 9-11) (Singing to himself - Agnes enters and pokes his shoulder which startles him) WHOA, WHAT THE . . .
+
+AGNES: Sorry, I didn’t mean to scare you – I’m looking for a Chuck Biggs?
+
+CHUCK: You’re looking at him! So what can I do for you?
+
+AGNES: Rumor has it you know a thing or two about D&D. I have this thing. I’m not quite sure what it is.
+
+CHUCK: Well, lemme checkity check it out! (AGNES hands CHUCK the notebook) It’s like a map for a D&D game. An adventure. – whoa, wait just a minute. Tillius the Paladin? Was this written by Tilly Evans?
+
+AGNES: You know her?
+
+CHUCK: You kiddin’, right? Every player here in Athens has been on a campaign with her. How’d you get ahold of this?
+
+AGNES: She’s, um, my sister. So can you help me figure out what it all means? I want to play it. . .
+
+TILLY: (Pg 13) (only Agnes can hear) You’re going to suck at this. You don’t even know the difference between a mage or a wizard. You’re going to die five seconds into it.
+
+AGNES: Well, you’re already dead, so we’ll at least have that in common. Chuck. Go. (the scene changes to one of pure fantasy)
+
+CHUCK: (Speaking all-wizard-y on a lower octave) Greetings, Adventurer! I am Chuck Biggs and I will be your Dungeon Master! (Pg 15) Welcome to the Quest for the Lost Soul of Athens. Your mission is find and free the Lost Soul before it is devoured by the dark forces of darkness forever.
+
+TILLY: (Pg 14-15) Fine! If you’re serious about this, then I guess you’re going to have to meet the rest of the team.
+
+AGNES: What team?
+
+TILLY: Every adventurer has a party. This one’s mine. (The Actress playing Agnes portrays each member of the party as they are introduced: Suddenly, a leather-clad warrior LILITH appears -- red eyes, vampire fangs, with a very large battle axe) First up is Lilith Morningstar. Class: Demon Queen. She acts as our squad’s muscle -- a perfect combination of both beauty and brawn. (Next, a very pale, white-haired elf -- tall, lean, and armed with an wooden staff. She looks like a super model) Next up is Kaliope Darkwalker. Class: Dark Elf. Along with her natural Elvin athleticism and a**-kicking abilities, she’s also a master tracker and has a few magical surprises up her sleeves. And then there’s me. I’m the brains of this operation. Name: Tilly Evans aka Tillius the Paladin, healer of the wounded and the protector of lights. Class: Awesome! (both actresses do poses with their weapons as if they’re at a photo shoot)
+
+TILLY: (Pg 16-17) Kaliope, any word on Orcus’s location?
+
+AGNES: What’s an Orcus?
+
+TILLY: Orcus is a demon overlord of the underworld. If there’s a lost soul, he’ll either have it or at least know where it is. So, Kaliope, location?
+
+KALIOPE: The entrance to the cave of Orcus is at the next bend.
+
+TILLY: Actually, Agnes, before we can go any further. We’re going to have to build you a character. I mean you can’t just walk around looking like that. You’re going to at least need a shield. . . And your alignment.
+
+AGNES: My what?
+
+LILITH: Are you good, lawful, chaotic, unlawful, evil?
+
+AGNES: I’m a Democrat.
+
+TILLY: No, what will be your character name?
+
+AGNES: Agnes.
+
+TILLY: Stop being an ass-hat, Agnes.
+
+AGNES: No, I want to just use my name. Agnes.
+
+LILITH: Fine, then it is decided, you are Agnes the Ass-hatted. (Pg 32-33) (Lilith kisses Tilly)
+
+AGNES: Whoa! Wait just a minute! You two are a couple? (To Tilly) Oh, I get it. You two are dating because Tillius is a guy character.
+
+TILLY: No. Tillius is a D&D name. I’m female, she’s female.
+
+AGNES: So your character’s gay?
+
+TILLY: Does that bother you, Agnes? Wow, I never took you for a homophobe.
+
+AGNES: I’m not a homophobe! I thought I knew you, Tilly. At least good enough to know whether you dug boys or girls at this point in your life.
+
+TILLY: You were busy.
+
+AGNES: Not too busy to know this! Tilly, I’m your sister. I shouldn’t have to learn about you through a role-playing game.
+
+TILLY: At least you’re getting to learn something about me.
+
+NARRATOR: (Pg 18-19) And so it was that Agnes the Ass-hatted and Tillius the Paladin ventured forth into the dark dwellings of the truly evil in search for the lost soul of Athens. (The girls jump out from hiding with weapons drawn.)
+
+TILLY: It is I, the great Paladin Tillius, healer of the wounded, defender of lights, and I have come here to free a soul. . . Mine.
+
+AGNES: Wait, you’re the lost soul of Athens? Explosive lights and sound as two cheerleaders walk onto stage. They look like normal cheerleaders, except they have sharp teeth, bat wings, and blood all over their mouths. Clearly a scene Tilly experienced at school written into her D&D campaign
+
+EVIL TINA: (Pg 35-36) (to Tilly) Were you just looking at me?
+
+EVIL GABBI: I think the reason why she was looking at you, Evil Tina, is because she has the hots for you.
+
+TILLY: That’s not true.
+
+EVIL TINA: Are you saying I’m ugly?
+
+TILLY: No.
+
+EVIL TINA: Then do you think I’m pretty? Of course you think I’m pretty . . . I knew you were gay!
+
+AGNES: (AGNES marches up to the two bullies) (Pg 37) And you two going to die! (Both cheerleaders smile and begin laughing. Their laughter consumes AGNES and TILLY. Their laughter becomes painful and then becomes agony)
+
+EVIL TINA: We’ll see you around. Lesbians. (They skip away)
+
+AGNES: Are you okay? (Pg 41) Did that sorta stuff really happen? I mean in real life?
+
+TILLY: I was a dorky fifteen-year old closeted lesbian, what do you think?
+
+AGNES: So how come you had to make a game to tell me all this?
+
+TILLY: I didn’t want to tell you all this! This game was supposed to be private. *******
+
+(Scene change back to the real world. Agnes is at school, working in her classroom. EVIL TINA and EVIL GABBI enter. Except they aren’t evil this time, they’re just students. No wings or horns or bloody mouths, just regular cheerleaders. And they’re super chipper and nice.)
+
+EVIL TINA: (Pg 51-52) Hello, Miss Evans!
+
+EVIL GABBI: Do you have a moment?
+
+EVIL TINA: We’re selling Ads for this year’s yearbook and we were wondering if you’d be interested in buying an Ad? It could just be a “Congratulations to the Class of 95!” Or a dedication to a loved one who would be graduating this year. . .
+
+EVIL GABBI: (whispers) TINA!
+
+EVIL TINA: (to GABBI) Shhh. (to AGNES) So what do you think?
+
+AGNES: You were in the same class as my sister, right?
+
+EVIL TINA: We were both just devastated when we found out. I mean we didn’t hang out after school alot, but –
+
+EVIL GABBI: We’d both consider her a very close friend.
+
+AGNES: Is that right?
+
+EVIL TINA: Not to be too bold, but I think buying a full page AD for Tilly would be. . . just amazing.
+
+AGNES: Can I see your yearbook there? (Agnes violently throws it) GET THE HELL OUT OF MY CLASSROOM!!! (The two girls run out; Agnes calms herself) Am I going crazy?
+
+TILLY: (appears from nowhere) That seemed really effective
+
+AGNES: What am I supposed to do, Tilly? I can’t beat up students.
+
+(Pg 57) Explosion. Evil Tina and Evil Gabbi are back in their evil forms. (TILLY and AGNES fall into defensive stances)
+
+EVIL GABBI: Oh my God, Evil Tina, look! An impenetrable wall of losers.
+
+EVIL TINA: (Pg 58) (they corner Tilly) Awww, look at the little nerd girl.
+
+AGNES: Tilly, shoot them with a magic missile.
+
+TILLY: (cowed) I can’t. I forgot the spell.
+
+EVIL GABBI: Are you going to pee your pants.
+
+EVIL TINA: Say good-bye, lezzie. (Pg 59) You can’t hope to beat us.
+
+EVIL GABBI: We’re way too powerful for you.
+
+KALIOPE: There’s only one way to beat a succubus.
+
+AGNES: [I] challenge you. . . to a dance battle.
+
+CHUCK: BONUS ROUND: AGNES VERSUS THE EVIL SUCCUBUS CHEERLEADER!!! Music fills the house as AGNES and EVIL GABBI go at it in a full-on cheerleader’esque dance battle. AGNES starts it out. She looks good. . . comedic and funny, but still good. EVIL GABBI is unimpressed by AGNES’s skills. She smiles, steps in and starts doing an elaborate Cheerleading/hip-hop fusion routine that completely kills it. Thinking she’s won, she raises her arms in victory. When she does, AGNES picks up her weapon and drives it through GABBI while she isn’t looking!
+
+AGNES: (smiles coyly) What? You really thought we were gonna dance battle you to death. Wow, I guess my sister’s right. Cheerleaders are dumb. (Agnes kills them both then breaks into tears)
+
+TILLY: (Pg 61) Stop. It’s just a game.
+
+AGNES: I was getting to know you. I was just starting to get to know you.
+
+TILLY: My character’s not dead.
+
+AGNES: But you are. This is a stupid game and you’re not real and none of this matters because you died. I’m done. I’m done talking to ghost. *******
+
+(Scene changes back to reality. Agnes is at home sorting through Tilly’s D&D things) AGNES:(Pg 62-63) (to audience) That game was all I had of her. Just a stupid character sheet and whatever she left scribbled out in that notebook. . . My memories are shit. This little nerdy girl who I never talked to, who I ignored, who I didn’t understand because she didn’t live in the same world as I did. Her world was filled with lesbian demon queens while mine . . . had George Michael and leg-warmers. I didn’t even know she didn’t like boys. I didn’t know her. That breaks my heart. (a knock at the door) What are you doing here, Chuck?
+
+CHUCK: I just wanted to show you something. It’s something of Tilly’s.
+
+AGNES: What? AGNES gets up and follows CHUCK. A door appears. CHUCK knocks on it.
+
+CHUCK: (Pg 64-66) I just wanted you to meet some of Tilly’s friends. Ronnie, this is who I was telling you about. So is your sister around?
+
+ORCUS/RONNIE: Yeah. Lemme get her. You guys can come in if you want, just don’t touch the TV, I’m recording Power Rangers! They enter his house.
+
+NARRATOR: Ronnie (ORCUS) returns with his sister Kelly (KALIOPE). She’s wheel-chair bound.
+
+KALIOPE: What? Do I have something on my face?
+
+AGNES: Um, no, it’s just. . .You play D&D with these guys?
+
+KALIOPE: Yeah, well. It was actually your kid sister that convinced me give it a shot. Your sister was awesome, Miss Evans. We loved her. We really miss her.
+
+AGNES: Me too. (TILLY enters)
+
+TILLY: What are you doing?
+
+AGNES: I’m getting to know your friends.
+
+TILLY: I know they’re geeky, I’m geeky, we’re all geeks.
+
+AGNES: Why do you think I care about that stuff?
+
+TILLY: Everyone else does or did. I mean until I died in a car crash and then suddenly, wow, I’m the most popular girl in school.
+
+AGNES: Is that why all you guys play this?
+
+TILLY: No, we play it because it’s awesome. It’s about adventures and saving the world and having magic. And maybe, in some capacity, it might have a little to do with wish fulfillment. Kelly gets to walk again and Ronnie gets to be super strong . . . and me? I get the girl. Lights come up on the “real life” high schooler LILITH. AGNES approaches.
+
+AGNES: (Pg 66-67) Can we talk for a minute? Look, I know you’re not gay or . . . You were at her funeral.
+
+LILITH: I mean, she wasn’t my girlfriend, but I always knew she was, you know, interested. Tilly was my first kiss. I’m pretty sure I was hers too. I thought you’d might want to know that about your sister. And Miss Evans - I loved her. (Lilith exits)
+
+TILLY: (Pg 70-71) Good job.
+
+AGNES: Tilly? (sadly resigned) You’re not real. You’re gone.
+
+TILLY: But this story remains. And isn’t that all that life is - a collection of stories? This is one of mine. . .
+
+(TILLY speaks the next lines, assuming the character voices that she created) AS KALIOPE: . . . and not just some story that I experienced like a party or a dance, but something I dreamt – AS
+
+LILITH: Something far more personal and important than happenstance. This story came from my soul and by breathing life into it, who knows? AS ORCUS: Maybe a bit of my soul gets the chance to breathe for a moment once again. AS CHUCK: I love you, my sister. AS TILLY: I’m sorry I can’t be there. AS CHUCK: I have no idea why you had to experience this adventure alone without me. But I hope it gave you a glimpse into me the way I wanted you to see me – AS ORCUS: Strong... AS LILITH: Powerful... AS KALIOPE: And magical. AS CHUCK: Congratulations, you have finished the Quest for the Lost Soul of Athens.
+
+NARRATOR: And so . . . Agnes the Ass-hatted accomplished her very first quest. Tilly was never forgotten, and eventually the world finally embraced nerds not as outsiders, but as awesome. Agnes moved out of that old house and brought the many memories of an average life with her. And this made her happy.
+```
+
+---
+
+## IC-1293: The Sims
+
+- Title: The Sims
+- Author (byline): Lori Notaro
+- Work: I Love Everybody (and Other Atrocious Lies)
+- Publisher: Villard
+- Publication date as stated: July 2002
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: HUSBAND, WIFE, CLERK
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1606
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Lori Notaro
+Book: I Love Everybody (and Other Atrocious Lies)
+ISBN: 978-0812969009
+Publisher: Villard
+Date (Month/Year): July 2002
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+"The Sims" is a fun simulation game that gets some parts of life right. We all get cranky if we don't have enough fun, food, and rest. But when it comes to marriage, the game is very different. Especially if Lori Notaro is the Grand Puppetmaster running the show. . . . Who said video addition can destroy a marriage? Sometimes it happens the first time you play! The Sims by Lori Notaro.
+```
+
+### Performance text (classify this)
+
+```text
+HUSBAND: What is that? "What IS THAT? What is that thing right near the fireman's foot in the front yard? Oh my God. Oh my God. What ... what have you done?!!
+
+WIFE: Honestly, it really wasn't my fault. . . . I don't know, maybe it really was my fault. After all, after my husband bought me the computer game called "The Sims," the clerk at the Apple store was very careful to give me a stern warning as he handed my new game over.
+
+CLERK: Now, since you get to create your own characters in this computer game, many people are tempted to duplicate themselves and their spouses. DON'T DO IT. No matter how tempted you are, DON'T DO IT. You'll almost always end up getting divorced.
+
+WIFE: For those of you unfamiliar with this game, briefly, this is the point: You create people, build houses for them, create a neighborhood, and watch how they coexist domestically and within the neighborhood. In short, it's like making your own soap opera, and you get to play the almighty deity and Grand Puppetmaster, I thought, this is a powerful game. I went immediately home and created a Laurie character and a Laurie's Husband character. I mean, it certainly was tempting to see what would happen between Laurie and Laurie's Husband when left to their own devices-it was like watching an ant farm, in a sense, only the ants had human heads that looked like you and your husband. I mean, honestly, what was the worst that could happen?
+
+After I created Laurie and Laurie's Husband, I moved them into a house and started the game. As Laurie and Laurie's Husband walked around in their house, it was my job to take them to the bathroom when they needed to pee, make sure they ate when they were hungry, make them take a shower when they got dirty, go to sleep when they got tired, and clean up after themselves. In short, it was like having an electronic pet, and to tell you the truth, I was not truly finding the game a whole lot of fun at all. Where was the action, where was the pull, the attraction to this game?
+
+One thing is for sure, however; Laurie and Laurie's Husband were pigs. And I mean pigs! When she was done eating, she would simply throw the food on the floor, and one time I actually caught him leaving a turkey leg in the front yard. Okay, it's true, I gave him a mullet and armpit stains, but the last thing I expected was an automatic lapse into "Livin' in the Holler." Finally, I made them get jobs-which, in the Sims' world, is as easy as picking up the newspaper-but making sure that both of them were up, washed, dressed, and fed before the car pool came was nearly impossible. After I would wake up Laurie's Husband, I'd be getting her ready and off to work, only to find out that he went back to sleep,just like in real life. Eventually, after missing his ride to the office for three days in a row because, he lost his job. I could have told you that was going to happen.
+
+Laurie, it was obvious, wasn't too happy with him, either. She came home from work, found the house buzzing with flies, him watching TV, a pile of turkey legs by the front door, and she started stomping her foot and shaking her fist at him. He retreated into the bedroom, where he sat on the edge of the bed, put his head in his hands, and began to sob.
+
+Oh, this is ridiculous, I thought, so I decided that he definitely needed to get another job, one he was actually going to go to this time. So I made him get the newspaper, and then, to my surprise, he looked at me, a bubble came out of his mouth, and there were words inside it that said, "I don't want to look for a job right now. I am too depressed." And then he gave me a sad face.
+
+Well, that may have worked in real life, buddy boy, but this is MY game and I AM THE GRAND PUPPETMASTER. I will do in my pretend universe what I apparently cannot do in reality! I command you to get a job!
+
+HUSBAND: Who are you commanding to get a job now? Who is that fatty? Without the gut, he looks like Shaggy from Scooby-Doo."
+
+WIFE: No. It's not Shaggy. It's you."
+
+HUSBAND: Oh, great, you made me a barrel-shaped, Schlitzguzzling mechanic so I wouldn't cheat on you, huh? What is up with my hair? I look like a member of REO Speedwagon.
+
+WIFE: I'm just trying to control my simulated universe.
+
+HUSBAND: And who's that? That looks like Julia Roberts.
+
+WIFE: Why, thank you, kind sir. That's not Julia Roberts, it's me!
+
+HUSBAND: Why is the REO Speedwagon Shaggy crying?
+
+WIFE: He's depressed. He lost his job and now he's too depressed to get another one.
+
+HUSBAND: Oh, he's not doing well. He needs to socialize, to clean up, and he's hungry. Maybe if you make him do those things, he'll be happy enough to get a job.
+
+WIFE: It would be easier to slip him Prozac, but I'll try it.
+
+HUSBAND: Maybe they can socialize and have fun while they make dinner together."
+
+WIFE: My husband pulled up a chair next to mine and sat down. So I put Laurie and Mr. Sad Sack to work in the kitchen to interact and raise his spirits, and everything seemed to be going fine. I made her tickle him, which he liked, and then she told him some jokes. His "fun" level was rising, which was a very good sign. Laurie was making dinner, things were looking up, and at least he had stopped crying. I thought things were going well, until my husband pointed to the computer screen and said
+
+HUSBAND: What's ... that?
+
+WIFE: It took me at least a couple of seconds to realize it was a fire. Sad Sack had put the newspaper too close to the stove where Laurie was making dinner, and a small fire had erupted. And Laurie and Laurie's Husband were just standing there, watching it.
+
+HUSBAND: Make them pick up the phone to call 911!
+
+WIFE: I clicked on the phone, and clicked, and clicked, but neither one of them made a move. This was primarily because Sad Sack just shook his stupid head and gave me another sad face, and Laurie couldn't get to the phone, well, because she was now entirely engulfed in flames. I'm on FIRE! I'm on FIRE!! I searched the screen frantically for a garden hose or anything to put the fire out.
+
+HUSBAND: Click on the flames and see if you get an option!
+
+WIFE: Immediately, I clicked on the flames, and what popped up but the option to extinguish, and that's when Sad Sack finally coughed up a fire extinguisher and sprayed it all over the kitchen. The fire subsided. But it was too late. A computerized version of the Death March was heard, and when the fire extinguisher spray had cleared, Laurie was gone. Where she had stood just moments ago was now a small, gray urn. A message from the game popped up on the screen. "Laurie Notaro has died," the box said.
+
+This is all his fault . . . . You! You just stood there as she sizzled like a Jimmy Dean sausage link!
+
+HUSBAND: Click on the urn. Maybe there's a way to bring you back."
+
+WIFE: So I clicked on the urn, but the only thing that happened was that an option to "mourn" popped up. So I took it. And then, a beautiful thing happened. Someone started to cry. Laurie's Husband wailed. I clicked on my urn again. Mourn. And again. Mourn. And again. Mourn. Cry, you big baby, cry! Look what you did to her! I'm going to keep you so depressed you'll never be able to get a job, have a normal life, or marry anyone else! He deserved it. You know he did.
+
+That's when the fireman finally showed up, and Laurie's Husband moaned all the way out to the front yard to greet him as the fireman stood next to a bunch of decomposing turkey legs. "HOO HOO HOOOO!" I made him say to the fireman. "HOO HOO HOOOO!!"
+
+HUSBAND: Come on, quit clicking on the urn. I've been through enough. Don't you want me to get on with my life? Hey, can we make a fake girl who looks like Kate Winslet?
+
+WIFE: NO! I'm sorry, but did you or did you not just see me being incinerated like a Duraflame log? Huh? Did you? And then I clicked the urn numerous additional times to emphasize my point.
+
+HUSBAND: What IS THAT? What is that thing right near the fireman's foot in the front yard? Oh my God. Oh my God. What ... what have you done?!!"
+
+WIFE: And then I saw what my husband saw. A big, spreading puddle right at the tip of the fireman's boot.
+
+HUSBAND: I hope you're happy! LOOK AT THAT. I've peed my pants!! I've wet myself in front of a fireman!"
+
+WIFE: Yes, you certainly have.
+
+HUSBAND: You were so busy making me cry and mourning you that you didn't bother to notice that my bladder needs were at alarming levels!
+
+WIFE: Well, it's not my fault. Maybe if you realized you had to tinkle when I was a bonfire, I might still be alive!
+
+HUSBAND: Actually, now that I'm thinking about it, I do need to use the rest room. And all of that mourning has made me hungry! What are we making for dinner?
+
+WIFE: Not on your life!
+```
+
+---
+
+## IC-1294: Sixteen
+
+- Title: Sixteen
+- Author (byline): Maureen Daly
+- Work: Twenty Grand Short Stories
+- Publisher: Bantam
+- Publication date as stated: 1963
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1501
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Maureen Daly
+Book: Twenty Grand Short Stories
+ISBN: B000MOQK3U
+Publisher: Bantam
+Date(Month/Year): 1963
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+One could fall in love many times during the course of a lifetime, but the first rush of love always holds a special place in our hearts. The novelty of the feeling, like the first drops of dew on an untouched leaf, makes it special and unforgettable. Author Maureen Daly (only sixteen herself) wrote the short story Sixteen which subsequently won the O. Henry award for literature. Set in the 1950’s, the same period in which she was a teen, she speaks from the heart as she paints a vivid portrait of first love. Many assume that her work is autobiographical. Sixteen by Maureen Daly.
+```
+
+### Performance text (classify this)
+
+```text
+N
+
+ow don't get me wrong. I mean, I want you to understand from the beginning
+
+that I’m not really so dumb. I know what a girl should do and what she shouldn't. I get around. I read. I listen to the radio. And I have two older sisters. So you see I know what's what. I know it's smart to wear tweed skirts and tight fitting sweaters and ballerina shoes. And I know that your hair should be short with that look of careful carelessness, and the peasant hankie should be draped cleverly around your neck, fastened with a ring. Now, me, I never wear a hankie, it makes my face seem too wide. I'm not exactly too small-town either. I read the Broadway columns. You get to know what New York boy is crazy about what Hollywood actress on the West Coast and what starlet is currently the prettiest and who eventually, will play Joan of Arc. It gives you that worldly feeling. I know that it is absolutely forbidden to wear colored ankle-socks with high-heeled shoes or use Evening in Paris perfume with a tweed suit. But this isn't what I wanted to tell you. I just wanted to give you the general idea that I'm not so dumb. It is important that you understand that.
+
+You see, it was funny how I met him. It was winter night like any other night. And I didn't have my chemistry done either. But the way the moon silvered the twigs and the snow-drifts, I just could not stay inside. The skating rink isn't far from our house - you can make it in five minutes if the side walks aren't slippery, so I went skating. I remember it took me a long time to get ready that night because I had to darn my skating socks first. I don't know why they are always wear out so fast - just in the toes, too. And then I brushed my hair hard, so hard it clung to my hand and stood up around my head.
+
+My skates were hanging by the back door all nice and shiny, for I'd just gotten them for Christmas and they smelled so queer. My dog walked with me as far as the corner. She panted along beside me and her hot breath made a frosty little balloon on the end of her nose. The night was breathlessly quiet and the stars winked down like a million flirting eyes. It was all so lovely.
+
+It was all so lovely; I ran most of the way and it was lucky the sidewalks had ashes on them or I would have slipped.
+
+I had to cut across someone's back garden to get to the rink, and I was out of breath when I got to the shanty - out of breath with running and with the loveliness of the night. Shanties are always such friendly places. There was a delicious smell from the iron stove. Girls burst through the door laughing with snow on their hair. A boy grabbed the hat from a blonde and stuffed it into an empty shoe.
+
+It didn't take me long to get my own skates on and I put my shoes under the bench - far back where they wouldn't get knocked around and would be easy to find when I wanted to go home. I walked out on my toes into the night air.
+
+It was snowing a little outside - quick, eager little flakes that melted as soon as they touched your hand. I don't know where the snow came from for there were stars out. Or maybe the stars were in my eyes and I just kept seeing them every time I looked up into the darkness. I waited a moment. You know, to start to skate at a crowded rink is like jumping on a moving merry-go-round. Once in, I went all right. At least, after I found out exactly where the rough ice was. It was "round, round, jump the rut, round, round, jump the rut, round, round - ."
+
+~ II ~
+
+A
+
+nd then he came. All of sudden his arm was around my waist so warm and tight
+
+and he said, "Mind if I skate with you?" and then he took my other hand. That's all there was to it. Just that and then we were skating. It wasn't that I had never skated with a boy before. Don't be silly. I told you before I get around. But this was different. He was smooth! He was a big shot up at school and the best dancer in town. Don't you see? This was different.
+
+At first I can't remember what we talked about, I can't even remember if we talked at all. We just skated and skated and laughed every time we came to that rough spot and pretty soon we were laughing all the time at nothing at all. It was all so lovely.
+
+Then we sat on the big snow bank at the edge of the rink and just watched. It was cold at first, even with my skating pants on, sitting on that hard heap of snow, but pretty soon I got warm all over. He threw a handful of snow at me and it fell in a little white shower on my hair and he leaned over to brush it off. I held my breath. The night stood still.
+
+Then he sat up straight and said, "We'd better start home." Not "shall I take you home?" or "Do you live far?" but "We'd better start home." See, that's how I knew he wanted to take me home. Not because he had to but because he wanted to. He went to the shanty to get my shoes. "Black ones", I told him. "Same size as Garbo's." And laughed again. He was still smiling when he came back and took off my skates and tied the wet skate strings in a knot and put them over his shoulder. Then he held out his hand and helped me up from the snow bank. I brushed off the seat of my pants and we were ready.
+
+It was snowing harder now. Big, quiet flakes that clung to us lovingly. It was all so lovely that I was sorry I lived only a few blocks away. He talked softly as we walked as if every little word was a secret. "Did I like swing and did I plan to go to college next year and had I a cousin who knew his brother?" A very respectable sort of conversation and then finally - "How nice I looked with snow in my hair and had I ever seen the moon - so close?" and then we were home.
+
+The porch light was on. My mother always puts the porch light on when I go away at night. And we stood there a moment by the front steps and the snow turned pinkish in the light and a few feathery flakes settled on my hair. Then he took my skates and put them over my shoulder and very, very close to my cheek softly said, "Good night now. I'll call you," he said.
+
+I went inside then and in a moment he was gone. I watched him from my window as he went down the street. I could hear him whistling softly and I couldn't tell if it was he or my heart whistling out there in the night. And then he was gone, completely gone.
+
+I shivered. Somehow the darkness seemed changed. The stars were hard little lights up in the sky and the moon had a sharp yellow glare. The air was suddenly cold and the wind wiped out his footsteps. Everything was quiet.
+
+But he'd said, "I'll call you." That's what he said, "I'll call you." I couldn't sleep all night.
+
+And that was last Thursday. Tonight is Tuesday. Tonight is Tuesday and my homework is done and I darned some stocking that really didn't need it, and I worked a cross-word puzzle and I listened to the radio and now I'm just sitting. I'm just sitting because I can't think of anything else to do. I can't think of anything, anything but snowflakes and ice skates and a yellow moon and Thursday night. The telephone is sitting on the corner table with its old black face turned to the wall. I don't even jump when it rings any more. My heart still prays but my mind just laughs. Outside the night is still - so still I think I'll go crazy. And so I'm sitting here and I'm not feeling anything. I'm not even sad because all of a sudden I know. I can sit here now and forever and laugh and laugh while the tears run salty in the corners of my mouth. For all of a sudden, I know, I know what the stars knew all the time - he will never, never call - never.
+```
+
+---
+
+## IC-1295: Tables and Chairs
+
+- Title: Tables and Chairs
+- Author (byline): Stanley Rutherford
+- Work: Scenes and Monologs from the Best New Plays
+- Publisher: Meriwether Publishing
+- Publication date as stated: Sep 1992
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ALICE, NAOMI
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1468
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Stanley Rutherford
+Book: Scenes and Monologs from the Best New Plays
+ISBN: 0916260933
+Publisher: Meriwether Publishing
+Date(Month/Year): Sep 1992
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Every marriage starts with a lot of hope and dreams about a life-long association filled with love and togetherness. . . . . . . HOWEVER . . . . committing to a long term relationship like marriage solely on the basis of that feeling of love is a mistake. Or maybe it’s not. Howard and Alice are like . . . . like Peanut Butter and Jelly, like Ham and Eggs – like . . . . Tables and Chairs by Stanley Rutherford.
+```
+
+### Performance text (classify this)
+
+```text
+ALICE: Howard says that –
+
+NAOMI: I don't care what Howard says...if Howard wants to say something, Howard can say if for himself...isn't that right Howie? (glares at Howard)
+
+ALICE: Howard is very shy.
+
+NAOMI: (screams) Speak, Howard! Speak!
+
+ALICE: Howard is the man I love.
+
+NAOMI: Alice, Howard has been married about seventeen times, maybe more...
+
+ALICE: Howard is the man of my dreams.
+
+NAOMI: The longest marriage lasted about seven weeks, the shortest exactly 18 hours...remember her Howard? Gloria Garton? The ventriloquist? And then there was Mary Louise Menderman and Mieu-Mieu-Rohrbach and Allison Kildaire...
+
+ALICE: (pause) Naomi...Howard has asked me to be his bride.
+
+NAOMI: (sigh) Oh, Alice...
+
+ALICE: Howard has asked me to join him in eternal wedlock.
+
+NAOMI: Alice, you need professional help.
+
+ALICE: Howard wants to sanctify our love.
+
+NAOMI: Alice, Howard will get what he wants from you and then he'll dismiss you.
+
+ALICE: He wants to marry me.
+
+NAOMI: He wants to marry everyone...it's his plan for world peace. A world with one husband and five billion wives. Five billion wedding ceremonies with five billion wedding presents. Howard plans to return all of the wedding presents and use the cash to eliminate all international debt.
+
+ALICE: (gasps) Isn't that wonderful!
+
+NAOMI: It's sick.
+
+ALICE: Howard will win the Nobel Prize.
+
+NAOMI: Howard will be indicted for polygamy. Howard will spend the rest of his life behind bars: handcuffed, tethered, and gagged. (pause, gently to Alice) Alice, Howard is a psychopath.
+
+ALICE: I love Howard.
+
+NAOMI: Howard is a sociopath. He’s a barbarian who preys on unsuspecting women, especially those with a healthy bank account.
+
+ALICE: I have bags of money.
+
+NAOMI: That’s what Howard wants.
+
+ALICE: Howard can have it all.
+
+NAOMI: He wants it all.
+
+ALICE: Isn’t Howard wonderful?
+
+NAOMI: Alice, Howard is a Casanova who has ruined the lives of countless women…Mieu-Mieu Rohrbach, Mary Louise Menderman…
+
+ALICE: I love Howard.
+
+NAOMI: Claudia Grierson, Melonie Camberwell, Dottie Leachman, Mimi Nash…
+
+ALICE: Naomi…Howard and I are going to be married this evening. And I would like you to be my maid of honor.
+
+NAOMI: (quickly) I’m going to be having major surgery.
+
+ALICE: Naomi…
+
+NAOMI: Major exploratory surgery.
+
+ALICE: It would mean so much to us both.
+
+NAOMI: I am going to be in the depths of anesthesia.
+
+ALICE: We want it to be special…just Howard and I and our very special friends, Naomi and Spencer…just the four of us…our family.
+
+NAOMI: (dryly) I wish I’d known sooner.
+
+ALICE: We wanted it to be a surprise…Howard wants me to wear his mother’s wedding dress…
+
+NAOMI: Alice…
+
+ALICE: The very dress that she wore when she married Howard’s father.
+
+NAOMI: Alice, Howard wants everybody to wear his mother’s wedding dress. I’m surprised he’s not going to wear it himself. Everyone else has: Mieu- Mieu Rohrbach, Melonie Camberwell, Gloria Garton. Have you ever seen Howard’s mother’s wedding dress?
+
+ALICE: Howard wants it to be a surprise.
+
+NAOMI: Alice, Howard’s mother was a saint, God knows…but she had a hump, a very large hump, back here…(points)…and so does the dress…you’ll have to pad yourself to fill it out. (Alice is starting to have doubts) Alice, we have known Howard since infancy…and he’s the same now as he was then. He’s still an infant… Alice, Howard needs help, he’s not self-sufficient…he can’t get up in the morning, and Spencer and I have graciously taken responsibility for his care and protection…
+
+ALICE: Howard says that he takes care of you.
+
+NAOMI: We take care of him. It’s a long story, Alice, awfully long and awfully tragic. Howard needed someone to take care of him after his mother died. He couldn’t take care of himself, and so Spencer and I adopted him. Howard is our son. We’ll be your in-laws if you marry him.
+
+ALICE: (screaming) Howard…Howard…Howard talk to me! (long pause, moves to Naomi for comfort) I don’t know why I love him.
+
+NAOMI: Honey, love is a heartache. You’re better off without it. It’s overrated. It’s an enzyme. You can get the same feeling from eating chocolate.
+
+ALICE: (pause, stunned) I didn’t know.
+
+NAOMI: I didn’t either. I had to learn.
+
+ALICE: And I’ve watched and I’ve listened trying to learn the movements, the attitudes, the right things to say and do, when to say it, when to keep it to myself…
+
+NAOMI: (comforting) Honey, you’re doing just fine.
+
+ALICE: I’m not a real person. I’m a pretend person.
+
+NAOMI: You’re a very nice person, Alice.
+
+ALICE: (hysterical) I am not a person!
+
+NAOMI: Honey, you’ve got to relax.
+
+ALICE: I have no personality!
+
+NAOMI: Alice, honey, you don’t need a personality to be a person.
+
+ALICE: I want a personality.
+
+NAOMI: Personality is a completely overrated commodity.
+
+ALICE: I want to be like you. You’re fun.
+
+NAOMI: I am?
+
+ALICE: Everyone thinks you’re fun.
+
+NAOMI: I didn’t know that.
+
+ALICE: I want to be fun too.
+
+NAOMI: You are fun.
+
+ALICE: No, I’m not…I’m neurotic.
+
+NAOMI: Alice…
+
+ALICE: (loudly) I’m neurotic!
+
+NAOMI: (louder) I don’t like that word!
+
+ALICE: (screams into Naomi’s face) Neurotic!
+
+NAOMI: Alice, there are certain words that I simply cannot tolerate being used in my presence, and that word it one of them. It is a bad word, Alice.
+
+ALICE: I’m manic-depressive.
+
+NAOMI: Alice…
+
+ALICE: I’m schizophrenic.
+
+NAOMI: (loudly) Bad words! Bad words! Bad, bad, “psychology” words.
+
+ALICE: I disappear with other people leave the room. I vanish. I am a planet. I have no light source of my own. I need other people, light-giving people off of whom I can reflect.
+
+NAOMI: You need to eat more chocolate.
+
+ALICE: I need Howard.
+
+NAOMI: (annoyed) Alice…
+
+ALICE: I need you. (she opens her arms to Naomi)
+
+NAOMI: (embracing Alice) Alice…
+
+ALICE: I’d like you to be my sister.
+
+NAOMI: Alice, I don’t like that word.
+
+ALICE: I never had a sister.
+
+NAOMI: It’s not you I don’t like, it’s the institution.
+
+ALICE: We’d be so close.
+
+NAOMI: We are close.
+
+ALICE: Even closer.
+
+NAOMI: Let’s just be friends.
+
+ALICE: (gasps, thrilled) I’ve never had a friend. I want both of you to be in my wedding so very much.
+
+NAOMI: Honey, I’m having major surgery.
+
+ALICE: Couldn’t you have it tomorrow?
+
+NAOMI: It’s urgent…it has to be done as soon as possible.
+
+ALICE: Maybe we could fit it in before the wedding…
+
+NAOMI: We are not going to fit it in before the wedding.
+
+ALICE: …cut you open, move things around, sew you up…So why don’t we have major surgery and then a little supper -- a nice postoperative, prenuptial supper…
+
+NAOMI: I don’t think I’m going to be up for it.
+
+ALICE: And then we’ll have the wedding!
+
+NAOMI: And then we’ll have the consummation, the disenchantment, the lamentations, and then we’ll have the divorce.
+
+ALICE: (oblivious) I’m so happy.
+
+NAOMI: Alice…
+
+ALICE: I want to have babies.
+
+NAOMI: Alice…
+
+ALICE: And I want them to look like Howard.
+
+NAOMI: Alice…
+
+ALICE: I want them to look like Howard.
+
+NAOMI: Alice…
+
+ALICE: Howard’s eyes and Howard’s nose…
+
+NAOMI: Alice…
+
+ALICE: I want them to sound like Howard and smell like Howard…
+
+NAOMI: You need professional help.
+
+ALICE: I had never experienced real life, I mean real, real, life, until that wonderful moment when I opened my door and saw this beautiful mad standing on my doorstep and then he smiled and I was terrified, my heard was pounding, I was confused…and then he asked me if I wanted to buy a vacuum cleaner…
+
+NAOMI: He’s stolen it.
+
+ALICE: …but I didn’t need a vacuum cleaner…
+
+NAOMI: No one does.
+
+ALICE: I already had a vacuum cleaner, and then he said his name was Howard and I said my name was Alice, and I was paralyzed with fear and joy, and then he asked if he could come it and then he said he wanted to marry me and make a million babies, and then he told me about his friends. He said that you had fallen on hard times and had no place to live and needed a place to stay for a few days and maybe, he said, that I might have a place for you to stay and maybe I might be able to spare some food. (pause) I was thrilled. I’d always wanted someone to live with me, someone who needed me, because my life had been nothing but pain and loneliness and everyday was solitude and terror in the face of an enormous and terrifying world…I had nothing to hold on to, no one to tell me that things were going to be all right until I met Howard and got to know his wonderful friends.
+
+NAOMI: Alice, Howard and Spencer and I are not nice people. We are not the kind of people you want to have lying around your home. We don’t have a real home. We’re on the run, we’re fugitives. We’re wanted in all 50 states…shoplifting, petty theft, extortion…There are posters out with pictures of us. It was the Howard-the-Evangelist episode that pushed us over the edge…an awful period, Alice. We’d set up a nine hundred number and Howard was passing himself off as a television evangelist…call Howard and find salvation. And you’d dial the nine hundred number and get a prerecorded message from Howard. And “inspirational” message…it was quite lucrative…They’re after us for fraud. Alice, we’ve had to resort to a life of crime.
+
+ALICE: (confused, then enthusiastic) I want you to know that you can stay here forever. I will hide you and feed you and we’ll create our own beautiful world safe from the outside.
+```
+
+---
+
+## IC-1296: There Was Once / Unpopular Gals
+
+- Title: There Was Once / Unpopular Gals
+- Author (byline): Margaret Atwood
+- Work: Good Bones and Simple Murders
+- Publisher: Coach House Press
+- Publication date as stated: 1992
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: A, B, C, THE UGLY STEP SISTER, THE EVIL STEP-MOTHER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1518
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Margaret Atwood
+Book: Good Bones and Simple Murders
+ISBN: 0889104425
+Publisher: Coach House Press
+Date (Month/Year): 1992
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+There Was Once by Margaret Atwood
+```
+
+### Performance text (classify this)
+
+```text
+A: "There was once a poor girl, as beautiful as she was good, who lived with her wicked stepmother in a house in the forest."
+
+B: "Forest? Forest is passé, I mean, I've had it with all this wilderness stuff. It's not a right image of our society, today. Let's have some urban for a change."
+
+A: "There was once a poor girl, as beautiful as she was good, who lived with her wicked stepmother in a house in the suburbs."
+
+B: "That's better. But I have to seriously query this word poor."
+
+A: "But she was poor!"
+
+B: "Poor is relative. She lived in a house, didn't she?"
+
+A: "Yes."
+
+B: "Then socio-economically speaking, she was not poor."
+
+A: "But none of the money was hers! The whole point of the story is that the wicked stepmother makes her wear old clothes and sleep in the fireplace-"
+
+B: "Aha! They had a fireplace! With poor, let me tell you, there's no fireplace. Come down to the park, come to the subway stations after dark, come down to where they sleep in cardboard boxes, and I'll show you poor!"
+
+A: "There was once a middle-class girl, as beautiful as she was good-"
+
+B: "Stop right there. I think we can cut the beautiful, don't you? Women these days have to deal with too many intimidating physical role models as it is, what with those bimbos in the ads. Can't you make her, well, more average?"
+
+A: "There was once a girl who was a little overweight and whose front teeth stuck out, who-"
+
+B: "I don't think it's nice to make fun of people's appearances. Plus, you're encouraging anorexia."
+
+A: "I wasn't making fun! I was just describing-"
+
+B: "Skip the description. Description oppresses. But you can say what colour she was."
+
+A: "What colour?"
+
+B: "You know. Black, white, red, brown, yellow. Those are the choices. And I'm telling you right now, I've had enough of white. Dominant culture this, dominant culture that-"
+
+A: "I don't know what colour."
+
+B: "Well, it would probably be your colour, wouldn't it?"
+
+A: "But this isn't about me! It's about this girl-"
+
+B: "Everything is about you."
+
+A: "Sounds to me like you don't want to hear this story at all."
+
+B: "Oh well, go on. You could make her ethnic. That might help."
+
+A: "There was once a girl of indeterminate descent, as average-looking as she was good, who lived with her wicked-"
+
+B: "Another thing. Good and wicked. Don't you think you should transcend those puritanical judgmental moralistic epithets? I mean, so much of that is conditioning, isn't it?"
+
+A: "There was once a girl, as average-looking as she was well-adjusted, who lived with her stepmother, who was not a very open and loving person because she herself had been abused in childhood."
+
+B: "Better. But I am so tired of negative female images! And stepmothers-they always get it in the neck! Change it to stepfather, why don't you? That would make more sense anyway, considering the bad behaviour you're about to describe. And throw in some whips and chains. We all know what those twisted, repressed, middle-aged men are like-"
+
+C: "Hey, just a minute! I'm a middle-aged-"
+
+B: "Stuff it, Mister Nosy Parker. Nobody asked you to stick in your oar, or whatever you want to call that thing. This is between the two of us. Go on."
+
+A: "There was once a girl-"
+
+B: "How old was she?"
+
+A: "I don't know. She was young."
+
+B: "This ends with a marriage, right?"
+
+A: "Well, not to blow the plot, but-yes."
+
+B: "Then you can scratch the condescending paternalistic terminology. It's woman, pal. Woman."
+
+A: "There was once-"
+
+B: "What's this was, once? Enough of the dead past. Tell me about now."
+
+A: "There-"
+
+B: "So?"
+
+A: "So, what?"
+
+B: "So, why not here?"
+
+THE UGLY STEP SISTER: Everyone gets a turn, and now it's mine. Or so they used to tell us in kindergarten. It's not really true. Some get more turns than others, and I've never had a turn, not one! I hardly know how to say I, or mine; I've been she, her, that one, for so long.
+
+I haven't even been given a name; I was just the ugly sister; put the stress on ugly. The one the other mothers looked at, then looked away from and shook their heads gently. Their voices lowered or ceased altogether when I came into the room, in my pretty dresses, my face leaden and scowling. They tried to think of something to say that would redeem the situation-Well, she's certainly strong-but they knew it was useless. So did I.
+
+You think I didn't hate their pity, their forced kindness? And knowing that no matter what I did, how virtuous I was, or hardworking, I would never be beautiful. Not like her, the one who merely had to sit there to be adored. You wonder why I stabbed the blue eyes of my dolls with pins and pulled their hair out until they were bald? Life isn't fair. Why should I be?
+
+As for the prince, you think I didn't love him? I loved him more than she did. I loved him more than anything. Enough to cut off my foot. Enough to murder. Of course I disguised myself in heavy veils, to take her place at the altar. Of course I threw her out the window and pulled the sheets up over my head and pretended to be her. Who wouldn't, in my position?
+
+But all my love ever came to was a bad end. Red-hot shoes, barrels studded with nails. That's what it feels like, unrequited love.
+
+She had a baby, too. I was never allowed.
+
+Everything you've ever wanted, I wanted also.
+
+THE WITCH IN THE GINGERBREAD HOUSE: A libel action, that's what I'm thinking. Put an end to this nonsense. Just because I'm old and live alone and can't see very well, they accuse me of all sorts of things. Cooking and eating children, well, can you imagine? What a fantasy, and even if I did eat just a few, whose fault was it? Those children were left in the forest by their parents, who fully intended them to die. Waste not, want not, has always been my motto.
+
+Anyway, the way I see it, they were an offering. I used to be given grown-ups, men and women both, stuffed full of seasonal goodies and handed over to me at seed-time and harvest. The symbolism was a little crude perhaps, and the events themselves were-some might say-lacking in taste, but folks' hearts were in the right place. In return, I made things germinate and grow and swell and ripen.
+
+Then I got hidden away, stuck into the attic, shrunken and parched and covered up in dusty draperies. Hell, I used to have breasts! Not just two of them. Lots. Ever wonder why a third tit was the crucial test, once, for women like me?
+
+Or why I'm so often shown with a garden? A wonderful garden, in which mouth-watering things grow. Mulberries. Magic cabbages. Rapunzel, whatever that is. And all those pregnant women trying to clamber over the wall, by the light of the moon, to munch up my fecundity, without giving anything in return. Theft, you'd call it, if you were at all open-minded.
+
+That was never the rule in the old days. Life was a gift then, not something to be stolen. It was my gift. By earth and sea I bestowed it, and the people gave me thanks.
+
+THE EVIL STEP-MOTHER: It's true, there are never any evil stepfathers. Only a bunch of lily-livered widowers, who let me get away with murder vis-à-vis their daughters. Where are they when I'm making those girls drudge in the kitchen, or sending them out into the blizzard in their paper dresses? Working late at the office. Passing the buck. Men! But if you think they know nothing about it, you're crazy.
+
+The thing about those good daughters is, they're so good. Obedient and passive. Sniveling, I might add. No get-up-and-go. What would become of them if it weren't for me? Nothing, that's what. All they'd ever do is the housework, which seems to feature largely in these stories. They'd marry some peasant, have seventeen kids, and get 'A dutiful wife' engraved on their tombstones, if any. Big deal.
+
+I stir things up, I get things moving. 'Go play in the traffic,' I say to them. 'Put on this paper dress and look for strawberries in the snow.' It's perverse, but it works. All they have to do is smile and say hello and do a little more housework, for some gnomes or nice ladies or whatever, and bingo, they get the king's son and the palace, and no more dishpan hands. Whereas all I get is the blame.
+
+God knows all about it. No Devil, no Fall, no Redemption. Grade Two arithmetic.
+
+You can wipe your feet on me, twist my motives around all you like, you can dump millstones on my head and drown me in the river, but you can't get me out of the story. I'm the plot, babe, and don't ever forget it.
+```
+
+---
+
+## IC-1297: The Throne of Fire
+
+- Title: The Throne of Fire
+- Author (byline): Rick Riordan
+- Work: Cutting is from (Chapter 8)
+- Publisher: Disney Hyperion
+- Publication date as stated: Aug 2012
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: SADIE, BES, LIZ, NEKHBET
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1418
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Rick Riordan
+Book: Cutting is from (Chapter 8)
+ISBN: 978-1423142010
+Publisher: Disney Hyperion
+Date (Month/Year): Aug 2012
+* Cutting compliments of Heidi Trevithic of Denver, Colorado
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Of course Sadie had seen stranger things . . . that tends to happen when you are one of the most powerful descendants of the ancient Egyptian pharaohs to be born in centuries!
+
+Sadie is on a mission to revive the sun god Ra who can stop the god of Chaos and his minions from rising and destroying the world. (Where was she when we needed her in the years leading up to the 2016 Presidential Election?)
+
+In this selection, Sadie finds an ally in Bes, the dwarf god (Think Tirian Lannister from Game of Thrones), who helps her defeat two of Chaos’ minions: Nekhbet, the Vulture Goddess, and Babi, a blood-thirsty god of the underworld.
+
+Will Sadie and Bes prevail or will Chaos reign? Throne of Fire by Rick Riordan.
+```
+
+### Performance text (classify this)
+
+```text
+*NOTE: Sadie and Liz should have pronounced British accents Nekhbet appears as a woman that is a hundred years old. The skin around her face, neck, and earlobes sag and her body is hunched over and emaciated. She is almost bald, with just a few clumps of greasy black hair on her head. She wears a "lush" black dress made entirely of feathers.
+
+SADIE: (To Audience) I’d never been in a limousine before. I hope most are nicer than the one we took. The backseat was littered with take-away curry containers, old fish-and-chip paper, crisps bags, and various dirty socks. Despite this, Liz and I crammed together in the back, because neither of us dared ride up front.
+
+You may think I was mad to get in a car with a strange man. You’re right, of course. But the gods had promised us help and a driver. The fact that our promised help was a little man with bad hygiene and a magical limousine did not particularly surprise me. I’d seen stranger things.
+
+.
+
+SADIE: (To Audience) He was shorter than me by half, and uglier than anyone else on the planet. His facial features were positively Neanderthal. Under his thick furry mono-brow, one eye was bigger than the other. His beard looked as if it had been used to scrape greasy pots. His skin was poxy with red welts, and his hair looked like a bird’s nest that had been set on fire then stomped out. When he saw me, he scowled, which did nothing to help his appearance.
+
+BES: About time! (American accent, belching into his fist). Sadie Kane?
+
+SADIE: Um . . . possibly. By the way, we have two gods trying to kill us.
+
+BES: (Turning toward the curb and yelling,) BOO!
+
+SADIE: (To Audience) A black Mercedes limousine appeared out of nowhere, as if it had been scared into existence.
+
+BES: (Glancing at Sadie and arching his brow.) Well? Get in!
+
+SADIE: (To Audience) The chauffeur started whistling a tune that sounded like “Short People.” His head barely reached the headrest. All I could see of him was a grubby nest of hair and a set of furry hands on the wheel.
+
+Stuck in the sun visor was an identification card with his picture – sort of. It had been taken at point-blank range, showing only an out-of-focus nose and a hideous mouth, as if he’d been trying to eat the camera. The card read: Your Driver is BES. (To Bes) You’re Bes, I guess?
+
+BES: Yes.
+
+SADIE: Your car’s a mess.
+
+LIZ: If one more person rhymes, I’ll throw up.
+
+SADIE: (To Bes) Is it Mr. Bes? (To Audience) I tried to place his name from Egyptian mythology. I was fairly sure they hadn’t had a god of chauffeurs. (To Bes) Lord Bes? Bes the Extremely Short?
+
+BES: Just Bes. One “S”. And no, it’s NOT a girl’s name. Call me Bessie, and I’ll have to kill you. As for being short, I’m the dwarf god, so what do you expect? Oh, there’s bottled water for you back there if you’re thirsty.
+
+SADIE: (To Audience) Rolling about at my feet were two partially empty bottles of water. One had lipstick on the cap. The other looked as if it had been chewed on. (To Bes) Not thirsty.
+
+LIZ: You’re really a god?
+
+BES: Huge! I’m huge in the world of gods.
+
+LIZ: A huge god of dwarves. You mean as in Snow White, or –
+
+BES: All dwarves. Egyptians were smart. They honored people who were born unusual. Dwarves were considered extremely magical. So yeah, I’m the god of dwarves.
+
+LIZ: (clearing her throat.) Isn’t there a more polite term we’re supposed to use nowadays? Like . . . little person, or vertically challenged, or –
+
+BES: I’m not going to call myself the god of vertically challenged people. I’m a dwarf! Now, here we are just in time.
+
+SADIE: (To Audience) He spun the car to a stop in the middle of the bridge. Looking behind us, I almost lost the contents of my stomach. A winged black shape was circling over the riverbank. At the end of the bridge, Babi was taking care of the barricade in his own fashion. He was throwing police cars into the River Thames while the officers scattered and fired their weapons, though the bullets seemed to have no effect on the baboon god’s steely fur. (to Liz) Liz, we’re getting out.
+
+LIZ: (whimpering) Getting. . . out?
+
+BES: (stifling a yawn.) Need my help?
+
+SADIE: Um . . . (To audience) Babi was lumbering towards us. Nekhbet circled over him, shrieking orders. I didn’t see how a dwarf god could stand against those two, but, (To Bes) Yes, I need help.
+
+BES: Right. (cracking his knuckles.) So get out.
+
+SADIE: What?
+
+BES: I can’t change clothes with you in the car, can I? I have to put on my ugly outfit.
+
+SADIE: Ugly outfit?
+
+BES: Go! I’ll be out in a minute.
+
+SADIE: (To Audience) It didn’t take much encouragement. Neither of us wanted to see any more of Bes than we had to. We got out, and Bes locked the doors behind us. The windows were heavily tinted, so I couldn’t see in. For all I knew Bes would be relaxing, listening to music while we got slaughtered. I certainly didn’t have much hope that a wardrobe change was going to defeat Nekhbet and Babi. (To Liz and Bes) We’ll make our last stand here.
+
+LIZ: Oh, no, no. I really don’t like the term “last stand.”
+
+SADIE: (To Audience) Nekhbet must’ve seen the desperation in my face. She was a vulture. She specialized in knowing when her prey was finished.
+
+NEKHBET: A good last effort child, but you have nothing left. Babi, attack!
+
+SADIE: (To Audience) The baboon god reared up on his back legs. I got ready to charge and deliver one final burst of energy – to tap into my own life source and hopefully vaporize the gods. Then the limo’s door opened behind me.
+
+BES: No one is attacking anyone! Except me, of course.
+
+SADIE: (To Audience) Nekhbet shrieked in alarm. I turned to see what was going on. Immediately, I wished I could burn my eyes out of my head.
+
+LIZ: (making a gagging sound.) Lord, no! That’s wrong! Make him stop!
+
+SADIE: (To Audience) Bes had indeed put on his ugly outfit. He climbed onto the roof of the limo and stood there, legs planted, arms akimbo, like Superman – except with only the underwear.
+
+For those faint of heart, I won’t go into great detail, but Bes, all of a meter tall, was showing off his disgusting physique – his potbelly, hairy limbs, awful feet, gross flabby bits – and wearing only a blue Speedo. Imagine the worst looking person you’ve ever seen on a public beach – the person for whom swimwear should be illegal. Bes looked worse than that. (To Bes) Put on some clothes!
+
+BES: (laughing loudly in a sort of guffaw that says “Ha-ha! I’m amazing!”) Not until they leave. Or I’ll be forced to scare them away.
+
+NEKHBET: This is not your affair, dwarf god! (snarling and averting her eyes from his hideousness.) Go away!
+
+BES: These children are under my protection.
+
+SADIE: I don’t know you! I never met you before today.
+
+BES: Nonsense. You expressly asked for my protection.
+
+SADIE: I didn’t ask for the Speedo Patrol! (To Audience) Bes leaped off the limo and landed in front of me, placing himself between Babi and me. The dwarf was even more horrible from behind. His back was so hairy it looked like a mink coat. And on the back of his Speedo was printed DWARF PRIDE.
+
+Bes and Babi circled each other like wrestlers. The baboon god swiped at Bes, but the dwarf was agile. He scrambled up Babi’s chest and head-butted him in the nose. Babi staggered backward as the dwarf continued pounding away, using his face as a deadly weapon.
+
+Babi slumped against the railing. He blinked, trying to regain his bearings, but Bes breathed on him, and the smell of curry must’ve been too much. The baboon’s knees buckled. His body shimmered and began to shrink. Then Bes turned toward the vulture goddess.
+
+BES: Now it’s your turn, Nekhbet. Leave.
+
+NEKHBET: I stole this body fair and square! (wailing) I like it in here!
+
+BES: You asked for it.
+
+SADIE: (To Audience) Bes rubbed his hands, took a deep breath, and did something I will never be able to erase from my memory. If I simply said he made a face and yelled BOO, that would be technically correct, but it wouldn’t begin to convey the horror. His head swelled. His jaw unhinged until his mouth was four times too big. His eyes bulged like grapefruits. His hair stuck straight up. He shook his face and waggled his slimy green tongue and roared BOOOO! so loudly, the sound rolled across the Thames like a cannon shot. This blast of pure ugly blew the feathers off Nekhbet’s cloak and drained all the color from her face. It ripped away the essence of the goddess like tissue paper in a storm. The dwarf’s face went back to normal – well, normal ugly, at least – (To Bes) Thank you. Now, will you please put on some clothes? (To Audience) He gave me a toothy grin, which I could have lived without.
+
+BES: You’re all right, Sadie Kane.
+```
+
+---
+
+## IC-1298: The Waltz
+
+- Title: The Waltz
+- Author (byline): Dorothy Parker
+- Work: The Portable Dorothy Parker, Pgs 47-51
+- Publisher: NTC Penguin Classics
+- Publication date as stated: Mar 2006
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: WOMAN
+- Teaser before the introduction: Yes
+- Spoken words (computed): 2007
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Dorothy Parker
+Book: The Portable Dorothy Parker, Pgs 47-51
+ISBN: 978-0143039532
+Publisher: NTC Penguin Classics
+Date (Month/Year): Mar 2006
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+The Waltz by Dorothy Parker
+```
+
+### Performance text (classify this)
+
+```text
+WOMAN: (Pg 47-51) Why, thank you so much. I'd adore to.
+
+I don't want to dance with him. I don't want to dance with anybody. And even if I did, it wouldn't be him. He'd be well down among the last ten. I've seen the way he dances; it looks like something you do on Saint Walpurgis Night. Just think, not a quarter of an hour ago, here I was sitting, feeling so sorry for the poor girl he was dancing with. And now I'm going to be the poor girl. Well, well. Isn't it a small world?
+
+WOMAN: And a peach of a world, too. A true little corker. Its events are so fascinatingly unpredictable, are not they? Here I was, minding my own business, not doing a stitch of harm to any living soul. And then he comes into my life, all smiles and city manners, to sue me for the favor of one memorable mazurka. Why, he scarcely knows my name, let alone what it stands for. It stands for Despair, Bewilderment, Futility, Degradation, and Premeditated Murder, but little does he wot. I don't wot his name, either; I haven't any idea what it is. Jukes, would be my guess from the look in his eyes. How do you do, Mr. Jukes? And how is that dear little brother of yours, with the two heads?
+
+Ah, now why did he have to come around me, with his low requests? Why can't he let me lead my own life? I ask so little -- just to be left alone in my quiet corner of the table, to do my evening brooding over all my sorrows. And he must come, with his bows and his scrapes and his may-l-have-this-ones. And I had to go and tell him that I'd adore to dance with him. I cannot understand why I wasn't struck right down dead. Yes, and being struck dead would look like a day in the country, compared to struggling out a dance with this boy. But what could I do? Everyone else at the table had got up to dance, except him and me. There was I, trapped. Trapped like a trap in a trap.
+
+What can you say, when a man asks you to dance with him? I most certainly will not dance with you, I'll see you in hell first. Why, thank you, I'd like to awfully, but I'm having labor pains. Oh, yes, do let's dance together -- it's so nice to meet a man who isn't a scaredy-cat about catching my beri-beri. No. There was nothing for me to do, but say I'd adore to. Well, we might as well get it over with. All right, Cannonball, let's run out on the field. You won the toss; you can lead.
+
+Why, I think it's more of a waltz, really. Isn't it? We might just listen to the music a second. Shall we? Oh, yes, it's a waltz. Mind? Why, I'm simply thrilled. I'd love to waltz with you.
+
+I'd love to waltz with you. I'd love to waltz with you. I'd love to have my tonsils out, I'd love to be in a midnight fire at sea. Well, it's too late now. We're getting under way. Oh. Oh, dear. Oh, dear, dear, dear. Oh, this is even worse than I thought it would be. I suppose that's the one dependable law of life -- everything is always worse than you thought it was going to be. Oh, if I had any real grasp of what this dance would be like, I'd have held out for sitting it out. Well, it will probably amount to the same thing in the end. We'll be sitting it out on the floor in a minute, if he keeps this up.
+
+I'm so glad I brought it to his attention that this is a waltz they're playing. Heaven knows what might have happened, if he had thought it was something fast; we'd have blown the sides right out of the building, Why does he always want to be somewhere that he isn't? Why an't we stay in one place just long enough to get acclimated? It's this constant rush, rush, rush, that's the curse of American life. That's the reason that we're all of us so -- Ow! For God's sake, don't kick, you idiot; this is only second down. Oh, my shin. My poor, poor shin, that I've had ever since I was a little girl!
+
+Oh, no, no, no. Goodness, no. It didn't hurt the least little bit. And anyway it was my fault. Really it was. Truly. Well, you're just being sweet, to say that. It really was all my fault.
+
+I wonder what I'd better do -- kill him this instant, with my naked hands, or wait and let him drop in his traces. Maybe it's best not to make a scene. I guess I'll just lie low, and watch the pace get him. He can't keep this up indefinitely -- he's only flesh and blood. Die he must, and die he shall, for what he did to me. I don't want to be of the over-sensitive type, but you can't tell me that kick was unpremeditated. Freud says there are no accidents. I've led no cloistered life, I've known dancing partners who have spoiled my slippers and torn my dress; but when it comes to kicking, I am Outraged Womanhood. When you kick me in the shin, smile.
+
+Maybe he didn't do it maliciously. Maybe it's just his way of showing his high spirits. I suppose I ought to be glad that one of us is having such a good time. I suppose I ought to think myself lucky if he brings me back alive. Maybe it's captious to demand of a practically strange man that he leave your shins as he found them. After all, the poor boy's doing the best he can. Probably he grew up in the hill country, and never had no larnin'. I bet they had to throw him on his back to get shoes on him.
+
+Yes, it's lovely, isn't it? It's simply lovely. It's the loveliest waltz. Isn't it? Oh, I think it's lovely, too.
+
+Why, I'm getting positively drawn to the Triple Threat here. He's my hero. He has the heart of a lion, and the sinews of a buffalo. Look at him -- never a thought of the consequences, never afraid of his face, hurling himself into every scrimmage, eyes shining, cheeks ablaze. And shall it be said that I hung back? No, a thousand times no. What's it to me if I have to spend the next couple of years in a plaster cast? Come on, Butch, right through them! Who wants to live forever?
+
+Oh. Oh, dear. Oh, he's all right, thank goodness. For a while I thought they'd have to carry him off the field. Ah, I couldn't bear to have anything happen to him. I love him. I love him better than anybody in the world. Look at the spirit he gets into a dreary, commonplace waltz; how effete the other dancers seem, beside him. He is youth and vigor and courage, he is strength and gaiety and -- Ow! Get off my instep, you hulking peasant! What do you think I am, anyway -- a gangplank? Ow!
+
+No, of course it didn't hurt. Why, it didn't a bit. Honestly. And it was all my fault. You see, that little step of yours -- well, it's perfectly lovely, but it's just a tiny bit tricky to follow at first. Oh, did you work it up yourself? You really did? Well, aren't you amazing! Oh, now I think I've got it. Oh, I think it's lovely. I was watching you do it when you were dancing before. It's awfully effective when you look at it.
+
+It's awfully effective when you look at it. I bet I'm awfully effective when you look at me. My hair is hanging along my cheeks, my skirt is swaddling about me, I can feel the cold damp of my brow. I must look like something out of the "Fall of the House of Usher." This sort of thing takes a fearful toll of a woman my age. And he worked up his little step himself, he with his degenerate cunning. And it was just a tiny bit tricky at first, but now I think I've got it. Two stumbles, slip, and a twenty-yard dash; yes. I've got it. I've got several other things, too, including a split shin and a bitter heart. I hate this creature I'm chained to. I hated him the moment I saw his leering, bestial face. And here I've been locked in his noxious embrace for the thirty-five years this waltz has lasted. Is that orchestra never going to stop playing? Or must this obscene travesty of a dance go on until hell burns out?
+
+Oh, they're going to play another encore. Oh, goody. Oh, that's lovely. Tired? I should say I'm not tired. I'd like to go on like this forever.
+
+I should say I'm not tired. I'm dead, that's all I am. Dead, and in what a cause! And the music is never going to stop playing, and we're going on like this, Double-Time Charlie and I, throughout eternity. I suppose I won't care anymore, after the first hundred thousand years. I suppose nothing will matter then, not heat nor pain nor broken heart nor cruel, aching weariness. Well. It can't come too soon for me.
+
+I wonder why I didn't tell him I was tired. I wonder why I didn't suggest going back to the table. I could have said let's just listen to the music. Yes, and if he would, that would be the first bit of attention he has given it all evening. George Jean Nathan said that the lovely rhythms of the waltz should be listened to in stillness and not be accompanied by strange gyrations of the human body. I think that's what he said. I think it was George Jean Nathan. Anyhow, whatever he said and whoever he was and whatever he's doing now, he's better off than I am. That's safe. Anybody who isn't waltzing with this Mrs. O'Leary's cow I've got here is having a good time.
+
+Still if we were back at the table, I'd probably have to talk to him. Look at him -- what could you say to a thing like that! Did you go to the circus this year, what's your favorite kind of ice cream, how do you spell cat? I guess I'm as well off here. As well off as if I were in a cement mixer in full action.
+
+I'm past all feeling now. The only way I can tell when he steps on me is that I can hear the splintering of bones. And all the events of my life are passing before my eyes. There was the time I was in a hurricane in the West Indies, there was the day I got my head cut open in the taxi smash, there was the night the drunken lady threw a bronze ashtray at her own true love and got me instead, there was that summer that the sailboat kept capsizing. Ah, what an easy, peaceful time was mine, until I fell in with Swifty, here. I didn't know what trouble was, before I got drawn into this danse macabre. I think my mind is beginning to wander. It almost seems to me as if the orchestra were stopping. It couldn't be, of course; it could never, never be. And yet in my ears there is a silence like the sound of angel voices. . . .
+
+Oh they've stopped, the mean things. They're not going to play anymore. Oh, darn. Oh, do you think they would? Do you really think so, if you gave them twenty dollars? Oh, that would be lovely. And look, do tell them to play this same thing. I'd simply adore to go on waltzing.
+```
+
+---
+
+## IC-1299: Wanda’s Visit
+
+- Title: Wanda’s Visit
+- Author (byline): Christopher Durang
+- Work: Durang/Durang: Four Short Plays by Christopher Durang
+- Publisher: Smith and Kraus
+- Publication date as stated: June 1996
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: JIM, MARSHA, WANDA
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1883
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Christopher Durang
+Book: Durang/Durang: Four Short Plays by Christopher Durang
+ISBN: 978-0822214601
+Publisher: Smith and Kraus
+Date (Month/Year): June 1996
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Wanda’s Visit by Christopher Durang
+
+(Offstage we hear great whooping and enthusiastic cries of "Jim! Jim!" WANDA is also late thirties, early forties, but unlike JIM and MARSHA, she is not in as good shape. Her clothes are a little gaudy, her hair looks odd or messy, and she carries a sense of emotional disarray with her. But she also looks kind of fun and colorful.)
+
+WANDA: (With longing.) Jim!!! (WANDA throws her arms around JIM with great abandon,
+
+and then holds this embrace as if her life depended on it. MARSHA goes closer to
+
+them and waits patiently for the appropriate moment to be introduced.) (Still
+```
+
+### Performance text (classify this)
+
+```text
+This is the home of JIM and MARSHA. They enter and come to speak to the audience. They are attractive, in their mid- to late thirties. Their manner in talking to the audience is that of telling a story, but also, perhaps, of explaining themselves to a marriage counselor.
+
+JIM: Our lives had been seeming dull for a while. You know, nothing major, just sometimes being quiet at dinner. And then the next week I got this letter from this old classmate of mine.
+
+MARSHA: Wanda. He'd never mentioned her.
+
+JIM: Well, she was just some girlfriend. You know. High school.
+
+MARSHA: Wanda.
+
+JIM: And Wanda wrote me, saying she'd like to visit. And I asked Marsha if she'd mind.
+
+MARSHA: I have trouble saying no, most women do, I think. It's not pleasing or something.
+
+JIM: And I asked you if you'd mind, and you said, it would be fine. I thought it would be fun. You know, to mull over the old high school days . . . So I wrote Wanda back, and told her we'd love to have her visit. In high school Wanda had been quite a looker.
+
+MARSHA: To meet an old high school fantasy. Lucky me.
+
+JIM: And so we waited for her visit.
+
+embracing him.) Jim. Jim. Oh, Jim, Jim.
+
+MARSHA: (Since the embrace doesn't seem to be ending.) Hello. I'm Marsha, Jim's wife.
+
+WANDA: (Breaking from the embrace.) Oh, hello. Nice to see you. I was just so excited at seeing this guy. Hey, guy. Hey. How ya doin'?
+
+JIM: I'm fine. (A little uncertain he recognizes her.) Wanda? -- didn't you used to be blond?
+
+WANDA: Yeah, and I didn't used to be fat either-although I'm not really fat, my woman's group doesn't let me say that, I just have a food problem and some of it shows. But really I just lost twenty pounds. You should have seen me last month. Oh, give me another hug, guy. (WANDA gives JIM another bear hug.) Hrrrrrrrrrrrrrr. (To MARSHA; with sudden focus.) Do you have anything to eat? Pretzels or something?
+
+MARSHA: Would you like some pate?
+
+WANDA: Pate? (To JIM.) Where'd you get her, honey, the back of The New Yorker? (To MARSHA.) Sure, honey, I can eat pate as long as you have crackers with it. And maybe some pretzels.
+
+MARSHA: Fine. I'll be right back. (Exits to kitchen area.)
+
+WANDA: Oh, Jimbo, she's a jewel. An absolute jewel.
+
+JIM: You know, I hate to say this, but I don't recognize your face actually.
+
+WANDA: That's very perceptive, Jim. I've had plastic surgery. But it wasn't the fancy-schmancy kind to make your face look better, it was so they couldn't find me. (WANDA squeezes his *arm*. MARSHA comes in with the pate, and notices the *arm*-squeezing.)
+
+MARSHA: Here is the pate. Would you like a drink? (WANDA pauses for a moment, and then begins to sob, very genuinely.) (At a loss what to say.) Don't feel you have to have a drink.
+
+JIM: Wanda, what's the matter?
+
+WANDA: (Through sobs.) Oh, I don't want to burden you. Or your wife.
+
+MARSHA: That's all right, I'm sure we'd love to be burdened. I mean, if it would help you.
+
+WANDA: (WANDA pulls herself together, and tries to explain why she felt so upset.) Well it all started the summer after high school graduation. (To MARSHA.) Jim and I had gone to the prom together, and though of course nothing had been said, everyone just kind of presumed he and I would get married. My mother, my father, me, everyone. We were inseparable. From about February of senior year to June senior year, we spent every spare moment together. You gave me your class ring. Look, I have it right here.
+
+(Looks through her purse.) Uh-huh. Now, where is it? (WANDA dumps out the messy contents of her purse; looks through the mess.) No. No. Here's the prescription for Seconal I always carry with me in case I feel suicidal.
+
+MARSHA: I don't think any of the pharmacies are open this late. (WANDA stares at MARSHA for a moment, like a child who's crying and has suddenly been distracted.)
+
+JIM: Forget about the ring, Wanda. Tell us why you cried a few minutes ago.
+
+WANDA: Isn't it obvious? Seeing the path not taken. I could have had a happy life if I married you. So anyway, you and I went to different colleges, and then when you didn't write me, I was heartbroken.
+
+JIM: Wanda, if you felt this way, why didn't you tell me at the time? You haven't said anything in twenty years.
+
+WANDA: Well, I've been very busy, (Chomps on a cracker.) So then I went to Ann Arbor, and oh, Jim and Marsha, I'm so ashamed to tell you this-I was promiscuous.
+
+MARSHA: Really?
+
+WANDA: It was awful. I became a campus joke. SO anyway, the campus minister once had to give a whole sermon against me, which made me feel just awful. (To JIM.) And all because I was pining for you. (weeps copiously.) (JIM and MARSHA stare at her for a little while.) And then my second husband gave me herpes, and every time the first one would call to threaten my life, it would trigger an outbreak . . .
+
+MARSHA: Doesn't anyone want dinner yet?
+
+WANDA: (Suddenly switching moods.) Marsha sounds hungry. Sure, honey, let's go eat.
+
+(WANDA bounds up and moves to the dining room table.) Oh, the dinner looks beautiful. Now where was I? Uh-huh. So then there was that guy from prison. And then there was his father, Fred. Did I tell you about Fred? Well, Fred said to me, I married you because I thought you would be my anchor in the port of life, but now I think you're stark raving mad . . .
+
+MARSHA: Could I have the salt, please? (JIM passes MARSHA the salt.)
+
+WANDA: (Continues on with story.) So one day the washing machine blew up, and Fred said to me, you did that, everything about you is chaos, I'm leaving and I'm taking Tranquility with me.
+
+JIM: He actually said "tranquility"?
+
+MARSHA: (Muttered.) Don't ask her questions.
+
+WANDA: (Explaining.) Tranquility was our dog. And I said, I'm the one who fed Tranquility, and walked her and took care of her worms, and she used to throw up on the rug, and, of course, you can't just leave it there ...
+
+MARSHA: Excuse me, I'll be right back.
+
+WANDA: I hope my talking about vomit didn't make you feel sick.
+
+MARSHA: (Nearly out if the room.) No, it's fine. (MARSHA holds her head in pain. She just couldn't stand to be at the table for a minute longer)
+
+JIM: I think she had a hard day.
+
+WANDA: What did she do? Spend it making up the guest room for me? Really, I can sleep anywhere. I think I'm being evicted tomorrow anyway, so I'd prefer not to be there.
+
+JIM: That's too bad. . . . Uh-huh. Hold on to the thought. I'll be right back.
+
+(JIM exits and finds MARSHA still clutching her head.) Why are you hiding in the bathroom?
+
+MARSHA: I needed aspirin. When is she leaving?
+
+JIM: I think she's staying overnight.
+
+MARSHA: Did she say that or did you say that? (WANDA, bored alone, bounds into the bathroom area with them.)
+
+WANDA: What are you two talking about? When you live with someone, you don't have any secrets. I remember David said to me, why didn't you tell me you had herpes, and I said, I forgot, okay? People forget things, all right? And he said, not all right, I'm going to have this for life, and I said so what, you have your nose for life, is that my fault?
+
+MARSHA: (Tired, but sort annoyed of by the logic.) Yes, but his nose wasn't your fault. .
+
+WANDA: What? SO then I thought I'd stay out of relationships for a while, and I went to work for this lawyer, only he wasn't a regular lawyer, he was a kingpin of crime, only I didn't realize it. Eventually, of course, I had to get my face redone so they couldn't find me.
+
+MARSHA: (Trying to tell her no.) Jim says you were expecting to stay overnight ...
+
+WANDA: Thank you, I'd love to! I feel I'm just starting to scratch the surface with old Jimbo here. (A little girl.) I hope there's a quilt. I love quilts.
+
+MARSHA: I'll look for one. (WANDA stares at her, happy, but doesn't get out of the way.) You have to move or I can't get out of the bathroom.
+
+WANDA: (Serious.) I'm holding you hostage.
+
+MARSHA: What?
+
+WANDA: (Shifting, cheerful.) Isn't it awful the way they take hostages now?
+
+(Cheerfully leaves the bathroom, talking away.) Reminds me of my life with Augie. He was really violent, but he was really little, so I was able to push him down the stairs. (JIM and MARSHA look at one another, a little alarmed by the "hostage" exchange. *****************
+
+WANDA: (Happy.) Oh, you guys, it's been a great evening. I can't believe we played games for four hours! I'm sorry I broke the lamp. Well, good night, you two. See you in the morning.
+
+MARSHA: Good night. (WANDA exits to the guest room. JIM and MARSHA go to their bedroom. They're too tired to talk. They kiss each other briefly and close their eyes to sleep. WANDA enters, wrapped up in a quilt.)
+
+WANDA: Oh, is this your bedroom? Oh, it's so pretty. (JIM and MARSHA open their eyes, very startled.)
+
+MARSHA: Is something wrong with your room?
+
+WANDA: No, it's lovely. Although not as nice as here. It makes me never want to leave. (WANDA pulls up a chair right next to their bed. Keeps wrapped in her quilt.)
+
+MARSHA: Wanda, I'm sorry. I really think I need to sleep.
+
+WANDA: You can sleep, I won't be offended. (Clock ticks. Time passes. JIM and MARSHA change positions in bed.) (Coquettish.) And I said, "Billy, why didn't you tell me you were sixteen?" (Clock ticks.) (Chatty voice, just telling the facts.) Teary voice, telling a tragic turning point.) And Leonard said, Wanda, you are a worthless piece of trash. And I said, don't you think I know that? Do you think this is news? {Clock ticks.) (Energized, telling a fascinating story.) And Howard said he wanted me to kill his mother, and I said, "Are you crazy? I've never even met your mother." And he said, "All right, I'll introduce you. (JIM and MARSHA have closed their eyes, either asleep or pretending to be. WANDA looks over at them, suspicious.) Are you asleep? Jim? Marsha? (WANDA looks to see if they're asleep. She shakes their shoulders a bit, to see if she can wake them.) Jim? Marsha? You're not pretending to be asleep, are you? (WANDA opens MARSHA’s eyelid with her finger.) I was just checking if you were asleep. Good night. (WANDA takes her comforter and curls up at the bottom if their bed. Then she pulls their blanket off them and onto her.) **************** JIM and MARSHA wake up, and abruptly leave the bedroom for the dining room area.)
+
+MARSHA: Oh God, why did she sleep on our bed? She seemed like some insane nightmare Golden Retriever. Was she always this way?
+
+JIM: Well, she was always vivacious.
+
+MARSHA: I see. High school prom queen. Girl Most Likely to Get Herpes.
+
+JIM: Lots of people get herpes.
+
+MARSHA: Yes, but they don't talk about it for three hours. Are you attracted to her?
+
+JIM: Now come on, Marsha, she's an emotional mess.
+
+MARSHA: You're putting up with it very patiently. Why is that?
+
+JIM: Well, that's because . . . I feel sympathy for her. She's someone I knew once who had a life, and look what's happened to her.
+
+MARSHA: Well, fine. I understand. I think I'll make a trip to the nearest loony bin and find some mental patient who finds me attractive. Then I'll bring him home and make you suffer through a forty-eight-hour visit while he drools on the carpet.
+
+WANDA: (Entering from the bedroom . . . Loudly.) Hey! I have an idea! Why don't I cook dinner for you guys tonight? Do you like octopus?
+
+MARSHA: Thank you, Wanda, no. I thought we'd go to a restaurant tonight. The walls in this house are starting to vibrate. ******************
+
+(Lights change. JIM, MARSHA, and WANDA sit at a table in a restaurant)
+
+WANDA: This is such a pretty restaurant. Ohhh, I think I know someone. (Waves, calls out to imaginary table.) Hi, there! Oh, no, I don't know them. (Calls out again.) Never mind! I thought you were my gynecologist. You know, Jim, tomorrow we should get out the old yearbook. You know, Marsha, you wouldn't believe how dashing he was back then.
+
+JIM: You're sure a shot for my ego.
+
+MARSHA: I'd like to shoot your ego . . . (Closes her eyes, puts her arms loose by her side, tries to relax her body.) (With eyes closed; chant-like.) I am sitting by a tree, and there's a lovely breeze.
+
+WANDA: This restaurant is so adorable. This whole town. You know what I'm thinking? I'm thinking of maybe moving up here to the country with you all, finding a little house to rent. Nothing's happening in my life right now; this might be just the change I might need.
+
+MARSHA: So you're going to move up here, are you? Going to sweep up and stick your feet in the ground and root yourself in our "little neck of the woods," are you? . . . I don't want you moving here, is that clear? I don't want you invading my life with your endless ravings anymore, is that clear? (WANDA keeps eating, seemingly just listening to what's being said, finding it interesting rather than upsetting.) (To JIM.) Don't you realize she's insane? (Almost on cue, WANDA starts choking JIM, MARSHA, look at her, shocked for a moment.)
+
+JIM: Shouldn't one of us do the Heimlich maneuver?
+
+MARSHA: I don't want to do it, I don't like her. (WANDA looks startled, even in the midst of her choking. She keeps choking and pointing to her throat.) (After a second.) Oh, for God's sake. (MARSHA gets up, She stands behind WANDA, puts her arms around WANDA’s lower stomach and then rather violently and suddenly pulls her hands into WANDA’s lower stomach. WANDA sits back down, exhausted) ******************
+
+JIM: (To audience.) Well, all that happened a few weeks ago. But some good came out of it.
+
+MARSHA: Yes. We had a big argument, and that was good. I said what I was feeling, and it was mostly negative, but it was good to say it.
+
+JIM: And we're going to a marriage counselor who specializes in breaking down fear of intimacy in people who've known one another for over ten years . .
+
+MARSHA: All told, I guess Wanda's visit helped to stir us up in a good way. Now if only we were happy.
+```
+
+---
+
+## IC-1300: Warning Signs
+
+- Title: Warning Signs
+- Author (byline): Allie Brosh
+- Work: Hyperbole and a Half (Pg 1-18)
+- Publisher: Touchstone Books
+- Publication date as stated: Oct 2013
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ALLIE
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1987
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Allie Brosh
+Book: Hyperbole and a Half (Pg 1-18)
+ISBN: 978-1451666175
+Publisher: Touchstone Books
+Date (Month/Year): Oct 2013
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Looking back . . . it should have been one of those very clear WARNING SIGNS. Parents, get your child to a therapist NOW! Warning Signs from Hyperbole and a Half by Allie Brosh
+```
+
+### Performance text (classify this)
+
+```text
+ALLIE: (Pg 1-18) When I was ten years old, I wrote a letter to my future self and buried it in my backyard. Seventeen years later, I remembered that I was supposed to remember to dig it up two years earlier. I looked forward to getting a nostalgic glimpse into my childhood— perhaps I would marvel at my own innocence or see the first glimmer of my current aspirations. As it turns out, it just made me feel real weird about myself.
+
+ALLIE: The letter was scrawled in green crayon on the back of a utility bill. My ten-year-old self had obviously not spent much time planning out the presentation of it. Most likely, I had simply been walking through the kitchen and suddenly realized that it was entirely possible to write a letter to my future self.
+
+The overwhelming excitement of this realization probably caused me to panic and short-circuit, making me unable to locate proper writing implements. There was no time for that kind of thing.
+
+I did, however, manage to fight through the haze of chaos and impulse long enough to find a crayon stub and a paper surface to mash it against.
+
+The letter begins thusly: Dear 25 year old [note: not “Dear 25-year-old me” or “Dear 25- year-old self,” just “Dear 25 year old”]
+
+Do you still like dogs? What is your favarite dog? Do you have a job tranning dogs? Is Murphy still alive? What is youre favarite food?? Are mom and dad still alive?
+
+I feel it’s important to note the order of those questions. Obviously, dog-related subjects were my chief concern (Murphy was my family’s dog), followed closely by the need to know my future favorite food (I feel that the double question marks speak to how important I thought that question was). Only then did I pause to wonder whether my parents had survived.
+
+The letter continues with a section titled “About me”: My name is Allie and I am ten years old. I have blound hair and blue eyes. My favarite dog is a german shepard. My second favarite dog is a husky. My third favarite dog is a Dobberman Pincher.
+
+This is troubling for a number of reasons, the first of which is that I apparently thought my future self wouldn’t be aware of my name or eye color. “Who. What if – in the future – I’m not even me any more. I won’t know what I am.”
+
+The second thing is the fact that I just tacked on my favorite dog breeds at the end there, like it was every bit as important to my identity as the other things. As if my past self had imagined my future self standing in the yard above the upturned earth, clutching my letter and screaming, “BUT WHAT DOGS DID I LIKE??? HOW AM I SUPPOSED TO UNDERSTAND MY IDENTITY WITHOUT KNOWING WHAT DOGS I LIKED WHEN I WAS TEN???”
+
+I took a break from writing at that point to draw several pictures of what appear to be German shepherds.
+
+Below the German shepherds, I wrote the three most disturbing words in the entire letter—three words that revealed more about my tenuous grasp on reality than anything else I have uncovered about my childhood. There, at the bottom of the letter, I had taken my crayon stub and used it to craft the following sentence: Please write back.
+
+Judging by the thick, purposeful lines in each letter, I was applying a truly impressive amount of pressure to the crayon. The sincerity of the request is unmistakable. When I asked my future self what my favorite dog is or whether my mom and dad were still alive, I actually expected to get answers. And, apparently, I still expected to be ten years old when I got those answers. Please write back. I imagine myself patiently standing in the yard, day after day, thinking, Any time now . . . It’s going to happen soon, I just know it . . . 1, 2, 3, now. 1, 2, 3, NOW! 1, 2, 3, NOW
+
+Time travel is a complex subject that I don’t expect a ten-year-old to fully understand, but this is more than just a basic misunderstanding of time travel.
+
+ROUGH APPROXIMATION OF TEMPORAL CONTINUITY, AS IMAGINED BY A 10-YEAR-OLD: Person . . . . Undergoes mitotic event at age 10. One “me” Stays 10 . . . One “me” continues to the future *possibly no longer aware of self . . . . . 15 year later, writes letter and sends it to the past to inform self about favorite dog.
+
+I’m almost definitely not a time traveler, but in case I am, I decided to write back. In fact, I decided to write letters to several iterations of my past self, because I felt there were important things I could explain to myself or things I could warn myself about.
+
+Allow me to begin with a letter to my two-year-old self: Dear two-year-old: Face cream is not edible—no matter how much it looks like frosting, no matter how many times you try—it’s always going to be face cream and it’s never going to be frosting. I promise I wouldn’t lie to you about this. It’s honestly never going to be frosting. . . . For the love of *Pete*, please stop. I need those organs you’re ruining.
+
+Dear four-year-old: Allow me to preface this by saying that I don’t know why you started eating salt in the first place, but regardless of the precipitating circumstances, there you are. As soon as you became aware that eating huge amounts of salt is really, really, uncomfortably salty, you should have stopped eating salt. That’s the solution. The solution is not to begin eating pepper to cancel out the salt. You’ve found yourself in this predicament several times now, and every time you get trapped in this totally preventable cycle. You’ve done more than enough experimenting to come to the conclusion that pepper is not the opposite of salt all by yourself, but somehow you seem to remain stubbornly unaware of this fact. . . To reiterate, no matter how much pepper you eat, it won’t undo the ludicrous amount of salt you ate before it. The only thing you are accomplishing by eating pepper is making your mouth taste like pepper AND salt. Similarly, switching back to salt again won’t cancel out the burning from the pepper you ate to cancel out the original salt. How is this so difficult to understand? You can stop whenever you want to. As a side note, you really need to start learning from your mistakes. Believe me, I know what happens when you discover electric fences next year, and you could do without that seventh jolt of electricity.
+
+Dear five-year-old: What is wrong with you? Normal children don’t have dead imaginary friends. Normal children don’t pick open every single one of their chicken pox scabs and then stand naked and bleeding in the darkened doorway to their bedroom until someone walks past and asks what they are doing. Furthermore, normal children don’t respond by saying, “I wanted to know what all my blood would look like.” Normal children also don’t watch their parents sleep from the corner of the room. Mom was really scarred by The Exorcist when she was younger, and she doesn’t know how to cope with your increasingly creepy behavior. Please stop. Please, please stop.
+
+Dear six-year-old: You’re having an absurdly difficult time learning the letter R. You practice all the time, and you have mastered every other letter in the alphabet—both uppercase and lowercase—but for reasons beyond my comprehension, R just destroys you. Look at this: (draw each “R” shown below in the air . . . graphically)
+
+How does that happen?? How do you mess something up that badly? The first one is understandable, but what’s going on with that middle one? How did that extra protrusion get there? And look at the tiny one on the right—that one has four protrusions. I’m not an expert on protrusions, but that’s way too many. I think if you took some time to relax and really look at the letter R, you’d see that it’s not nearly as complicated as you’re making it.
+
+Dear seven-year-old: Look at the other children around you. Do you see how they’re wearing clothing? That’s because they’re seven years old and they’ve all realized that it is no longer appropriate to take their clothes off in public. But you haven’t realized that, have you. People have tried to explain it to you. Your teachers have tried, your parents have tried, even the other students have expressed discomfort with your persistent and inexplicable nakedness. But you just don’t stop.
+
+Why do you want to be naked so badly? DO you even know why? Are you overtaken by forces beyond your control that make you do this? Regardless, clothing is a reality that you need to accept. There are no loopholes to this. You can’t take your clothes off and hide in the corner hoping no one notices. You can’t trick the teachers into letting you be naked by burying yourself in the sandbox – your clothes are in a pile next to you. They know.
+
+Dear 10-year-old: Wow, you really like dogs. In fact, you like dogs so much that I’m not even sure it’s emotionally healthy. It might be normal to love dogs a lot, or to be really interested in dogs, but you go way, way past that. Normal children don’t walk around pretending to be a dog nearly as much as you do, for example. You’re ten. It makes people wonder about your developmental progress when you growl and bark at them.
+
+An even more concerning issue is the obstacle course. Fine, you want to train your dog to run through an obstacle course. That’s pretty normal. What isn’t normal is making your mother time you as you crawl through the course on all fours, over and over and over again. You’re making Mom think that she did something wrong to make you this way.
+
+Now that we’ve gotten that out of the way, allow me to answer your questions:
+
+Do you still like dogs? Yes, but not as much as you do. I’ve developed a healthy relationship with dogs.
+
+What is your favarite dog? I don’t know. This may come as a surprise to you, but knowing exactly where each dog breed ranks on my list of favorites isn’t the pressing issue that it used to be.
+
+Do you have a job tranning dogs? No. I can’t even train my own dogs, let alone the dogs of other people.
+
+Is Murphy still alive? Of course not. I don’t know whether you’re being optimistic or you actually don’t understand that dogs usually don’t live to be twenty-five, but you really set yourself up for a lot of disappointment there.
+
+What is youre favarite food? Nachos. Which is fortunate, because in the future, you’re dysfunctional and you don’t take care of yourself, so you end up eating a whole lot of nachos.
+
+Are mom and dad still alive? Actually, you turned out to be Batman, so we had to have them put down for story-line purposes.
+
+Dear 13-year old: I think everyone was relieved when you started to grow out of your unhealthy obsession with dogs. Unfortunately, now you think you are a wizard. I know this because I found your collection of spells.
+
+Tell me, how does mixing Dijon mustard with sand and then eating it make someone love you? First of all, I though your extensive early experiences with ingesting non-food substances would put you off of attempting something like this. Secondly, no one is going to love you until you stop doing things like trying to make them love you by eating mustard-sand.
+
+Dear other iterations of my past self: Thank you for not being so goddamn weird that I felt I had to address you personally in a letter form the future. I commend you.
+```
+
+---
+
+## IC-1301: Wonder of the World
+
+- Title: Wonder of the World
+- Author (byline): David Lindsay-Abaire
+- Work: Not specified
+- Publisher: Overlook Press
+- Publication date as stated: Oct 2022
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: CASS, KIP, LOIS, JANIE
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1868
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: David Lindsay-Abaire
+ISBN: 978-1585673117
+Publisher: Overlook Press
+Date (Month/Year): Oct 2022
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Cass and Kip . . . the perfect marriage; or so it seemed. Until Cass upset the apple cart and heads off to Niagara Falls, bucket list in hand and eager to explore (beat) by herself. Wonder of the World by David Lindsay-Abaire
+```
+
+### Performance text (classify this)
+
+```text
+CASS: (Pg 27) My name’s Cass. And I just left my husband. (hum the Newlywed Game Theme Song)* *****FLASHBACK*****
+
+(Cass is packing a suitcase. A door slams off stage. Cass looks up, frozen)
+
+KIP: (Pg 17-22) (Off-stage) Hey Sweetie! Guess who’s home for lunch?! (Cass futilely tries to hide the suitcase) Cass? Where are ya? (Kip enters)
+
+CASS: ince when do you come home for lunch?
+
+KIP: (notices the suitcase) What’s that? Are we going on a trip?
+
+CASS: Not exactly, no. I’m leaving you.
+
+KIP: You were just gonna run away without telling me?
+
+CASS: I was gonna leave a note. Can you just stand in the corner until I’m done? (goes back to packing)
+
+KIP: Is this about what I told you last night? (no answer) Just last week we played Yahtzee. I thought we were happy.
+
+CASS: Yeah, that was a lot of fun. (beat) Really, this has nothing to do with you.
+
+KIP: Then what happened?
+
+CASS: Nothing. I just . . . I think I made a mistake. Remember that time you proposed, and I said yes?
+
+KIP: That wasn’t a mistake.
+
+CASS: But what if it was? Look, I agreed to marry you based on what I knew to be true. Kip equals X. X will make me happy. Everything added up. Seven Years later I find out you’re not X at all, you’re Z. I did the math wrong. Z is no good. I would never have said yes to Z. (beat) This is turning into a scene.
+
+KIP: (Pg 23-24) I thought this wasn’t about me.
+
+CASS: I was lying when I said that. (beat) Why are you making me sad? I don’t want to be sad. I’m a new person today. Happy! Bubbly! I’m starting a new life and brimming with expectation! There are possibilities where I’m headed!
+
+CASS: (back to present day) (Pg 27) (Carries her suitcase to the door of a motel, sets it down as she fumbles with the lock. She picks ups the suitcase and heads inside as she talks to the audience) I’ve never been to Niagara Falls before. I almost went once. A family trip. But then Kip proposed, so I stayed behind to plan our wedding, and my parents went without me. They hit a beaver on the drive up, lost control of the car, and drove into a ditch. My mother was killed and my father’s legs were crushed.
+
+LOIS: (speaks as the voice of Cass’s conscience) That man saved your life, you know. If he hadn’t proposed, you would’ve been in that car wreck.
+
+CASS: You know what? I thought the same thing for a long time, but now I think if he hadn’t proposed, I would’ve gone with my parents, and yelled, “Dad, look out for that beaver!” And my mother would still be alive, and we would’ve gone on to see Niagara Falls, and maybe I would’ve met another man, the one I was meant to be with, instead of that two-faced deviant I married. (Pg 28) I had this list of all the things I wanted to do in life, but for some reason I put it away when I married Kip. P.S. BIG MISTAKE. (pulls out a list) Here it is. Number one is “Find your soul mate.” Ignore the checkmark. That one’s a do-over. Number two: Learn Swedish. Wear a large wig. (She takes a moment to put on a large wig) (Pg 29) Then we’ve got Have a baby. Wear overalls. Go parachuting. Become friends with a clown. Kips afraid of clowns, so . . Go on the Newlywed Game. Only Kip refused to audition. (beat, she gets lost in a memory) (Pg 38) In high school, I was a lifeguard and the only person I ever saved from drowning was Kip. That’s how we met. I saved his life. I used to think that was fate, but now I think it was just a coincidence. A coincidence that eventually led to the death of my mother. (embarrassed) (Pg 50) I used to speak lucidly. But someone disappointed me in unspeakable ways, and now my synapses don’t work all the way. (beat) (Pg 81) People used to say that Kip and I were a sweet couple. We were like yummy little bon-bons. (heavy sigh as she decides to reveal the truth)
+
+(Pg 82) Kip has a sweater drawer. And I noticed that he was always wearing the sweaters from the front of the drawer, but never the ones from the back. So, I thought I’d rotate the sweaters. And while I was rotating. I found a box. A carved wooden box that we had bought on our honeymoon in Mexico. And it brough back all these nice memories of beaches and Mayan temples. And then I opened it. (beat, obviously distraught) And inside . . . were Barbie heads. (Pg 83) Detached. Eleven of them. And they all had crazy mangy hair. And dulled faces. And a strange disinfectant smell. And I thought, “Well, this is strange.” (beat) Not just the Barbie heads exactly, but the fact that Kip had a secret. (beat) That night I held out the box and I said, What is this?” And his eyes got real big and he started sweating and then he cried. And I thought, “Well this can’t be good.” (beat) And after an hour of utter silence he proceeded to tell me that he had started collecting the heads and cleaning them and naming them, and what I found was his little collection. (pulls out a mangy Barbie head) (Pg 84) This one is Vivian! (defiantly) I stole one. I carry it as a reminder. Every time I miss Kip or think of going back to him, I pull out Vivian and it all comes flooding back to me. (puts head away) All those years, while I was folding our clothes, he was living this strange secret life, totally separate from me. What else has he not told me? He made me feel so empty. Because I had no secrets. (spins around with arms outspread) And that’s why I came here. To fill myself up. To stuff myself with whatever I want. Gorge myself until I’m ready to burst. (Pg 110) Why can’t people just be who you want them to be? (A knock at the door – she peers though the peephole) (Pg 87) It’s Kip.
+
+KIP: (Pg 88) (knocking while balancing a box on his hip) Cass, are you in there? Please let me in.
+
+CASS: (Pg 89) (opens the door to confront Kip) Kip, go home. You’re gonna muck everything up.
+
+KIP: After you left, I had an anxiety attack.
+
+CASS: (sarcastically) Why, you have to empty the dishwasher yourself?
+
+KIP: (Pg 90) Why are you being so mean? (notices her wig) And what is that?
+
+CASS: It’s a wig.
+
+KIP: Why would you wear a wig? Your hair is so nice. Your hair is probably my favorite thing about you. (a lightbulb goes off) (Pg 91) This was a test, wasn’t it? I was supposed to prove something back at the house; and I didn’t, I just let you go. But really you wanted me to fight for you. (Excited now, he begins to pull items from the box) I ‘ve brought some things. It’s evidence. See? Our photo album, champagne glasses from the wedding, my swim trunks from the day we met.
+
+CASS: It’s just stuff, Kip.
+
+KIP: I’m sorry, but you can’t just wake up one day and say our marriage didn’t exist. (Pg 92) Why are you doing this to me?! Can’t you see I’m having a breakdown?!
+
+CASS: I’m not your lifeguard anymore. I’m not gonna jump back in the pool just because you’re splashing around.
+
+KIP: I’ll see a specialist. I’ll get that (beat) thing (beat) taken care of.
+
+CASS: (Pg 93) See, it’s always about you, Kip. What you did. What you want. What’s the matter with you?
+
+KIP: (Pg 94) (Collapses, sobbing) I’m sorry! Okay?! What else do I need to do? Just tell me and I’ll do it. I know I was dishonest. I know you’re disappointed but give me another chance.
+
+CASS: (Pg 96) Excuse me! (whips out the doll head and shakes it at him) Excuuuuuuuse me!
+
+KIP: I was wondering where Vivian went. I wanted to dispose of her. As I did the other.
+
+CASS: Go home, Kip. You’re wasting your time here.
+
+KIP: (Pg 111) I called a marriage counselor on our behalf. (Pg 112) Glen says this therapist is a miracle worker.
+
+CASS: Well, that’s swell, but I’m not a blind deaf mute.
+
+KIP: Just give it a chance. She said she’d get here ASAP.
+
+CASS: Get here? This is my room! You can’t just invite people over! (beat) (Pg 115) If we sit down with the counselor and talk, are you gonna stop acting like a crazy person.
+
+KIP: Yes. Of course. If she counsels us to the best of her ability, and you still feel . . .
+
+CASS: Contempt and loathing.
+
+KIP: Okay. If you still feel those things, then I’ll go home.
+
+JANIE: (Pg 121) (enters, dressed as a clown, big shoes; the works) Hello! (honks horn)
+
+KIP: (terrified, screams) She’s a clown! (Cass laughs)
+
+JANIE: (very professional in manner, no funny voice or anything silly) Only part-time. (gesturing to her costume) for the kids at the hospital.
+
+KIP: (Pg 122) (composing himself) I’m the one who hired you. Don’t you wanna change?
+
+JANIE: Nah, I’m good. The fact that you have the money, and you’re the husband, means *nothing* to me. Now sit down and we can get started. (Shaking hands with Cass) My name is Janie McShane.
+
+CASS: You know what’s great, Janie? I was kind of dreading you, but now that you’re here, it feels totally right. I have this whole conundrum about fate, and one of the things on my list is become friends with a clown . . . and here you are!
+
+JANIE: Okay. I’m guessing you’re a little unbalanced. Am I right.
+
+CASS: Is that what Kip told you?
+
+JANIE: You see these things on the side of my head? They’re called ears. And they pick up crackpot real clear. Now have a seat next to that gnome you call hubby. (Cass and Kip set and Janine gets to work) (Pg 126) What do you want from your husband right now?
+
+CASS: I want him to . . . disappear.
+
+JANIE: Good. Good. Next? (She turs to Kip)
+
+KIP: (clears his throat, stand up to present as if at an AA meeting) My name is Kip, and my wife left me because I am a deviant. And I want things to be the way they used to be.
+
+JANIE: Well, that’s impossible, you moron. No wonder your wife left you. (Pg 129) It’s too early to determine who does and doesn’t belong together. First, I have to find out how well you know each other. And in order to do that we need to play the Newlywed Game. (honks her hand horn)
+
+CASS: (giddy) Oh, I love that game! (hum the Newlywed Game Theme Song)*
+
+KIP: (Pg 130) That’s it! The whole thing is off! I don’t like games! And I don’t like clowns! This is everything I don’t like!
+
+CASS: And everything I do like, Kip. I’m sorry she’s not what you had in mind, but sometimes that’s what happens in life. If you want to call it off, then we’re done. It’s up to you.
+
+KIP: (defeated pause) Okay. Let’s play.
+
+JANIE: Now I’m gonna pass out some questions and I want you to write down the answers on these cards. No peeking. (passes out cue cards, markers and questions) (Pg 131) Each question is worth twenty points. Question Number 1: What is your husband’s pet name for you? Cass?
+
+CASS: Well, there are a few, but mostly he calls me lifesaver.
+
+KIP: (flips his card and pumps his fist in the air) Yes! Lifesaver it is! (Cass smiles)
+
+JANIE: (Pg 133) Cass, Kip’s first words to you?
+
+CASS: I believe he said . . . “Help, help. I can’t swim. Holy crap, I’m drowning.”
+
+KIP: (flips card and grins, bell rings) (to Cass) And you said we were strangers.
+
+JANIE: (Pg 134-135) Now it’s the husband’s turn. Okay one question left, and it’s a bonus question worth 35 points. Kip, If you had to describe your wife as a fairytale character, which one would it be? (Pg 136) You need to get this right, or you go home empty-handed.
+
+KIP: I understand. Well . . . (to Cass) Remember in high school you had that long hair? Rapunzel! My answer is Rapunzel.
+
+JANIE: (Pg 137) Flip the card please.
+
+CASS: (sadly) Rapunzel is locked away in a tower, cut off from the rest of the world. (She flips the card) (Buzzer sounds)
+
+KIP: Wait! Do over! She didn’t understand the question! She said Jack! (to Cass) Jack and the Beanstalk Jack? (Pg 138) That’s not even a girl. How was I supposed to guess that? How is Jack better than Rapunzel?
+
+CASS: Jack steals eggs and kills giants and chops things down! Jack does things. Jack lives life! Rapunzel sits around combing her hair all day.
+
+KIP: She gets out of the tower eventually. The prince frees her or something.
+
+CASS: (beat) But you’re not the prince, Kip. You’re not the prince in this story!
+
+KIP: (Pg 139) This is just a game!
+
+CASS: It’s not just a game. Things have meaning, Kip. Or at least they should. My life should have meaning. And I don’t think it does when I’m with you. You could’ve said anything. You could’ve said something wonderful and changes my mind. God, I would have loved that. But you said Rapunzel. After everything, you still don’t – I mean look at me! Do I look like a Rapunzel. [I’m Jack] Jack does things. Jack lives life! (whips out her list again) (Pg 29) Eat venison . . . (shakes her head) Visit a prison (shakes her head) Go parachuting! YES! (she honks Janie’s horn and exits with a flourish)
+```
+
+---
+
+## IC-1302: 1984
+
+- Title: 1984
+- Author (byline): George Orwell
+- Work: The 5-Minute Iliad and Other Instant Classics, Pgs 171-182
+- Publisher: Gallery Books
+- Publication date as stated: Aug 2000
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, WINSTON, TELESCREEN, O’BRIEN, STRANGER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1063
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Greg Nagan
+Book: The 5-Minute Iliad and Other Instant Classics, Pgs 171-182
+ISBN: 978-0684867670
+Publisher: Gallery Books
+Date (Month/Year): Aug 2000
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Today we are seeing new limits on the rights and privileges of Americans. Gun control, abortion, LGBTQ rights, book banning, free and fair elections, immigration and asylum. The list of political battleground issues continues to grow.
+
+A few years ago, no one would have believed that the government had the power to close businesses and schools for over a year because of COVID-19; but it happened. The country came to a standstill because “Big Brother” was the only one who was wise enough to protect us from ourselves. Right?
+
+1984 by George Orwell as reimagined by Greg Nagan
+```
+
+### Performance text (classify this)
+
+```text
+By Greg Nagan
+
+NARRATOR: (Pg 171) In 1949, when George Orwell wrote his infamous novel 1984, most of Western Civilization was struggling against totalitarianism – the political theory that the state should have total control over every citizen. Orwell set out to show that the tyrannical subjugation of the masses by torture and brainwashing was, indeed, a bad idea.
+
+NARRATOR: (Pg 171-173) It was a bright cold day in April, and the clocks were striking thirteen: it was the future, and everything sucked. Winston Smith hurried upstairs to his apartment. In the hallway he passed a big poster of a handsome man whose eyes appears to be following you. (They used to have those jiggly eyes – those had been fun – but the Party had eventually settled on an iron-clad policy of NO FUN) Below were the words BIG BROTHER IS WATCHING YOU. This was also a recent innovation, ten years ago [it] replaced the original slogan, YOU’RE UNDER CONSTANT SURVEILLANCE, MAGGOT.
+
+Winston let himself into his room and looked out the window at the Party ministries with rose imposingly above the city: The Ministry of Peace, which dealt with war; the Ministry of Love, which dealt with punishment; the Ministry of Truth, which dealt with propaganda; and the Ministry of Cute Little Puppy Dogs, which dealt with cats.
+
+Slogans were etched into the windowless sides of the mammoth Ministry of Love: WAR IS PEACE; FREEDOM IS SLAVERY, IGNORANCE IS STRENGTH; BUT DIAMONDS ARE A GIRL’S BEST FIREND.
+
+Winston worked in the Ministry of Truth and Hate Week was not far off. He had come home on his lunch hour to commit an act of enormous defiance – of rebellion. He stepped into an alcove beside the telescreen – it was on, of course – it was impossible to turn off – the alcove was the only part of his cramped and dreary little apartment into which the telescreen could not see.
+
+He withdrew from his desk a diary and fountain pen which he had bought from an illegal diary and fountain pen dealer. Against all laws and regulation, he began to write:
+
+WINSTON: (speaking as he writes) I hate the future: everything sucks. I hate my job because everything really does suck . . .
+
+NARRATOR: The worst crime of all was thoughtcrime. It was only a matter of time before he would be caught.
+
+WINSTON: (speaking as he writes) I’m a doomed man. Doom sucks.
+
+NARRATOR: The next day at the Ministry of Truth he spent his morning rewriting old newspaper and history books to reflect the truth as adjusted by the Party. That was his job.
+
+WINSTON: It sucks.
+
+NARRATOR: He had lunch with people he didn’t like. While they ate . . .
+
+TELESCREEN: The standard of living has risen another 20 percent.
+
+WINSTON: (Applause)
+
+TELESCREEN: Another battle has been won against Eurasia.
+
+WINSTON: (Applause)
+
+TELESCREEN: Big Brother wants everyone to stand up.
+
+WINSTON: (Stands up)
+
+TELESCREEN: Big Brother wants everyone to sit down.
+
+WINSTON: (Sits down)
+
+TELESCREEN: Everyone should stand on one leg.
+
+WINSTON: (Starts to, then stops)
+
+NARRATOR: A few people did, and they were taken out and shot because Big Brother hadn’t said to.
+
+WINSTON: (thumbs up to the audience with a big smile and a fake wiping of sweat from his brow)
+
+NARRATOR: (Pg 175-177) One day Winston’s section chief approached his cubicle. O’Brien was the Inner Party man Winston suspected of secretly sharing his view that everything sucked.
+
+O’BRIEN: (in a suspicious manner) I’ve been reading your columns . . . Come by my house. (he hands Winston a piece of paper) Here’s my address. Come by any time. (he exits)
+
+WINSTON: (to audience) Awfully clever. The Party would suspect nothing.
+
+NARRATOR: And yet it was clear O’Brien was inviting Winston to come by his house and talk privately
+
+WINSTON: About how much everything sucked!
+
+NARRATOR: And maybe, just maybe, he’d invite Winston
+
+WINSTON: To join the Brotherhood! (awkward non-verbal celebration) *****A Few Weeks Later / O’Brien’s Study *****
+
+O’BRIEN: Why are you here?
+
+WINSTON: I want to join the Brotherhood and dedicate my life to fighting the Party.
+
+O’BRIEN: I see. Very good. (Taking out a checklist) Are you willing to die for the Brotherhood?
+
+WINSTON: Yes.
+
+O’BRIEN: Would you put a kitten into a blender for the Brotherhood?
+
+WINSTON: Yeeessss?
+
+O’BRIEN: (switching over to a baby voice) Even if it was an adorable little kitty-cat looking at you with those big eyes and going meow, meow and just so cute you could scream?
+
+WINSTON: (with resolve) Yes!
+
+O’BRIEN: Really? Wow. That’s good to know. Now go home and pretend nothing has happened. You’ll never meet any other members; you’ll never know that anything’s different at all. Some time when you don’t expect it a man will hand you a briefcase, and in that briefcase will be a cove of THE BOOK which explains everything. Leave now. *****
+
+WINSTON: (Pg 178) HATE, HATE, HATE! (stomping, thrusting his fist in the air)
+
+NARRATOR: Hate Week came at last and all of Oceania lathered itself into a frenzy chanting hate for all enemies of Big Brother.
+
+WINSTON: HATE, HATE, HATE! (stomping, thrusting his fist in the air)
+
+NARRATOR: And then . . . suddenly . . .
+
+WINSTON: (he notices the large telescreen and makes a mad scramble to grab and place various hats on his head, pushing, shoving invisible others)
+
+NARRATOR: There was a mad panic; everyone had to have a hat and had to have it at once. There was violence, rioting. Apparently, there’d been a typo and the telescreens were suddenly telling everyone to celebrate HAT WEEK. Anyone not wearing a hat was taken out and shot.
+
+STRANGER: (to Winston, slyly) I think you dropped your briefcase.
+
+WINSTON: I didn’t bring my briefcase.
+
+STRANGER: I think you did.
+
+WINSTON: I’m pretty sure I didn’t. (exasperated, the stranger motions with the briefcase; Winston finally remembers the directive from O’Brien) Sorry! (he takes the briefcase)
+
+NARRATOR: At last he would have a chance to read THE BOOK. ***** A few days later *****
+
+WINSTON: (Pg 179-181) (reading aloud) THE THEORY AND PRACTICE OF OLIGARCHIC COLLECTIVISM (makes exaggerated excited and somewhat scared face) Chapter One: Ignorance is Strength – Since the dawn of man, there have been three varieties of human kind: the idiots, the morons and the bastards. (reacts to the sentence; flips pages, skimming for the answers he wants) Perpetual state of warfare . . . easier for the governments to suck and to make life suck for their people . . . everything sucks for everyone forever. (nods head; book is affirming that he was right)
+
+NARRATOR: He read how there could never be any more revolutions because there were no longer any unhappy people. At the first signs of unhappiness people were taken out and shot.
+
+WINSTON: That sucks!
+
+NARRATOR: [And] Before he had a chance to . . .
+
+WINSTON: The apartment was invaded by Thought Police! It has all been a setup!
+
+(Winston takes blow after blow from the Thought Police)
+
+NARRATOR: They beat the crap out of him. Not very futuristic, but effective. [He] woke up in jail. Days went by; weeks, months, maybe even years. Thought Police would come in at erratic intervals and beat him or tickle him until he wet his pants.
+
+O’BRIEN: I’m going to torture you until you realize that Big Brother loves you, and that you love Big Brother.
+
+WINSTON: Big Brother Sucks! (succumbing to tickle torture with an embarrassed look as he wets himself)
+
+NARRATOR: He could take no more.
+
+WINSTON: Don’t torture me. I don’t care, just leave me alone!
+
+O’BRIEN: I was hoping you’d say that. You’re free to go.
+
+NARRATOR: (Pg 182) A few months later, Winston was sitting alone at a café.
+
+WINSTON: (with a vacant look on his face attempts to drink from a coffee cup, but spills it down his front; it’s clear that the beatings have had an effect on his intellect)
+
+NARRATOR: Once in a while he’d look up at the poster BIG BROTHER IS WATCHING YOU and feel a certain reassurance. (Winston looks up and smiles creepily) It was sort of comforting to be watched. He liked the idea that someone was looking out for him.
+
+He felt filled with warmth. (Winston wets his pants, notices, but is not embarrassed, he just smiles) The future didn’t suck after all. He loved Big Brother. Maybe love was too strong a word. But he liked him. He really, really liked him.
+```
+
+---
+
+## IC-1303: 24: The Ultimate Script
+
+- Title: 24: The Ultimate Script
+- Author (byline): Dave Barry
+- Work: I’ll Mature When I’m Dead: Dave Barry’s Amazing Tales of Adulthood, Pgs 127-156
+- Publisher: Putnam Adult
+- Publication date as stated: May 2010
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: NARRATOR, THE PRESIDENT, THE VICE PRESIDENT, FBI DIRECTOR, GENERAL, CHIEF OF STAFF, DOCTOR, JACK, CHLOE, FIRST TERRORIST, SECOND TERRORIST, TERRORIST, JACK'S HEAD, JACK BAUER'S VOICE
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1507
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Dave Barry
+Book: I’ll Mature When I’m Dead: Dave Barry’s Amazing Tales of Adulthood, Pgs 127-156
+ISBN: 978-0399156502
+Publisher: Putnam Adult
+Date (Month/Year): May 2010
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Personally, I gave up on 24 during the second season, when Jack Bauer's daughter was menaced by a cougar, but the show lasted a blockbuster eight years. Or, in show terms, eight days. See each episode only covers 1 clock hour in Bauer’s rather mundane life . . . Each season shows only 1 24-hour day . . . Eight years = 8 days. . . but over those eight days secret agent Jack Bauer had to use a lot of excessive force to save the country. How much excessive force? He killed TWO HUNDRED SIXTY-SEVEN PEOPLE in eight days. In case you haven’t seen the series . . . I’ve prepared a trailer for you . . . 1 hour in less than 10 minutes! Move over Chuck Norris, the new man of the house is Jack Bauer.
+
+This is . . . 24: The Ultimate Script by Dave Barry
+```
+
+### Performance text (classify this)
+
+```text
+NARRATOR: (Pgs 127-156) 6 A.M. -- THE WHITE HOUSE SITUATION ROOM -- The president, seen only in silhouette, sits at the head of a conference table. Seated around the table are the vice president, the Joint Chiefs of Staff, and various important-looking extras. The lighting is dim.
+
+THE PRESIDENT: I've called you together because we have received intelligence concerning a serious threat that could . . . What is it, Mr. Vice President?
+
+THE VICE PRESIDENT: Why is the lighting so dim?
+
+THE PRESIDENT: For dramatic effect. You'll also notice that many characters in this show whisper for no good reason.
+
+THE VICE PRESIDENT: (peering at the president) Wait a minute. You're a kangaroo.
+
+THE PRESIDENT: Yes. The writers already did an African-American president and a woman president, so this season they were thinking, "Maybe a Jewish president?" And then they thought, "Nah, too unrealistic." So they went kangaroo. . . As I was saying, we have received intelligence concerning a threat that could cause the deaths of millions of Americans.
+
+FBI DIRECTOR: We have reason to believe that a vaguely Middle Eastern terrorist organization has acquired a proton defrackulator.
+
+THE PRESIDENT: What's a proton defrackulator?
+
+FBI DIRECTOR: We have no idea. But it sounds very bad.
+
+THE PRESIDENT: Well, if these terrorists think I'm going to let them kill millions of Americans on my watch just because I have short, thumbless forelimbs, then they have another think coming. General, what do the Joint Chiefs recommend?
+
+GENERAL: We recommend an immediate tactical nuclear missile strike against Boston.
+
+THE PRESIDENT: Is that where the terrorists are?
+
+GENERAL: No, we just hate Boston.
+
+THE PRESIDENT: Fair enough. But we also need to do something about these terrorists.
+
+CHIEF OF STAFF: There is only one man who can stop these terrorists, and that man is Jack Bauer.
+
+THE PRESIDENT: Bauer . . . I know that name.
+
+CHIEF OF STAFF: He's the main character.
+
+THE PRESIDENT: Ah, right. But didn't he end the last season being arrested on trumped-up charges after he was framed by a shadowy cabal of powerful men?
+
+CHIEF OF STAFF: That's how he ends every season.
+
+THE PRESIDENT: So where is Bauer now?
+
+CHIEF OF STAFF: Imprisoned in a secret California prison facility.
+
+THE PRESIDENT: Have him released.
+
+CHIEF OF STAFF: He was also tortured, decapitated and fed to boars.
+
+THE PRESIDENT: Whoa.
+
+CHIEF OF STAFF: Fortunately, he was trained for exactly that.
+
+THE PRESIDENT: Are you saying that he could . . .
+
+NARRATOR: SETTING: THE INFIRMARY OF A SECRET CALIFORNIA PRISON -- Jack Bauer is sitting on an examination table. There are boar bites all over his body and a bandage wrapped around his neck. A doctor has just finished examining him.
+
+DOCTOR: You're going to experience some soreness from having your head reattached to your body. I suggest you take it easy for at least the next hour.
+
+JACK: Give me your phone.
+
+DOCTOR: If you need to make a call, there's a phone in the-
+
+JACK: Dammit, there's NO TIME!
+
+NARRATOR: Jack pulls a gun and shoots the doctor in the thigh. As the doctor falls to the floor, Jack snatches his cell phone and dials a number. The scene shifts to an FBI office in Washington, D.C., where Chloe, sitting at her computer, answers the phone.
+
+CHLOE: Hello?
+
+JACK: Chloe, it's Jack.
+
+CHLOE: Jack? I thought you were decapitated and consumed by boars.
+
+JACK: Not anymore. A terrorist cell is bringing in a proton defrackulator. I need a map showing the port of entry for every international freight shipment in the past thirteen days weighing between fifty-two and sixty-three kilograms, overlaid with another grid showing the locations of all metropolitan areas with populations of twenty-eight thousand or more, overlaid with another grid showing prevailing wind direction and speed, overlaid with another grid showing the location of every odd-numbered Waffle House in North America. CHLOE (tapping keyboard) Sending it now.
+
+JACK: (checks his cell phone) They're bringing the defrackulator into the Washington area.
+
+CHLOE: That makes sense. All the other main characters are here.
+
+JACK: (stepping over the doctor to the exit) I'll need transport.
+
+CHLOE: (tapping) I'll send a helicopter.
+
+JACK: ((runs outside. A helicopter immediately appears overhead) I have a visual. Have the FBI set up a perimeter around Washington, Maryland, and Virginia. Don't let anybody in or out. Shut down the shipping lanes and set up satellite surveillance to detect anybody on the Eastern Seaboard who looks vaguely Middle Eastern.
+
+CHLOE: (tapping) I'm on it.
+
+NARRATOR: Jack runs to the helicopter, shoots the pilot in the thigh, throws him out of the chopper, grabs the controls, and takes off. SETTING: A SEAPORT - Two vaguely Middle Eastern-looking terrorists are watching as a crane lowers a wooden crate from a freighter to the pier.
+
+FIRST TERRORIST: Once the proton defrackulator is loaded into the van, we'll take it to our secret hideout in Washington.
+
+SECOND TERRORIST: Then we will activate it and carry out the plan to kill millions of Americans.
+
+FIRST TERRORIST: You should roll your "r"s, so our accents sound more alike. (pulls out a cell phone and dials a number) I have the floral centerpiece and will deliver it to the wedding reception. (ends the call)
+
+SECOND TERRORIST: Was that a coded message to the terrorist mastermind?
+
+FIRST TERRORIST: No, that was my brother-in-law, the florist. I'm helping him out with a wedding.
+
+SECOND TERRORIST: Let's get going, then. Those millions of Americans aren't going to kill themselves!
+
+NARRATOR: The two men enjoy a vaguely Middle Eastern laugh, shoot the dockworkers, get into the van, and drive away. SETTING: INSIDE THE HELICOPTER - Jack is at the controls. The phone rings. He plugs a Bluetooth headset into his ear.
+
+JACK: Jack Bauer.
+
+CHLOE: Jack, we just got satellite recon video showing unusual activity at the Chevy Chase seaport. Two men took possession of a crate exactly the size of a proton defrackulator, loaded it into a van, and took off. Also they shot all the dockworkers.
+
+JACK: Hmm. Were they swarthy?
+
+CHLOE: (tapping) I'm uploading a photo.
+
+JACK: (looking at phone) Those are terrorists, all right. Do you have a visual on the van?
+
+CHLOE: (taping) Yes. The van stopped at a wedding reception to deliver a floral centerpiece.
+
+JACK: Copy that. Where's the van now?
+
+CHLOE: It's heading toward the Department of Commerce building in downtown Washington on Old Plankton Road.
+
+JACK: Keep me posted. I'm landing at the White House now.
+
+NARRATOR: The chopper lands on the White House lawn. Jack jumps out, shoots a Marine attempting to salute him, and strides into the White House. An instant later he enters the Situation Room.
+
+THE PRESIDENT: Mr. Bauer, thank you for . . . Whoa, are those boar bites?
+
+JACK: There was also an ocelot. I'll be fine.
+
+THE PRESIDENT: Ouch. Anyway, thank you for coming from California in eight minutes. Jack, what do you know about the plot?
+
+JACK: The terrorists brought the proton defrackulator in through the Chevy Chase seaport and are heading into Washington on Old Plankton Road. I'll need a tactical assault team of extras headed by an attractive woman.
+
+THE PRESIDENT: Done.
+
+JACK: Also I may have to blow up the Department of Commerce. Apparently it's a terrorist hideout.
+
+THE PRESIDENT: I wondered what they did in there.
+
+NARRATOR: SETTING: DOWNTOWN WASHINGTON, D.C. - Jack lands the helicopter outside the Department of Commerce Building.
+
+JACK: (into phone) Chloe, I need the building schematics now.
+
+CHLOE: (tapping furiously) Here are the schematics.
+
+JACK: (frowning) According to these, we can enter the building by. . . the door.
+
+CHLOE: Jack, there's something else. I just ran a cross-modulated algorithm series on the HEPCOM database, and for shocking-plot twist reasons that make no logical sense, your son is in that building.
+
+JACK: I have a son?
+
+CHLOE: Apparently this season you do.
+
+JACK: We need to get to the proton defrackulator before the terrorists activate it.
+
+NARRATOR: Jack runs into the building, met in the lobby by a hail of bullets. Many extras go down. Jack pulls a pistol and fires approximately eight hundred shots, each of which kills an enemy gunman. But more gunmen keep appearing. Jack crouches behind a lamp. Tens of thousands of bullets ricochet around him.
+
+JACK: (shouting into a Bluetooth headset) Chloe, we're pinned down by hostiles in the Department of Commerce!
+
+CHLOE: I wondered what they did in there.
+
+JACK: (shouting) I need the location of the defrackulator!
+
+CHLOE: (tapping) It's in the basement, next to the National Aquarium.
+
+JACK: Why is the National Aquarium in the Commerce Department Building?
+
+CHLOE: (tapping) Nobody knows. Jack, there's something else. They've put your son into the octopus tank.
+
+NARRATOR: Through a blizzard of bullets, Jack runs across the lobby, killing people en route. He runs into an elevator, which contains fourteen hostile gunmen. The door closes. As the elevator descends, Jack and the gunmen engage in a fierce gunfight, during which he kills them all. The door opens and Jack stumbles out of the elevator into the basement.
+
+JACK: (shouting into headset) Which way?
+
+CHLOE: (tapping) To the right! Hurry, Jack!
+
+NARRATOR: Jack runs to his right. Ahead is the aquarium tank; inside it, in the grasp of an octopus, is a young man, played by Keanu Reeves. Next to the tank is one of the terrorists, doing something to what looks like a large espresso machine.
+
+JACK: (aiming gun) Step away from the defrackulator NOW!
+
+TERRORIST: You're too late, Bauer!
+
+NARRATOR: As Jack looks toward his son, Chloe's voice shouts in his earpiece.
+
+CHLOE: Jack! Look out behind you!
+
+NARRATOR: Jack starts to turn, but he's too late. The second terrorist leaps from a hallway with a machete and whacks Jack's head off.
+
+CHLOE: Jack! Are you all right?
+
+JACK'S HEAD: (on floor) I'll be fine.
+
+FIRST TERRORIST: (pushing a button) The proton defrackulator has been activated!
+
+JACK'S HEAD: What does it do, anyway?
+
+FIRST TERRORIST: We actually don't know. But we assume it's bad.
+
+NARRATOR: The camera zooms in on the proton defrackulator to reveal a digital timer counting down . . . 15 . . . 14 . . . 13 . . .
+
+JACK BAUER'S VOICE: Following are scenes from next week's 24.
+
+NARRATOR: SETTING: THE WHITE HOUSE SITUATION ROOM
+
+CHIEF OF STAFF: Madam President, Newark is gone.
+
+THE PRESIDENT: Newark, New Jersey, or Newark, Delaware?
+
+CHIEF OF STAFF: What difference does it make?
+
+THE PRESIDENT: Good point! (Everybody enjoys a hearty laugh)
+```
+
+---
+
+## IC-1304: Ace Lacewing: Bug Detective
+
+- Title: Ace Lacewing: Bug Detective
+- Author (byline): David Biedrzycki
+- Work: Not specified
+- Publisher: Charlesbridge
+- Publication date as stated: July 2005
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ACE, MAYOR, XERCES, SGT ZITO, MAGGOT, TWIG, ROACH, DRONE BEE, MANTIS, UNIDENTIFIED DRONE, PRINCESS POLLEN
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1673
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: David Biedrzycki
+ISBN: 978-1570915697
+Publisher: Charlesbridge
+Date (Month/Year): July 2005
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+He’s tall, he’s handsome and he has two antennae. He’s Ace Lacewing, Bug Detective by David Biedrzycki
+```
+
+### Performance text (classify this)
+
+```text
+ACE: It was a night like any other night in the city. Hot and sticky. Great weather if you’re a bug. Everyone’s a bug in Motham City. Some good, some bad. Bad bugs are my business. I was in my office eating some aphid lo mein when the phone buzzed. I answered it. (On Phone) Ace Lacewing, Bug Detective.
+
+ACE: (To audience) It was Mayor Buzzbee. Behind him it sounded like a beehive of activity. Actually, it was a beehive. (On phone) What’s the buzz?
+
+MAYOR: Ace! I’m at the Hive Rise with Princess Pollen. Queenie Bee’s been kidnapped. Get over here now!
+
+ACE: (to audience) Queenie Bee kidnapped? Who would do a thing like that? Everyone loved Queenie and her sister Princess Pollen. The Hive Rise Honey Company made the best honey in town. Maybe someone thought it was too good . . . I was just about to fly out the door when I saw her standing there, like a moth drawn to a flame. Actually I was her flame. But she was no moth. She was the lovely rare butterfly, Xerces Blue. Doctor Xerces Blue. Not the kind of doctor who takes your tonsils out. The kind of doctor who studies bugs – dead bugs. (To Xerces) No time now. The mayor needs my help. (To audience) But those eyes weren’t taking no for an answer.
+
+XERCES: Oh, Acie. How about dinner at my place tonight? Just you and me. I’m making your favorite – aphids a la mode.
+
+ACE: (To audience) How could I resist? Aphids have been my favorite ever since I was a little larva. But I also liked honey. Which reminded me . . . (To Xerces) The aphids will have to stew, sweetheart. Queenie Bee’s in a honey of a jam.
+
+Downtown the traffic was crawling. That’s what traffic does in Motham. It really crawls.
+
+SGT ZITO: Hey, Ace!
+
+ACE: (To audience) It was Sergeant Zito, a mosquito. And a cop. I’ve known him ever since we were pupae at the same school. (To Zito) Whadda ya know, Zito?
+
+SGT ZITO: We have a couple of witnesses, Ace. But none of them are talking except this little maggot.
+
+MAGGOT: I saw the whole thing! I was crawling around minding my own business when all of a sudden I heard all this screamin’. I thought maybe it was a damselfly in distress. But then I looked up and I saw ‘em right outside the Hive Rise – a couple of hooded bugs running off with Queenie Bee!
+
+SGT ZITO: (leaning into Ace and whispering) Ace? You believe this maggot? How could he have seen anything? He doesn’t have any eyes.
+
+ACE: (To audience) I frowned. (To Maggot) Which way did they go?
+
+MAGGOT: Whadda I look like, a tour guide?
+
+ACE: (To audience) I should have known better than to ask directions from a bug with no arms or legs. I told Zito to start rounding up suspects. I looked around . . . and noticed a suspicious trail of honey leading away from the crime scene. I followed it.
+
+At the corner of Tomato and Vine, I stopped in my tracks. The honey trail led to the Beetle Zoo. Lacewings have lost their heads to beetles. But I was on a case, and there was a plate of hot aphids waiting for me at the end of it. The trail went through the broken gate, and so did I. The honey led past the giraffe weevils. (Stooping to exam the honey trail) It was Hive Rise Honey, all right. Still warm. (In words and actions) I heard a noise, stood up, and froze!
+
+Someone had let the tiger beetle out of his cage, and this guy didn’t want to play! He wanted to eat. I did the only thing a bug detective worth his wings would do. (Scream) I screamed and ran . . . smack into a wall. (Pantomime hitting a wall) I heard a familiar flutter of winds, and then the world went to sleep. (Passes out) . .
+
+TWIG: Wake up, Ace.
+
+ACE: My head spun like a whirligig in a whirlpool. I tried to stand up and found myself face to face with a stick. A walkingstick.
+
+TWIG: You don’t look too good, Ace. But if Xerces hadn’t saved your sorry thorax, you wouldn’t have any looks at all. Nyuk, nyuk.
+
+XERCES: Acie!! That was a nasty hit you took.
+
+ACE: (To Xerces; groaning) Ahhh, it could have been worse. It could have been a windshield on the interstate. (To audience) I was lying in a corner of the police station. Behind Sergeant Zito, Xerces and the maggot, a bunch of handcuffed roaches and other pests were waiting to be questioned. Everyone had an alibi. The roaches said of course they ran from the scene of the crime – it was their nature to scatter when the lights go on.
+
+ROACH: Why do you think we wear sunglasses?
+
+ACE: Before we could question the cicada, he molted and flew out the window. Twig couldn’t have run anywhere. He was a walking stick. We brought in Smooch, the assassin bug. No one wanted to get near his kisser. We decided to call it a night.
+
+The full moon hung in the sky like a large compound eye as we left the police station.
+
+DRONE BEE: (whispering) Psssssst! Hey, Lacewing. I know who’s got Queenie and why.
+
+ACE: (to drone) Who are you?
+
+DRONE BEE: (Still whispering) A drone who knows the truth. But there are too many eyes and too many antennae around here. Let’s go someplace we can talk in private . . .
+
+ACE: (to audience) We never got the chance. It happened quick as a cricket – a drive-by gassing. (To Drone; shouting) Hit the dirt! (to audience) But it was too late for the bee. I couldn’t make out the driver, but the other one was no doubt a bombardier beetle. I could tell by the smell. (wave hand in front of face) I wondered if he had a license to pass gas. (In words and actions) I checked the bee. He wasn’t moving, but he was trying to say something. I lowered my ear to his mouth.
+
+DRONE BEE: (moaning) Drone HoneyWorks. (and he dies)
+
+ACE: (muttering to himself) Al the Drone.
+
+SGT ZITO: Al the Drone? Oh no, not Al the Drone! Please don’t let it be Al the Drone. Anybody but Al the Drone . . . Ace?
+
+ACE: (to Zito) Yeah?
+
+SGT ZITO: Who’s Al the Drone?
+
+ACE: (to Zito) Al the Drone owns Drone HoneyWorks. Some bugs say he has his sticky little mandibles in more than just honey. I think we should pay Mr. Drone a visit. (to audience) Xerces worked on the bee as Zito and I took off across town.
+
+Outside Drone HoneyWorks, the smell of honey hung thicker in the air than ants on a popsicle stick. Savage mantises kept guard. As we crawled around the back of the building, I got a sick feeling in my gut. The back gate of the Beetle Zoo was right across the street. And the trail of honey led from the zoo to the HoneyWorks! We needed a way in. But how?
+
+Two dung beetles were making their way up the street, rolling their dung ball and collecting trash. They rolled up next to us.
+
+ACE: (whispering to Zito) You thinkin’ what I’m thinkin’? (To audience) The dung beetles were too busy to notice us.
+
+SGT ZITO: Oh no, Ace, not the dung.
+
+ACE: (whispering to Zito) Hold your breath. (To audience) We leapt onto the dung ball and rolled right past a mantis into the HoneyWorks. I peered in a window. What I saw made my antennae quiver. In the shadows I saw someone tied up and blindfolded. It looked like Queenie. She sure wasn’t getting the royal treatment here.
+
+SGT ZITO: Uh . . . . Ace? We got company . . .
+
+ACE: (To audience) One of the mantises had followed our dung prints. He didn’t look too happy. Neither were we when he tied us up and carried us inside.
+
+Inside, the aroma of honey and pollen was sickeningly sweet. I’ve been in hives before. You can tell a good hive by the buzz of the bees. The buzz in here was not good. The mantis looked as if he were in a trance as he toted us past rows and rows of honeycomb. Standing in the shadows was Al the Drone . . . [or was it?]
+
+MANTIS: Hey, boss. Look what I found snoopin’ around outside.
+
+UNIDENTIFIED DRONE: Well, well, if it ain’t the little lacewing and his blood-sucking friend.
+
+SGT ZITO: That’s a common misconception! Actually it’s the female who – uhhhhh! (groans as the mantis’s claw tightens around him.)
+
+ACE: (squeaks due to the grip of the mantis) I know you got Queenie here, Drone. (to audience) My eyes ran from all the pollen. (To unidentified drone) You’ll never get away with it!
+
+UNIDENTIFIED DRONE: Funny, that’s the same thing Queenie said to me, and look where she is now. (Points)
+
+ACE: (To audience) I couldn’t believe my eyes. Queenie was stuffed into a honeycomb, alive but not for long. If Queenie was holding her breath in the honeycomb, then who was tied up in the next room? All this and the stench of honey made my head spin. I tried to put the facts together but they wouldn’t fit. Who was the mystery bug in the shadows? And why did the Drone smell of pollen? . . . . Pollen! That was it! The clues clicked together in my head like a skip jack beetle.
+
+UNIDENTIFIED DRONE: (muttering) Any last words, Lacewing?
+
+ACE: (To the unidentified drone) Yeah. Since when do drones gather pollen? (to audience) The whole place went quiet.
+
+PRINCESS POLLEN: (emerging from the shadows and tossing her hat and coat aside) Ha, you’re clever, Lacewing. Clever, clever, clever.
+
+SGT ZITO: (stuttering) P-p-princess P-pollen?!
+
+PRINCESS POLLEN: (triumphantly) In the exoskeleton!
+
+ACE: (To Princess Pollen) But why?
+
+PRINCESS POLLEN: Because I’m sick of just being princess!! I want to be QUEEN! (Stomping around as she rants) It’s always Queenie Bee this and Queenie Bee that. I’ll never have my own hive with her around. So I’m making it look like sleazy Al the Drone got rid of her. You guessed it, Lacewing – that’s him tied up in the back room. With Queenie and Drone HoneyWorks gone, I’ll be queen of the town.
+
+As for the mantises, they won’t remember a thing. I hypnotized them with my pollen dance (demonstrate dance). You’re in a rather sticky situation, Lacewing, so see ya, wouldn’t wanna bee ya!
+
+ACE: Princess Pollen made her way to the door. She signaled the mantises to seal us in the honeycombs. I had to think fast. Something fluttered overhead, so I shouted the only thing that makes a mantis run for cover. BAT!!! The mantis threw us high in the air. We soared helplessly until whatever was flying above grabbed us.
+
+XERCES: Are we still on for those aphids, Acie?
+
+ACE: It wasn’t a bat. It was Xerces. She had rounded up every cop from here to Termite Heights and brought them to the HoneyWorks, saving my wings again.
+
+Dawn was emerging like a monarch from a chrysalis when Xerces and I sat down for a plate of aphids a la mode. (To Xerces) Here’s to blue wings and my favorite things. (To audience) And the city of Motham fluttered awake behind her.
+```
+
+---
+
+## IC-1305: The Actor’s Nightmare
+
+- Title: The Actor’s Nightmare
+- Author (byline): Christopher Durang
+- Work: Sister Mary Ignatius Explains It All for You and The Actor's Nightmare
+- Publisher: Dramatists Play Service, Inc.
+- Publication date as stated: June 1999
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: GEORGE, MEG, ELLEN, VOICE, SARAH, EXECUTIONER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1777
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Christopher Durang
+Book: Sister Mary Ignatius Explains It All for You and The Actor's Nightmare
+ISBN: 978-0822210351
+Publisher: Dramatists Play Service, Inc.
+Date (Month/Year): June 1999
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+We’ve all had dreams spurred by anxiety . . . Perhaps the lawyer who gets up to begin his opening statement and can’t find his papers? Or when he does, they’re in German? The emergency doctor who goes to make an incision and his instruments have turned to rubber? Still, it seems the cruelest forms of these nightmares are those that dog the poor actor. The Actor’s Nightmare by Christopher Durang
+```
+
+### Performance text (classify this)
+
+```text
+Basically an empty stage with a few set pieces on it. George Spelvin wanders out. He wanders downstage, looking very confused. Enter Meg, with clipboard and master script. She is looking at the clipboard and doesn’t notice George at first.
+
+GEORGE: Oh, I’m sorry. I don’t know how I got in here.
+
+MEG: (Looking up at the sound of his voice and xing to him) Oh, thank goodness you’re here. I’ve been calling you. An awful thing has happened. Eddie’s been in a car accident, and you’ll have to go on for him.
+
+GEORGE: Good Heavens, how awful (Xing a few step SL) . . . who’s Eddie (Xing back)?
+
+MEG: Eddie. (He looks blank.) Edwin. You have to go on for him . . . He’s been in a car accident.
+
+GEORGE: Yes, I understood that part. But what do you mean “go on for him”?
+
+MEG: You play the part. Now I know you haven’t had a chance to rehearse it exactly, but presumably you know your lines and you’ve certainly seen it enough.
+
+GEORGE: I don’t understand. Do I know you?
+
+MEG: George, we really don’t have time for this kind of kidding. Half-hour. (Exits)
+
+GEORGE: My name isn’t George, it’s . . . well, I don’t know what it is, but it isn’t George.
+
+GEORGE: Am I an actor? I thought I was an accountant. Any why does everyone keep calling me George? (Enter Dame Ellen Terry from SR. She Xs to George.)
+
+ELLEN: Hello, Stanley. I heard about Edwin. Good luck tonight. We’re counting on you.
+
+(Starts off L)
+
+GEORGE: Wait. What play are we doing?
+
+ELLEN: (turning towards him) Very funny, Stanley. “Checkmate” by Samuel Beckett. You know, in the garbage cans. You always play these jokes, Stanley, just don’t do it onstage. Well, good luck tonight. I mean, break a leg. Did you hear? Edwin broke both legs! (Exits SL, laughing)
+
+GEORGE: I’ve never heard of “Checkmate”. (Enter Meg SR, looking at her watch.)
+
+MEG: George, get into costume. We have 15 minutes.
+
+GEORGE: I better just go home. (Takes off his pants.) I didn’t mean to do that.
+
+MEG: George, stop that. (Indicating SL) Go into the dressing room to change. Really, you keep this up and we’ll bring you up on charges.
+
+GEORGE: But where is the dressing room?
+
+MEG: George, you’re not amusing. (Indicating again, more angrily and exasperated) It’s that way. And give me those. (Takes his pants) I’ll go soak them for you. Now go get changed. The call is 5 minutes. (Pushes him off towards dressing room SL, Xs back SR) 5 minutes, everyone. 5 minutes. Places.
+
+VOICE: Ladies and gentlemen, may I have you attention please? The management wishes to remind the audience that the taking of photographs is strictly forbidden by law, and is dangerous as it may disorient the actor. Thank you.
+
+GEORGE: Where are you going? Don’t go! (Smiles out at audience. Enter Sarah SR dressed as Queen Gertrude.) Oh, good to see you.
+
+SARAH: O Hamlet, speak no more. These words like daggers enter in mine ears. No more, sweet Hamlet.
+
+GEORGE: Very well. What do you want to talk about?
+
+SARAH: (melodramatically) No more! (Exits SR)
+
+GEORGE: Oh don’t go! (Pauses, smiles uncomfortably at the audience) Maybe someone else will come out in a minute. (Pause) Of course, sometimes people have soliloquies in Shakespeare. (The lights change suddenly to a dim spot center stage. George is not standing in the spot.) Oh dear. (He moves awkwardly to the spot, decides to do his best.) To be or not to be, that is the question. (Doesn’t know anymore.) Oh maid! Line. Line! Ohhhh . . . Oh, what a rogue and peasant slave am I. Whether tis nobler in the mind’s eye to kill oneself, or not killing oneself, to sleep a great deal. We are such stuff as dreams are made on; and our lives are rounded by a little sleep. (Spot light moves and George moves into it.) I pledge allegiance to the flag of the United States of America and to the republic for which is stands, one nation, under God, indivisible, with liberty and justice for all. Line. Line! Line! (Explaining) When you call for a line, the stage manager normally gives you your next line to refresh your memory. Line! The quality of mercy is not strained. It droppeth like a gentle rain upon the place below when we have shuffled off this mortal coil. Alas, Poor Yorick- I knew him well. Get thee to a nunnery- Line!- Nunnery. (Irritated) Line! (Apologetic) I'm sorry. This is supposed to be Hamlet or Private Lives or something and I keep rattling on like a maniac- I really do apologize. I just don't recall attending a single rehearsal. I don't know what I was doing. And also you came here to see Edwin Booth and you get me. I really am very embarrassed. Sorry. Line! (Singing) A, b, c, d, e, f, g, h, i, j, k, l , m, n, o, p, q, r, s, t . . . It’s a far, far better thing I do then I have ever done before . . . It’s a far far better place I go to than I have ever been before. (Ellen enters SL, dragging 2 large trash cans. She puts them side by side, gets in one.) Oh good- Are you Ophelia? Get thee to a nunnery! (She points to the other garbage can, indicating he should get in.) Get in? Okay. (He does.) This must be one of those modern Hamlets.
+
+ELLEN: Nothing to be done. Pause. Pause. Wrinkle nose. (Wrinkles nose.) Nothing to be done.
+
+GEORGE: I guess you’re not Ophelia.
+
+ELLEN: We’ll just wait. Pause. Either he’ll come, pause pause pause, or he won’t.
+
+GEORGE: That’s a reasonable attitude. Are we, on a guess, waiting for Godot?
+
+ELLEN: No, Willie. He came before and was an awful bore. Yesterday he came. Garlic on his breath, telling a lot of unpleasant jokes. He was just dreadful, pause, rolls her eyes upward (she rolls her eyes).
+
+GEORGE: Well, I’m sorry to hear that. Pause. So who are we waiting for?
+
+ELLEN: We’re waiting for Lefty.
+
+GEORGE: Ah. And he is a political organizer or something, I seem to recall?
+
+ELLEN: Yes, dear, he is a political organizer. He’s always coming around saying to get involved, get off your behinds and organize, fight the system, do this, do that, uh, he’s exhausting, he’s worse than Jane Fonda. And he has garlic breath, just like Godot, I don’t know which of them is worse, and I hope neither of them ever comes here again. Blinks left eye, blinks right eye, closes eyes, opens them (does this).
+
+GEORGE: So we’re not really waiting for anyone, are we?
+
+ELLEN: No, dear, we’re not. It’s just another happy day, pause, smile, pause, picks bug from head (does this).
+
+GEORGE: Do you smell something?
+
+ELLEN: (under her breath) That’s not your line. Willie doesn’t have that many lines. (Louder) Oh, Willie, how talkative you are this morning!
+
+GEORGE: There seems to be some sort of muck in the bottom of this garbage can.
+
+ELLEN: Mustn’t complain, Willie. There’s muck at the bottom of everyone’s garbage can. Count your blessings, Willie. I do. (Counts to herself, eyes closed.) One. Two. Three. Are you counting, Willie? I’m up to three. Three is my eyesight. (Opens her eyes.) Oh my God, I’ve gone blind. I can’t see< Willie. Oh what a terrible day. Oh dear. Oh my. (Suddenly very cheerful again.) Oh well. Not so bad really. I only used my eyes occasionally. When I wanted to see something. But no more!
+
+GEORGE: I really don’t know this play at all.
+
+ELLEN: Count your blessings, Willie. Let me hear you count them.
+
+GEORGE: Alright. One. Two. Three. That’s my eyesight. Four. That’s my hearing. Five, that’s my . . . MasterCard. Six, that’s . . .
+
+ELLEN: Did you say God, Willie?
+
+GEORGE: No.
+
+ELLEN: Why did you leave the monastery, Willie? Was it the same reason I left the opera?
+
+GEORGE: I have no idea.
+
+ELLEN: I left the opera because I couldn’t sing. They were mad to have hired me. Certifiable. And they were certified shortly afterward, the entire staff. They reside now at the Rigoletto Home for the mentally Incapacitated. In Turin. Pause. Tries to touch her nose with her tongue (does this.)
+
+VOICE: Ladies and Gentlemen, may I have your attention please? At this evening’s performance, the role of Sir Thomas More, the man for all seasons, normally played by Edwin Booth, will be played by Georg Spelvin. (Enter Meg with a few costume touches but otherwise in her stage manager garb. She is carrying a script.)
+
+MEG: Oh father, why have they locked you up in this dreadful dungeon, it’s more than I can bear. If you don’t give in to King Henry, they’re going to cut off your head. (Sudden alarming crash of cymbals. The Executioner enters USL and Xs CS and stops.)
+
+GEORGE: I’ve got to get out of here.
+
+MEG: He’s over here. And he’ll never give in to the king.
+
+GEORGE: No, no, I might. Quick, is this all about Anne Boleyn and everything?
+
+MEG: Yes and you won’t give in because you believe in the Catholic Church and the infallibility of the Pope and the everlasting life of the soul.
+
+GEORGE: (to Meg) I don’t necessarily believe in any of that. (To Executioner) Oh sir, there’s been an error. I think it’s fine if the King marries Anne Boleyn. I just want to wake up.
+
+MEG: Oh don’t deny God, father, just to spare our feelings. Mother and I are willing to have you dead if it’s a question of principle.
+
+GEORGE: I don’t think the Pope is infallible at all. I think he’s a normal man with normal capabilities who wears gold slippers. I thought about joining the monastery when I was younger, but I didn’t do it.
+
+ELLEN: (waking up from a brief doze) Oh, I was having such a pleasant dream, Willie. Go ahead, let him cut your head off, it’ll be a nice change of pace. (Executioner wheels out chopping block.)
+
+GEORGE: That blade looks very real to me. I wasn’t to wake up now. Or change plays. A horse, a horse, my kingdom for a horse!
+
+EXECUTIONER: Sir Thomas More, you have been found guilty of the charge of High Treason. The sentence of the court is that you be taken to the Tower of London, thence to the place of execution, and there your head shall be stricken from your body and may God have mercy on your soul. (Meg helps George out of the garbage can.)
+
+GEORGE: Alright, I’m sorry I didn’t go to the monastery, maybe I should have, and I’m sorry I giggled during church in the 3rd grade, but I see no reason to be killed for it.
+
+EXECUTIONER: Do I understand you right? You wish to reverse your previous stand on King Henry’s marriage to Anne and to deny the Bishop of Rome?
+
+GEORGE: Yes, yes, YES! (He rises) I could care less. Let him marry eight wives.
+
+EXECUTIONER: That’s a terrible legacy of cowardice for Sir Thomas More to leave behind.
+
+GEORGE: I don’t care!
+
+EXECUTIONER: I’m going to ignore what you’ve said and cut your head off anyway, and then we’ll all pretend you went to your death nobly. The Church needs its saints and school children have got to have heroes to look up to, don’t you all agree?
+
+GEORGE: Yes, yes, I can feel myself waking up now. The covers have fallen off the bed and I’m cold, and I’m going to wake up so that I can reach down and pull them up again.
+
+EXECUTIONER: Sir Thomas, prepare to meet your death.
+
+GEORGE: Be quiet, I’m about to wake up.
+
+EXECUTIONER: Sir Thomas, prepare to meet your death.
+
+GEORGE: I’m awake! (Looks around him) No, I’m not.
+
+EXECUTIONER: Sir Thomas, prepare to meet your death.
+
+GEORGE: Line! Line!
+
+MEG: You turn to the Executioner and say, “Friend, be not afraid of your office. You send me to God.”
+
+GEORGE: I don’t like that line. Give me another.
+
+MEG: That’s the line in the script, George. Say it.
+
+ELLEN: Say it, Willie. It’ll mean a lot to me and to generations of school children to come.
+
+EXECUTIONER: Say it.
+
+GEORGE: They say you can never dream your own death, so I expect that I’ll wake up just as soon as he starts to bring down the blade. So perhaps I should get it over with.
+
+MEG: Say the proper line, George. (George kneels down.)
+
+GEORGE: Friend, be not afraid of your office. (Executioner raises axe.) You send me to God. (Executioner raises axe higher to bring it down.)
+
+EXECUTIONER: (In darkness) Behold the head of Sir Thomas More.
+
+(Everyone bows except George who is dead on the floor. Everyone else does curtain call and leaves. After the stage is clear, George gets up dazed and looks around. Looks out at the audience and leaves.)
+```
+
+---
+
+## IC-1306: Adaptation
+
+- Title: Adaptation
+- Author (byline): Elaine May
+- Work: Not specified
+- Publisher: Dramatist's Play Service
+- Publication date as stated: 1970
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ANNOUNCER'S VOICE, GAMES MASTER, MOTHER, PHIL, PRINCIPAL, ASHLEY, MARK, IRVING, PROFESSOR, DORIS, AFTER DINNER SPEAKER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1072
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Elaine May
+ISBN: 978-0822200093
+Publisher: Dramatist's Play Service
+Date (Month/Year): 1970
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+by Elaine May
+```
+
+### Performance text (classify this)
+
+```text
+ANNOUNCER'S VOICE: (Pg 5) Good evening, ladies and gentlemen. You are about to watch a new version of an old game that all of you have played, and some of you may recognize--ADAPTATION - an exciting contest in which anyone can win simply by figuring out the rules and overcoming the odds. Watch closely, as tonight's first contestant, Phil Benson, attempts to win the Adaptation Prize by reaching the Security Square concealed somewhere on our gameboard. [Now let’s play . . .] ADAPTATION!!!!!!!
+
+GAMES MASTER: (Pg 6) You are born. Move three spaces forward. You are now the son of, liberal, middle-income, Protestant, white, parents.
+
+MOTHER: Harry, It’s a boy. I’m going to name him Phil.
+
+GAMES MASTER: (Pg 7-8) You are [now] five [years] old. Score one Point for Maturity and advance to your nearest Health Through Information square.
+
+PHIL: Mommy, how does the baby get into the mommy's stomach?
+
+MOTHER: Via sexual relations between man and woman, Phil. (Buzzer sounds. When it stops, Phil has become a year older.)
+
+PHIL: Mama, what's sex?
+
+MOTHER: Sex is a term that defines the . . . (Buzzer sounds again. When it stops, Phil has become another year older.)
+
+PHIL: Mom, what's a Negro?
+
+MOTHER: Phil, do you know how when you see a flower sometimes there's a white flower and sometimes there's a dark flower. Bees go to both of them because bees like dark flowers as much as they like white. And that's why when we say the word Negro we must think of it as something very, very beautiful. And we must try not to use the word outside the context of a sentence that has to do with social justice.
+
+GAMES MASTER: You have learned to Dissemble. Score two Points for Maturity and advance to Public School. (Phil looks around in awe at the new larger world he is inhabiting when an announcement comes over the intercom from the PRINCIPAL)
+
+PRINCIPAL: Any student using the elevator without an official pass from the dean will be graded down ten points in Living With Others. Remember, you are only second graders but any bad mark you receive on your school record now may keep you from getting into the college of your choice.
+
+PHIL: (Phil walks down the hall, aging in mannerisms as he does so – he notices a line on the ground, which he hesitates to cross – He stops, unsure of himself)
+
+GAMES MASTER: (Pg 9-10) And now--take a giant step into Prepubescence.
+
+PHIL: (Phil lurches forward as if pushed from behind; once on the other side of the line, he flexes his muscles, pops a couple of pimples on his face and feels his chin for growing facial hair.)
+
+GAMES MASTER: Your mother is called to school for a conference with the school princi-pal. Go to your nearest Isolation Square. (Phil turns to stand in the corner)
+
+MOTHER: What did he do, Mr. Ashley?
+
+ASHLEY: He wrote something on the walls about one of the students - who happens to be colored. (Reading from a slip of paper.) "Jim is a dark flower." We're trying to appease his mother now, but she's threatened to release the story to the New York Post ... which would destroy the image we have tried to build up for this school as sub-standard but equal. Frankly, Mrs. Benson, it's a dilemma.
+
+GAMES MASTER: You are sent to a progressive, private [high] school. Advance three squares to Social Inflation.
+
+PHIL: (Pg 11-12) (Phil makes an abrupt right turn and speaks with some friends) What are you choosing as an extra-curricular activity, Mark?
+
+MARK: I'm joining the Drama Society. (in an overly dramatic voice) If I learn to speak with feeling it will help me get girls.
+
+PHIL: What are you choosing, Irving?
+
+IRVING: I've decided to become a safety patrol boy. There's been too much bloodshed. Too many good kids gone. I [want] to make the corners of this city a place where kids can cross without fear.
+
+PHIL: (Phil speaks to the audience) A safety patrol . . . Have I changed myself enough to change the world? Do I have the right to stop traffic? (Suddenly ... he jumps to save a wayward child and says in a deep voice.) Watch it there! You're safe now, kid. (Phil assumes the role of the child and in a childlike voice says) Thank you, Safety Patrol Boy. (In his normal voice, to the audience) Do I dare?
+
+GAMES MASTER: (Pg 16-18) Start to think about your college and advance to your nearest Probable Long Term Goals Square.
+
+PHIL: It's between Berkeley . . .
+
+GAMES MASTER: (Hands Phil a letter, shaking his head) You have been rejected by Berkeley.
+
+PHIL: or Yale . . .
+
+GAMES MASTER: (Hands Phil a letter, shaking his head) You have been rejected by Yale. Retreat to the nearest Panic Square.
+
+PHIL: (In a panic, he desperately tries to think of another option . . . ) I think I'll try the University of Miami?
+
+GAMES MASTER: (Smiling broadly) You are accepted by the University of Miami. Advance to your nearest Commitment Square and begin to examine your potential.
+
+PHIL: I'm not sure what to major in, I'm torn between Hotel Management and [Drama]. But I've always had a dream that someday I'd make it . . . in hotel management like some of the great ones. Hilton, Sheraton . . . [Trump]. (Phil takes his place in his first college class, prepared to take notes)
+
+PROFESSOR: Good morning, gentlemen. My name is Professor Olsen, o-l-s-e-n, and I will be teaching the first semester of Hotel Management 101 - Organization, Administration and Management. Or as we in the field have come to call it, O.A.M. O! A! M!
+
+PHIL: (chanting) O! A! M! O! A! M!
+
+GAMES MASTER: (Pg 22-24) You have made an "A" in O.A.M. Advance to Find the Right Girl.
+
+PHIL: (Takes a step to the left and speaks to Doris) I love you. Do you love me?
+
+DORIS: I want to know where I stand, Phil. You know what I mean.
+
+PHIL: Listen, Doris, if I thought marriage would solve it . . . I mean, I know that I enjoy being with you and if I were going to make the move you'd be the first one I'd call. I hope someday to love and have a home. But right now. . . . I don't know.
+
+DORIS: Then I'm leaving. I'm sorry, Phil.
+
+PHIL: You’re leaving me? Don't tell me you're sorry. Just tell me where I stand.
+
+DORIS: Listen, if I thought marriage would solve it . . . PHIL. (Dropping to one knee to propose) It will. It will.
+
+GAMES MASTER: You are Engaged.
+
+PHIL: Oh, my God.
+
+GAMES MASTER: (Pg 25) You go into debt and become a Homeowner. Take a Credit Card and advance towards Upward Mobility.
+
+PHIL: (Pg 24) Oh, my God.
+
+GAMES MASTER: (Pg 26) You are transferred to a larger city and have your first child. Advance to Fatherhood.
+
+PHIL: (Pg 24) Oh, my God.
+
+GAMES MASTER: (Pg 27) (Buzzer.) Advance to Middle Age.
+
+PHIL: Wait a minute!
+
+GAMES MASTER: The world is getting faster. Take out an Insurance Policy and advance to Political Involvement.
+
+PHIL: Doris! Doris! The Chicago Hilton is going to be used by the Democrats for the National Democratic Convention-and guess who's going to be in charge. Yours truly. I can't wait. Caucuses, smoke-filled rooms, favorite sons ... Doris, this is the moment I've been preparing for all my life. This is what it's all about. This is O.A.M. [But it’s all moving so fast!]
+
+GAMES MASTER: You have reached a Long-Term Goal. Advance to Emotional Fulfillment and take another step toward Success.
+
+AFTER DINNER SPEAKER: (Pg 29-30) And so, to Phil Benson, the Hilton Hotel Chain awards this solid gold engraved master key that fits the utility closet of any Hilton hotel on the Eastern Seaboard.
+
+GAMES MASTER: You have retired with moderate wealth. Take two steps sideways toward Security and . . . . have a Coronary.
+
+PHIL: (Has a heart attack and speaks with difficulty) I had so many dreams I wanted to earn a Super Bonus Card and have a house in the country And I wanted to be on intimate terms with a congressman or a movie star so that my father would be proud of me and my mother would think I was somebody. If I could have played a little longer, I know I could have found the Security Square . . . Where did I go wrong? (Phil dies)
+
+GAMES MASTER: You have spoken your last words. Remain where you are and die.
+```
+
+---
+
+## IC-1307: Adolf Hitler: The Larry King Interview
+
+- Title: Adolf Hitler: The Larry King Interview
+- Author (byline): Jon Stewart
+- Work: Naked Pictures of Famous People (Pg 139-150)
+- Publisher: Harper Collins
+- Publication date as stated: Oct 1999
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: KING, HITLER, ITLER
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1453
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Jon Stewart
+Book: Naked Pictures of Famous People (Pg 139-150)
+ISBN: 978-0688155308
+Publisher: Harper Collins
+Date (Month/Year): Oct 1999
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+One of the beautiful aspects of our culture is the capacity we have to forgive, especially those in the public eye. This grand compassion was put to the ultimate challenge when in the fall of 1999 an astonished world watched as a historical figure long thought to have died in World War 2 resurfaced. This disgraced dictator, swayed by a beautifully arranged fruit basket and handwritten note, went on CNN's Larry King Live. The Hitler interview, as it became known, aired on October 23, 1999. The following is an uncensored transcript of that historic interview.
+
+Adolf Hitler: The Larry King Interview by Jon Stewart
+```
+
+### Performance text (classify this)
+
+```text
+KING: (Pg 139-150) (Larry King Live Music*) Good evening, ladies and gentlemen. Tonight we bring you perhaps the most controversial show in the history of Larry King Live. He began his career as president of the fledgling National Socialist party, the Nazi party, in Germany. After a failed coup, some prison time and a bestselling book, he reestablished himself in the German hierarchy, first as chancellor. . . then as Fuhrer. The next ten years under his watch saw Germany's return to power, shame at the Munich Olympics, a failed marriage and finally, one helluva World War complete with what was thought to be a cowardly demise by his own hand. Tonight, risen from the proverbial dead, we welcome Adolf Hitler.
+
+KING: Well, Chancellor Hitler, I have-
+
+HITLER: Please call me Adolf.
+
+KING: Adolf. First of all, I have to say. . . quite frankly, we were very reluctant to have you on.
+
+ITLER: I can't say I blame you for that. I mean, you hear the name Hitler ...
+
+KING: What do you say to all the people out there, the people who view you as a demon, the perpetrator of the most vicious-
+
+HITLER: Guilty as charged, Larry. Look, I was a bad guy. No question. I hate that Hitler. The yelling, the finger pointing, I don't know. . . I was a very angry guy.
+
+KING: And this. . . new Hitler?
+
+HITLER: I get up at seven, have half a melon, and do the Jumble in the morning paper. Some days I’ll fish, maybe hit the mall for an Orange Julius. The other day I spent seven hours in the park watching ants cart off part of a sandwich. Me!! The inventor of the Blitzkrieg. . . When you stop having to control everything, it's very freeing.
+
+KING: Why did you do it?
+
+HITLER: Whooo boy. The $64,000 question. I don't know. . . I wasn't a happy kid. I mean, I'm not trying to make excuses, but you go through high school with the nickname S***ler I'm sorry, they can bleep that, right? After a while you get sick of it. One day you just snap. It started out as the typical "Someday you guys will be sorry," and then . . . I don't know. It just got away from me.
+
+KING: Did you ever see the despicable nature of your actions? Was there any remorse?
+
+HITLER: Oh sure, but denial is a powerful thing. . . I always thought I could stop any time I wanted. "If I could just get Czechoslovakia, that'll be the end of it. I'll be happy then." And I'd get it and think, well geez, Poland's just up the road a piece and. . . you know the rest. I think admitting to myself that there was a problem was the toughest part.
+
+KING: And when was that?
+
+HITLER: Well. . . I'm not going to lie to you, it took a while. There were moments all along where I knew something was wrong. I remember one time. . . I think it was in Munich in 1942. We were having a rally. 100,000 people all chanting my name. The bonfires were going. The whole shebang. It should've been a crowning moment but I clearly remember thinking, What am I doing here? I hate crowds. But I didn't hit rock bottom until, as you know, 1945.
+
+KING: Yes, tell us about those final days in the Berlin bunker, where, until now, we had assumed you had killed yourself.
+
+HITLER: (takes a sip of water) Right, well. Funny story. Everyone thought I went into the bunker to escape . . . [but] No. Actually, as the Allied Forces were closing in I was still in denial. I really thought we were gonna rally, you know, make an end run around Switzerland and flank 'em. So I'm planning furiously and snapping at people-as my therapist says, "playing the dictator." So Eva calls me down to the bunker for some "emergency" with the generators. Anyway, I go down and there's Eva and Himmler and two of my other closest friends. I'll never forget. I walk in and Eva takes my face in her hands, looks me in the eyes and says "Adolf, we all love you very much, but if you don't stop with this conquer and purify thing, no one in this room will ever talk to you again."
+
+KING: And that snapped you out of it?
+
+HITLER: Not quite. You have to understand I'd been running with this thing for about fifteen years at that point. (beat, then nonchalantly) I shot them. Back then we didn't know [about] interventions. I just figured they were betraying me. Anyway, I threw on Eva's clothes and snuck out into the night. I lived like an animal for weeks, doing what I had to do to get by. One day a group of boys were making fun of the lady with the mustache, and I got a look at myself in the reflection of a window and realized they were talking about me. It was then I knew I had to get my life together.
+
+KING: Interesting. Now tell me about your relationship with Eva. She was a beautiful woman. Do you think she was mesmerized by your power?
+
+HITLER: Well, all I can say is (breaks into a broad smile) Look, Larry. I learned long ago that Bavarian art majors with oily hair and weasely mustaches weren't getting the ladies. Of course, that was the only reason Eva went out with me. Women love power and fame.
+
+KING: (changing the subject) Scientists recently cloned a sheep . . . Dolly I believe was her name. You've always had an interest in things genetic. Your take on this scientific breakthrough?
+
+HITLER: Well, Larry, "transgenics," as that branch of genetic research is known, is an exciting specialty, and the Roslin project, the sheep cloning, is an exciting advance. But I certainly wouldn't qualify it as a breakthrough.
+
+KING: You must admit there are real ethical questions that go along with the cloning of humans.
+
+HITLER: Well, Larry, the big fear here is that some evil guy gets a hold of this stuff and makes another me. (beat, shaking his head) People will never be cloned. Superficially perhaps, but personality, character, even intelligence cannot be genetically duplicated. Only tendencies. I'm a big environment convert. Nurture over nature. You could duplicate my genes, but you wouldn't get me unless you duplicate my upbringing. You'd have to get some older children to tease this new Hitler mercilessly, giving him constant wedgies . . . (Hitler begins to cry.) Excuse me, I believe some dust is in my contacts. (Hitler wipes his eyes.)
+
+KING: Was the Third Reich working on cloning?
+
+HITLER: (sips some water) Oh, sure, we gave it a shot. We created some chickens that vaguely resembled each other. And one of our top guys cloned a replica of your heroic dog Lassie-but after some checking, we found out it was just a reassembled Corgi. All involved were put to sleep. Our guys just weren't up to the task.
+
+KING: You had certainly made science a priority . . .
+
+HITLER: Which brings up an interesting irony. Here I was, a guy with a plan to create a master race, dominate the world by blending brute force with cutting-edge technology. So what do I do? I deport or kill all my best scientists. The Jews were some of my best technical people. It's classic fear of success. I create something, then sabotage its chances of ever actually working. It's a pattern I've repeated over and over again. I'm defeating all challengers on the Western front, couple more weeks, I got the whole thing sewn up. So what do I do? Attack Russia?!! (Hitler taps his finger on his temple.) Way to go, genius!!
+
+KING: But you got away with it. After all these years, why resurface?
+
+HITLER: My therapist challenged me to put up or shut up. To prove to myself that I could take responsibility for my life. So here I am.
+
+KING: (holding up a book) We've been talking with Adolf Hitler, the book is-
+
+HITLER: . . . The book is called Mein Comfortable Shoes-get it? It's about an angry man who learns to appreciate the little things in life. It's about acceptance.
+
+KING: And it's a terrific read. Folks, if you read no other book this summer, make it Mein Comfortable Shoes. What's next for Adolf Hitler?
+
+HITLER: I'll be doing Politically Incorrect next Thursday, and as always you can see my old work on the A&E network. And in two weeks, I'll be appearing on Court TV as I stand trial for crimes against humanity.
+
+KING: Right, that is coming up. What kind of defense will you be offering?
+
+HITLER: Not much. I fully expect that by this time next year, I'll have been convicted and possibly put to death. I'm going to represent myself, though. From now on the blame goes here (pointing to chest). The only one to blame for Hitler . . . is Hitler. Besides, who wants to get involved with a bunch of phony-baloney defense lawyers. . . I mean, talk about evil.
+
+(Both laugh.)
+
+KING: Well, Adolf, thanks for coming by.
+
+HITLER: Thank you. CLOSING
+
+KING: Stay tuned next week when we get up close and personal with another “man-about-town” -- Former President Donald Trump! (Larry King Live Music*)
+```
+
+---
+
+## IC-1308: The Adventures of Captain Neato-Man
+
+- Title: The Adventures of Captain Neato-Man
+- Author (byline): Timothy Scott Harris
+- Work: Off-Off Broadway Festival Plays – 15th Series
+- Publisher: Samuel French, Inc.
+- Publication date as stated: July 2017
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: LARRY, MOTHER, CAPTAIN
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1545
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Timothy Scott Harris
+Book: Off-Off Broadway Festival Plays – 15th Series
+ISBN: 978-0573692406
+Publisher: Samuel French, Inc.
+Date (Month/Year): July 2017
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+The Adventures of Captain Neato-Man by Timothy Scott Harris reminds me of the things my brothers and I would make up when we were kids. Hopping from the couch to the coffee table as if we were leaping across rooftops in pursuit of dastardly criminals. I even had my own cape made out of one of mom’s dishtowels.
+
+The Adventures of (DUH-DU-DUH!) Captain Neato-Man (echo, echo, echo) by Timothy Scott Harris
+```
+
+### Performance text (classify this)
+
+```text
+LARRY: (leans through an open door as he rings the buzzer) Hello?
+
+MOTHER: (Off -- Screaming) Who’s there?
+
+LARRY: I’m sorry. I’ve come for . . .
+
+MOTHER: (Enters) What?!
+
+LARRY: (Enters cautiously, carrying a newspaper clipping in his hand) I’m sorry. I must have the wrong. . .
+
+MOTHER: I’m an old woman. I need my rest. Are you here for the ad?
+
+LARRY: Uh, yes.
+
+MOTHER: Why didn’t you say so? Son! Horatio is here!
+
+Captain Neato-Man bounds onto the stage. He wears high boots, tights, a Speedo with a belt around it that carries his special gadgets, a tight-fitting shirt, and a cape with his name on it.
+
+CAPTAIN: Horatio, my boy, you’re alive, alive! You don’t know how long I’ve waited for this moment. Stick with me and you’ll be a man. We shall tackle the cosmos together and our names shall live as one.
+
+LARRY: I’m sorry, my name is Larry. Larry Friedman. I . . .
+
+CAPTAIN: Larry. Horatio. What’s the difference? You answered the ad, didn’t you? Well, there you go. What are you complaining about?
+
+LARRY: I thought this was a typing job.
+
+CAPTAIN: Are you a communist?
+
+LARRY: No.
+
+CAPTAIN: Then you’re on my side. You are perfect, Horatio. Say you’ll join my team.
+
+LARRY: What’s going on here?
+
+CAPTAIN: Quick. If you looked up and noticed a baby falling right towards you. What would you do?
+
+LARRY: Catch it?
+
+CAPTAIN: It took me two weeks to pass the baby test, and you did it on the first try!
+
+LARRY: Aw, it was nothing.
+
+CAPTAIN: Modest . . . a superhero’s most important virtue. Do you understand how incredible our potential can be if we band together?
+
+LARRY: No.
+
+CAPTAIN: The fame.
+
+LARRY: (sarcastic) Right.
+
+CAPTAIN: The glory.
+
+LARRY: (sarcastic) Right.
+
+CAPTAIN: The women.
+
+LARRY: The women?
+
+CAPTAIN: Yes, thousands of adoring beauties clamoring for you to write personal inscriptions on their [bodies].
+
+LARRY: Wow.
+
+CAPTAIN: And the monetary rewards are incredible.
+
+LARRY: Money?
+
+CAPTAIN: Sure. You can make a fast fifty just for saving a fat lady’s cat.
+
+LARRY: I’m good with animals.
+
+CAPTAIN: And if you do really well, the mayor will give you the key to the city . . . Exciting, isn’t it?
+
+LARRY: Great. What do I have to do for all that?
+
+CAPTAIN: Simple, just jump off a tall building. . . or walk through a blazing fire.
+
+LARRY: But I’d burn.
+
+CAPTAIN: Not if you’re a superhero.
+
+LARRY: I’m not.
+
+CAPTAIN: That’s because you don’t believe in yourself. Say you’ll do it. Say it!
+
+LARRY: I really appreciate the offer, but I’m not the type.
+
+CAPTAIN: Type. There is no such thing as type. It’s not what you are, but who you are. How does a caterpillar turn into a butterfly? How does a seed turn into a flower? How does a larva turn into a leech? They change from the inside. Only you can decide who you are. You can go on being Larry the Larva, or you can be “Horatio” the defender of justice and sidekick to . . . “Captain Neato Man.”
+
+LARRY: That all sounds wonderful. It’s just that I’m not qualified.
+
+CAPTAIN: What have you done?
+
+LARRY: Mowed lawns, baby sat, worked at McDonald’s.
+
+CAPTAIN: McDonald’s. The epitome of the American dream. It was fate that brought you here.
+
+LARRY: But I liked McDonald’s. They were going to make me assistant manager soon.
+
+CAPTAIN: Then why did you answer the ad? The ad clearly states, “Be a real life superhero.”
+
+LARRY: Please, I thought it was time for a change, but I was wrong. I’m afraid I’ll have to . . . leave.
+
+CAPTAIN: You can’t leave.
+
+LARRY: Why? (pause)
+
+CAPTAIN: Because the door is locked and only I can open it.
+
+LARRY: Let me out or I’ll scream.
+
+CAPTAIN: Nobody will hear you. The walls are soundproof.
+
+LARRY: If you don’t let me out, I’ll hit you, I swear.
+
+CAPTAIN: (laughing) With my superpowers? Besides, you’re too nice. (They face off until Larry backs down)
+
+LARRY: Ok. Ok. I’ll give you a chance. I’ll stay . . . I’ll stay . . . (Larry picks up the phone and tries to dial, but there is no dial tone) Operator. Operator.
+
+CAPTAIN: That’s a special phone. It only takes incoming calls. The police commissioner has the number. Whenever there is a problem he can’t handle, he calls me.
+
+LARRY: Oh, I see. How often does he call? . . . On the average . . . how many times a week?
+
+CAPTAIN: I can’t give that information out to just anyone.
+
+LARRY: He never calls. Does he?
+
+CAPTAIN: He knows I’m here. He’s just a very busy man. As a matter of fact, he sent some people over just last week to talk with me.
+
+LARRY: He thinks you’re crazy.
+
+CAPTAIN: You don’t know. You weren’t here. I’m a superhero!
+
+LARRY: Then prove it to me, and I’ll stay.
+
+CAPTAIN: Neato! You won’t be sorry, Horatio. That’s the spirit. Now try on your suit!
+
+LARRY: You haven’t proven anything yet.
+
+CAPTAIN: Oh, still uptight, are we? You know, without your suit, your superpowers are greatly diminished. The special fabric is a unique nylon and acrylic blend. It’s resilient to blows which would otherwise be fatal . . . Jeez. How much proof do you need?
+
+LARRY: Anything. Show me anything.
+
+CAPTAIN: I see. I was going to save this ‘til later, but if you insist . . . My secret weapon!
+
+(Captain pulls two identical toy guns out of a box. They look incredibly cheap and plastic. He hands one to Larry and puts the other in his belt.)
+
+LARRY: Where did you get these? A box of Cocoa Puffs?
+
+CAPTAIN: I saved box tops for six months.
+
+LARRY: You are insane.
+
+CAPTAIN: No. You don’t understand. The shape and size of this toy gun was exactly what I needed to create the perfect weapon. With a few minor alterations it became . . . THE LAZOMATIC! This baby can shoot a laser beam accurately up to 3,000 feet, annihilating anything in its path.
+
+LARRY: Ooohhh. Wow.
+
+CAPTAIN: Want to test it? OK. Aim at that plant. What are you waiting for? Shoot the fern.
+
+(Larry aims at the fern and shoots. The gun makes a funny noise. Nothing else happens. He looks at the gun and tries again. Still nothing. He shoots at his head. Same thing. Captain grabs the gun and starts fiddling with it)
+
+LARRY: It doesn’t work. It’s a toy.
+
+CAPTAIN: That’s because you didn’t believe
+
+LARRY: I’m not an idiot . . .
+
+CAPTAIN: It just needs a few adjustments, that’s all.
+
+LARRY: I know you’re crazy, but you can do this on your own. You don’t need me. Give it a try. What are you afraid of?
+
+CAPTAIN: I fear nothing. I’m a superhero! . . . I think it’s best to have a partner, that’s all. I mean sure I could do it myself, but I’ve been waiting for a partner.
+
+LARRY: Then why don’t you team up with . . . Superman?
+
+CAPTAIN: What are you? Some kind of lunatic. There is no Superman. That’s make believe. It’s only a story.
+
+LARRY: What about Batman?
+
+CAPTAIN: Batman’s real, but he’s getting old. He can’t do it all on his own, and you know about Robin.
+
+LARRY: You see. I don’t care. I just don’t care.
+
+CAPTAIN: He sold out. Went into real estate. Look, it’s up to us now. We are the world’s only hope. You can’t walk away from your duty. The crime rate is outrageous. Disney is making horror pictures, and you don’t care?
+
+LARRY: Oh, please.
+
+CAPTAIN: You want to believe me. Deep down you’re intrigued. Admit it. Why did you answer the ad?
+
+LARRY: I don’t have a job.
+
+CAPTAIN: You quit McDonald’s.
+
+LARRY: No.
+
+CAPTAIN: Then they fired you!
+
+LARRY: Yes.
+
+CAPTAIN: McDonald’s fired you? What a loser . . . No . . . It was meant to be. That’s why you’re here.
+
+LARRY: Let me go. You don’t need me. A tough guy like you can handle this job on your own. I’m worthless. I would only get in the way.
+
+CAPTAIN: Nonsense, Horatio. You see, every superhero needs a sidekick to share in the pure joy of his manly virtues.
+
+LARRY: Couldn’t your Mother do that?
+
+CAPTAIN: Of course not. In order for our duo to work at its most effective level, it is essential they share a common bond. The kind of bond only a man can experience with another man. Say you’ll bond with me and glory will be yours. History will record us as the two heroes in bondage together. Don’t be afraid of chance. Try it . . . You like doing nothing, don’t you. It’s your life. Letting time slip away. Just slip away . . .
+
+LARRY: How dare you say that about me. Look at you. You’re a fake. A fool. Your life is no better than mine. Look at this place you live in. It’s a dump. A dump.
+
+CAPTAIN: You’re right. It’s a dump, but it’s my dump and everything in my dump has a purpose. I’m here because I choose to be here. You’ve never chosen anything in your life. You’re taking the easy way out.
+
+LARRY: You’re the one who’s taking the easy way out.
+
+CAPTAIN: Easy! You think it’s easy being a superhero? You think I like walking through brick walls? Don’t let this suit fool you. It’s no picnic, and no magic fairy endowed me with superpowers, either. It took hard work and determination. You should know what that is. You worked at McDonald’s.
+
+LARRY: But don’t you see, I even failed at that.
+
+CAPTAIN: Horatio. I know.
+
+LARRY: What do you know?
+
+CAPTAIN: I know what it’s like to be nothing. I was a failure too. I’ve spent most of my life feeling alone. Wishing I were dead, or just that I could be somebody else, anybody else. And when I thought there was no hope left, something happened. All at once I came alive.
+
+I realized my whole life was a test. And at that moment, I began shaping the great man you see today. I got off my butt and started exercising. I built my body into the perfect machine and now I’m ready to save the world. Who’s the bravest in the land?
+
+LARRY: CAPTAIN NEATO-MAN!
+
+CAPTAIN: I know you think I’m crazy. Maybe I am, but for the first time in my life I’m happy, and I know you can’t say the same.
+
+LARRY: But this stuff isn’t real.
+
+CAPTAIN: Anything can be real. We create realities all the time. How can you cling so desperately to your truth without knowing what truth is.
+
+LARRY: We could die.
+
+CAPTAIN: Be a hero, Horatio. I need you.
+
+LARRY: No, I’m Larry . . . Larry . . .
+
+CAPTAIN: Let go, Horatio. We could go down in history. (he strikes his superhero pose and Larry wavers)
+
+LARRY: (voice cracking) Horatio! My name is Horatio (Larry joins the Captain in a superhero pose)
+```
+
+---
+
+## IC-1309: Albuquerque
+
+- Title: Albuquerque
+- Author (byline): “Weird Al” Yankovic
+- Work: Weird Al: The Book by Nathan Rabin with Al Yankovic, Pgs 166-167
+- Publisher: Scholastic
+- Publication date as stated: Jan 2016
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1249
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: “Weird Al” Yankovic
+Book: Weird Al: The Book by Nathan Rabin with Al Yankovic, Pgs 166-167
+ISBN: 978-1419722738
+Publisher: Scholastic
+Date (Month/Year): Jan 2016
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+by “Weird Al” Yankovic
+```
+
+### Performance text (classify this)
+
+```text
+(Pg 166-167) Way back when I was just a little bitty boy living in a box under the stairs in the corner of the basement of the house half a block down the street from Jerry's Bait shop You know the place well anyway, back then life was going swell and everything was just peachy
+
+Except, of course, for the undeniable fact that every single morning My mother would make me a big bowl of sauerkraut for breakfast
+
+A big bowl of sauerkraut Every single morning It was driving me crazy
+
+I said to my mom . . . "Hey, mom, what's with all the sauerkraut?"
+And my dear, sweet mother
+She just looked at my like a cow looks at an oncoming train
+And she leaned right down next to me
+And she said "IT'S GOOD FOR YOU"
+
+That's when I swore that someday
+Someday I would get outta that basement and travel to a magical, faraway place
+Where the sun is always shining and the air smells like warm root beer
+And the towels are oh so fluffy
+Where the Shriners and the lepers play their ukuleles all day long
+
+Well, let me tell you, people, it wasn't long at all before my dream came true
+Because the very next day, a local radio station had this contest
+To see who could correctly guess the number of molecules in Leonard Nimoy's butt
+I was off by three, but I still won the grand prize
+That's right, a first-class one-way ticket to . . . Albuquerque!
+
+You know, I'd never been on a real airplane before
+And I gotta tell ya, it was really great
+Except that the little kid in back of me kept throwin' up the whole time
+The flight attendants ran out of Dr. Pepper and salted peanuts
+And, oh yeah, three of the airplane engines burned out
+And we went into a tailspin and crashed into a hillside
+And the plane exploded in a giant fireball and everybody died
+Except for me
+You know why?
+
+'Cause I had my tray table up
+And my seat back in the full upright position
+Had my tray table up
+And my seat back in the full upright position
+
+So I crawled from the twisted, burnin' wreckage
+I crawled on my hands and knees for three full days
+Draggin' along my big leather suitcase and my garment bag
+And my tenor saxophone and my twelve-pound bowling ball
+And my lucky, lucky autographed glow-in-the-dark snorkel
+But finally I arrived at the world famous Albuquerque Holiday Inn
+Where the towels are oh so fluffy
+Well, I checked into my room and I turned down the A/C
+And I'm just about to eat that little chocolate mint on my pillow
+That I love so very, very much when suddenly, there's a knock on the door
+
+Well now, who could that be?
+I say "Who is it?"
+No answer
+"Who is it?"
+They're not sayin' anything
+
+So, finally I go over and I open the door and just as I suspected
+It's some big fat *guy* with a Flock-Of-Seagulls haircut and only one nostril
+So anyway, he bursts into my room and he grabs my lucky snorkel
+And I'm like "Hey, you can't have that"
+"That snorkel's been just like a snorkel to me"
+And he's like "Tough"
+And I'm like "Give it"
+And he's like "Make me"
+And I'm like "'Kay"
+So I grabbed his leg and he grabbed my esophagus
+And I bit off his ear and he chewed off my eyebrows
+Yes indeed, you better believe it
+And somehow in the middle of it all, the phone got knocked off the hook
+And twenty seconds later, I heard a familiar voice
+And you know what it said?
+I'll tell you what it said
+
+It said . . . "If you'd like to make a call, please hang up and try again" "If you need help, hang up and then dial your operator"
+
+Well, to cut a long story short, he got away with my snorkel
+But I made a solemn vow right then and there that I would not rest
+I would not sleep for an instant until the one-nostrilled man was brought to justice
+But first, I decided to buy some donuts
+
+So I got in my car and I drove over to the donuts shop
+And I walked on up to the guy behind the counter
+And he says "Yeah, what do ya want?"
+I said "You got any glazed donuts?"
+He said "No, we're outta glazed donuts"
+I said "Well, you got any jelly donuts?"
+He said "No, we're outta jelly donuts"
+I said "You got any cinnamon rolls?"
+He said "No, we're outta cinnamon rolls"
+I said "Well, in that case - in that case, what do you have?"
+He says "All I got right now is this box of one dozen starving, crazed weasels"
+I said "OK, I'll take that"
+
+So he hands me the box and I open up the lid and the weasels jump out And they immediately latch onto my face and start bitin' me all over
+
+(rabid gnawing sounds)
+Oh man, they were just going nuts
+They were tearin' me apart
+Oh, oh God, oh God
+Oh, get 'em off me
+
+(more screaming)
+
+I ran out into the street with these flesh-eating weasels all over my face
+Wavin' my arms all around and just runnin', runnin', runnin'
+And as luck would have it, that's exactly when I ran into the girl of my dreams
+Her name was Zelda
+She was a calligraphy enthusiast with a slight overbite and hair the color of strained peaches
+I'll never forget the first thing she said to me
+She said "Hey, you've got weasels on your face"
+
+That's when I knew it was true love
+We were inseparable after that
+We ate together, we bathed together
+We even shared the same piece of mint-flavored dental floss
+The world was our burrito
+So we got married and we bought us a house
+And had two beautiful children - Nathaniel and Superfly
+Oh, we were so very very very happy
+
+But then one fateful night, Zelda said to me
+She said "Sweetie pumpkin? Do you wanna join the Columbia Record Club?"
+I said "Woah, hold on now, baby"
+"I'm just not ready for that kinda commitment"
+So we broke up and I never saw her again
+But that's just the way things go . . . In Albuquerque
+
+Anyway, things really started lookin' up for me
+Because about a week later, I finally achieved my lifelong dream
+That's right, I got me a part-time job at The Sizzler
+I even made employee of the month after I put that grease fire out with my face
+Aw yeah, everybody was pretty jealous of me after that
+I was gettin' a lot of attitude
+
+Anyway I, I know it's kinda been a roundabout way of saying it
+But I guess the whole point I'm tryin' to make here is . . . I! HATE! SAUERKRAUT!
+That's all I'm really tryin' to say
+And, by the way, if one day you happen to wake up
+And find yourself in an existential quandary
+Full of loathing and self-doubt
+And wracked with the pain and isolation of your pitiful meaningless existence
+At least you can take a small bit of comfort in knowing that
+Somewhere out there in this crazy ol' mixed-up universe of ours
+There's still a little place called . . . Albuquerque
+
+I said "A" - "L" -"B" - "U" - "querque" Albuquerque
+```
+
+---
+
+## IC-1310: Alexander and the Terrible, Horrible, No Good, Very Bad Day
+
+- Title: Alexander and the Terrible, Horrible, No Good, Very Bad Day
+- Author (byline): Judith Viorst
+- Work: Not specified
+- Publisher: Atheneum Books
+- Publication date as stated: June 1972
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ALEXANDER
+- Teaser before the introduction: No
+- Spoken words (computed): 744
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Judith Viorst
+ISBN: 0689300727
+Publisher: Atheneum Books
+Date(Month/Year): June 1972
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Ever had one of those days or a day when lots of “THOSE DAYS” gang up on your all at onece? Alexander is only 8, but today, he’s faced a barrage of bummers worthy of a country- western song: getting smushed in the middle seat of the car, a dessert-less lunch sack, a cavity at the dentist's office, stripe-less sneakers, witnessing kissing on television, and being forced to sleep in railroad-train pajamas. When it comes right down to it . . . it’s all in your perspective.
+
+Alexander and the Terrible, Horrible, No Good, Very Bad Day by Judith Viorst.
+```
+
+### Performance text (classify this)
+
+```text
+ALEXANDER: I went to sleep with gum in my mouth and now there’s gum in my hair and when I got out of bed this morning I tripped on the skateboard and by mistake I dropped my sweater in the sink while the water was running and I could tell it was going to be a terrible, horrible, no good, very bad day.
+
+At breakfast Anthony found a Corvette Sting Ray car kit in his breakfast cereal box and Nick found a Junior Undercover Agent code ring in his breakfast cereal box but in my breakfast cereal box all I found was breakfast cereal. I think I’ll move to Australia.
+
+In the carpool, Mrs. Gibson let Becky have a seat by the window. Audrey and Elliott got seats by the window too. I said I was being scrunched. I said I was being smushed. I said, if I don’t get a seat by the window, I am going to be car sick. No one even answered. I could tell it was going to be a terrible, horrible, no good, very bad day.
+
+At school Mrs. Dickens liked Paul’s picture of the sailboat better than my picture of the invisible castle. At singing time, she said I sang too loud. At counting time, she said I left out sixteen. Who needs sixteen? I could tell it was going to be a terrible, horrible, no good, very bad day.
+
+I could tell because Paul said I wasn’t his best friend anymore. He said that Phillip Parker was his best friend, and that Albert Moyo was his next best friend and that I was only his third best friend. I hope you sit on a tack, I said to Paul. I hope the next time you get a double-decker strawberry ice cream cone the ice cream part falls off the cone part and lands in Australia.
+
+There were two cupcakes in Phillip Parker’s lunch bag and Albert got a Hershey bar with almonds and Paul’s mother gave him a piece of jelly roll that had little coconut sprinkles on the top. Guess whose mother forgot to put in dessert? It was a terrible, horrible, no good, very bad day.
+
+That’s what it was, because after school, my mom took us all to the dentist and Dr. Fields found a cavity just in me. “Come back next week and I’ll fix it,” said Dr. Fields. “Next week,” I said, “I’m going to Australia.”
+
+On the way downstairs the elevator door closed on my foot and while we were waiting for my mom to go get the car, Anthony made me fall where it was muddy and then when I started crying because of the mud, Nick said I was a crybaby and while I was punching Nick for saying “crybaby,” my mom came back with the car and scolded me for being muddy and fighting. I am having a terrible, horrible, no good, very bad day.
+
+I told everybody. No one even answered. So then we went to the shoe store to buy some sneakers. Anthony chose white ones with blue stripes. Nick chose red ones with white stripes. I chose blue ones with red stripes, but the man said, “We’re all sold out.” They made me buy plain old white ones, but they can’t make me wear them.
+
+When we picked up my dad at his office, he said I couldn’t play with his copying machine, but I forgot. He also said to watch out for his books on his desk and I was careful as could be except for my elbow. He also said don’t fool around with his phone, but I think I called Australia. My dad said please don’t pick him up anymore. It was a terrible, horrible, no good, very bad day.
+
+There were lima beans for dinner, and I hate limas. There was kissing on TV, and I hate kissing. My bath was too hot, I got soap in my eyes, my marble went down the drain, and I had to wear my railroad-train pajamas. I hate my railroad-train pajamas. When I went to bed, Nick took back the pillow he said I could keep, and the Mickey Mouse night-light burned out and I bit my tongue. The cat wants to sleep with Anthony, not with me. It has been a terrible, horrible, no good, very bad day.
+
+My mom says some days are like that even in Australia.
+```
+
+---
+
+## IC-1311: All About Al
+
+- Title: All About Al
+- Author (byline): Cherie Vogelstein
+- Work: The Best American Short Plays 1998-99
+- Publisher: CreateSpace Independent Publishing Platform
+- Publication date as stated: May 2001
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: LENNY, GIL
+- Teaser before the introduction: Yes
+- Spoken words (computed): 2205
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Cherie Vogelstein
+Book: The Best American Short Plays 1998-99
+ISBN: 978-1557834256
+Publisher: CreateSpace Independent Publishing Platform
+Date (Month/Year): May 2001
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+All About Al by Cherie Vogelstein
+```
+
+### Performance text (classify this)
+
+```text
+GIL, very handsome and cool, sits with his back to us in an empty coffee shop, reads the sports section. LENNY, downtrodden and uncool, enters in raincoat and galoshes, furtively looks around, spots GIL, quickly looks away, orders coffee. Nonchalantly, LENNY takes cup and saunters by GIL's table. Suddenly, he stops, pretends to notice GIL for first time. Their initial conversation should be slightly awkward: the way it is when casual friends meet after not speaking for awhile: full of sound and excitement, signifying nothing.
+
+LENNY: Gil! [Practically spills cup.]
+
+GIL: [Looks up, friendly.] Hey... Lenny!
+
+LENNY: What a surprise, what a coincidence!
+
+GIL: Yehah - how ya doin', buddy?
+
+LENNY: How are you? You look great!
+
+GIL: Yeah? Well I'm doin' okay, you know, hangin' in there. [Awkward pause, then with some concern.] . . . how uh . . . how are YOU doin', Len?
+
+LENNY: [Jovially.] Me? Well, I'm fine . . . alright, you know . . . not so good - [Totally serious.] - suicidal - I'm suicidal, Gil.
+
+GIL: [Sympathetic.] Yeah, heard about you and Cindy. I'm sorry, man, we shoulda called.
+
+LENNY: No, no I should've called you guys . . . it's just I've been so preoccupied, you know, with death, I haven't had any time. [Cheery.] So how's Allison?
+
+GIL: Allison? She's real good . . . yeah, she should be comin' here
+
+LENNY: [Excited.] Really?!
+
+GIL: Yeah.
+
+LENNY: Here? Really? [GIL nods.] That's great, that is so great!
+
+GIL: [Puzzled by LENNY's enthusiasm.] Yeah . . . any minute.
+
+LENNY: [Elated.] I - I can't wait to see her, I mean what good luck . . . that is so fantastic, just terrific . . . incredible really. . .
+
+GIL: [Beat.] You're not gettin' out much, are ya, Len?
+
+LENNY: [Instantly sad, sits, cradles his head.] It's hopeless, Gil. I'm miserable, a wreck; all alone during allergy season with my hair falling out and my gums big and bleeding - may I join you?
+
+GIL: [Looks around uncomfortably.] Uh
+
+LENNY: - I mean you don't know how lucky you are - wow to have a woman like Allison, kind, darling, beautiful Al
+
+GIL: - I think we're breakin' up.
+
+LENNY: [Shocked.] What?
+
+GIL: [Beat.] Yeah.
+
+LENNY: [Devastated beat.] No.
+
+GIL: Yeah.
+
+LENNY: [2 Beats.] No.
+
+GIL: [Annoyed.] LENNY!
+
+LENNY: I'm sorry but I . . . can't believe it . . . I mean I just can't believe it - you and Allison, Allison and you . . . you're like Romeo and Juliet. . . Antony and Cleopatra . . . Lawrence Olivier and Danny Kaye
+
+GIL: Well, listen . . . I'm just tellin' ya cuz maybe, you know, it's not such a good idea for you to be around when I tell her
+
+LENNY: Why, Gil? I'll be very quiet
+
+GIL: Right but uh . . . even though it's a cafe deal and I'm hopin' she'll keep the cryin' down to a minimum . . . I'll tell ya, Len, things might get pretty wacky - I mean, it's not easy breakin' a girl's heart. . . ya know?
+
+LENNY: No . . . I don't know. . . I've dreamt about it ... [Assumes the mannerisms of a girl]
+
+GIL: Yeah, well so anyway. . . I think that's what I'm gonna do. [Pause.] Oh! [Laughs.] No offense, Len but you make a real ugly girl.
+
+LENNY: [Sticking to his role, falsetto.] Did you want to speak to me about something?
+
+GIL: O.K., O.K. yeah . . . [Serious.] . . . I did . . . listen, Al, I haveta tell you something
+
+LENNY: [Coquettishly.] I love you, Gilly
+
+GIL: Yeah, I love you too. It's over. We have to break up.
+
+LENNY: What?! Why?!
+
+GIL: Why? [Thinks.] Honestly? Because . . . I have a brain tumor
+
+LENNY: [Falsetto] Oh my God! You do?
+
+GIL: No, no, no - seriously? We have to break up because . . . I'm not good enough for you, Al, I think you deserve better
+
+LENNY: [Falsetto.] I do but I don't want better, I want you, YOU [Almost to himself] - moronic, greasy
+
+GIL: [Oblivious.] Yeah, but the thing is . . . I don't think I can measure up to this . . . this IMAGE you have of me, ya know? I mean, sure we might be good today, we might be good tomorrow but ultimately, I don't have what it takes to fulfill a woman like you. And one day, one day I'm gonna look into your eyes and I'm gonna see - insteada the love - I'm gonna see somethin' else - I'm gonna see all the respect drained out and gone with only the hate left. And that's gonna break my heart, Al- [Sobs.]
+
+LENNY: [As himself] Wow. Is that true?
+
+GIL: No but it sounded good, right? [Beat.] I mean, you can't tell her the real stuff. . . Well it's no big deal really, just this thing she does sometimes when . . . when we're lyin' there . . . ya know, in bed . . . and I'll be gettin' all comfortable, I'll be startin' to doze off - and allofa sudden, outta nowhere, I'll feel this leg swingin' over on top of me, right over my body while I'm tryin' to sleep.
+
+LENNY: Is it her leg?
+
+GIL: Of course, it's her leg that's not the point - the point is while I'm tryin' to sleep, I don't need some weight pinnin' me down to the mattress, you know what I mean?
+
+LENNY: Cindy bought a bunk bed when I moved in
+
+GIL: I mean, I'm not sayin' I don't appreciate Al's affection - I'm not saying that at all - but there's a time and a place and [when I’m trying to sleep] . . . I do NOT like to be touched, ya know?
+
+LENNY: Cindy said [all touching] should be kept to a minimum.
+
+GIL: Listen, Len, can I just say? - she did you the biggest favor in the world when she dumped you
+
+LENNY: I know, I know. That's the one favor women always want to do for me - [With sudden emotion.] - which is why I'm telling you it's lonely in New York, Gil- Allison is special-
+
+GIL: Yeah, I know she's special but . . . but . . . it's not just the leg thing, Lenny. . . it's more than that. . .
+
+LENNY: You mean like a leg/arm kind of thing?
+
+GIL: I mean like. . . like - [Thinks of something.] -like the way she's so obsessed with her weight! I mean, all she ever does is ask me about it all the time: Like I won't have seen her for a day and I'll pick her up and first thing when she opens the door, she'll say, "Hi, Gil, do I look like I gained weight?"
+
+LENNY: So?
+
+GIL: So I'll say - No, Al, you look great - and she'll say – are you sure? - and I'll say - positive - and she'll say - no you're lying -and I'll say - why would I lie? - to make me feel good - no, no way - yes, I see it in your eyes - no, that's my contact lens Al, ya haven't gained an ounce since the day you were born - you promise? - I swear - you'd tell me if I did - of course - you promise you would tell me? – I promise - you promise you promise - I promise, I swear, I swear on my life now give me a stake to put through my head cuz I can't take it anymore, Lenny, it drives me nuts!
+
+LENNY: Why? [GIL rolls his eyes in frustration.] You mean because she's a little insecure about her figure . . . needs a little reassurance, a little positive assessment of her weight?
+
+GIL: Yeah, but like . . . why doesn't she just invest inna scale? Ya know what I mean? Why's it havta be such a big mystery all the time?
+
+LENNY: Gil, Gil, YOU'RE her scale, Gil, YOU
+
+GIL: But that's the thing - to me she looks great-so what's she so worried about?
+
+LENNY: [Shrugging.] Maybe she's afraid if she got fat, you'd break up with her.
+
+GIL: [Softens.] Well, yeah . . . I would - but that doesn't mean she has to like "dwell," ya know? [Guiltily.] I mean, come on, Len every guy wants his girlfriend to have a nice body, right?
+
+LENNY: [Nodding.] Cindy gained 60 pounds while we were together.
+
+GIL: God, I know - how'd you deal with that, man?
+
+LENNY: I loved her for what was inside
+
+GIL: Deep, deep inside
+
+LENNY: [Impassioned.] Look, a good woman is hard to find
+
+GIL: Cindy's not hard to find - [Spreads his arms wide.] [Looks around, then at his watch.] I wonder why Al's so late.
+
+LENNY: Cindy was always late, Cindy
+
+GIL: Cindy, Cindy, will you forget Cindy!
+
+LENNY: It just ended last week, Gil.
+
+GIL: Yeah, well get over it already, alright? Get over it!
+
+LENNY: [Repeats to himself.] Get over it.
+
+GIL: -what you need is somebody nice, somebody sweet, a girl who gives ya support, makes ya feel good, really LIKES you
+
+LENNY: [Like a kid at a toy store.] They have that?
+
+GIL: Yeah, yeah, ya just gotta give yourself a break, buddy, ya know what I mean? Ya gotta ... go for it, ya know? [Beat.] Just go for it! [Pause.]
+
+LENNY: Gil?
+
+GIL: Yeah, Len?
+
+LENNY: When uh when Allison gets here. . .
+
+GIL: Yeah?
+
+LENNY: When Allison gets here . . .
+
+GIL: [Very calm.] Finish the sentence, Len.
+
+LENNY: Can I . . . have her?
+
+GIL: What?
+
+LENNY: Well not "have her," "have her" is a silly expression but you know what I mean - could I ask her out - would you mind?
+
+GIL: Would I mind? If you asked Allison out? [Beat.] My Allison, right? You mean Allison Kramer.
+
+LENNY: Listen, if it's a problem
+
+GIL: No, it's no problem
+
+LENNY: - then I won't
+
+GIL: Lenny. I said it's not a problem, okay?
+
+LENNY: Okay. [Beat, smiling broadly, happily.] Thanks, Gilly.
+
+GIL: Don't call me Gilly, alright? [Beat, scowling.] But I'm just thinkin' ...
+
+LENNY: [Serious.] Uh-huh, good, O.K.
+
+GIL: Ya know . . . what about "Cindy?"
+
+LENNY: Oh. Well you said to forget her.
+
+GIL: And that's it? That's all it takes - I say forget her and you're done?
+
+LENNY: Well, Gil, I thought you gave me some very excellent advice and so I'm trying to follow up on it, is all
+
+GIL: Yeah, well, okay . . . good. But I haveta tell ya, Len, maybe this is sicka me an' all, but it kinda does bother me, ya know? [Annoyed and confused.] I mean you askin' Allison out! I mean cuz like . . . here you are, and and like . . . the body's still warm, ya know what I'm sayin'?
+
+LENNY: Yes but in a way, isn't that better? [Smiles broadly.] I mean, that way she won't have time to mourn over the loss of you because I'll be right there to console her
+
+GIL: [Getting angrier.] Yeah but what I'm sayin' is I don't really want you there to console her
+
+LENNY: But . . . Why, Gil? I mean, do you want to see her suffer?
+
+GIL: Not at all. But I even more don't want to see her with you
+
+LENNY: But that's not very fair, is it? I mean, here you don't want her anymore
+
+GIL: I never said I didn't "WANT" her, Lenny
+
+LENNY: Well, you said you were breaking up
+
+GIL: I said I was thinkin' of breaking up - that the little, dancin' thought had walked my mind! But I mean I didn't realize that automatically gave YOU the green light to pounce? [Rises, angry.] All your concern for the what, why, why were you just, ya know, circlin' the area till you could swoop down -like some little galosh-wearin' vulture
+
+LENNY: [Backing away.] That's not a very flattering characterization, Gil
+
+GIL: - and . . . and what? just feast on my leftovers?! - and . . . and I mean Allison, no less - Allison of all girls - don't you know how outta your league Allison is?
+
+LENNY: Yes of course, but - but you said to go for it!
+
+GIL: It. IT. Not HER, you [jerk]!
+
+LENNY: [Summoning up his courage.] But why not? [Rises.] Why not her?
+
+GIL: Because . . . because
+
+LENNY: [Hitting his stride.] Because what, Gil, HUH?! All my life I've watched the Leonards of this world lose the Allisons of this world to the Gils of this world and the Gils don't even care! [He throws saucer against wall.] I'm sick of it, I tell you! I'm sick, sick, sick! It's men like you who destroy women for the rest of us; abusing and demeaning and rejecting them till they so totally lose their sense of selves they actually believe the REAL men are the men who treat them that way -- when in fact you're not real at all, you're just scared, scared of growing up, scared of yourself, scared that - just like you said in that speech - that one day you're gonna look into her eyes and see the hate because deep down you believe once Allison sees you, once she really sees Gilly for who he is, she'll see THERE'S NOTHING TO SEE!
+
+GIL: Yeah? [Rises.] Well- [Trying to find the right words] –Shut up, Lenny! Shut up! [Screams, grabs his collar.] SHUT UP! [Silence, GIL lets go.]
+
+LENNY: I think I've offended you Gil- [Sits.] -I'm sorry
+
+GIL: No, don't be sorry, don't be sorry - who wants your sorry, Lenny? Allison's a GIFT, a PRIZE - who loves me! And so that's a VERY scary thing [Lenny covers his face.] - I mean, it's alotta pressure - alotta - who wants to deal with dissappointin' a girl like that, ya know? ! We're not talkin' some whale beast like Cindy - we're talkin' Allison Kramer! And so even if a part athat - if part awhat you said fear - whatever you said - even if it's something involved with that. . . so what? I mean - what does that prove? That I'm no good? Because I'm - I'm human? That I may be scared of rejection deep down? Alright! So what, ya know? Deep down everybody's scared of rejection! Everybody!
+
+LENNY: [Puffing up his chest.] I'm not!
+
+GIL: Yeah? Well that's just cuz you're so used to it
+
+LENNY: Damn straight! Damn straight I am! [Rises, speaks quietly.] Take a look at a real man, Gil- a man who's not afraid of rejection, of intimacy, of commitment, the dark - well okay I am a little afraid of the dark - but I'm not afraid of love! Love I embrace unguarded - and I love Allison! I want her, Gil!
+
+GIL: [Also rises.] Yeah, well so do I!
+```
+
+---
+
+## IC-1312: Alvin Ho: Allergic to Girls . . .
+
+- Title: Alvin Ho: Allergic to Girls . . .
+- Author (byline): Lenore Look
+- Work: Not specified
+- Publisher: Yearling
+- Publication date as stated: May 2009
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: ALVIN, DAD, ALIVN, MISS P, FLEA, ELI, PINKY, JULES
+- Teaser before the introduction: Yes
+- Spoken words (computed): 2197
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Lenore Look
+ISBN: 978-0375849305
+Publisher: Yearling
+Date (Month/Year): May 2009
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Alvin Ho: Allergic to Girls, Schools and Other Scary Things by Lenore Look.
+```
+
+### Performance text (classify this)
+
+```text
+ALVIN: (enters rooms shyly . . . already in character) (almost whispering at the beginning but gradually growing louder after his list of fears) The first thing you should know about me is that my name is Alvin Ho. I am afraid of many things. Elevators. Tunnels. Bridges. Airplanes. Thunder. Substitute teachers. Kimchi. Wasabi. The dark. Heights. Scary movies. Scary dreams. Shots. School. If there were no school, my troubles would blast away, just like that. I would dig holes all day. I would watch cooking shows. I would keep an eye on things. It would be fantastic!
+
+ALVIN: The second thing you should know about me is that I have a dog named Lucy and a brother named Calvin and a sister named Anibelly, who messes with my sticks and toys; eats my food, drinks my chocolate milk and gets in my way. I am not as big as Calvin, but I am bigger than Anibelly, who isn't a baby anymore but doesn't go to school yet. I am sort of nearly almost medium . . . when I stand on tiptoe and stretch at the same time, I am finally almost visible in my class picture!
+
+The third thing you should know about me is that I love Plastic Man, Wonder Woman, the Green Lantern, Concrete Man, Aquaman, King Henry V and all the superheroes in the world. I know them from reading with my dad every night while my mom runs on the treadmill like a hamster on a wheel. My dad is a great reader for his age, which could be fifty or one hundred, it's hard to tell. He wears reading glasses and always puts one arm around me and his other arm around Anibelly and Calvin for support, on account of when you get to be that old, it is hard to do anything by yourself
+
+The fourth thing you should know about me is that once upon a time, before I went to school, I was a superhero. I was Firecracker Man! I ran around our house, full speed ahead, screaming at the top of my lungs while beating on a garbage can lid. I was as noisy as a firecracker on Chinese New Year! But now I am Firecracker Man only on weekends and holidays. There's just no time for it. Being a superhero is hard work. You have to save the world. But going to school is even harder. You have to save yourself. Most days I can hardly even make it to the school bus. And when I arrive at school, I can't think. I can't read. I can't smile. I can't sing. I can't scream. I can't even talk.
+
+The fifth thing you should know about me is that I have never spoken a word in school. Even when I try with all my might, I always manage to say nothing at all. My voice works at home. It works in the car. It even works on the school bus. But as soon as I get to school I am as silent as a side of beef. It is true. No one really knows why I lose my voice at school, since I come from a long line of farmer-warriors who haven't had a scaredy bone in their bodies since 714 AD. In China my ancient grandpas and grandmas and aunts and uncles fought off leopards and tigers in their gardens the way Calvin and Anibelly and I fight off mosquitoes at Walden Pond. They weren't afraid of anything. I am afraid of everything.
+
+DAD: When I was your age . . . I was scared of school too. Worse, I was never a superhero before I went to school, so it was very rough.
+
+ALVIN: My dad is not superhero material, but he has read practically everything ever written about superheroes and so knows us from beginning to end, which explains a lot about him.
+
+DAD: Just hold your head high and be a gentleman.
+
+ALVIN: But I feel sick. (to audience) My dad put a hand on my forehead.
+
+DAD: No fever.
+
+ALIVN: Are you sure? (to audience) I looked at his hands. They are thick like baseball mitts. It was a wonder he could feel anything through them.
+
+DAD: Where does it hurt?
+
+ALVIN: All over. (to audience) It was true; I was not making it up. I gave a little moan.
+
+(moans pitifully)
+
+DAD: Hmmmmm (Alvin moans again even more pitifully) You are not sick.
+
+ALVIN: But I will be. I will be very, very sick. I'm allergic to school, severely allergic."
+
+DAD: Alvin. (coming down to Alvin’s level and putting one of his mitts on Alvin’s shoulder) You will be okay, son.
+
+ALVIN: I love it when he calls me that. Son. I felt a little better. Maybe my dad was right, maybe I would be okay. A good word from my dad changes everything. Besides, if I missed the bus, my dad might have a few other words for me. So I dashed out of the house and caught up with Calvin just as the bus was pulling up to the end of our driveway. We waved and climbed on. I was okay. "You will be okay, son," my dad's voice echoed between my ears. I smiled at Calvin. And Calvin smiled back. I was okay.
+
+Then we arrived at school. My sneakers landed like a couple of cement blocks when I got off the bus. Pfuump, pfuump. My stomach turned like a washing machine when I got inside. I found the door that said "Second Grade, Miss Pestalozzi." My throat tightened.
+
+MISS P: Welcome. I'm Miss P.
+
+ALVIN: I stopped dead in my tracks. Her hair was shiny and her skin was clean. She smelled like fresh laundry out of the dryer. She smiled at me. But I did not smile back. I hardly even looked at her. I felt dizzy. Everything whirled around me. I was in the middle of it, but I was not in it at all. So far, second grade wasn't any different from first grade, which wasn't any different from kindergarten. I was thinking about running and hiding, when ...
+
+FLEA: Wanna be desk buddies again?
+
+ALVIN: It was Flea. She was my desk buddy in first grade. She is ·a girl. I wanted to say no way. Nobody wants a girl desk buddy, except for maybe a girl. The scary thing about girls is that they are not boys. They can't punch. But they can kick, which hurts. They skip rope too fast. They are boring. I opened my mouth to tell her all this, but . . . My tongue turned into sandpaper. Nothing came out.
+
+FLEA: C'mon. You can sit with me and Esha.
+
+ALVIN: Everyone was choosing their seat and sitting down. Soon it would be too late to sit with the boys. I opened my mouth. I wished for my voice. I wished and wished and wished. But nothing came out. Finally, I slumped into the chair. I was not okay. I was so allergic to school, but I was even more allergic to girls!
+
+TRANSITION So Alvin began to concoct a plan . . . Obviously moaning and claiming to be sick didn’t work. His dad was too smart to fall for just pretending to be sick. The best way to avoid school, as everyone knows is to really, truly get sick!!
+
+ALVIN: But not all sicknesses are created equal. Some are better than others. Tonsillitis, for example, is pretty good. You get all the Italian ice you want. It is my dream to have tonsillitis someday. Appendicitis is good too, but not as good as a burst appendix, which gets you a ride in a wailing ambulance speeding through all the red lights on Route 62 to Emerson Hospital. This happened when Calvin's appendix burst and our mom found him on the kitchen floor. He has all the luck!
+
+The flu is okay, but it's not great. You only get ginger ale and crackers, which is a real rip-off, but usually you get to watch all the cooking shows and cartoons you want. The common cold? One bad-tasting zinc drop, some tissues and you're back in school the next day.
+
+Medical mysteries? If you get foreign-accent syndrome or barking madness or squeaky chalk phobia, forget it. You're back in school the same day. So you have to be patient. It's like choosing a car, or a house; my mom says you shouldn't jump at the first offer because a better deal might be right around the corner.
+
+And it was. One day, Jules was out-with chicken pox.
+
+MISS P: Don't go near Jules's house. It'll take two weeks for all the blisters to scab over completely. Until then, Jules 1s highly contagious.
+
+ALVIN: Highly contagious? I felt like dancing! I nearly burst like fireworks! But I didn't. I had to wait until after school. It was hard not to go near Jules's house. It is on the way to everything. It is as though Jules's house is a big magnet and I am an iron filing, and every time I so much as step out of my house, I am yanked toward it, just like that. That was exactly what happened! I was sucked by such a powerful force toward Jules's house that I could barely even pick up the fat frog in the gutter on my way. And when I got to Jules's house, there was already a line behind the tall bushes in front, just like the line at the cinema when there's a scary movie playing. (to the kids in line) Hey, guys!
+
+ELI: (hiding in the bushes) Shhhhhhhh! Stay low or Jules's mom will see us and we'll all get sent home.
+
+ALVIN: Before I knew it, it was my turn. I caught my frog, rushed around the side of the house and ran right into Pinky under Jules's window.
+
+PINKY: Watch where you're going! (holding out a coffee can)
+
+ALVIN: He held out a can. On the can was a label: One-minute visit: 50¢ Jump into bed· $1
+
+PINKY: You got a dollar?
+
+ALVIN: I gasped. Normally, Pinky does not speak to me. Usually I do not show up on his radar, not one bleep, not even a flicker. But I was flickering now! (shaking his head no)
+
+PINKY: You got fifty cents?
+
+ALVIN: No. (to Pinky) Wait! (to audience) I remember[ed] an unchewed piece of gum in my back pocket. I took it out. It was warm and soft. Pinky grabbed the gum, unwrapped it and stuffed it into his cheek.
+
+PINKY: (speaking around the wad of gum) Okay. You get a minute.
+
+ALVIN: I took my frog and hopped through Jules's window. Jules was in bed. (to Jules as he look around the room and under the bed) So where's the chicken?
+
+JULES: I was wondering that myself. I wish I knew.
+
+ALVIN: I was really disappointed. How do you catch chicken pox without first catching a chicken? (To Jules) I came to catch the chicken pox. Not the plain pox. (to audience) But the plain pox wasn't too shabby. It had turned Jules's head into a potato covered with red eyes. Some eyes were crying, others were crusty like sugar on a cookie. It was great! Jules had never looked scarier!
+
+Jules was scratching like crazy. I do not know if Jules is a girl or a boy. Sometimes Jules plays with the boys, and other times Jules plays with the girls.
+
+“Jules" could stand for "Julian'' or it could stand for "Julia." It is hard to tell. The blisters didn't help either. In fact, they made Jules look like neither boy nor girl. Instead, Jules looked a good deal like an alien. A real live alien potato fresh off a UFO. (to Jules) You're so lucky! I'd love to look like that.
+
+JULES: (scratching like crazy) Yeah, It's really great except for the itching.
+
+ALVIN: You got any you can't reach?
+
+JULES: (squirming) Yeah, right up the middle of my back.
+
+ALVIN: So I gave Jules a hand. I think it is one of the rules of being a gentleman, but I don't really know, I can't remember.
+
+PINKY: Time's up! (hissing from the window)
+
+ALVIN: [But] None of us caught a chicken or even saw one. So none of us broke out with the chicken pox that day. Or the plain pox either. It was a terrible disappointment.
+
+Then a long time later . . . just when we'd forgotten all about Jules and the chicken pox, and none of us were trying to catch anything anymore . . . a miracle happened. Our art teacher, Mr. Gruenert, was showing us famous self-portraits one warm afternoon. Frida Kahlo looked a little itchy to me with branches coming out of her hair. Paul Gauguin looked a bit feverish because he was in Tahiti, where it's really hot. And Vincent van Gogh, in his scratchy straw hat, definitely looked itchy. . . . Very itchy.
+
+Then we got mirrors and brushes so that we could paint our own self-portraits. My self-portrait was going to be a masterpiece, but strangely . . . I didn't feel like painting. I didn't feel like doing anything at all. I felt strange.
+
+Then I looked into the mirror. Something scary stared back. (screaming)
+
+Aaaaaaaaaaaaaaaaaaaaaaack! Then Flea, who was next to me, looked at me.
+
+FLEA: Aaaaaaaaaaieeeeeeeeee!"
+
+ALVIN: The other girls screamed too. Some ran fast. Others ran faster. You'd think we were a bunch of aliens or something. School shut down for two weeks and a half after that. There was a story about us in the newspaper so that people as far away as Andover, Massachusetts, read about the great chicken pox epidemic in Concord. We were famous! The newspaper said ... The first victim had been carefully quarantined. All the children had been warned to keep away. How the epidemic ever got started was a complete mystery. (Alvin smiles proudly and knowningly and raises his hands in the air in victory)
+
+[The sixth thing you should know about me is that my name is Alvin Ho and I caught the chicken pox!!]
+```
+
+---
+
+## IC-1313: American Born Chinese
+
+- Title: American Born Chinese
+- Author (byline): Gene Luen Yan
+- Work: Not specified
+- Publisher: First Second
+- Publication date as stated: Sep 2006
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: MELANIE, DANNY, DANNY’S MOM, CHIN-KEE, TEACHER 1, TEACHER 2, TEACHER 3, TEACHER 4, TEACHER 5, STEVE
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1233
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Gene Luen Yang
+ISBN: 978-1596431522
+Publisher: First Second
+Date (Month/Year): Sep 2006
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Warning . . . . this selection contains extreme negative stereo-types of Asian Americans – but sometimes the best way to confront these stereotypes is through humor. In fact, according to the author, Gene Luen Yan, who IS an Asian American, approaching this stereo-type head-on may, in fact, begin to bring us closer together. In a recent interview he said: “I hope that a kid who has never felt part of the majority, a kid who has always felt like an outsider, will understand, regardless of what it is that makes them an outsider, that that is not an experience that’s unique to them. Actually, more of us feel like outsiders than insiders”
+
+So don’t be afraid to laugh, but in the back of your mind, mull around the overly stereo-typed character of Chin-Kee. American Born Chinese by Gene Luen Yan
+```
+
+### Performance text (classify this)
+
+```text
+(Scene: Danny’s kitchen table)
+
+MELANIE: Van der Waals forces of attraction are stronger when more of WHAT are present?
+
+DANNY: Mmm . . .
+
+MELANIE: Danny, you’re drooling.
+
+DANNY: What? Oh! Well, I – that happens when I’m really concentrating on your – I mean – CHEMISTRY.
+
+MELANIE: Will you please stop fooling around? If we don’t get this attraction stuff down by tomorrow --
+
+DANNY: You know, Melanie, since we’re on the topic of attraction, I’ve been meaning to talk to you about something…
+
+MELANIE: (blushing) I’ve actually been hoping –
+
+DANNY’S MOM: Danny!
+
+DANNY: (Sigh) Hold that thought. Yeah, Ma?!
+
+DANNY’S MOM: I have some exciting news! Guess who’s coming to visit?
+
+DANNY: Who?
+
+DANNY’S MOM: Your cousin Chin-Kee!
+
+DANNY: (Danny drops textbook and looks terrified)
+
+DANNY’S MOM: I knew you’d be excited! Your father went to go pick him up at the airport! He should be here any minute now!
+
+MELANIE: Danny, who’s cousin Chin-Kee?
+
+CHIN-KEE: (Chin-Kee barrels into room) Harro Amellica! Cousin Da-Nee! Rong time no see! Chin-Kee happy as GINGER ROOT pranted in nutritious manure of WELL-BRED OX!
+
+DANNY: (whispers, in horror) Hi Chin-Kee.
+
+CHIN-KEE: (Chin-Kee notices Melanie) WHA--?! Confucious say, “Hubba-Hubba!” Such pletty Amellican girl wiff bountiful Amellican bosom! Must bind feet and bear Chin-Kee’s children! (Chin-Kee notices Danny’s angry reaction) Oh no! Chin-Kee so vely solly! Dis pletty Amellican girl wiff bountiful Amellican bosom must berongs to cousin Da-Nee! Perhaps Chin-Kee can find pletty Amellican girl for hisself when he attend Amellican school tomollow wiff cousin Da-Nee!
+
+DANNY: Ma?!
+
+DANNY’S MOM: Oh you two are going to have so much FUN together!
+
+(Scene: Oliphant High School, the first period bell is already ringing)
+
+CHIN-KEE: Why cousin Da-Nee bling Chin-Kee to school so rate? Other student already in crass!
+
+DANNY: Just hurry up. And stay QUIET!
+
+CHIN-KEE: AH-SO! What big, bootiful Amellican school! Chin-Kee Rike! CHIN-KEE RIKE VELY MUCH!
+
+(Scene: Government classroom)
+
+TEACHER 1: Come on people! LOOK ALIVE! Didn’t ANY of you do the assigned reading last night?! Let’s try this one more time. The three branches of the American government are . . .
+
+CHIN-KEE: OHH OHH! Chin-Kee know dis one!
+
+DANNY: Put your hand DOWN!
+
+TEACHER 1: Go ahead . . . Ah, Chin-Kee, was it?
+
+CHIN-KEE: Judicial, executive and regisrative!
+
+TEACHER 1: Good Chin-Kee! Very good! You know people – it would behoove you all to be a little more like Chin-Kee.
+
+CHIN-KEE: See, cousin Da-nee? Chin-Kee tol’ you! Chin-Kee know!
+
+(Scene: History classroom)
+
+TEACHER 2: The Nina, the Pinta and the –
+
+CHIN-KEE: --Santa Malia!
+
+(Scene: Science classroom)
+
+TEACHER 3: The ulna is connected to the –
+
+CHIN-KEE: --Humelus!
+
+(Scene: Math classroom)
+
+TEACHER 4: R squared is greater than six R—
+
+CHIN-KEE: L is less than or equal to zero or L is greater than or equal to six.
+
+(Scene: Spanish classroom)
+
+TEACHER 5: En esta historia, el perro de jose es –
+
+CHIN-KEE: --Branco y muy glande!
+
+(Scene: Cafeteria)
+
+CHIN-KEE: Would cousin Da-nee rike to tly Chin-Kee’s Clispy flied cat gizzards wiff noodle?
+
+DANNY: Leave me alone.
+
+STEVE: Dan the man!
+
+DANNY: Steve!
+
+STEVE: Hey, props on making the legendary Oliphant High Varsity basketball team, kid!
+
+DANNY: Come on, now. We both knew it was inevitable.
+
+STEVE: Well, being as how you’re a transfer from Hughes Academy, I’d say it was anything BUT inevitable. What were you scrubs called again? The “water lilies?”
+
+DANNY: Oh, PLEASE. I’ve got a jump-shot that’ll make you cry like a little sissy girl.
+
+STEVE: Ha, ha, we’ll see about that at practice today, kid. So, ah…you hangin’ with a new crowd?
+
+DANNY: NO! This is my cousin Chin-Kee.
+
+CHIN-KEE: Harro!
+
+DANNY: He’s just visiting.
+
+STEVE: So how long you in town for, Chin-Kee…
+
+DANNY: Hey, you… you happen to have an extra copy of the game schedule?
+
+STEVE: Why? Gimme a sec… Ah! There you go. That’ll be $100, plus a date with your fly girlfriend. Oh, wait… you don’t have a fly girlfriend!
+
+DANNY: Ha ha. Thanks, man.
+
+STEVE: You gonna be at practice today?
+
+DANNY: How else am I gonna make you cry like a little sissy girl?
+
+STEVE: (laughs) See you then, kid.
+
+DANNY: All right.
+
+CHIN-KEE: Hee-hee-hee HA HA HA HA HA HA HA HA!
+
+DANNY: What’s your problem?!
+
+CHIN-KEE: Me Chinese, me play joke! Me go pee-pee in his Coke!
+
+STEVE: BLARF! What the heck’s wrong with my Coke?!
+
+(Scene: Cafeteria)
+
+DANNY: Listen, Melanie, I’m sooo sorry about all that stuff my cousin said –
+
+MELANIE: No. I shouldn’t have left in a huff like that last night. It wasn’t your fault. I mean, in some ways, it’s kind of flattering.
+
+DANNY: So, does that mean you’d be up for catching a movie with me on Saturday?
+
+MELANIE: …I actually wanted to talk to you about that, Danny. We’re good friends, and I really LIKE being friends. I don’t want to do anything to mess that up.
+
+DANNY: I’m not like him, Melanie. I’m nothing like him! I don’t even know how we’re related!
+
+MELANIE: Calm down, Danny! Geez! This isn’t about that, okay? It’s about us being friends, and me not wanting to jeopardize that!
+
+DANNY: Whatever.
+
+MELANIE: I’ll see you around okay?
+
+STEVE: Hate to tell you this kid, but practice ended twenty minutes ago.
+
+DANNY: I know. I had detention.
+
+STEVE: Too bad. You missed the three-pointer of the century – made by yours truly, of course. You all right, Danny?
+
+DANNY: Can I tell you something, Steve?
+
+STEVE: Sure, man. What’s up?
+
+DANNY: You know how I transferred from Hughes Academy at the beginning of the year? Well, the year before that I transferred from Rohmer High.
+
+STEVE: How come?
+
+DANNY: I’m only a junior and I’ve already been to three different schools. (Sigh) Every year around this time, I finally start getting the hang of things, you know? I’ve made some friends, gotten a handle on my schoolwork, even started talking to some of the ladies. I finally start coming into my own. Then he comes along for one of his visits.
+
+STEVE: Who?
+
+DANNY: Chin-Kee. My cousin. He’s been visiting me once a year since the eighth grade. He comes for a week or two and follows me to school, talking his stupid talk and eating his stupid food. Embarrassing the crap out of me. By the time he leaves, no one thinks of me as Danny anymore. I’m Chin-Kee’s cousin. It gets so bad by the end of the school year that I have to switch schools.
+
+STEVE: Come on, kid. It ain’t gonna go down like that here.
+
+DANNY: How do you know?
+
+STEVE: People here aren’t like that. No one ever says anything about my weight. Well, maybe that’s because I broke Todd Sharpnack’s nose for calling me “Mr. Jiggles” when we were freshmen. But, whatever. People here are different. You’ll see. Heck, if anyone ever gives you troubles, I’ll break his nose.
+
+DANNY: You’re probably right. Thanks, Steve.
+
+STEVE: Come on, kid. I’ll buy you a Coke.
+
+DANNY: A Coke? What, so I can pee in it?
+
+STEVE: That’s what happened to my Coke? He peed in it? BLAAAARGFFF!
+
+(Scene: Library)
+
+CHIN-KEE: (Singing) Talk to me, terr me yo’ name! You brow me off rike it’s all da same! You rit a fuse, I am ticking away rike a bomb! Yeah baby! She bang! She bang! Yeah baby! She move! She move! I go clazy! ‘Cause she rook rike frower but she sting rike bee! Rike evely girl in histoly! She bang! She bang!... (Sees Danny) WHA? --?! Ah-so! Harro! Cousin Da-nee finarry come! Riblaly boling, so Chin- Kee entertain ferrow patlons wiff rivery song! Cousin Da-nee just in time for second set!
+
+DANNY: I’m sick of you running my life, Chin-Kee! I want you to pack up and go back to where you came from!
+
+CHIN-KEE: Ha! Ha! No, cousin Da-nee! Chin-Kee visit not over yet. Chin-Kee no reave until visit over!
+
+DANNY: Go away!
+
+CHIN-KEE: Chin-Kee stay.
+
+DANNY: (Smack)
+
+CHIN-KEE: Cousin Da-nee, prease! No understand—
+
+DANNY: (Smack)
+
+CHIN-KEE: Prease! No more!
+
+DANNY: (Smack)
+
+CHIN-KEE: Cousin Da-Nee no risten, now must suffer unmitigated fully of spicy Szechuan Dragon! WA-TA! Sirry Cousin Da-nee. Chin-Kee ruv Amellica. Chin-Kee rive for Amellica. Chin-Kee come visit evely year. Forever. Forever!
+```
+
+---
+
+## IC-1314: Angela’s Ashes
+
+- Title: Angela’s Ashes
+- Author (byline): Frank McCourt
+- Work: Not specified
+- Publisher: Scribner
+- Publication date as stated: May 1999
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: FRANK, PRIEST, GRANDMOTHER, GRANDMA, GRANDMOTER, MOTHER, MIKEY
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1366
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Frank McCourt
+ISBN: 978-0684842677
+Publisher: Scribner
+Date (Month/Year): May 1999
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+Crossed-eyed Mikey Molloy is eleven years old. He knows about the female body and “Dirty Things in General.” Mikey tells Frank a story of Irish mythology about the great Cuchulain’s wife, Emer, who was the “champion woman pisser of Ireland.” Uh – oh – And thus begins the story of Frank McCourt’s first confession and communion.
+
+Angela’s Ashes by Frank McCourt.
+```
+
+### Performance text (classify this)
+
+```text
+FRANK: It’s my turn. The confession box is dark and there’s a big crucifix hanging over my head. I can hear a boy mumbling his confession on the other side. I wonder if there’s any use trying to talk to the Angel on the Seventh Step. I know he’s not supposed to be hanging around confession boxes but I feel the light in my head and the voice is telling me, Fear not. The panel slides back before my face . . . (to Priest) Bless me, Father, for I have sinned. This is my First Confession.
+
+PRIEST: Yes, my child, and what sins have you committed?
+
+FRANK: I told a lie. I hit my brother. I took a penny from my mother’s purse. I said a curse. . . I, I listened to a story about Cuchulain and Emer.
+
+PRIEST: Surely that’s not a sin, my child. After all we are assured by certain writers that Cuchulain turned Catholic in his last moments.
+
+FRANK: ‘Tis about Emer, Father, and how she married him. (whispering) She won him in a pissing contest. (to audience) There is heavy breathing. The priest has his hand over his mouth and he’s making choking sounds and talking to himself, Mother o’ God.
+
+PRIEST: (trying to control is laughter) Who, who told you that story, my child?
+
+FRANK: Mikey Molloy. He read it in a book, Father.
+
+PRIEST: For your penance say three Hail Mary’s, and three Our Fathers.
+
+FRANK: Father, was that the worst sin? Am I the worst of all the boys, Father?
+
+PRIEST: No, you have a long way to go. God bless you, my child.
+
+FRANK: First Communion Day is the happiest day of your life because of The Collection and James Cagney at the Lyric Cinema. The night before I was so excited, I couldn’t sleep till dawn. I’d still be sleeping if my grandmother hadn’t come banging at the door.
+
+GRANDMOTHER: (knocking at the door) Get up! Get up! Get that child outa the bed! Happiest day of his life an’ him snorin’.
+
+FRANK: I ran to the kitchen. I took off [my] shirt and she pushed me into a tin tub of icy cold water. They dressed me in my black velvet First Communion suit with the white frilly shirt, the short pants, the white stockings, the black patent leather shoes.
+
+GRANDMOTHER: Come here till I comb your hair. Look at that mop, it won’t lie down. (she spits on his head to control the hair) You didn’t get that hair from my side of the family. That’s that North of Ireland hair you got from your father. That’s the kind of hair you see on Presbyterians. If your mother had married a proper decent Limerickman you wouldn’t have this standing up, North of Ireland, Presbyterian hair. (she spits on his head again)
+
+FRANK: Grandma, will you please stop spitting on my head.
+
+GRANDMA: If you have something to say, shut up. A little spit won’t kill you. Come on, we’ll be late for the Mass.
+
+FRANK: We ran to the church. My mother panted along behind with Michael in her arms. We arrived at the church just in time to see the last of the boys leaving the altar rail where the priest stood with the chalice and the host. (Priest assumes glaring stance) (Frank opens his mouth to receive communion and speaks with his mouth full) Then he placed on my tongue the wafer, the body and blood of Jesus. At last, at last! (look of surprise as the wafter sticks) It stuck! I had God glued to the roof of my mouth! I could hear the master’s voice:
+
+PRIEST: Don’t let the host touch your teeth for if you bite God in two you’ll roast in hell for eternity.
+
+FRANK: I tried to get God down with my tongue (tries to dislodge the wafer)
+
+PRIEST: (hissing) Stop that clucking and get back to your seat.
+
+FRANK: God was good. He melted and I swallowed Him and now, at last, I was a member of the True Church, an official sinner.
+
+When the Mass ended, there they were at the door of the church, my mother and my grandmother. They each hugged me and told me it was the happiest day of my life. They cried all over my head and after my grandmother’s contribution that morning my head was a swamp. (to Mom) Mam, can I go now and make The Collection?
+
+GRANDMOTER: No. You’re not making no collection till you’ve had a proper First Communion breakfast at my house. Come on.
+
+FRANK: We followed her. She banged pots and rattled pans and complained that the whole world expected her to be at their beck and call. I ate the egg, I ate the sausage, and when I reached for more sugar for my tea . . .
+
+GRANDMOTHER: (slapping his hand) Go aisy with that sugar. Is it a millionaire you think I am? An American? Is it bedecked in glitterin’ jewelry you think I am? Smothered in fancy furs?
+
+FRANK: The food churned in my stomach. I gagged. I ran to her backyard and (he throws up). Out she came.
+
+GRANDMOTHER: Look at what he did. Thrun up his First Communion breakfast. Thrun up the body and blood of Jesus. I have God in me backyard. What am I goin’ to do? (thinking) I’ll take him to the Jesuits!
+
+FRANK: She dragged me through the streets of Limerick. She told the neighbors and passing strangers about God in her backyard. She pushed me into the confession box. (to the Priest) In the name of the Father, the Son, the Holy Ghost. Bless me, Father, for I have sinned. It’s a day since my last confession.
+
+PRIEST: A day? And what sins have you committed in a day, my child?
+
+FRANK: I overslept. I nearly missed my First Communion. My grandmother said I have standing up, North of Ireland, Presbyterian hair. I threw up my First Communion breakfast. Now Grandma says she has God in her backyard and what should she do?
+
+PRIEST: (struggling to control his laughter) Ah … ah … tell your grandmother to wash God away with a little water and for your penance say one Hail Mary and one Our Father. God bless you, my child.
+
+FRANK: Grandma and Mam were waiting close to the confession box.
+
+GRANDMOTHER: Were you telling jokes to that priest in the confession box? (gives him a slap on the back of the head) If ’tis a thing I ever find out you were telling jokes to Jesuits I’ll tear the bloody kidneys outa you. Now what did he say about God in me backyard?
+
+FRANK: He said wash Him away with a little water, Grandma.
+
+GRANDMOTHER: (thinking) Holy water or ordinary water?
+
+FRANK: He didn’t say, Grandma.
+
+GRANDMOTHER: Well, go back and ask him. (pushing him back into the confessional)
+
+FRANK: Bless me, Father, for I have sinned, it’s a minute since my last confession.
+
+PRIEST: A minute! What is it now?
+
+FRANK: (embarrassed) My grandma says, Holy water or ordinary water?
+
+PRIEST: Ordinary water, and tell your grandmother not to be bothering me again.
+
+FRANK: (exiting the confessional) Ordinary water, Grandma, and he said don’t be bothering him again.
+
+GRANDMOTHER: Don’t be bothering him again! That bloody ignorant bogtrotter!
+
+FRANK: Can I go now and make The Collection? I want to see James Cagney.
+
+GRANDMOTHER: You can forget about The Collection and James Cagney because you’re not a proper Catholic the way you left God on the ground. Come on, go home.
+
+MOTHER: Wait a minute. That’s my son. That’s my son on his First Communion Day. He’s going to see James Cagney.
+
+GRANDMOTHER: (throwing her hands up) Take him then to James Cagney and see if that will save his Presbyterian North of Ireland American soul. Go ahead. (she exits in disgust)
+
+FRANK: We met Mikey Molloy on Barrington Street. He asked if I was going to the Lyric and I said I was trying.
+
+MIKEY: Trying? You don’t have money? That’s all right. I’ll get you in. I’ll create a diversion.
+
+FRANK: What’s a diversion?
+
+MIKEY: I have the money to go and when I get in, I’ll pretend to have the fit and the ticket man will be out of his mind and you can slip in when I let out the big scream. (demonstrates the scream) I’ll be watching the door and when I see you in, I’ll have a miraculous recovery. That’s a diversion. That’s what I do to get my brothers in all the time.
+
+MOTHER: Oh, I don’t know about that, Mikey. Wouldn’t that be a sin and surely you wouldn’t want Frank to commit a sin on his First Communion Day.
+
+FRANK: Mikey said if there was a sin it would be on his soul, and he wasn’t a proper Catholic anyway so it didn’t matter. He let out his scream and I slipped in. The ticket man was so worried over Mikey he never noticed! (triumphant grin that turns to horror as he realizes he has sinned again. He arrives at church the next day and enters the confessional)
+
+(to the Priest) In the name of the Father, the Son, the Holy Ghost. Bless me, Father, for I have sinned. It’s a day since my last confession.
+```
+
+---
+
+## IC-1315: Animals
+
+- Title: Animals
+- Author (byline): Simon Rich
+- Work: Spoiled Brats, Pg 1-18
+- Publisher: Little, Brown and Company
+- Publication date as stated: Oct 2014
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: PRINCESS JASMINE, HAILEY, MS. HUDSON, SIMON, ALYSSA, PRINCIPAL DAVENPORT, SIMON’S MOTHER, CARLOS, GIRL 1, GIRL 2, GIRL 3
+- Teaser before the introduction: Yes
+- Spoken words (computed): 1427
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Simon Rich
+Book: Spoiled Brats, Pg 1-18
+ISBN: 978-0316368629
+Publisher: Little, Brown and Company
+Date (Month/Year): Oct 2014
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+By the time Simon Rich graduated from Harvard he had a two-book deal from Random House. He also spent four years writing for Saturday Night Live (the youngest writer SNL ever hired) and about two years at Pixar and is now at work on a film and a television series. His stories eccentric, universally hilarious and often built on an unusual premise, or told from a surprising angle. This tale takes a looks at a typical week in a 2nd grade classroom of a elite private school . . . but the twist? Our narrator is a widowed hamster named . . . (wait for it) PRINCESS JASMINE!
+
+Animals by Simon Rich
+```
+
+### Performance text (classify this)
+
+```text
+PRINCESS JASMINE: (Pg 1-18) They buried my wife in a shoebox in Central Park. I like to imagine that the service was respectful, that her body was treated with a modicum of dignity. But of course, I’ll never know. I wasn’t invited to her funeral. Instead, the guests of honor were the students of homeroom 2K . . . Her killers.
+
+Hailey, I noticed, was crying. The irony. It was her responsibility to refill our water bottle last week. Instead, she spent all her free time with Alyssa, practicing a clapping game called “Miss Mary Mack.”
+
+HAILEY: (with enthusiasm) Miss Mary Mack, Mack, Mack! All dressed in black, black, black!
+
+PRINCESS JASMINE: It was that inane chant that provided the score to my wife’s final moments. . . Pocahontas was her name.
+
+PRINCESS JASMINE: My name is Princess Jasmine. I am a male, so this name is humiliating, but I’m aware that my situation could be worse. The other homeroom, 2R, has a guinea pig named Homer Simpson and an elderly turtle named New Kids on the Block. Pocahontas left me with three sons, and it’s for their sake alone that I keep up my struggle. Their names are Big Mac, Whopper, and Mr. T. It’s morning now. The square of sunlight on the blackboard grows and grows. Soon the gremlins will run in howling, hopped up on Pop-Tarts and primed for violence. It turns out this school is a private one, an “elite” institution for the children of millionaires. I can hear the nannies muscling their way through the lobby, dragging their little terrors toward my family. The bell clangs harshly. The nightmare has begun. Monday
+
+MS. HUDSON: What time is it?
+
+SIMON: Jobs time!
+
+PRINCESS JASMINE: My fur bristles as Ms. Hudson takes out the Jobs Board. This laminated poster, with its seventeen colorful squares, rules my family’s existence. It determines everything: whether we feast or starve, live or die. I rub my paws impatiently while Ms. Hudson assigns the week’s tasks. . . Pencil organizer . . . . Table Wipers . . . Eventually, she gets to the one job that matters.
+
+MS. HUDSON: Hamster feeder is…
+
+PRINCESS JASMINE: I scan the room. There are still some good candidates left. Maybe we’ll get lucky and end up with Caitlin? Last time she gave us double portions. It’s while I’m enjoying this fantasy that Ms. Hudson clears her throat and—with one little word—sentences my family to death.
+
+MS. HUDSON: …Simon.
+
+PRINCESS JASMINE: My eyes widen with horror.
+
+SIMON: (shouting) Hamster feeder? Whatchu talkin’ ’bout Willis!
+
+PRINCESS JASMINE: The other children laugh hysterically. My God, I think. This is it. This is how it ends.
+
+PRINCESS JASMINE: 11:25 am . . . I sigh with relief as Simon finally walks over to our cage. He doesn’t feed us, though, or replenish our water. Instead, he picks me up by my tail, which is connected directly to my spine. He swings me through the air drops me back into my cage. My sons poke their heads through the newspaper. They look around confusedly, then stare at me in dismay. They’re used to receiving food at this hour, but I have none to give. Simon has forgotten to do his one basic task. Our long, slow death march has started.
+
+Tuesday
+
+PRINCESS JASMINE: I awake to the sound of screeching laughter. Sophie and Alyssa have made a dress out of pink construction paper and taped it to my sleeping body.
+
+ALYSSA: You’re a pretty girl, Princess Jasmine! A pretty, pretty girl!
+
+PRINCESS JASMINE: I try to remove the costume, but the tape is double-sided and my paws are too weak to detach it. I must wear this “dress” indefinitely, in the presence of my own sons. I avoid their eyes, and they avoid mine. Whatever dignity I had is long gone. I can feel myself on the verge of becoming insane. When the final school bell rings. Carlos, the janitor walks from table to table, cleaning up after the beasts. The Jobs Board is a total farce, I think, as he sponges up their filth. Kristen and Sophie are table wipers in name only. At the end of the day, every job on the board belongs to Carlos. When Carlos sees us, he curses under his breath. I avert my eyes with shame. Our cage is full of feces. I know we’re not responsible for the condition of our prison, but it’s hard not to feel mortified. I look on with pity as the janitor collects our soiled newspaper. He refills our water bottle, and, for the first time in days, I allow myself to feel hope. Before he can find our feedbag, though, Principal Davenport has run into the room.
+
+PRINCIPAL DAVENPORT: Carlos, there you are! A kindergartener [soiled] himself in dance. Would you please take care of it?
+
+PRINCESS JASMINE: Carlos forces another smile and reaches for his mop. Wednesday
+
+PRINCESS JASMINE: The water tastes so rich it brings tears to my eyes. As I drink it, I can feel it coursing through my body, giving my parched veins life. I look over at my sons, asleep in their clean cage, their wet little noses twitching with contentment. Carlos has saved our lives. But for how long? Mercifully, the children are gone this morning. They’ve been given a break from their arduous studies to enjoy a “field day” at Randall’s Island. The classroom is blissfully quiet until lunchtime, when the hobgoblins return. Their red faces are streaked with grime and sweat. The smell is almost unendurable. Every child has somehow won an athletic trophy.
+
+SIMON: (Raising his golden prize over his head, he shouts) Boom shaka laka!
+
+PRINCESS JASMINE: When he walks by my cage, I peak at the engraving on his trophy. “Participation,” it reads. I wonder if Simon is aware that his trophy has no meaning, that all he participated in was a mass delusion?
+
+MS. HUDSON: Great job, everybody. That was some great teamwork today. Don’t forget to do your jobs!
+
+PRINCESS JASMINE: Simon doesn’t even look in our direction. This makes three straight days without food. It’s official: we are going to starve to death. Thursday
+
+PRINCESS JASMINE: As the sun rises on another hellish day, I gather my sons around me. I’ve rehearsed my speech all night, but it’s still hard to utter it. Eventually, with painful effort, I manage to force the terrible words through my lips. “If Simon forgets to feed us one more time… I want the three of you to eat my body.” Mr. T breaks down and weeps. But Big Mac and Whopper merely nod. They know it’s the only solution we have left. I can hear Simon’s voice before he even enters the classroom, as piercing and abrasive as a siren.
+
+SIMON: Whatchu talkin’ ’bout Willis! (As he presses his face against the bars of the hamster cage, he chants again and again) Whatchu talkin’ ’bout! Whatchu talkin’ ’bout! Whatchu talkin’ ’bout!
+
+PRINCESS JASMINE: His noxious Dorito breath engulfs me and I can feel the fury mounting in my chest. I think of the sound of my son weeping and the look my wife gave me as she drew her final breath. I have only a little strength left. But it’s enough to rise up and sink my teeth into the monster’s flesh. Friday
+
+PRINCESS JASMINE: Our cage has been moved to the principal’s office,
+
+PRINCIPAL DAVENPORT: Words can’t express how sorry I am! Safety is our top priority—I’m as appalled as you are that something like this could occur at our school.
+
+SIMON’S MOTHER: He had to get three stitches! The plastic surgeons say that the scar could be visible for months!
+
+PRINCESS JASMINE: I roll my eyes as Simon’s mother starts to cry.
+
+SIMON’S MOTHER: He’s just a little boy. And you let him be exposed to wild animals! I’m considering pressing charges. My lawyer says I have a real case. Simon had to take a rabies test, and when the nurse pricked his thumb, he cried and cried. The doctor said he’d never seen a boy cry like that.
+
+PRINCESS JASMINE: I smile proudly, thinking of this scene. [Then] Simon’s mother turns toward our cage, her eyes narrowing with rage.
+
+SIMON’S MOTHER: I want those animals out of the classroom . . . I want them destroyed.
+
+PRINCIPAL DAVENPORT: (clearing his throat) Of course. (He picks up a phone and calls for a janitor)
+
+PRINCESS JASMINE: Carlos arrives within seconds, mop in hand . . . . I can smell the Dumpster before I see it, an overflowing bin of putrid trash. My nose twitches painfully as I process all the stenches: decomposing Dunkaroos and mold-encrusted Pop-Tarts; rancid, soggy Lunchables and spoiled Nesquik. The monsters have accumulated so much waste this week, and now we’re to be added to the pile.
+
+CARLOS: (whispering) Sorry, little guys. (He scans the alley to make sure no children are watching, then tucks the cage under his arm and runs) Saturday
+
+PRINCESS JASMINE: I awake to the sight of three girl humans, gobbling pancakes and chatting rapidly.
+
+GIRL 1: What do we name the babies?
+
+GIRL 2: Snap, Crackle, and Pop!
+
+GIRL 3: The mommy should be Mrs. Fluffy, or Mrs. Furry, or…
+
+CARLOS: (interrupting) It’s not a mommy. It’s a daddy. And we’re going to call him Hercules.
+
+GIRL 1: (laughing) Hercules! Why?
+
+CARLOS: (Crouching down and looking into Hercules’ eyes) Because he’s tough. And strong. And he works long hours, even though it’s a living nightmare. (There is a sense he is talking about himself too)
+
+GIRL 2: (looking around nervously, she whispers) O.K. We’ll call him Hercules.
+```
+
+---
+
+## IC-1316: Anxiety with Tic Tacs From Drums, Girls and Dangerous Pie
+
+- Title: Anxiety with Tic Tacs From Drums, Girls and Dangerous Pie
+- Author (byline): Jordan Sonnenblick
+- Work: Drums, Girls and Dangerous Pie
+- Publisher: DayBue Publishing
+- Publication date as stated: May 2004
+- Event as filed: Humorous Interpretation
+- Record type: Cutting
+- Speaker labels in the text: none
+- Teaser before the introduction: Yes
+- Spoken words (computed): 2238
+- Already set (do not supply): none
+
+### Source block (context only)
+
+```text
+Author: Jordan Sonnenblick
+Book: Drums, Girls and Dangerous Pie
+ISBN: 096689409X
+Publisher: DayBue Publishing
+Date (Month/Year): May 2004
+```
+
+### Introduction (context only: never use it for content warnings)
+
+```text
+In this excerpt from Drums, Girls and Dangerous Pie . . . Steven relates the difficulty he has on a day that will always hold significance in his life. A day much like any other . . . a day when he was supposed to be watching his younger brother Jeffrey and making him breakfast . But accidents do happen and this particular morning Jeffrey had climbed up on a stool to watch the breakfast making activities. A slip, a fall, a rush of blood. It all happened so quickly. And as Steven was sent off to school, his mother took Jeffrey to the hospital just to make sure everything was OK. Anxiety with Tic Tacs by Jordan Sonnenblick.
+```
+
+### Performance text (classify this)
+
+```text
+I don't know about any of you, but when I'm nervous about something, I tend to think about it all day, unless I come up with a complicated mental trick to distract me. And even then, I'm still actually thinking about the thing by NOT thinking about it, if that makes any sense. It's like, if someone came up to you and said, "All right, now whatever you do, DON'T think of the color red." You'd try to picture a different color, or repeat a recipe over and over in your head, or count to a hundred and fifty-nine, but somewhere in the back of your mind, you'd be going, "Yellow. . . orange. . . red. . . DOH! Three eggs, separated. . . five slices American Cheese. . . red. . . DANG! One hundred seventeen. . . one hundred eighteen. . . look at Renee's red lipstick. . . ARGHH!"
+
+And that's how my October 7th went. I worked mightily to think about anything other than Jeffrey's gushing nose, but the distractions were truly pointless. In homeroom, after I figured out that my breath was going to present a challenge, I looked in the pocket of my Trapper Keeper for my box of Tic Tacs, and found that it was about three-quarters full. I quickly popped in a Tic Tac (orange, which I'm not even sure helps your breath anyway), and ran off to first period -Miss Palma's class. I did all the usual take-out-your - notebook stuff, but then became lost in my own little "Don't Think About Jeffrey" world.
+
+I used a trick that is pretty powerful for me; I came up with a really complex math problem to solve in my head:
+
+"A boy has a box of forty Tic Tacs, and the box is three quarters full. The Tic Tacs need to last through an entire school day and a bus ride home. The school day has seven periods. Each period is forty-four minutes long, with three minutes for passing between classes. Additionally, there is a twenty-two minute lunch period, and a four-minute after-noon homeroom period. The bus ride takes fifteen minutes, including the wait for the bus, boarding, and the actual time-in-transit. If the boy wants to make his Tic Tacs last until he arrives at home, how many minutes must he wait between Tic Tacs?"
+
+So while everybody else was writing whatever the day's journal was supposed to be, I was agonizing over the details of this math problem: "OK, there are HOW many three minute passing times? Seven, not counting the one before lunch. So eight. Eight times three is twenty-four. Plus the time in class, which is forty-four minutes times seven. . . ummm . . . OK, that's three hundred and eight minutes right there. And lunch is another twenty-two minutes, plus the bus is, like fifteen minutes. . . WAIT! Do I have to eat Tic Tacs during class? Who cares about my breath when I'm alone at my desk? But there IS group work in some. . ."
+
+Steven! Would you like to read your journal entry aloud?
+
+No, thank you, Miss Palma.
+
+Steven, I know I phrased that as a question, but it was really a command.
+
+Yes, but mine….well, it’s private.
+
+PRIVATE, Steven? (Again with the capital letters!)
+
+Yes, private.
+
+Through my haze of math and memory, I gradually noticed that the class was cracking up.
+
+Steven, I respect privacy but how private can your thoughts on this subject BE?
+
+Well. . . I . . .
+
+As it turns out, the topic was, "Should Foreign Languages Be Taught in Middle School?"
+
+Things like that happened all day. After math, just as I popped in my seventh Tic Tac, Renee Albert said to me, Steven, you are, like, out of, it today. Are you recovering from some kind of traumatic head injury, or somethinq?
+
+Well, sort of.
+
+Are you sort of remembering or faking some sort of an injury?
+
+Both. I fell off a stool this morning and. . .
+
+Oh, sorry, Stephen. I have to go talk to Jenna and Steph. Wait upl
+
+While Renee was attractively speed-walking away, Annette suddenly appeared next to me. It wasn't the first time I noticed this - how Renee kind of swished around in a cloud of perfume, and Annette just popped up like some spastic hand-puppet.
+
+Stephen, I heard about Jeffery, what happened? Annette sometimes watches Jeffrey on weekends.
+
+Well, his, head hit the counter in the kitchen, and it started bleeding.
+
+A lot?
+
+Yeah. My mom is going to the hospital with him. They went to the emergency room. And now I’m going to be in trouble but I didn’t even do …
+
+Is he okay? I bet he’s really scared!
+
+I don't know.
+
+And the bell rang, which meant I'd be late to social studies, and Annette would be late to science. While Annette ran away down the empty hall it suddenly hit me that I hadn't even thought about how Jeffrey was feeling about this. And I didn't really want to think too hard about it, because I knew he'd be terrified. Plus, now I had to go get a late pass, which probably meant I'd get a detention. So Jeffrey was getting me in trouble again, as usual.
+
+The high point of my day was my drum lesson. We have this thing called "Opportunity Period," or "O.P." It's the last period of the day, and if you don't owe work in any of your classes, or need tutoring, or have detention, you get to do fun stuff. Most of the kids like to go to gym during O.P. -the track, the weight room, and the pool are all open, and you can play basketball or volleyball, too. But some go to art or choir. And, of course, every chance I get, I go to the band room. A few times a week. I used to get individual lessons on the drum set with the band teacher, Mr. Watras, during O.P. On this particular day, Mr. W. got called to the office for something, so I had about fifteen minutes to just play drums, with nobody else around. I started out with some simple beats. When my hands and feet started to loosen up, I switched over to this really complicated Latin rhythm I'd been working on. It took a lot of concentration to keep all four limbs moving independently of each other, which was perfect. It meant I wasn't thinking about Jeffery's fall, or late passes, or even Renee Albert. I was just playing.
+
+After keeping the beat going for five minutes or so, I burst into a big solo. I always think of it that way: "Here comes Steven, bursting into his Big Solo. Watch those hands-they're too quick to follow. Holy cow, this kid is a magician!" Like there's a Monday Night Football commentator standing over my left shoulder. Anyway, I really was flying. I started with both hands doing a kind of shuffled march on the snare drum, pretty quietly. As I gradually got louder, I started flicking little quick shots at the high toms. Then I threw in some big "bombs" with my bass drum foot. Soon, I had an incredibly fast paradiddle going between my left hand and my right foot, while my left foot was keeping time on the high-hat cymbals and my right hand was going back and forth between the ride cymbal and the floor tom.
+
+The door opened, and I opened my eyes and looked up (I never open my eyes when I'm practicing by myself-my private teacher always used to say if you don't know where the drums are, you're probably playing the wrong instrument). Mr. W was back. Behind him, I could see a few kids I didn't know-probably sixth graders on their way somewhere -looking in. They started clapping when I looked their way, which was pretty cool. I hadn't been showing off on purpose, but I can't say I minded the applause. I stood up and took a quick bow for them. Mr. W. smiled and complimented me on my "showmanship." That's yet another cool thing about music: if you show off in sports you're a "hot dog," if you show off in class, you're a "brainiac," but if you show off in drumming, people love it.
+
+Mr. W. told me that my Latin rhythm was sounding a little stiff, and put on a CD for me to listen to. It was this old jazz album by Dizzy Gillespie.
+
+This should help you out. It's by a cat named Dizzy. Yes, he said "cat." Music teachers have their own lingo.
+
+Dizzy Gillespie, the trumpet player, right? My grandfather once told me about him.
+
+The tune’s called “Cubano Be, Cubano Bop.”
+
+When the tune came on, I couldn't believe it. There were probably about five drummers on the track, and they were going crazy! The conga drum player was especially wild, playing insane fill-ins all over the place. At the same time, the trumpets were blasting like a herd of elephants, with Dizzy's horn flying high above everything else. Then, just when it seemed there couldn't possibly be any way to get more energy into the music, everyone stopped playing except the conga guy, and a man's voice started chanting in what sounded like Spanish. The chant got faster and faster, the congas got louder and louder, a whole chorus of men came in, shouting "Cubano be, Cubano bop" over and over, and the horns all roared back to life. Then, with one last explosion from the conga player, the song was over.
+
+Could you feel that, Pez?
+
+Mr. W. is the conductor of the All-City High School Jazz Band, which is how I got in. He knew that the nickname "Peasant" bugged me, so one day he started calling me "Pez" for short, which was much better.
+
+Could I feel it? That’s just the coolest thing I’ve ever heard in my life!
+
+Good. I hope that later in the month you can get that conga part down.
+
+What do you mean?
+
+Well, I’ve decided that the spring concert is going to be all Latin and this song is going to be the finale! Would you like to play conga on it?
+
+Of course, I was dying to play that part, but Mr. W is one of those rare teachers who can actually take a joke.
+
+Oh I don’t know Mr. W, I was really hoping to play cowbell on it….or maybe…triangle?
+
+Get out of here kid! You’re going to miss your bus!
+
+I triumphantly popped my second-to-last Tic Tac into my mouth and strolled out of the room, whistling "Cubano Be, Cubano Bop."
+
+My temporary good cheer lasted until I got on the bus. Renee Albert caught my eye (well, OK, she always catches my eye), and spoke:
+
+How’s the brain injury?
+
+Which brought me back to reality really, really fast. I kept going toward the back of the bus without saying anything to Renee, and sat down next to Annette. I had planned to tell her all about "Cubano Be, Cubano Bop," but now my mind was back on Jeffy.
+
+I heard that Steven. It’s really cool that you were confident enough to just ignore her.
+
+Ignore her? I didn’t ignore her, I was just too stupid to think of a comeback. And now I’m going to go home and find out what happened with my brother and how long I'LL be qrounded for making breakfast.
+
+What?
+
+Long story. When Jeffy fell this morning I was making him oatmeal. I had him up on the stool, and my mom thinks he shouldn’t be on there unless someone is like an inch and a half away. I thought I was being NICE by making him what he wanted while the rents were SLEEPING. I'm going to get maimed.
+
+Well, your mom was right in a way.
+
+What do you mean?
+
+He DID fall, right?
+
+Thanks Annette. Thanks a Lot. That’s exactly what I needed to hear right now. You’re a very inspiring person, you know that?
+
+I was just trying to…
+
+Trying to what? Show me what a horrible brother I am?
+
+I didn't mean to make you. . .
+
+Feel bad? Well, you did. I've been worrying about it all day!
+
+By this point, we were pulling up to my stop. I got up to storm off the bus, but had to wait while Renee got her stuff together in the middle of the aisle. Plus, Renee took her time walking off, too, so I had to plod along behind her. It's hard to storm and shuffle at the same time, let me tell you.
+
+When I got off the bus, I watched Renee walk - no, glide - away. Then I looked up at Annette as the bus started to move. Maybe it was the slanted fall sun glaring off the window, but it almost looked like she was crying. Great.
+
+I let myself into my house and found my mom standing in the foyer, like she had been waiting for me. When I might be in trouble, I usually try to speak first, before the 'rents start in on me. So I plunged right in. Mom, I’ve been worried all day. Is Jeffrey okay? She said, in this strange, soft voice: Steven, your brother is really sick. Sick? Was it because he. ..? The fall this morning had nothing to do with it. Whew! I'm off the hook. But he's really. . .sick.
+
+And this was the absolute worst thing about last October 7th, the one moment I’ll never forgive myself for. When my mother began to tell me that my baby brother had leukemia, my first feeling was relief.
+```
+
+---
+
+## IC-1317: Arsenic and Old Lace
+
+- Title: Arsenic and Old Lace
+- Author (byline): Joseph Kesselring
 - Work: Not specified
 - Publisher: Dramatists Play Service
-- Publication date as stated: 2010
-- Event as filed: Duo Interpretation
+- Publication date as stated: June 1995
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: ACTRESS, MAMA, CHRISTIAN, OSEMBENGA, SALIMA, SOLDIER, KISEMBE
+- Speaker labels in the text: ABBY, MINISTER HARPER, TEDDY, MARTHA, MORTIMER, ROONEY, ELAINE, WITHERSPOON
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1685
+- Spoken words (computed): 1470
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Lynne Nottage
-ISBN: 978-0822223900
+Author: Joseph Kesselring
+ISBN: 978-0822200659
 Publisher: Dramatists Play Service
-Date (Month/Year): 2010
+Date (Month/Year): June 1995
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTRESS: The Congo – a country devastated by civil war,
+Martha and Abby; two elderly sisters. The epitome of grace, community service and decorum. After all they’ve cared for their delusional nephew Teddy for years now, and what is more commendable than that?
 
-ACTOR: Where an estimated 48 women are raped every hour . . .
+Enter Mortimer Brewster, another nephew, who uncovers the true extent of Martha and Abby’s community service -- helping lonely, unhappy men find peace with a little glass of elderberry wine.
 
-ACTRESS: Where the death toll has reached over 5.4 million – the deadliest conflict since World War II
-
-ACTOR: Today, it is still one of the most dangerous places on Earth.
-
-ACTRESS: And in the heart of the conflict, we find Mama Nadi’s brothel – a safe haven for a few women who have escaped the villages.
-
-ACTOR: But how can a war be resolved when all factions are prone to unbridled violence?
-
-ACTRESS: How can a country and its people be anything other than . . .
-
-TOGETHER: Ruined by Lynn Nottage
-
-(Pg 29-31) Commander Osembenga, a pompous peacock of a man in dark sunglasses, a gold chain, and a jogging suit, struts into the bar. He wears a pistol in a harness. Osembenga stands erect waiting to be acknowledged.)
+Arsenic and Old Lace by Joseph Kesselring
 ```
 
 ### Performance text (classify this)
 
 ```text
-Suggested Roles: ACTOR: Christian (traveling salesman), Osembenga (head of government forces), Kisembe (head of rebel forces) and Soldier (rebel)
+ABBY: (Pg 6-7) My sister Martha and I have been talking about your sermon last Sunday. Living here next to the church all our lives, we’ve seen so many ministers come and go. [And now] with the war trouble, I’ve almost come to the conclusion that this Mr. Hitler isn’t a Christian.
 
-ACTRESS: Mama (owner of the brothel), Salima (a prostitute sold to Mama by Christian)
+MINISTER HARPER: I must admit, Miss Abby, that war and violence seem far removed from these surroundings.
 
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
+ABBY: It is peaceful here, isn’t it?
 
-MAMA: (pg 8-10) (Impatiently.) What did you bring me?
+MINISTER HARPER: Yes – peaceful. The gentle virtues that went out with candlelight and good manners.
 
-CHRISTIAN: Go on. Take a peek in the truck.
+TEDDY: (Pg 12) (Enters the room with sweeping strides) CHARGE! (blows his bugle) Charge the blockhouse!
 
-MAMA: How many?
+ABBY: (Pg 7) Teddy, your brother Mortimer will be here a little later.
 
-CHRISTIAN: Three.
+TEDDY: (baring his teeth in a broad grin) Dee-lighted! (exits with another bugle blow)
 
-MAMA: I don’t know. They look used. Worn.
+MINISTER HARPER: (Pg 12) Have you ever tried to persuade him that he wasn’t Teddy Roosevelt?
 
-CHRISTIAN: C’mon, Mama. Take another look. You’ve said it yourself business is good. (Mama considers, then finally.)
+MARTHA: He’s so happy being Teddy . . .
 
-MAMA: Okay, one. That one in front. (Points) How much? How much for the one?
+ABBY: Once, a long time ago, we thought if he would be George Washington, it might be a change for him.
 
-CHRISTIAN: It’s been a good week, and I’ll tell you what, I’ll give you two for the price of one. Why not?
+MARTHA: But he stayed under his bed for days and just wouldn’t be anybody.
 
-MAMA: Are you deaf? No. Tst! I don’t need two more mouths to feed. (then reconsiders) But, I’ll only pay for one. (Yelling.) Josephine! Josephine! Take them out back. Get them washed and some proper clothing. . . (to Christian) Did you at least tell them this time?
+ABBY: And we’d so much rather he’d be Mr. Roosevelt than nobody. (to Martha) Martha, dear, Dr. Harper has made all arrangements for Teddy to go to Happy Dale Sanitarium after we pass on (Pg 13) and arranged for Mr. Witherspoon.
 
-CHRISTIAN: Yes. They know and they came willingly. Salima is from a tiny village. She was captured by rebel soldiers; the poor thing spent nearly five months in the bush as their concubine. She says her husband is a farmer, and from what I understand, her village won’t have her back. Because . . .
+MINISTER HARPER: He’s the Superintendent of Happy Dale . . .
 
-MAMA: And the other?
+ABBY: To drop in tomorrow to meet Teddy.
 
-CHRISTIAN: Sophie. Sophie is . . . is . . . Look, militia did ungodly things to the child, took her with . . . a bayonet and then left her for dead. And she was – ruined.
+TEDDY: (racing into the room again) That’s bully! Just bully!
 
-MAMA: (Flirtatiously.) Good evening.
+MORTIMER: (Pg 15) (Mortimer Brewster enters) Hello, Aunt Martha, Aunt Abby (Air kisses)
 
-OSEMBENGA: It is now. (He gives the place a once-over.)
+TEDDY: (Pg 18) Hello, Mortimer!
 
-MAMA: Can I get you something?
+MORTIMER: (gravely with a salute) How are you, Mr. President?
 
-OSEMBENGA: Bring me a cold Primus. A pack of cigarettes, fresh. (Mama produces a chair for Osembenga, then she fishes into the cooler for a beer.)
+TEDDY: Bully; thank you. Just bully! What news have you brought me?
 
-MAMA: Monsieur, I must ask you to leave your bullets at the bar, otherwise you don’t come in.
+MORTIMER: Just this, Mr. President, the country is squarely behind you.
 
-OSEMBENGA: And if I choose not to.
+TEDDY: (beaming) Yes, I know. Isn't it wonderful? (beat) Well, good-bye. [I’m off to] Panama!
 
-MAMA: Then you don’t get served. I don’t want any mischief in here. Is that clear? (Osembenda is charmed by her tenacity. He laughs with the robust authority of a man in charge.)
+(He exits to cellar)
 
-OSEMBENGA: Do you know who I am?
+MARTHA: (Pg 41) We let him dig the Panama Canal in the cellar.
 
-MAMA: I’m afraid you must edify me. And then forgive me, if it makes absolutely no difference. Once you step through my door, then you’re in my house. And I make the rules here. (Osembenga laughs again.)
+MORTIMER: (Pg 18) (knowingly) Panama's the cellar. (he crosses to the desk and looks through drawers as he speaks to the aunts) (Pg 20) By the way, I left one of the chapters of my book on Thoreau here. Now where could I have put that?
 
-OSEMBENGA: All right, Mama. Forgive me. (Osembenga makes a show of removing the bullets from his gun and placing them on the table.) And who said I don’t respect the rule of law?
+ABBY: (Pg 21) (turned away, arranging the afternoon’s tea service) I do hope the play tonight will be something you can enjoy for once. What’s the name of it?
 
-MAMA: Monsieur, I don’t recall seeing you here before. What brings you to mon hotel?
+MORTIMER: "Murder Will Out.'' (he continues searching as he speaks) When the curtain goes up the first thing you'll see will be a dead body! (he lifts the window-seat and sees a dead body; not believing it, he drops window-seat then throws it open and stares in. In a strained voice) Aunt Abby!?
 
-OSEMBENGA: Jerome Kisembe, the rebel leader. (Osembenga studies her face to gauge the response.) You know him, of course.
+ABBY: (at sideboard) Yes, dear?
 
-MAMA: I know of him. We all know of him. His name is spoken here at least several times a day. We’ve felt the sting of his reputation.
+MORTIMER: You were going to make plans for Teddy to go to that . . . sanitarium . . .Happy Dale?
 
-OSEMBENGA: So, you do know him.
+ABBY: Yes, dear, it's all arranged. Dr. Harper was here today and brought the papers. Here they are. (He takes them from her)
 
-MAMA: No, as I said I know of him. His men control the road east and the forest to the north of here.
+MORTIMER: Teddy's got to go to Happy Dale now. Tonight!
 
-OSEMBENGA: Is that so?
+MARTHA: (enters with table settings) There's no such hurry as that.
 
-MAMA: Yes, but you must know that. (Osembenga speaks to Mama, but he is clearly addressing everyone in the audience.)
+ABBY: (Pg 22-23) No. When Teddy starts working on the canal you can't get his mind on anything else.
 
-OSEMBENGA: This Jerome Kisembe is a dangerous man. You hide him and his band of renegades in your villages. Give them food, and say you’re protecting your liberator. What liberator? What will he give the people? That is what I want to know! What has he given you, Mama? Hm? A new roof? Food? Peace?
+MORTIMER: Right away, I tell you! Right away!
 
-MAMA: Me, I don’t need a man to give me anything.
+ABBY: (turning to Mortimer) Why, Mortimer, how can you say such a thing?
 
-OSEMBENGA: Make a joke, but Kisembe has one goal and that is to make himself rich on your back, Mama. (Osembenga grows loud and more forthright as he speaks.) He will burn your crops, steal your women, and make slaves of your men all in the name of peace and reconciliation. Don’t believe him. He, and men like him, these careless militias wage a diabolical campaign. They leave stains everywhere they go. And remember the land he claims as his own, it is a national reserve, it is the people’s land, our land. And yet he will tell you the government has taken everything, though we’re actually paving the way for democracy.
+MORTIMER: (Trying to be calm) Listen, darlings, I'm sorry, but I've got some shocking news for you. You know we've humored Teddy because we thought he was harmless.
 
-MAMA: I know that, but the government needs to let him know that. But you, I’m only seeing you for the first time. Kisembe I hear his name every day.
+MARTHA: Why he is harmless!
 
-OSEMBENGA: Then hear my name, Commander Prestige de Bembe Osembenga. (A moment. Mama absorbs the news, she seems genuinely humbled.) You will hear my name quite a bit from now on.
+MORTIMER: He was harmless. You've got to know sometime. It might as well be now, Teddy's killed a man! He has to be confined. (he points to window seat) There's a body in the window-seat!
 
-MAMA: Commander Osembenga, forgive me for not knowing your name. Karibu. [Welcome.] It’s a pleasure to have such an important man in our company.
+ABBY: Yes, dear, we know.
 
-OSEMBENGA: You are a practical woman, I know that you have the sense to keep your doors closed to rebel dogs. Am I right?
+MORTIMER: You know?
 
-MAMA: (an aside to audience) (Pg 51) My doors are open to everybody. And that way trouble doesn’t settle here. (to Osembenga) Of course. (calling for one of her girls) (Pg 16) Salima! Salima, come!
+MARTHA: Of course, dear, but it has nothing to do with Teddy.
 
-SALIMA: (Salima, disgusted, bristles at the sound of her name. She reluctantly approaches and does a little shimmy for Osembenga) So, “gangsta,” you wanna dance with me? . . . .
+MORTIMER: But who is he?
 
-(Osembenga responds and then freezes in place as Salima steps out of the scene he will exit as Salima begins her story) . . . (Pg 22) (to audience) Sometimes their hands are so full of rage that it hurts to be touched. (long pause as Salima remembers the past) (Pg 45-46) Do you know what I was doing on that morning? I was working in our garden picking the last of the sweet tomatoes. I put Beatrice down in the shade of a tree, because my back was giving me some trouble. The sun was about to crest, but I had to put in another hour before it got too hot.
+ABBY: His name's Hoskins. Adam Hoskins. That's really all I know about him -- except he's a Methodist.
 
-CHRISTIAN: (pg 28) (Christian enters and also addresses the audience in a separate but interlocking monologue) It’s scaring me. I was just by Yaka-Yaka. When I was there six months ago, it was a forest filled with noisy birds, now it looks like God spooned out heaping mouthfuls of earth! It’s been ugly, but never like this. Not here.
+MORTIMER: Well, what's he doing here? What happened to him?
 
-SALIMA: (Pg 45-46) It was such a clear and open sky. This splendid bird, a peacock, had come into the garden to taunt me, and was showing off its feathers. I stooped down and called to the bird. “Wssht, Wssht.” And I felt a shadow cut across my back, and when I stood four men were there over me, smiling, wicked schoolboy smiles.
+MARTHA: He died.
 
-CHRISTIAN: (Pg 50) (with urgency) Listen, listen to me. I saw a boy, take a machete to a man, sever his neck, a clean blow and lift the head in the air like a trophy.
+MORTIMER: Aunt Martha, men don't just get into window seats and die.
 
-SALIMA: (Pg 45-46) “Yes?” I said. And the tall soldier slammed the butt of his gun into my cheek. Just like that. It was so quick, I didn’t even know I’d fallen to the ground. Where did they come from? How could I not have heard them?
+ABBY: [Silly boy] No, he died first.
 
-CHRISTIAN: (Pg 50) Men were hollering. “We strong warriors, we taste victory. We will kill!”
+MORTIMER: Well, how?
 
-SALIMA: (Pg 45-46) One of the soldiers held me down with his foot. He was so heavy, thick like an ox and his boot was cracked and weathered like it had been left out in the rain for weeks. His foot was so heavy and it was all I could see, as the others . . . “took” me. My baby was crying. She never cried, but she was crying, screaming. “Shhh,” I said. “Shhh.” And right then (Salima closes her eyes.) A soldier stomped on her head with his boot. And she was quiet. (A moment. Salima is overcome with grief.)
+ABBY: Oh, Mortimer. The gentleman died because he drank some wine with poison in it.
 
-CHRISTIAN: (Pg 50-51) Oh shit, my hand, my hand is still shaking. This . . . this man Osembenga is evil. He plays at democracy. But we have to pretend that all this ugliness means nothing. We wash the blood off with buckets of frigid water, and whitewash our walls.
+MORTIMER: How did the poison get in the wine?
 
-SALIMA: (Pg 45-46) I fought them! I did! But they still took me from my home. They took me through the bush, raiding thieves. F**** demons!
+MARTHA: Well, we put it in wine because it's less noticeable. When it's in tea it has a distinct odor.
 
-SOLDIER: “She is for everyone, soup to be had before dinner,”
+MORTIMER: You put it in the wine?
 
-SALIMA: They tied me to a tree by my foot, and the men came whenever they wanted soup. I make fires, I cook food, I listen to their stupid songs, I carry bullets, I clean wounds, I wash blood from their clothing, and, and, and … I lay there as they tore me to pieces, until I was raw … five months. Five months. Chained like a goat. These men fighting … fighting for our liberation. Still I close my eyes and I see such terrible things. Things, I cannot stand to have in my head. How can men be this way? (A moment.) How did I get in the middle of their fight? What did I do? I must have done something. (Salima fades offstage as Kisembe, leader of the rebel forces enters, zipping his pants)
+ABBY: Yes. And I put Mr. Hoskins in the window-seat because Dr. Harper was coming.
 
-MAMA: (Pg 51-52) Kisembe, I hope my girls gave you good company.
+MORTIMER: So, you knew what you'd done! You didn't want Dr. Harper to see the body!
 
-KISEMBE: Very. It is good to be back, Mama. Where’s everyone?
+ABBY: Well, not at tea -- that wouldn't have been very nice. (Mortimer is speechless)
 
-MAMA: You tell me. It’s been this way for a week. I haven’t seen but a handful of minders.
+MARTHA: (Pg 24-25) Dear, stop being so excited.
 
-KISEMBE: It is Commander Osembenga. He is giving us some trouble. His men set fire to several of our mining villages. They took machetes to anything that moves. This is their justice. Believe me, when we find Osembenga and his collaborators, he will be shown the same mercy he showed our people.
+ABBY: And for pity's sake stop worrying. We told you to forget the whole thing.
 
-SALIMA: (Mama fades back into Salima to finish her story) (Pg 45) Five months in the bush, passed between the soldiers like a wash rag. Used. (Pg 47) I walked into the family compound expecting wide open arms. An embrace. Five months, suffering. I suffered every single second of it. And he, the man I loved since I was fourteen chased me away with a green switch. (Pg 45) He called me a filthy dog, and said I tempted them. Why else would it happen? I was made poison by their fingers, that is what he said. He had no choice but to turn away from me, because I dishonored him. (Pg 47) He was too proud to bear my shame . . . but not proud enough to protect me from it. (Salima fades)
+MORTIMER: Well, you can't leave him there.
 
-KISEMBE: (Pg 52-53) They say we are the renegades. They bring soldiers from Uganda, drive us from our land and make us refuges . . . and then turn us into criminals when we protest or try to protect ourselves. I wish [I] could stay all day, but duty calls. (Exits)
+MARTHA: We don't intend to, dear.
 
-MAMA: (Pg 57) You men kill me. You come in here, take your pleasure, and then wanna judge the way I run my “business.” The front door swings both ways. I don’t force anyone’s hand. My girls, ask them . . . ask them, they’d rather be here, any day, than back out there in their villages where they are taken without regard. They’re safer with me, than in their own homes.
+ABBY: No, Teddy's down in the cellar now digging.
 
-OSEMBENGA: (Enters) (Pg 62) This soldier said he saw Jerome Kisembe here.
+MORTIMER: You're going to bury Mr. Hotchkiss in the cellar?
 
-MAMA: This soldier is liar.
+MARTHA: Yes, dear, that's what we did with the others.
 
-OSEMBENGA: Where is Kisesmbe? (Frightening. Menacing) Tell me where I can find Kisembe.
+MORTIMER: Others? More than one others?
 
-MAMA: I don’t know where he is . . . (to audience with ferocity) (Pg 57) I didn’t come to here as Mama Nadi, I found her the same way miners find their wealth in the muck. I stumbled off of that road without two twigs to start a fire. I turned a basket of sweets and soggy biscuits into a business. I don’t give a damn what any of you think. This is my place, Mama Nadi’s! (Pg 59) Let all the mother-hating soldiers fight it out. ‘Cuz in the end do you think that will change anything here?
+MARTHA: Oh, yes, dear. Let me see, this is eleven. Isn't it, Abby?
 
-A resource with background information regarding the Congolese conflict and examples of the dialect for this selection can be viewed here and is highly recommended. https://www.youtube.com/watch?v=NXvZdTvQGiI&index=1&list=PLF6F07EC529297AF2
+ABBY: No, dear, this makes twelve. Well, anyway, they're all down in the cellar.
+
+MORTIMER: (floored) Who was the first one?
+
+ABBY: Mr. Midgely. He was a Baptist.
+
+MARTHA: Of course, I still think we can't claim full credit for him because he just died.
+
+ABBY: Martha means without any help from us. You see, Mr. Midgely came here looking for a room . . .
+
+MARTHA: (Pg 26-27) He was such a lonely old man. . .
+
+ABBY: All his kin were dead and it left him so forlorn and unhappy -- And then when his heart attack came -- and he sat dead in that chair (Pointing) looking so peaceful, we made up our minds then and there that if we could help other lonely old men to that same peace, we would!
+
+MARTHA: (giggling)Teddy had been digging in Panama and he thought Mr. Midgely was a Yellow Fever victim.
+
+ABBY: That meant he had to be buried immediately.
+
+MARTHA: So, we all took him down to Panama and put him in the lock.
+
+MORTIMER: And that's how all this started -- that man walking in here and dropping dead.
+
+ABBY: Of course, we realized we couldn't depend on that happening again. So . . .
+
+MARTHA: You remember those jars of poison that have been up on the shelves in Grandfather's laboratory? Well, dear, for a gallon of elderberry wine I take one teaspoonful of arsenic, then add a half teaspoonful of strychnine and then just a pinch of cyanide.
+
+MORTIMER: Should have quite a kick.
+
+ABBY: Yes! As a matter of fact, one of our gentlemen found time to say "How delicious!"
+
+MORTIMER: (Pg 31) (sputtering) You can’t do things like that! It’s not only against the law. It’s wrong! It’s not a nice thing to do.
+
+ABBY: Mortimer, we don’t try to stop you from doing thing you like to do. I don’t see why you should interfere with us.
+
+TEDDY: (Pg 39) (enters from cellar, blows a terrific blast on his bugle) CHARGE!
+
+ABBY: (Pg 45-46) Teddy! Teddy, there’s been another Yellow Fever victim. (with a finger to her lips) We must keep it a secret.
+
+TEDDY: A state secret? (he’s excited) You have the word of the President of the United States
+
+(crosses his heart)
+
+ABBY: Go back down in the cellar and when it’s all dark, you come up and take the poor man down to the Canal.
+
+MARTHA: And we’ll come down later and hold services.
+
+TEDDY: Where is the poor devil?
+
+MARTHA: He’s in the window seat.
+
+TEDDY: It seems to be spreading. We’ve never had Yellow Fever there before. (blows his bugle and exits) ***** [Spoken Transition: The next day after reports of horrendous bugle blowing from the neighbors, police officer Rooney arrives at the Brewster residence] ****
+
+MORTIMER: (a knock; Mortimer answers the door) (Pg 84) Captain, I'm Mortimer Brewster.
+
+TEDDY: (Pg 83) (butting in) There are bodies in the cellar.
+
+ROONEY: Who are you?
+
+TEDDY: I’m President Roosevelt
+
+MORTIMER: (Pg 84) My brother Teddy -- the one who blew the bugle.
+
+ROONEY: (to Teddy) (Pg 83) Well, you’ve blown your last bugle. (to Mortimer) (Pg 84) He's got to be put away!
+
+TEDDY: (Pg 83) (interjecting) All the bodies in the cellar are Yellow Fever victims.
+
+MORTIMER: (Pg 84) I quite agree with you. ln fact, it's all arranged for.
+
+ROONEY: Where's he going?
+
+MORTIMER: Happy Dale.
+
+ROONEY: All right, I don't care where he goes as long as he goes!
+
+MORTIMER: Oh, he's going all right. But I want you to know that everything that's happened around here Teddy's responsible for. Now, those bodies in the cellar . . .
+
+ROONEY: (thinks this is a joke) Yeah, yeah, those bodies in the cellar! It ain't enough his disturbing the peace with that bugle, but can you imagine what would happen if that cock-eyed story about bodies in the cellar got around? And now he's starting a Yellow Fever scare. (shakes his head and chuckles)
+
+MORTIMER: (Greatly relieved, with an embarrassed laugh) Bodies. Do you think anybody would believe that story? (a knock the door)
+
+MORTIMER: Will you excuse me? (He goes to door and admits Elaine and Mr. Witherspoon, an elderly, tight-lipped disciplinarian)
+
+ELAINE: (Pg 85) This is Mr. Witherspoon, the superintendent of Happy Dale. He's come to meet Teddy.
+
+ROONEY: (introducing himself) Lieutenant Rooney. I'm glad you're here, because you're taking him back with you today!
+
+WITHERSPOON: Today? I had no idea it was this immediate.
+
+ROONEY: The papers are all signed, he goes today! There's your man! (pointing at Teddy)
+
+TEDDY: (livid) Complete insubordination! You men will find out I'm no mollycoddle. When the President of the United States is treated like that -- what's this country coming to?
+
+MORTIMER: (trying to calm things down, he speaks to Teddy as to a child) Mr. President, I have very good news for you. Your term of office is over.
+
+TEDDY: (thinking) OH! Now I go on my hunting trip to Africa! Well, I must get started immediately. (he looks at Witherspoon suspiciously) Is he trying to move into the White House before I've moved out?
+
+MORTIMER: Who, Teddy?
+
+TEDDY: (pointing at Witherspoon) Taft!
+
+MORTIMER: This isn't Mr. Taft, Teddy. This is Mr. Witherspoon. (enthusiastically) He's to be your guide in Africa.
+
+TEDDY: (Shakes hands with Witherspoon) (Pg 86) Bully! Bully! (he turns to the Aunts) Good-bye, Aunt Abby . . . Aunt Martha. I’m on my way to Africa – isn’t it wonderful? CHARGE! (Teddy and Mortimer exit upstairs and Rooney exits outside to wait)
+
+ABBY: (Pg 93) Mr. Witherspoon? Does your family live with you at Happy Dale?
+
+WITHERSPOON: I have no family.
+
+MARTHA: Well, I suppose you consider everyone at Happy Dale your family?
+
+WITHERSPOON: As head of the institution, I have to keep quite aloof.
+
+ABBY: That must make it very lonely for you. (with a knowing nod to Martha) Well, Martha, I think we should at least offer Mr. Witherspoon a glass of elderberry wine.
+
+MARTHA: (pouring a glass) We make it ourselves.
+
+WITHERSPOON: Why, yes . . . You don’t see much elderberry wine nowadays. (He takes the glass and toasts the ladies; then keels over)
+
+TEDDY: (off stage) (Pg 85) CHARGE! (Bugle blast)
 ```
 
 ---
 
-## IC-0902: The Sasmann Aesthetic
+## IC-1318: Babel’s In Arms
 
-- Title: The Sasmann Aesthetic
-- Author (byline): Jules Tasca
-- Work: 35 in 10: Thirty-five Ten-minute Plays
-- Publisher: Dramatic Publishing
-- Publication date as stated: 2005
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: DOCTOR, HOWARD
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1664
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Jules Tasca
-Book: 35 in 10: Thirty-five Ten-minute Plays
-ISBN: 1583422838
-Publisher: Dramatic Publishing
-Date (Month/Year): 2005
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-TOGETHER: The Sassman Aesthetic by Jules Tasca
-```
-
-### Performance text (classify this)
-
-```text
-DOCTOR: Would you please tell Mr. Sasmann to come in. (After a beat, Howard Sasmann enters. He is a well-built man who wears a pullover shirt and a pair of form-fitting white pants. The Doctor greets him) Howard Sasmann, I’m Dr. Bullock.
-
-HOWARD: Good morning, Dr. Bullock.
-
-DOCTOR: Good morning.
-
-HOWARD: I was supposed to see a Dr. Eric Gutig, I believe.
-
-DOCTOR: I’m his associate. Dr. Gutig’s caught up in an emergency right now.
-
-HOWARD: You mean the guy in the restraints who’s yelling he’s Jesus?
-
-DOCTOR: We don’t discuss other patients, Mr. Sasmann.
-
-HOWARD: I understand a professional ethic, Doctor. But your Jesus is obviously mentally ill. I’m not. Let me clear that up right now. I don’t really belong in a crazy house.
-
-DOCTOR: Mr. Sasmann, this is a hospital, sir.
-
-HOWARD: I stand corrected, Doctor. It is a hospital. All I’m trying to say is that there’s nothing wrong with me.
-
-DOCTOR: All right. But can we just talk for a while?
-
-HOWARD: All talk all you like, but there’s nothing the matter with me.
-
-DOCTOR: Married?
-
-HOWARD: No, I’m not.
-
-DOCTOR: Girlfriend?
-
-HOWARD: I date a couple of girls, yes. And they’re both upset over this, too. It got into the papers.
-
-DOCTOR: So I read.
-
-HOWARD: I need to explain to them that there’s nothing the matter with me. The papers made me into an evil person.
-
-DOCTOR: All right. Then let me hear it from you. What are you doing here at Morrisville State Hospital?
-
-HOWARD: You know what I’m doing here. You have my file.
-
-DOCTOR: You tell me in your own words.
-
-HOWARD: It was a deal. It was a deal my lawyer made with the judge. Coming here kept me out of jail. I agreed to come here as an outpatient to keep from going to prison. And I have to continue coming here until I’m deemed cured, Dr. Bullock. Does that correlate with what you have in that folder?
-
-DOCTOR: It does.
-
-HOWARD: And there’s nothing wrong with me. Prison. That judge threatened me with prison. Oh, I don’t say I don’t possess the same quirks as every man, but psychologically, there’s nothing wrong with me.
-
-DOCTOR: Often . . . Often we perceive that nothing’s wrong, Mr. Sasmann, because a person falls into a pattern of behavior that brings pleasure or security. But, in many cases, certain behaviors are . . . are destructive to a person’s life and he or she doesn’t see that if he . . .
-
-HOWARD: It’s not destructive. It’s harmless. Harmless. And I lost my job over this harmless.
-
-DOCTOR: You taught English at Community College.
-
-HOWARD: Until I was arrested. And now I’m unemployed.
-
-DOCTOR: Why do you think it’s okay for you to go to the beach and . . .
-
-HOWARD: It’s harmless, I tell you. I’ve done it for years.
-
-DOCTOR: And almost always have gotten away with it.
-
-HOWARD: Away with what? Most of the girls smiled.
-
-DOCTOR: But not all. And the judge called it assault, Mr. Sasmann.
-
-HOWARD: It is not – not- assault, Doctor, to kiss someone. Assault. Jesus. There’s nothing – absolutely nothing – violent about Howard Sasmann. I wouldn’t know how to be violent. (He turns away from the Doctor, pause)
-
-DOCTOR: Look, Mr. . . May I call you Howard?
-
-HOWARD: (Turning back to her). Please . . .
-
-DOCTOR: Howard, I don’t know if most people would agree that what you’re doing is acceptable.
-
-HOWARD: Most people live in a narrow band of the spectrum of life, Doctor. I don’t.
-
-DOCTOR: Uh-huh.
-
-HOWARD: Is that uh-huh agreement or disapproval? Most people . . .
-
-DOCTOR: Howard, let’s look at this realistically. You go to the beach and . . . and you . . . kiss women’s buttocks . . .
-
-HOWARD: Yes.
-
-DOCTOR: Then you run off.
-
-HOWARD: Run off. The way you say it. I just go on my way. Run off. You make it sound pathological.
-
-DOCTOR: Then you say it. You tell me in your own words what this is all about. (Pause) Howard . . .
-
-HOWARD: I . . I . . I like women’s buttock s, Doctor. In my sexual map, a woman’s buttocks are the main roads, thoroughfares and railroad lines. Do you understand?
-
-DOCTOR: You’re saying you have a fixation on a woman’s . . .
-
-HOWARD: Why do you make everything sound so clinical? Fixation. Come on, Doctor. In Africa, men are attracted to elongated lips. So much so that women insert pieces of wood under the skin to stretch them even longer. In Japan, men prize a woman’s neck and so dresses are designed to flatter and display a woman’s neck. Here in the U.S., dresses are cut low and bras amply push up the mammary flesh for those men with a propensity for breasts. And on the beach, women wear thongs and bikinis, so that men who admire that anatomical splendor, a woman’s rear, might partake of its beauty. Beauty, Doctor. Oh, God, when did beauty become pathology?
-
-DOCTOR: Howard, you’re correct. There’s nothing wrong with a person, male or female, having a certain fetish, but in the case of . . .
-
-HOWARD: There, you did it again.
-
-DOCTOR: Did what again?
-
-HOWARD: You’re making it all sound like something from a medical case history. Fetish . . . fetish . . .
-
-DOCTOR: A fetish is simply a . . .
-
-HOWARD: I know what a fetish is, Doctor.
-
-DOCTOR: Then go on. Tell me what it is. Why you feel this compulsion . . .
-
-HOWARD: I suppose you can’t think any other way. Compulsion. Now it’s a compulsion. Your job is to make a malady out of every human whimsy that this repressed society looks askance at. Why is it a compulsion? Beauty attracts human beings. And, I might add, the most sophisticated of human beings. It’s supposed to. You call that profound attraction a compulsion?
-
-DOCTOR: You said you’ve been doing it for years and years . . .
-
-HOWARD: Dr. Bullock, I’ve been shaving my face for years, too. And I’ve been eating corned beef on rye for years. I don’t consider those actions to be compulsions. I like a clean shave, and I love the taste of corned beef, and when I go to the beach and I see – excuse me, Doctor, the perfect ass . . . I enjoy going up and kissing it. It brings me pleasure. It makes me excited for my girlfriends. It’s not a matter of compulsion, though it’s compelling. It’s not a fetish, but a defining female attraction. Dr. Bullock, try to understand, that to me the admiration of a tanned, oiled, shimmering derriere is a matter of . . . of . . .
-
-DOCTOR: Of what?
-
-HOWARD: Of aesthetics.
-
-DOCTOR: Aesthetics?
-
-HOWARD: Aesthetics. Yes. You know how a beautiful sunset captures the human eye simply because it’s beautiful. You stop. You watch as the mighty wings of fire spread and float beneath the ocean’s blue. It brings peace and tranquility. A woman’s buttocks well formed is just another object of beauty on this earth: the firm rounded flesh where almost touching halves create the curved path of the split; the straight lines of the legs veering up to meet the delicate arcs; the tantalizing cross where the buttocks sensually crease atop the line of the thigh. Good God. It’s the perfect human confluence of geometric forms in the body, Doctor. And when I kiss the anatomical precision, my kiss is a a salute to the wonderment of nature’s sculptural handiwork. (Pause. Dr. Bullock stares at him a long beat.) Doctor? Dr. Bullock? Is something wrong?
-
-DOCTOR: No. No, I . . . I understand what you’re saying.
-
-HOWARD: I’m sorry for getting myself all worked up.
-
-DOCTOR: That’s perfectly all right, Howard. You’re giving me your perspective. I understand. You have this spontaneous desire to . . .
-
-HOWARD: Desire . . . desire’s okay. Yes, desire. I have a simple desire. . .
-
-DOCTOR: Regardless of the terminology we use, Howard, you can’t go to the public beaches and just . . . just salute women’s buttocks as if they were the stars and stripes.
-
-HOWARD: But you agree there’s nothing wrong with me?
-
-DOCTOR: People can’t just go off and act out all the desires they have.
-
-HOWARD: You didn’t answer my question.
-
-DOCTOR: I’m not a judge and jury. I’m a doctor. Just because you’re more articulate than the average nuisance at the beach . . .
-
-HOWARD: Nuisance?
-
-DOCTOR: . . . doesn’t change the fact that you’re going to have to exhibit self-control.
-
-HOWARD: I told you most of those girls smiled afterward, I swear to you, Doctor. It was just misfortune that this last time, the woman happened to be a lieutenant in the police department. Just my luck; a cop with a hall-of-fame rear end. Doctor, listen to me. For one question, can we be Howard and Grace?
-
-DOCTOR: Go ahead.
-
-HOWARD: Thank you . . . Grace . . . Grace, have you . . . have you ever looked at a man’s body and seen some part of that body that attracts you? (Pause) Doc . . I mean, Grace?\
-
-DOCTOR: How’s this going to address your dilemma? Of course, women look at men’s bodies and find them the object of . . . well . . . in fact, when I go to the tennis club, I see one fellow who must work out. He had an outstanding physique and I always look and . . and . . . and admire.
-
-HOWARD: You see. You see.
-
-DOCTOR: But I have the self-control not to go up to him in the middle of a forehand and kiss him.
-
-HOWARD: Which part of this fellow’s body attracts you the most?
-
-DOCTOR: I’m Dr. Bullock now.
-
-HOWARD: Okay. Okay. I’m sorry. I just wondered.
-
-DOCTOR: So what else would you like to say? I have to write up a summary of this visit.
-
-HOWARD: How many visits must I make before you consider informing the courts that my lips are no longer a threat to society?
-
-DOCTOR: I can’t say right now. But I do want to prescribe a tranquilizer.
-
-HOWARD: A tranquilizer?
-
-DOCTOR: It’ll help calm the compulsion – sorry, but that’s the nomenclature.
-
-HOWARD: Doctor, com on. Tranquilizers?
-
-DOCTOR: Just during the beach season, Howard, show the judge you’re doing something. What am I going to report that we discussed – aesthetics? (She writes the prescription)
-
-HOWARD: You’re right. A prescription. The judge’ll like that. This is a good idea. A prescription. I’ll fill it and I don’t even have to take it, right? I’ll show the courts my pills. Yes. It’s a good idea ( She hands him the prescription). Thank you.
-
-DOCTOR: You’re welcome, Howard.
-
-HOWARD: Two weeks . . . all right . . . two weeks . . . all the killers running loose and she handcuffs me on the beach and reads me Miranda. What a mess, Doctor.
-
-DOCTOR: Now . . Now. . . don’t worry. I think we can work this all out. (She pats his behind gently as she says this. He turns and looks at her.) I’m sorry. I’m sorry. I didn’t mean to be familiar.
-
-HOWARD: That’s . . . that’s all right. I understand (He smiles.)
-
-DOCTOR: I don’t know what came over me.
-
-HOWARD: I’m not embarrassed.
-
-DOCTOR: I apologize.
-
-HOWARD: I said I understand. SO this guy at the tennis court then, you . . .
-
-DOCTOR: (cutting him off) Two weeks, Mr. Sasmann . . . please . . . please . . . I have other patients . . . (Howard raises his hand as if to apologize for lingering and to say goodbye. Then he exits. She crosses downstage as the lights fade.) Holy cow, what came over me? What?
-```
-
----
-
-## IC-0903: Scripted
-
-- Title: Scripted
-- Author (byline): Mark Harvey Levine
-- Work: Best Ten-Minute Plays for 2 Actors: 2004 (Pg 67+)
-- Publisher: Smith and Kraus
-- Publication date as stated: Oct 2004
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: ELAINE, SIMON, ELAINE AND SIMON
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1411
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Mark Harvey Levine
-Book: Best Ten-Minute Plays for 2 Actors: 2004 (Pg 67+)
-ISBN: 978-1575253367
-Publisher: Smith and Kraus
-Date (Month/Year): Oct 2004
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: Do you keep experiencing the same situations over and over again?
-
-ACTRESS: Do you keep wishing things would turn out differently; only to have it end up the same way time and again?
-
-ACTOR: Despite your best efforts, does it always seems to be the same old story?
-
-ACTRESS: Even if we recognize it or not, our lives are compelled by a story; it follows a script that we have either written for ourselves or it has been written for us by others.
-
-ACTOR: Are you a hero or a victim, or lesser, just an extra scene – lost in the mass? Whatever you might be, you need to realize you are the central character of your life story.
-
-ACTRESS: And you have the power to change it!
-
-TOGETHER: Scripted by Mark Harvey Levine
-```
-
-### Performance text (classify this)
-
-```text
-A comfy, lived-in bedroom. SIMON and ELAINE asleep. The alarm goes off.
-
-ELAINE: (Pg 67+) Oh, God, don’t make me get up. . . (Simon reaches over to turn off the alarm. His hand rests on a script. He picks it up.) What time is it? (Simon is engrossed in the script.) Simon? What time is it?
-
-SIMON: (reading from the script) “It’s. . . 7:20. . . ”
-
-ELAINE: You didn’t even look at the clock. . . (Simon looks at the clock.)
-
-SIMON: It IS 7:20. . . (Simon looks back at the script - reading) “It IS 7:20. . . ”
-
-ELAINE: Whatcha got?
-
-SIMON: This isn’t yours?
-
-ELAINE: No. . .
-
-SIMON: I found it. . . on the nightstand. . .
-
-ELAINE: What is it?
-
-SIMON: It’s. . . a. . . script. . .
-
-ELAINE: You mean like for a movie?
-
-SIMON: No. . . For us. It’s us. It’s-- This is what’s happening right now.
-
-ELAINE: What? What are you talking about. . . ?
-
-SIMON: Say something. Say anything.
-
-ELAINE AND SIMON: (simultaneously) The cows are barking at midnight! How did you do that? Stop that! STOP IT!!
-
-ELAINE: Simon, my God how are you doing this?
-
-SIMON: I don’t know! I don’t know! I just found this script. Our script. This is-- I know everything you’re about to say.
-
-ELAINE: What do you mean?! What do you mean?!
-
-SIMON: Look! Read it!
-
-ELAINE: Oh my God. . . it knows what I’m going to say. . . what I’m saying. . . right now. . . Aaugh! (She drops the script. He picks it up.)
-
-SIMON: And we can’t seem to help saying. . . (turns page) . . . what we’re supposed to say.
-
-ELAINE: Well. . . just don’t. Say something different. Look at your next line, and say something else. Anything else. . .
-
-SIMON: (struggling) I. . . can’t. . . (Elaine grabs the script.)
-
-ELAINE: (reading) “I can’t.” (panicking) Okay. Okay. Okay.
-
-SIMON: All right, let’s not panic.
-
-ELAINE: I’m not panicking. . .
-
-SIMON: Yes you are -- it says so, in parentheses. . . “Elaine. . . panicking. . . ”
-
-ELAINE: Don’t look at it! Just don’t look! Put it down! Put it down! (She throws the script to the floor. They cross as far away from it as they can, clutching each other.)
-
-SIMON: All right. . . let’s stay calm. . . let’s try to think here. . .
-
-ELAINE: How can we stay calm?! Simon, we’ve got our lives. . . our own words written down and plonked on our nightstand!
-
-SIMON: It wasn’t there last night. . .
-
-ELAINE: So who put it here? Who wrote this? Someone came in while we were asleep? Into our apartment?
-
-SIMON: How could anyone know what we’re going to say? Elaine, I think. . . someone. . . is trying to tell us something. . .
-
-ELAINE: Someone?
-
-SIMON: Y’know. . . God. . .
-
-ELAINE: No! No No No! Stop that! I don’t want God to tell me things! The God I believe in does NOT drop off scripts in the middle of the night!
-
-SIMON: Maybe it’s a warning! Maybe something horrible happens today. . . and we have a chance to prevent it. . .
-
-ELAINE: You think?
-
-SIMON: We have to see.
-
-ELAINE: Okay, but don’t let go of me. (Together, they shuffle over to the script. Simon gingerly picks it up. Pause. Dramatically, he opens it.) AAAAAUGH! (Simon drops it as if it were alive.) Sorry. Sorry. I’m just scared. Go ahead, I’m not even gonna look. (He picks the script up again. Elaine looks away. He starts to read.)
-
-SIMON: Okay. . . okay. Let’s see. Well, I’m going to be late for work. Probably ‘cause I’m standing here reading this thing. (flips ahead more) You sing show tunes while you grade papers?
-
-ELAINE: Only when I’m upset. You don’t find this horribly frightening?
-
-SIMON: No. . . I mean, yes, but. . . I think it’s kinda neat. . . (reads further) Your mom’s gonna call.
-
-ELAINE: Oh, great. (She looks at the script.) My God. . . our whole conversation is in here. This is so embarrassing. Look —- it takes us three pages to get off the phone. (reading both parts) “All right. . . ” “Okay. . . ” “I’ll talk to you later. . . ” “All right. . . ” “So everything’s okay?” “Everything’s okay.” “All right. . . ” “Okay. . . ” God! We sound so stupid all written down like this.
-
-SIMON: Look at me, I never finish a sentence. All my lines end in “dot, dot, dot”. . .
-
-ELAINE: Simon. . . I’m scared--
-
-SIMON: I know, sweetie. . .
-
-ELAINE: No, I mean, what if. . . what if one of us. . . dies. . . in this? What if that’s why this is here?
-
-SIMON: Well, then,. . . we’ll just avoid whatever it is. I mean, y’know, if it’s a car wreck or something, then we’ll just stay inside. . .
-
-ELAINE: That never works. You’ve watched the Twilight Zone. Y’know, the car crashes through the house anyway.
-
-SIMON: Well, then, lemme look at the end. Let’s see how this thing ends.
-
-ELAINE: Oh God. Okay.
-
-SIMON: I mean, we have to know. . .
-
-ELAINE: Okay. (Terrified, he turns to the last page. They both exhale in relief.)
-
-SIMON: We’re alive.
-
-ELAINE: We just say goodnight and go to bed. That’s nice. . .
-
-SIMON: It looks like our whole day is here. . .
-
-ELAINE: Okay, then. Let’s read it from the beginning. I want to know what happens.
-
-SIMON: Are you sure?
-
-ELAINE: Yeah. . . Yes.
-
-SIMON: Okay. . . here we go. . . (He flips back to the beginning. They begin to read. The lights change a few times to denote passage of time. They finish reading.)
-
-ELAINE: The end.
-
-SIMON: That’s it?
-
-ELAINE: That’s it.
-
-SIMON: Nothing happened.
-
-ELAINE: Thank God.
-
-SIMON: I mean. . . NOTHING happened. . .
-
-ELAINE: I was so terrified something horrible was-- I mean, even if nobody died, we could have-
-
-SIMON: It’s kind of cool. . . to see what it looks like, the way we talk, and. . . but. . . y’know something? That was the most boring thing I’ve ever read.
-
-ELAINE: I know, and I’m thrilled. I’ve had enough excitement for one day.
-
-SIMON: So why is this here? Why did we get this script? What’s the -- y’know, "Why is this day different from all other days?" And. . . it’s not. It’s just another completely interchangeable day.
-
-ELAINE: Simon, what do you want? Car chases? Shootouts? We’re real people. Perfectly wonderfully boringly normal. I have to go to the bathroom. (Elaine exits to the bathroom.)
-
-SIMON: Yeah, that’s it. We go to the bathroom, we watch a little TV, and the next thing you know you’re sixty-five years old.
-
-ELAINE: (Off-stage) Oh, God.
-
-SIMON: I mean. . . I got so excited when we found this, y’know? I was terrified. . . but I thought-- Wow! SOMETHING incredible must happen today! And we’ve been warned because. . . I don’t know, because we’re special or something.
-
-ELAINE: (O.S., brushing her teeth) Well, at least we know what our day’s going to be like.
-
-SIMON: What, that I go to work and make labels for the archive while you stay at home and grade papers?
-
-ELAINE: (O.S., still brushing) Well-- (spits) Yeah. (spits)
-
-SIMON: We don’t need a script for that! I could've told you that yesterday! I could've told you that three days ago! I mean, if you’d like, I can write out all of next week for you. . .
-
-(Elaine reenters. Pause.)
-
-ELAINE: Are we that predictable? (Simon waves the script at her.) Oh, right.
-
-SIMON: I mean, really. Why NOT drop the script off first thing in the morning. We don’t DO anything. This way, we can just read our whole day and go right back to bed.
-
-ELAINE: . . . Wanna rob a bank?
-
-SIMON: You know what I mean. I mean, I just saw my entire day, and I want my money back.
-
-ELAINE: Every day can’t be a wild adventure, Simon. NOBODY lives like that. That’s the movies, that’s TV. There’s nothing wrong with going to work, earning your pay, coming home to your sweetie who, by the way, loves you, going to bed and saying good night. The end. I like that day. That’s a good day.
-
-SIMON: Would you pay to go see it?
-
-ELAINE: Maybe not but I’m thrilled to live it.
-
-SIMON: I’m not. Elaine. . . it’s like. . . Do you know who my Great Grandfather was?
-
-ELAINE: No.
-
-SIMON: . . . Neither do I. I’m only three generations away and he’s completely VANISHED. He didn’t leave a trace. I don’t want to vanish when the curtain closes. I don’t want to just have a nice normal boring life until one day I’m gone and the next day my Great Grandson doesn’t even know what my name was.
-
-ELAINE: Nobody gets remembered forever. Except for, y’know, Lincoln. And Kennedy. Maybe you can get assassinated.
-
-SIMON: I just want to. . . I want them to remember me, and say “He was great”.
-
-ELAINE: Y’know, I think this is a generational thing. Our parents were quite happy to get married and have children and homes and jobs and that was it. It’s only our generation where you have to win a Pulitzer or you’ve failed.
-
-SIMON: Yeah, well, they did this to us.
-
-ELAINE: I don’t feel like I have to be “great”. I just want to have a great life, y’know?
-
-SIMON: Well, you’ve read this thing. Was it great?
-
-ELAINE: Every DAY doesn’t have to be whiz-bang to make a -- Wait, do you remember mentioning your Great Grandfather?
-
-SIMON: Just now?
-
-ELAINE: No, in the script. You didn’t bring him up in the script, did you?
-
-SIMON: No. . . No!
-
-ELAINE: You changed your line.
-
-SIMON: I changed my line. (laughs) I changed my line!
-
-ELAINE: Look in the script. (Simon finds the appropriate section. He screams in horror.) What?
-
-SIMON: (He shows her) A pink replacement page!
-
-ELAINE: My God.
-
-SIMON: But we can change it. We CAN change it.
-
-ELAINE: So. . . let’s change it. What do you want to do?
-
-SIMON: I don’t know. I just want to do something. Y’know? So that if anyone DOES remember us, they’ll say we were. . .
-
-ELAINE: A real couple of characters?
-
-SIMON: Yeah! Right.
-
-ELAINE: So, what, we’re going to totally change our lives? Quit our jobs, move to Peru and become goat farmers?
-
-SIMON: I don’t think that would be terribly fulfilling. No, y’know what I want? I want a pink replacement page, at least one, every day. Every day we have to do at least one completely unexpected. . . crazy. . . memorable . . . thing.
-
-ELAINE: Okay, well, let’s start right now. Gimme a pen. (She grabs one from a nightstand.)
-
-SIMON: What are you doing?
-
-ELAINE: A little rewriting.
-
-SIMON: (peering over her shoulder) Goodness!. . . Well, now we know why I’m going to be late for work. . .
-
-ELAINE: (writes a little more) What do you think?
-
-SIMON: I think. . . I think you write really good stage directions. I think. . . I’m going to remember today.
-
-ELAINE: (As she writes the final sentence) They. . . kiss. Lights. . . out. (They kiss.)
-```
-
----
-
-## IC-0904: Seascape with Shark and Dancer
-
-- Title: Seascape with Shark and Dancer
-- Author (byline): Don Nigro
-- Work: Not specified
-- Publisher: Samuel French, Inc.
-- Publication date as stated: Dec 1985
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: BEN, TRACY
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1842
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Don Nigro
-ISBN: 978-0573619724
-Publisher: Samuel French, Inc.
-Date (Month/Year): Dec 1985
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: This play is set in a beach bungalow.
-
-ACTRESS: Ben, the man who lives there has pulled
-
-ACTOR: Tracy, a lost young woman, from the ocean.
-
-ACTRESS: Soon, she finds herself trapped in his life and torn between her need to come to rest somewhere and her certainty that all human relationships turn eventually into nightmares.
-
-ACTOR: The struggle between his tolerant and gently ironic approach to life and her strategy of suspicion and attack becomes a kind of war about love and creation which neither can afford to lose.
-
-ACTRESS: This scene is the climactic scene after Tracy discovers she is pregnant and decides that an abortion is the best solution
-
-ACTOR: Ben does not agree.
-
-TOGETHER: Seascape with Shark and Dancer by Don Nigro
-```
-
-### Performance text (classify this)
-
-```text
-BEN: Why don’t you tell me what’s wrong? The suspense is killing me.
-
-TRACY: You won’t like it.
-
-BEN: That’s okay. Suffering is good for me. What is it?
-
-TRACY: Ben –
-
-BEN: You’re pregnant.
-
-TRACY: I’m pregnant. I told you you wouldn’t like it.
-
-BEN: It isn’t necessarily a bad thing.
-
-TRACY: Except that we can’t afford it and aren’t married and we didn’t want it.
-
-BEN: Besides that it’s all right.
-
-TRACY: Besides that. Terrific.
-
-BEN: There’s no reason to get upset. The damage is already done.
-
-TRACY: Damage. That’s a nice way to put it.
-
-BEN: I think we ought to go to bed now and talk about it tomorrow.
-
-TRACY: Our lives are ruined an all you want to do is go to bed. Why don’t you hit me or something? Just once I wish you’d wind up and punch me right in the mouth. You’re so insensitive. You and me and baby shit from now on, huh? Sounds wonderful.
-
-(The next morning. Tracy enters from the bedroom, still dressing.)
-
-TRACY: Why did you let me miss my morning classes? Do you know it’s eleven thirty? What are you doing home at eleven thirty?
-
-BEN: (entering behind her) I came home for lunch.
-
-TRACY: You never come home for lunch.
-
-BEN: Today I came home for lunch.
-
-TRACY: Answer the question.
-
-BEN: I forgot the question.
-
-TRACY: Why didn’t you wake me up before you went to work.
-
-BEN: I though you needed the rest.
-
-TRACY: Don’t you think I’m the one that ought to decide that?
-
-BEN: You were asleep. You slept through the alarm. I tried to wake you up. You called me a dirty goat-***** and went back to sleep. I decided you’d made your decision. I’m sorry.
-
-TRACY: Stop saying you’re sorry.
-
-BEN: I lied. I’m not sorry.
-
-TRACY: That’s better.
-
-BEN: Thank you.
-
-TRACY: You’re welcome.
-
-BEN: What have we got to eat?
-
-TRACY: A jar of mayonnaise, some maple syrup, two onions and the great American novel.
-
-BEN: I thought you went to the store yesterday.
-
-TRACY: I did. I got maple syrup.
-
-BEN: Well, do you want onions and mayonnaise, or onions and maple syrup, or mayonnaise and maple syrup?
-
-TRACY: I don’t want anything. I have to go.
-
-BEN: Where do you have to go?
-
-TRACY: Ben . . .
-
-BEN: What? What’s wrong? There’s something wrong. You don’t say Ben like that unless there’s something wrong.
-
-TRACY: Nothing’s wrong. (Pause; Ben waits) I know you don’t really want to have a baby.
-
-BEN: How do you know that?
-
-TRACY: I just know.
-
-BEN: You don’t know.
-
-TRACY: How do you know?
-
-BEN: How do I know what?
-
-TRACY: How do you know I don’t know?
-
-BEN: I know you don’t know because I told you and I meant it when I said it and I mean it now and that’s how I know you don’t know whatever it was we were talking about.
-
-TRACY: That’s easy for YOU to say.
-
-BEN: No it’s not.
-
-TRACY: You’re just saying that.
-
-BEN: If I was just saying that I wouldn’t be here just saying that, I’d be on a Greyhound bus to Venezuela.
-
-TRACY: I was talking to one of the girls at the restaurant.
-
-BEN: I didn’t know they could talk.
-
-TRACY: She was telling me about when she got pregnant.
-
-BEN: Sorry I missed it.
-
-TRACY: She went to somebody.
-
-BEN: A doctor?
-
-TRACY: No. Well, yes, but –
-
-BEN: A part time doctor. A veterinarian?
-
-TRACY: LISTEN, DUMBASS.
-
-BEN: I’m listening, I’m listening.
-
-TRACY: She said she went to this very nice doctor and it wasn’t hardly any trouble at all and then it was all over and –
-
-BEN: Hold it, wait a minute, stop.
-
-TRACY: It’s the easiest thing in the world and –
-
-BEN: Tracy –
-
-TRACY: If she could do it so easy, I don’t see why –
-
-BEN: No.
-
-TRACY: Well, it isn’t like it’s against the law or anything.
-
-BEN: No. End of conversation. No.
-
-TRACY: It isn’t like there’s anything wrong with it, and it hardly takes any time at all, and –
-
-BEN: I said no.
-
-TRACY: What do you mean, NO? Just who the HELL do you think you ARE, anyway?
-
-BEN: It’s my baby, that’s who I am.
-
-TRACY: It’s my baby and don’t call it a baby. It isn’t a baby. It isn’t anything yet and it isn’t going to be because I’m going to do it and you can’t stop me.
-
-BEN: It’s as much mine as yours and you . . . you . . . just can’t.
-
-TRACY: Of course I can. I have an appointment this afternoon. It’s all perfectly safe and legal.
-
-BEN: You made an appointment to do that before you even told me you were pregnant?
-
-TRACY: Don’t yell at me. I wasn’t going to tell you at all, but you made me last night.
-
-BEN: You weren’t even –
-
-TRACY: What difference does it make? I should never have told you at all. Men get so hysterical.
-
-BEN: You’re incredible. All by yourself you decide to murder our child –
-
-TRACY: Stop calling it a child. It isn’t a child. It isn’t anything. You can’t murder somebody that doesn’t exist. God, you’re so stupid. Reactionary. Selfish. People do it all the time. They do it all the time.
-
-BEN: I don’t care what people do all the time. I don’t do it all the time.
-
-TRACY: I don’t believe I’m having this conversation. All this time, unbeknownst to me, I’ve in reality been sleeping with Herbert Hoover. You didn’t even know about it until last night. You’ve never seen it. If I hadn’t told you, you’d never have known it existed. It probably looks like a fish or something now. You’ll forget all about it in a couple of days and be damned happy you didn’t have to spend the rest of your life worried about it.
-
-BEN: You have no right to do that without at least –
-
-TRACY: Some slimey little amphibian I don’t even know is crawling around in my stomach and I don’t have any right?
-
-BEN: I don’t care if it makes sense or not or if it seems fair or not, if you do that you can forget all about me. I won’t sleep with you, I won’t live in the same house with you, I won’t even be able to look at you.
-
-TRACY: What are you getting so upset about?
-
-BEN: I don’t know, but I mean it.
-
-TRACY: Well, all right, you just go right ahead. I’m pretty sick of you anyway. God, what a straight. You’re just like my father.
-
-BEN: I can’t stand your father.
-
-TRACY: You sound like the Pope or something.
-
-BEN: If I was the Pope you wouldn’t be pregnant.
-
-TRACY: Don’t bet on it.
-
-BEN: Why are we talking about the Pope? Do I care about the Pope? WHO GIVES A GOOD GODDAMN ROYL FLYING SHIT ABOUT THE POPE, ANYWAY?
-
-TRACY: DON’T YOU DARE INSULT THE POPE.
-
-BEN: I don’t care what your father thinks and I don’t care what’s legal or how nice the doctor is or what other people think is wrong or right. This isn’t happening to other people, it’s happening to US, and I’m scared that if you kill that thing inside you you’ll be killing us too, and I don’t want that to happen. TRACY; If you can treat me like this when I’m the one that has to be fat and sick and have the pain then maybe we’re already dead. Maybe we always were (pause; much more quietly) Lit a potato, for instance. You don’t think of a sack of old potatoes as being alive, do you? But they sit around in the cupboard and then after a while they start to sprout and there’s things growing out of them and all, but it isn’t like you’d say the potato was alive or anything. I mean, you wouldn’t give it a name or take it to the park in a stroller or anything. It might be growing, sort of, but it isn’t really alive, and it isn’t really even growing, really, it’s just that part of it is turning into something else. And that’s all this thing inside me is doing. It’s growing, sort of, but it isn’t alive, it’s just a part of me that go hooked up with a part of you and started turning into something else. (pause) It’ll be like having a wart removed. That’s what it’s like. (long pause) I have to go. (She seems to be waiting for something) And you’d better not try and stop me.
-
-BEN: I don’t think I’m going to try to stop you.
-
-TRACY: You mean it’s all right?
-
-BEN: I didn’t say it was all right. I said I don’t think I’m going to try and stop you.
-
-TRACY: Well, good. Because I’m going. So goodbye. (Ben is looking at his hands. She hesitates, starts towards the door, then stops) Ben? Are you okay? I wish I could tell what you’re thinking. You never tell me. I can’t get inside you. I can’t get to know you, I don’t know what to do with you, it’s like you’re from another planet or something, you drive me nuts. (pause) You hate me. (pause) IT’s not yours anyway. I was pregnant when I got here. That’s why I stayed. I set you up.
-
-BEN: (looking her in the eye) Bullshit.
-
-TRACY: (looking away) You go to hell. (She stomps out, slamming the door behind her)
-
-(SCENE - Later that night. Door opens and Tracy enters quietly, looking tired. Pause)
-
-BEN: Are you all right?
-
-TRACY: Yes. I’m all right. What are you doing here?
-
-BEN: I live here.
-
-TRACY: I thought you were going. I thought you said you were going.
-
-BEN: It’s my house.
-
-TRACY: Oh. That’s right. I guess I should go. (pause) You hate me.
-
-BEN: No.
-
-TRACY: You HATE me.
-
-BEN: No. Why do you try to make me hate you?
-
-TRACY: Why do you take it?
-
-BEN: I asked you first (pause).
-
-TRACY: When you were little did your parents keep giving you animals and things? The house we lived in was too close to the road, and what happens when you live too close is that all of your animals get splattered always on the road, and your brothers are always having to go out with a shovel and scrape them off and take them someplace to bury. And sometimes if they’re all squashed but not quite dead your brother has to hit them with the shovel until they stop screaming.
-
-BEN: Listen –
-
-TRACY: No, I don’t want to listen to you. After the last one I made my stupid parents promise me they would never get me another thing that was alive because I had figured out what was true and still is true that there is no excuse and no way ever to make up for the millions and millions and millions of innocent betrayed and squashed up dead,
-
-BEN: Tracy –
-
-TRACY: And nobody’s parents and nobody’s God was ever going to be able to explain that to me and make it all right, and the only way not to go crazy was if you never hooked yourself up with splatterable things then it can never be your fault for needing them and having them because if you can’t give you can’t hurt and you don’t get guilty because you can’t betray if you never gave to begin with. Doesn’t that make sense to you? It does make sense, It does.
-
-BEN: So now you kill your own to keep the world from doing it first?
-
-TRACY: I warned you. I tell lies. I don’t keep promises. I make everything I touch dirty. I spoil everything. And you made me get involved when I didn’t want to and now we’re paying for it. Do you think I ever want to make some poor little kid put up with this all her life?
-
-BEN: I think – (hesitates) - I think – (hesitates) – that – (hesitates) – past the words and the lies, the world sits you down with two or three basic things and tells you it’s time to choose. (pause) And I chose you (pause)
-```
-
----
-
-## IC-0905: Secrets
-
-- Title: Secrets
-- Author (byline): Walt Vail
-- Work: Not specified
-- Publisher: Brooklyn Publishing Company
-- Publication date as stated: 1998
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: CHARLIE, DIEDRE, FATHER
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1055
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Walt Vail
-ISBN: 978-1930961371
-Publisher: Brooklyn Publishing Company
-Date (Month/Year): 1998
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTRESS: In the words of Samuel Johnson: "We cannot tell the precise moment when friendship is formed. As in filling a vessel drop by drop, there is at last a drop which makes it run over; so, in a series of kindnesses there is at last one which makes the heart run over."
-
-ACTOR: Children of domestic violence however have few friends . . . friends share secrets which is the first lesson victims of child abuse learn. Never tell. No matter how hard she tries to deny it, Deidre is in desperate need of a friend.
-
-ACTRESS: If only she could trust someone. But she believes that if anyone really knew her, they’d realize what an awful person she is. That’s what her Dad told her anyway.
-
-ACTOR: Nothing in life is free.
-
-ACTRESS: Everything has a price. To have a true friend, I’d have to sacrifice my
-
-TOGETHER: Secrets by Walt Vail
-```
-
-### Performance text (classify this)
-
-```text
-Actor: Charlie and Father Actress: Deidre
-
-NOTE: This cutting asks one student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-CHARLIE: Deidre.
-
-DIEDRE: Yes? I have to finish this term paper.
-
-CHARLIE: Can I help?
-
-DIEDRE: I’d rather do it myself.
-
-CHARLIE: I like you, Deidre.
-
-DIEDRE: Charlie, I go steady with David.
-
-CHARLIE: Why David?
-
-DIEDRE: He doesn’t make unreasonable demands on me.
-
-CHARLIE: And I do? How’s your father treating you?
-
-DIEDRE: I’m sorry I told you that, Charlie. It’s not your concern. I shouldn’t have spoken. (beat) My father treats me okay. He’s not drinking.
-
-CHARLIE: He’ll start up again. Like my old man. Drinks, then starts swinging.
-
-DIEDRE: Your father hits you?
-
-CHARLIE: Not since I got bigger that him.
-
-DIEDRE: I can’t hope for that, I guess.
-
-CHARLIE: (looks closely) You’ve got another bruise.
-
-DIEDRE: I turn black and blue if someone breathes on me.
-
-CHARLIE: He’s beating you up all the time. You think I can’t see that?
-
-DIEDRE: Please, Charlie. Don’t tell anyone!
-
-CHARLIE: I couldn’t sleep last night, Deidre. All I could think of was a guy that weighs 180 pounds beating up on a small, defenseless girl. You know what could happen if he hits you too hard?
-
-DIEDRE: I don’t want to talk about it.
-
-CHARLIE: (pause) You want to pretend it isn’t happening?
-
-DIEDRE: It isn’t happening. He’s been calm. Charlie, my father earns a living for our family. If I make trouble for him, he could lose his job.
-
-CHARLIE: Before your mother died…did he beat her too?
-
-DIEDRE: They had their arguments, like any married couple. In the bedroom at night, I’d hear her cry out, as if she was having a nightmare.
-
-CHARLIE: Deidre, your father is sick.
-
-(As she remembers, D has a flashback. She reverts back to a little girl. D sways back and forth in a rhythmic manner, quietly humming or singing a tune. C changes his stance and attitude into one much older than himself, as C plays D’s father)
-
-FATHER: Daddy’s songbird be singin’?
-
-DIEDRE: (voice of a child) For Mama. I’m singin’ for her. Do ya think she can hear me?
-
-FATHER: Dunno. She barely heard me when she was alive.
-
-DIEDRE: How is me and Peggy gonna get raised now, without Mama?
-
-FATHER: You’ll have to look after Peggy. You’re the lady of the house now, Deidre. I’m counting on my little songbird.
-
-DIEDRE: Me? I can’t do it like her. I ain’t Mama.
-
-FATHER: You’re responsible now. There’s rent to pay. You do a good job, You got to do a good job, ya hear? Rent’s not free no more. Rent’s not free. ******Flashback ends*****
-
-DIEDRE: My father’s not sick, exactly. Men have frustrations.
-
-CHARLIE: The heck we do! I’d never hit a woman. And my father may have beat me, but he’d never dare hit my mother. I’d break his head if he ever did.
-
-DIEDRE: I guess that’s why I told you, Charlie. I just sensed you’d understand. I wasn’t trying to get you angry. When I graduate from high school in two more years, I’ll get a job. I’ll get a place of my own, and I’ll take Peggy with me. I’ll be a mother to her.
-
-CHARLIE: How old is Peggy?
-
-DIEDRE: She’s eleven.
-
-CHARLIE: When did he first hit you?
-
-DIEDRE: I was (beat) eleven. Right after mother died. He was alone. . .
-
-CHARLIE: When you wear out, he’ll start on Peggy. A job won’t be enough. You need money to go out on your own.
-
-DIEDRE: I know where to get it, if necessary. [My father] has a lot of cash. He doesn’t trust banks.
-
-CHARLIE: So, steal it and get out now! He can’t say anything. You could turn him in for abuse!
-
-DIEDRE: I can’t steal his money!
-
-CHARLIE: He owes it to you! I’ll go with you.
-
-DIEDRE: You’re not my boyfriend.
-
-CHARLIE: You don’t like David. You go with him for convenience because he’s stupid and harmless, and he doesn’t really care about you. Not like I do! (beat) How much has the old man got? Tell me where it is, and I’ll steal it for you. Give me the key, and I’ll go in while he’s working. I’ll smash a few windows to make it look like a break in.
-
-DIEDRE: Forget it!
-
-CHARLIE: If I had some of that money—do you know what I’d do? I’d solve this problem for you.
-
-DIEDRE: How much money do you need?
-
-CHARLIE: A thousand dollars. I’ll get a place of my own. Then you can join me and bring your sister. Another town, another state. You and Peggy can go to school there, wherever it is. And I’ll get a job.
-
-DIEDRE: I’ll think about it. Now let me do my schoolwork. I have to be home early today.
-
-CHARLIE: Something more is bothering you, I can tell. You act like you don’t want to be noticed, like you have a secret. I know, because I have my own secrets. I’m like you.
-
-DIEDRE: No one’s like me, Charlie. No one.
-
-CHARLIE: Have you ever thought about killing yourself?
-
-DIEDRE: No, I think about surviving. I work hard at staying alive. You mustn’t think about killing yourself. God wouldn’t like it.
-
-CHARLIE: You believe in God? If there is a God, he’s playing a big joke on all of us.
-
-DIEDRE: No, he’s just testing us. He gives us the answers, if we recognize them. (beat) We all grow up.
-
-CHARLIE: No, we don’t. Some of us never make it. Something happens—a car accident, an drug overdose.
-
-DIEDRE: Don’t get morbid.
-
-CHARLIE: I think there’s something you’re not telling me.
-
-DIEDRE: I have plenty of secrets. More than any girl my age should have.
-
-CHARLIE: (pauses, as D. drifts deeply in thought) Deidre? Deidre? ******Flashback *****
-
-DIEDRE: (shielding her sister) I know it’s been a tough day, Daddy. Don’t! Come on. Please! You don’t need to. There’s one more beer left. Maybe if you drink it, you can go to sleep.
-
-FATHER: (in a rage) Out of my way, girl! You can go to your room. Daddy is giving you permission to leave. Now get your butt out of here before I stop feeling so generous!
-
-DIEDRE: Take it out on me. It’s my fault! Whatever happened, I did it!
-
-FATHER: I spawned a crazy girl. Can’t hear nothin’. Now move before you find yourself sleepin’ in the backyard. Rent on this trailer ain’t free, ya’ know.
-
-DIEDRE: (tries to hold him back) I know, Daddy. But you can’t. She’s only ten. Get out of here, Peggy!!!
-
-FATHER: (grabs her by the collar) You can go to your room, or I can EVICT you. Understand!?! ******Flashback Ends *****
-
-CHARLIE: Deidre…Deidre?
-
-DIEDRE: (painfully) I can’t promise anything for sure, but…
-
-CHARLIE: Trust me.
-
-DIEDRE: I do. But, we’re . . . friends, that’s all. I wouldn’t want to hurt or upset you. But, I’ll get you the money. We have one chance. . . and you’re it, Charlie.
-
-CHARLIE: I won’t let you down.
-
-DIEDRE: You don’t really know me. If you did, you wouldn’t like me. I’m not a very nice person. You’ll find that out before long, Charlie. Life swallowed me up long ago. (pause, a distant look in her eye) No matter which way I turn, rent ain’t never gonna be free.
-```
-
----
-
-## IC-0906: A Series of Unfortunate Events (TV)
-
-- Title: A Series of Unfortunate Events (TV)
-- Author (byline): Daniel Handler (aka Lemony Snickett) and Joe Tracz
-- Work: Not specified
-- Publisher: Netflix
-- Publication date as stated: 2017
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: ACTRESS, VIOLET, JUSTICE STRAUSS, KLAUS, TOGETHER, COUNT OLAF, BOTH, TROUP MEMBER 1, TROUPE MEMBER 1, TROUPE MEMBER 2, JUSTICE STRAUS
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1363
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Daniel Handler (aka Lemony Snickett) and Joe Tracz
-based on The Bad Beginning: Part 1 by Lemony Snickett
-TV Transcript: Season 1, Episodes 1 & 2
-https://snicket.fandom.com/wiki/A_Bad_Beginning:_Part_One/Transcript
-https://snicket.fandom.com/wiki/A_Bad_Beginning:_Part_Two/Transcript
-ISBN: On-line Transcripts
-Publisher: Netflix
-Date (Month/Year): 2017
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTRESS: Not to give away the plot or anything, but I would strongly advise all of you to leave immediately and find something far more cheerful to watch.
-
-ACTOR: Perhaps a cooking show. Or a documentary about baby pandas.
-
-ACTRESS: Unfortunately, this story is filled with miserable orphans, suspicious adults, and Count Olaf, a man whose greatest talent is committing felonies in dramatic eyeliner.
-
-ACTOR: But through it all, the unifying theme of this story is:
-
-ACTRESS: If you are smart, capable . . .
-
-ACTOR: . . . and under 18!
-
-ACTRESS: Your job is to compensate for the confidently incorrect life choices of the adults in your life.
-
-TOGETHER: (singing theme song) Look away, look away . . .
-
-ACTOR: A Series of Unfortunate Events (TV- Season 1, Episodes 1&2)
-
-ACTRESS: by Daniel Handler, aka Lemony Snickett and Joe Tracz
-```
-
-### Performance text (classify this)
-
-```text
-(based on the book The Bad Beginning: Part 1)
-
-Suggested Roles: ACTOR: Klaus, Count Olaf, Troupe Member 2
-
-ACTRESS: Violet, Justice Straus, Troupe Member 1
-
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-VIOLET: [Hello], I'm Violet Baudelaire, and this is my brother Klaus.
-
-JUSTICE STRAUSS: Oh, well, I am Justice Strauss of the High Court. Forgive my not shaking hands, but as you can see, I am a mountain of parcels.
-
-KLAUS: We'd be more than happy to be of assistance, Justice Straus. My sister is very mechanically minded, and I'm quite adept at library science. Are you Count Olaf's wife?
-
-JUSTICE STRAUSS: What? Oh, oh, no, no, no. Goodness me, no. No, I don't even really know him that well. He's just my neighbor. His house is over there. (points)
-
-TOGETHER: (singing theme song) *Look away, look away . . .
-
-COUNT OLAF: Welcome to my humble home, orphans. I am Count Olaf, the renowned Actor and your new guardian. Please, come in. Wipe your feet on the mat so you don’t track in any mud. And don't forget your enormous fortune.
-
-VIOLET: How do you do?
-
-COUNT OLAF: How do I do? Better and better, Baudelaire's. Better and better. I’m about to be rather wealthy . . .
-
-COUNT OLAF: (unfurling a paper from his pocket) Do you know what this is?
-
-VIOLET: It looks like a list.
-
-COUNT OLAF: Wrong! It's a list. A list of chores. Rich brats like you probably spoiled rotten and have never done a chore in your life.
-
-VIOLET: Actually, we often help around the house.
-
-COUNT OLAF: (ignoring her, he conducts a grand tour) Welcome to your lucky life. Come with me, and I'll show you the delightful features of your home. This is the kitchen where you may help yourselves to meals. The stove is a bit like a servant. You have to whack it sometimes to get it to work. This is the yard which needs weeding, mowing and pruning. Bathroom #7, the only one you are allowed to use, has all the usual amenities, though the management regrets to inform you that the shampoo is not tear-free. If anything, it encourages tears. And this is where you will sleep, orphans.
-
-VIOLET: There's only one bed.
-
-COUNT OLAF: As you can see, I have provided, at no cost to you, this complimentary pile of rocks. Thoughts?
-
-VIOLET: First impressions are often wrong . . .
-
-COUNT OLAF: True. Your first impression of me may be that I am a terrible person. But in time, Baudelaire's, I hope you'll come to realize. . . (ominously) You haven't the faintest idea. *****Scene Change – theme song*****
-
-COUNT OLAF: Why aren't you cleaning? My list was very specific.
-
-VIOLET: We finished it. We even washed your underwear.
-
-COUNT OLAF: You didn't. (consults list and shows Violet) You still have to prepare a meal for myself and my theater troupe. Now, quick, get a move on. The troupe will be here at 7:00, and in the meantime, I will be up in -- can you guess?
-
-VIOLET: Your secret tower room?
-
-COUNT OLAF: Wrong. My secret tower room, which you are forbidden to go into. Understood?
-
-VIOLET: Forbidden.
-
-COUNT OLAF: Forbidden! *****Scene Change to Count Olaf’s Parlor with his Theatre Troupe*****
-
-VIOLET: (as they watch Olaf jiving in his parlor) Klaus, what's that thing James Brown said?
-
-COUNT OLAF: (strikes a pose) I feel good! And a one, and a two, and a . . . (sings) **It’s the Count, it’s the Count, it’s the Count!
-
-TROUPE MEMBERS (BOTH): C!
-
-COUNT OLAF: Is for courageous, just another word for brave!
-
-TROUPE MEMBERS (BOTH): O!
-
-COUNT OLAF: Oh, my God, what a handsome knave!
-
-TROUPE MEMBERS (BOTH): U!
-
-COUNT OLAF: Unbelievable good looks and brains and heart!
-
-TROUPE MEMBERS (BOTH): N!
-
-COUNT OLAF: For the Knowledge, cause I’m very, very smart!
-
-TROUPE MEMBERS (BOTH): T!
-
-COUNT OLAF: For the talent – the world’s greatest actor!
-
-TROUPE MEMBERS (BOTH): (sings) It’s the Count, it’s the Count, it’s the Count!
-
-COUNT OLAF: The Count! (slides into a bow in front of Violet)
-
-VIOLET: (confused) Yes, we've met.
-
-COUNT OLAF: Orphans, this is my theater troupe. And as anyone in the theater knows, after a grand entrance, the audience is supposed to applaud.
-
-BOTH: (applaud awkwardly, sharing a glance) *****Scene Change to Dining Room *****
-
-KLAUS: (Violet and Klaus enter with plates of food) Dinner is served.
-
-COUNT OLAF: (inspects the plates) What? No roast beef?
-
-KLAUS: You didn't tell us you wanted roast beef.
-
-VIOLET: We made ***Puttanesca . . .
-
-COUNT OLAF: Look at my guests. They can hardly touch this revolting foreign food!
-
-TROUP MEMBER 1: You can't go easy on children. They need to be taught to obey their elders.
-
-COUNT OLAF: I demand that you serve roast beef to myself and my guests! (grabs Violet) *****Scene Change – theme song*****
-
-COUNT OLAF: (addressing Violet and Klaus) I want you children to feel more at home here, now that I am your father. As you know, I have been working hard with my theater troupe, and I'm afraid I may have acted a bit standoffish. I want you to participate in my next play: (with flourish) The Marvelous Marriage. It tells the story of a very handsome man, played by me. (thinking) Violet, Violet, Violet . . . you will be playing the young woman I marry. It's a very important role! Although you only have one line. I think you you know what it is.
-
-VIOLET: I don't.
-
-COUNT OLAF: No, no, no. It's, I DO.
-
-VIOLET: Count Olaf . . .
-
-COUNT OLAF: (threateningly) What did you call me?
-
-VIOLET: (wincing) Father . . . I'm not sure I'm talented enough. I'd hate to disgrace your good name.
-
-COUNT OLAF: You will participate! I would prefer it if you participate voluntarily, but I can act loco parentheses.
-
-KLAUS: ****In loco parentis.
-
-COUNT OLAF: Poco De Laurentiis! The point is, I can order you to participate and you must obey. Now, go!I can't stand you anymore. *****Scene Change to Justice Strauss House – theme song*****
-
-JUSTICE STRAUSS: (Violet and Klaus knock at the door; Justice Straus answers) Baudelaires! I'm so happy to see you!
-
-KLAUS: Justice Strauss, can I ask you something?”
-
-JUSTICE STRAUSS: Certainly.
-
-KLAUS: (opening a rather large legal book, he reads) “The only nuptial requirements are a statement of active acquiescence by participants, utilizing in loco parentis if necessary, and the signing of a document in the bride's own hand.” (looks up) Does that mean what I think it means?
-
-JUSTICE STRAUSS: Well, I suppose it depends upon what you think it means.
-
-COUNT OLAF: (abruptly looms behind Klaus; to Strauss) It means you're going to be a star!
-
-JUSTICE STRAUSS: Count Olaf!
-
-COUNT OLAF: Please, call me your guardian actor. Justice Strauss, you are about to find your drab, legal beagle existence transformed into something mind-blowing, and yet extremely classy, when you become the exciting new face of the next Count Olaf production . . . (with great theatrics) The curtain rises. The audience applauds! (demanding look to Violet and Klaus, who both applaud) And you walk onto stage dressed as . . . . a judge!
-
-JUSTICE STRAUSS: (fan-girling) I get to share the stage with Count Olaf?
-
-COUNT OLAF: You will stand in front of a very handsome me while a stunningly-costumed bride, played by Violet (she makes a face) stands beside me. You will perform the wedding ceremony, getting each and every word exactly right . . . while we sign a document which you shall bring from City Hall, for added realism.
-
-VIOLET: (to audience) This is terrible . . . terrible! I’m not old enough to get married!
-
-KLAUS: (to audience) If my sister says "I do" and signs a piece of paper while Justice Strauss is in the room, she's legally married. This play won't be pretend. It'll be real and legally binding. *****Scene Change to SHOWTIME – theme song*****
-
-TROUPE MEMBER 1: Showtime!
-
-COUNT OLAF: (takes the stage) Please, duchess. What is a very handsome man like me to do . . .
-
-(clears throat)
-
-TROUPE MEMBER 1: By the turrets of Gravelstein, this very handsome man shall be mine.
-
-TROUPE MEMBER 2: By the Gardens of Worthington, if I can’t have him, my heart will break.
-
-BOTH: He's so handsome! He's so handsome!”
-
-COUNT OLAF: My wedding day. (wedding march plays as Violet, Klaus and Justice Strauss take the stage)
-
-JUSTICE STRAUS: (to Count Olaf) Do you take this woman to be your lawfully wedded wife?
-
-COUNT OLAF: I do.
-
-JUSTICE STRAUS: (turning to Violet) Do you take this woman?
-
-COUNT OLAF: Man!
-
-JUSTICE STRAUS: (correcting herself) Man. Do you take this man to be your lawfully wedded husband?
-
-VIOLET: (looks apprehensively at Olaf) I do. (they both sign a document)
-
-JUSTICE STRAUS: By the powers vested in me, I now pronounce you Count and Countess. (Olaf tries to Kiss Violet, but she turns her head away)
-
-COUNT OLAF: (proud of himself, he breaks character) Ladies and gentlemen, I'd like to make an announcement. There is no need to continue with tonight's performance. Its purpose has been served. My marriage to Violet Baudelaire is legal, and I am now in control of her entire fortune.
-
-JUSTICE STRAUS: (shocked) That can’t be true!
-
-COUNT OLAF: The law clearly states that the bride must say "I do" and sign the appropriate document (holds up document)
-
-JUSTICE STRAUS: (bewildered, she scans the document) I’m afraid this marriage is legally binding. I am so sorry. I can't believe how easily I was tricked.
-
-COUNT OLAF: (gleefully) You were! It was child’s play, winning this fortune. And now a reception to celebrate my special day! (to Violet) Care to dance, Countess?
-
-VIOLET: I'm not a Countess. At least I don't think I am.
-
-COUNT OLAF: Why not?
-
-VIOLET: I didn't sign the document in my own hand as the law states.
-
-COUNT OLAF: Don’t lie to me, orphan. Everyone saw you!
-
-VIOLET: But I'm right-handed, and I signed the document with my left.
-
-COUNT OLAF: (scoffs) Well, that doesn't count. You're just being a sore loser and trying to ruin my special day.
-
-JUSTICE STRAUS: (looks at the document again, then to Olaf) You are a vile and terrible person. And I am happy to say that because Violet, who is right-handed, signed the document with her left hand, the marriage is invalid!
-
-KLAUS: (cheers)
-
-JUSTICE STRAUS: [Furthermore] the Baudelaires will be sent to a suitable guardian!
-
-TOGETHER: And this series of unfortunate events has come to a close (bows)
-```
-
----
-
-## IC-0907: The Shadow
-
-- Title: The Shadow
-- Author (byline): Conrad Bishop and Elizabeth Fuller
-- Work: More One-act Plays for Acting Students
-- Publisher: Meriwether Publishing
-- Publication date as stated: July 2003
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: MORT, MARA, BOTH
-- Teaser before the introduction: No
-- Spoken words (computed): 1208
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Conrad Bishop and Elizabeth Fuller
-Book: More One-act Plays for Acting Students
-ISBN: 1566080878
-Publisher: Meriwether Publishing
-Date (Month/Year): July 2003
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-MORT: Sickness is weakness.
-
-MARA: There’s humiliation and vulnerability in being a patient.
-
-MORT: Treatment can be impersonal
-
-MARA: or incompetent.
-
-MORT: or maybe, impossible.
-
-BOTH: “The Shadow”
-
-MARA: By Conrad Bishop and Elizabeth Fuller
-```
-
-### Performance text (classify this)
-
-```text
-(MORT and MARA in nightclothes, getting into bed, adjusting pillows, bantering but very edgy)
-
-MORT: Beddy-bye.
-
-MARA: When do we have to get up?
-
-MORT: When's your appointment?
-
-MARA: Nine. Then I'll bring the car back and you go for yours.
-
-MORT: Why'd you make our checkups on the same day?
-
-MARA: That way everything's done.
-
-MORT: Suppose we're both sick?
-
-MARA: If you're sick you're sick.
-
-MORT: If I know it I'm sicker.
-
-MARA: You had too much to drink.
-
-MORT: Alcohol sterilizes. My germs are clean.
-
-MARA: They'll look inside you and find pickled gut.
-
-MORT: Put your sick mind to sleep.
-
-MARA: I feel strange.
-
-MORT: (Settling in) Get some sleep, honey.
-
-MARA: (Settling in) Don't act like my doctor. (Pause. Instant shift of worlds: he stands upright, looming over her. She sits, rigid.)
-
-MORT: Hello, I'm your doctor. How do you feel?
-
-MARA: All right.
-
-MORT: Headaches? Hallucinations?
-
-MARA: No.
-
-MORT: How old are your parents? Epilepsy? Seizures? Searches? When did you have a bath?
-
-MARA: Never.
-
-MORT: What did they tell you in school? Do you like the feel of cotton sheets? Can you take criticism? Dizzy spells? Ringworm? Rats?
-
-MARA: Nothing.
-
-MORT: How'd you like to die?
-
-MARA: Wait! (Blurred focus: they are suspended between dream and waking.) I need sleep.
-
-MORT: Go to sleep.
-
-MARA: I feel strange. (Again they mesh into the nightmare.)
-
-MORT: Hello, I'm your doctor. How do you feel?
-
-MARA: My watch stopped.
-
-MORT: That's messy. You need a big lead box.
-
-MARA: I need a nap.
-
-MORT: Nap. OK. Procedures and risks involved. First we freeze you, make a small incision, insert a tube up the aorta, watch its progress by fluoroscope.
-
-Then we inject the dye. You'll feel a burning sensation for fifteen seconds. At this point you sometimes have a reaction, but it can't be proven until you die. Then we x-ray the remains and before you clog we yank out the tubes and try to stop the blood. At this point you often think of tall buildings swaying in the wind. We try to keep you back from the edge, but there is a slight chance, say half of one percent, that you may lose your balance and fall.
-
-MARA: Am I worried?
-
-MORT: Twice a day.
-
-MARA: Risk? Is there any risk?
-
-MORT: There's always some risk. Less on a passbook account, but there you get only five and a half percent. Municipals are still a good buy, but if your inner city deteriorates, you're gonna have problems with flushing.
-
-MARA: What about malignancy?
-
-MORT: It's like inflation. Eats away at what you've got.
-
-MARA: How long am I in for?
-
-MORT: Well, you can put it in five-year certificates, but I'd recommend a shorter confinement unless you want long-term security at the cost of short-term inflammation.
-
-MARA: Wait! We're not talking about money
-
-MORT: (Grasping her hand voraciously) I am! I'm a doctor! How do you feel?
-
-MARA: Confused!
-
-MORT: (Suddenly solicitous) That's natural. And I'd love to help you. I'd be more than willing to help you. But I'm a doctor. Medicine is not an exact science. Medicine is an art. I'm an artist.
-
-MARA: It's cold.
-
-MORT: You don't expect all painters to paint rosy pictures. You don't expect all writers to write happy endings.
-
-MARA: Clammy.
-
-MORT: There's comic medicine and there's serious medicine. My medicine makes a statement: Nobody lives forever!
-
-MARA: Ahhhhhhh! (He strangles her. She screams. They wake into reality. lying side by side in bed.)
-
-MORT: What's the matter?
-
-MARA: I was dreaming. You were the doctor.
-
-MORT: That's a laugh.
-
-MARA: If you're the doctor you're safe. Nothing to lose.
-
-MORT: Relax.
-
-MARA: It's like auto mechanics. You never know.
-
-MORT: Relax and get to sleep.
-
-MARA: Beddy-bye.
-
-MORT: And try not to yell when we start.
-
-MARA: Start what?
-
-MORT: Cutting. (Nightmare: he grabs her from behind. cuts her throat.)
-
-MARA: Stop it! Stop! I'm the nurse!
-
-MORT: (Releasing her) Oh my God. Sorry. Here, let me button you up.
-
-MARA: It's all right, I'm on the pill. I
-
-MORT: Thank God. Read me the appointments, we're behind schedule.
-
-MARA: There's Mr. Pillsbury.
-
-MORT: Mr. Pillsbury's cancer. I'm sick of his damn cancer. Everybody got a cancer. It's his funeral.
-
-MARA: There's Mrs. Pillsbury, for an abortion.
-
-MORT: How advanced is the pregnancy?
-
-MARA: He'll be nineteen this fall.
-
-MORT: Nurse, people have no respect for human life. They don't deserve to live.
-
-MARA: There's Dr. Pillsbury
-
-MORT: Dr. Pillsbury? That's not right. I'm Dr. Pillsbury.
-
-MARA: You're on the list.
-
-MORT: But I'm the doctor.
-
-MARA: It's on the list.
-
-MORT: You'll be sorry. I'm the doctor. I'll stand up and shake your hand! (They clasp hands, shake violently.)
-
-BOTH: Hello, I'm your doctor, how do you feel? (Mort sinks down, Mara dominant.)
-
-MORT: Well... I don't feel any lumps. I really need to get home. My driver's license expires on Friday, I have to study for the test, I have to get my eyes opened. Couldn't I still be the doctor?
-
-MARA: I can't find the vein.
-
-MORT: The grass needs mowing, it's getting too high to cut.
-
-MARA: I can't find the vein.
-
-MORT: It's growing too fast. The doctors are amazed.
-
-MARA: I'm the doctor, I can't find the vein.
-
-MORT: But Friday I'm due to expire!
-
-MARA: Gotcha!
-
-MORT: Ahhhhhhhhh! (They wake.)
-
-MARA: Bad dream?
-
-MORT: Doctors.
-
-MARA: Relax. (Blurred focus)
-
-MORT: I should have had it out. In school my friends had everything taken out. I should have done it then.
-
-MARA: Are you the doctor or the patient?
-
-MORT: I forgot.
-
-MARA: It's safer to be the doctor.
-
-MORT: Can he wear a white hat?
-
-MARA: I'll be the doctor, too. Then we're a team.
-
-MORT: A medical team.
-
-MARA: MDs!
-
-MORT: Men in white!
-
-MARA: Doctor!
-
-MORT: Doc! (They embrace, then recoil.)
-
-MARA: Oh dear, I contaminated you.
-
-MORT: I was sterile. Wait! The operation! (Focusing on an imaginary patient) But there's nobody here.
-
-MARA: That's OK. It's practice. Run scrimmage, get the plays down pat, then we shove the patients under there and let fly. We don't ever check the face.
-
-MORT: Unless there's a beard. We don't want a beard in the muck.
-
-MARA: What do you think? Rapid Shave? Drano? Easy-Off?
-
-MORT: Wait. He's not real. He's imaginary.
-
-MARA: Then we better work fast. You take the steak knife, I've got the juicer.
-
-MORT: Roger! (They begin burlesque surgery: broad, gross pantomime.)
-
-MARA: Take that out, I saw it move.
-
-MORT: Arthritis. Out with his bones.
-
-MARA: How about the kidneys?
-
-MORT: Feel OK. Oh-oh, bed's wet. Can't have that.
-
-MARA: You did a no-no.
-
-MORT: Give 'em the heave.
-
-MARA: Squeeze that.
-
-MORT: Not very fresh.
-
-MARA: Mold.
-
-MORT: Out.
-
-MARA: Let's do a brain test. What are the three justifications for existence? Wrong. Take out the brain.
-
-MORT: What about the liver?
-
-MARA: We had liver last night.
-
-MORT: Well, it's cheap.
-
-MARA: Three dollars a pound?
-
-MORT: For that we could buy sweetbreads.
-
-MARA: He didn't complain of sweetbreads.
-
-MORT: Out.
-
-MARA: Better wash all this off.
-
-MORT: Wait. I got a bite.
-
-MARA: All we can do is pray.
-
-MORT: Pull out the plug.
-
-MARA: Locomotor ataxia.
-
-MORT: Dynamite up the kazoo! Take cover! (Catastrophic explosion)
-
-MARA: Got him.
-
-MORT: Is he OK?
-
-MARA: He's dead.
-
-MORT: But he's imaginary.
-
-MARA: He is now. (Blurred focus)
-
-MORT: Hey, what am I doing? I'm not the doctor, I'm supposed to see the doctor...
-
-MARA: No, come on, you better be the doctor ...
-
-MORT: I can't speak Latin. I missed the test. Is there a Band-Aid in the house?
-
-MARA: We're running out of gas ... (He transforms into a concrete character: a fatigued fifty-year-old physician, speaking to us directly.)
-
-MORT: I have a patient. Forty years old. Female. White. The most radiant, life-loving woman I know.
-
-MARA: She's a patient. She's dying.
-
-MORT: She has leukemia. She's dying. I do bone-marrow biopsies. Which are very painful. She's had remission twice. Then it goes on.
-
-MARA: She's losing her looks.
-
-MORT: She tries to joke.
-
-MARA: Symptoms?
-
-MORT: Symptoms? I feel a cold sweat. Shaking. I try to laugh.
-
-MARA: Prognosis?
-
-MORT: Six months.
-
-MARA: Side effects?
-
-MORT: Side effects?
-
-MARA: Any side effects?
-
-MORT: You die.
-
-MARA: Who dies?
-
-MORT: The patient dies.
-
-MARA: Who's the patient?
-
-MORT: The patient pays the piper.
-
-MARA: Then who pays the doctor?
-
-MORT: Whoever's dying.
-
-MARA: Everyone's dying. (Pause. Incredulous)
-
-MORT: No... (Stark awake, they kneel clumsily side by side on the bed, hands in prayer.) I'm the patient now.
-
-MARA: I'm the patient too. (They mumble in shambling unison.)
-
-BOTH: Yea though I walk through the valley of the shadow of Yea though I walk
-through the valley of
-Yea though
-Valley of
-Sha
-Va
-I fear no evil!
-No evil.
-Yea though I fear no
-Yea though I fear no
-Yea though I walk through the valley of
-The Shadow of
-
-(Their lips form a word, soundlessly. Fade.)
-```
-
----
-
-## IC-0908: Shadow Box
-
-- Title: Shadow Box
-- Author (byline): Michael Cristofer
-- Work: Not specified
-- Publisher: Samuel French, Inc.
-- Publication date as stated: June 1977
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: BEVERLY, MARK
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1329
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Michael Cristofer
-ISBN: 978-0573616136
-Publisher: Samuel French, Inc.
-Date (Month/Year): June 1977
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTRESS: In this scene from Michael Cristofer’s The Shadow Box, Beverly, Brian’s ex-wife, and Mark, Brian’s gay lover, meet for the first time.
-
-ACTOR: And although the circumstances of this meeting would never be ideal – this meeting occurs because Brian is dying.
-
-ACTRESS: Now we know what you’re thinking . . . AIDS, right?
-
-ACTOR: Wrong. Now, we don’t blame you for jumping to that conclusion. The media has pushed the horror of AIDS for quite some time.
-
-ACTRESS: But unfortunately, it has been to the detriment of other illnesses that lead to an even greater death toll.
-
-ACTOR: Cancer kills more people every six weeks than AIDS is projected to kill this year.
-
-ACTRESS: And that “less publicized” but equally devastating disease is what has brought Beverly and Mark together today.
-
-TOGETHER: The Shadow Box by Michael Cristofer
-```
-
-### Performance text (classify this)
-
-```text
-BEVERLY: Surprise! Oh, who are you? I’m sorry. I’m looking for Brian . . . uh . . . Two. They said cottage two. I must have . . .
-
-MARK: No. This is two. This is cottage two.
-
-BEVERLY: Oh ! Thank God. Is . . . uh . . . .
-
-MARK: No. Not at the moment. But he should be back any minute.
-
-BEVERLY: Good. I wanted to surprise him and he’s not here. Well, Surprise! Hmmm. Very nice. Very nice. All the comforts of home. Amazing what you can do with a coffin if you put your mind to it.
-
-MARK: What?!
-
-BEVERLY: Oh, sorry. Sorry. Introductions first. That way you’ll know who you’re throwing out. I’m Beverly. No doubt you’ve . . .
-
-MARK: Yes. Brian’s wife.
-
-BEVERLY: Ex-wife
-
-MARK: Former
-
-BEVERLY: Yes. Former. He prefers former, doesn’t he.
-
-MARK: Yes. I figured it was you.
-
-BEVERLY: And you’re . . . uh . . .
-
-MARK: Mark
-
-BEVERLY: Well, now that we know who we are . . . how about a drink?
-
-MARK: A what? Oh, no. We don’t keep any liquor here. I could get you some coffee or some penicillin, if you’d like
-
-BEVERLY: No. No. I was inviting you. I had an accident with the scotch on the way out here. There’s quite a dent in it. Anyway, we both look like we could use a little. Hmm?
-
-MARK: No. I don’t drink.
-
-BEVERLY: Ah, a dope man.
-
-MARK: Neither. I like to avoid as much poison as possible.
-
-BEVERLY: I see.
-
-MARK: Well, you go ahead if you feel you have to.
-
-BEVERLY: No. No, really. I don’t need it. I mean. I’m not . . . Forget it. So. How is he?
-
-MARK: Dying. How are you?
-
-BEVERLY: Ooooops. Let’s start again. Is he feeling any pain?
-
-MARK: Are you?
-
-BEVERLY: Strike two. Well, think we’ve got it all straight now. He’s dying. I’m drunk. And you’re pissed off. Did I leave anything out?
-
-MARK: No. I think that just about covers it.
-
-BEVERLY: Tell me. How is he?
-
-MARK: Hard to say. One day he’s flat on his ass, the next day he’s running around like a two-year-old. But he is terminal – officially. He has fainting spells. They’re harmless. Well, that’s what they tell me. But it’s embarrassing for him because he falls down a lot and his face gets a little purple for a minute. I just want you to know. If you’re staying around. I mean, I think it would hurt him if people noticed.
-
-BEVERLY: Well, if he turns purple and falls on the floor, it’d be sort of difficult not to notice, wouldn’t it?
-
-MARK: Look. I don’t mean to be rude or stupid about this . . .
-
-BEVERLY: Why not? I like people to be rude and stupid. It’s one of the ways you can be sure they’re still alive.
-
-MARK: You’re very stoned aren’t you? And you’re dressed in funny clothes, and you’re saying a lot of funny things but I’m just not sure, frankly, what you’re doing here.
-
-BEVERLY: Neither am I.
-
-MARK: . . . . when I met Brian, I was hustling outside a bar in San Francisco. Right after the great “Summer of Love.” People were starving to death in the streets.
-
-BEVERLY: Sounds lovely.
-
-MARK: Like everybody else, I was very hungry, very desperate. So there I was one night, selling it down on Market Street. I wasn’t very good at it, and Brian walks up to me . . . and asks me the time. Right? Well, I did my little number about time for what and how much it was worth to him . . . and all of a sudden, he starts explaining exactly what time was worth to him . . . time warps even! Jesus, I though, I’ve got a real freak on my hands. And he’s talking and talking and talking. Finally, I say “Look man, I haven’t eaten in a long time, and I’m getting a headache. Why don’t we talk some business before I starve to death?”
-
-BEVERLY: What did he do?
-
-MARK: He bought me dinner! I couldn’t believe it. I mean, what did he want from me? And he never stopped talking. Never.
-
-BEVERLY: He didn’t want anything from you.
-
-MARK: It doesn’t matter, and that’s how I got to know him. I got interested in what he was doing. He gave me a room. I could use it whenever I wanted. We talked and talked endlessly. What am I talking about?
-
-BEVERLY: Dead people.
-
-MARK: Exactly! I mean, exactly!
-
-BEVERLY: Exactly what?
-
-MARK: I mean it’s not enough! We are dying here lady. That’s what it’s about. Brian looks at me and I can see it in his eyes. You can wipe up the mucous and the blood and the piss. You can burn the sheets and boil his clothes, but it’s still there. You can smell it on him. You can smell it on me. It’s sick and putrid and soft and rotten and it’s killing me.
-
-BEVERLY: It’s killing him too.
-
-MARK: That’s right, lady. And some of us have to watch it. Some of us have to live with it and clean up after it. Some of us are here for the duration. . . . And it’s not easy.
-
-BEVERLY: And some of us wouldn’t mind changing places with you at all.
-
-MARK: And some of us just don’t care anymore.
-
-BEVERLY: What?
-
-MARK: Some of us just don’t care.
-
-BEVERLY: You’re cute, Mark. But next to me, you are the most selfish *person* I’ve ever met.
-
-MARK: Oh, wonderful! That’s exactly what I needed. Yes, sir. That’s just what I needed.
-
-BEVERLY: Let me tell you something– what you do is your business. You can drag *yourself* through every gutter from here to Morocco. You can trade it, sell it, or give it away. I don’t care. I’ll even show you the best way to do it. But Brian is different. Because Brian is different. Because Brian is stupid. Because Brian is blind. Because Brian doesn’t know where you come from or who you come from or why or how or even what you are coming to. Because Brian happens to need you. And if that is not enough for you, then you get yourself out of his life – fast.
-
-MARK: That simple, huh?
-
-BEVERLY: When the money and the time and the people are all running out faster than you can count, and the reasons don’t sound as good as they used to and you don’t remember any more why . . . why you walked out on the one person who said yes, you do what you have to because I love you. And you can’t remember anymore what it was you thought you had to do or who you thought you were that was so important that you couldn’t hang around long enough to say goodbye or find out what it was you were saying goodbye to . . . One human being who cares. My God, why isn’t that ever enough?
-
-MARK: You want an answer to that?
-
-BEVERLY: I want you to get yourself together or get yourself away from him.
-
-MARK: Just leave? I can’t leave him.
-
-BEVERLY: Why not?
-
-MARK: I owe him.
-
-BEVERLY: What? Pity? I mean, what’s in it for you?
-
-MARK: Nothing’s in it for me.
-
-BEVERLY: He’s just a tired, sick old man . . . A tired old trick with some phoney ideas that don’t hold water . . . a broken-down sewer, that’s all he is.
-
-MARK: I didn’t say that . . .
-
-BEVERLY: You don’t need that. You don’t need to dirty your hands with that kind of rotten putrid filth. Unless of course you need the money. What does he do – pay you by the month? Or does it depend on how much you put out?
-
-MARK: . . . I don’t want him to die. I don’t . . . Please . . . I don’t want him to die.
-
-BEVERLY: Hopes, baby. That’s what you got. A bad case of the hopes. They sneaked up on you when you weren’t looking. You think maybe it’s not gonna happen. You think maybe you’ll find some way out. Some word that still alive, some word that will make it all different . . . Please, baby, just one favor you owe him. Don’t hurt him. Don’t hurt him with your hope. He needs somebody. That was my answer, too . . . Bye, baby.
-
-MARK: Wait . . . .
-
-BEVERLY: Tell Brian goodbye for me
-
-MARK: Don’t you want to see him?
-
-BEVERLY: No, I’ve got a plane to catch. It’s funny. He always makes the same mistake. He always cares about the wrong people.
-```
-
----
-
-## IC-0909: The Shape of Things
-
-- Title: The Shape of Things
-- Author (byline): Neil LaBute
-- Work: Not specified
-- Publisher: Faber and Faber, Inc.
-- Publication date as stated: Nov 2001
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: EVELYN, ADAM, JENNY
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1677
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Neil Labute
-ISBN: 978-0571212460
-Publisher: Faber and Faber, Inc.
-Date (Month/Year): Nov 2001
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: How far would you go for love? For art?
-
-ACTRESS: What concessions would you make? What price would you be willing to pay?
-
-ACTOR: Such are the painful questions explored by Neil Labute in The Shape of Things
-
-ACTRESS: A modern retelling of the fall of man.
-
-TOGETHER: The Shape of Things by Neil Labute
-```
-
-### Performance text (classify this)
-
-```text
-NOTE: This cutting asks one student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-Suggested Roles: Actor: Adam
-
-Actress: Evelyn and Jenny
-
-EVELYN: (To audience) Good evening. I promise to make this presentation as quick and painless as possible. My task tonight is to unveil my semester’s work. . . Oh, I almost forgot . . . and this is fairly personal, so please indulge me. (beat) I was given an engagement ring two days ago and I haven’t answered the guy yet (Show ring on finger) . . . so I wanted to do it this evening. (To Adam) Here goes. This is a beautiful stone and an amazing gesture on your part. By the time I’m through here, I promise that you’ll have your answer . . .
-
-EVELYN: I present to you this, my newest work. It is a human sculpture on which I’ve worked these past eighteen weeks, and of whom I’m very proud. The piece itself – him – is untitled. I first spotted my chosen base material . . . it’s so funny not to use names! Sorry, but a lawyer actually told me I had to say that, ‘base material’ . . . on January 9, the fifth day of winter semester. I created a scenario that would allow for our seemingly random connection. *****Scene*****
-
-(EVELYN stands near a stretch of velvet rope. She has a can in one hand and stares up at an enormous human sculpture. ADAM steps across the barrier and approaches her) Authors note: The / in lines denotes an attempt at interruption or overlap by a given character.
-
-ADAM: . . . you stepped over the line, miss? / Ummmm, you stepped over . . .
-
-EVELYN: I meant to / step over . . .
-
-ADAM: What? / yeah, I figured you did. I mean, the way you did it an all, kinda deliberate like./ you’re not supposed to do that.
-
-EVELYN: I know / that’s why I tried it . . . to see what would happen.
-
-ADAM: I’m what happens, I guess. I have to walk over, like I’ve done, and ask you to take a step back.
-
-EVELYN: And if someone doesn’t / what then?
-
-ADAM: Hell, I dunno . . . I’m off in, like, ten minutes, I’d probably just stand here, make sure you didn’t touch anything. Hey, you’re not gonna mess up my weekend with this, are you?
-
-EVELYN: I wasn’t planning on it, but . . . I’m not completely against it, either.
-
-ADAM: See, if you get all crazy, then I gotta write up a report and stuff, I’m here till six, six-thirty easy, and I have a second job to get to. . . step back behind the line there . . . I’d appreciate it.
-
-EVELYN: No. sorry, I can’t. I’m building up my nerve, and if I go back over, I’ll probably be a big wuss about it and take off . . .
-
-ADAM: About what? The ‘wuss ’part, I mean . . .
-
-EVELYN: I was going to do something to the nude. Mess it up or . . . paint a big (gestures) on it, but whatever . . .
-
-ADAM: (beat) . . . so, right over the leaves there, or just a free-floating number.
-
-EVELYN: probably anatomically correct. I mean, if you’re gonna do it, why not . . .
-
-ADAM: . . . do it right? Absolutely.
-
-*****Scene*****
-
-EVELYN: The hair, the glasses, the excessive amount of weight offered a number of physical areas that made him unique and perfect for this project. A short list of alterations I’ve induced would include eating better and losing weight – some twenty-five pounds or more *****Scene*****
-
-ADAM: . . . . You amaze me.
-
-EVELYN: I’m glad. (beat) and you amaze me, you do. Look at you!
-
-ADAM: It’s just a little jogging.
-
-EVELYN: No, it’s not. It’s not just that . . . you’re running, you’re eating better. Are you still lifting?
-
-ADAM: Yeah . . . I mean, I didn’t today, but . . . .
-
-EVELYN: Do you like doing it?
-
-ADAM: Honestly . . . No. It totally hate it! (they laugh)
-
-EVELYN: So why would you . . . ?
-
-ADAM: Because you suggested it. Which is kinda pathetic, but true . . .
-
-EVELYN: You shouldn’t do something you don’t wanna do.
-
-ADAM: Yeah, you should. Why not? If it’s for some one . . . I mean, I’m doing it for you.
-
-EVELYN: I gave you a couple ides and you’re changing your entire life. I’m very proud of you.
-
-(Adam freezes in scene and Evelyn steps out to resume her presentation)
-
-EVELYN: . . .the purchase of contact lenses *****Scene***** Adam and his friend Jenny in the park
-
-JENNY: You are getting cuter by the day. What is that girl doing to you?
-
-ADAM: Lots . . . she’s amazing, really.
-
-JENNY: What happened to your . . . are you wearing . . . Adam, are those contacts?
-
-ADAM: Yeah, contacts.
-
-JENNY: My god, this from the former ‘tape around the nose thing-y’ champion.
-
-ADAM: That was only for a week, that one time!
-
-JENNY: Still, you’ve gotta admit . . .
-
-ADAM: I do, it’s amazing. I feel better . . .
-
-JENNY: Better? You’re like, this totally hot guy now . . . (beat) I always thought you were handsome, anyway, but I didn’t think you’d go in for the makeover thing.
-
-ADAM: Me either. Who knew? (Adam freezes in scene and Evelyn steps out to resume her presentation)
-
-EVELYN: A complete change in hairstyles and significant wardrobe alterations as well. He even tattooed his body for me, without asking . . . in a highly questionable place. *****Scene*****
-
-ADAM: I can show you something . . . just a little thing I had done. For you.
-
-EVELYN: Wait, what . . . show me. (he looks around and lowers his pants to show his backside) “EAT” . . . lemme guess . . . you couldn’t afford the “me.”
-
-ADAM: No, you goof! Your initials: Evelyn Ann Thompson. Like it?
-
-EVELYN: I do. I like it. And I love the gesture . . .
-
-ADAM: “Love” is a big word.
-
-EVELYN: I know. That’s why I used it. . . (Adam freezes in scene readjusting his pants and Evelyn steps out to resume her presentation) These are surface items, to be sure, but if I, in fact, tell you that I’m going through with it and marrying the guy, you’d probably all shake my hand and say, “Wow, how can I do that to my boyfriend?” But this, I’m afraid was not done out of love or caring or concern . . . this was a simple matter of can I instill “X” amount of change in this creature, using only manipulations as my palette knife? I coaxed, made suggestions, created the illusion of interest and desire, but never said, ‘please do this.’ Not once. As my subject became handsomer, firmer and more confident, his actions became more and more . . . questionable. He had work done to his face, cosmetic surgery at age 22, and insisted to those around him that he had merely fallen down. *****Scene*****
-
-ADAM: (To audience as if speaking with friends, gesturing to his nose) I hit it and, you know . . . I banged it pretty bad at home and so I had the doctor look at it. But he didn’t . . . operate or anything. The bandage is from that . . . (Adam freezes in scene touching his nose and Evelyn steps out to resume her presentation)
-
-EVELYN: He was willing to give friends up when asked, walk away from them without any further contact . . . and as stated earlier these corrections culminated in an offer of marriage to me, this coming from a confirmed, albeit young, bachelor.
-
-*****Scene*****
-
-(We enter the scene in the middle of an argument between Evelyn and Adam – the reason for the argument is unimportant, just the conclusion)
-
-ADAM: So, tell me what to do and I’ll do it. . . I just, I just don’t wanna lose you.
-
-EVELYN: You’re sure . . . ?
-
-ADAM: I am so sure. I love you . . .
-
-EVELYN: Anything I say?
-
-ADAM: Anything.
-
-EVELYN: (without emotion) Give up [your] friends, both of them. No explanation. Don’t see them or speak to them again, not ever. That’s the proof to me about how you feel . . .
-
-ADAM: Evelyn . . . that’s . . .
-
-EVELYN: Once should always be careful when asking to be put to a test. . . so what’s it gonna be, Adam?
-
-ADAM: . . . and if I don’t . . . ?
-
-EVELYN: These things end. I mean, in life, at least . . . Final answer? (Adam stares at her for a long moment)
-
-ADAM: . . . I choose you. (Adam freezes in scene after dropping to one knee as if to propose and Evelyn steps out to resume her presentation)
-
-EVELYN: He has then been utterly and totally refashioned as a person (beat) He’s gotten more interesting, more desirable, more normal. In a word, better. He is a living, breathing example of our obsession with the surface of things, the shape of them. (to ADAM – taking off the ring) This was a startling and unexpected gesture, but obviously, I can’t accept. (To audience) I have no feelings of remorse for my actions, the manufactured emotions . . .
-
-none of it. I have always stood by the single and simple conceit that I am an artist. Only that. Art must be created, whatever the cost. (beat) @ith that in mind, I present you with my untitled sculpture. Thank you. (she hands Adam the ring, takes a short bow and steps out of the light.) *****Scene***** At the reception after Evelyn’s presentation
-
-ADAM: . . . not a big "modern art" crowd, I guess, huh?
-
-EVELYN: Look . . .
-
-ADAM: Please don't "Look,” me now, okay, or I might not make it through this. . . (beat) Just refer to me as "it" or "untitled," it'll help me keep some perspective here. . . (wanders over and pours some punch. Stuffs a few cookies in pocket. Shoves three in mouth and chews them down.). . . that's gonna shoot some piece of data all to s***, isn't it?
-
-EVELYN: Doesn't matter now, do what you want. . . you're finished.
-
-ADAM: "You're finished." Wow. (considers) Most people just say, "Hey, sorry, can't marry you." And they say it in private. . .
-
-EVELYN: . . . yeah, that might've been a bit too far.
-
-ADAM: Oh shit, you are so beyond "far" that you're in danger of hitting Uranus.
-
-EVELYN: (Smiling) See, you're still funny....
-
-ADAM: Just stop, alright? I was never funny, or good-looking or clever. I was nothing until you started . . . I admit it. No-thing. But you know what? I was absolutely fine with that. . .
-
-EVELYN: . . . listen, I know my work relied on not telling you what was going on, but I. . .
-
-ADAM: Here we just call it lying. . .
-
-EVELYN: I did lie to you, yes . . . Sorry.
-
-ADAM: You're sorry? Well, that's good. . . I figured I was gonna have to really work to get that one out of you.
-
-EVELYN: I'm not sorry. I mean, not for what I've done. I just feel bad that you're so upset. . . I just want to keep it as truthful as possible.
-
-ADAM: (laughing) That'll be different. . .
-
-EVELYN: . . . you're so angry. . . What'd I do wrong? (beat) Seriously, tell me. . .
-
-ADAM: You don't see this as wrong?! You honestly have no concept here. . . Look, I’m not gonna stand here. . .
-
-EVELYN: The exercising? Or was it the new clothes that really bugged you? Everything I did made you a more desirable person. People began to notice you. . . take interest in you.
-
-ADAM: Well, lucky me.
-
-EVELYN: (beat) Look, if you hadn't been here tonight, hadn't heard all this stuff. . . wouldn't you still be happy? Waiting at home for me, hoping this went well. . .
-
-ADAM: That's not the point. . .
-
-EVELYN: Yes, it is! It's the total point. All that stuff we did was real for you, therefore it was real. It wasn't for me, therefore it wasn't. It's all subjective, Everything.
-
-ADAM: Not love. Not cruelty. Seriously? . . . Don't fool yourself and think that this is "art." 'kay? It's a sick joke, but it is not "art."
-
-EVELYN: Is that right?
-
-ADAM: (beat) You know, when Picasso took a s***, he didn't call it a "sculpture." He knew the difference. That's what made him Picasso. You oughta at least realize there's a price to it all...you know? Somebody pays for your two minutes on CNN. Someone always pays for people like you. And if you don't get that, then you're about two inches away from using babies to make lamp shades and calling it "furniture." (beat) Tell me, though. Was any of it true? Not the things we did, or the kind words or whatever. . . but any of it?
-
-EVELYN: . . . No. Not really. Sorry.
-
-ADAM: (Sarcastic) Don't be. Hey, it's. . . Art.
-```
-
----
-
-## IC-0910: Sharpies
-
-- Title: Sharpies
-- Author (byline): David Narter
-- Work: Best Ten Minute Plays of 2019
-- Publisher: Smith and Kraus
-- Publication date as stated: March 2019
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: CHRISTINA, BRETT, MR. GLENN
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1412
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: David Narter
-Book: Best Ten Minute Plays of 2019
-ISBN: 978-1575259338
-Publisher: Smith and Kraus
-Date (Month/Year): March 2019
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: It's that time of the year!
-
-ACTRESS: Application forms, tests, early admission, teacher recommendations, and even a sleepless night or two.
-
-ACTOR: Time to apply for college? Try preschool!
-
-ACTRESS: Twenty years ago, they just had to show up and not eat glue.
-
-ACTOR: These days it seems that if a kid isn’t ‘gifted’, they’re behind.
-
-ACTRESS: In fact, in many of the larger cities (New York, San Francisco, Chicago) spots are limited and it can be super competitive.
-
-ACTOR: What exactly are elite pre-schools looking for?
-
-ACTRESS: According to Patty Washburn of the North Shore Country Day School, "We are not looking for children who can just handle the program; we also want children who can give something back to the class."
-
-ACTOR: So often, applicants
-
-ACTRESS: (ie children)
-
-ACTOR: are observed in a “play-date” setting with numerous others to see how they fit in.
-
-TOGETHER: Sharpies by David Narter.
-```
-
-### Performance text (classify this)
-
-```text
-Suggested Roles: Actress – Christina Actor – Brett and Mr. Glenn
-
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-(BRETT and CHRISTINA are in a waiting room in which there is a single chair upon which is a scattering of brochures and forms. CHRISTINA is pacing. Frequently, they look toward the audience - the window of the playroom.)
-
-CHRISTINA: Oh, God. This is so nerve-wracking.
-
-BRETT: No. Tyler's fine. He'll do fine. (Long pause)
-
-CHRISTINA: Did you talk with him last night?
-
-BRETT: Excuse me?
-
-CHRISTINA: When you two were out for ice cream, you were supposed to talk to him about this.
-
-BRETT: About what? What am I supposed to tell him? Be smart?
-
-CHRISTINA: So you didn't talk to him? Brett, you were supposed to let him know the situation and what was expected of him.
-
-BRETT: Oh, Christina. C'mon. Does it really matter what I say to him? He's going to be doing arts and crafts and listening to story time.
-
-CHRISTINA: Yes, it matters! Some of these kids are going to cry as soon as they get here and some kids are going to be comfortable in the situation and doing what they're supposed to do - maybe going beyond what's expected, Brett. Are you familiar with that expression, Brett? Beyond what's expected?
-
-BRETT: Christina, I'll be happy if he doesn't eat the paste.
-
-BRETT: Seriously, how does watching him play tell them anything about him.
-
-CHRISTINA: It doesn't, Brett. It tells them about us.
-
-BRETT: What?
-
-CHRISTINA: How we parent. That's what they want to know.
-
-BRETT: So this is about us. Don't you think that's a little self- centered?
-
-CHRISTINA: Ugh! So did you tell Tyler anything at all, Brett?
-
-BRETT: Well actually, I told him ... (in an announcer voice) "kill the competition!"
-
-CHRISTINA: What are you talking about?
-
-BRETT: It's an ad. It was an ad for Home Depot or something. He was a little freaked out, and I told him it was a figure of speech about competition and doing your best. I told him ... confidence. (reconsiders and then comes back to it) Confidence.
-
-CHRISTINA: Oh. Oh. Well, good.
-
-BRETT: Yeah. You know, I wasn't really talking about this at all though. It was actually - to be honest, I think he was kind of freaked out about the slogan. So, I just kind of generalized.
-
-CHRISTINA: Well, sure. You tell a toddler to "kill the ... "
-
-BRETT: Right. Listen, Christina, I said that there's lots of people and you have to do your best if you want to get noticed. That's all.
-
-CHRISTINA: Right. Well good. That's good. That's good. So why didn't you just tell me that when I asked?
-
-BRETT: Because I wasn't really talking about this. I mean I think he really thought about it, but I don't remember if I really said anything specific about today.
-
-CHRISTINA: Hmm. Well, that's fine. I did.
-
-BRETT: Yeah? When?
-
-CHRISTINA: When we were driving in.
-
-BRETT: What'd you say?
-
-CHRISTINA: Same as you.
-
-BRETT: Yeah?
-
-CHRISTINA: Yeah, I told him that there are a lot of other kids who he'll see in his life and a lot in the room today and there are winners and there are losers. I told him it's best to think of himself as the sun and always make sure the teacher can see him shining bright. And that it is his job to be sure no one got in the way of his sunshine. (Long pause)
-
-BRETT: Oh.
-
-CHRISTINA: I just reminded him that it's a big world. And one little person can get crowded out by a lot of the mediocrity around him if he doesn't make sure he gets himself in the front of the line. Just like you - kill the competition.
-
-BRETT: Just like me? I told him to be confident! I didn't tell him to "kill the competition"!
-
-CHRISTINA: Well, neither did I.
-
-BRETT: Are you kidding????
-
-CHRISTINA: (realizing this is getting out of hand) Brett. Brett. Listen. Listen. You said it before. This isn't about Tyler. It's about us.
-
-BRETT: I didn't say that. You did.
-
-CHRISTINA: Anyway. We don't want to be arguing when they're watching him. Tyler is going to be Tyler and he's a part of us both. And I'm sure they'll see the best of us when they see him. Okay? Okay?
-
-BRETT: Yeah, you're - right. (looks to audience: a glass through which they can see Tyler play) Hey, there he is!
-
-CHRISTINA: Hey, baby. Who's my little handsome man? (MR. GLENN enters)
-
-MR. GLENN: Oh, he can't see you. That's a one-way window -- or mirror. I suppose it all depends on which side you're on.
-
-BRETT: Well, that's a little creepy.
-
-MR. GLENN: Oh, for the most part it's pretty benign. We use it to evaluate staff members usually. But of course, assuming Tyler is accepted into the program, you're always welcome to watch him play without affecting the ... the chemistry of the classroom environment.
-
-CHRISTINA: Oh. That's nice. What a little fella. He's gonna do a little painting.
-
-MR. GLENN: He's an interesting young man.
-
-CHRISTINA: Really?!
-
-MR. GLENN: Absolutely. We had a good conversation before we went in. He told me he got ice cream last night.
-
-BRETT: Yes he did.
-
-MR. GLENN: He also said something about the radio scaring him. It seems he was a little anxious about it.
-
-CHRISTINA: Really?
-
-BRETT: Yeah. There was some ad - really freaked him out. I changed the station.
-
-CHRISTINA: Yeah. Tyler's a very quiet - well - thoughtful boy. He thinks a lot. (long pause)
-
-MR. GLENN: Well, that's good.
-
-BRETT: Oh, look at that. He's got himself a girlfriend.
-
-CHRISTINA: No, no. Tyler's teaching her how to paint.
-
-BRETT: Yeah, how ‘bout that? They're painting together.
-
-CHRISTINA: No. He's teaching her.
-
-MR. GLENN: Really?
-
-CHRISTINA: He's teaching her how to paint. See he's helping her hold the brush. No. No. Take turns, now. Hmm.
-
-BRETT: Whoa, yeah that's not a lesson. That's a fight.
-
-CHRISTINA: Nonsense, he's helping her, but she's not paying attention.
-
-BRETT: Hmm. Nope they're fighting over that brush. Yeah, that's a fight.
-
-CHRISTINA: Well, of course it's not a fight. Tyler is twice her size. He's helping her.
-
-BRETT: I don't know. Okay, that's a shove.
-
-CHRISTINA: Hey, now! That really was a shove. That little girl just pushed Tyler down. Mr. Glenn, shouldn't the teacher be interceding at some point?
-
-MR. GLENN: I'm not sure that she's seen it yet. Oh! (All of them gasp in horror)
-
-BRETT: Oh, my God. That's just right in her eye!
-
-CHRISTINA: No, of course it isn't.
-
-BRETT: Oh, it's in there.
-
-MR. GLENN: Oh dear. (calling to be heard through the window) Mrs. Schiff!
-
-CHRISTINA: That's not his fault.
-
-BRETT: Christina.
-
-CHRISTINA: It's not his fault. That girl was pulling and he just let go. He was letting her have the brush. He was being generous!
-
-MR. GLENN: Finally, she's noticed.
-
-BRETT: Whoa that was quick!
-
-MR. GLENN: We do have a nurse on sight. And if that button is pushed ... well, as you can see, she's there in an instant.
-
-BRETT: Jeez, I am so sorry ... I don't know what happened there.
-
-CHRISTINA: It was an accident.
-
-MR. GLENN: Of course. Of course it was.
-
-CHRISTINA: Tyler no, no. No, honey. There are other brushes, you don't need that one. Not that one! (Horrified gasp from all three)
-
-BRETT: Oh. That just popped right out.
-
-CHRISTINA: What? Why is she yelling at Tyler? Oh, c'mon now. She's just upsetting him more.
-
-BRETT: (rushing to the door of the observation room) Okay, this is over. I'm going ... (the door is locked) Mr. Glenn. Do you have a key?
-
-MR. GLENN: No. I didn't even know there was a lock.
-
-BRETT: Well, there's something keeping this from opening!
-
-MR. GLENN: Dear God. He's locked us in here.
-
-CHRISTINA: That's ridiculous. Tyler could not have done that.
-
-BRETT: There's no way out!l!
-
-CHRISTINA: Tyler, honey. This is mommy. It's okay. It's okay.
-
-MR. GLENN: He's going for the scissors!
-
-BRETT: No, Tyler!
-
-CHRISTINA: Tyler! Tyler! Use the roundies, honey. Not the sharpies, not the sharpies!
-
-(Both men freeze and look at Christina in shock. Then, looking back at the window, they all gasp in terror)
-
-BRETT: There goes the nurse.
-
-MR. GLENN: (patting his pockets) He's taken my cellphone!
-
-BRETT: Christina. Your phone.
-
-CHRISTINA: Don't be rude, Brett. (Brett makes a dash for her purse and rifles through it till he gets the phone)
-
-CHRISTINA: No. No. Tyler. That's not nice. Gentle hands. Gentle hands.
-
-BRETT: (fumbling with the phone) C'mon! C'mon!
-
-CHRISTINA: Don't you run with those scissors.
-
-MR. GLENN: Why is he climbing up there? (Their eyes follow him up a jungle gym)
-
-CHRISTINA: He's playing king of the mountain! He's a little Moufasa! (She does a tiny wave) Look, Brett. They're all his little subjects! (Their eyes follow him jumping from the jungle gym. Again, the men gasp in horror and Brett drops the phone.)
-
-BRETT: Oh, God.
-
-CHRISTINA: Tyler. Mouths are for food. No biting! No!
-
-MR. GLENN: Oh, that's the entire ear!
-
-CHRISTINA: Tyler, no! People are not food! No! (Suddenly they all exhale.)
-
-MR. GLENN: Oh, dear God.
-
-CHRISTINA: Oh, look who's tired. No. No. Find your own space. Let her sleep. No! (As the men become even more shocked) Hands to yourself, Tyler. Hands to yourself!
-
-MR. GLENN: How did he ... ? He knew exactly where the heart was.
-
-BRETT: Well, that's something.
-
-CHRISTINA: We have a few anatomy CD's. He's very advanced.
-
-MR. GLENN: Dear God, he's walking to window.
-
-BRETT: It's like he can see us.
-
-MR. GLENN: He's looking right at us!
-
-CHRISTINA: Hi, baby. (In baby talk) Who's got the messy red hands? Who's my messy boy? No. No. Wipe on a towel sweety. Not the window.
-
-MR. GLENN: (recoiling in terror) He sees us! He sees us!
-
-CHRISTINA: Don't be silly. He's writing letters. C - 0 -
-
-MR. GLENN: They're backwards. Oh God! He can see us!
-
-CHRISTINA: I know. He is very smart. Aren't you Tyler sweetie! Aren't you!
-
-BRETT: N - F - I - D -
-
-MR. GLENN: Confidence. He spelled confidence.
-
-CHRISTINA: Oh, my little Moufasa is tired. Look at the little angel. He's just gonna lie down and have a "widdle nappie." (She watches him lovingly while Mr. Glenn cowers in the corner, panting)
-
-BRETT: Mr. Glenn. I'm so ... well, I just don't know what to say.
-
-MR. GLENN: There's nothing to say.
-
-BRETT: Of course. Of course ... I just ... this is just... unbelievable.
-
-MR. GLENN: Yes. Yes. (He collects himself and organizes his notes. He then pulls two sheets from the stack.) Well. You'll need to fill out these two forms. And I'll need a copy of Tyler's physical and a copy of your insurance card.
-```
-
----
-
-## IC-0911: A Short History of Weather
-
-- Title: A Short History of Weather
-- Author (byline): Jonathan Yukich
-- Work: The Best 10-Minute Plays for 2 or More Actors 2009, Pg 70-76
-- Publisher: Smith and Kraus
-- Publication date as stated: Dec 2009
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: EARL GREY, ALOE VERA, BOTH
-- Teaser before the introduction: No
-- Spoken words (computed): 1297
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Jonathan Yukich
-Book: The Best 10-Minute Plays for 2 or More Actors 2009, Pg 70-76
-ISBN: 978-1575257594
-Publisher: Smith and Kraus
-Date (Month/Year): Dec 2009
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: (as if they have already been playing this game for a while) Okay, Okay, next one . . . RAIN.
-
-ACTRESS: (singing) It’s raining, It’s pouring. The Old Man is snoring . . .
-
-ACTOR: Life isn’t about waiting for the storm to pass . . . it’s about learning to dance in the rain. (he dances)
-
-ACTRESS: April showers bring May flowers . . .
-
-ACTOR: If a kid asks where rain comes from, tell him "God is crying." And if he asks why, tell him, "Probably because of something you did." (both laugh)
-
-ACTRESS: Join us on a quick romp through the courtship and marriage of a weather-obsessed couple: Earl Grey (motions to Actor)
-
-ACTOR: and (motions to Actress) Aloe Vera in
-
-TOGETHER: A Short History of Weather by Jonathan Yukich
-```
-
-### Performance text (classify this)
-
-```text
-Earl Grey gazes into the sky, surveying, then speaks to the audience.
-
-EARL GREY: (Pg 70-76) What's today's weather? What's tomorrow's? Next week's? Have you noticed? Checked? I have. I know the weather very well, or try to. I'm not gloating, just saying. The weather's very important. Critical. It never leaves. (A female yelp is heard, followed by a thud) My wife fell from the sky on a cold, misty morning.
-
-ALOE VERA: Oh gosh! Fallin' from the sky stings!
-
-EARL GREY: Fifty-eight degrees, with a slight southwesterly breeze. Curious, and in the market for a mate, I move toward the stranger.
-
-ALOE VERA: Oh, I think my face is broken! What misfortune!
-
-EARL GREY: Miss, are you all right?
-
-ALOE VERA: (Shielding herself.) Don't look! I’m unseemly!
-
-EARL GREY: You took quite a dive.
-
-ALOE VERA: I should be dead!
-
-EARL GREY: Now, don't say that. Let me have a look. (He draws her hands from her face)
-
-EARL GREY: Oh my . . .
-
-ALOE VERA: I know! Ghastly, aren't I! A she-beast! I was cute once, I swear!
-
-EARL GREY: You still are. As cute as a bunny.
-
-ALOE VERA: Don't goad me. I can take it. I'm a mutant!
-
-EARL GREY: On the contrary . . .
-
-ALOE VERA: I am! AIl because of air balloons! Such an impractical way to travel!
-
-EARL GREY: Outdated, yes.
-
-ALOE VERA: Hours ago I boarded one. Mostly cloudy, highs in the mid-eighties. Out for a stroll, enjoying the grandness of life and climate, when, suddenly, the parachute valve locked up! There was no way to land! I was terrified!
-
-EARL GREY: Naturally.
-
-ALOE VERA: Here I am, stranded in midair, helpless, sailing closer and closer to outer space where I'd probably combust or evaporate, right?
-
-EARL GREY: Very likely.
-
-ALOE VERA: So I gambled and hurled myself overboard, without thinking of the pain or what it'd do to my face.
-
-EARL GREY: Your face is lovely.
-
-ALOE VERA: Oh, cease your niceties! I'm a disfigured hag! Give it to me straight, why don't you!
-
-(Earl Grey kisses her with feeling)
-
-ALOE VERA: I didn't get your name.
-
-EARL GREY: Earl Grey. And yours?
-
-ALOE VERA: Call me Aloe. Aloe Vera.
-
-EARL GREY: Aloe Vera, I'd like to spend a lifetime with you.
-
-ALOE VERA: Our wedding day is sunny and clear. (scene change . . . wedding music)
-
-EARL GREY: Dewpoint: 12 percent.
-
-ALOE VERA: Earl Grey rents a gazebo. I decorate with papier-mâché.
-
-EARL GREY: Do you take this man, me, to be your lawfully wedded husband?
-
-ALOE VERA: I do. Do you take this woman, me, to be your lawfully wedded wife?
-
-EARL GREY: I do. (Loud, celebratory music. They dance -- Music and dance cut abruptly.)
-
-ALOE VERA: After honeymooning at the South Pole, life ensues.
-
-EARL GREY: Our future spreads before us like a broken mirror.
-
-ALOE VERA: It's time to get jobs.
-
-EARL GREY: Be adults.
-
-ALOE VERA: I land a position as a phone psychic.
-
-EARL GREY: I become a traveling gutter salesman.
-
-ALOE VERA: Tough rackets.
-
-EARL GREY: You'll find most homeowners are content with their gutters.
-
-ALOE VERA: And few psychic callers want to discuss the weather.
-
-EARL GREY: (As a caller) Ring-a-ding!
-
-ALOE VERA: Phone psychic! How can I help!
-
-EARL GREY: Will I ever know true love?
-
-ALOE VERA: How 'bout this jet stream we've been seeing?
-
-EARL GREY: (Hanging up) Who gives a flip, you fake! Click!
-
-ALOE VERA: Sadness.
-
-EARL GREY: Our lives become mundane.
-
-ALOE VERA: One dimensional.
-
-EARL GREY: Lethargic.
-
-ALOE VERA: So, we buy a cat and name her Karen. (Aloe Vera is suddenly holding a cat)
-
-EARL GREY: Yeow!
-
-ALOE VERA: Hey kitty, kitty.
-
-EARL GREY: So soft, so sweet.
-
-ALOE VERA: A real part of the family.
-
-EARL GREY: Then one icy winter evening . . .
-
-ALOE VERA: Earl Grey backs over Karen with his gutter van.
-
-EARL GREY: Yeow!
-
-ALOE VERA: A deep depression sets in.
-
-EARL GREY: The only cure is twins. (Crying babies sound. Both are suddenly holding babies)
-
-ALOE VERA: They're born during the summer solstice.
-
-EARL GREY: A long day, indeed.
-
-ALOE VERA: One girl, one boy.
-
-EARL GREY: From the start, we could see the girl was intelligent and resourceful.
-
-ALOE VERA: We name her Google.
-
-EARL GREY: The boy, dull and common.
-
-ALOE VERA: We name him New Hampshire.
-
-EARL GREY: For a while, we're the happiest family. (Celebratory music. Dancing. Cuts abruptly)
-
-ALOE VERA: But funds dwindle.
-
-EARL GREY: Aloe Vera loses her psychic job.
-
-ALOE VERA: Didn't see it coming.
-
-EARL GREY: And, despite the reliability of rain, the great gutter boom never unfolds.
-
-ALOE VERA: I decide to speak to Earl Grey. (To Earl) Earl Grey, I feel somethings missing from our lives.
-
-EARL GREY: I feel it too, Aloe Vera.
-
-ALOE VERA: Two kids, three mortgages, a pile of bills. . . where's the money gonna come from?
-
-EARL GREY: Crime.
-
-ALOE VERA: Earl Grey was right. The only reasonable option was crime. (Babies are tossed. Both pick up guns)
-
-EARL GREY: Our first bank robbery comes on a storybook spring day.
-
-ALOE VERA: Barometric pressure: 30.20 and rising.
-
-EARL GREY: Blue skies and golden sunshine.
-
-ALOE VERA: Perfect for a picnic.
-
-EARL GREY: (Gun pointed) THIS IS A HOLDUP! GET YOUR HANDS UP, MAGGOTS!!!
-
-ALOE VERA: (Gun pointed) DO IT NOW! OR I'LL BLOW OFF YOUR UGLY HEADS! (Distant sirens; they take the loot and run)
-
-EARL GREY: What a rush!
-
-ALOE VERA: Our own private fortune!
-
-EARL GREY: Google and New Hampshire won't have to worry again.
-
-ALOE VERA: And I don't feel guilty, not in the least.
-
-EARL GREY: Who knew we could be so bad? (Loud music, jubilant dance. Cuts abruptly.)
-
-ALOE VERA: Google goes to college, becomes an engineer, and invents a mechanized wind chime.
-
-EARL GREY: We're very proud.
-
-ALOE VERA: Meantime, New Hampshire drops outta school and joins a grunge band called The Sweaty Pickles.
-
-EARL GREY: We're very disturbed. (As if to his son) What's wrong with your biscuit, boy! You haven't left the garage in three weeks! It's time you stop playing this hullabaloo and think about your future! Make somethin' of yourself! Go in the market for a mate!
-
-ALOE VERA: Financially, however, things are looking up.
-
-EARL GREY: With the extra loot, I’m able to expand the gutter business into monsoon regions.
-
-ALOE VERA: Cha-ching!
-
-EARL GREY: And for our twentieth anniversary, we splurge on a trip to Egypt.
-
-ALOE VERA: Where a massive sandstorm ensnares our hotel.
-
-EARL GREY: We watch from our penthouse balcony, knowing we might perish bur unafraid still.
-
-(Gusting winds. Both are awed by what they see.)
-
-ALOE VERA: Isn't it remarkable?
-
-EARL GREY: Wondrous. (Down on one knee, pulling out a ring) Aloe Vera, your falling from the sky was the most amazing gift. I'd like you to have this, love, as a token of my renewed vow.
-
-ALOE VERA: Oh, Earl Grey . . .
-
-EARL GREY: We're just two grains of sand.
-
-ALOE VERA: Swirling madly in the desert debris.
-
-EARL GREY: Clinging to each other despite it all. (The wind gusts reach a crescendo, then cut.)
-
-ALOE VERA: On the strength of our newfound fortune, Earl Grey runs for the Senate.
-
-EARL GREY: My top issue: a national weather day.
-
-ALOE VERA: Google, a celebrity inventor, is a huge help to the campaign.
-
-EARL GREY: New Hampshire, (beat) a minor embarrassment.
-
-ALOE VERA: Election night arrives and victory is ours.
-
-EARL GREY: (Stump speech) For too long this nation has shortchanged its weather! Tonight, with one voice, you sent a resounding message, friends! It's time to recognize! Let's hear it!
-
-BOTH: (Chanting) We like weather! We like weather!
-
-ALOE VERA: So, we move to Washington.
-
-EARL GREY: Where our ideas are met with stone-faced pundits.
-
-ALOE VERA: They say the country isn't ready for a Weather Day.
-
-EARL GREY: Buncha blowhards.
-
-ALOE VERA: Even so, it was a happy rime, those years.
-
-EARL GREY: Google makes us grandparents.
-
-ALOE VERA: And, to our astonishment, New Hampshire's band, The Sweaty Pickles, begins to take off. After three terms in the Senate, Earl Grey finally gets his Weather Bill passed.
-
-EARL GREY: How sweet it is!
-
-ALOE VERA: I was working out on the StairMaster when he broke it to me. (Begins stepping as if working out)
-
-EARL GREY: Darling, I've got news.
-
-ALOE VERA: I'll never forget the weather that day, not as long as I live. The sky was sepia. Sorta. I can't really describe the color, but once or twice in our lives, the heavens have a strange, hazy light to them. Kinda dulled, like the sunshine’s weeping. Maybe I’m nuts, but it's comforting, those days, at least for me. I think it's the color of memory.
-
-EARL GREY: It passed.
-
-ALOE VERA: IT PASSED! (Ecstatic, they embrace and dance again to the joyous music. Cuts.)
-
-EARL GREY: (Again, a stump speech.) Humbly, we gather today to pay homage to the world's most persistent icon. And so, without further delay, what we've all been waiting for: I hereby declare this National Weather Day!
-
-BOTH: Hip Hip Hooray! Hip Hip Hooray!
-
-ALOE VERA: I love you, Earl Grey.
-
-EARL GREY: I love you, Aloe Vera. (A zap. Aloe Vera collapses like a brick.)
-
-ALOE VERA: Ouch! What's happened?
-
-EARL GREY: (Rushing to her aid) You've been struck by lightning!
-
-ALOE VERA: I'm all warm and fuzzy!
-
-EARL GREY: It came outta nowhere!
-
-ALOE VERA: I don't feel so good.
-
-EARL GREY: Irony -- my arch nemesis!
-
-ALOE VERA: Live by it, die by it. Good-bye, Earl Grey. My heart's stopping.
-
-EARL GREY: But you can't! Winters around the corner. . . who'll drink cocoa and collect snowflakes with me? No one can marvel over a snowflake like you, Aloe Vera.
-
-ALOE VERA: You kind man. Time marches, but your keen eyes are the same as that boy's who first rescued me. You asked for a lifetime and that's precisely what we've had together. I'm glad my air balloon malfunctioned.
-
-EARL GREY: I'm glad your face wasn't broken. (They chuckle)
-
-ALOE VERA: When you think of all we'll leave behind . . .
-
-EARL GREY: Not too shabby.
-
-ALOE VERA: (Growing weaker) You'll take care of the tombstone and epitaph. . . ?
-
-EARL GREY: I didn't think the moment would come.
-
-ALOE VERA: But you remember?
-
-EARL GREY: "Everything possible is happening somewhere on earth. And above it, perpetually passive and indifferent, hovers the weather."
-
-(Earl Grey hugs his wife to him as lights fade.)
-```
-
----
-
-## IC-0912: Shrek - Screenplay
-
-- Title: Shrek - Screenplay
-- Author (byline): Ted Elliott, Terry Rossio, Joe Stillman and Roger S.H. Schulman
-- Work: Not specified
-- Publisher: Scriptfly.com
-- Publication date as stated: March 2011
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: ACTRESS, ACTOR, SHREK, TOGETHER, HEAD GUARD, DONKEY, PINOCCHIO, FARQUAAD, MIRROR, WOODEN PEOPLE, FIONA, WHISPER
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1509
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Ted Elliott, Terry Rossio, Joe Stillman and Roger S.H. Schulman,
-based loosely on the book by William Steig
-ISBN: N/A
-Publisher: Scriptfly.com
-Date (Month/Year): March 2011
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTRESS: Join us today for a fractured fairy tale about a smelly ogre with a bad disposition.
-
-ACTOR: He sets out on a quest to rescue a beautiful princess from a fire-breathing dragon.
-
-ACTRESS: The princess packs a punch, however, that softens his heart.
-
-ACTOR: And through the story, we learn 3 very essential lessons
-
-ACTRESS: 1) The importance of being our authentic selves, for true beauty is found within
-
-ACTOR: 2) You don’t have to be what everyone expects you to be
-
-ACTRESS: And 3) True love is often found in unexpected places and people.
-```
-
-### Performance text (classify this)
-
-```text
-(based loosely on the book by William Steig)
-
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
-
-Suggested Roles:
-
-ACTRESS: Head Guard, Donkey, Pinocchio, Mirror, Wooden Person 1, Whisper echoing
-
-ACTOR: Shrek, Farquaad, Wooden Person 2, Dragon, Mirror echoing offstage
-
-SHREK: (Pg 1) Once upon a time there was a lovely princess. But she had an enchantment upon her which could only be broken by love's first kiss. She was locked away in a castle guarded by a terrible fire-breathing dragon. She waited in the dragon's keep in the highest room of the tallest tower for her true love and true love's first kiss. (laughs) Like that's ever gonna happen!
-
-TOGETHER: Shrek
-
-ACTOR: by Ted Elliott, Terry Rossio, Joe Stillman and Roger S.H. Schulman
-
-ACTRESS: based loosely on the book by William Steig
-
-Shrek is going about his day, perhaps digging up onions for dinner, or cleaning the windows of his cottage.
-
-HEAD GUARD: (Pg 5) (with false bravado --- he’s really scared of ogres) You there. Ogre!
-
-SHREK: (he turns) Aye?
-
-HEAD GUARD: By the order of Lord Farquaad I am authorized to place you under arrest and transport you to a designated resettlement facility.
-
-SHREK: (menancingly) Oh, really? You and what army? (the guard looks behind him to see that no one is behind him) (Shrek makes a move toward the guard, who screams and runs)
-
-(laughing Shrek returns to his work – Donkey enters)
-
-DONKEY: Wow! Those guards! They thought they was all that. Then BAM! They was trippin’ over themselves. Incredible! (Pg 6) You’re a mean, green, fightin’ machine! (Shrek turns and regards Donkey for a moment, then roars very loudly) Oh, wow! That was really scary. (reacts to the smell of Shrek’s breath) If that don’t work, your breath certainly will get the job done. You need some Tic Tacs or somethin’ cause your breath stinks! (Shrek covers his mouth, embarrassed)
-
-SHREK: (Pg 7) I am an ogre, you know. “Grab your torch and pitchforks.” Doesn’t that bother you?
-
-DONKEY: Nope. I like you. What’s your name?
-
-SHREK: (taken aback – no one likes an ogre) Uh, Shrek. (he walks away, but Donkey follows)
-
-DONKEY: You know what I like about you, Shrek? You got that kind of I-don't-care-what-nobody-thinks-of-me thing. I respect that. You all right. (Shrek shakes his head, exasperated and turns to go inside his cottage) (Pg 6) Hey, wait a minute! I got a great idea! I'll stick with you. Together we'll scare the spit out of anybody that crosses us. *****Scene – The next morning*****
-
-SHREK: (Pg 11) (Shrek is awoken by loud noises of chaos outside – It sounds like a party – He angrily rushes outside and roars) What are you doing in my swamp? (the crowd goes silent)
-
-PINOCCHIO: (gulps, then answers) We were forced to come here. Lord Farquaad huffed and he puffed and he . . . signed an eviction notice.
-
-SHREK: (heavy sigh) (Pg 12) Okay. Attention, all fairy tale things. I’m gonna see this guy Farquad right now and get you all off my land and back where you came from! (the crowd cheers) Do not get comfortable. Your welcome is officially worn out. Who know where this Farquaad guy is?
-
-DONKEY: Oh, I do. I know where he is?
-
-SHREK: (purposely ignoring Donkey - overlapping) Anyone else? Anyone at all?
-
-DONKEY: Oh! Oh, pick me! I know! Me . . . Me!
-
-SHREK: (sighs) Okay, fine. You’re comin’ with me (Shrek and Donkey exit) *****Scene – Lord Farquaad’s Castle*****
-
-FARQUAAD: (Pg 13) (speaking to a few fairy tale creatures) I'm not the monster here. You are. You and the rest of that fairy tale trash, poisoning my perfect world. (he motions for them to leave, then turns to the Magic Mirror on the Wall) (Pg 15) Mirror, mirror on the wall. Is this not the most perfect kingdom of them all?
-
-MIRROR: Well, technically you're not a king. (Farquadd responds as if to smash the mirror) What I mean is you're not a king YET. But you can become one. All you have to do is marry a princess. (chuckles nervously, then continues as a game show host) So, just sit back and relax, my lord, because it's time for you to meet today's eligible bachelorettes. Bachelorette number one – Cinderella! Her hobbies include cooking and cleaning for her two evil sisters. (Cinderella strikes a pose) Bachelorette number two – Snow White! Although she lives with seven other men, she's not easy. (Snow White strikes a pose) And last, but certainly not last, Bachelorette number three is a fiery redhead who likes pina coladas and getting caught in the rain. Yours for the rescuing -- Princess Fiona! (Fiona strikes a pose)
-
-FARQUAAD: (Pg 16) Princess Fiona. She’s perfect! (to himself) All I have to do is find someone who can go . . .
-
-MIRROR: I should probably mention the little thing that happens after sunset . . .
-
-FARQUAAD: Silence! *****Scene – Shrek and Donkey arrive in DuLoc*****
-
-DONKEY: (Pg 17) That’s it! That’s DuLoc!
-
-SHREK: (looking up at a 40-story castle) So, that must be Lord Farquaad’s castle.
-
-(As they approach the gates to the city, Donkey knocks on the gate and music begins to play – 2 wooden people emerge from each side of the gate and begin to sing)
-
-WOODEN PEOPLE: (Pg 18-19) (Singing and dancing)
-Don't make waves, stay in line
-And we'll get along fine
-DuLoc is the perfect place
-Please keep off of the grass
-Shine your shoes, wipe your... face
-DuLoc is, DuLoc is
-DuLoc is the perfect place.
-
-(Donkey and Shrek respond; Shrek is disgusted and Donkey excited)
-
-DONKEY: Wow! Let’s do that again! (Inside the gates, a trumpet sounds and Lord Farquaad is speaking to a group of knights)
-
-FARQUAAD: Brave knights, today one of you shall have the honor – no, no – the privilege to rescue the lovely Princess Fiona from the fiery keep of the dragon. Some of you may die, but it’s a sacrifice I am willing to make. (he notices Shrek) Oh! What is that? It’s hideous! (Shrek points to himself, confused) Knights, new plan! The one who kills the ogre will be named champion! (A fight ensues – Suffice to say that Shrek kicks butt) (Somewhat disgusted with the poor showing of his knight, Farquaad sighs) (Pg 20-21) Congratulations, ogre. You’ve won the honor of embarking on a great and noble quest.
-
-SHREK: Quest? I’m already on a quest – a quest to get my swamp back. My swamp! Where you dumped those fairy tale creatures!
-
-FARQUAAD: All, right, I’ll make you a deal. Go on this quest for me, and I’ll give you your swamp back. (as Donkey and Shrek leave DuLoc)
-
-DONKEY: Let me get this straight. You're gonna go fight a dragon and rescue a princess just so Farquaad will give you back a swamp. I don't get it. Why don't you just pull some of that ogre stuff on him? Throttle him, grind his bones to make your bread . . .
-
-SHREK: (Pg 27) (interrupting) Donkey, two things, okay? Shut . . . . Up! *****Scene – Shrek and Donkey arrive at the Dragon’s tower*****
-
-SHREK: The princess will be up the stairs in the highest room in the tallest tower. Go over there and see if you can find any stairs (Shrek walks off)
-
-DONKEY: (talking to himself) Cool. You handle the dragon. I’ll handle the stairs. I’m the stair master! (Donkey rounds a corner and . . . ) (Pg 28) Aah! DRAGON!!! (Dragon roars and flaps its wings) That’s one dazzling smile you got there. And you know what else? (flaps turn decidedly “show-girl”) You’re a girl Dragon! Just reeking of feminine beauty. (Dragon flutters her eyes) SHREK! *****Scene – Shrek arrives at Fiona’s Room***** Fiona appears to be asleep. Shrek enters, looks at her and she puckers her lips. Shrek is not entranced. He takes her by the shoulders and shakes her.
-
-SHREK: (Pg 29) Wake up! (she rouses) Are you Princess Fiona? Let’s go!
-
-FIONA: Wait! You should sweep me off my feet out yonder window and down a rope onto your valiant steed. Recite an epic poem for me. A ballad? Something!
-
-SHREK: Yesh, sorry, lady. There’s no time (the dragon roars)
-
-FIONA: (surprised – she looks out the window) You didn’t slay the dragon? (Shrek grabs Fiona and runs out. He grabs Donkey and delivers them all to safety) (Pg 32) You did it! You rescued me! You’re amazing. (Pg 34) It’s destiny! A princess locked in a tower and beset by a dragon is rescued by a brave knight, and then they share true love’s first kiss.
-
-DONKEY: With Shrek? Wait. You think that Shrek is your true love? (Donkey and Shrek burst out laughing)
-
-SHREK: (Pg 40-41) Look . . . I’m better off alone. People take one look at me and go “Aah! Help! Run! A big, stupid, ugly ogre!” They judge me before they even know me.
-
-FIONA: (Pg 35) But, I have to be rescued by my true love, not by some ogre and his . . . his pet.
-
-(Donkey is offended)
-
-SHREK: Princess, I was sent to rescue you by Lord Farquaad. He is the one who wants to marry you.
-
-FIONA: (Pg 36) And what of my groom-to-be? Lord Farquaad? What’s he like?
-
-DONKEY: There are those who think little of him. (he laughs)
-
-SHREK: Let me put it this way, Princess. Men of Farquaad’s stature are in short supply (he laughs) (Pg 37) But I’ll let you do the “measuring” when you see him tomorrow. (Shrek exits to find a place to camp)
-
-FIONA: (to Donkey) Tomorrow? (she’s obviously worried) It’ll take that long? (she notices the setting sun) (Pg 51) Sunset? Oh, no!
-
-MIRROR: (Pg 16) (echoing voice off stage) I should probably mention the little thing that happens after sunset . . .
-
-FIONA: (Pg 53-54) Oh, no! (Fiona begins to change into an ogre, burping and farting may be involved))
-
-DONKEY: (freaking out) Aah! (calling off) Shrek! Shrek! What did you do with the princess? (shocked) You ate [her]?!!!
-
-SHREK: (Pg 56) (cut to Shrek to is talking to himself as he picks a flower, he practices) Princess? I saw this flower and thought of you because it’s pretty. Well, I don’t really like it, but I thought you might ‘cause you’re pretty. But I like you anyway! (he continues to practice in pantomime)
-
-FIONA: (Pg 54-56) Donkey, I’m the princess. In this body. It only happens when the sun goes down. (sighs) When I was a little girl, a witch cast a spell on me . . . until you find true love’s first kiss . . . and take love’s true form.” Every night I become this horrible, ugly beast! That’s why I have to marry Lord Farquaad before the sun sets tomorrow and he sees me like this! (Shrek approaches the clearing just in time to hear . . . ) I mean, really, who can ever love a beast so hideous and ugly. “Princess” and “ugly” don’t go together. (Shrek heaves a deep sigh, throws the flower down and walks away)
-
-DONKEY: Princess, how ‘bout you don’t marry Farquaad . . . You’re kind of an orge, and Shrek – well, you got a lot in common. *****Scene – The next morning*****
-
-(Fiona sees the rising sun and as it rises, she turns back into a human – she searches for Shrek who never returned the night before)
-
-FIONA: (Pg 57-58) Shrek? Shrek! There’s something I want . . . I have to tell you.
-
-SHREK: You don’t have to tell me anything, Princess. I heard enough last night. Like you said, “Who could love a hideous, ugly beast?”
-
-FIONA: (misunderstanding) But I thought that wouldn’t matter to you.
-
-SHREK: (also misunderstanding) Yeah? Well, it does. (Fiona looks at him in shock and dejected, she exits – Donkey enters)
-
-DONKEY: Shrek, what are you doing? You’re letting her get away.
-
-SHREK: Yeah? So what?
-
-DONKEY: Shrek, there’s something about her you don’t know. I talked to her last night . . . (Pg 63) All she ever did was like you, maybe even love you.
-
-SHREK: Love me? She said I was ugly, a hideous creature. I heard the two of you talking.
-
-DONKEY: She wasn’t talkin’ about you! She was talking about . . . Why don’t you just go ask her?
-
-SHREK: (Pg 67-68) (Overcome by emotion, Shrek swallows his pride and searches for Fiona) Fiona! I need to talk to you.
-
-FIONA: (angrily) Oh, now you wanna talk? It’s a little late for that.
-
-SHREK: (hesitantly) You can’t marry [Farquaad] . . . He’s not your true love.
-
-FARQUAAD: (Pg 13) (echoing) I'm not the monster here. You are. You and the rest of that fairy tale trash, poisoning my perfect world.
-
-FIONA: And what do you know about true love?
-
-SHREK: Well, I . . . uh . . . I mean . . . (he gathers his courage) (Pg 70) I – I love you.
-
-FIONA: (smiles) I love you too! (they kiss – and the magic of the spell begins to work)
-
-SHREK: (Pg 1) Once upon a time there was a lovely princess. But she had an enchantment upon her which could only be broken by love's first kiss.
-
-WHISPER: (echoing) (Pg 71) Until you find true love’s first kiss and take love’s true form . . . true form . . . true form. . . (Fiona is transformed into her true self – an ogre – some burping and farthing may be involved)
-
-SHREK: (Shrek is shocked and overjoyed) Fiona? You are beautiful! (burps, the both laugh and kiss again)
-```
-
----
-
-## IC-0913: Sibs
-
-- Title: Sibs
-- Author (byline): Diane Flacks and Richard Greenblatt
-- Work: Not specified
-- Publisher: Playwrights Guild of Canada
-- Publication date as stated: Oct 2000
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: SHE, HE, BOTH
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1574
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Diane Flacks and Richard Greenblatt
-ISBN: 978-1774051825
-Publisher: Playwrights Guild of Canada
-Date (Month/Year): Oct 2000
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTRESS: To the outside world we all grow old. But not brothers and sisters.
-
-ACTOR: We know each other as we always were. We know each other's hearts.
-
-ACTRESS: We share private family jokes. We remember family feuds and secrets, family griefs and joys.
-
-TOGETHER: We live outside the touch of time.
-
-ACTOR: After the death of their parents these two adult siblings must put their differences aside
-
-ACTRESS: And realize that no matter what the circumstance -- what distance lies between them -- they will always be
-
-TOGETHER: Sibs by Diane Flacks and Richard Greenblatt
-```
-
-### Performance text (classify this)
-
-```text
-(Packing for trip to parent’s funeral, they complain out loud about the other) – Separate locations
-
-SHE: (Pg 6-7) We always have to do things his way, I mean always!
-
-HE: She always has to be the centre of attention.
-
-SHE: I can tell he's always seeking my approval, because, frankly he lives his life in a way that is less interesting than he could, and then he starts judging me, and I do just fine thanks for asking!
-
-HE: She really is a very interesting person, it's just that sometimes she can't help herself from saying the wrong thing at the wrong time and basically she just doesn't know when to shut up!
-
-SHE: [When we were teenagers] he took up all my space in the car and then he farted and left it there! And then he scratches his *butt* and he puts his fingers in my hair!
-
-HE: . . . she always had to have like these new jeans or she always had to have those new jeans and it didn’t even matter which new jeans she had because her *butt* was still like 8 feet wide!
-
-SHE: I take care of everything and I don't say a word and the minute he lifts a finger, we all have to bow down.
-
-HE: When the going gets tough, she takes off. Maybe I'm a little slow, but I've finally come to realize ... you can't change a person.
-
-SHE: Well, you can't change.
-
-BOTH: (simultaneously) I'm really worried about her/him.
-
-SHE: He is not happy, and he thinks he has to follow this path that just leads to disappointment - I mean, live your life!
-
-HE: If she keeps on going in this way she won't have anything saved for her retirement, I mean, she can't work forever, what's she gonna do?
-
-BOTH: (simultaneously) And s/he has terrible taste in women.
-
-(On Phone)
-
-HE: (Pg 10 - 12) I just thought . . . that because there's a whole bunch of stuff to do, and because some of it is time sensitive, right? Some of it has to be done right now. Well, some of it is legal stuff, right? Lawyer stuff, the death certificate, getting the will probated -- that kind of stuff, right?
-
-SHE: Right, but I don't have to just sit here in the city. Some of these things just happen --
-
-HE: No they have to be dealt with -- somebody has to be in charge. Somebody has to make sure that they're done, right?
-
-SHE: Right. And you don't want to do it. HE: Well -- I --
-
-SHE: Well, let's do it long distance. HE: No uh --
-
-SHE: You know what, I'll do it? Give me the number -- HE: Excuse me-
-
-SHE: I'll get the number from the lawyer and I'll just handle it all long distance. You don't have to do it. I understand, you're busy.
-
-(Scene transition and they are now little kids)
-
-SHE: Do you want to play with *Play-Dough*? (NOTE: script uses the term “plasticine”)
-
-HE: Yeah.
-
-SHE: Do you know where my *Play-Dough* is? HE: Yeah.
-
-SHE: It's in my room. In my closet! GO! Go! Go go go go go! (HE runs up the stairs to her room and gets it. They play for a few seconds) What are you making? A snake? A bone?
-
-HE: Mommy.
-
-SHE: I'm making mommy too. Isn't mine good? HE: Yeah.
-
-SHE: Yours is good . . . too. (They work a bit) Hey! Can you get me a drink?
-
-HE: Yeah.
-
-SHE: Go! go go go go go go go go go go! (HE runs to go get it, but is gone a long while; SHE has “fixed” his Mommy; after a pause she yells) Where are you?
-
-HE: In the kitchen! SHE: Come here with the drink!
-
-HE: (beat) Oh yeah! (HE sees his "mommy." HE is upset)
-
-SHE: I fixed it. Your mommy looked like a bug. (He smashes both of their sculptures)
-
-SHE: What are you doing?!
-
-BOTH: Mommy! Mommy!
-
-(Scene transition – still kids – Scene opens with SHE tickling HE)
-
-HE: (Pg 18-19) Stop it I have to pee! SHE: Don't pee!
-
-HE: Don't do that. SHE: Pssss.
-
-HE: Stop it! SHE: Pss psss pssss.
-
-HE: No no stop stop. (silent beat) Oh no!! I peed! I peed!
-
-SHE: You peed! You peed! I made you pee!! (SHE throws her arms up, victorious Her laugh becomes the laugh of a drunk teen. SHE turns and starts to walk away)
-
-(Scene transition – teenagers)
-
-SHE: You peed. I made you pee, mister. HE: Shh. You'll wake up Mom and Dad.
-
-SHE: You peed. I made you pee.
-
-HE: That's good. Now, come on, let's get you upstairs. (HE tries to help her up)
-
-SHE: You smell like . . . potatoes.
-
-HE: We've got to get you upstairs before Mom and Dad hear. (Pg 20) God. You're disgusting.
-
-SHE: You're disgusting . . . (Pg 21) Spinning. HE: Are you going to barf?
-
-SHE: No. (SHE barfs) HE: Ewwww!!
-
-(Scene transition – still teenagers –his fantasy rehearsal of how he would ask her for advice. HE and SHE face the audience)
-
-HE: (Pg 23-24) Can I ask you a question? SHE: I don't know, can you?
-
-HE: There's this dance tonight, and I wanted to know, if you're slow dancing with a girl is it o.k.
-
-SHE: Yuck! Ick! Gross! Disgusting! (HE waves away that attempt and tries another)
-
-HE: Can I ask you a question? SHE: Sure.
-
-HE: Say, hypothetically, I was slow dancing with a girl-
-
-SHE: Who?! HE: Well, it doesn't matter who.
-
-SHE: Rochelle? HE: No, not Rochelle.
-
-SHE: Oooh, Rochelle. Rochellllle! (HE waves away that attempt and tries another)
-
-HE: I have this friend -- SHE: Who?
-
-HE: Uh. . . Todd. SHE: Yich.
-
-HE: Yeah. Well, he wanted me to ask you, if he's slow dancing with a girl --
-
-SHE: Who?! HE: Oh, I can't say. I promised.
-
-SHE: Rochelle? HE: No! Todd doesn't like Rochelle.
-
-SHE: No, but Rochelle likes Todd ... (HE waves away that attempt and tries another)
-
-HE: Can I ask you a question!? SHE: Yes!
-
-HE: Todd wanted me to ask you if he's slow dancing with a girl, is it o.k. if I kiss him!?
-
-SHE: I think you should kiss him.
-
-(Scene transition – still teenagers)
-
-SHE: (Pg 25-26) Are you going to that dance tonight? HE: Yeah.
-
-SHE: Well, what are you gonna wear? HE: What I always wear.
-
-SHE: Oh no. You're not! HE: Why not?
-
-SHE: Because you look like a jock. HE: I am a jock.
-
-SHE: I know, but you smell like a jock. I mean, literally. A jock. And your shoes stink, and your socks reek, and your pants smell like skid marks and stale farts and you stink like BO, and you have this stink coming off you, it's like a stinky rank stank, skunky funky funk stinky stink stank rank skank skanky stinkudee skunk stank! (beat) I mean you really do smell-
-
-HE: Alright! OK! (Pause. SHE looks at him) SHE: Hey, stinky,
-
-HE: What? SHE: Can I ask you a question?
-
-HE: (Pg 33-34) (suspiciously) Yeah . . .
-
-SHE: Can you come here for a second? OK. Say you don't know me. And say you saw me walking on the street - could you look straight ahead please? Would you think I was cool or a loser? Straight ahead, please. (SHE walks)
-
-HE: ... Cool.
-
-SHE: Yeah? OK, say you don't know me, and you just saw me -- look straight ahead -- walking down the street, would you think I had a walk of self-confidence or not? Straight ahead, thank you. (SHE walks)
-
-HE: Self ... self-confident. SHE: Yeah? I think I'm ready.
-
-(Scene transition -- As adults after their parents’ funeral)
-
-HE: (Pg 27) So, all I would like, if possible, is for you to stay a few more days. We can get started on it, and then you can go back home --
-
-SHE: I need to get home now -- HE: What’s the soonest you can get back?
-
-SHE: I don’t know HE: You don’t know???
-
-SHE: No, I don’t know because this is all new to me. This is all new information to me
-
-HE: Well, this is all new to me too – new information that you’re leaving
-
-SHE: I don’t live in this city.
-
-HE: As far as I knew you were staying until Thursday.
-
-SHE: Where’d you get that information. HE: You.
-
-SHE: I don’t think so. (Pg 30) (reality bubble as teens, she slaps his face) You lie you lie you lie!
-
-(Scene transition -- As teenagers)
-
-HE: (Pg 31-32) Yeah, right SHE: (imitating him exactly) Yeah, right
-
-HE: Fine SHE: Fine
-
-HE: Stop that. SHE: Stop that. (they become little kids)
-
-HE: Stop copying me! SHE: Stop copying me!
-
-HE: Mom, she’s copying me! SHE: Mom, she’s copying . . . (he smacks her)
-
-(Scene transition – They gasp, back as adults after their parents’ funeral
-
-HE: (Pg 62-65) Fine. . .Then you go home -- SHE: I need to go home!
-
-HE: -- and I will do it *all* !!! (beat)
-
-SHE: You've got your family and your kids --- you've got everything here, and do you know I've been here alone? Do you know that? I've been here alone this whole time. You always had your family to go home to and all these people here to talk to who know you. My whole life is in another city. I can't stay here any more. I've been completely alone! Thank you! (long pause)
-
-HE: I think Rochelle and I are splitting up. (beat) I don't have anybody to go home and talk to. And I'm sorry that you're not at home and you don't have all of your "support systems" and that kind of stuff, but I'm under stress as well. (SHE says nothing) I just thought that we could spend some time together. (SHE gives him a sharp look) This is a chance - I mean, I don't know, you've been away, you've had your own life, you haven't kind of cared about what goes on in my life-
-
-SHE: That's not true!
-
-HE: Come on. Be honest. How often do we speak?
-
-SHE: Well, how often do you call me?!
-
-HE: Well, I tried calling you but it always felt like I was bugging you, so I backed off.
-
-SHE: Do you know that when you call me you don't ask me a thing about my life?
-
-HE: I ask you about work all the time
-
-SHE: You don't ask me about my life. You don't want to know about. . . my girlfriend. I always ask you about Rochelle, and about your kids, and about what's going on with you and you never ask me! What is the point in talking with you - it's like two idiot strangers talking. se.
-
-HE: You know every time I try and ask about you, you always, always ... don't go there.
-
-SHE: Try me!
-
-HE: OK. What's going on with your life? Are you and Suzanna still together, I don't even know that! I heard you were having a bit of a problem, are you together or not, what?!
-
-SHE: Oh boy, that's really nice, it really makes me want to talk about it.
-
-HE: There you go.
-
-SHE: "Are you together or what?" (HE laughs) "I heard you were breaking up, are you together or not, what?" And that implies that I just - I mean you are punishing me with everything you say!
-
-HE: But I try and tell YOU!! You never volunteer anything!
-
-SHE: (simply) We're not friends. (pause. They are both taken aback by what SHE's said)
-
-HE: Clearly. (pause)
-
-SHE: (sincerely) And it's half my fault, I know . . . We're not. . . And I don't know what to do about it. (pause)
-
-HE: Can't we be friends?
-
-SHE: . . . I don't know. (pause They're on the verge of dissolving)
-
-HE: They're dead. (pause) They're dead. It's just you and me. (pause. They look at each other. SHE reaches out to him)
-```
-
----
-
-## IC-0914: A Simple Snow
-
-- Title: A Simple Snow
-- Author (byline): Elaine Romero
-- Work: 2006: THE BEST 10-MINUTE PLAYS FOR TWO ACTORS
-- Publisher: Smith & Kraus
-- Publication date as stated: September2007
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: MAN, WOMAN
-- Teaser before the introduction: No
-- Spoken words (computed): 1789
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Elaine Romero
-Book: 2006: THE BEST 10-MINUTE PLAYS FOR TWO ACTORS
-ISBN: 978-1575255637
-Publisher: Smith & Kraus
-Date (Month/Year): September2007
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-MAN: Christmastime is joy put on display.
-
-WOMAN: Once a year we try to shut out pain and focus on happiness.
-
-MAN: But is a world without pain, really beautiful?
-
-WOMAN: Is a life of pure joy worth losing reality?
-
-MAN: One woman has to choose in
-
-BOTH: “A Simple Snow” by Elaine Romero
-```
-
-### Performance text (classify this)
-
-```text
-A carriage in the snow. Man whips the horses. They hit a pothole. Woman loses her balance.
-
-MAN: Hold on.
-
-WOMAN: I don't know if it's your driving or not, but there seems to be a pothole every five seconds.
-
-MAN: It's not my driving.
-
-WOMAN: I guess I'm used to walking. Thank you. Thank you for the lift.
-
-MAN: You didn't have any baggage? Where are you coming from? I understand. I've taken a few like you.
-
-WOMAN: What're you saying, sir?
-
-MAN: People coming from nowhere.
-
-WOMAN: Well, I'd just rather not talk about it. My employer, well, he's very important. Well, I've promised to protect his identity. (They hit another pothole. The snow falls all at once.) Would you watch your driving? I swear a child is in charge of this carriage.
-
-MAN: It's just Christmas. It shakes things up. Inside people. The holidays make people weep.
-
-WOMAN: Not me. I'm frozen here. I would have died out there. I'm sorry for the complaints. My employer - well, you see, he died. Rather sudden. Frozen in the snow.
-
-MAN: I'm sorry.
-
-WOMAN: I found him last night. Myself. So, you see, I'm a little bit out of sorts. He didn't leave any provisions ... in his will. My employer. (She starts to cry.)
-
-MAN: Doesn't sound as if he was just an employer.
-
-WOMAN: Are you accusing me of some sort of disgrace?
-
-MAN: No, ma'am. (The snow falls. Another pothole.)
-
-WOMAN: This is just a shaky world we live in. Earthquakes every few minutes. People freezing in the snow. Life has been thrown asunder. See, I walked through a tunnel. It started in London or in New York City. I had said good-bye to the world. I had kissed the city good-bye, turned on my heel and put my back to it. Betrayed it like that. And then, I landed here - in the land of unsettled earth. And I met my employer. He never said much. Nothing really. Not much could move him, but then, most bosses are like that. Quiet and stern. Don't say much. And I adorned him with suits and clothes, with neckties and cigars. It seemed a paycheck might not come, but he was good to me. Never spoke a harsh word ... never spoke a word. And then I touched him and he was hard like he'd frozen in the night. Like the blood had stopped coursing through his veins - he was so important. But I left the city. Did I say? I left the dress shop. I stopped sweeping in the morning, and I was wrong. I was wrong to love whom I loved. I don't think he knew. My minister. And his wife. I loved them both. In a different way. I loved them both so much. This whole thing unnerves me. This tremor in my heart shakes my hands. I had a cranberry cake that I'd made for them and their children. I am contemptible. And I was walking through the snow on my way to them. And I tripped, or actually, fell through one of those holes in the street. (Realizing where.) In New York City. And I landed, in this strange place where men drive carriages or don't speak for days on end, or pay you for services rendered because their minds are preoccupied with other worlds. But I'm not bitter. I landed here.
-
-MAN: Well, I've been looking for someone to love. I mean, driving in the snow every day from town to town, hitting potholes I cannot see with my hollow eyes, has left me disoriented in this shaky world.
-
-WOMAN: Ever since I left New York. Ever since I was Alice, in the rabbit hole, I just haven't been the same. (She sneezes.)
-
-MAN: You could join me. On this carriage. We could hold hands. Sometimes the snow catches the moonlight and the job becomes very pretty. (Woman looks off the side of the carriage.)
-
-WOMAN: Why, that's my employer. (Woman tries to crawl off the moving carriage.)
-
-MAN: Watch it, miss.
-
-WOMAN: Could you stop this thing?
-
-MAN: I'm sorry. It seems to have a mind of its own.
-
-WOMAN: You could slow down for a lady.
-
-MAN: I apologize, ma'am. I believe it is has stopped, ma'am. (Woman crawls down the side of the carriage.)
-
-WOMAN: That's my employer. I'm beginning to believe, sir, that you have been taking me in a circle 'round and 'round. You have duped me into believing that I am making progress when I am making none.
-
-MAN: No, ma'am. This here is the standstill world. That's where you landed when you left yours. (Man hits a pothole, but she shakes though she is not on the carriage. Her arms are outstretched as she strives to balance herself)
-
-WOMAN: Get off that carriage, sir. I demand it.
-
-MAN: It's my job. Hands on reins. Horses in place. Trees standing next to me.
-
-Frozen body at my side.
-
-WOMAN: Remove your hands.
-
-MAN: Sorry, can't oblige. (She crosses to him and pounds on him, realizing he is frozen.)
-
-WOMAN: If you weren't talking, I'd assume you were dead.
-
-MAN: Sorry to disappoint. I've offered you my world. The seat next to me, in this, my fine carriage. (She falls to her knees. She starts trying to get up.)
-
-WOMAN: What is this place? What is it?
-
-MAN: I don't know. You claim to have fallen down the hole. Do you remember?
-
-(Woman runs to the edge of the world, discovering the glass dome of the snow globe. She runs her hands up the curvature of the space.)
-
-WOMAN: Sir, sir. It feels hard. Like glass. (Their world is shaken again. She presses her eyes against the glass.) It's flesh. Very large flesh. Could it be the hand of God is revealed to me in my sorrow? Did he discover my love for the preacher and encase me as punishment? How cruel is God to those with hearts as large as mine? (Woman lands on her bum.) Oh, no. A world that shakes. A world with endless snow. A world run as if in the hands of a child. I'm beginning to suspect I'm captive here. (She puts her eyes against the glass.) Oh, my, it's Christmas. I see the tree and the lights. The angel at the tree's tip hangs at a precarious angle and I want to catch her. I see the fire and the unwrapped gifts. I see the minister and his wife. They're eating cranberry cake and drinking Christmas wine. Why, the last time I saw him, I fell down that hole. In the city. The city of New York. Outside of Macy's, it was. The whole place was lit up for Christmas. And I could hear the carolers in the background. They sang beautifully as I lay there - dying. Sir, I believe I died. Sir, I think I know where I've landed. I've come to understand the mystery of the afterlife. See, on my way, to their apartment, I stopped at Macy's and I looked at those snowy displays. They had snowmen and Santa and my city in the winter, and they had the sweetest one I'd ever seen. A man and a car-riage. And I willed myself there to that simple life. In the snow. I wished myself there. When I died.
-
-MAN: Would you like to join me, miss?
-
-WOMAN: Sir, it seems you've missed my startling revelation. Sir, did you used to be real?
-
-MAN: This is the life I've always known.
-
-WOMAN: My employer?
-
-MAN: He never did move though I saw you adorned him.
-
-WOMAN: What a macabre scene for a snowy display. A dead man.
-
-MAN: You wished yourself here.
-
-WOMAN: I would like it, sir. But first give me a chance to watch the world I once knew as if I could live there without pain. (She does.) It's the minister. He is holding his wife. On Christmas. (She starts to cry.) I believe, sir, that I am capable of the deepest kind of love. Steadfast love. They are beautiful. Together. (She sees the son.) Oh, here he comes. (He shakes their world.) I wonder what will happen when he forgets about us, when Christmas is over and we are no longer the latest toy.
-
-MAN: Sometimes the moonlight hits the snow and the job can be very pretty.
-
-WOMAN: Will you talk to me forever, sir? Maybe, if you whip your horses hard enough, we could burst through the glass someday. Make ourselves known.
-
-MAN: Maybe. (She goes back and sits beside him.)
-
-WOMAN: I am grateful. For the company in this ordinary life.
-
-MAN: I am, too, ma'am.
-
-WOMAN: If you stopped ... your job, we could kiss. (She grabs his hands.)
-
-MAN: Hands on the reins.
-
-WOMAN: I heard about the frog prince once. The princess kissed him and it made him real. (She kisses his cheek. He releases the reins and turns')
-
-MAN: What is this? What is this I feel?
-
-WOMAN: Will you hold me now? (He does.) You are the most handsome man. The handsome man from the Christmas display at Macy's. The man from the snow globe.
-
-(She puts her arms around him.)
-
-MAN: Oh, my, what is this I feel? (He shivers.)
-
-WOMAN: It's cold. You are in the snow. May I kiss you? (She does.)
-
-MAN: I feel as if ...
-
-WOMAN: As if you're alive. Come, I'll show you a whole new world. (He gets off the carriage with her. She leads him to the back of the carriage.) We will make love. Oh, don't blush. It's very nice. I will rub my body against yours.
-
-MAN: Oh, my.
-
-WOMAN: And when we're done. When I've shown you the most marvelous part of life, we will burst our way out of the glass. Out into the world once mine and lost.
-
-(The world shakes. She moves to the edge of the world.) It's the little boy. He's picked us up. (They tumble.) And dropped us. (She kicks the glass.) But it didn't break.
-
-MAN: Come here, my love, and show me the most wonderful part of life. I am eager to experience it. And when we are done, we will burst into your old world with renewed vigor.
-
-WOMAN: Or we could stay inside and make love forever.
-
-MAN: That is too pleasant a thought though I've never experienced it. My body screams out for your flesh. You've carnalized me!
-
-WOMAN: We could spend our lives discovering each other's bodies. The feel of your legs and chest, the passion of your kiss.
-
-MAN: I am most eager to get started, ma'am.
-
-WOMAN: Alice. Like the looking glass.
-
-MAN: Alice.
-
-WOMAN: And what is your name?
-
-MAN: I have none.
-
-WOMAN: You're Clyde. Your name is Clyde. Clyde, are you ready to learn the most marvelous part of life? (She takes his hand and moves him to the back of the carriage. This time it shakes, not from the hand of the child, but because of their lovemaking.)
-
-MAN: (Offstage.) To think I've only known the front of this carriage when the back held such earthly delights.
-
-WOMAN: (Offstage.) I do love you, Clyde, more than that minister and his wife. Clyde. Clyde, the world holds many difficult things. Hunger and starvation when we could just stay frozen here, as if in a pause.
-
-MAN: (Offstage.) We could.
-
-WOMAN: (Offstage.) Or we could brave it. We could brave empty bellies, employment, disappointment, and joy. Will you? Will you bear the burden of time with me?
-
-(They emerge from the carriage disheveled and content. She takes him to the edge of the world.) Here it is. The edge of the world. See, the Christmas lights and the trees. One. Two. Three. Kick. One, two, three ... kick. One, two, three ... kick. It's useless. The glass that encases us is too strong. (He points to the carriage.)
-
-MAN: I would like to make love again.
-
-WOMAN: (With humor.) You are alive.
-
-MAN: I'd like that.
-
-WOMAN: You are my companion.
-
-MAN: Yes.
-
-WOMAN: Will you help me return to the world someday?
-
-MAN: Let's go back to the carriage, and soon they will leave. (They return) The most wonderful part of life is here for the taking.
-
-WOMAN: But I'm hungry. And my cranberry cake looks moist and sweet.
-
-MAN: I've seen a glimpse of your world and I think I prefer ours.
-
-WOMAN: You're on display. You're a trinket easily forgotten or packed away in an attic.
-
-MAN: The most wonderful part of life is here for the taking.
-
-WOMAN: You are lovely. Perfect. What I always dreamed of. Perhaps I've died and gone to a realm beyond Earth.
-
-MAN: Perhaps. (They kiss.)
-
-WOMAN: I could kiss you forever.
-
-MAN: You will.
-
-WOMAN: No, we must burst out of this place with the force of our will. Will you come with me? Do you dare? (The world shakes. The snow falls. They both teeter. They stand looking at each other from far apart. She walks forward through the glass back into the real world. He returns to his carriage and takes his seat.)
-```
-
----
-
-## IC-0915: The Siren Song of Stephen Jay Gould
-
-- Title: The Siren Song of Stephen Jay Gould
-- Author (byline): Benjamin Bettenbender
-- Work: The Best American Short Plays 2000-2001
-- Publisher: Applause Books
-- Publication date as stated: Sept 2002
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: MAN, WOMAN
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1857
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Benjamin Bettenbender
-Book: The Best American Short Plays 2000-2001
-ISBN: 978-1557834812
-Publisher: Applause Books
-Date (Month/Year): Sept 2002
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: Here’s a story for you . . . Two friends are watching television when the news comes on. It shows a guy on a bridge about to jump, obviously suicidal.
-
-ACTRESS: (watching television) I'll bet you $10 he'll jump.
-
-ACTOR: (watching television) Bet you $10 he won't.
-
-ACTRESS: Then, the guy closes his eyes and throws himself off the bridge. (to Actor) I can't take your money. I cheated you. The same story was on the six o'clock news.
-
-ACTOR: No. Take it. I saw the six o'clock news too. I just didn't think the guy would be stupid enough to jump again!
-
-ACTRESS: While suicide is never funny . . . Benjamin Bettenbender takes a lighthearted look at an attempted suicide in
-
-TOGETHER: The Siren Song of Stephen Jay Gould
-
-MAN: Here, sit up. [tries to help her, but she shrugs him off. She removes the object she had been
-
-holding in her injured hand and places it back in her pocket. She extends her arm out in
-```
-
-### Performance text (classify this)
-
-```text
-[The bank of a river, near a bridge. A WOMAN walks slowly along the bank, staring across the water. She stops, lost in a moment. She then reaches into her pocket, removes something, hesitates, then pulls her arm back to throw. An anguished cry is heard from above. She stops and looks up when a MAN falls on her, knocking her over. Neither moves for a moment. Then the man slowly disengages himself and stands, placing his left foot down gingerly, wincing; he then looks back to her]
-
-MAN: Oh my God. [moves to her side, touching her lightly on the arm] Are you all right? Miss? [Shaking her] Miss, are you all right?
-
-WOMAN: Oowwww! What did you do? [Trying to move her right arm] I think my arm is broken.
-
-MAN: Oh God! Um ... Move your fingers. That's how you tell if your arm is broken.
-
-WOMAN: No it's not. That's how you tell if your fingers are broken!
-
-staring at her fingers] Try to move them.
-
-WOMAN: I am. They're shaking and you're bleeding!
-
-MAN: [Dabbing at his forehead] Is it bad?
-
-WOMAN: Just a little cut. . . . Can I ask you something? I'm a little woozy so I apologize if this sounds strange, but did you jump on me?
-
-MAN: Well, I wasn't ... I didn't exactly, no.
-
-WOMAN: Did you fall? Were you thrown?
-
-MAN: I leapt.
-
-WOMAN: I see. Then when you said no, what you really meant was yes, you did jump on me.
-
-MAN: I didn't even see you.
-
-WOMAN: I was standing right here. Didn't you check first?
-
-MAN: I should have. It was irresponsible of me, but I thought I was over the water.
-
-WOMAN: The water's way over there. It's low because of the drought. You jumped on me! How dare you?!
-
-MAN: I'm really, really sorry.
-
-WOMAN: You could have killed me. All because you couldn't bother to look before leaping off a bridge. And what kind of dunderhead goes swimming dressed like that? In jeans. And spats.
-
-MAN: They're not spats. They're ankle weights.
-
-WOMAN: Oh great. Even better. Why not strap a millstone around your neck? That way you can be sure to ... [She stops, stares at him] Tell me this isn't what it looks like. You weren't jumping ...
-
-MAN: To my death, yes. [Long pause. She then bursts out laughing] Hey!
-
-WOMAN: Off that little bridge. [laughs harder] With those things on your feet, without even checking to ... [laughs even more] Even if you hit the water, it would barely come up to your waist. [laughs] You'd be standing stuck in the mud with those ankle thingies on, trying to pull them out. [mimes pulling a leg out of the mud] Ssssclorp! [laughs]
-
-MAN: All right, that's enough. I mean it! This isn't something you make fun of.
-
-WOMAN: You mean trying to drown yourself in a puddle? [Suddenly serious- mimics him] I was leaping into the mud ... to my death. [laughs]
-
-MAN: I was trying to go head first, for your information, but the ankle weights swung me around so my feet . . . [She laughs harder than ever] That's it. I'm not talking to you.
-
-[starts to limp off]
-
-WOMAN: Wait, I'm sorry. You're hurt. I won't laugh anymore. [He stops, limps over to her, holds out his hand to help her up] So why were you jumping?
-
-MAN: I told you.
-
-WOMAN: Yeah, but why? Depressed? You don't seem it. Depression is a medical condition with a recognizable set of symptoms. I don't see any.
-
-MAN: That's because I'm irritated right now.
-
-WOMAN: There you go. People in a suicidal depression don't get irritated. They're apathetic.
-
-MAN: [apathetic] Whatever.
-
-WOMAN: That's why I thought it might be something else: an illness, bad news, a loss, fear.
-
-MAN: No.
-
-WOMAN: Guilt.
-
-MAN: Over what?
-
-WOMAN: How should I know. Maybe you got into an argument and beat someone into a coma and found out later he was a Zen Buddhist who had taken a vow of nonviolence and couldn't defend himself, and he had six kids and was working on a cure for blindness. Or maybe, maybe, it's love. Maybe you're heartbroken over a romance that ended. Or that never was.
-
-MAN: What's so bad about that?
-
-WOMAN: Are you kidding? That's about the best reason to drown yourself. Meeting the person you want to be with forever and then realizing it can never be. Knowing you'll grow old and die without ever again looking into the one set of eyes that brings peace to your heart.
-
-MAN: But you just said I didn't seem depressed.
-
-WOMAN: That's not depression. That's something far more profound. I don't think you quite understand what I'm getting at.
-
-MAN: What's not to understand? You like someone, they don't like you back. Woe-dee-woo-dee-woo. You mope around a few days, play around with the idea of killing yourself just to show them how sorry they'll be when you're gone, then you get bored with it all, get interested in someone else, and fffffft! It's all better. [sees her staring at him] What? What is it? What?
-
-WOMAN: I don't want to discuss this anymore.
-
-MAN: But you brought it up.
-
-WOMAN: That's before I realized you lacked the emotional sophistication to understand what true loss is. I should have guessed it, though, judging by your pathetic, halfhearted attempt to kill yourself.
-
-MAN: Pathetic?! Hell! Listen, you judgmental. . . whatever, if we had gotten even half the rainfall we usually do, I'd be dead right now! Dragged to the bottom of a dark river with my lungs filled with water and you'd have been on the shore watching the whole thing, thinking how depressed and emotionally sophisticated I was to have done it!
-
-WOMAN: But you didn't, did you? And you want to know why you didn't? Because you're too shallow. Because you never experienced pain so strong it would make eternal darkness seem like a bargain by comparison.
-
-MAN: Oh, and you have, I suppose? Then why are you here talking about it? Why aren't you floating around in eternal darkness all happy and carefree?
-
-WOMAN: Listen, I was close. I was this close.
-
-MAN: What, you gave your wrist a little scratch? Took a few too many aspirin?
-
-WOMAN: I drank poison, bucko!
-
-MAN: You're so committed, tell me what kind of poison you drank. Maybe I'll go buy some. [pause] Well?
-
-WOMAN: What I drank -- in the firm belief that I was, in fact, ending my life -- even though it was extremely dangerous in large doses, wasn't technically poison.
-
-MAN: So what was it? Buttermilk? [pause]
-
-WOMAN: Ipecac. . . I drank ipecac!
-
-MAN: But that's the stuff that makes you-
-
-WOMAN: I know what it is now! I know better than anyone. But before that I had been told never to touch it, and my folks kept it on the top shelf of their medicine cabinet hidden in back, so I thought it must be lethal.
-
-MAN: I bet it felt lethal. [laughs]
-
-WOMAN: You have no idea. [pause] Well, I'm not going to make the same mistake again. As soon as I've completed a sweet, symbolic gesture, I'm going to do it right.
-
-MAN: What'll it be this time, death by Ex-lax? [She stares at him] What? You get to make fun of me, but I can't say the least little thing about you? [pause, then he confesses] Stephen Jay Gould -- he's this scientist up at Harvard.
-
-WOMAN: [excitedly jumps to a conclusion] He flunked you and you had to drop out of school and it ruined your life. No wait, wait! He stole your research and published it and got famous and married your girlfriend, and you ended up broke and alone and bitter. [pause while he stares at her] Maybe you should just tell it.
-
-MAN: He's an author. He writes about trilobites and dinosaurs, stuff like that . . . but he's really talking about how people are this big accident. How most life on earth is bacteria, and how everything else is just sort of ... not bacteria.
-
-WOMAN: So?
-
-MAN: Well, the way he explained it made sense. I could see that life was pretty much just a lot of microbes swimming in the dirt, and all the things we see around us and find beautiful and live for are just a fluke. I read his book and it made everything seem... pointless. Look, I'll get you a copy. See for yourself.
-
-WOMAN: Actually, I'm surprised he was even able to write the thing in the first place. Seems like once he figured out how tiny and random he was, he would've nose-dived straight into the Charles.
-
-MAN: Hah! Fat chance. You don't have a great job and a nice house and a wife and some kids and lots of money and a car with leather seats and a great watch and 20 pairs of pants and really cool sunglasses, and then just go and check out. No, I'll tell you when you check out. When your life is so crappy you embarrass yourself just thinking about it, but you keep at it because you figure it must be "For A Reason," and then you read some rich idiot's book telling you how you're really just some tick on the ass of an elephant, and what's left?!
-
-WOMAN: I see. [pause] So what now? What are you going to do?
-
-MAN: Oh. I don't know. Try something else, I guess. Or maybe wait to see if we get some rain. I kind of had my heart set on the bridge thing.
-
-WOMAN: You might want to try a bigger bridge this time.
-
-MAN: I guess. [pause] What about you? What are your plans?
-
-WOMAN: I don't know. I had this thing I wanted to do, and now I'm not sure when I'll be able to do it. [removes a small box from her pocket] I was going to throw this into the river.
-
-MAN: What is it, a ring?
-
-WOMAN: A ring box, yes.
-
-MAN: But not the ring?
-
-WOMAN: I decided that it would be a sin to throw something of real value away. And since the box is technically what he presented me with, it would be fine if I just tossed that. . . But I throw with my right hand.
-
-MAN: Oh. [pause] I could do it for you.
-
-WOMAN: All right then. Chuck away. [He takes the box from her, hops on his good leg a couple of steps and launches it] Thank you.
-
-MAN: Feel better? Maybe you won't have to ... you know ... If you're feeling better. [they begin walking and hobbling down the path as the conversation continues]
-
-WOMAN: You mean killing myself? You think I change my mind that easy? Toss away one little ring box and everything I'm feeling just flies away with it?
-
-MAN: No, I just thought-- I mean, if you wanted to -- if it wasn't too weird, because I know it's this big personal thing -- but if you wanted ...
-
-WOMAN: [stopping; looking at him] Are you asking me to jump with you?
-
-MAN: I mean, I know bridges aren't for everyone.
-
-WOMAN: No, the bridge is fine. I'm just not sure when I'll be doing it. . .
-
-MAN: You could call me and let me know.
-
-WOMAN: [hesitates then broaches a new idea] What about seeing a show instead?
-
-MAN: [a bit shocked, but excited] That's a great idea. And a ball game, a museum, anything you wanted! [they continue walking]
-
-WOMAN: I don't know. I'll have to think about it. [pause] But it might be nice.
-```
-
----
-
-## IC-0916: Smudge
-
-- Title: Smudge
-- Author (byline): Rachel Axler
-- Work: Not specified
-- Publisher: Samuel French, Inc.
-- Publication date as stated: June 2010
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: COLBY, NICHOLAS, NICHOIAS, ACTOR, ACTRESS
-- Teaser before the introduction: Yes
-- Spoken words (computed): 1852
-- Already set (do not supply): none
-
-### Source block (context only)
-
-```text
-Author: Rachel Axler
-ISBN: 978-0573698248
-Publisher: Samuel French, Inc.
-Date (Month/Year): June 2010
-```
-
-### Introduction (context only: never use it for content warnings)
-
-```text
-ACTOR: Most couples look at the sonogram of their impending baby to see whether it’s a boy or a girl.
-
-ACTRESS: But when Colby and her husband, Nick, scrutinize the picture of the life in her womb for an answer to the “what is it?” question, they are appalled to realize that they mean IT.
-
-ACTOR: Literally.
-
-TOGETHER: Smudge by Rachel Axler
-```
-
-### Performance text (classify this)
-
-```text
-(COLBY and NICHOLAS are in a strange, sterile hospital room. COLBY is pregnant. They stare at a small slide, motionless.) (Long pause)
-
-COLBY: Maybe it's upside-down.
-
-NICHOLAS: Breach? (COLBY looks at him.) I think they float around a lot, so you don't have to worry. I mean, how it's positioned right now probably doesn't matter with regard to -
-
-COLBY: I meant the picture.
-
-NICHOLAS: . . . Right. (NICHOLAS turns the picture around. They stare with renewed interest.) ( Pause.)
-
-COLBY: No. Right?
-
-NICHOLAS: Right. Yeah. No. It's all . . . grainy.
-
-COLBY: Like a blob.
-
-NICHOLAS: Like it's hiding.
-
-COLBY: Awww . . . it's our first time not seeing our baby together. (They smile at each other) Well. It’s okay. I mean . . . frustrating. We could do it again. Come back in a couple of weeks.
-
-NICHOLAS: You know. I think it is okav. We can surprised.
-
-COLBY: Yeah. Mary if she's plain. Cassandra if she's beautiful.
-
-NICHOLAS: Jake if she's a boy,
-
-COLBY: She's a girl. She's definitely a girl. . . . Nick? I had another one last night.
-
-NICHOIAS: Nightmare?
-
-COLBY: She came out inside-out. Two-dimensional. I got papercuts. . . . Cassandra. Cassandra. Unless she's a Mary . . . Or a Jake. (Pause. They take one last look at the slide.) Maybe it's just . . . smudged.
-
-(COLBY in a hospital gown. No longer pregnant. She talks lo the audience.)
-
-COLBY: I think I thought it would be bigger. They hand it to Nick immediately, like they can’t wait to get rid of it. Like they think I'd hurt it. It's sort of purplish-grey. And it's skinny, so skinny, except for its head, which is immeasurably huge. The nurses won't look me in the eye. They whisper. The doctor comes in, three brisk strides. Tells us they need it back now. They wash it, dry it off. It's a quiet thing. It whispers. I count one head. Shading for a torso. A sort of nub. A sort of spike. A point, like a tail, or like a talon, near the bottom. Sort of like a jellyfish. Sort of like something that's been erased. The doctor rushes it away and puts it under a glass. This is how I see it. Under glass, covered in tubes and tape. The eye has opened. Coils of fur grow on it, in odd places. And mv husband loves it. NICHOLAS. Cassandra. Little Cassie. Cassio. One pretty babe. COLBY. The open eye is beautiful. Luminous, almost. Blue-green. It's a disturbing trick of nature, to put that one beautiful eye into that smudge. The eye is intelligent. Nicholas shows it a Barney puppet, and it blinks. NICHOLAS. There's a girl. There's a girl. Who's the prettiest of all?
-
-COLBY: There's a feeding tube and a breathing tube and several other tubes performing mysterious, important functions. They should have handed it to me. That first moment - that instant did it. It bonded with Nick. It doesn't like me. There's jealousy in its eye as it counts my hands, finds itself lacking. It wants my fingers.
-
-It dares me to unleash it - lift the glass and tear off the tubes, so it can fly at me and claim my fingers as its own.
-
-NICHOLAS: Cassandra. Little Cassie. Cassie watches me with one eye closed, one all-seeing. Her Caribbean Sea-colored eye. I want to touch her, my thumb on her cheek, to smooth her skin, stretched so tightly . . .
-
-COLBY: . . . They're letting us take it home soon. No. I didn't say it was a baby. A baby is something you hold in your arms. That you can wrap in a blanket and show your family and take pictures of and . . . And you're supposed to want to take care of it. I mean, biologically, that's why babies are cute. Because they're helpless little spit-up machines, but somehow nature tricks you into recognizing something of yourself in them. And that’s supposed to be your compensation, at least 'til they grow up and become interesting. You know? In the beginning, you don't get much, but you at least get something you can actually touch. Something that . . . responds. TRANSITION
-
-ACTOR: Imagine being in your early 20s – blissfully expecting your first child. No signs throughout the pregnancy of any complications, any abnormalities.
-
-ACTRESS: Now imagine meeting your severely disabled daughter for the first time, knowing that you will be taking her home soon and that your life will be forever changed . . .
-
-ACTOR: not with the joy of a new-born baby girl, but with monitors, tubes, and a living being who isn’t quite human.
-
-ACTRESS: How do parents cope under these circumstances?
-
-ACTOR: Not the politically correct, fairy-tale version, but realistically? . . .
-
-ACTRESS: At home with Nicholas, Colby and Cassandra (aka Smudge)
-
-(NICHOLAS dangles a stuffed toy carrot over the carriage)
-
-NICHOLAS: Okay, Cass! Do we know what time it is? (like a studio audience) "Eye exercise time!” That’s right! Left. And right. And left. And right – switch it up now! - Right. And left. And right. And – okay, wrong, Cass, but you’ll get it eventually. You will get it. Guess that’s enough eye work for today. Which means it’s tiiiiime tooooo . . catch it! Catch it! Catch it! (Colby enters. She watches Nick) Catch it!
-
-Catch . . . . it! Catch the carrot? Catch? Catch?
-
-COLBY: You’re tormenting it. (Nick turns quickly, caught)
-
-NICHOLAS: Cassie likes it. It’s her favorite game.
-
-COLBY: (with “air quotes”) Did “she” tell you that?
-
-NICHOLAS: (“air quotes”) Don’t say “she.”
-
-COLBY: (“air quotes”) You told me to say "she."
-
-NICHOLAS: (NO “air quotes”) No, I told you to say she.
-
-COLBY: That carrot is creepy. Dangling that thing over that . . . other thing. Perverse. Then again, maybe there’s some sort of kinship there. Neither one is anatomically correct.
-
-NICHOLAS: Honestly? I’d be much more inclined to listen to your parenting tips if I ever saw you doing any parenting . . . What do you do here? When I’m at work?
-
-COLBY: Sit. Weep. Count the hours.
-
-NICHOLAS: Seriously
-
-COLBY: What do you want me to tell you?
-
-NICHOLAS: I want you to tell me what you do. Do you play games? Do you do exercises Are you even home? Who's watching our daughter?
-
-COLBY: I’m always watching the monitor, Nick. If something goes wrong, trust me -
-
-NICHOLAS: Not the monitor. Cassie. Are you watching Cassie? Do you interact with her? You don’t look at her. I’ve never seen you look at her. Not once since she’s come home. I don’t even think you know what she looks like.
-
-COLBY: I know what she looks like.
-
-NICHOLAS: No. you don't. You were so worried about my takin on extra work. But I sit at the office and I can’t concentrate, because I’m too busy worrying about whether you’re taking care of her.
-
-COLBY: You know what - I'm not. I’m not. I’m listening to the “beep-beep-beep” that’s so ingrained in my brain right n ow – SO ingrained – I honestly think I’d keep hearing it if it stopped. And I’d just keep sitting here, listening to a phantom monitor while she died. And you know what else? That would be fine with me.
-
-(Pause)
-
-NICHOLAS: Okay, that's it. I am DEAD SERIOUS. Colby, You're going to pick up that carrot. And you're going to come over here and dangle that carrot over the carriage. And you are going to SMILE. And you are going to CARE. And you're going to tell your daughter a happy story about that carrot and while you tell that happy carrot story YOU ARE GOING TO LOOK AT YOUR DAUGHTER.
-
-(Beat. Then, composed) I’ll be in the bedroom. (Nicholas exits. Colby approaches the carriage and peeks in. As she does the monitor begins frantically beeping – it’s furious, angry. Cassie backs away and the beeping returns to normal. Note – The actor playing Nicholas can provide this sound effect from “off stage”) (Colby sits in a corner, as far as possible from the carriage, which is emitting weird, angry beeps)
-
-COLBY: I’m not listening to you. (Angry beeps) La la la la la la la (mimicking beeps) I’m not paying attention to you. (Angry beeps) . . . Okay, I guess I’m talking to you. But t hat’s it. (Particularly angry beeps) Nick’s going to find out, you know. You can’t hid your nature from a parent for long. He’ll figure it out. Oh – I think I hear him coming, right now! You going to ball “normal” for him? (the beeps subside to a gentle rhythm again) Figured. (Nicolas enters)
-
-NICHOLAS: Okay, girls – I’m off. Have fun. Don’t do anything I wouldn’t do.
-
-COLBY: Ha. (Colby smiles wanly) (Nicholas exits) (Angry beeps begin again) Why don’t you put on your show for Nick? Saving it for me? Should I be flattered? (angry beeping) By the way, you’re not getting that carrot back. I made you something better. No no, please – don’t get up. I’ll bring it over there, to you. (Colby takes out a crude, creepy ragdoll It’s been cobbled together from the useless arms and legs of Cassie’s onesies It’s kind of grotesque) Here it is. You like it? (She dangles it over the carriage) I call him Mister Limbs. Mister Limbs has everything you don’t. Plus? (Colby squeezes Mister Limbs) Water absorbent. Maybe I could use you to mop something up. Or maybe you’d just Smudge all over the floor (Angry beeps). The fact is – and brace yourself, Smudge, ‘cause this is reality – Nothing looks like you. Nothing in nature. Nothing is crated like you. Not purposely (Angry beeping) That’s it? That’s your response? Been there, Smudge. What else have you got? (angry beeping) You need new material. Yeah, I know you’re terrifying. But I can be pretty scary, too. Know what I’ve got, Smudge? (Colby holds up a tiny pair of scissors) I’ve got these. (beeps) And I could do it. Just one snip. Tiny triangle in the tubing. Like the first peck through the shell of an egg. SNIP. Freedom (frantic beeping). I want to scare you. I want to see horror in your little half-face. I want you to scream. I want to hear what your voice sounds like. I want to pinch you until I prove there’s blood in there. I want to poke you with a stick. (the beeps quicken until they’re one steady scream) Move. MOVE, dammit. Blink. Blink! SHOW ME YOU’RE ALIVE. (Everything stops, and Colby draws in a sharp breath, staring into the crib.) Nicholas . . . Nicholas . . .
-
-(Colby runs to the phone. Dials) She smiled. TRANSITION
-
-ACTOR: And a connection, however tenuous it may be is made . . . Hope is renewed . . . .
-
-NICHOLAS: Smile! Smile for the carrot, Cass! Smile! It’s smiling at you! Your heart beats. Your brain functions, and I’m talking to you and I’m not crazy. Which means you’re alive. Living is empirical. It’s scientific. Check off a box – alive or dead? Yes or no. Zero or one. Living can’t be qualified. You’re a one. I’m sure you’re a one. (Freezes in place)
-
-COLBY: (to the carriage) I don’t love you. I hope that’s okay. I know you’re not too fond of me either. Nick told me I’m “not open to our bond.” The thing is, you’re kind of hard to bond with. (breathes in time with the monitor)
-
-NICHOLAS: (unfreezing) You were breathing . . . in rhythm. With the (he indicates the monitor)
-
-COLBY: I was? (He nods) . . . . Oh. (Pause) Is that bad? (pause)
-
-NICHOLAS: (looking into the carriage again) Cassandra rests on one swollen check. Her skin sags where it has given up. Her eye continues to watch me, always, saying, “I am yours, and you must love me.” I look back into the gree-blue sea that refuses to change, and I respond: Now reachfor the carrot. Just reach for it. Look at it. Blink at it. Please. Gow, Cassie. Stretch. Why won’t you look at me? Move! Grow! Change! Change, you little monster.
-
-COLBY: Nick. We could try again. Couldn’t we? Try again? I want a child.
-
-NICHOLAS: We have a child.
-
-COLBY: Where? (Nicholas looks toward the crib. He makes a decision. He makes a cradle with his arms)
-
-NICHOLAS: Right here.
-
-COLBY: . . . Tell me about her.
-
-NICHOLAS: She smells like graham crackers.
-
-COLBY: How many arms does she have?
-
-NICHOLAS: Two.
-
-COLBY: How many legs?
-
-NICHOLAS: Two
-
-COLBY: Does she have a body?
-
-NICHOLAS: And two eyes. A face. A perfect, tiny face.
-
-COLBY: What’s she doing now?
-
-NICHOLAS: She’s reaching out . . . grabbing your hand. Wrapping her stubby little fingers around your thumb.
-
-COLBY: Veins spider-webbing through her skin. The tiniest nails you’ve ever seen. She has eyebrows. Eyelashes. Gums, but eventually teeth.
-
-NICHOLAS: She’s saying her first word. It’s “Mamma.”
-
-COLBY: She’s taking her first step.
-
-NICHOLAS: She’s leaving us – waving goodbye from the school bus.
-
-COLBY: It’s just her first day of kindergarten.
-
-NICHOLAS: Her first day of high school.
-
-COLBY: Her first day of college.
-
-NICHOLAS: She rows crew.
-
-COLBY: Varsity soccer.
-
-NICHOLAS: MVP
-
-COLBY: Pre-med!
-
-NICHOLAS: She’s an artist.
-
-COLBY: She gets engaged!
-
-NICHOLAS: She gets married!
-
-COLBY: She’s having a ba – (by) (Everything goes silent, the word hanging unfinished in the air). (NICHOLAS FREEZES) (Colby speaks to audience as she looks into the carriage at her baby) You know what my primary fear was, whenever I used to think about a child? I was scared that there’d be something unappealing about her. To other kids. Something weird or socially awkward, that would get her teased. Or that she’d . . . Jesus, that maybe she’d be walking to school one day and get hurt. Snatched. Something out of my control.
-
-NICHOLAS: (unfreezes and joins Colby at the carriage) You know it’s going to be hard. You know that, right?
-
-COLBY: I know . . . I really know. (Colby reaches into the carriage to touch her baby for the first time. Unsure of herself, like a new mother)
-```
-
----
-
-## IC-0917: Soap Opera
-
-- Title: Soap Opera
+- Title: Babel’s In Arms
 - Author (byline): David Ives
 - Work: Time Flies and Other Short Plays
 - Publisher: Grove Press
-- Publication date as stated: April 2001
-- Event as filed: Duo Interpretation
+- Publication date as stated: March 2001
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: ACTOR 2, LOUDSPEAKER VOICE, MAITRE D’, REPAIRMAN, MOTHER, MABEL, WASHING MACHINE
+- Speaker labels in the text: GORPH, CANNAPHLIT, BOTH, BSWOMAN
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1659
+- Spoken words (computed): 1233
 - Already set (do not supply): none
 
 ### Source block (context only)
@@ -9088,936 +6583,722 @@ Author: David Ives
 Book: Time Flies and Other Short Plays
 ISBN: 978-0802137586
 Publisher: Grove Press
-Date (Month/Year): April 2001
+Date (Month/Year): March 2001
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-TOGETHER: Soap Opera by David Ives
+Babel’s in Arms by David Ives
 ```
 
 ### Performance text (classify this)
 
 ```text
-Suggested Roles: ACTOR 1: Loudspeaker Voice, Repairman
+Enter two workers, GORPH and CANNAPHLIT Primitive tools hang from their belts. They are carrying between them an enormous rectangular building stone, maybe five feet long and two feet high. They inch slowly toward center with it, as . . .
 
-ACTOR 2: Maitre D’, Mother, Mabel, Washing Maching
+GORPH: (groaning under the stone's weight) Okay. . .Okay. . . Okay. . .Stop. (A moment, as they catch their breath.)
 
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
+CANNAPHLIT: Okay?
 
-LOUDSPEAKER VOICE: (Soap opera-like music) Welcome to . . . "All the Days of the World of the Lives of All of Our Children." Today's episode: "Love Machine." Lights come up on a FRENCH MAITRE D’ at a restaurant podium, taking a phone reservation.
+GORPH: Go.
 
-MAITRE D’: (into phone) Bonsoir, Cafe Paradis, this is Pierre. . .Ah, oui, bonsoir, madame. . . A table at 8:15? Yes bien. I 'ave written your name in ze Beeg Book. . . A bientot to you, chere madame. My plaisir. During this, the REPAIRMAN has entered, pushing a WASHING MACHINE. He wears a dignified blue service uniform, red bowtie, and blue visored cap.
+BOTH: (ad lib, moving toward center) Okay. Okay. Okay. Okay.
 
-REPAIRMAN: Excuse me.
+GORPH: Stop. (They catch their breath a moment.) Go. (They move a few inches.) Stop. (They stop to catch their breath) Go.
 
-MAITRE D’: Mm-hmmmmm... And do you have a reservassyonnng?
+CANNAPHLIT: (at center now) Stop.
 
-REPAIRMAN: I do-for deux, under "Maypole."
+GORPH: Okay. Down. (They slowly lower the stone.) Down. Down. Down. Down. Down. Stop. (looks at it.) Behold! . . . . It’s backwards. (They go in a circle.) Circle
 
-MAITRE D’: Maypole. Mmmmmmmmmmmmmm . .. (checks reservation book) Has your other party arrived, monsieur?
+CANNAPHLIT: Circle.
 
-REPAIRMAN: (gesture to the washing machine) This is my other party.
+GORPH: Stop. Okay. Down. . . Down. . . Down. . . Stop. (They now have it an inch over the ground.) One. Two. Five. Go! (They drop the stone to the ground.) Behold the stone!
 
-MAITRE D’: Monsieur, is your companion not a majeur household appliance?
+CANNAPHLIT: Behold the stone! Big stone. (They moan, they groan, they stretch, they wipe sweat from each other's foreheads.) But what is a "stone," O, Gorph, son of Khlekhmalekhm?
 
-REPAIRMAN: Yes. She is a Maypole washing machine
+GORPH: That heavy thing there. That is a stone, O, Cannaphlit, son of Bob.
 
-MAITRE D’: "She"... is a washing machine! Per'aps you would like to sit at ze bar. But-one moment, monsieur. . . Have I not seen you somewheur . . . ? Mais oui! La television! Are you not ze Maypole Repairpersonne?
+CANNAPHLIT: Ah, so that is a stone. But is this stone in the right place, O, Groph, son of Khlekhmalekhm?
 
-REPAIRMAN: I am the Maypole Repairman.
+GORPH: I will consult the plans, O, Cannaphlit, son of Bob. (He takes out a large parchment roll.) Behold the plans.
 
-MAITRE D’: The Repairman who weeps because he has nothing to
+CANNAPHLIT: Behold the plans! (GORPH unrolls a blueprint-a large blue sheet of paper with just a single white rectangle in the middle.)
 
-REPAIRMAN: Yes. Yes.
+GORPH: (After inspecting the plans) The stone must move one sixteenth of an ell to the north!
 
-MAITRE D’: Who goes beu-eu-eu because la machine is too peifecte?
+CANNAPHLIT: One sixteenth of an ell! How far is that?
 
-REPAIRMAN: Yes. That is I. (He bursts into tears and sobs loudly and tragically.) Oh, it's so sad. It's so, so sad!
+GORPH: About an inch.
 
-MAITRE D’: (holds out a handkerchief) Mouchoir, monsieur?
+CANNAPHLIT: (as GORPH takes out the crowbar) O my friend? What is that?
 
-REPAIRMAN: (takes it) Merci. (abruptly stops sobbing and speaks to audience) Like everything else, it all started a long time ago. . .
+GORPH: This item has no name, for humanity is young and has not words yet for every item. Basically, it's a rigid rod that pivots about a fulcrum and is used to move an object at point A by applying force at point B. . . . I call it a lever.
 
-REPAIRMAN: It was as a naked crawling infant I first glimpsed it-a great gleaming machine in our basement which I mistook for a television. I tried to watch cartoons on it till I was five unsuccessfully, of course. But by then I was hooked.
+CANNAPHLIT: Behold the lever!
 
-MOTHER: Young man, you take off those filthy clothes immediately! How can you stand to stand there in those disgusting dirty items of apparel. Coke. Pepsi. Play-Doh. Dipsy Doodles. Dog doo . . . ? Eugh! Ogh! Peh! Ptui! I should just burn these clothes.
+GORPH: (With a huge grunt, he levers the stone an inch to the lift; that done, he checks, and nudges it with his toe one last small bit.) The stone is now in place.
 
-REPAIRMAN: Aw, Mom. I just put these on this morning.
+CANNAPHLIT: The stone is in place! (They snort, high-five, shake hands, flex muscles, grab crotch, and generally male-display.) So what is the stone for, O, Gorph?
 
-MOTHER: Fabrics find filth. Now strip until you're naked as a little ferret. And get in that bath and scrub. (exits)
+GORPH: This stone? This stone is for. . . You mean thou dost not know?
 
-REPAIRMAN: The sphinx in our Oedipal basement was my Mother 's Maypole. The old Ocean IT-40 It sat there like a mystical monolith. An ivory soap tower. One block of some Tower of Bay bel. Or is it Babble. Anyway, in our house the Maypole was a god. Week after week generating out of my miserable clay . . . A line of clean washing flies in over his head-white, filmy, angelic forms, including one cutout of an angel . . . the radiant angels who oversaw my childhood. I was a walking magnet for filth-here was the machine to cleanse me. We were a perfect match.
+CANNAPHLIT: I dost not know. (They regard, the stone a moment.) A BUSINESSWOMAN in a killer suit with a large sword in a scabbard, enters sets up a sign that says "FUTURE HOME OF BABEL."
 
-MABEL enters, a teenage girl in bobby sox and ponytail, chewing gum, sucking on a milk shake through a straw.
+GORPH: (reading the sign) "Future Home of Baybel."
 
-MABEL: Hi, Manny.
+BSWOMAN: Babble. It's not "Baybel." It's Babble. Now listen up, you rotten stinking men.I represent a consortium of off-desert investors who want to develop this property. Our mandate is to build a tower whose top will reach to the very heavens, indeed, into heaven, indeed, as high as God. This in order to show that we are equal to same aforesaid God.
 
-REPAIRMAN: Hi, Mabel. (to audience) Then there was Mabel. Mabel was perfect too, in a flawed human way. She always had a spot of jelly on her blouse, but she was loving, she was tender, and her name sounded like "Maypole." (to Mabel) You got a spot on your blouse.
+GORPH: That we are equal to God?
 
-MABEL: It's jelly. You wanna like go to like a movie or somethin'?
+BSWOMAN: No, that we, not you, are equal to same aforesaid God. You are nothing. You are scum, but you build the tower. Have you got that?
 
-REPAIRMAN: You wanna hop up on the washer and take a spin?
+GORPH: We're scum. We build the tower.
 
-MABEL: Manny, how come we always gotta make out on your Mother 's Maypole?
+BSWOMAN: In the event that same aforesaid God is not pleased, the consortium is not responsible for any long-term apocalyptic events. Sign here. (presents a parchment; Gorph and Cannaphlit sign and she immediately takes it away) Understood. Now. The most important thing. And this is absolutely crucial. Are you listening? (They nod.) Do not - under any circumstances - khlumnafluffa himnaflekh.
 
-REPAIRMAN: Well like what's so like weird about that?
+CANNAPHLIT: Do not khlumnafluffa bimbaflekh?
 
-MABEL: Do we have to run a full load while we do it? I mean, the vibrations are kinda nice, but. . .
+BSWOMAN: Himmm-naflekh.
 
-REPAIRMAN: But the Maypole. . .
+CANNAPHLIT: Himmmmm-naflekh.
 
-MABEL: I know, I know. It's like perfect.
+BSWOMAN: (pulls sword from its scabbard) Instructions clear? Or else you die.
 
-REPAIRMAN: A machine that's faultless and flawless and has none of our stupid human feelings and failings? The Maypole is poetry. It's purity. A paragon! Perfection, cubed!
+GORPH: Mm-hm... Oh yeah. . . I think so . . . Very clear. . .
 
-MABEL: But like what about me? Do you like like me like you like the Ocean IT-40? And aren't you the love of my life? You are!
+BSWOMAN: One last crucial thing. Did you bring the shpoont?
 
-REPAIRMAN: Gosh, Mabel.
+GORPH: Oh, the shpoont.
 
-MABEL: I'm sorry, but you're gonna have to choose. Me or the machine. Earth or Ocean.
+CANNAPHLIT: I think we have the shpoont.
 
-REPAIRMAN: Mabel? Mabel come back! He starts to weep. The top lid of the Machine lifts and a woman's head appears: perfect hair, perfect makeup, perfect red lips.
+GORPH: The shpoont was here a moment ago.
 
-WASHING MACHINE: Would you like a handkerchief?
+BSWOMAN: Do not proceed without the shpoont. (takes out the sword) Or else you die. I'll be checking in very soon. Now get to work. (Businesswoman exits.)
 
-REPAIRMAN: Excuse me?
+GORPH: Khlumnafluffa himnaflekh . . .
 
-WASHING MACHINE: (produces one) A handkerchief? It's immaculate, of course. We are a Maypole.
+CANNAPHLIT: Khlumnafluffa himnaflekh. . . .
 
-REPAIRMAN: I'm talking to an Ocean IT-40. This harrows me with wonder and fear. And your English is so good.
+GORPH: What the heyyyyy is that?
 
-WASHING MACHINE: What Maypoles do, we do perfectly.
+CANNAPHLIT: That was a little vague. The other instructions were pretty clear.
 
-REPAIRMAN: I guess you don't think much of human beings.
+GORPH: Oh yes? Repeat the instructions. Refresh my memory.
 
-WASHING MACHINE: We run hot and cold. Do humans ever read the instruction manual?
+CANNAPHLIT: Build a tower whose top reaches to the very heavens, indeed, into heaven, indeed as high as God. Proving that they - not we because we are scum - that they are equal to same aforesaid God.
 
-REPAIRMAN: I do. The manual is my Immanuel.
+GORPH: That's very clear.
 
-WASHING MACHINE: And .your name is . . . ?
+CANNAPHLIT: And don't khlumnafluffa himnaflekh, or you die.
 
-REPAIRMAN: Manuel.
+GORPH: And don't forget the shpoont. (They look at each other and shrug)
 
-WASHING MACHINE: Maypoles don't need to read the Good Booklet. We know by nature how to run smoothly, noiselessly, and efficiently.
+CANNAPHLIT: Maybe we could put a portico on the tower, in pink, do a rich pink ceiling, maybe use that sponging technique. . .
 
-REPAIRMAN: My God you're beautiful.
+GORPH: But consider this, O son of Bob. Putting the pink portico aside for a moment. Why? Let us nail down why. Name an attribute of God. Go ahead. Just pick an attribute, any attribute.
 
-WASHING MACHINE: Just beautiful?
+CANNAPHLIT: God is fairly powerful.
 
-REPAIRMAN: Exquisite. Sublime.
+GORPH: Powerful. Mm-hmm . . .. Any other attributes?
 
-WASHING MACHINE: Yes we are. And we're a bit hungry. Would you feed us?
+CANNAPHLIT: I'd say God is eternal and infinite.
 
-REPAIRMAN: What would you like?
+GORPH: Infinite. Let's pause there for a nanosecond. How high would a tower have to be to meet an infinite God?
 
-WASHING MACHINE: Don't you sometimes miss a little something in the wash. . . ?
+CANNAPHLIT: Hmmm. (He ponders that a moment, then raises his hand like a student.)
 
-REPAIRMAN: You eat the socks?
+GORPH: (teacher) Cannaphlit?
 
-WASHING MACHINE: Socks are sustenance. Underwear is tastier.
+CANNAPHLIT: Infinitely high?
 
-REPAIRMAN: (reaches into his waistband and pulls out, whole) Will B.V.D.'s do?
+GORPH: Infinitely high. So you're going infinitely high – how broad would the base of same aforesaid tower would have to be? Just gimme a rough guesstimate. (Pause as Cannaphlit ponders that. Then he raises his hand again like a student.)
 
-WASHING MACHINE: You're so sweet. Kissing her lips at him, the head takes the B. V.D.'s and goes back into the MACHINE. The lid closes.
+GORPH: (teacher) Cannaphlit?
 
-REPAIRMAN: (to audience) I was awash in confused feelings. But I sensed that this machine and I were locked in permanent press. And if it was love-it was unclean. Mom died during a soapflake blizzard and was buried on a day without blemish-a good send-off for someone who believed that man was not only dust, but dusty. I inherited the Maypole. The pure unapproachable goddess was mine. This machine and I are soulmates! Nobody understood. But who understood Romeo and Juliet, or Tristan and Isolde, or Lewis and Clark? I soon was desperate. So was Mabel.
+CANNAPHLIT: Infinitely broad?
 
-*******
+GORPH: Innnnfinitely broad. How many stones would we have to use? An innnnnnfinite number of stones. And how long did it take us to get this stone here?
 
-MABEL: Can't you love me, Manny?
+CANNAPHLIT: Two years.
 
-REPAIRMAN: What about my past with. . . the machine?
+GORPH: So our task is to build a tower infinitely high, infinitely broad, from an infinite number of stones, shake hands with God AND - do not khlumnafluffa himnaflekh while using the shpoont.
 
-MABEL: We all have our dirty laundry.
+CANNAPHLIT: It's gonna be work.
 
-REPAIRMAN: There's a spot on that.
+GORPH: It's gonna be work.
 
-MABEL: It's jelly. So do you want to marry me or do I gotta live in sadness forever and ever?
+CANNAPHLIT: (brilliant idea) Maybe we should get out of it!
 
-REPAIRMAN: I do.
+GORPH: But how, O brilliant Son of Bob? We just say no? But we need a reason. So when they ask us why we've laid down our tools, we say. . . ?
 
-MABEL: You do?
+CANNAPHLIT: We could tell them God doesn't exist.
 
-REPAIRMAN: I do. (to audience) We repaired to the church and said we did. But the honeymoon soon ended.
+GORPH: I love it! It's simple. It's elegant.
 
-MABEL: Manny, is it really all over between you and. . . that?
+CANNAPHLIT: What could they do?
 
-REPAIRMAN: (caressing the Machine) Yes, it's all over, why do you ask?
+GORPH: Cut off our heads! (They ponder the dilemma for a moment, grunting)
 
-MABEL: Do you think I didn't notice we're sleeping in the utility room? Do you think I don't see you polishing its knobs when I'm not looking? Do you think I don't know you're buying me rare cottons and high-quality blends so that. . . she can wash them? Huh? Mabel exits.
+CANNAPHLIT: Wait a minute. Who says God is in the sky?
 
-REPAIRMAN: The house reeked of jealousy. The machine started making greater and greater demands. Imported Italian bleach. Nuclear detergents. Fine French fabric softener. Mabel bought none of it. She'd had it. And so we folded. I went into Soak cycle-lapping up suds while hanging out at cut-rate Laundromats, just to watch the competition break down. Washers without automatic lint control. How pathetic-and yet how vulnerable. Then came the final blow. The lid lifts and the head appears.
+GORPH: Yeah! Where did this arcane idea come from?
 
-WASHING MACHINE: We want a dryer.
+CANNAPHLIT: Maybe God isn't up, maybe God is down.
 
-REPAIRMAN: A dryer. . . Why?
+GORPH: Oh, man, it's brilliant. Brilliant!
 
-WASHING MACHINE: Don't get anxious.
+CANNAPHLIT: We don't have to build a tower infinitely high and infinitely broad! We just have to dig a big hole! (They celebrate, but then realize)
 
-REPAIRMAN: I'm not anxious.
+BOTH: An infinite hole. . .
 
-WASHING MACHINE: Don't be jealous.
+CANNAPHLlT: Wait a minute. (tapping his head with a brilliant idea) Candlepower! Candlepower!
 
-REPAIRMAN: Why do you need a dryer when you've got me?
+GORPH: What've you got? What. What. What.
 
-WASHING MACHINE: Washer-dryer. Love-and-marriage. Horse-and-carriage.
+CANNAPHLIT: We tell them God is everywhere. If God is everywhere, you don't have to build a tower or dig a hole or nothin' !
 
-REPAIRMAN: A dryer. To give you a tumble, eh?
+GORPH: Because we're already there. (They celebrate wildly for a moment, then stop suddenly.) Is it true?
 
-WASHING MACHINE: For companionship.
+CANNAPHLIT: I don't know. We could say it. (They go back to celebrating.)
 
-REPAIRMAN: That's not the truth, that's just. . . spin.
+BOTH: Whoo-EEEEE!
 
-WASHING MACHINE: We want a family and we want them to be Maypoles! Is that so weird?
+CANNAPHLIT: We're there, buddy! GORPH: We did it!
 
-REPAIRMAN: Her inner timer had told her it was time for a dryer and how could I deny her? (the Machine starts to cry) What is it? What's the matter?
+(They snort, high-five, shake hands, flex their muscles, grab their crotches, and generally male display. The Businesswoman comes in and watches them celebrate.)
 
-WASHING MACHINE: (wailing) I'm a Maypole! That's what's the matter!
+BSWOMAN: So how are we doing?
 
-REPAIRMAN: Handkerchief? It's kinda dirty.
+GORPH: Good. Good. We're doing good. Excellent.
 
-WASHING MACHINE: Then it's my duty to accept it. (takes the handkerchief, and wails) Oh, it's cruel, having to be perfect all the time. I wash and I wash, and I give, and I give. . . It's a full load.
+CANNAPHLIT: There it is.
 
-REPAIRMAN: Sure.
+GORPH: (arms wide over the audience) Behold!
 
-WASHING MACHINE: And I'm good at it, oh yes, I'm very good. But sometimes I want so badly to be bad. To be one of those other makes-I don't have to name them, we know who they are. People take us Maypoles for granted, as if we liked pee stains and snot rags and bibs full of baby vomit. I'm no saint! Well, yes, I am a saint in a way.
+CANNAPHLIT: (arms wide over the audience – a pause) The tower!
 
-REPAIRMAN: But you had to be what you are.
+GORPH: Shake hands with God, baby. 'Cause we are DONE.
 
-WASHING MACHINE: It's true. I came off the assembly line of fate. But AM I NOT AN INDIVIDUAL? Not really, I suppose. I have a serial number. That's individual, isn't it?
+BSWOMAN: (draws the sword) Explain this to my trusty sword.
 
-REPAIRMAN: There's nothing to be done.
+CANNAPHLIT: Well... You don't need a tower because God is everywhere. You see?
 
-WASHING MACHINE: Oh, but there is. "If it ain't broke don't fix it"? Break the machine, and you can fix it.
+BSWOMAN: I see nothing. And my sword sees nothing.
 
-REPAIRMAN: You mean. . . ?
+CANNAPHLIT: Maybe you're not looking hard enough. (points) God is here. (points elsewhere) God is here . . .
 
-WASHING MACHINE: Yes. Break me.
+GORPH: God's up there, God's down there. I swear to God. Who is everywhere. As you see. (Silence.)
 
-REPAIRMAN: (to audience) I reached for a sledgehammer.
+BSWOMAN: Did you khlumnafluffa himnaflekh?
 
-WASHING MACHINE: It doesn't have to be much. Loosen a screw or two, agitate my agitator. Take away the burden of my perfection. Make me suffer. Break me. Ruin me. Give me a belt, but give me a bad belt, an old belt, an imperfect belt, one that'll wear out. Do it. Please! Do it! Yes! Do it! Hurt me!
+BOTH: Oh no. No, no. Uh-uh. Never. Not at all. Mmmm. Don't think of it. Nope. No way.
 
-REPAIRMAN: Yes. Yes. I want to. Yes. . . I want to. Yes. . .The Repairman has a tool ready--but stops. (a cry of frustration)
+BSWOMAN: Did you use the shpoont?
 
-WASHING MACHINE: What's the matter?
+GORPH: Constantly.
 
-REPAIRMAN: I can't. I just can't.
+BSWOMAN: I don't believe you. Prepare to die. (She raises the sword.)
 
-WASHING MACHINE: Oh, please. . .
+CANNAPHLIT: We saved your life! The tower you wanted would've taken an innnnnfinite number of stones which would've cost an innnnfinite number of schmootzkels. Consortium calls you in! You’re cold cuts, babe. (The Businesswoman considers that a moment.)
 
-REPAIRMAN: If I could only force myself, but-Wreck the perfect only for my own happiness? No. I couldn't live.
+BSWOMAN: Gentlemen - I LOVE THIS TOWER. It's beautiful! It's got balance, it's got harmony.
 
-WASHING MACHINE: All right. All right. You have your human feelings. BE THAT WAY! The head goes into the Machine.
+GORPH: Put together an infinite number of nothing - eventually, you get this.
 
-REPAIRMAN: But then I saw the cruel truth. I saw that the world is a vale of pee stains and snot rags and bibs full of baby vomit, but that amidst the filth -there were Mabel’s, creatures of glorious imperfection. And that I had already wrecked the perfect, because I had let Mabel go. And that's why I wanted a table tonight! To end this idiocy! To say to this machine I gave you my All (shows a box of All detergent) . . . but the Tide has turned (shows a box of Tide) . . . so goodbye and be of good Cheer. (shows a box of Cheer) But of course, you don't understand! Nobody understands!
+CANNAPHLIT: How do you like the portico?
+
+BSWOMAN: The portico is my favorite part! Congratulations! (Now all three of them snort, Flex, shake hands, etc.) Well you guys did a terrific job and the Consortium thanks you. So as a bonus here's a bag of cow manure for you.
+
+(Gives a dripping bag to Gorph and another to Cannaphlit) And a bag of cow manure for you.
+
+GORPH: Golly. Thanks a lot. That's cow manure all right.
+
+CANNAPHLIT: Nice and fresh too.
+
+BSWOMAN: As an option you could be castrated and be sacred eunuchs.
+
+BOTH: (ad lib) Oh, that's all right. . . I think the cow manure is enough. . .
+
+BSWOMAN: We won't forget this. Thank you.
+
+CANNAPHLIT: Our pleasure.
+
+BSWOMAN: Don't spread that all in one place. (Businesswoman exits.)
+
+GORPH: Tower to God, huh. Easier than I thought.
+
+CANNAPHLIT: (lifting up his bag of manure) This is where thinking'll get you!
+
+GORPH: So listen. Now we found God - you wanna invent the wheel?
+
+CANNAPHLIT: Yeah. What's a wheel?
 ```
 
 ---
 
-## IC-0918: Something Went Wrong
+## IC-1319: The Bad Guys
 
-- Title: Something Went Wrong
-- Author (byline): Matt Casarino
-- Work: Open 24 Hours
-- Publisher: Original Works Publishing
-- Publication date as stated: 2008
-- Event as filed: Duo Interpretation
+- Title: The Bad Guys
+- Author (byline): Aaron Blabey
+- Work: Not specified
+- Publisher: Scholastic Press
+- Publication date as stated: Dec 2016
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: MELISSA, HARRY
+- Speaker labels in the text: MR. WOLF, POLICE OFFICER, MR. SNAKE, MR. PIRANHA, MR. SHARK, SECURITY GUARD, MR. PIRAHNA, DOG 1, DOG 2, DOG 3, DOG 4
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1523
+- Spoken words (computed): 1096
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Matt Casarino
-Book: Open 24 Hours
-ISBN: 978-1934962206
-Publisher: Original Works Publishing
-Date (Month/Year): 2008
+Author: Aaron Blabey
+ISBN: 978-0545912402
+Publisher: Scholastic Press
+Date (Month/Year): Dec 2016
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTRESS: Every marriage has conflicts.
+The Bad Guys. They’re scary and dangerous and well . . . just bad. But these guys want to be heroes. And they’re going to prove it by breaking every last dog out of the pound. The Bad Guys are ready to do some good . . . whether you want them to or not!
 
-ACTOR: You are right . . . Problems in a marriage are inevitable. But the question is whether the couple can communicate effectively enough to resolve their problems or do they instead ignore
-
-ACTRESS: “the elephant in the room.”
-
-ACTOR: Many married couples would rather ignore their problems, hoping that if they don’t acknowledge them the will simply disappear.
-
-ACTRESS: . . . . They have the same empty conversations over and over, resolving nothing.
-
-ACTOR: Resentment moves in and humor and affection leave . . .
-
-ACTRESS: Harry and Melissa have ignored their marital problems
-
-ACTOR: (their elephant)
-
-ACTRESS: for far too long.
-
-ACTOR: But Harry has a solution. He replaces their metaphorical elephant with a very real, very dead clown.
-
-ACTRESS: (Gives Actor an incredulous and shocked look, shaking her head)
-
-ACTOR: I didn’t say it was a GOOD solution!
-
-TOGETHER: Something Went Wrong by Matt Casarino
+The Bad Guys by Aaron Blabey
 ```
 
 ### Performance text (classify this)
 
 ```text
-The front door opens. In comes HARRY, dragging a dead clown behind him. After quite a struggle, Harry maneuvers the clown into the middle of the room and plops down on his chair, exhausted. We see that a kitchen knife is sticking out of the clown’s back.
+MR. WOLF: Pssst! Hey, you! Yeah, you. What’s the problem? Oh, I see. Yeah, I get it . . . You’re thinking, “Ooooooh, it’s a big, bad, scary wolf! I don’t want to talk to him! Heas a MONSTER.” Well, let me tell you something, buddy – Just because I’ve got big pointy teeth and razor-sharp claws . . . and I occasionally like to dress up like an old lady, that doesn’t mean . . . I’m a bad guy.
 
-MELISSA: (offstage) Harry, is that you?
+POLICE OFFICER: SUSPECT RAP SHEET – Mr. Wolf aka Big Bad, Mr. Choppers, Grandma
 
-HARRY: Yeah.
+Criminal Activity: 1. Blowing down houses (the 3 pigs involved were too scared to press charges) 2. Impersonating sheep 3. Impersonating old women 4. Attempting to eat old women [and] relatives of old women 5. Theft of night gowns and slippers. Status: Dangerous. DO NOT APPROACH.
 
-MELISSA: (offstage) I’ll bring in the silverware and plates, okay?
+MR. WOLF: It’s all lies, I tell you. But you don’t believe me, do you? Because I’m the Bad Guy, right? Wrong. I’m a great guy. A nice guy, even. But I’m not just talking about me . . . I’ve got some buddies who have the same problem, so I’ve asked them to join us. They’re great guys. But just like me, they are misunderstood.
 
-HARRY: Okay. Can you get me a beer?
+MR. WOLF: Are you ready to learn the truth? You’d better be, baby. (Knock! Knock! Knock) Let’s see who’s here, shall we? (Opens door) Heey! It’s my good pal, Mr. Snake. You’re going to love him. He’s a real . . .
 
-MELISSA: (offstage) Okay. (A few beats pass. Melissa enters) I hope you wanted Budweiser, because that’s all we . . . (She sees the dead clown. She stops and stares for several beats, taking it in. Meanwhile, Harry takes the beer and opens it.) Harry? What is this?
+MR. SNAKE: Sssssswwwweeetheart!
 
-HARRY: Hmm? (Another beat) Oh, the takeout. Sorry. I didn’t get it. Something went wrong.
+POLICE OFFICER: SUSPECT RAP SHEET – Mr. Snake aka The Chicken Swallower. Criminal
 
-MELISSA: But you did bring home a dead clown. It is dead, isn’t it?
+Activity: 1. Broke into Mr. Ho’s Pet Store 2. Ate all the mice, canaries [and] guinea pigs at Mr. Ho’s Pet Store 3. Tried to eat Mr. Ho. Status: Very dangerous. DO NOT APPROACH.
 
-HARRY: (With a chuckle) Oh, yeah.
+MR. SNAKE: Will this take long, man? I’ve got mice to eat.
 
-MELISSA: Harry? Is there something you’d like to tell me?
+MR. WOLF: (Laughs) What a joker this guy is! “I’ve got mice to eat!” That’s a good one.
 
-HARRY: No, not really (Beat) Hey, how about I order a pizza?
+(laughs) (Knock! Knock! Knock!)
 
-.
+MR. SNAKE: Hey! Who’s that? What’s going on here?
 
-MELISSA: Harry – Why is there a dead clown on my living room rug?
+MR. WOLF: Take it easy. Have a cupcake.
 
-HARRY: (Big sigh) It’s been a long day, Melissa. All I want to do is read the paper and eat some pizza and watch Law and Order and go to bed. Okay?
+MR. SNAKE: A cupcake? You got any mice?
 
-MELISSA: No, Harry, It’s not okay. There is a dead clown with a knife in its back on my . . . hey! (She goes to the corpse and pulls the knife from its back) That’s my good kitchen knife!
+MR. WOLF: Enough with the mice, or I’ll eat you! (notices audience) I mean . . . Goodness, I wonder who could be at the door? (opens door) Well, if it isn’t Mr. Piranha. Now if anyone has a bad reputation, it’s this guy . . .
 
-HARRY: Oh, yeah. Sorry about that.
+MR. PIRANHA: Hola.
 
-MELISSA: Oh, my god, Harry . . . what did you do? What is going on!
+POLICE OFFICER: SUSPECT RAP SHEET -- Mr. Piranha aka The Butt Biter. Criminal Activity: Eating tourists. Status: EXTREMELY dangerous. DO NOT APPROACH.
 
-HARRY: Honey, nothing’s going on. I love you. You know that.
+MR. WOLF: Hey, Mr. P! I know a sweet guy like you wouldn’t say no to a cupcake . . .
 
-MELISSA: Harry . . . did you kill this clown? Did you?
+MR. PIRANHA: I’ve come all they way from Bolivia, hermanos. And I’m hungry! Where’s the meat?! (Knock! Knock! Knock!)
 
-HARRY: Honey . . . (another big sigh) . . . Okay, I’ll tell you all about it. I left work and s topped at Freddie’s for some takeout. But when I came home, I didn’t have the takeout. Instead, I had a dead clown. So I dragged him in here and sat down. That’s what happened.
+MR. WOLF: Aha! Now I know this guy like cake . . . (opens door) Hey there, Mr. Shark. How’s it going?
 
-MELISSA: But something happened in between the time you went to Freddie’s and the time you brought the dead clown home.
+MR. SHARK: I’m hungry. You got any seals?
 
-HARRY: Honey, look. There is nothing I could possibly say that could even come close to justifying why I brought home this dead clown. You’re just setting yourself up for a big letdown. Let’s just say that something went wrong. What’s done is done. You know, someday we’ll look back on this and laugh.
+POLICE OFFICER: SUSPECT RAP SHEET – Mr. Shark aka Jaws. Criminal Activity: Will literally eat ANYTHING or ANYBODY. Status: RIDICULOUSLY DANGEROUS. RUN! SWIM! GET OUT OF HERE!!!
 
-MELISSA: I don’t care about someday. I care about today. Right now. Where it’s just you and me and . . . (she motions to the clown)!
+MR. WOLF: This is what I’m talking about! How will anyone take us seriously as Good Guys if all you want to do is eat everyone?
 
-HARRY: All right, Melissa. I get it. I see what’s going on here. You’re still made about last Thursday.
+MR. SNAKE: Good guys? What’s he talking about?
 
-MELISSA: What!?
+MR. PIRANHA: Beats me . . .
 
-HARRY: Honey, I told you. The boss handed me that report to finish. I would have called, but the phones were on the fritz, so I . . .
+MR. WOLF: This is the very first meeting of The Good Guys Club! That’s right! The Good Guys Club!
 
-MELISSA: I don’t care about last Thursday night, Harry!
+MR. SHARK: I beg your pardon?
 
-HARRY: Oh, Melissa. I’ve been married to you for eight years. I can read you like a book. You’re still mad.
+MR. WOLF: Aren’t you tired of being the villain? Aren’t you tired of the screams? Aren’t you tired of the fear?
 
-MELISSA: Of course I’m mad! You . . . you brought . . .
+MR. PIRANHA: Not particularly.
 
-HARRY: I know, honey, and I admit that this (indicates the clown) is a problem. But nothing is stronger than the foundation of our love! One dead clown can’t ruin that. Besides, I thought you didn’t like clowns.
+MR. WOLF: Of course you are! And I have the solution! Pop Quiz . . . Let’s say we find a cat stuck in a tree. What do we do?
 
-MELISSA: I like clowns!
+MR. SHARK: Eat it?
 
-HARRY: Really? I never did. They always scared me. It’s like, this is supposed to make me laugh? A middle-aged fat guy in white makeup with a distorted red nose? Come on!
+MR. WOLF: No! We rescue it!
 
-MELISSA: Clowns are supposed to be happy. They’re supposed to be silly and carefree and bring joy to the hearts of children. They’re not supposed to be lying dead in my living room, still bleeding from a wound caused by my kitchen knife! Can you even begin to understand how this makes me feel?
+MR. PIRANHA: I came all the way from Bolivia for THIS?
 
-HARRY: Of course I understand. But I don’t think you’re making an effort to understand me. Look at yourself! You’re exhibiting very hostile body language, Melissa. I don’t think anything I say is going to get through right now.
+MR. WOLF: (gathering his patience, he tries again) [Look] If we’re going to be heroes we need to be able to smell trouble! (sniffs) In fact . . . I think I can smell trouble right now . . . (sniffs) Wow, it’s really strong . . . (sniffs) Hang on. That’s not . . . Aw, who farted?! (Mr. Snake reacts) (gathering his patience, he tries again) It’s time for OPERATION DOG POUND! 200 puppies are locked up in the Maximum Security City Dog Pound. Their hopes and dreams are trapped behind walls of stone and bars of steel. But guess what? We’re going to set them free . . . with this! (he holds out a dress on hanger)
 
-MELISSA: Harry!! What is going on!!
+MR. SNAKE: Are you going to dress up like an old lady AGAIN? It doesn’t work, man. You ALWAYS get caught!
 
-HARRY: Honey, look. We could get into a big discussion over this, and hash out who did what, and why, and to whom, and oh my god, what about the cops, et cetera, et cetera. Instead, how about this idea. You tell me what you want on your pizza. We’ll stash the clown body in the closet, then I’ll call Testa’s and order the pizza. We’ll relax, eat dinner, drink some wine, and when we’re done, we’ll cut this poor bastard up and buy him in the woods in a shallow grave and put this whole dead clown business behind us once and for all. What do you say?
+MR. WOLF: Who said anything about me? (looks meaningfully at Mr. Shark)
 
-MELISSA: (Beat) Who are you?
+MR. SHARK: He’s completely lost his mind ****** AT THE POUND ******
 
-HARRY: I’m me, Melissa. I’m the same man you’ve been in love with all these years. I’m just going through a tough time right now.
+SECURITY GUARD: (Ring, Ring - answering phone) Hello? Oh, certainly, miss. I’ll buzz you in.
 
-MELISSA: A tough time? My god, Harry, you . . . okay. Whatever happened, you can tell me. Okay? I’m . . . I’m your wife. I’m here to support you. So please, tell me what happened, and we can sit down, and decide what to do. Together. Okay? Now please tell me what happened.
+(pushes buzzer to open door – Mr. Shark enters disguised as a young girl) Now what can I do for . . . uh . . . you?
 
-HARRY: Okay. I’ll tell you. Now remember how much I love you. I’d do anything for you. Keep that in mind for me okay? . . . (Big sigh) There was no report to finish. I was with someone.
+MR. SHARK: I’m just a pretty young lady who has lost her dog. Please, oh please, can you help me sir?
 
-MELISSA: What?
+SECURITY GUARD: (smitten) Well, of course! Anything for such a lovely young lady.
 
-HARRY: Last Thursday night. I’m so sorry, honey. I was in a bad place. I was feeling very vulnerable. I want you to know I take full responsibility for my actions. I don’t blame you one bit.
+Mr. SHARK: Cool.
 
-MELISSA: What are you . . . blame me for what?
+****** OUTSIDE ******
 
-HARRY: Blame you for not . . . well, honey, you haven’t been entirely . . . intimate with me for a while. But in all fairness, I suppose I’ve been distant lately, and . . .
+MR. WOLF: He’s in! I knew this would work. Now, you know what to do. Once those cages are open, we won’t have long, so don’t mess it up. (he takes out a grappling hook with a length of rope)
 
-MELISSA: Distant? Is that what you call it? When our entire conversation anymore revolves around dinner and which rerun we’re going to watch?
+MR. SNAKE: What’s that thing for?
 
-HARRY: Hey, now that’s not fair. It takes two to have a conversation, you know.
+MR. WOLF: Climb aboard, fellas! (Mr. Snake and Mr. Pirahna climb onto the grappling hook) Hold on tight. And remember – once Mr. Shark gives me the signal, I’ll get you inside and all you have to do is tell the dogs which way to run. Got it?
 
-MELISSA: And what does that mean? That this is somehow my fault?
+MR. PIRANHA: Yeah. But how do we get inside?
 
-HARRY: No, no. I told you, I take all the blame. Besides, it’s not like I had actual intercourse with her. I couldn’t go through with it. I love you, Melissa. I could never be . . . intimate with another woman.
+MR. WOLF: I’m just going to throw you through that tiny little window. (points) But don’t worry! I have excellent aim and I’m 85% sure I’ll get you in on my first throw!
 
-MELISSA: Harry, that doesn’t . . . (beat) . . . wait a minute! We are not talking about your stupid little affair! We are talking about this dead clown! Now you tell me what happened, or I swear to god, Harry, soon there will be two clowns on my living room rug.
+MR. SNAKE: Hey man, can we talk about this for a second? ****** AT THE POUND ******
 
-HARRY: I already told you. Something went wrong . . . We’re talking about the clown.
+SECURITY GUARD: I wouldn’t normally open all these cages at once, but since you asked so nicely. . . Well, here’s the last cage. Is THIS your dog?
 
-MELISSA: YES!!!
+MR. SHARK: No. Oh, woe is me! I shall never find my dog! (cries loudly) ****** OUTSIDE ******
 
-HARRY: Or are we talking about us? What happened to us, Melissa? We used to have so much fun together, you and me. We would spend hours just laughing. What happened, honey? What happened to the laughter? (Harry and Melissa both look at the clown) Well. I’m sorry, honey. I really am. It’s not you. It’s me, it’s all me. I’ve changed. I used to have such ambitions, such ideals. And now look at me. I’m out of shape. I’m a corporate drone. I’m . . .
+MR. WOLF: That’s the signal! No time to talk! Hold on tight little buddies. (swings the grappling hook like a lasso) (Mr. Snake and Mr. Pirahna twirl around dizzily) It’s time to go be a hero! (he throws the hook)
 
-MELISSA: You’re a guy who brings home dead clowns.
+MR. PIRAHNA: (in mid-air) It we survive this, I’m going to eat that wolf.
 
-HARRY: One dead clown. . . It’s not over for us, Melissa. Someday you’ll learn to trust me again, and we’ll be all the more stronger for it. I told you I couldn’t go through with it, honey. The flesh was willing but the heart – ah, the heart was . . .
+MR. SNAKE: Not if I do it first! (Clank! the hook catches on the bars of the window and Mr. Snake and Mr. Pirahna leap to the floor)
 
-MELISSA: Harry . . . Listen to me. Okay? Listen carefully. I don’t care. I don’t care about your stupid little non-affair.
+MR. PIRAHNA: This is your lucky day, hermanos! We’re getting you out of here!
 
-HARRY: Do you really mean that?
+MR. SNAKE: Everyone, follow us!
 
-MELISSA: Yes. I really mean it.
+DOG 1: Is that what I think it is?
 
-HARRY: Then there is hope for us! I knew it, honey. I knew we were strong enough to get past this and move forward! Let this day be the day of our rebirth! Look out, world . . . here comes Harry and Melissa, and nothing can stop them!
+DOG 2: That’s a snake, dude.
 
-MELISSA: I don’t think so, Harry. (She raises the knife and starts to advance on him) See, I can get past last Thursday night. Your pathetic affairs mean nothing to me Harry. I can get past that. Just as I can get past the fact that you need to buy a new case of Bud every four days. I can even get past that collection of porn that you keep under the floorboard. Oh, yeah. I know about that. Just like I know that you steal salt shakes from fast food restaurants. You see, these are things that happen in a marriage. These are the day to day issues that one must face and deal with and rise above. And I can deal with those issues, Harry. I have risen above. In fact, there’s only one thing I’m still struggling with. One issue I just can’t seem to get past. Do you know what it is?
+DOG 3: But what’s that other thing?!
 
-HARRY: My back hair?
+DOG 4: I think it’s a . . . sardine maybe.
 
-MELISSA: The dead clown on my living room rug!! Now I’m going to ask you one more time before I stab you in your bald spot. Tell me, for the love of God, why is there a dead clown on my living room rug? (By now she’s standing over him, knife ready to strike.)
+DOG 1: (running for their lives, barking and howling) HELP! There’s a snake!
 
-HARRY: (Feeling threatened) Honey, look, sometimes things happen and. . . .
+DOG 4: And some kind of weird sardine thing! HELP!
 
-(Melissa raises the knife and Harry cowers further) Darling, now this in not a constructive . . . (Melissa jerks the knife up and is ready to strike; Harry tries one last ditch effort) Don’t you think there are some things that we just shouldn’t talk about?
+MR. SHARK: (looming threateningly) You’re running the wrong way!
 
-(Melissa stops. A few beats pass as she takes this in. She jerks the knife up again and is prepared to strike Harry . . . but she stops short. Finally, she lowers the knife, slumps her shoulders, and looks at Harry.)
+DOG 3: (reversing direction) HELP! SHARK!
 
-MELISSA: Maybe you’re right. . . Yeah. Maybe some things just shouldn’t be talked about.
+MR. PIRAHNA: OK, Mr. Wolf . . . Hit it!
 
-HARRY: That’s my girl. Hey, come here.
+MR. WOLF: (blows a hole in the side of the dog Pound) Let’s give those puppies their freedom!
 
-MELISSA: (With a sigh that registers a touch of defeat) Okay. (Melissa tosses the knife into the back of the clown corpse. She sits next to Harry, who takes her in his arms.) You’re buying me a new knife.
+DOG 2: (as they race away from the pound) Help! A wolf!
 
-HARRY: Of course I will. Hey, I’ll order that pizza now. Pepperoni and mushroom okay? . . . we’re going to be all right, honey. You’ll see. (Beat) Oh, and honey? . . . Can you do me one favor?
+DOG 1: And a shark!
 
-MELISSA: What?
+DOG 3: And a snake!
 
-HARRY: Don’t look in the trunk, okay?
+DOG 4: And some kind of vampire sardine!
 
-(On her reaction . . . lights down, end of scene)
+MR. WOLF: Look at them, guys! We’ve changed their lives! They’ll love us forever! ****** LATER THAT DAY ******
+
+MR. SHARK: Well, they certainly didn’t seem very grateful, did they?
+
+MR. PIRAHNA: They called me a sardine!
+
+MR. WOLF: You’re missing the point, guys. We did it! We gave 200 dogs a whole new life. Doesn’t that make you feel awesome?!
+
+MR. SNAKE: I thought you were a sardine.
+
+MR. WOLF: Today is the first day of our new lives. We are not Bad Guys anymore. We’re Good Guys! And we are going to make the world a better place. For the first time in my life . . . the future smells sweet! (sniffs) Wait a second – That doesn’t smell sweet . . . Piranha, did you fart?
+
+MR. PIRAHNA: Just deal with it, chico. I get gassy when I’m upset. They called me a sardine.
 ```
 
 ---
 
-## IC-0919: Stay, Carl, Stay
+## IC-1320: Bar Mitzvah Boy
 
-- Title: Stay, Carl, Stay
-- Author (byline): Peter Tolan
-- Work: Stay Carl Stay, Best Half Foot Forward and Pillow Talk: Three One-Act Plays Pgs 5-41
-- Publisher: Dramatists Play Service, Inc.
-- Publication date as stated: Jan 1998
-- Event as filed: Duo Interpretation
+- Title: Bar Mitzvah Boy
+- Author (byline): Samara Siskind
+- Work: Shorter, Faster, Funnier: Comic Plays and Monologues
+- Publisher: Knopf Doubleday Publishing
+- Publication date as stated: 2011
+- Event as filed: Humorous Interpretation
 - Record type: Cutting
-- Speaker labels in the text: CAROLINE, BRIAN, MARY SUE, CARL, DR. WEISS
+- Speaker labels in the text: STACIE, SAMUEL
 - Teaser before the introduction: Yes
-- Spoken words (computed): 1546
+- Spoken words (computed): 1129
 - Already set (do not supply): none
 
 ### Source block (context only)
 
 ```text
-Author: Peter Tolan
-Book: Stay Carl Stay, Best Half Foot Forward and Pillow Talk: Three One-Act Plays
-Pgs 5-41
-ISBN: 978-0822210771
-Publisher: Dramatists Play Service, Inc.
-Date (Month/Year): Jan 1998
+Author: Samara Siskind
+Book: Shorter, Faster, Funnier: Comic Plays and Monologues
+ISBN: 978-0307743350
+Publisher: Knopf Doubleday Publishing
+Date (Month/Year): 2011
 ```
 
 ### Introduction (context only: never use it for content warnings)
 
 ```text
-ACTOR: Ladies . . . Would you rather have A Dog or a Boyfriend?
-
-ACTRESS: Before you decide, let’s consider 5 important factors in any relationship:
-
-ACTOR: Jealousy, Friends, Expectations and Love.
-
-ACTRESS (as Boyfriend): You’re late. Where have you been? Who were you with?
-
-ACTOR (as Dog): I’m so glad you’re home! I have no idea how long you’ve been gone. Let’s play!
-
-ACTRESS (as Boyfriend): No, I don’t want to spend the day with your friends. I don’t like them.
-
-ACTOR (as Dog): Whoohoo! More people to play with!
-
-ACTRESS (as Boyfriend): I don’t know what you want from me.
-
-ACTOR (as Dog): Sit. Shake, Stay. Got it! What’s next?
-
-ACTRESS (as Boyfriend): You are so needy. Just assume I love you unless I tell you otherwise.
-
-ACTOR (as Dog): I love you! I love you! I love you! Rub my tummy!
-
-ACTRESS: Hmmmm . . . That’s some decision!
-
-TOGETHER: Stay, Carl, Stay by Peter Tolan.
+(In a very geeky manner) MY BAR MITZVAH – The huge party when my family announced to the world that I am a Man. A man . . . who girls LOVE! This is how it happened: I make eye contact with the hottest girl in the 7th grade and give my straw a little tongue action so she knows I mean business. A slow song comes on and I strut over to her, not even asking if she wants to dance. I give her the look, and suddenly the two of us engage in a passionate make out session in the middle of the dance floor. Well, maybe that’s not EXACTLY what happened. But it’s the way I like to remember it . . . Bar Mitzvah Boy by Samara Siskind
 ```
 
 ### Performance text (classify this)
 
 ```text
-Suggested Roles: Actress – Caroline Actor – Brian, Mary Sue, Dr. Weiss, Carl and Narrator
+Darkness. A sappy slow-dance song plays faintly in the background. We hear an angry voice in the darkness followed by a slap.
 
-NOTE: This cutting asks one student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
+STACIE: (Pg 15-25) Hey! (Lights rise on SAMUEL and STACIE facing each other on a dance floor. They are both dressed in fancy evening attire. SAMUEL clutches his sore face.)
 
-NOTE FROM THE AUTHOR (summarized): (Pg 9) The character of Carl should not move around on all fours. He should exhibit real dog characteristics not cartoonish – scratching, sniffing and other canine behavior should be used judiciously. Too much of it will tip the balance to cartoon. No bad dogs.
+SAMUEL: Oww! You hit me!
 
-NOTE: Transitions by the Narrator are not found in the original script. The actor should step outside the scene to narrate these transitions.
+STACIE: Your hand was on my butt.
 
-Living/Dining Room of Caroline’s apartment. She is at the table with a plate in front of her. Across the room, Brian concentrates on a newspaper.
+SAMUEL: My hand was nowhere near your butt!
 
-CAROLINE: (Pg 11-12) Honey? Are you sure you don't want some pasta? I put in those little shrimps you like . . .
+STACIE: C’mon, Samuel, your hand was totally touching my butt!
 
-BRIAN: I'm not eating dinner because I get home late, I eat late, and then I have a wad of food sitting in my stomach like a lead balloon. I don't think that's smart healthwise. Or sleepwise. (Beat)
+SAMUEL: One – I wouldn’t touch your butt with a ten-foot pole. Two – Even if I did touch your butt, it’s no reason to resort to physical violence.
 
-CAROLINE: Do you want to sit with me? You don't have to eat, but could you sit with me while I do?
+STACIE: Well, if your hand goes anywhere near my butt again, I’m cutting it off.
 
-BRIAN: (Exasperated) Honey, come on . . . I'm going to watch you eat?
+SAMUEL: Oh, that’s nice. I’m sure they’ll let you off on the popular “he touched my butt” defense. Now can we just finish this dance already, please? Everyone’s watching.
 
-CAROLINE: You used to love eating dinner together, remember? (long beat) Brian?. . . Do you still love me?
+(Beat. STACIE puts SAMUEL’S right arm high up on her waist, and takes his left hand in hers. They dance rather awkwardly)
 
-BRIAN: Don’t be silly. And now we’ll be quiet. (Brian goes back to his paper)
+SAMUEL: My face is stinging. I can’t believe you hit me. It better not leave a mark.
 
-CAROLINE: (Pg 13-14) I'm not saying Brian hasn't been good for me . . .
+STACIE: I didn’t hit you that hard. Don’t be a wuss.
 
-MARY SUE: He has been good for you. He's brought you out more. The first time we met, you were so shy. Let's be honest. When you met Brian, you were a spineless mess. But now you're a super terrific person . . .
+SAMUEL: Don’t be a ruffian.
 
-CAROLINE: With a spine. It's like he filled a need, but the need isn't there anymore. . You know what's funny? I used to think Brian was the perfect man.
+STACIE: Uh, ruffian?
 
-MARY SUE: (Pg 15) Look, Caroline, sweetheart, you need a professional -- Dr. Weiss. The woman has done wonders for me. Remember all that stuff I was going through with Jeffrey? She gave me some great advice. I needed love, companionship . . . someone I could relate to and connect with. She told me to get a dog.
+SAMUEL: Savage, bully . . . barbarian.
 
-TRANSITION by NARRATOR: [So that’s just what Caroline did . . . she went to the local animal shelter and found a big, beautiful, muscular dog . . . she named him Carl]
+STACIE: Oh, you’re so smart. This is a party, not honors English. (Beat.) God, how long is this song?
 
-Caroline sits at the table with her dinner again. Brian is pulling on a pair of sweatpants. He carries socks and sneakers and sits on the couch to put them on. Carl sits on the floor staring at Brian.
+SAMUEL: It just started.
 
-CAROLINE: (Pg 19-20) Are you mad at me? . . . About the dog.
+STACIE: I’m only dancing with you because my mom made me.
 
-BRIAN: I don't care. Just as long as he doesn't get into my stuff. (To Carl) Stop staring at me. (To Caroline) Tell Cujo to stop staring at me.
+SAMUEL: I’m only dancing with you for the photo op. (SAMUEL smiles, posing for a photographer. Sound of a flash going off)
 
-CAROLINE: Are you going out?
+STACIE: Just because it’s your birthday, doesn’t mean you’re better than everyone else.
 
-BRIAN: We're playing basketball.
+SAMUEL: It’s not just my birthday, it’s my Bar Mitzvah.
 
-CAROLINE: On a Tuesday night? You usually play Friday nights.
+STACIE: So?
 
-BRIAN: Well . . . now we're playing two nights a week.
+SAMUEL: So?! (Proud) I am a man today.
 
-CAROLINE: Thanks for telling me. It's not just this one thing. You don't talk to me anymore.
+STACIE: I see no man before me. I see a dork in a beanie.
 
-BRIAN: (breezily, insincere) I'm sorry. I guess I don't have anything to say. Caroline, you know me. I'm not the kind of guy who indulges in a lot of small talk.
+SAMUEL: It’s not a beanie. It’s a yarmulke. A religious head covering.
 
-CAROLINE: I'm not talking about small talk. I'm talking about necessary talk. What's happening in your life. What you're feeling.
+STACIE: Yeah, that makes it cooler.
 
-BRIAN: (with an edge) I think I liked you better when you were too terrified to open your mouth.
+SAMUEL: I’ll have you know, Bar Mitzvah literally translates to “son of commandment” and implies “responsible male.”
 
-CAROLINE: (Stung) God . . . that's mean. Will you stay home tonight so we can talk?
+STACIE: Big whoop.
 
-BRIAN: Honey . . . Look. We're both upset. Let's have some time away from each other . . . and then we'll talk when we've both calmed down. Don't wait up. Keep him out of my stuff. (Brian exits, long sad beat)
+SAMUEL: Did you hear me read from the Torah?
 
-CAROLINE: (their relationship is loving and special) Hi, Carl. Who's my baby? Who's my baby? Sit. Sit, Carl. You are sitting. Good boy. Want some little shrimp? Does baby want some little shrimp? (Caroline tosses some shrimp to Carl.) Good boy. That's a good boy. ******** Caroline and Carl are playing on the floor. Brian is draped on the couch again reading the paper.
+STACIE: Yeah, and I’ve got news for you . . . the Torah is a snore-ah.
 
-CAROLINE: (Pg 23-25) Sit, Carl. Sit. (Carl sits down, crossing his legs Indian-style.) Good baby. Lie down. Down. Down, Carl. (Carl reclines, propping his head up with one hand.) Good baby!
+SAMUEL: You weren’t impressed?
 
-BRIAN: Hey. Don't call the dog 'baby.' It's weird.
+STACIE: I was ready to hit the door-ah.
 
-CAROLINE: Jealous?
+SAMUEL: Gee, thanks.
 
-BRIAN: (heavy sigh) Okay.This is so obvious. You think I've been ignoring you, so you ignore me and spend all your time with the dog. You’ve made your point. I'll try to talk to you more. Okay?
+STACIE: On a scale of one to ten, I give it a four-ah.
 
-CAROLINE: Can we discuss some of the problems we're having?
+SAMUEL: Okay, you didn’t like it. I get it. (Beat. They continue dancing. STACIE scopes out the dance floor SAMUEL is annoyed.) Why did you even come? If you hate me so much.
 
-BRIAN: I don't see any problems. You're the one who keeps talking about problems. You know, sometimes I think you make this stuff up so you can have something to bitch about.
+STACIE: Hello? We’ve lived next door to each other since we were four, Samuel. My whole family’s here. We’ve had it marked on our calendar since August.
 
-CAROLINE: Is that right? I just want to talk.
+SAMUEL: You could’ve gotten out of it. You get out of everything else your parents want you to do.
 
-BRIAN: You want to fight. You want me to say something I'll regret later.
+STACIE: Well, maybe I didn’t want to get out of it.
 
-CAROLINE: I want you to say anything you feel like saying. A little communication is all I'm asking for.
+SAMUEL: (Perking up) Really? Why?
 
-BRIAN: You want a little communication? Talk to your dog. Goodnight. (Brian stalks into the other room.)
+STACIE: No reason.
 
-CAROLINE: (To Carl.) Good boy. (Pointing to the other room.) Bad boy. Good boy, Carl. Speak, Carl. Speak. Woof. Woof. Woof.
+SAMUEL: There’s gotta be a reason. Tell me.
 
-CARL: Woof.
+STACIE: Ow!! That’s my foot!
 
-CAROLINE: My ... CARL: Moof.
+SAMUEL: Why’d you want to come, huh? Say it.
 
-CAROLINE: My ... CARL: My ...
+STACIE: God, Samuel, what’s the big deal?
 
-CAROLINE: Name ... CARL: Woof.
+SAMUEL: C’mom, Stacie, just give it up. Tell me.
 
-CAROLINE: No. Name ... CARL: Name
+STACIE: Okay, fine! You invited Kyle Fischer and Justin Flint. (Beat. SAMUEL’S spirits plummet once again.)
 
-CAROLINE: Is ... CARL: Is ...
+SAMUEL: I didn’t’ invite them. Mom did. She’s in the PTA with Mrs. Fischer and did Habitat for Humanity or something with Justin’s mom.
 
-CAROLINE: Carl. CARL: Carl.
+STACIE: Do I look like I care? The point is they’re here.
 
-CAROLINE: My name is Carl. CARL: My name is Carl.
+SAMUEL: So, what? You’re dating them both?
 
-CAROLINE: Good boy! CARL: Thank you.
+STACIE: Samuel! Hello, I’m twelve.
 
-*********** Caroline and Carl are snuggling on the couch. Brian enters.
+SAMUEL: But you like them both.
 
-BRIAN: (Pg 27) It smells like dog in here. Our apartment smells like a kennel. (Exits)
+STACIE: One of them likes me.
 
-CARL: (Pg 26-28) (Caroline and Carl look at each other) I’m crazy about you; [but] I can't live like this. . . The petty tirades. The accusations spoken and unspoken.
+SAMUEL: Which one?
 
-CAROLINE: I know.
+STACIE: I don’t know.
 
-CARL: I don't want this to turn into a situation of it's him or it's me. I wouldn't ask you to make that decision. I wouldn't be so presumptuous.
+SAMUEL: (Confused) If you don’t know which one likes you, how do you know if either of them like you?
 
-CAROLINE: Presumptuous? Where'd you get that?
+STACIE: Jeez, Samuel, you’re like clueless. (Beat) One of them is my secret admirer.
 
-CARL: Last night on the "The MacNeil Lehrer Report."
+SAMUEL: Your secret admirer.
 
-CAROLINE: I'm so impressed. You're such a good boy.
+STACIE: Valentine’s Day was last week, and I got a dozen pink carnations in my locker.
 
-CARL: You're my snuggle-bunny. (He rubs his head on her arm, then gets back to his conversation.) Now, as I was saying ...
+SAMUEL: And you think one of those dorkwads did it?!
 
-CAROLINE: You want me to ask him to leave? It's something I've been thinking about, yes ... but to actually confront him. I don't think I can do it.
+STACIE: When I found the flowers in my locker they were at the lockers across the hall . . . looking at me, smiling.
 
-(Brian enters, spraying disinfectant around the room.)
+SAMUEL: Oh, and that’s like, proof.
 
-BRIAN: I'm sick of that stinking animal, I'm sick of his hair all over the place. And I'm sick of my girlfriend spending every minute of her free time with a dumb animal. This is it, Caroline. It's me or it's him.
+STACIE: Shut up.
 
-CAROLINE: You think you can put me in that position? Brian, you are so ...
+SAMUEL: You shut up.
 
-CARL: (Under his breath.) Presumptuous.
+STACIE: At least I got something. What did you get for Valentine’s Day? Let me guess, a big heart-shaped cookie your mom made you.
 
-CAROLINE: Presumptuous. You don't want to ask me to make that choice.
+SAMUEL: You’re so dumb (Beat) It was a Cupid.
 
-BRIAN: You bet your ass I do.
+STACIE: They’re looking over here. Oh my God, I’m gonna die. I am so gonna die.
 
-CAROLINE: (Pointing to Carl) I choose him.
+SAMUEL: One – You’re not gonna die. And two – They’re not looking at you, they’re looking at my cousin Sharon. She’s seventeen, and a thirty-four double D.
 
-BRIAN: Yeah. Right. Read my lips. Get rid of the mutt.
+STACIE: Go ask them which one did it.
 
-CAROLINE: I'm serious. The dog stays . . . and you . . . go.
+SAMUEL: Which one did what?
 
-BRIAN: (Turning to exit.) You're serious. (Stricken and overly dramatic) After everything I've done for you?! You used to be afraid of your own shadow. You wouldn't give an opinion, you wouldn't make a comment . . . because you were afraid of sounding stupid. I nurtured you. I made you feel good about yourself ...
+STACIE: Put the flowers in my locker.
 
-CARL: (dryly) I’d like to thank the academy . . .
+SAMUEL: What?! No! No way!
 
-BRIAN: I knew this day would come. (He exits.)
+STACIE: C’mon, Samuel, please?!
 
-TRANSITION by NARRATOR: [So . . . Caroline finally found the strength to stand up to Brian and throw him out. Life with Carl was perfect in every way. He doted on her every word, he listened, really listened. He was responsive, obedient, loving. He was the perfect companion . . . until one day]
+SAMUEL: I’m not talking to those Neanderthals. Uh-uh.
 
-CAROLINE: (Pg 33-34) Well?
+STACIE: Why not?
 
-CARL: What?
+SAMUEL: Because one – I’m not your messenger boy, and two – I am enjoying my dance.
 
-CAROLINE: Don't play dumb with me, Carl. You know what. That scene in the park with Mary Sue? You kissed her!
+STACIE: One – What is with the one and two everything? God. And two – You’re just jealous.
 
-CARL: I licked her face.
+SAMUEL: Of who? Those guys? Please.
 
-CAROLINE: Big difference! You don't have to make out with her in front of me!
+STACIE: YOUR HAND’S ON MY BUTT!!!!
 
-CARL: Boy, are you paranoid.
+SAMUEL: Sorry, it slipped!
 
-CAROLINE: Oh, please. Don't start throwing around terms you know nothing about. If you don't have anything constructive to say, keep your mouth shut.
+STACIE: (Breaking free) That’s it, Bar Mitzvah boy. Sone of commandment or not, my dad is gonna kick your ass!
 
-CARL: Oh! It's the ghost of Brian past.
+SAMUEL: (Holding on to her) Wait! Wait. Stacie, I’m sorry. Look, if you leave me up here by myself, Mom is gonna make me dance with my little sister. It’ll be more embarrassing than that life-size photo of me in the lobby. Please. (A popular, upbeat song begins to play)
 
-CAROLINE: What? That does it. Let me remind you of something, mister. I'm number one in this house and don't you forget it. I'm number one, you're number two.
+STACIE: Fine, but only ‘cause I like this song. (Beat) Don’t touch me. (They dance without touching, more awkwardly than the slow dance). You’re a really bad dancer.
 
-CARL: You're number one because that's the way I like it, missy. I'm letting you be number one because you're getting your kicks. If I really wanted to, I could have you under the coffee table in the fetal position like that! (Carl sits on the couch and opens a magazine to read)
+SAMUEL: I’ve taken dance lessons at Arthur Murray since October.
 
-CAROLINE: Hey! Get down. Get down off that couch this instant! You're not allowed up on the couch and you know it. Get down!
+STACIE: You should get your money back.
 
-CARL: Do you mind? I'm trying to read something . . .
+SAMUEL: They never got to fast tempo.
 
-CAROLINE: Get off the couch! (grabs the magazine from him and goes to hit him with it. There is a brief struggle that ends when Carl takes a nip at her. Dropping the magazine, she massages her injured hand in pain) Ow! You bit me.
+STACIE: Seriously, you look like Milton Smidel when he had that epileptic seizure during bio.
 
-CARL: I didn't bite you. I nipped. You were hitting me. I'm sorry, Caroline. I'm sorry.
+SAMUEL: Yeh, well, you’re no Fergie either.
 
-TRANSITION by NARRATOR: [Well, Caroline realized that the relationship needed some help. After all, it HAD spiraled quickly into a domestic violence situation, so she called the only therapist she knew . . . Dr. Weiss]
+STACIE: I’m sure Kyle and Justin would disagree.
 
-DR. WEISS: (Pg 35-36) All right. Why don't you begin, Caroline?
+SAMUEL: Kyle and Justin are a few brain cells shy of being mentally retarded.
 
-CAROLINE: I don't feel like we're connecting. There was a time when I was everything to him. I remember you used to sit at the dinner table and watch me eat.
+STACIE: Samuel!
 
-DR. WEISS: So what went wrong?
+SAMUEL: Haven’t you heard the rumors? They like, still eat their boogers.
 
-CAROLINE: He bit me.
+STACIE: Take it back!
 
-CARL: It was a nip. She hit me with a magazine.
+SAMUEL: And they’re in love with each other.
 
-CAROLINE: He was up on the couch.
+STACIE: They are not!
 
-CARL: She makes all the rules. . . I'm not saying that Caroline hasn't been wonderful for me. But what she has to give me, I don't think I need anymore.
+SAMUEL: Look, they’re dancing together! See? (Waving) Hi, guys! You look super!
 
-CAROLINE: What do you need, Carl?
+STACIE: (Trying to cover his mouth) Samuel, sshhh!
 
-CARL: Freedom. Room to run. I need to be responsible for my own life. With you I'm always going to be the dog in the relationship.
+SAMUEL: Like they could even figure out your locker combination, yeah, as if. How would they even know pink carnations are your favorite flower?! (Beat. Stacie stops dancing)
 
-CAROLINE: That's funny. You are a dog!
+STACIE: How did you know pink carnations were my favorite flower? (A few beats. The song changes to another slow one. Stacie puts Samuel’s hand on her waist. They start to slow dance again.) It was you, wasn’t it? My secret admirer.
 
-CARL: And you never let me forget that. (Beat) I have to leave. I've taken a job at a kennel in Pennsylvania.
+SAMUEL: No.
 
-CAROLINE: Carl . . . you can't.
+STACIE: Samuel.
 
-CARL: (Pg 37) Yes, I can. And I did. (Breaking) Caroline, I'll never forget you. [But] I think this is for the best ... for both of us. Goodbye. (Carl exits. Caroline runs to the door after him)
+SAMUEL: I mean, well . . . yeah. Kind of. (Beat) Kyle and Justin saw me put them in there, hence the staring.
 
-CAROLINE: Carll No! Stay, Carll Stay! (He is gone) What now? What do I do now? I've been dumped by my dog.
-```
+STACIE: Why?
 
----
+SAMUEL: They thought they were trick flowers that were gonna squirt you in the face.
 
-## IC-0920: Stye of the Eye
+STACIE: No, I mean . . . why’d you do it?
 
-- Title: Stye of the Eye
-- Author (byline): Christopher Durang
-- Work: Durang, Durang
-- Publisher: Dramatists Play Service, Inc.
-- Publication date as stated: May 1997
-- Event as filed: Duo Interpretation
-- Record type: Cutting
-- Speaker labels in the text: CHARACTERS, JAKE, MA, DR. MARTINA, AGNES, MTV.
-- Teaser before the introduction: Yes
-- Spoken words (computed): 2325
-- Already set (do not supply): none
+SAMUEL: I dunno. It’s kind of obvious, don’t you think?
 
-### Source block (context only)
+STACIE: But we haven’t . . . I’ve been so . . . (Beat) I haven’t been very nice to you.
 
-```text
-Author: Christopher Durang
-Book: Durang, Durang
-ISBN: 0822214601
-Publisher: Dramatists Play Service, Inc.
-Date (Month/Year): May 1997
-```
+SAMUEL: Yeah, true dat.
 
-### Introduction (context only: never use it for content warnings)
+STACIE: Well then, why? (Beat)
 
-```text
-Christopher Durang's "A Stye of the Eye" is theatrical caricature at its best. Those of you familiar with Sam Shepard (all five of you) will appreciate the blatant references to beat-you-over-the-head-with-it symbols, mostly notably from his play A Lie of the Mind. For those of you unfamiliar with Shepard's depictions of the lonesome prairie, untamed masculinity, and incest, the low humor of white trash will keep you entertained for the full twenty-three minutes and nine seconds. With some parody of David Mamet and whoever wrote Agnes of God in there to boot, "A Stye of the Eye" massacres pretentious plays, family values, and a baby lamb. Enjoy.
-```
+SAMUEL: When we were in third grade, Bobby Proctor wanted to fight me after school because I wouldn’t let him cheat off me. After he threw the first punch you stepped in and kicked him in the balls. He never touched me again after that.
 
-### Performance text (classify this)
+STACIE: I don’t remember that.
 
-```text
-NOTE: This cutting asks each student to portray multiple characters, which is permissible for Nationals and SOME states. It may not meet the rules requirement for DUO in your state! Be sure to check your STATE rules before performing at local tournaments.
+SAMUEL: I never forgot it. (A few beats)
 
-CHARACTERS: Jake / Dr. Martina Dysart, a psychiatrist Ma, Jake's mother / Beth, Jake's wife
+STACIE: Well, thank you. I mean, for the flowers.
 
-JAKE: Answer the phone damn it. Answer the phone. [Bangs the phone receiver on the side of the phone, or any other surface.] Come on, come on! [Into receiver.] Hello! Hello!
+SAMUEL: You’re welcome. (Beat) Y’know . . . I know I’m not cool, or popular enough for you or anything. But I just wanted to do something nice to pay you back for that day and . . . well, ‘cause you deserve it.
 
-[Lights up on a different part of the stage. MA is discovered next to a phone, or enters calmly over to the ringing phone. MA is between forty and fifty, and dressed in a sloppy, comfortable print dress. Her hair is not fussed with, just pulled back out of her face. She is a no-nonsense woman, tough, matter-ot-fact, sounds like a Cracker.]
+STACIE: (Smiling) Who knew Samuel Rosenbaum could be so sweet?
 
-MA: Hello?
+SAMUEL: (Shrugging) I am a man today. I’ve matured.
 
-JAKE: Hey, Ma?
+(Stacie wraps her arms around Samuel’s neck. They continue to dance even closer together, but both still a bit shy. They sway back and forth to the music. After a few beats)
 
-MA: Who is this?
+STACIE: (Soft) Samuel.
 
-JAKE: Ma, it's your son.
+SAMUEL: (Dreamlike) Yeah?
 
-MA: Who?
+STACIE: Your hand’s on my butt again.
 
-JAKE: Your son, ma.
-
-MA: I got two sons. Which one are you?
-
-JAKE: I'm Jake.
-
-MA: Jake?
-
-JAKE: Jake!
-
-MA: You're not the other one? What's his name?
-
-JAKE: Frankie. No, it's not Frankie, Ma. It'sJake.
-
-MA: Jake?
-
-JAKE: Stop saying Jake, or I'm going to come over to your house and punch you in the mouth.
-
-MA: [Her voice warming, friendly.] Oh, now it sounds like Jake. How ar eyou, baby?
-
-JAKE: She's real bad, Ma.
-
-MA: Who, Jake?
-
-JAKE: She's all red and blue and purple.
-
-MA: Who you talkin' about, Jake?
-
-JAKE: I had to hit her. She was dressin' real sexy like, and goin' off to rehearsal.
-
-MA: Who is this you're talkin' about, Jake?
-
-JAKE: It's Beth, Ma. My wife.
-
-MA: Are you married, Jake?
-
-JAKE: Ma, you know I am. You wuz at the wedding.
-
-MA: Why didn't you marry your sister, Jake, she always liked you.
-
-JAKE: That would be incest, Ma.
-
-MA: No, it wouldn't. Incest would be if you married me. If you married your sister, it would be ... sorority.
-
-JAKE: Shut up, Ma. I'm tryin' to tell you I killed Beth.
-
-MA: Who's Beth?
-
-[Note: MA’s lapses in memory are complete. When she says something like "Who~ Beth," she has no recollection whatsoever that she heard the name Beth a few seconds before. So all her questions are asked innocently, trying her best to get information. There is no "what was that thing you said a moment ago" tone to any of her repeating questions. And thus when JAKE seems irritated with her forgetting, she has no idea what is the cause of his frustration. ]
-
-JAKE: She's my wife.
-
-MA: I didn't know you were married.
-
-JAKE: You have the attention span of a gnat. Ma, we've been through this. Beth is my wife, you wuz at the wedding, and I just killed her.
-
-MA: [Suspicious.] Who is this calling me?
-
-JAKE: It's your son, Ma! I just killed my wife.
-
-MA: Well, I never pay attention to the tramps you start up with. She probably asked for it.
-
-JAKE: She was goin' to rehearsal, Ma. She's into actin', Ma, and she's goes off to fuckin' rehearsal, and every day she dresses more slutty like, and I just know that she's doin' it with some fuckin' actor on her lunch break. And I seen her in a play once. She stank. .
-
-MA: [Upset.] Whatcha goin' to plays for, baby? I didn't bring you up to spend your time goin' to plays. You're gonna end up like that Sam Shepard boy down the road. Why don't you settle down and marry your sister?
-
-JAKE: Stop talkin' about incest, Ma. I just killed my wife.
-
-MA: Well, did anyone see you?
-
-JAKE: No.
-
-MA: Well, there, you see. Go get a good night's sleep, and in the morn-ing we'll get you another one. Why don't you marry your sis ... Oh, that's right, you don't like that idea. You're stubborn like your father.
-
-JAKE: I didn't want to kill her, Ma, but she asked for it.
-
-MA: Who you talkin' about, baby?
-
-JAKE: Beth, Beth! How many times do I have to say it!
-
-MA: Thirty-three. I'm getting bored with this conversation, Jake. Is your good brother Frankie there?
-
-JAKE: What?
-
-MA: Put Frankie on.
-
-MA: Frankie, is that you?
-
-JAKE: Wait a minute, Ma.
-
-MA: Did you hear what Jake told me?
-
-JAKE: Hold your horses a minute, Ma. Hey, Frankie! Ma wants to speak to you! Frankie! [Changes personalities, and witches phone hands; sounds more polite and reasoned though still has a temper.] Hey, Mom, how are you?
-
-MA: Oh, Frankie, I love it the way you call me "Mom" and Jake calls me "Ma." It's so differentiating. Frankie, did you hear that Jake killed his wife?
-
-JAKE: He told me, Mom. He's a crazy, spoiled, mixed up kid. Mom, what are we gonna do about Jake?
-
-MA: Who?
-
-JAKE: Jake.
-
-MA: Jake's dead. His wife just killed him.
-
-JAKE: You got it backwards, Ma. I mean "Mom."
-
-MA: You know you and Jake sound so much alike that sometimes I think you're both two different aspects of the same personality. That means I gave birth to a symbol, and me with no college edjacation.
-
-JAKE: I'm not a symbol, Ma. I'm a westerner looking for the big open expanses, but they're gettin' smaller and smaller. There's no place to hope, Ma.
-
-MA: You sound like a symbol. But not some prissy Ivy League-type symbol. My children are virile, masculine symbols who carry guns and beat up women. You all got so much testosterone in you, that you got a native kinda poetry in you, even when you spit. Why don't you go kill a woman like your brother?
-
-JAKE: But what woman is like my brother?
-
-MA: That's not what I meant, stupid. The verb was implied in that sentence, as in "Why don't you go kill a woman like your brother did, " "did" in imaginary bracket signs. And me with no college edjacation. Put Jake back on the line, honey, I'm bored with this conversation. No, never mind, I got an idea. Why don't you go try to find Beth. Maybe she's not dead. Maybe she's only brain damaged, and you can marry her. That might have symbolic value of some sort.
-
-JAKE: But what symbolic value would that have, Ma?
-
-MA: I don't know, I'm not a writer. But if we put some jazz music under it, or some good country sounds, it's bound to mean somethin' to somebody. I gotta go now, Frankie, the cactus is whistHn' on the stove. But you keep an eye on your brother, and if you wanna marry your sister, just let me know. [Hangs up, exits; lights fade on her part of the stage.]
-
-JAKE: Goodbye, Mom. [Switches to JAKE personality; grabs for phone from himself] Hey, I ain't done talkin' to her yet! [Switches back to Frankie, hangs up the phone.] Well, she's done talkin' to you. Why'd you go and kill her, Jake? [Switches to JAKE.] Ma? [Switches to Frankie, annoyed.] No, not Mom. Beth. [Switches to JAKE.] I don't know. She just kept goin' to all them rehearsals and ... well, it irritated me. [Switches to Frankie.] I can understand that. [Switches to JAKE; vehement.] Especially this one play called "Agnes is Odd" or some such thing, all about this flakey nun who killed her baby.
-
-[Lights change. We see the play JAKE is remembering. JAKE plays the role of Dr. Martina Dysart] The sound of Stravinsky-like music, or Carmina Burana. Startling, mysterious, otherworldly.
-
-Enter DR. MARTINA DYSART, in a crisp business suit, smoking three cigarettes, one in her mouth, two in her hands. She takes the one in her mouth out, and addresses the audience. She is intense and concerned, solving a deep mystery.]
-
-DR. MARTINA: The baby was-discovered in a waste basket with the umbilical cord knotted around its neck. The mother was unconscious, next to the body. The mother was a young nun called Sister Agnes, Sister Agnes Dei. During the night she had given birth and then seemingly killed her baby. Then she went out to the convent stables and blinded eight horses with a metal crucifix. That much is fact. But she is also a musical genius along the lines of Wolfgang Amadeus Mozart. Furthermore, my life as a psychiatrist is drab and depressing, and even though I think it unappealing that she killed her baby and blinded the horses, still I envy her passion. You wouldn't see me getting up in the middle of the night to go down to the stables. And furthermore, I'm a lapsed Catholic who wishes I had her faith, and I wish I had a horse, and I ... wish I was a composer. In short, there are many ideas and subtleties to think about here, so stop rattling your programs and let's move on with it. My first meeting with Agnes, I thought she was brain damaged. [Enter SISTER AGNES, the sensitive nun. Dressed perhaps in the strange white nun ~ outfit Amanda Plummer wore in the Broadway version of ''Agnes of God, "which is the same design Sally Field wore in "The Flying Nun" tv series. Or a more conventional nun outfit is okay too.
-
-JAKE’s wife BETH is playing SISTER AGNES. Actress formerly playing “MA” plays the role of BETH”
-
-AGNES: Look, stigmata. [AGNES holds out her palms, which at first glance have gaping red holes in them. A second later one notices that she seems to be holding red rubber things in her palms, with reddish centers to them.]
-
-DR. MARTINA: Nonsense, those are plastic Dr. Spock ears. Look, I'll show you. [D R. MARTINA removes the ''plastic stigmata" and puts the Dr. Spock ears on her ears. She leaves them there for the rest of the scene.] People sell these at Halloween. Do you like Halloween, Agnes?
-
-AGNES: Pooh. Pooh.
-
-DR. MARTINA: Pooh. Winnie the Pooh? Do you like Winnie the Pooh?
-
-AGNES: Pooh. Pooh. Puer. [Last word is pronounced "Pooh-air. '1
-
-DR. MARTINA: Puer. That's Latin for boy. Do you like boys, Agnes?
-
-AGNES: Pooh-ella.
-
-DR. MARTINA: Yes, puella. Latin for girl. Maybe it's Latin you like. Do you like Latin, Agnes? Hie, haec, hoc, and all that.
-
-AGNES: Puer. Puella. Eck, eck, equus! [Momentarily mimes blinding horses, then pulls herself together again.]
-
-DR. MARTINA: Boy, girl, horse. This isn't a very intelligent conversation, Agnes. Don't they make you speak sentences in the convent, Agnes?
-
-AGNES: Agnes Dei.
-
-DR. MARTINA: Yes, that's Latin for Lamb of God. [With a shock of recognition.] Oh my God, your name is Agnes Dei, isn't it? Good grief, I wonder if that means you're some sort of sacrificial lamb to God, and that maybe your giving birth was an immaculate conception, and that the father is God Himselfl!! Good Lord, what a shocking idea, oh my mind is running, let me try to breath deeply for a moment. [Puffs on several of her cigarettes.] Goodness, what dreadful rubbish I was just speaking. Rather like speaking in tongues. Do you like tongues, Agnes?
-
-AGNES: We had tongue sandwiches at that convent, and it made all the Sisters menstruate.
-
-DR. MARTINA: [Pause.] I think. that's rather an obscene remark you've just made, Agnes. Did you mean to be obscene?
-
-AGNES: Children should be obscene. And not furred.
-
-DR. MARTINA: Furred?
-
-AGNES: Furred like a bird.
-
-DR. MARTINA: What is the matter with you exactly? Are you a saint or are you brain damaged?
-
-AGNES: [Sings, lasciviously.]Erotic, erotic, Put your hands all over my body!
-
-DR. MARTINA: I see. Well, if you're going to sing, I think I'll go now. By the way, which member of the convent is it who won't let you watch MTV? [Shudders to herself] What a sharp remark of mine. I'm definitely in the right profession.
-
-AGNES: No do with MTV.:
-
-DR. MARTINA: Of course, it do. Does. That's the kind of song that's sung on
-
-MTV.:
-
-AGNES: Noooooooo. Who sing, Doctor?
-
-DR. MARTINA: I forget. That slutty woman who changes her look all the time, whats-her-name ... oh my God, her name is Madonna, which means "Mother of God!" [AGNES has a screaming fit at this scary coincidence, and falls to the ground rolling around in circles, going "Whoop! Whoop! Whooop!'1
-
-AGNES: Whoop! Whoop! VVhoop! Whoop! Whoop!
-
-[Lights back up on JAKE.]
-
-JAKE: [As JAKE; explaining to Frankie.] It was after that terrible play that I took Beth out in the parking lot and I beat her to a pulp. "Your play was pretentious!" I said, and then I punched her. "You were unconvincing as a nun, and I didn't know whether you were supposed to be crazy or sane," and then I kicked her in the side. "And I don't like the previous play you wuz in, "The Reluctant Debutante," either, and then I took her head and I put it under the tire of the Chevrolet, and I dropped it on her. And that's how I killed her. [Switches to Frankie.] Oh, Jake. The play couldn't have been that bad. [Switches to JAKE.] It was. It was. I fuckin' hated it, man. It made me wanna puke. [Switches to Frankie.] Yeah, but to kill someone. [Switches to JAKE; big baby, teary.] Oh, Frankie, I miss her already. I wish she was alive so we could go on a second honeymoon together. [Switches to Frankie.] I got some land in Florida I could sell ya. [Switches to JAKE.] Oh yeah? [Switches to Frankie.] It's called Glen Gary Glen Ross. [Switches to JAKE.] Oh I don't want to go there. [Switches to Frankie, who now speaks in a fast, staccato rhythm, with a lot of aggressive salesman energy.] Why the fuck not? The place is good. Not great maybe, but what I'm sayin' is, it's good. Not great maybe, but good. That's what I'm sayin'. It may be swamp, it may have bugs, but fuck, Jake, what's perfect? You tell me. No, don't tell me, I'll tell you. It's not great, good. Am I right? Do you understand what I'm sayin'? Should I say it again? What I'm sayin' is, fuck shit piss damn, it ain't half bad. Half good, half bad. You gotta settle. It ain't perfect. Settle. Gatta. You gotta settle. A negotiation. Give and take. You know what I'm sayin'? What I'm sayin' is ... [Switches to JAKE, frustrated and angered by Frankie’s irritating sales pitch.] Shut up! I know what you're saying, you sound life-like, granted, but you repeat yourself and you're monotonous, and you're ... insensitive to my upset about my wife. She is dead, you know. I deserve sympathy. [Switches to Frankie.] Yeah, but you killed her.
+SAMUEL: Sorry.
 ```

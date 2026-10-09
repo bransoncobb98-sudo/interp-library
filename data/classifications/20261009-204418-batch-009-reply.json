@@ -1,0 +1,2283 @@
+{
+ "IC-0321": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "The deaths of three children, child abuse and a racial slur are described directly.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Three children die (\"The kid was dead on his back\", \"I heard it when Andy's neck broke\"), he hits his toddler (\"I'd give him a whack\") and uses a slur (\"those gook kids over in Nam\").",
+   "value": [
+    "Death",
+    "Violence",
+    "Abuse",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One unreliable voice that swings from self-justifying calm to terror, as in \"I ran, ran, ran, oh, Jesus God Mary\"",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A cutting of a Stephen King short story from the collection Night Shift, given to the single narrator under the label \"LESTER\"",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Broken, ellipsis-driven climaxes such as \"I heard . . . I heard it\" and the trailing \"Rita . . . finally . . . knew\" need control of pace and voice.",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Denny in 1967. Shirl in 1971. And Andy this year.\"",
+   "value": "Lester Billings tells a listener how each of his three young children died in their room after crying about a boogeyman in the closet, and how he failed to protect them."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"The boogeyman killed them all\" set against his refusal to help (\"But I couldn't. I couldn't!\").",
+   "value": [
+    "Guilt and denial",
+    "Fear of the dark",
+    "Parental neglect",
+    "Unreliable narration"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A father calmly recounts his children's deaths and blames a monster: \"All I did was kill my kids.\"",
+   "value": [
+    "Dark"
+   ]
+  }
+ },
+ "IC-0322": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Genocide, the shooting of children, abuse, suicide and slurs appear in the text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "He describes a gas-chamber nightmare (\"Soap cake turning to Zyklon\"), soldiers who \"shoot the children one by one\", a father who \"drove into that tree on purpose\", whippings, drunkenness, slurs (\"I dressed like a fag\") and a \"sexual molestation\" expulsion.",
+   "value": [
+    "War/Trauma",
+    "Violence",
+    "Death",
+    "Suicide",
+    "Abuse",
+    "Substance Use",
+    "Discrimination/Slurs",
+    "Sexual Content"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One speaker but a very wide range, from nightmare to mockery to a shouted father (\"HOW DARE YOU? HOW DARE YOU?\") and a line of Spanish.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A Samuel French play script spoken under the speaker label \"RUDOLF\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Fragmented rushes such as \"Trouble breathing. Beginning to choke.\" and quoted voices of his parents demand vocal and pacing shifts.",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Does the name “Project Reinhard” ring a bell?\" and \"I think he drove into that tree on purpose.\"",
+   "value": "Rudolf, the son of a Nazi officer raised in hiding in South America, tells interviewer Peter about his nightmares, his abusive father, his defiant coming out and his father's fiery death."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"Hero? Villain? Victim? Murdered?\" and his account of defying his father.",
+   "value": [
+    "Inherited guilt",
+    "Children of perpetrators",
+    "Father and son",
+    "Rebellion",
+    "Holocaust memory"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Holocaust nightmares and his father's death are delivered with mocking asides such as \"No cake, No congratulations.\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0323": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Poverty is shown with little mature content beyond mild language.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Homelessness and hunger are portrayed and he imagines an attack (\"a guy comes back with a baseball bat\"), but no violence, death or other listed content actually occurs in the text.",
+   "value": []
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice with marked shifts from manic chatter to stillness, as in \"He's just standing, staring at the ground.\"",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A monologue from a published play collection with stage directions such as \"He's making conversation with an imaginary listener.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Stated business (\"miming walking the dog\", \"holds an imaginary sandwich\") and written pauses where he \"loses his train of thought\"",
+   "value": [
+    "Physicality",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I'm findin' maybe fifty bottles a day\" and \"I'm missing a kneecap\"",
+   "value": "A homeless man who collects bottles and cans chats nervously with an imaginary listener, insisting he is happy while revealing hunger, injury and fear."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"bottles or cans, it doesn't make much difference\" and \"It's good here, it's good.\"",
+   "value": [
+    "Homelessness",
+    "Denial and optimism",
+    "Poverty",
+    "Loneliness"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "His forced cheer (\"I stay on the sunny side of the street\") covers hunger and fear, as the shaking hand and blank stare show.",
+   "value": [
+    "Bittersweet",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0324": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Teen drinking and a remembered death, without graphic content.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "He recalls \"I remember when my father died\" and finds a dead cat, and Beverly drinks until she is drunk (\"she had another vodka\").",
+   "value": [
+    "Death",
+    "Substance Use"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator who voices brief quoted lines from others and shifts between humor and stillness.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play monologue with stage directions such as \"A teenaged boy in a hoodie holds a flashlight to his face.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Flashlight business (\"He turns on the flashlight\") and repeated beats such as \"He looks up for a moment\"",
+   "value": [
+    "Physicality",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Did you kill the cat?\" and \"It was just a picture.\"",
+   "value": "A teenage boy known as the Dead Cat Kid describes a night at a popular girl's house and why he finally told her he killed a cat he only photographed."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"you can be responsible for what they see\" and his nickname \"the Dead Cat Kid.\"",
+   "value": [
+    "Truth versus perception",
+    "Reputation",
+    "Grief",
+    "Teenage isolation"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Deadpan jokes (\"Excellent band name.\") sit beside his father's death and the false confession \"And I say yes.\"",
+   "value": [
+    "Bittersweet",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0325": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "The Holocaust is depicted through implication rather than graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Jewish families are forced into a camp (\"They hate us\"), men \"have come back\" never, a boy \"hit me even when I did nothing wrong\", and the boys are sealed in a room where \"the room went very dark\"",
+   "value": [
+    "War/Trauma",
+    "Death",
+    "Discrimination/Slurs",
+    "Violence"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Two boys plus narration, with dramatic irony that must be played without commentary.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A cutting of John Boyne's novel with added speaker labels and \"NARRATOR (actor playing Schmuel)\" passages.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Labelled exchanges between \"BRUNO\" and \"SCHMUEL\" and stated business such as \"Draws a Star of David in the air\"",
+   "value": [
+    "Character Differentiation",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I could crawl under.\" and \"In fact it felt completely airtight.\"",
+   "value": "Bruno, a commandant's son, and Schmuel, a Jewish boy in the camp, talk through the fence until Bruno crosses over to help find Schmuel's father and both are marched into a sealed room."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"You're my best friend, Schmuel. My best friend for life!\"",
+   "value": [
+    "Friendship across divides",
+    "Innocence",
+    "The Holocaust",
+    "Prejudice"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Bruno's innocence (\"It's roast beef tonight.\") contrasts with what the audience knows the airtight room is.",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0326": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Parental abuse, a racial slur and strong profanity are in the text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "The father \"violently, slaps Barry\" who begs \"Don't hit me anymore\", uses \"goddamn darkie roommate\" and \"You goddamn nut\", and Barry recalls \"when Mom died\"",
+   "value": [
+    "Abuse",
+    "Violence",
+    "Discrimination/Slurs",
+    "Mental Health",
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Three characters and a swing from comedy to Barry breaking down and sobbing.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play with speaker labels \"BARRY\", \"MR. HEDGES\" and \"MR. KLEMPER\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Barry \"draws into a fetal position\" while the father shifts into a \"Nervous loud stream of consciousness.\"",
+   "value": [
+    "Character Differentiation",
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"He's coming to visit me.\" and \"slaps Barry across the side of the head.\"",
+   "value": "Barry, a man with schizophrenia living in a group home, gives a disastrous golf lesson, then waits for his estranged father, whose visit ends with him striking Barry."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"My Dad scares me. He scares me something terrible.\"",
+   "value": [
+    "Father and son",
+    "Mental illness",
+    "Abandonment",
+    "Longing for approval"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic golf lessons give way to the father's slap and Barry's last line \"Dad, I'm a golf pro now, Dad.\"",
+   "value": [
+    "Bittersweet",
+    "Dark"
+   ]
+  }
+ },
+ "IC-0327": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Bullying, slurs and a schoolyard fight without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Homophobic taunts (\"Got your rubber gloves, honey?\", \"faggot parents\"), a fight (\"I sweep his feet with mine\") and Melissa's bulimia (\"I'm in therapy for it\").",
+   "value": [
+    "Discrimination/Slurs",
+    "Violence",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Five characters with narration that cuts between dialogue and asides \"to audience\"",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A short story from a story collection, narrated by Angus with added speaker labels for MOM, MELISSA and RICK.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Labelled speakers plus physical business such as the dance \"mirroring her every move, top to bottom.\"",
+   "value": [
+    "Character Differentiation",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I was elected Senior Winter Ball King\" and \"dancing in the limelight with Melissa Lefevre\"",
+   "value": "Overweight Angus, raised by two gay couples, is crowned Winter Ball King as a joke, stands up to a bully and dances with the girl of his dreams."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Do you ever get tired of who you are?\" and \"I like how you stood up for your family.\"",
+   "value": [
+    "Body image",
+    "Bullying",
+    "Self-acceptance",
+    "Family acceptance",
+    "First love"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Self-mocking humor (\"I swear my gestation period was three years\") alongside humiliation and a tender dance.",
+   "value": [
+    "Lighthearted",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0328": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "The drowning of two children and a suicidal wish are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"Her babies sank into the lake\", Susan says \"I wanted to end my life so bad\", and the lie rests on race: \"I was black, I was a bad dream\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Suicide",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Dense verse in an abstract persona with interwoven confession lines and a child's voice.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Lineated verse such as \"I have yet To breathe.\" with interjected lines for SUSAN SMITH and a LITTLE BOY.",
+   "value": "Poetry"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Three labelled voices and short broken lines such as \"I am not me, yet.\"",
+   "value": [
+    "Character Differentiation",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Susan stares at the sinking.\" and \"The police have him now.\"",
+   "value": "The imaginary Black carjacker Susan Smith blamed for her sons' disappearance narrates the drowning, the manhunt and the innocent man detained in his likeness."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Susan Smith has invented me\" and \"The black man in town They thought looked like me\"",
+   "value": [
+    "Racial scapegoating",
+    "Stereotype and fear",
+    "False accusation",
+    "Guilt"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "The invented suspect speaks of crimes he never did: \"Everything she says about me is true.\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0329": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Repeated suicide attempts and self-injury are described in detail.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I'm going to set myself on fire\", earlier attempts (\"all the times I tried to cut my wrists\") and \"a history of depression\"",
+   "value": [
+    "Suicide",
+    "Self-harm",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Several characters and a very wide range from deadpan narration to the burning itself (\"I can't breathe.\").",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A cutting of Brent Runyon's memoir with speaker labels added for LAURA, CRAIG and MOM.",
+   "value": "Nonfiction"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Labelled voices for Brent, Laura, Craig and Mom and the screamed \"Craig! Craig!\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I pour the gasoline all over it\" and \"I've been [at the burn center] for exactly one month.\"",
+   "value": "Thirteen-year-old Brent recounts setting himself on fire after a school incident, his earlier attempts, and talking with his mother in the burn center."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I'm sorry I didn't know you were so sad.\"",
+   "value": [
+    "Teen depression",
+    "Suicide and survival",
+    "Family love",
+    "Shame"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A frank account of a suicide attempt ending in \"I don't want to die anymore.\"",
+   "value": [
+    "Dark",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0330": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A murder is confessed and madness depicted without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "He confesses \"I squeezed his throat\" to kill his cellmate and the doctor reports \"His mind's gone.\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "A sustained descent from pleading to terror, plus a second character, the doctor.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play with a scene description, speaker labels \"JOE\" and \"DR. TREVOR\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Written dialect (\"I'm goin' nuts!\"), stated business (\"strikes the match\", \"tosses the button\") and the doctor's call with repeated \"(beat)\" marks.",
+   "value": [
+    "Vocal Variety",
+    "Physicality",
+    "Pacing/Timing Control",
+    "Dialect",
+    "Character Differentiation"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"It's a game!\" and \"I threw the button and now it's gone.\"",
+   "value": "In solitary confinement, prisoner Joe Ransom confesses to killing his cellmate and invents a game with a lost button to stay sane, but breaks down when it vanishes."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I start seein' Mike's eyes again!\"",
+   "value": [
+    "Guilt",
+    "Isolation",
+    "Madness",
+    "Self-deception"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A prisoner in darkness slides into madness, ending \"Completely, hopelessly mad.\"",
+   "value": [
+    "Dark"
+   ]
+  }
+ },
+ "IC-0331": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Severe child abuse including burning and stabbing is described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "His mother would \"smash my head against the mirror\", held his arm in a flame, stabbed him (\"Mother stabbed me\"), and is \"the old drunk\"",
+   "value": [
+    "Abuse",
+    "Violence",
+    "Substance Use"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Child narrator, adult narrator and two parents, with a wide emotional range.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A cutting of Dave Pelzer's memoir with speaker labels added for MOTHER and FATHER.",
+   "value": "Nonfiction"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Labelled lines for David, Mother and Father and Mother's shouts such as \"Chew it! Eat it all!\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I graduated to the “mirror treatment.”\" and \"you better go back in there and do the dishes.\"",
+   "value": "Dave Pelzer recounts how his loving mother turned into an alcoholic abuser who burned, starved and stabbed him while his father looked away."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Father turned away to avoid my pain\" and \"it must be exposed.\"",
+   "value": [
+    "Child abuse",
+    "Survival",
+    "Complicity of bystanders",
+    "Speaking out"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Sober narration of escalating cruelty, closing \"This is my story.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0332": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Graphic killings, beheadings and mass death are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"The soldiers cut off the men's heads\", his brothers are beaten \"until they were dead\", and his family dies one by one (\"My sister went crazy with grief\").",
+   "value": [
+    "Death",
+    "Grief",
+    "Violence",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator, but a long arc from happy memories to sustained horror and loss.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A first-person survivor memoir from a Yale University Press collection of memoirs.",
+   "value": "Nonfiction"
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"On April 17, 1975, when I was fourteen years old\" and \"My house was burned\"",
+   "value": "Youkimny Chan recalls his childhood in Phnom Penh, the Khmer Rouge evacuation, the deaths of his entire family, his time in a labor camp and his return to a burned home."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"They can take away your possessions, but they can't take your education.\"",
+   "value": [
+    "Genocide",
+    "Loss of family",
+    "Survival",
+    "Value of education",
+    "Lost homeland"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "An idyllic childhood gives way to plain accounts of killing such as \"We knew Grandfather was dead.\"",
+   "value": [
+    "Serious",
+    "Dark"
+   ]
+  }
+ },
+ "IC-0333": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Implied threat and some profanity without graphic description.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "He implies he will harm the woman (\"what I'm about to do to her\"), invoking \"some Ted Bundy\" and \"missing person\" posters, though no act is shown.",
+   "value": [
+    "Violence"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Two registers that must diverge, as the direction says his demeanor \"should gradually evolve into something quite sinister.\"",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play monologue with stage directions such as \"Actor shifts focus on-stage to the YOUNG WOMAN\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Constant shifts between audience and the unseen woman, with written \"(Beat.)\" and \"waits for her response\" marks.",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"if you call out and let her know what's going on\" and \"can we take your car?\"",
+   "value": "A young man meeting a woman he found online talks to the audience about theater, hints that he plans to hurt her, and dares them to warn her before leading her away."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"that place between reality and illusion, and you coax them\"",
+   "value": [
+    "Reality and illusion",
+    "Bystander responsibility",
+    "Online predators",
+    "Manipulation"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Friendly chat about theater turns into a menacing dare: \"Well, you had your chance\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0334": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A racial slur, a killing and violent assaults are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"When I was 18, my mother killed my father\", he kept kicking a heckler (\"I just kept kicking\"), and the heckler's racial slur \"half-nigger\" is spoken.",
+   "value": [
+    "Death",
+    "Violence",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "One performer plays three ages of the same man in rapid alternation, with a Southern drawl.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play with speaker labels \"PEACH\", \"TY\" and \"MR. COBB\" for three ages of Ty Cobb.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"With a noticeable Southern drawl\", \"He suddenly slams the bat hard against the bench\" and three labelled ages.",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I'll show you a trip around the bases. Cobb style.\"",
+   "value": "Ty Cobb at three ages recounts his father's shooting, his violent playing style, his attack on a heckler and his rivalry with Babe Ruth, asking to be remembered."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"No man wants to be forgotten.\"",
+   "value": [
+    "Legacy and memory",
+    "Rage",
+    "Myth versus reality",
+    "Fame"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Bitter self-mythmaking about violence and legacy: \"The most hated man in baseball.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0335": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Suicidal wishes and attempts are discussed directly.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Parmigian asks to be pushed off the roof and says \"I tried to commit suicide three times this month\"",
+   "value": [
+    "Suicide"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Two sharply contrasted men in fast comic and confrontational exchanges.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play scene with speaker labels \"PARMIGIAN\" and \"LANDAU\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Rapid two-hander lines plus business such as \"he laughs – starts to cough bad\" and \"grabbing his arm\"",
+   "value": [
+    "Character Differentiation",
+    "Pacing/Timing Control",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I'm just here for exploratory surgery.\" and \"The big C.\"",
+   "value": "On a hospital roof garden, terminally ill Parmigian needles newly admitted Landau, who insists he is only in for exploratory surgery, about cancer, death and denial."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Death is knocking on your door and still you persist in lying to yourself.\"",
+   "value": [
+    "Facing death",
+    "Denial",
+    "Gallows humor",
+    "Connection between strangers"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Gallows humor about terminal cancer: \"You want to know what prevents cancer? Death!\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0336": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Family memoir with little mature content.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "low",
+   "evidence": "Real deaths are mentioned in passing: \"Malcolm X had been killed\" and \"After he died and Mommy remarried\"; racial tension is discussed but no slurs or violence beyond a purse snatching.",
+   "value": [
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Child and adult James, Richie, Mommy and a daughter, including Mommy's off-key singing.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A cutting of James McBride's memoir with speaker labels added for RICHIE, MOMMY and DAUGHTER.",
+   "value": "Nonfiction"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Labelled voices for JAMES, RICHIE and MOMMY and Mommy's sung \"Leaning. . . .oh, leannnning\".",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"She raised 12 black children\" and \"none of us even knew her maiden name\"",
+   "value": "James McBride recalls growing up as one of twelve Black children of a white mother who would not discuss her past, his childhood fears for her, and her faith."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"God is the color of water.\"",
+   "value": [
+    "Racial identity",
+    "Mixed-race family",
+    "A mother's love",
+    "Faith",
+    "Education"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Warm, funny portraits (\"butchering the lovely hymns\") build to the tribute \"family love, a mother's love gives us grace\"",
+   "value": [
+    "Earnest",
+    "Lighthearted"
+   ]
+  }
+ },
+ "IC-0337": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Sustained racist stereotypes and slurs run through the performance text.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "Racist caricature fills the poem (\"Fat black bucks in a wine-barrel room\", \"Tattooed cannibals danced in files\") with chants of \"BOOM, kill the white men\" and demons \"Cutting his hands off\"",
+   "value": [
+    "Discrimination/Slurs",
+    "Violence"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Rapid shifts in rhythm, pitch and speed are written into the text, from shrill to whispered.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "Lineated verse with marginal reading directions such as \"A deep rolling bass.\"",
+   "value": "Poetry"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Directions such as \"A rapidly piling climax of speed and racket\" and \"With a touch of negro dialect\"",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control",
+    "Dialect"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "Section titles \"Their Irrepressible High Spirits\" and \"The Hope of their Religion\"",
+   "value": "Vachel Lindsay's three-part chant poem depicts African and African American life through racist imagery, moving from savagery to revelry to religious redemption."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"Mumbo-Jumbo will die in the jungle\" and \"Listen to the yell of Leopold's ghost\"",
+   "value": [
+    "Racial stereotyping",
+    "Religion and redemption",
+    "Rhythm and chant",
+    "Colonialism"
+   ]
+  },
+  "tone": {
+   "confidence": "medium",
+   "evidence": "Chants of the \"blood-lust song\" alternate with a fanciful \"negro fairyland\" of parrot bands and cake-walk princes.",
+   "value": [
+    "Dark",
+    "Whimsical"
+   ]
+  }
+ },
+ "IC-0338": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A school shooting and a death are described without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"There's someone outside with a gun!\", \"Cold, calculated, mass murder\", \"Five dead\", and his wife is \"gone\".",
+   "value": [
+    "Death",
+    "Grief",
+    "Violence",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "A wide arc from comic flirting (\"Nice book.\") to panic (\"Evie?! Evie?!\") and grief, with three characters.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A monologue script from an edited collection, with speaker labels \"ROBERT\", \"EVIE\" and \"PRINCIPAL\" and directions such as \"(fades to present)\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Labelled lines for Robert, Evie and the Principal and his frantic \"No . . . no . . . no No NO!\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Mrs. Evangeline Foster stepped in the line of fire to save one of her students\"",
+   "value": "Math teacher Robert tells how he met his wife Evie, how she survived cancer, and how she was killed shielding a student in a school shooting."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Evie is teaching me still . . . teaching me to forgive\"",
+   "value": [
+    "Love and loss",
+    "School violence",
+    "Forgiveness",
+    "Teaching",
+    "Grief"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Awkward young love gives way to loss and forgiveness: \"See Evie? You made a difference\"",
+   "value": [
+    "Bittersweet",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0339": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Sexual references and a child causing his parents' deaths.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "His stepfather \"Gets stabbed in the back\", the parents are \"Hopped up, going at it\" in the car he sets rolling (\"The wagon starts to roll\"), and he hears noises \"only he can hear\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Sexual Content",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "One child narrator whose control breaks into a frantic, interleaved countdown (\"Pull plug, fill rocket hull with fuel\").",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play monologue with stage directions such as \"CHRISTOPHER, a boy of 11, drawing with crayons.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"he crouches and begins to mime the action of priming a CornRocket\" and many written \"(beat)\" and \"(Silence)\" marks.",
+   "value": [
+    "Physicality",
+    "Pacing/Timing Control",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"It pops. The wagon starts to roll.\"",
+   "value": "An eleven-year-old with a prodigious memory recounts a family trip to the Grand Canyon that ended when he released the parking brake on the car holding his mother and biological father."
+  },
+  "themes": {
+   "confidence": "medium",
+   "evidence": "\"I remember everything\" and \"For just one second it was biological.\"",
+   "value": [
+    "Family breakdown",
+    "Memory",
+    "Childhood trauma",
+    "Belonging"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A child's bright vocabulary describes how he sent his mother and father over the edge, ending \"I wish I'd never been.\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0340": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A shooting death and detention are depicted without graphic detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"That guy's dead\", \"I see he's been shot\", and the courier is told in a hospital \"We know how real these things are to you but they are not real\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Six characters across interrogation, memory and flashback scenes.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A short play with speaker labels including \"INTERROGATOR\", \"PROFESSOR\" and \"POLICEMAN\" and bracketed stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Rapid exchanges between the RECRUITER and YOUNG MAN and directions such as \"Breaking down, in tears.\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Let me tell you how I got here.\" and \"we've got a homicide here\"",
+   "value": "A professor detained in an unknown place recalls a dying young courier's story of secret government deliveries and the police questioning that followed."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I trusted them. I BELIEVED in them.\"",
+   "value": [
+    "Government secrecy",
+    "Blind trust",
+    "Civil liberties",
+    "Truth and silence"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A man held in an unknown place asks \"But where is here? Where are we?\" after witnessing a killing.",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0341": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Mass murder, racist hate speech and executions are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "He burned a church (\"got out my gas can, made a big ring\"), inmates threw bleach in his eye, he voices racist hate (\"Hitler knew they were predators\"), his mother was \"Drunk all through her pregnancy\" and \"He's not competent\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Discrimination/Slurs",
+    "Abuse",
+    "Substance Use",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Four characters, written Southern dialect and rapid shifts between childlike play and fanaticism.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play with a character list and speaker labels \"BOBBY\", \"JOHN\", \"SAM\" and \"SHAWNA\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Dialect such as \"God spoke ta me a lot\" and business like \"he begins to waddle around like a penguin\"",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"In seventy-two hours they are going to kill you.\"",
+   "value": "Death-row inmate Bobby Reyburn, a damaged man who burned a church full of people, is seen through fellow inmate John, a reporter and a guard in the days before his execution."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"And the only person who ever loved him taught him how to hate.\"",
+   "value": [
+    "Capital punishment",
+    "Learned hatred",
+    "Mental competence",
+    "Responsibility"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A childlike killer does animal impressions while others describe his crime: \"Fire killed thirty-seven people.\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0342": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Police violence is discussed without graphic description; some profanity.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"poor Black boys are treated as problems\", \"black boys are murdered every day\" and real victims such as \"the hard-boiled sons of Emmett Till.\"",
+   "value": [
+    "Discrimination/Slurs",
+    "Violence",
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice plus the nephew's quoted questions, shifting from playful to grave.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A spoken-word poem in short verse lines from a Button Poetry collection.",
+   "value": "Poetry"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Repetition and rhythm drive it, as in \"Uncle, uncle, uncle, he asks\"",
+   "value": [
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Oh man, Uncle, 5-0, we gotta hide.\"",
+   "value": "Driving with his four-year-old nephew, the speaker sees the boy hide from a police car and reflects on how Black boys must learn to survive encounters with police."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"he learned to hide from the cops before he knew how to read.\"",
+   "value": [
+    "Racism and policing",
+    "Black boyhood",
+    "Fear and survival",
+    "Protecting children"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"I'm not happy with the way we raise our Black boys.\"",
+   "value": [
+    "Serious",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0343": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A child's illness and death with mild language.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"Six hours later, Katie passed away\" and the father's mourning in her bedroom.",
+   "value": [
+    "Death",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Five characters, singing, and a range from comedy to panic (\"Damn it, no one is taking Katie!\").",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A script from an interpretation anthology with speaker labels \"DADDY\", \"KATIE\" and \"NURSE\" and directions such as \"(to audience)\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Labelled speakers and sung passages marked \"(sings) Blue skies smilin' at me.\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Your daughter has leukemia.\" and \"Dear Dad, If you are reading this\"",
+   "value": "A single-parenting father recounts his daughter Katie's leukemia, her brave bald entrance at a school dance, her death and the letter she left him."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I want them to like me for who I am.\"",
+   "value": [
+    "Father and daughter",
+    "Childhood cancer",
+    "Courage",
+    "Grief and remembrance"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic father-daughter moments (\"Where's the marshmallow?\") lead to her death and his song.",
+   "value": [
+    "Bittersweet",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0344": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "No mature content beyond mild language.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "A divorce and a father's insecurity are discussed; no listed sensitive content occurs in the performance text.",
+   "value": []
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator with quoted voices and a shift from comedy to tears.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A published SpeechGeek play monologue spoken under the label \"PAUL.\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Stated business with the mannequin and tools, as in \"I clamp down on my finger and scream\"",
+   "value": [
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I am required to learn a looped French braid\"",
+   "value": "Single father Paul attends a Daddy Does Hair class to learn a French braid for his daughter's recital and confronts his fear of failing her as he failed his marriage."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"It means you're trying. Now brush it out and start again\"",
+   "value": [
+    "Single fatherhood",
+    "Fear of failure",
+    "Learning through trying",
+    "Masculinity"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic horror at a hair class (\"Nope. Nope. Nope.\") turns to fear \"That I am probably not enough for her.\"",
+   "value": [
+    "Bittersweet",
+    "Lighthearted"
+   ]
+  }
+ },
+ "IC-0345": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Mild language and teen romance only.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Poverty and fitting in are the subject; the only mentions of violence are past or hypothetical (\"her dad would have shot me\"), so no listed category applies.",
+   "value": []
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Three characters with narration and asides marked \"(To audience)\".",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A chapter cutting from Sherman Alexie's novel with speaker labels added for PENELOPE and ROGER.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Labelled exchanges between \"ARNIE\", \"PENELOPE\" and \"ROGER.\"",
+   "value": [
+    "Character Differentiation"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Are you poor?\" and \"Yes, I'm poor.\"",
+   "value": "Arnold hides his poverty through the Winter Formal and a late-night diner trip until Roger lends him money and Penelope learns the truth."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I pretended to be middle class. I pretended I belonged.\"",
+   "value": [
+    "Poverty and shame",
+    "Belonging",
+    "Friendship",
+    "Living between two worlds"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic panic about money (\"I was doomed.\") ends in \"they can be pretty amazing.\"",
+   "value": [
+    "Lighthearted",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0346": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Suicide attempts and commands to kill himself are described in detail.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"I made three different attempts on my life\" after voices urged \"Hang yourself\", ending with the diagnosis \"Schizo - Schizophrenia!\"",
+   "value": [
+    "Suicide",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Many voices, including two taunting voices, newscasters, a father and a whispering baby brother, interrupt Ken constantly.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A cutting of Ken Steele's memoir with speaker labels added for the voices, the TV hosts and DAD.",
+   "value": "Nonfiction"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Labelled \"VOICE 1\" and \"VOICE 2\", directions like \"(shrieking)\" and \"puts hands over ears and turns away\"",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"The voices arrived without warning on an October night in 1962.\"",
+   "value": "Ken Steele recalls the night at fourteen when voices began ordering him to kill himself, his hidden years of torment, a night of suicide attempts and learning the word schizophrenia."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"This was not a man to whom I could confide that I was hearing things.\"",
+   "value": [
+    "Schizophrenia",
+    "Isolation",
+    "Family misunderstanding",
+    "Survival"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A plain account of voices that command \"Kill yourself. . . Set yourself afire\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0347": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Mild language and dark humor only.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "He fantasizes about revenge and mimics a newscast (\"Thousands dead and dying!\") but no listed sensitive content actually occurs.",
+   "value": []
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice with outbursts, mimicry of others and a howl.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A monologue from a published solo-play collection under the speaker label \"MAN\" with stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Shouted lines (\"WHAT IS THIS?\"), mimicry \"(Mimicking the newscaster)\" and \"(barks a long howl)\".",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Because I am not a man. I am a dog.\"",
+   "value": "A poor, angry man rants about wanting to be normal, rich and famous, his revenge fantasies and the hypocrisy of comfortable people, finally declaring himself a dog."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I want to be rich. And I want to be famous.\"",
+   "value": [
+    "Resentment",
+    "Fame and greed",
+    "Normalcy",
+    "Hypocrisy"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "He mocks consumer life and viewers who \"write out a check for five dollars\" while revealing his own bitterness.",
+   "value": [
+    "Satirical",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0348": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Suicide, implied sexual abuse, homophobic slurs and violence.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"Beethoven didn't leave a note\", \"Suicide is pathetic bullshit\", \"my head got slammed into the wall\", \"Except to call me a\" slur, and the hint of incest \"My dad? I don't think that's considered sex.\"",
+   "value": [
+    "Suicide",
+    "Death",
+    "Violence",
+    "Discrimination/Slurs",
+    "Abuse",
+    "Sexual Assault",
+    "Grief"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Several characters, letter narration and swings from tenderness to violent rage.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play with speaker labels \"CB\", \"BEETHOVEN\" and \"MATT\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Business such as \"Beethoven shoves CB\" and \"hits the wall and storms off\" between labelled speakers.",
+   "value": [
+    "Character Differentiation",
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Dear Pen Pal.\" and \"Beethoven didn't leave a note.\"",
+   "value": "Teenage CB, grieving his dog, reconnects with bullied pianist Beethoven and starts a relationship until a homophobic attack and Beethoven's suicide, then receives a reply from his pen pal."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"How differently things could have been through just one connection.\"",
+   "value": [
+    "Bullying",
+    "Sexual identity",
+    "Grief",
+    "Suicide",
+    "Connection"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A grieving teen's tentative romance ends in a suicide and a consoling letter: \"I promise that things get better.\"",
+   "value": [
+    "Dark",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0349": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "No mature content.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Past threats are mentioned (\"threatened my life\") but no violence, death or other listed content occurs in the performance text.",
+   "value": []
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One narrator plus brief quoted lines from Kohoi and his daughter.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A first-person memoir by a linguist about living with the Piraha.",
+   "value": "Nonfiction"
+  },
+  "performance_demands": {
+   "confidence": "low",
+   "evidence": "Quoted exchanges such as \"Don't you see him over there?\" and \"What are they looking at, Daddy?\"",
+   "value": [
+    "Character Differentiation"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Xigagai, one of the beings that lives above the clouds\" and \"Don't sleep, there are snakes.\"",
+   "value": "Daniel Everett recalls a morning when the Piraha saw a spirit on an empty beach and reflects on what three decades among them taught him."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"could see reality so differently\" and \"facing life and death without the comfort of heaven\"",
+   "value": [
+    "Cultural perception",
+    "Language and thought",
+    "Living in the present",
+    "Faith and doubt"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"I will be grateful to them as long as I live.\"",
+   "value": [
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0350": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Suicide is mentioned in the framing but not depicted.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "The transitions describe \"a suicidal Hunter Adams\" who \"commits himself to a mental institution\", a wife's grief \"after the death of their two children\" and add \"That's what suicide is all about.\"",
+   "value": [
+    "Suicide",
+    "Mental Health",
+    "Death"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Four distinct film characters plus narration in one program.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A program of film-screenplay monologues (Patch Adams, Jack, Dead Poets Society, What Dreams May Come) linked by spoken transitions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "Labelled \"PATCH\", \"MR. KEATING\" and \"CHRIS\" with directions such as \"[HE TURNS TO THE STUDENTS]\".",
+   "value": [
+    "Character Differentiation",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Remember Dead Poet's Society?\" and \"In What Dreams May Come by Ronald Bass\"",
+   "value": "A tribute program weaves monologues from four Robin Williams films, on medicine, youth, poetry and love after death, with transitions about his life."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"make your lives extraordinary\" and \"Death is not the enemy.\"",
+   "value": [
+    "Living fully",
+    "Compassion",
+    "Mortality",
+    "Love and loss"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Inspirational speeches (\"seize the day boys\") framed by a tribute that ends \"we knew he wasn't acting.\"",
+   "value": [
+    "Earnest",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0351": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Graphic deaths of a man and an animal and references to lynching.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"She stepped on his skull. Crushed it.\", the elephant is hanged until \"that was it\", and the town's lynchings are recalled: \"how they hung colored boys\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Over a dozen townspeople and circus voices in rapid succession, with dialect.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play with many speaker labels such as \"RINGMASTER\", \"TRAINER\" and \"TOWNSPEOPLE\"",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Fast-cut labelled voices, written dialect (\"Erwin don't look kindly upon murderers\", \"fin'ly\") and choral chants of \"Kill it. Kill it. Kill it!\"",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Something like that could hang her.\"",
+   "value": "Townspeople and circus workers recount how Mary the elephant killed her inexperienced handler in Erwin, Tennessee, in 1916 and was hanged from a railyard crane."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Eye for an eye. Erwin'll fin'ly be clean.\"",
+   "value": [
+    "Mob justice",
+    "Spectacle and cruelty",
+    "Racism",
+    "Scapegoating"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A town celebrates hanging an elephant (\"We hung an elephant today.\") while ignoring that they \"hung colored boys in Erwin.\"",
+   "value": [
+    "Dark",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0352": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Slavery and racism are discussed without graphic violence.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Characters debate racism (\"the ghetto is a modern-day plantation\", \"I'm not an Uncle Tom\") and slavery's atrocities (\"an endless stretch of skeletons, human bones\").",
+   "value": [
+    "Discrimination/Slurs",
+    "War/Trauma"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Nine labelled characters of different ages, accents and classes.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A published play with speaker labels such as \"REPORTER\", \"BESSIE\" and \"SLAVE-OLOGIST\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Dialect such as \"They ain't teach us nothin'\" and business like \"dances an ancient African dance\"",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"A slave ship has just risen out of the Hudson River\"",
+   "value": "When a slave ship rises from the Hudson beside the Statue of Liberty, a reporter gathers reactions from a range of Black New Yorkers before the ship sinks again."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"This slave ship is proof that slavery is not history, its reality.\"",
+   "value": [
+    "Legacy of slavery",
+    "Black identity",
+    "Collective memory",
+    "Freedom"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Comic reactions (\"Slave ship buttons!\") sit beside sober testimony about \"the psyche of the masses.\"",
+   "value": [
+    "Satirical",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0353": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Murders, drug trafficking and a son striking his mother.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"My uncles introduced coke to the neighborhood\", \"just cut this dude's throat\", an uncle \"had gotten beat with aluminum baseball bats\" and \"He died.\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Substance Use"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Four characters, Spanish dialogue and a range from comedy to rage.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "medium",
+   "evidence": "A solo-show script with speaker labels \"JUAN\", \"MAMI\" and \"TIO ALVARO\" and directions such as \"(to audience)\".",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Spanish-English lines such as \"No lo trate asi\" and shouted moments like \"MAAAAAMMMMMMIIIIIII!!!!\"",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"So I sat down and ate 4 more cheeseburgers\" and \"My uncles murdered a lot of people.\"",
+   "value": "Juan recalls his Colombian family's empanadas and his twelve-cheeseburger birthday before his uncles' cocaine trade brought murder, and a fight with his mother."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"The American Dream.\" and \"I hated being Colombian.\"",
+   "value": [
+    "Immigrant family",
+    "The American Dream",
+    "Drug violence",
+    "Mother and son",
+    "Identity"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Loving food memories turn to a family drug trade and the refrain \"Dios te va castigar.\"",
+   "value": [
+    "Bittersweet",
+    "Dark"
+   ]
+  }
+ },
+ "IC-0354": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Graphic animal blinding, sexual content and self-injury.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"Alan violently stabs out Nugget's eyes\", then is \"stabbing at his own eyes\"; the psychiatric sessions and Jill's \"Don't you want to?\" seduction are shown.",
+   "value": [
+    "Violence",
+    "Mental Health",
+    "Sexual Content",
+    "Self-harm"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Five characters, flashbacks and Alan's escalating trance.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play with speaker labels \"DYSART\", \"ALAN\", \"MOTHER\", \"FRANK\" and \"JILL\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"Alan pantomimes riding Nugget\" and \"suddenly he crouches in the corner like a beast in a cage\"",
+   "value": [
+    "Character Differentiation",
+    "Physicality",
+    "Vocal Variety"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Why is Equus in chains?\" and \"Six . . . She put her mouth [on] mine.\"",
+   "value": "Psychiatrist Dysart draws out stable boy Alan Strang's private worship of a horse god, leading to the night with Jill when Alan blinded the horses."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"God sees you, Alan. God's got eyes everywhere\".",
+   "value": [
+    "Religious obsession",
+    "Passion and repression",
+    "Psychiatry",
+    "Guilt"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A psychiatric case built around religious obsession, ending \"Find me! . . . KILL ME!\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0355": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "An on-stage killing and a casual slur.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "high",
+   "evidence": "\"Butch bears down on his neck; it breaks with a dull snap\" after repeatedly calling Eukiah \"a half-wit.\"",
+   "value": [
+    "Death",
+    "Violence",
+    "Discrimination/Slurs"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Two characters, a menacing subtext under friendly talk, and written Southern dialect.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A short play with speaker labels \"BUTCH\" and \"EUKIAH\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Dialect (\"You're doin' it again\"), many \"(Beat.)\" marks and \"Butch has Eukiah in a head lock.\"",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"He's gonna bum the horses.\" and \"For the insurance.\"",
+   "value": "Butch coaxes Eukiah, a slow stable boy who overheard a plan to burn the horses for insurance, out of hiding and then kills him."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Never trust anything anybody says if it's about horses.\"",
+   "value": [
+    "Betrayal of trust",
+    "Greed",
+    "Manipulation",
+    "Vulnerability"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "The direction calls it \"a seduction\" that ends with Butch killing Eukiah.",
+   "value": [
+    "Dark"
+   ]
+  }
+ },
+ "IC-0356": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "Child sexual abuse and strong profanity.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "Michael tells the priest \"He took my innocence\" and \"I was five years old\", implying childhood sexual abuse by a priest.",
+   "value": [
+    "Abuse",
+    "Sexual Assault"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Two characters in rapid, fragmented exchanges with a sharp emotional build.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A ten-minute play with speaker labels \"MICHAEL\" and \"FATHER\" set in a confessional.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Clipped alternating lines (\"Redemption.\" / \"No.\") and written \"(A beat.)\" marks.",
+   "value": [
+    "Character Differentiation",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"Bless me father for I have sinned.\" and \"I want to hear your confession.\"",
+   "value": "In a confessional, Michael confronts the priest who abused him as a child and demands to hear the priest's confession."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"I can't forgive you.\"",
+   "value": [
+    "Betrayal of trust",
+    "Forgiveness",
+    "Lost faith",
+    "Confronting an abuser"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A confession that turns into an accusation: \"I want to hear your confession.\"",
+   "value": [
+    "Dark",
+    "Serious"
+   ]
+  }
+ },
+ "IC-0357": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "AIDS, drinking and sexual awakening are referenced without explicit detail.",
+   "value": "High School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"Pablo died a year later\", \"we got drunk\", and references to \"poses of inspired and delirious sexuality.\"",
+   "value": [
+    "Death",
+    "Substance Use",
+    "Sexual Content"
+   ]
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "One voice with an accent impression and a controlled arc toward his illness.",
+   "value": "Intermediate"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A monologue from a Dramatists Play Service collection of monologues.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "medium",
+   "evidence": "He imitates Svetlana's \"so wery, wery crazy\" and breaks phrases: \"since I - started - falling\"",
+   "value": [
+    "Vocal Variety",
+    "Pacing/Timing Control"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"I became the Cha Cha champion of the world.\"",
+   "value": "A former ballroom champion, now falling through the sky as a metaphor for dying of AIDS, recalls his 1983 title night and his first dance with a man."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"remember that I used to dance the Cha Cha\"",
+   "value": [
+    "AIDS",
+    "First love",
+    "Identity",
+    "Being remembered"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Glamorous memories of the Cha Cha meet a dying man's jokes: \"Sorry. Bad joke.\"",
+   "value": [
+    "Bittersweet",
+    "Ironic"
+   ]
+  }
+ },
+ "IC-0358": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "Child beating, a killing, profanity and an on-stage death.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"commenced to whupping me\", \"They told me I killed him\", Troy dies of a heart attack, \"Colored guy got to be twice as good\", and he was \"fooling around with Joe Canewell's daughter.\"",
+   "value": [
+    "Abuse",
+    "Violence",
+    "Death",
+    "Discrimination/Slurs",
+    "Sexual Content"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Three characters, written dialect and a physical fight with a bat.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "August Wilson's play with speaker labels \"TROY\", \"CORY\" and \"BONO\" and stage directions.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Dialect (\"He ain't cared nothing about no kids\") and \"swings the bat at Troy who steps back\"",
+   "value": [
+    "Character Differentiation",
+    "Dialect",
+    "Physicality"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"You quit the football team.\"",
+   "value": "Troy Maxson recounts his brutal father and years in prison while forbidding his son Cory's football recruitment, until they fight and Troy dies."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Cause it's my duty to take care of you.\"",
+   "value": [
+    "Fathers and sons",
+    "Cycle of abuse",
+    "Racism in sports",
+    "Duty versus love"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "A hard father's story ends with his son's \"I don't want to be Troy Maxson . . . I want to be me.\"",
+   "value": [
+    "Serious",
+    "Bittersweet"
+   ]
+  }
+ },
+ "IC-0359": {
+  "audience_level": {
+   "confidence": "medium",
+   "evidence": "A serious illness is portrayed with little mature content.",
+   "value": "Middle School"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "A child's leukemia treatment is shown (\"the huge needle jabbed straight into his chest\") but no listed category such as death or violence occurs.",
+   "value": []
+  },
+  "difficulty": {
+   "confidence": "medium",
+   "evidence": "Steven, Mom, Dad, the doctor and little Jeffrey speak in unlabelled dialogue that the performer must separate.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A chapter cutting from Jordan Sonnenblick's novel, narrated in first person with unlabelled dialogue.",
+   "value": "Prose"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "Unlabelled exchanges such as \"Can't we do the emm-lah?\" and \"Hey, Mom. How are ya?\"",
+   "value": [
+    "Character Differentiation"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"We're going to the emergency room. Your brother has a fever.\"",
+   "value": "Steven is pulled from a school dance when his little brother Jeffrey, in treatment for leukemia, spikes a fever, and he helps Jeffrey and his parents through the hospital night."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"everyone in the family was united toward the common goal of getting Jeffrey well.\"",
+   "value": [
+    "Childhood cancer",
+    "Brotherhood",
+    "Family under strain",
+    "Coping"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "Brotherly jokes (\"no kissing the nurses\") alongside fear in the hospital.",
+   "value": [
+    "Bittersweet",
+    "Earnest"
+   ]
+  }
+ },
+ "IC-0360": {
+  "audience_level": {
+   "confidence": "high",
+   "evidence": "A suicide attempt, abuse and a fiery death are described.",
+   "value": "Upper High School (mature content)"
+  },
+  "content_warnings": {
+   "confidence": "medium",
+   "evidence": "\"with my wrists slit open\", Nubia \"consumed by flames\", lovers who \"used to beat me up\", and life before and on Prozac.",
+   "value": [
+    "Suicide",
+    "Self-harm",
+    "Death",
+    "Violence",
+    "Abuse",
+    "Mental Health"
+   ]
+  },
+  "difficulty": {
+   "confidence": "high",
+   "evidence": "Rapid speech while completing a full costume and makeup change, plus singing and a fire-baton routine.",
+   "value": "Advanced"
+  },
+  "literary_form": {
+   "confidence": "high",
+   "evidence": "A play monologue under the label \"CRYSTAL\" with directions for an on-stage drag transformation.",
+   "value": "Drama"
+  },
+  "performance_demands": {
+   "confidence": "high",
+   "evidence": "\"Throughout he changes from his male drag into her full and divine female drag\" and Nubia's quoted voice (\"Honey - honey\").",
+   "value": [
+    "Physicality",
+    "Vocal Variety",
+    "Character Differentiation"
+   ]
+  },
+  "subject_matter": {
+   "confidence": "high",
+   "evidence": "\"She saved my life! And she taught me how to Fire Dance.\"",
+   "value": "Drag performer Crystal, transforming into costume, recalls how mentor Nubia saved her life and taught her the Fire Dance before dying in flames on stage."
+  },
+  "themes": {
+   "confidence": "high",
+   "evidence": "\"Nubia taught me how to have a fierce veneer\" and \"all I ever wanted was just to be a NORMAL person\"",
+   "value": [
+    "Drag and identity",
+    "Mentorship",
+    "Normalcy versus self-expression",
+    "Grief"
+   ]
+  },
+  "tone": {
+   "confidence": "high",
+   "evidence": "\"Today, I am a normal person. A happy person.\" is said while she secretly sings for Nubia.",
+   "value": [
+    "Bittersweet",
+    "Ironic"
+   ]
+  }
+ }
+}

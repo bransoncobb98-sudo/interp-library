@@ -1,0 +1,402 @@
+{
+ "IC-0721": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A published teen scene with speaker labels HE and SHE and stage directions such as \"She faces him\"."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "medium", "evidence": "Sincere confessions turn grave with \"This is the worst thing that could happen\"."},
+  "content_warnings": {"value": ["Sexual Content"], "confidence": "medium", "evidence": "The couple's first sexual relationship is referenced (\"I never did this with anyone before\", \"I started the pill\") and leads to her pregnancy."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters move from infatuation to anger and a final face-to-face confrontation."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Rapid alternating asides such as \"We hardly ever disagree\" drive the rhythm until they finally speak to each other."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Teen sex and pregnancy are discussed but not described explicitly."},
+  "themes": {"value": ["Teen pregnancy", "Trust and abandonment", "Responsibility", "Choice", "First love"], "confidence": "medium", "evidence": "\"It's my responsibility. It's my body.\" and \"I can never trust him again.\""},
+  "subject_matter": {"value": "A teen couple narrate their relationship from first love through her pregnancy and his walking away to her decision to place the baby for adoption.", "confidence": "high", "evidence": "\"I'm meeting with the family today that will adopt the baby.\""}
+ },
+ "IC-0722": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play scene with speaker labels TORCH and BLUE and directions such as \"Beat\"."},
+  "tone": {"value": ["Dark", "Bittersweet"], "confidence": "medium", "evidence": "Love talk sits beside plague imagery like \"where they pile the bodies\"."},
+  "content_warnings": {"value": ["Death", "Suicide", "Sexual Content"], "confidence": "medium", "evidence": "Torch describes \"where they pile the bodies\", Blue proposes they choose \"That moment when we die\" (\"Suicide! Is a sin!\"), and they argue about men who \"Hate themselves after having sex\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Written New York dialect and violent swings from mockery to pleading, ending \"Die alone.\""},
+  "performance_demands": {"value": ["Dialect", "Vocal Variety", "Character Differentiation"], "confidence": "medium", "evidence": "Dialect spellings such as \"You gonna get serious\" and shouted, fragmented lines."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "A suicide pact, sexual references, disease imagery and profanity."},
+  "themes": {"value": ["Love in a plague", "Fear of infection", "Mortality", "Choosing how to die", "Gender roles"], "confidence": "medium", "evidence": "\"I can risk death and feel alive.\""},
+  "subject_matter": {"value": "In a quarantined zone for people with a fatal virus, Blue sneaks in to live with Torch, who refuses to risk infecting her, and she proposes they choose to die together.", "confidence": "high", "evidence": "\"I came to live with you, maybe even to die with you.\""}
+ },
+ "IC-0723": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with CHARACTERS, SETTING and speaker labels JOHN and LUCY."},
+  "tone": {"value": ["Dark"], "confidence": "high", "evidence": "A haunting that ends in revelations of murder and threats like \"I'm gonna finish you off\"."},
+  "content_warnings": {"value": ["Violence", "Abuse", "Death", "Sexual Assault"], "confidence": "high", "evidence": "John beats his household (\"I gotta drive the devil outta you\", \"Joel's been struck\"), and the spirit recounts how men \"used my body\", and he \"Watched him have his way\" \"And slit my throat\"; \"A woman died here, John\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Rural dialect plus Lucy's shift into the spirit's voice (\"Your voice is\")."},
+  "performance_demands": {"value": ["Dialect", "Vocal Variety", "Character Differentiation"], "confidence": "medium", "evidence": "Dialect such as \"We both been hearin'\" and Lucy speaking as Kate."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Rape, murder, slavery and beatings are recounted."},
+  "themes": {"value": ["Haunting and revenge", "Guilt and complicity", "Domestic cruelty", "Slavery", "Buried crimes"], "confidence": "medium", "evidence": "\"Build the farm on the backs of your slaves.\""},
+  "subject_matter": {"value": "In 1817 Tennessee, farmer John Bell dismisses his wife's reports of a haunting until the spirit of a murdered woman speaks through her and exposes his complicity in the killing.", "confidence": "high", "evidence": "\"You bought the land from the man that murdered me.\""}
+ },
+ "IC-0724": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play cutting (Samuel French) with many speaker labels and stage directions such as \"Flinging her arms out\"."},
+  "tone": {"value": ["Lighthearted", "Earnest"], "confidence": "medium", "evidence": "Comic chaos from \"the worst kids in the whole history\" ends in sincere wonder at Christmas."},
+  "content_warnings": {"value": ["Violence"], "confidence": "low", "evidence": "Comic schoolyard hitting: \"Charlie was black and blue all last year\" and \"Gladys Herdman hits too hard\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Each performer plays eight to ten characters including Beth, Imogene, Gladys and church ladies."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Many suggested roles and business such as \"Flinging her arms out\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Only mild slapstick roughness."},
+  "themes": {"value": ["Grace and redemption", "Outsiders", "Meaning of Christmas", "Judging others"], "confidence": "medium", "evidence": "\"as if she just caught on to what Christmas was all about\""},
+  "subject_matter": {"value": "The unruly Herdman children take over a church Christmas pageant, alarm the congregation, and end up giving the story a new, deeply felt meaning.", "confidence": "high", "evidence": "\"This was the best Christmas pageant we ever had\""}
+ },
+ "IC-0725": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A sketch from a Dramatists Play Service collection with speaker labels LISA and DAD."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "medium", "evidence": "Shocking claims like \"I shot him\" are revealed as gags: \"BIRTHDAY FOOL\"."},
+  "content_warnings": {"value": ["Abuse"], "confidence": "low", "evidence": "The shootings are pranks, but the father's hoax leaves his crying daughter calling him \"the cruelest daddy in the whole world\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters, with Lisa swinging from excitement to grief to joy."},
+  "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Comic reversals such as \"DOUBLE APRIL FOOL\" depend on timing."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Dark humor about dead animals and a sister, but no real violence."},
+  "themes": {"value": ["Cruel humor", "Parent-child relationship", "Materialism", "Manipulation"], "confidence": "medium", "evidence": "\"Oh Daddy. Daddy, you're the bestest daddy\""},
+  "subject_matter": {"value": "A father leads his daughter to a blanket-covered birthday gift, claims he shot her pony and then her sister, and finally reveals the motorcycle she wanted.", "confidence": "high", "evidence": "\"It's the motorcycle you wanted!\""}
+ },
+ "IC-0726": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A published duo scene with speaker labels RYAN and KRISTEN and marked scene breaks."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Jokes and dates sit beside illness; the ending repeats \"Your way of getting through the day with a chuckle\"."},
+  "content_warnings": {"value": ["Death", "Grief", "Substance Use"], "confidence": "medium", "evidence": "Kristen speaks alone after Ryan's death (\"I met my boyfriend in here\", \"keep the words living\"), and they drink on a date (\"must be the champagne\")."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters move through several short scenes from banter to grief."},
+  "performance_demands": {"value": ["Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Directions such as \"loses balance, almost falls\" and shifts from jokes to anger."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Terminal illness and death with some profanity."},
+  "themes": {"value": ["Living with cancer", "Humor as coping", "Young love", "Loss"], "confidence": "high", "evidence": "\"Don't let it consume you.\""},
+  "subject_matter": {"value": "Two young cancer patients meet at a support group and fall in love over two dates, and Kristen is left to speak at the meeting alone after Ryan dies.", "confidence": "high", "evidence": "\"I met my boyfriend in here\""}
+ },
+ "IC-0727": {
+  "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "A stage adaptation by David Wood with narrators, speaker labels and directions such as \"BFG enters in a cloak\"."},
+  "tone": {"value": ["Whimsical", "Lighthearted"], "confidence": "high", "evidence": "Invented words like \"Delumptious, fizzy frobscottle\" and whizzpopper jokes."},
+  "content_warnings": {"value": ["Death", "Abuse"], "confidence": "low", "evidence": "Sophie says her parents \"died when I was a baby\" and that Mrs Clonkers \"locked me in the cellar once\"; the Queen reports the missing children \"were eaten\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Each performer plays five or six roles, including the BFG's invented speech."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Written giant-speak such as \"I is a nice and jumbly giant\" and much stated business."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Child-eating giants are fantastical and the tone is comic."},
+  "themes": {"value": ["Friendship", "Courage", "Orphanhood", "Good versus evil", "Imagination"], "confidence": "medium", "evidence": "\"We've got to save the children of the world!\""},
+  "subject_matter": {"value": "The BFG snatches orphan Sophie to Giant Country, where she learns of child-eating giants and persuades him to seek the Queen's help to stop them.", "confidence": "high", "evidence": "\"we'll go to the Queen and tell her about the giants\""}
+ },
+ "IC-0728": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with opening stage directions and speaker labels ERIC and DIANE."},
+  "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "The box Eric assumes holds ashes holds his burned art: \"They burned beautifully.\""},
+  "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "Diane mourns her father Henry: \"He wanted to be scattered on the beach\" and \"wait until Henry died\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with sustained subtext and a late reversal."},
+  "performance_demands": {"value": ["Pacing/Timing Control"], "confidence": "medium", "evidence": "Fencing exchanges and a written \"Long pause\" before Eric's admission."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Death and grief with strong profanity such as \"fucking Reinhardt\"."},
+  "themes": {"value": ["Art and loyalty", "Betrayal", "Grief", "Revenge", "Letting go"], "confidence": "medium", "evidence": "\"To set myself free. To set us both free.\""},
+  "subject_matter": {"value": "A painter comes to his late dealer's house to reclaim four paintings, and the dealer's daughter, his former lover, reveals she has burned them.", "confidence": "high", "evidence": "\"Your paintings. Your four black paintings.\""}
+ },
+ "IC-0729": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with speaker labels ANDREW and MARION and stage directions."},
+  "tone": {"value": ["Bittersweet", "Dark"], "confidence": "medium", "evidence": "A teasing guessing game turns to pain and loneliness: \"I went cold\"."},
+  "content_warnings": {"value": ["Substance Use", "Violence"], "confidence": "medium", "evidence": "They drink beer (\"get a brewski\", \"Marion passes out on the couch\"), and \"Andrew grabs Marion and throws her on the couch\" while \"Marion scratches him\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters swing between flirtation, hurt and a physical struggle."},
+  "performance_demands": {"value": ["Physicality", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Business such as \"Marion runs to the sink and throws up\" and repeated cold-colder refrains."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drinking, a physical scuffle and mild profanity."},
+  "themes": {"value": ["Breakup aftermath", "Lingering attachment", "Self-destruction", "Control"], "confidence": "medium", "evidence": "\"I went numb because of you\""},
+  "subject_matter": {"value": "Picking up keys from his ex, Andrew learns Marion got a painful, infected belly-ring piercing for him, and a struggle to remove it ends with her drinking alone.", "confidence": "high", "evidence": "\"She raises her shirt to show off a new, swelling belly ring.\""}
+ },
+ "IC-0730": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play cutting with speaker labels THERESA, TONY, MERCER and BECK and stage directions."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "Escalating threats leave Theresa saying \"I'm just this thing\"."},
+  "content_warnings": {"value": ["Abuse", "Violence", "Death"], "confidence": "medium", "evidence": "Theresa is stalked and threatened (\"He's stalking me\", \"wire around my throat\"), the detective has \"seen too many people shot\", and she mentions life \"since my parents died\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "The actor plays Tony, Mercer and Beck against one sustained role."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "Several roles for one actor and business such as she \"rips the cord from the wall\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Stalking, death threats and sexual harassment are described."},
+  "themes": {"value": ["Stalking", "Fear and powerlessness", "Romantic myths", "Objectification of women"], "confidence": "high", "evidence": "\"Why don't I get the girl?\""},
+  "subject_matter": {"value": "After rejecting a blind date, writer Theresa is bombarded with calls and threats, seeks help from a coworker and a detective, and describes how the stalking has erased her sense of self.", "confidence": "high", "evidence": "\"I think you should call the police.\""}
+ },
+ "IC-0731": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of the novel with page references; narrators carry the story between dialogue."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Joyful make-believe gives way to loss and a heartfelt funeral wreath."},
+  "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "\"They found the Burke girl this morning down in the creek\" and Jesse grieves that \"She went and left me\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Each performer plays several roles and the emotion ranges from wonder to wordless screaming."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Rural speech such as \"Seeing's you was the one that really knowed\" and directions like \"flings the papers and paints into the water\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "A child's accidental death treated gently, as in the source novel for young readers."},
+  "themes": {"value": ["Friendship", "Imagination", "Grief", "Fear and courage", "Faith"], "confidence": "high", "evidence": "\"you just have to stand up to your fear\""},
+  "subject_matter": {"value": "Jess and Leslie create the secret kingdom of Terabithia, and after Leslie drowns crossing the flooded creek, Jess works through rage and grief to honor her.", "confidence": "high", "evidence": "\"A funeral wreath for the queen\""}
+ },
+ "IC-0732": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Playscripts comedy with narrators, many speaker labels and stage directions."},
+  "tone": {"value": ["Lighthearted", "Satirical"], "confidence": "high", "evidence": "It mocks fairy tales and gender roles, ending \"avoided traditional gender roles\"."},
+  "content_warnings": {"value": ["Violence", "Self-harm", "Death"], "confidence": "low", "evidence": "Played for gory laughs, a stepsister \"chopped off her big toe\" and another \"chopped off her heel\"; Cinderella's \"mother died and her father remarried\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Each performer plays about nine roles with rapid comic switches."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Dialect", "Physicality"], "confidence": "high", "evidence": "Prince Charming speaks \"with a British accent for no apparent reason\" amid much stated business."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Cartoonish gore and mild innuendo."},
+  "themes": {"value": ["Fairy-tale parody", "Gender roles", "Theatrical self-awareness"], "confidence": "high", "evidence": "\"Why do I have to clean the house? Is it because I'm a woman?\""},
+  "subject_matter": {"value": "Two narrators stumble through comic versions of Rapunzel, Snow White and Cinderella, complete with a devil, rebellious characters and gory stepsisters.", "confidence": "high", "evidence": "\"Hello and welcome to the Brothers Grimm Spectaculathon!\""}
+ },
+ "IC-0733": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with CHARACTERS, TIME, an author's note and speaker labels."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "The Bullet promises \"More tears. More bloodshed.\""},
+  "content_warnings": {"value": ["Violence", "Death", "War/Trauma", "Mental Health"], "confidence": "high", "evidence": "After a school shooting, \"The bullet missed my face\", the Bullet boasts \"Plenty of them are dead\" and \"I got nine of them\", and the teacher is \"rambling due to her mental state\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two contrasting voices in a fragmented, overlapping exchange."},
+  "performance_demands": {"value": ["Pacing/Timing Control", "Character Differentiation"], "confidence": "medium", "evidence": "The Bullet finishes the teacher's broken sentences (\"Spit it out\") without her acknowledging it."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Mass killing of students and teachers is recounted."},
+  "themes": {"value": ["School shootings", "Trauma", "Hope versus despair", "Gun policy", "Teacher resilience"], "confidence": "high", "evidence": "\"I cannot let this win.\""},
+  "subject_matter": {"value": "Days after a school shooting, a traumatized teacher tries to resolve to keep teaching and fight for change while the personified Bullet mocks her and promises more violence.", "confidence": "high", "evidence": "\"My next shooting will occur 1,211 miles from here.\""}
+ },
+ "IC-0734": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play cutting with suggested roles, sound cues and stage directions."},
+  "tone": {"value": ["Lighthearted", "Satirical"], "confidence": "high", "evidence": "A spoof of thirties detective films ending \"Just BRITISH!\""},
+  "content_warnings": {"value": ["Violence", "Death"], "confidence": "medium", "evidence": "The professor is tortured (\"FENTON is heard screaming in agony\"), there is a sword fight, and \"Otto is shot\", so \"you've finished off the Von Brunnos\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Each performer plays several roles with exaggerated accents and sound effects."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "\"pronounced, over-done German accents\" and British accents, plus fights and a fireman's lift."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Cartoonish violence in a comic spoof."},
+  "themes": {"value": ["Parody of British heroism", "Villainy", "Spy melodrama", "Gender roles"], "confidence": "medium", "evidence": "\"from now on, it's man's work!\""},
+  "subject_matter": {"value": "Bumbling hero Bullshot Crummond foils German villains Otto and Lenya, who have kidnapped and tortured a scientist for his synthetic diamond formula.", "confidence": "high", "evidence": "\"You've rescued Daddy and you've saved the formula!\""}
+ },
+ "IC-0735": {
+  "literary_form": {"value": "Nonfiction", "confidence": "high", "evidence": "A cutting of Zweibel's memoir of his friendship with Gilda Radner; speaker labels were added to remembered conversations."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Playful memories end in a tribute: \"her body grew to betray her\"."},
+  "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "\"I have ovarian cancer\" leads to Alan's eulogy for a friend who is \"not here anymore\" and whose \"body grew to betray her\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two voices across scenes spanning fourteen years, from comedy to mourning."},
+  "performance_demands": {"value": ["Vocal Variety"], "confidence": "medium", "evidence": "Gilda \"mimics fans\" and does character bits."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Illness and death with no other mature content."},
+  "themes": {"value": ["Friendship", "Comedy and fear", "Illness", "Grief", "Fame"], "confidence": "high", "evidence": "\"Make me laugh.\""},
+  "subject_matter": {"value": "Writer Alan Zweibel recalls meeting Gilda Radner, her Bunny Bunny ritual, her cancer diagnosis, and his tribute after her death.", "confidence": "high", "evidence": "\"help her be a parakeet\""}
+ },
+ "IC-0736": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A two-character play with speaker labels RAGGI and MRS. HARTFORD and stage directions."},
+  "tone": {"value": ["Lighthearted", "Satirical"], "confidence": "medium", "evidence": "Wordplay such as \"Sony is truly no baloney\" pokes at American snobbery and capitalism."},
+  "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "Mrs. Hartford sneers \"Another alien. Good lord, the country is full of them\" and calls him a \"dirt-poor alien\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters, one with a sustained accent and comic idiom errors."},
+  "performance_demands": {"value": ["Dialect", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Mangled idioms like \"This English is a very big pain in the buttock\" need accent and timing."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Xenophobic remarks in a comic frame."},
+  "themes": {"value": ["Immigration", "The American dream", "Prejudice", "Language and idioms"], "confidence": "high", "evidence": "\"Is this not truly the land of opportunity?\""},
+  "subject_matter": {"value": "An upbeat Indian immigrant cabbie mangles American idioms while driving a snobbish woman to Wall Street, winning her over and revealing he is a stock-savvy future analyst.", "confidence": "high", "evidence": "\"I am some day becoming a system analyst.\""}
+ },
+ "IC-0737": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play cutting with speaker labels JACK and MARTHA and stage directions."},
+  "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "Jack jokes through the news until \"Now JACK bursts out laughing\" and then weeps."},
+  "content_warnings": {"value": ["Sexual Content", "Substance Use"], "confidence": "medium", "evidence": "Their one night together is referenced (\"You were a very good lover\"), and Jack drinks (\"takes a pull of his beer\")."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with sharp shifts between joking, weeping and anger."},
+  "performance_demands": {"value": ["Pacing/Timing Control", "Vocal Variety"], "confidence": "medium", "evidence": "Many beats and abrupt laughter and tears."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "An explicit description of an abortion procedure (\"suck the baby out\") plus sexual references."},
+  "themes": {"value": ["Unplanned pregnancy", "Abortion", "Responsibility", "Guilt"], "confidence": "high", "evidence": "\"You get guilty, I get pregnant.\""},
+  "subject_matter": {"value": "Martha tells Jack, a fellow actor she slept with once, that she is pregnant, and he offers money for an abortion before angrily walking out.", "confidence": "high", "evidence": "\"you're not getting @#$% from me, the price of an abortion\""}
+ },
+ "IC-0738": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of E.B. White's novel with page references and narrators."},
+  "tone": {"value": ["Bittersweet", "Whimsical"], "confidence": "high", "evidence": "Talking barnyard animals and Charlotte's farewell: \"We're born, we live a little while, we die.\""},
+  "content_warnings": {"value": ["Death"], "confidence": "high", "evidence": "The stage direction \"Charlotte dies\" ends the story."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The actor alone plays about a dozen roles, human and animal."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Animal voices and business such as Charlotte \"spins some web\"."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "A gentle animal death from a children's classic."},
+  "themes": {"value": ["Friendship", "Mortality", "Sacrifice", "Life cycle"], "confidence": "high", "evidence": "\"You have been my friend, Wilbur\""},
+  "subject_matter": {"value": "Fern saves the runt pig Wilbur, and the spider Charlotte spins words in her web to save him from slaughter before she dies after the county fair.", "confidence": "high", "evidence": "\"That pig is radiant!\""}
+ },
+ "IC-0739": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "Short comic plays with speaker labels and stage directions."},
+  "tone": {"value": ["Lighthearted"], "confidence": "high", "evidence": "Each date ends with the punchline \"Check, please.\""},
+  "content_warnings": {"value": ["Mental Health"], "confidence": "medium", "evidence": "Linda cycles through personalities until her pill lets her \"settle into a single personality\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The actress plays three characters, one switching among many personalities."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "\"personality switches should be fast\" and a fully mimed scene."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Comic portrayal of a mental illness and mild language."},
+  "themes": {"value": ["Blind dates", "Dating disasters", "Comic obsession"], "confidence": "high", "evidence": "\"Some blind dates take it from bad to horrific.\""},
+  "subject_matter": {"value": "Guy endures three disastrous blind dates: a football-obsessed fan, an over-the-top mime, and a woman cycling through personalities until she takes her pill.", "confidence": "high", "evidence": "\"THE BEARS SUCK.\""}
+ },
+ "IC-0740": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play cutting with speaker labels SARAH and JAMES and stage directions."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "Sarah's commission speech is a sincere plea to be heard as \"an individual, an I\"."},
+  "content_warnings": {"value": ["Sexual Content", "Discrimination/Slurs"], "confidence": "medium", "evidence": "Sarah recounts \"Sex was something I could do as well as hearing girls\", and describes being told \"but I was dumb\" and fighting to \"end the discrimination against the deaf population\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Signing in ASL while the partner interprets, with a climactic burst of speech."},
+  "performance_demands": {"value": ["Physicality", "Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "\"should sign using ASL\" with James voicing and lagging behind her signing."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Frank sexual history and profanity such as \"goddamn wonderful\"."},
+  "themes": {"value": ["Deaf identity", "Language and power", "Love and control", "Independence"], "confidence": "high", "evidence": "\"I have a language that's just as good as yours!\""},
+  "subject_matter": {"value": "Speech teacher James falls for deaf former student Sarah, but their marriage strains when she insists on speaking for herself and he demands she learn to speak.", "confidence": "high", "evidence": "\"Speak! Speak! Speak!\""}
+ },
+ "IC-0741": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service play with suggested roles, speaker labels and stage directions."},
+  "tone": {"value": ["Serious", "Ironic"], "confidence": "medium", "evidence": "His honest speech wins a landslide, then \"three distinct gunshots ring out\"."},
+  "content_warnings": {"value": ["Violence", "Death", "War/Trauma", "Grief"], "confidence": "high", "evidence": "A gunman was \"shooting up a classroom with an AR-15\" with \"blood splattered around that classroom\"; Charlie was \"watching our friend throw dirt\" at a funeral and is later \"pronounced dead on arrival\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The actress plays all other roles; Charlie moves from campaign polish to rage and grief."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Many roles for one performer and business such as Sara \"hits Charlie on the arm\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A school massacre and an assassination are described."},
+  "themes": {"value": ["Faith and doubt", "Gun violence", "Political integrity", "Grief"], "confidence": "high", "evidence": "\"These families don't need my prayers right now, son, they need my action.\""},
+  "subject_matter": {"value": "After a school shooting, a North Carolina senator admits he no longer believes in God and speaks out against guns, wins re-election in a landslide, and is shot dead during his victory speech.", "confidence": "high", "evidence": "\"Senator Whitmore will walk away with 71% of the popular vote\""}
+ },
+ "IC-0742": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A published teen scene with speaker labels LEANNA and BRANDON and stage directions."},
+  "tone": {"value": ["Serious"], "confidence": "high", "evidence": "Sarcastic sparring gives way to the grave revelation \"I had an abortion\"."},
+  "content_warnings": {"value": ["Sexual Content"], "confidence": "medium", "evidence": "They argue over their teenage sexual encounter: \"I made love, you had sex\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters move from hostility to revelation and accusation."},
+  "performance_demands": {"value": ["Vocal Variety"], "confidence": "medium", "evidence": "Shifts such as \"Beginning to become angry\" and sustained sarcasm."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Teen sex, an abortion and a claim of near-rape are discussed."},
+  "themes": {"value": ["Teen sexuality", "Abortion", "Regret", "Accountability"], "confidence": "high", "evidence": "\"I was fifteen and had to make some grown-up choices on my own.\""},
+  "subject_matter": {"value": "Meeting her high school ex at a party five years later, Leanna finally tells Brandon she became pregnant at fifteen and had an abortion alone.", "confidence": "high", "evidence": "\"That one time, I got pregnant.\""}
+ },
+ "IC-0743": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play cutting with speaker labels MARIANNE and ROLAND and stage directions."},
+  "tone": {"value": ["Bittersweet", "Serious"], "confidence": "high", "evidence": "A whimsical first meeting returns as a memory after her death."},
+  "content_warnings": {"value": ["Death", "Suicide", "Grief", "Discrimination/Slurs"], "confidence": "high", "evidence": "Marianne drinks medicine \"to end her own life\" and we \"see her pass from life\"; she recalls her mother \"Before she died\"; men mock her speech (\"They howled with laughter\"); \"Roland breaks down to tears\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "British accents, progressive aphasia, sign language and a silent death pantomime."},
+  "performance_demands": {"value": ["Dialect", "Physicality", "Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "\"performed with British accents\"; Marianne \"begins using sign language\" as words fail."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "An assisted suicide is enacted."},
+  "themes": {"value": ["Love and mortality", "Terminal illness", "Assisted dying", "Language loss"], "confidence": "high", "evidence": "\"Death with dignity\""},
+  "subject_matter": {"value": "Physicist Marianne and beekeeper Roland meet, marry, and face her terminal brain tumor, which steals her words until she chooses to end her own life.", "confidence": "high", "evidence": "\"It's called a glioblastoma multiforme.\""}
+ },
+ "IC-0744": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short comic play with suggested roles, speaker labels and stage directions."},
+  "tone": {"value": ["Lighthearted", "Whimsical"], "confidence": "high", "evidence": "Eight-year-olds run a mock board meeting: \"Dude still eats his boogers.\""},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "Only playground taunts and potty humor such as \"Dude still eats his boogers\"; nothing sensitive."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Each performer plays three child characters in a fast ensemble scene."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Six speakers, with Steven \"Scared\" and Bethany \"Looking right into their very souls\"."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "Innocent childhood comedy."},
+  "themes": {"value": ["Childhood and growing up", "Boys and girls", "First crushes"], "confidence": "high", "evidence": "\"I want to discuss the possibility of\""},
+  "subject_matter": {"value": "Eight-year-old boys hold a mock boardroom meeting on whether to start liking girls and are stunned by the terms two girls present.", "confidence": "high", "evidence": "\"Your complete and undivided attention.\""}
+ },
+ "IC-0745": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French musical script with suggested roles, speaker labels and lyrics."},
+  "tone": {"value": ["Bittersweet", "Whimsical"], "confidence": "medium", "evidence": "Fantasy games like the hairdresser and game show frame a child facing death."},
+  "content_warnings": {"value": ["Death"], "confidence": "medium", "evidence": "Dani says \"I don't want to die\" and, after God's words, the direction \"comes to terms with death\" ends with \"Now pain shall cease\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The actor plays six roles including Darth Cancer and God, with accents and fights."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "French accent written as \"Zis must be mademoiselle Danica\" and a lightsaber duel (\"They fight\")."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Childhood cancer and death without other mature content."},
+  "themes": {"value": ["Childhood cancer", "Imagination as coping", "Guilt", "Faith and death"], "confidence": "high", "evidence": "\"Why is cancer?\""},
+  "subject_matter": {"value": "Nine-year-old Dani, back in the cancer ward, plays imaginative games with her friend Raph and roommate Marty, battles a dream Darth Cancer, and finally accepts death with God.", "confidence": "high", "evidence": "\"I'm ready.\""}
+ },
+ "IC-0746": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with speaker labels PAULA and CLARK and bracketed stage directions."},
+  "tone": {"value": ["Lighthearted", "Ironic"], "confidence": "high", "evidence": "A whole relationship rushes by in one diner chat, ending \"STAY OUT OF MY LIFE!\""},
+  "content_warnings": {"value": ["Sexual Content"], "confidence": "medium", "evidence": "Comic sexual references such as \"You had sex with your therapist?\" and talk of his foreskin."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The note says they \"swing furiously from emotion to emotion\" without missing a beat."},
+  "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "high", "evidence": "Constant bracketed mood shifts such as Horrified, Relieved and Ferocious."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Comic sexual references only."},
+  "themes": {"value": ["Dating anxiety", "Neurosis", "Fast-forward romance", "Commitment"], "confidence": "high", "evidence": "\"Why am I so terrified of committment\""},
+  "subject_matter": {"value": "Two strangers at a Manhattan diner race through an entire relationship, from flirtation to fantasy marriage to bitter breakup, in a single conversation.", "confidence": "high", "evidence": "\"Our first fight! It was inevitable!\""}
+ },
+ "IC-0747": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of Gaiman's picture book narrated in the first person by the boy."},
+  "tone": {"value": ["Whimsical", "Lighthearted"], "confidence": "high", "evidence": "The dad ends up in a rabbit run \"reading his newspaper and eating a carrot\"."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "A comic chain of swaps (\"I swapped her your dad\") with no sensitive content."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "One performer narrates while the other plays everyone else: sister, mother, Nathan, Vashti, Blinky, Patti and Dad."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Suggested roles give \"Actor 2: Everyone else\"."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "A children's story with no mature content."},
+  "themes": {"value": ["Sibling rivalry", "Childhood logic", "Consequences", "Family"], "confidence": "high", "evidence": "\"I never promised anything about my little sister\""},
+  "subject_matter": {"value": "A boy trades his newspaper-reading dad for two goldfish and must follow a chain of swaps around the neighborhood, with his sister, to get him back.", "confidence": "high", "evidence": "\"I'll swap you my dad.\""}
+ },
+ "IC-0748": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service script with character, setting and scene notes and speaker labels."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "medium", "evidence": "A tender first date shadowed by his drinking, closing on \"They are not long, the days of wine and roses\"."},
+  "content_warnings": {"value": ["Substance Use", "Death"], "confidence": "high", "evidence": "Joe drinks throughout (\"He takes a drink\", \"Drains bottle\"), and Kirsten recalls her father \"After Mama died\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with a buried arc of self-loathing and romance."},
+  "performance_demands": {"value": ["Physicality"], "confidence": "medium", "evidence": "Business with the bottle and a song: \"Does a little soft shoe\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drinking is shown without other mature content."},
+  "themes": {"value": ["Alcoholism", "Budding romance", "Dreams and disillusionment", "Self-respect"], "confidence": "high", "evidence": "\"I want to be a public relations man, not a pimp!\""},
+  "subject_matter": {"value": "On their first date by the Hudson, Joe drinks steadily from a pint while he and Kirsten share their families, dreams and his shame about his job.", "confidence": "high", "evidence": "\"Isn't it beautiful down here?\""}
+ },
+ "IC-0749": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with stage directions and speaker labels HENRY and ROZ."},
+  "tone": {"value": ["Serious", "Bittersweet"], "confidence": "high", "evidence": "A drunken standoff turns to raw grief and tentative reconciliation."},
+  "content_warnings": {"value": ["Death", "Grief", "Substance Use"], "confidence": "high", "evidence": "\"My dad died, Roz\" and \"I never saw a dead person before\"; Roz tells the drunk Henry to \"Sleep it off\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters, with Henry moving from bravado to breakdown."},
+  "performance_demands": {"value": ["Dialect", "Vocal Variety"], "confidence": "medium", "evidence": "Working-class speech such as \"he never did need\" nothin', and directions like \"Starting to cry\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Death, drinking and profanity without explicit content."},
+  "themes": {"value": ["Father-son relationships", "Grief", "Broken families", "Vulnerability"], "confidence": "high", "evidence": "\"I spent my whole life tryin' to be a dead man.\""},
+  "subject_matter": {"value": "The night his father dies at the factory, Henry, who left his wife Roz six months earlier, shows up at her door to see their children and breaks down over his loss.", "confidence": "high", "evidence": "\"Just died, right there at the punch press.\""}
+ },
+ "IC-0750": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with bracketed stage directions and speaker labels KAHLID and SANA."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "It ends with Sana praying \"I pray that I lose it\" as her husband leaves to die."},
+  "content_warnings": {"value": ["Suicide", "Violence", "Death", "War/Trauma", "Discrimination/Slurs"], "confidence": "high", "evidence": "\"He puts on the vest\" to blow himself up at a market; her brother was \"Driving a car of explosives into a restaurant\" and \"He killed eight Jews\"; Khalid says \"Jews are an infection\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Two roles carry pride, terror, pleading and despair."},
+  "performance_demands": {"value": ["Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Business with the vest and the farewell where he \"kneels and kisses\" her stomach."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Suicide bombing, mass killing and hate speech."},
+  "themes": {"value": ["Martyrdom and terrorism", "Family versus cause", "Cycle of violence", "Pride and honor"], "confidence": "high", "evidence": "\"How can we love pride more than life?\""},
+  "subject_matter": {"value": "A Palestinian man tells his wife he has been chosen as a suicide bomber; she pleads with him and reveals she is pregnant, but he leaves wearing the vest.", "confidence": "high", "evidence": "\"I am going to have a child.\""}
+ },
+ "IC-0751": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with bracketed stage directions and speaker labels FANNY and ALBERT."},
+  "tone": {"value": ["Satirical", "Dark"], "confidence": "high", "evidence": "A pill that cures religion skewers televangelism, alongside a gleeful killer's rant."},
+  "content_warnings": {"value": ["Violence", "Death", "Abuse", "Discrimination/Slurs", "Substance Use"], "confidence": "high", "evidence": "Wild Man \"killed his whole family of eight\" and \"strangled Granny Lucy\"; the brothers were \"loved and beaten equally\"; Fanny lumps \"gays, transexuals, former convicts\" with \"all the rot\"; \"We enjoy good wine\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Albert also plays his parents, inmates, Wild Man and Gerald."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "\"ALBERT mimics his parents\" and later plays Wild Man before and after the pill."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Graphic recounted murders and homophobic remarks."},
+  "themes": {"value": ["Science versus religion", "Faith", "Sibling rivalry", "Hypocrisy"], "confidence": "high", "evidence": "\"God is not a gland! He is the Lord!\""},
+  "subject_matter": {"value": "A scientist and his televangelist brother's wife recount how his pill that shrinks the brain's religious gland transformed a born-again murderer, the preacher and finally the wife herself.", "confidence": "high", "evidence": "\"I call the drug... Deus-X.\""}
+ },
+ "IC-0752": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play scene with speaker labels MEG and JIM and stage directions."},
+  "tone": {"value": ["Bittersweet", "Serious"], "confidence": "high", "evidence": "It closes on \"Neither can I, sweetheart. Neither can I.\""},
+  "content_warnings": {"value": ["Substance Use"], "confidence": "medium", "evidence": "Jim deflects with cocktails: \"I'd like Scotch, sweetheart\" and \"He drinks\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with heavy subtext and avoidance."},
+  "performance_demands": {"value": ["Pacing/Timing Control"], "confidence": "medium", "evidence": "Many written pauses and deflections such as \"He drinks\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Social drinking and talk of affairs, nothing explicit."},
+  "themes": {"value": ["Family and home", "Generational change", "Divorce", "Avoidance"], "confidence": "high", "evidence": "\"I want to start all over again.\""},
+  "subject_matter": {"value": "A woman whose marriage has collapsed asks her evasive father if she and her three children can move home, and he deflects with cocktails before offering only a short visit.", "confidence": "high", "evidence": "\"Could we live here, Dad?\""}
+ },
+ "IC-0753": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service play with suggested roles, speaker labels and scene notes."},
+  "tone": {"value": ["Bittersweet", "Satirical"], "confidence": "medium", "evidence": "It mocks the poker-chip programs and pill pushing yet ends with a numbed child."},
+  "content_warnings": {"value": ["Mental Health"], "confidence": "high", "evidence": "Jesse's suspected disorder: \"He is a pretty anxious child\" and \"testing for ADD might be a good idea\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The actor plays Jesse, Dad and two doctors; the actress also plays the teacher."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Quick morphs such as \"Actor morphs into Dr. Zavala\" and optional doctor accents."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Repeated strong profanity such as \"find the fucking pump\"."},
+  "themes": {"value": ["ADHD and medication", "Parenting", "School conformity", "Marriage under strain"], "confidence": "high", "evidence": "\"Is childhood a disorder now?\""},
+  "subject_matter": {"value": "A mother narrates her search for help with her nine-year-old son's behavior, from teachers and doctors to Ritalin, which leaves him numb and her husband threatening divorce.", "confidence": "high", "evidence": "\"What kind of mother drugs a nine-year-old!?\""}
+ },
+ "IC-0754": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with bracketed stage directions and speaker labels BOB and DAPHNE."},
+  "tone": {"value": ["Dark", "Ironic"], "confidence": "high", "evidence": "Cruel joke deaths are answered by a horrific story, and she returns to cooing at babies."},
+  "content_warnings": {"value": ["Death", "Suicide", "Violence", "Substance Use"], "confidence": "high", "evidence": "Daphne recounts a drunk father firing shots, \"there was my mother, just lying there\", then \"another gunshot\" until \"he wasn't crying anymore\"; her mother would \"down another fifth of vodka\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Wide swings from forced cheer to a long, harrowing story told with ambiguity."},
+  "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Reversals timed on beats such as \"Bob bursts out in laughter\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A murder-suicide is described in detail."},
+  "themes": {"value": ["Cruel humor", "Hidden trauma", "Coping masks", "Revenge"], "confidence": "high", "evidence": "\"Try and ruin my day, will he?\""},
+  "subject_matter": {"value": "At a hospital nursery window, a gloomy stranger torments a cheerful waitress with fake tragedies until she counters with a harrowing story of her father killing her mother and himself.", "confidence": "high", "evidence": "\"My wife died today.\""}
+ },
+ "IC-0755": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with a scene note and speaker labels CUSTOMER and DMV LADY."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "Bureaucratic absurdity such as \"Is that A as in aardvark\" spelled out at length."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "A comic dispute (\"There is no record of you on the computer\") with nothing sensitive."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters whose comedy depends on escalating frustration."},
+  "performance_demands": {"value": ["Pacing/Timing Control"], "confidence": "high", "evidence": "Deadpan repetition such as \"Is that a as in aardvark, g as in gesundheit\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Clean workplace comedy."},
+  "themes": {"value": ["Bureaucracy", "Frustration", "Absurdity"], "confidence": "high", "evidence": "\"We are both blameless. Isn't it a nice feeling?\""},
+  "subject_matter": {"value": "A customer whose license was lost in the computer pleads with an indifferent DMV clerk who keeps reading her book and offers absurd non-solutions.", "confidence": "high", "evidence": "\"Move out of New York.\""}
+ },
+ "IC-0756": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with speaker labels GRETCHEN and FLOYD and stage directions."},
+  "tone": {"value": ["Dark", "Bittersweet"], "confidence": "high", "evidence": "A friendly reunion ends with Gretchen alone holding two vanilla cokes."},
+  "content_warnings": {"value": ["Mental Health", "Self-harm", "Suicide"], "confidence": "high", "evidence": "Floyd says \"I been institutionalized so much\" and reminds her \"You were slicing your wrists every other week\"; she admits \"Yes, I attempted it\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with Floyd's volatile rants against her calm."},
+  "performance_demands": {"value": ["Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Floyd insists \"I'm just talking loudly\" while the repeated opening exchange returns."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Suicide attempts, self-harm, violent imagery and profanity."},
+  "themes": {"value": ["Mental illness", "Recovery", "Friendship", "Envy and abandonment"], "confidence": "high", "evidence": "\"We were sick together.\""},
+  "subject_matter": {"value": "Two former psychiatric patients reunite; Gretchen has recovered while Floyd remains tormented, and his resentment surfaces before he quietly slips away.", "confidence": "high", "evidence": "\"Because I'm not taking medication anymore.\""}
+ },
+ "IC-0757": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with long stage directions and speaker labels MARY and NIGEL."},
+  "tone": {"value": ["Bittersweet", "Lighthearted"], "confidence": "medium", "evidence": "Tears over cruel insults turn into a triumphant strut: \"I can do it!\""},
+  "content_warnings": {"value": ["Abuse"], "confidence": "low", "evidence": "Mary's stepmother demeans her and forced her feet into shoes: \"She did this to me\" with \"A tub of ice for an hour\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with physical comedy and an emotional transformation."},
+  "performance_demands": {"value": ["Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Business such as \"She takes a tumble\" and Nigel's closing lip-synch routine."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Body-shaming insults and profanity."},
+  "themes": {"value": ["Body image", "Self-acceptance", "Hidden identity", "Kindness"], "confidence": "high", "evidence": "\"I'm a powerful woman.\""},
+  "subject_matter": {"value": "An overweight lawyer in painfully tight shoes finds a late-night shoe store where Nigel, secretly a former drag performer, lends her heels and helps her find her confidence.", "confidence": "high", "evidence": "\"Thank you, Nelly.\""}
+ },
+ "IC-0758": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with speaker labels MARIA, TOM and MARIA/DR. FRITZ and stage directions."},
+  "tone": {"value": ["Whimsical", "Lighthearted"], "confidence": "high", "evidence": "A souvenir doll serves as a phone line to God."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "Comic illness from \"Food poisoning\" and slapstick; nothing sensitive occurs."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Maria switches between a mangled-English accent and a German doctor's voice."},
+  "performance_demands": {"value": ["Dialect", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Directions call for a \"German accent\" and Tom staggers \"bent over at the waist\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mild crude humor only."},
+  "themes": {"value": ["Faith and skepticism", "Absurd healing", "Light versus darkness"], "confidence": "medium", "evidence": "\"the forces of the light, and the forces of the darkness\""},
+  "subject_matter": {"value": "A sick American tourist seeks Dr. Fritz in a foreign souvenir shop, where Maria channels the bossy German doctor and a doll-phone connects him to God, curing his pain.", "confidence": "high", "evidence": "\"God vants to talk to you.\""}
+ },
+ "IC-0759": {
+  "literary_form": {"value": "Drama", "confidence": "medium", "evidence": "The book prints the web musical's script; the cutting has speaker labels, scene changes and stage directions."},
+  "tone": {"value": ["Lighthearted", "Bittersweet"], "confidence": "high", "evidence": "Goofy supervillain comedy ends with Penny's death and his hollow \"and I am fine\"."},
+  "content_warnings": {"value": ["Death", "Violence"], "confidence": "high", "evidence": "\"Moist dies\" when the death ray is tested, \"a fist fight ensues\", and Penny, hit by shrapnel, \"she dies\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "The actress plays six roles including a freeze ray; there is song, pantomime and a death scene."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "\"Pantomime sequence of a battle\" and lyrical passages."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Comic-book violence and death with innuendo."},
+  "themes": {"value": ["Villainy and heroism", "Unrequited love", "Ambition", "Unintended consequences"], "confidence": "high", "evidence": "\"Here lies everything.\""},
+  "subject_matter": {"value": "Aspiring supervillain Dr. Horrible pines for Penny, loses her to his nemesis Captain Hammer, and builds a death ray whose explosion kills her.", "confidence": "high", "evidence": "\"Captain Hammer will save us.\""}
+ },
+ "IC-0760": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A screenplay cutting with suggested roles, speaker labels and scene changes."},
+  "tone": {"value": ["Whimsical", "Satirical"], "confidence": "high", "evidence": "Rhyming townsfolk and a man who sells bottled air mock greed."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "A family environmental fable (\"I speak for the trees\") with no sensitive content."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Each performer plays about a dozen characters."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Many roles and business such as the Mom's disco dance and Once-ler chopping a tree."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "A children's story with no mature content."},
+  "themes": {"value": ["Environmentalism", "Greed", "Corporate power", "Hope and activism"], "confidence": "high", "evidence": "\"Unless someone like you cares a whole awful lot\""},
+  "subject_matter": {"value": "Ted seeks a real tree to impress Audrey, hears the Once-ler's story of destroying the Truffula forest, and rallies Thneedville to plant the last seed despite O'Hare.", "confidence": "high", "evidence": "\"The last Truffula Seed.\""}
+ }
+}

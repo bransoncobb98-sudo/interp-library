@@ -1,0 +1,402 @@
+{
+ "IC-0561": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of a Scholastic novel with narrator lines such as \"begins with a plane crash\" and added speaker labels."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "Pageant patriotism is mocked in lines like \"a nation built upon dreams\" and \"the establishment of your personal brand\"."},
+  "content_warnings": {"value": ["Death", "Violence", "War/Trauma", "Discrimination/Slurs"], "confidence": "medium", "evidence": "A plane crash kills people (\"Miss Delaware just died\", \"Everybody else is dead.\"), a girl has \"half of an airline serving tray is sticking out\" of her head, and ethnocentric jokes include \"There are people in heathen China\" and \"Is your village close?\""},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two performers cover fourteen speakers, including Taylor speaking \"with strong Texas accent\"."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality"], "confidence": "high", "evidence": "Many contestants, a stated accent (\"with strong Texas accent\") and business like \"standing in perfect three-quarters stance\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Crash deaths and mild slurs are played as satire without graphic detail."},
+  "themes": {"value": ["Pageant culture satire", "Survival", "Leadership", "Stereotypes and prejudice", "Media sensationalism", "Government cover-up"], "confidence": "medium", "evidence": "Leadership speeches, the jungle search and the call about \"Operation Peacock\" drive the cutting."},
+  "subject_matter": {"value": "Teen beauty pageant contestants survive a plane crash on a remote island and squabble over leadership and pageant practice while a secret agent learns they are being left for dead.", "confidence": "high", "evidence": "\"They are all beauty queen contestants\" and \"The official word is that there were no survivors.\""}
+ },
+ "IC-0562": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A scene from a Dramatic Publishing collection with speaker labels and stage directions such as \"Jenny looks around the room, distracted\"."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Teasing gives way to the parting \"Look after him for me\" and Ran's whispered \"Somebody does.\""},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "No sensitive content; the only dark image is a joke about pizza that \"looked like a dead animal\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two sisters move from banter to the outburst \"I am not mad at you!\" and a tender goodbye."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "Two distinct sisters and stated business such as Ran \"manages to turn it into an awkward hug\"."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "A gentle family scene with no mature content."},
+  "themes": {"value": ["Sibling bond", "Leaving home", "Fear of change", "Growing up"], "confidence": "high", "evidence": "\"You’re the one who’s leaving\" frames the whole scene around Jenny going to college."},
+  "subject_matter": {"value": "On the day her older sister leaves for college, fourteen-year-old Ran hangs around Jenny's room trading memories and pretending not to care until they share a hug.", "confidence": "high", "evidence": "\"I’m packing\" and the closing gift of the stuffed animal."}
+ },
+ "IC-0563": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Smith and Kraus duo play with labels CLAIRE and ELISA and directions; Claire is \"the producer of this new reality show\"."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "Reality TV is mocked in lines like \"Nothing more fun than watching your fellow man get tortured\"."},
+  "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "medium", "evidence": "Elisa offers a fear of \"You know midgets, little people\" as juicy material and calls herself \"white trash, red necks\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Elisa keeps reinventing herself, at one point she \"affects cool boredom\" before an angry tirade."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Elisa changes pitch and posture as \"She slouches extravagantly\" and later yells and swaggers."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mild insults and references only."},
+  "themes": {"value": ["Reality TV exploitation", "Fame and authenticity", "Manipulation"], "confidence": "high", "evidence": "\"Just be yourself\" is set against the producer's search for prison types."},
+  "subject_matter": {"value": "A reality-show producer interviews an eager Utah finalist and rejects every version of her until Elisa's furious outburst wins her a place on a prison-themed show.", "confidence": "high", "evidence": "\"Our show is called The Big House\" and \"We start taping next week.\""}
+ },
+ "IC-0564": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play from Plays for Two with speaker labels and directions such as \"Pearl begins to sing Off stage\"."},
+  "tone": {"value": ["Earnest", "Serious"], "confidence": "high", "evidence": "Susannah hopes to prove \"a song can be stronger than even slavery chains\" while the women argue over freedom and faith."},
+  "content_warnings": {"value": ["Death", "Violence", "Discrimination/Slurs"], "confidence": "medium", "evidence": "Pearl says \"I took a knife and killed a man\", and slavery and racial control run through lines like \"So I be your slave girl now\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Written dialect (\"You be on the parole board\") plus several sung spirituals and a wide emotional range."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Pearl's dialect contrasts with Susannah's speech, and Pearl sings songs such as \"Down on me, Lord\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A killing is mentioned in one line and racial oppression is discussed without graphic detail."},
+  "themes": {"value": ["Race and power", "Preserving folk song", "Women's ambition", "Faith", "Freedom and custody"], "confidence": "high", "evidence": "The parole \"into my custody\" and the prayer argument carry these themes."},
+  "subject_matter": {"value": "In a 1933 Texas prison a Library of Congress song collector records an imprisoned Black singer, wins her parole, and the two clash over faith and control before performing in New York.", "confidence": "high", "evidence": "\"I work for the Library of Congress\" and \"The governor expects us to go to New York.\""}
+ },
+ "IC-0565": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Smith and Kraus duo play with directions such as Rebecca \"overly stresses the iambic pentameter\"."},
+  "tone": {"value": ["Lighthearted", "Earnest"], "confidence": "high", "evidence": "Comic banter (\"the whole quesadilla\") gives way to a sincere exchange about love."},
+  "content_warnings": {"value": ["Sexual Content", "Substance Use"], "confidence": "medium", "evidence": "Diane describes a boy \"trying to unpeel you\" and being \"a little buzzed because the guy\" she liked was with another girl, and recalls \"Dad drinking too much and yelling\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two contrasting students shift between modern talk and Shakespeare's verse."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Directions call for \"Laying on the sexiness.\" and \"Diane kisses Rebecca.\""},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Frank sexual description and teen drinking appear, though without explicit acts."},
+  "themes": {"value": ["Shakespeare and real love", "Unlikely friendship", "Teen romance and sexuality", "Book learning vs experience"], "confidence": "high", "evidence": "\"How can you act love if you don't know love?\" frames the scene."},
+  "subject_matter": {"value": "Two mismatched classmates rehearsing Romeo and Juliet's first meeting argue about love and sex until they swap roles and finally understand the scene.", "confidence": "high", "evidence": "\"Let's switch places.\" and the shared sonnet that follows."}
+ },
+ "IC-0566": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A one-act from a Meriwether collection opening with the direction \"A CUSTOMER enters the coffee shop\"."},
+  "tone": {"value": ["Lighthearted", "Satirical"], "confidence": "high", "evidence": "The waitress's endless options, offered as \"a limited selection of the most popular brands\", mock consumer choice."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "No sensitive content; health jokes like \"going fast with a coronary\" are hypothetical."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters sustain rapid comic exchanges and long lists."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Rapid-fire questions such as \"Whole, skim, or two-per?\" drive the comedy."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "Clean workplace comedy."},
+  "themes": {"value": ["Overwhelming consumer choice", "Decision paralysis", "Technology and taste"], "confidence": "high", "evidence": "\"If it's a choice, you can quantify it\" versus the waitress's faith in taste."},
+  "subject_matter": {"value": "A customer trying to order a simple breakfast is buried under a waitress's endless options for coffee and bran cereal and finally settles for an egg and toast.", "confidence": "high", "evidence": "\"Just bring me an egg and toast.\""}
+ },
+ "IC-0567": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A SpeechGeek play in scenes with directions such as \"PAIGE directly addresses the audience\"."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Jokes sit beside dying, ending with \"I found joy in sadness.\""},
+  "content_warnings": {"value": ["Death", "Grief"], "confidence": "high", "evidence": "Paige reports \"Evan had a stroke this morning\" and he dies, and she grieves in \"I still feel him when I breathe\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Shifts between narration and scenes and from banter to Evan's letter about \"presents with advanced death\"."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Evan \"launches into an intense coughing fit\" and Paige moves in and out of direct address."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A death from illness handled without graphic detail."},
+  "themes": {"value": ["Love and mortality", "Humor as coping", "Doctor-patient boundaries", "Grief"], "confidence": "high", "evidence": "\"I’m not allowed to feel like this\" and Evan's constant jokes."},
+  "subject_matter": {"value": "A first-year doctor falls in love with a joking young patient dying of cystic fibrosis and, after his death, finds his final letter to her.", "confidence": "high", "evidence": "\"I’m dying of cystic fibrosis\" and the letter \"Dear Paige\"."}
+ },
+ "IC-0568": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play cut with speaker labels, page cues and the note on \"varying degrees of a southern drawl\"."},
+  "tone": {"value": ["Earnest", "Bittersweet", "Serious"], "confidence": "high", "evidence": "The climax is the plea \"I need you to love me\" and a painful parting."},
+  "content_warnings": {"value": ["Discrimination/Slurs", "Death", "Grief"], "confidence": "medium", "evidence": "A baker refuses a same-sex wedding cake and Macy cries \"Why do you hate me\", while Jen mourns a mother \"gone almost five years\" (\"Your mama is dying all over again\")."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One actress plays both Macy and Della, with southern and New York voices."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect"], "confidence": "high", "evidence": "The text asks for \"varying degrees of a southern drawl\" against Macy's New York voice."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Religious refusal and some profanity, no graphic content."},
+  "themes": {"value": ["Faith vs acceptance", "Same-sex marriage", "Family love and rejection", "Hometown identity", "Grief for a mother"], "confidence": "high", "evidence": "\"I am straddling two worlds\" and Della's \"It just - does not sit right with me.\""},
+  "subject_matter": {"value": "Jen brings her fiancee Macy to her North Carolina hometown to order a wedding cake from her late mother's best friend Della, who refuses on religious grounds.", "confidence": "high", "evidence": "\"I am so sorry, but you’re right. I think I am all backed up\" and the later confrontation."}
+ },
+ "IC-0569": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting of Stephen King's novel (Pocket) with added speaker labels MARGARET and CARRIE."},
+  "tone": {"value": ["Dark"], "confidence": "high", "evidence": "Religious terror and murder, as in \"Thou shalt not suffer a witch to live\"."},
+  "content_warnings": {"value": ["Violence", "Abuse", "Death", "Suicide", "Sexual Content", "Substance Use"], "confidence": "high", "evidence": "Margaret \"swings her whole arm into the blow\" and attacks with a knife, says \"I almost killed myself\", describes sex (\"That woman place\") and the whisky (\"smelled the whisky on his breath\"), and Carrie \"crumples into tears over her\" dead mother."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Escalating religious frenzy, a knife attack and a slow killing with the prayer cut into fragments."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Margaret \"lifts the knife to bring it down\" while her screams and prayers alternate with Carrie's whispers."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Child abuse, sexual references, attempted murder and a death."},
+  "themes": {"value": ["Religious fanaticism", "Mother-daughter abuse", "Shame and sexuality", "Power and revenge"], "confidence": "high", "evidence": "\"I only want to be let to live my own life\" against Margaret's sermons on sin."},
+  "subject_matter": {"value": "When Carrie announces a prom invitation, her fanatical mother beats her and tries to stab her, and Carrie uses telekinesis to stop her mother's heart.", "confidence": "high", "evidence": "\"I’ve been invited to the Spring Ball\" and \"I’m picturing your heart, Momma.\""}
+ },
+ "IC-0570": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play from Dramatic Publishing with labels JEN and MOTHER and directions like \"Barest pause\"."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Word games give way to loss, ending \"But still she is waving.\""},
+  "content_warnings": {"value": ["Substance Use", "Mental Health"], "confidence": "medium", "evidence": "\"She drinks more wine than before\" and Jen is on her \"third glass of merlot\", while the mother withdraws and \"sleeps in patches through the following day\" and later loses words after \"a series of tiny strokes\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Ages from twelve to adulthood, verse games and the mother's dissolving language."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Rapid rhyme games and timed pauses such as \"Barest pause\" shape the piece."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drinking and illness without graphic content."},
+  "themes": {"value": ["Language and identity", "Mother-daughter distance", "Memory loss", "Aging parent"], "confidence": "high", "evidence": "\"Words are king and queen\" and the later \"List in the Mist\"."},
+  "subject_matter": {"value": "A daughter traces her life with a word-loving mother, from bedtime stories and poetry games through withdrawal and drinking to the small strokes that take her mother's words.", "confidence": "high", "evidence": "\"We play Poem-itation\" and \"I can’t remember anything.\""}
+ },
+ "IC-0571": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A SpeechGeek play with labels JANE. and BETH. and headings such as \"TRANSITION TO 1954\"."},
+  "tone": {"value": ["Bittersweet", "Earnest", "Serious"], "confidence": "high", "evidence": "Old resentment resolves into the shared line \"Not bad for two ordinary girls\"."},
+  "content_warnings": {"value": ["War/Trauma", "Suicide", "Mental Health"], "confidence": "high", "evidence": "Wartime service and its cost (\"Pete suffers a great deal from his time in the war\"), Beth's confession that she \"tried to end it twice\", and her sense of being \"some crazy person whose house is filled\" with ghosts."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Constant jumps between 1942, 1944 and 1954 with British voices and a sharp emotional climax."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Jane's written Cockney (\"We was there\", \"Working, my bum\") contrasts with Beth's posh speech."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "A recounted suicide attempt and depression."},
+  "themes": {"value": ["Women's hidden war work", "Friendship and betrayal", "Secrecy and recognition", "Domestic life vs ambition"], "confidence": "high", "evidence": "\"We were sworn to invisibility!\""},
+  "subject_matter": {"value": "In 1954 a wandering former Bletchley Park codebreaker visits her old partner, now a housewife, and flashbacks reveal why they split and what wartime secrecy cost them.", "confidence": "high", "evidence": "\"The war. Bletchley Park.\" and \"I never forgave you for leaving.\""}
+ },
+ "IC-0572": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play with labels KELLI and ARLIN and directions such as \"hurls her water glass against a wall\"."},
+  "tone": {"value": ["Earnest", "Lighthearted", "Bittersweet"], "confidence": "medium", "evidence": "Awkward comedy turns to honesty about HIV and ends with \"a commencement\"."},
+  "content_warnings": {"value": ["Substance Use", "Discrimination/Slurs"], "confidence": "medium", "evidence": "Kelli drinks heavily (\"Kelly downs the shot of Johnnie Walker\") and reacts with prejudice (\"Could be the lesbian, gotta go\")."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Moves from farce through drunken bitterness to quiet intimacy."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Arlin \"hurls her water glass against a wall\" and Kelli is \"starting to slur her words\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Drinking and prejudice are shown, with no graphic content."},
+  "themes": {"value": ["Prejudice and stereotypes", "Loneliness", "Unexpected connection", "Mortality and HIV"], "confidence": "high", "evidence": "\"Because I have HIV? I get scared sometimes.\""},
+  "subject_matter": {"value": "A straight woman finds her blind date is a lesbian, and an evening of insults, drinking and a cut from broken glass ends in an honest, tender connection.", "confidence": "high", "evidence": "\"The date Arlin?\" and the Band-Aid scene."}
+ },
+ "IC-0573": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Smith and Kraus duo play with labels and directions such as \"Grace reaches for a box of cake mix\"."},
+  "tone": {"value": ["Lighthearted", "Satirical"], "confidence": "high", "evidence": "Competitive mothers confess fakery like \"Frozen Italian Dinners\" and \"Gel-filled bras.\""},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "No sensitive content; mishaps such as \"three fire trucks and several smoke inhalations\" are comic exaggeration."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters trade escalating one-upmanship and then confessions."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Quick-fire reveals such as \"Gel-filled bras.\" depend on timing."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "Clean domestic comedy."},
+  "themes": {"value": ["Competition between friends", "Keeping up appearances", "Motherhood pressures", "Honesty"], "confidence": "high", "evidence": "\"You always have to one up me.\""},
+  "subject_matter": {"value": "Two friends who compete over cooking, decorating and their children confess that their talents are faked and decide to buy a bakery cake together.", "confidence": "high", "evidence": "\"I can't live the lie anymore\" and \"Let's go to the bakery\"."}
+ },
+ "IC-0574": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play with labels such as RADIO ANNOUNCER and NASA VOICE ON RADIO 1."},
+  "tone": {"value": ["Serious", "Bittersweet"], "confidence": "high", "evidence": "A child's guilt ends the piece: \"all the lint off the Lifesaver\"."},
+  "content_warnings": {"value": ["Death", "Grief", "War/Trauma"], "confidence": "high", "evidence": "The launch explodes and \"the bodies have been found\" after \"the Shuttle disaster\", and the child sobs \"GIVE ME BACK MY MOMMY\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Many roles, and Elizabeth \"morphs into her 5-year-old self\" from her adult narration."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Two actors cover teacher, child, radio voices and a beachcomber, with business like Elizabeth \"morphs into her 5-year-old self\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A historical disaster and a parent's death without gore."},
+  "themes": {"value": ["Loss of a parent", "Childhood guilt", "Ambition and risk", "Space exploration"], "confidence": "high", "evidence": "\"People always believed if you defied gravity, you were that much closer to God.\""},
+  "subject_matter": {"value": "The daughter of a teacher-astronaut recalls, as child and adult, the days before the Challenger launch, her mother's death and the small reasons she blamed herself.", "confidence": "high", "evidence": "\"The last time I saw my mother was in a visiting room\" and her list of reasons."}
+ },
+ "IC-0575": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service sketch with suggested roles and labels such as DR. KINCAID."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "The group opens with \"Are you alive?\" and mocks how Disney films treat mothers."},
+  "content_warnings": {"value": ["Death", "Violence", "Substance Use"], "confidence": "medium", "evidence": "Comic accounts of being \"Shot dead in the first then minutes\" by a hunter who \"Pops a cap\", and a drunk mother asking for \"just a drop of Kahlua\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two performers cover ten characters with accents and songs."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Dialect"], "confidence": "high", "evidence": "A French accent (\"am I in zee right room\"), elephant trumpets and snatches of song."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Cartoon deaths and drinking jokes with bleeped profanity."},
+  "themes": {"value": ["Absent mothers in fairy tales", "Parody of support groups", "Disney stereotypes"], "confidence": "high", "evidence": "\"Most of the Disney girls were not raised by their mothers.\""},
+  "subject_matter": {"value": "The dead or missing mothers of Disney heroines meet in a group therapy session to vent about how the films killed them off and left their children to be raised by others.", "confidence": "high", "evidence": "\"Welcome to the Disney Mom’s Support Group\" opening line and the introductions."}
+ },
+ "IC-0576": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with labels DOLORES and SANDRA and directions such as \"removes sunglasses, revealing a black eye\"."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "It ends with the news that Jerry \"Bled to death on Broad street\"."},
+  "content_warnings": {"value": ["Abuse", "Violence", "Death", "Sexual Assault"], "confidence": "medium", "evidence": "Dolores lists being \"whacked, kicked, pushed down stairs\" and \"woken up in the middle of the night for hard sex\", Sandra was \"punched in the face\", and Dolores says \"I shot him, Sandra\" before \"Police found Jerry in his car\" dead."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Thick written dialect and swings from fury to fear to confession."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Written Rhode Island speech such as \"Sunday aftanoon Vinnie takes the kids\" for both sisters."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Domestic violence, coerced sex and a fatal shooting."},
+  "themes": {"value": ["Domestic violence", "Sisterhood", "Denial", "Desperation"], "confidence": "high", "evidence": "\"I lied before about when I said that, uh, Vinnie only shoved me.\""},
+  "subject_matter": {"value": "A battered woman begs her reluctant sister for shelter; the sister admits her own husband hits her, and then learns Dolores shot her husband, who has died.", "confidence": "high", "evidence": "\"He wants to kill me!\" and \"Bled to death on Broad street.\""}
+ },
+ "IC-0577": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A ten-minute play with labels ANA and CHERYL and bracketed translations of the Spanish."},
+  "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "high", "evidence": "Ana's account of \"two hearts in one body\" turns despair into tenderness."},
+  "content_warnings": {"value": ["Mental Health", "Death", "Grief"], "confidence": "high", "evidence": "Cheryl's postpartum despair (\"I wanted her to be dead.\") and Ana's lost babies, one whose \"Her body was born-but her soul\" was gone."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "A bilingual scene of slow revelation with deep grief."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "medium", "evidence": "Spanish and English voices and gestures such as \"Cradles an imaginary baby.\""},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Infant loss and depression without graphic detail."},
+  "themes": {"value": ["Postpartum depression", "Motherhood", "Communication beyond language", "Loss of a child"], "confidence": "high", "evidence": "\"Nos entendemos aqui. [We understand each other here.]\""},
+  "subject_matter": {"value": "In a maternity ward a depressed new mother who cannot bring herself to hold her baby confides in a Spanish-speaking roommate, who reveals she has lost three children.", "confidence": "high", "evidence": "\"Because I've never held her.\" and Ana holding up three fingers."}
+ },
+ "IC-0578": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A screenplay (New Line Cinema) cut with labels such as VOICE OVER and page cues."},
+  "tone": {"value": ["Satirical", "Dark", "Lighthearted"], "confidence": "high", "evidence": "Pageant piety (\"Jesus loves winners\") meets a contestant's death played for laughs."},
+  "content_warnings": {"value": ["Death", "Violence"], "confidence": "high", "evidence": "\"the float EXPLODES\" and the pastor mourns a dream that \"brought about her untimely death\"; Tess's dog went away \"after he attacked me\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two performers split fifteen roles across interviews, talent numbers and a funeral."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Amber \"performs an amazing tap dance routine\" and the actors sing, cheer and bark."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Comic violence and a death, mild profanity."},
+  "themes": {"value": ["Pageant culture satire", "Small-town ambition", "Ruthless competition", "Mothers and daughters"], "confidence": "high", "evidence": "\"all but one of these girls will walk out of here a loser.\""},
+  "subject_matter": {"value": "Contestants in a small-town Minnesota teen pageant compete until the winner dies when her parade float explodes and runner-up Amber is crowned.", "confidence": "high", "evidence": "\"the float EXPLODES!\" and Iris putting the tiara on Amber."}
+ },
+ "IC-0579": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service script with labels ECHO, DOROTHEA and ARTIE and directions such as \"Echo steps into the scene as Dorothea\"."},
+  "tone": {"value": ["Earnest", "Bittersweet", "Serious"], "confidence": "high", "evidence": "Love that is \"always yes and no\" between three generations."},
+  "content_warnings": {"value": ["Death", "Abuse"], "confidence": "medium", "evidence": "\"my husband died in a car accident\" and Artie admits what Dorothea called \"intellectual child abuse\" of Echo."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One actress plays Dorothea and Echo while scenes jump across decades and into narration."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Constant role switches and business like Artie \"running, flapping\" in wings."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "A death, an abortion and emotional neglect are recounted without graphic detail."},
+  "themes": {"value": ["Three generations of women", "Parental expectations", "Abandonment", "Love of words"], "confidence": "high", "evidence": "\"Did you love me? When you left me with her?\""},
+  "subject_matter": {"value": "A teenage spelling champion, her mother and her eccentric grandmother replay key moments, from homemade wing experiments to abandonment and a spelling bee win, as they try to reconcile.", "confidence": "high", "evidence": "\"Eleemosynary. That's the one I won with.\""}
+ },
+ "IC-0580": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A short play with labels FIN and EUBA and bracketed directions such as Euba \"holds a lighter up to the letter\"."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Fin's insistence \"You are NOT stuck\" against Euba's fear."},
+  "content_warnings": {"value": ["Mental Health", "Substance Use"], "confidence": "medium", "evidence": "Euba has a panic attack (\"Afraid to go. Afraid to stay.\") and describes a man coming into her room \"so blind from drunk\"."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Written Southern dialect, overlaps and a climb from banter to panic."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Physicality"], "confidence": "high", "evidence": "Speech such as \"have no rules, neither\" and business where Euba \"holds a lighter up to the letter\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Anxiety and a passing reference to drunkenness."},
+  "themes": {"value": ["Fear of failure", "Dreams vs reality", "Friendship", "Poverty and escape"], "confidence": "high", "evidence": "\"Dreamin' is dreamin,' that's all it is.\""},
+  "subject_matter": {"value": "Two mill workers in a Florida rooming house argue on the porch over an unopened letter from Life magazine until Euba, paralysed by fear, burns it.", "confidence": "high", "evidence": "\"From Life magazine?\" and \"She lights the papers.\""}
+ },
+ "IC-0581": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play with labels MARY and LUELLEN and the device \"To Audience/Dictation\"."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "Clinical case notes frame a mother's denial, ending in \"final adoptive placement\"."},
+  "content_warnings": {"value": ["Abuse", "Violence"], "confidence": "high", "evidence": "Case notes list \"a broken wrist\" and \"burn marks on the child\", and Mary describes hands held \"on a hot stove till he had\" burns."},
+  "difficulty": {"value": "Advanced", "confidence": "medium", "evidence": "Luellen moves from fantasy to menace to childish denial while Mary shifts between dictation and confrontation."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Luellen's written dialect (\"her neighbors is\" moving) contrasts with Mary's formal dictation."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Detailed child abuse and threats of violence."},
+  "themes": {"value": ["Child abuse", "Parental rights", "Social work", "Denial"], "confidence": "high", "evidence": "\"I didn't. . . I never done -- Ray. Ray done it.\""},
+  "subject_matter": {"value": "A mother whose son was removed for abuse walks miles to her caseworker's office, pleads and then threatens to get him back, and the boy is placed for adoption.", "confidence": "high", "evidence": "\"I want to see Jimmy.\" and the closing dictation."}
+ },
+ "IC-0582": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A screenplay cut with labels MOLLY, MOM, NURSE and DOCTOR."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "Blunt medical truth such as \"Heroin has a 97 percent relapse rate\"."},
+  "content_warnings": {"value": ["Substance Use", "Sexual Content"], "confidence": "high", "evidence": "Molly lists \"Heroin, methadone and some crack\" and admits \"I have had sex for drugs\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Rapid manipulation and mood swings, as in \"quick change of emotion to tears again\"."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "One actress plays Mom, Nurse and Doctor while Molly shifts through \"quick change of emotion to tears again\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Hard drug use and sex for drugs are discussed directly."},
+  "themes": {"value": ["Addiction and recovery", "Mother-daughter trust", "Tough love", "Shame"], "confidence": "high", "evidence": "\"How much heroin have I paid for?\""},
+  "subject_matter": {"value": "A heroin-addicted daughter returns home, goes through detox and must stay clean to get an opioid-blocking shot, while her mother struggles to trust her as Molly lies again.", "confidence": "high", "evidence": "\"I’ll drive you to detox right now\" and the fake phone call."}
+ },
+ "IC-0583": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Faber play cut with labels NANCY, AGNETHA and RALPH and scene headings."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "The killer says his only regret is that it is not legal: \"Killing girls.\""},
+  "content_warnings": {"value": ["Death", "Violence", "Sexual Assault", "Suicide", "Abuse", "Grief"], "confidence": "high", "evidence": "\"The earth floor contains the remains\" of children, Nancy recounts that \"he sexually assaulted her before\" smothering her, Ralph's father beats him (\"sound of a thump on flesh\"), and Ralph \"hangs, choking, jerking\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Three characters split between two actors, clinical lectures and raw grief."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Ralph is played by both actors and stated business includes \"Fashioning a noose with his belt\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Child murder, sexual assault, abuse and suicide."},
+  "themes": {"value": ["Forgiveness", "Evil vs illness", "Grief of a parent", "Remorse"], "confidence": "high", "evidence": "\"the difference between a sin and a symptom\" and \"She was my little girl!\""},
+  "subject_matter": {"value": "A mother whose daughter was murdered, a psychiatrist studying the killer and the serial killer himself meet, and after the mother forgives him he feels remorse and hangs himself.", "confidence": "high", "evidence": "\"I want you to know I forgive you\" and Ralph's death in his cell."}
+ },
+ "IC-0584": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service play with labels CORRYN and HEATHER and directions such as \"Heather pulls out a key ring\"."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "A mother's grief and guilt peak in \"This was my good mother moment\"."},
+  "content_warnings": {"value": ["Suicide", "Death", "Grief", "Violence", "Discrimination/Slurs"], "confidence": "high", "evidence": "The boy \"shot himself in the head\" and left a note, a classmate called him \"a lying faggot\", and his story describes how children \"cut out his eyes, flayed him\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "A long graphic story read aloud, hostile silences and a mother's escalating fury."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Heather's written silences against Corryn's outbursts such as \"Who the hell are you\" to tell her son what to write."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A child's suicide and graphic violent writing."},
+  "themes": {"value": ["Child suicide", "Artistic freedom", "Parental guilt", "Teacher responsibility", "Bullying"], "confidence": "high", "evidence": "\"I have a responsibility to my students\" versus \"This is magnificent!\""},
+  "subject_matter": {"value": "The mother of a fifth grader who killed himself confronts his young teacher about his suspension, has her read his violent story aloud and describes finding him.", "confidence": "high", "evidence": "\"You suspended my son over a story?\" and the account of the garage."}
+ },
+ "IC-0585": {
+  "literary_form": {"value": "Prose", "confidence": "high", "evidence": "A cutting from the story collection Bad Dolls (Titan Books), narrated by Meg to the audience with added roles."},
+  "tone": {"value": ["Dark", "Satirical"], "confidence": "high", "evidence": "A mock ad (\"Goodbye Chubby, Hello Hubby\") leads to self-loathing and horror."},
+  "content_warnings": {"value": ["Mental Health", "Violence"], "confidence": "high", "evidence": "Meg's eating disorder (\"I knew I could starve\") ends with her purging as she \"sticks her finger down her throat\", and the goblin bites her (\"fangs dripping blood\") before she \"squeezes the Goblin until the screaming stops\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Narration, a commercial, a creature voice and a disturbing climax."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "The goblin \"slaps the nugget out of her hand\" and speaks in a gruff voice."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Graphic purging and disordered eating."},
+  "themes": {"value": ["Diet culture", "Eating disorders", "Shame and self-image", "Heartbreak"], "confidence": "high", "evidence": "\"For me, hunger was nostalgia\" and the wedding of her ex."},
+  "subject_matter": {"value": "Meg downloads a weight-loss app that sends a cruel goblin to police her eating, and at her ex's wedding it drives her to purge until she crushes and eats it.", "confidence": "high", "evidence": "\"You just download the app and you get a Goblin\" and the bathroom scene."}
+ },
+ "IC-0586": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Meriwether two-character play with labels MS. WILSON and ANNA and the direction \"With an accent\"."},
+  "tone": {"value": ["Lighthearted", "Earnest", "Ironic"], "confidence": "medium", "evidence": "Anna's literal readings (\"Low man? You not a woman?\") lead to her calling Wilson \"You are the doorkeeper\"."},
+  "content_warnings": {"value": ["Discrimination/Slurs"], "confidence": "low", "evidence": "The officer is dismissive of immigrants, sighing \"They just keep coming and coming\", and Anna says Wilson sounds like she does not like them."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters with an accent and a shift from comedy to the closing silence."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation"], "confidence": "high", "evidence": "Anna speaks \"With an accent\" in lines like \"Ever since I little girl\"."},
+  "audience_level": {"value": "Middle School", "confidence": "medium", "evidence": "Mild bureaucratic rudeness only."},
+  "themes": {"value": ["Immigration and citizenship", "American ideals", "Bureaucracy", "Taking freedom for granted"], "confidence": "high", "evidence": "\"Some people say they are going to put a lock on it.\""},
+  "subject_matter": {"value": "A weary immigration officer's interview with an eager immigrant turns when Anna recites Emma Lazarus's poem about the golden door and asks whether it will be locked.", "confidence": "high", "evidence": "Anna reads The New Colossus and asks about a lock."}
+ },
+ "IC-0587": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play with labels EDNA and BONNA and stage business such as \"In a British accent\"."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "\"I thought it was going to be like that forever\" before the friendship breaks."},
+  "content_warnings": {"value": ["Discrimination/Slurs", "Violence"], "confidence": "high", "evidence": "Edna's family rule \"No Negro Kids Can Come In Our House\" and Uncle Don's \"why not send them back\", then \"Kimmy shoves her\" and \"Bonna slaps Edna hard\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Eleven speakers, narration, songs and dances across years."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Written dialect (\"She run home crying\"), a put-on British accent, singing and the Tighten Up dance."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Racism and a slap shown without graphic content."},
+  "themes": {"value": ["Interracial friendship", "Segregation and prejudice", "Music and memory", "Growing apart"], "confidence": "high", "evidence": "\"From second we walked through those school doors we all automatically split\"."},
+  "subject_matter": {"value": "In late-1960s Seattle a white girl and a Black girl become best friends through music, but prejudice and junior high segregation drive them apart until Bonna slaps Edna.", "confidence": "high", "evidence": "\"My Best Friend Bonna\" and the hallway fight."}
+ },
+ "IC-0588": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play cut with labels GRACE and GLORIA and page cues and directions."},
+  "tone": {"value": ["Serious", "Earnest", "Bittersweet"], "confidence": "high", "evidence": "Grace's last wisdom is to \"hold on to each other with all our might\"."},
+  "content_warnings": {"value": ["Death", "Grief", "Mental Health"], "confidence": "medium", "evidence": "Gloria's son \"was killed in an automobile accident\", Grace lost her sons (\"Gun went off.\"), and Gloria says \"I just shut down\" after his death."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Written rural dialect for a dying 90-year-old against a city lawyer, with shouting and pain."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Vocal Variety"], "confidence": "high", "evidence": "Grace's speech (\"Doctor come. Said these things just happen.\") and her singing contrast with Gloria."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Recounted child deaths, grief and a dying woman in pain, without graphic detail."},
+  "themes": {"value": ["Faith and doubt", "Grief over children", "Dying with dignity", "Unlikely friendship"], "confidence": "high", "evidence": "\"What kind of God is this?\""},
+  "subject_matter": {"value": "A hospice volunteer who lost her son in a car crash tends a dying, illiterate ninety-year-old farm woman, and each shakes and steadies the other's faith.", "confidence": "high", "evidence": "\"I’m a volunteer with an organization\" and \"I’m dying -- got a few weeks.\""}
+ },
+ "IC-0589": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A scene from a Meriwether collection with labels KATHY and JULIA."},
+  "tone": {"value": ["Serious", "Earnest"], "confidence": "high", "evidence": "A frank sibling argument ending \"God, this sucks.\""},
+  "content_warnings": {"value": ["Mental Health"], "confidence": "low", "evidence": "Their grandfather's dementia is described in detail: \"He peed all over himself\" and the \"horrible humiliating disease called Alzheimer\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two sisters move from sniping (\"Martyr mode. Good.\") to shared fear."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety"], "confidence": "medium", "evidence": "Two opposed sisters whose argument escalates from \"Martyr mode. Good.\" to quiet confession."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Illness and talk of mercy killing without graphic content."},
+  "themes": {"value": ["Alzheimer's and family", "Sibling conflict", "Dignity in dying", "Fear of heredity"], "confidence": "high", "evidence": "\"Why is it humans are forced to live a life of degradation?\""},
+  "subject_matter": {"value": "Two sisters fight over chores and their grandfather's decline from Alzheimer's until they admit their grief and fears and agree to talk with their mother.", "confidence": "high", "evidence": "\"Grandpa is dying.\" and \"I think we should talk to her.\""}
+ },
+ "IC-0590": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service musical with sung lines such as \"SHE IS THE GIRL WHO HAS EVERYTHING\"."},
+  "tone": {"value": ["Bittersweet", "Ironic"], "confidence": "medium", "evidence": "The glamorous song is turned against Edie, who still answers \"Coming, Mother Darling!\""},
+  "content_warnings": {"value": ["Abuse"], "confidence": "low", "evidence": "Edith mocks her daughter in song (\"BALD AND FAT\") and Edie recalls her father \"screaming at me all the time\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Singing, a jump from 1941 to the 1970s and overlapping arguments."},
+  "performance_demands": {"value": ["Vocal Variety", "Character Differentiation", "Pacing/Timing Control"], "confidence": "high", "evidence": "Songs plus a passage where \"Following lines are spoken over one another\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Emotional cruelty without graphic content."},
+  "themes": {"value": ["Codependent mother and daughter", "Faded glamour", "Lost chances", "Isolation"], "confidence": "high", "evidence": "\"I think the saddest thing was my not marrying.\""},
+  "subject_matter": {"value": "Big Edie and Little Edie Beale move from a 1941 engagement party, where Edith's showboating drives off a suitor, to decades later in their decaying mansion, where Edie cannot leave.", "confidence": "high", "evidence": "\"You got rid of him in fifteen minutes flat\" and Edie frozen at the garden gate."}
+ },
+ "IC-0591": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play with labels GWEN, GWEN II and MOTHER and stage directions."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "\"You are the guilt and I am the jealousy.\""},
+  "content_warnings": {"value": ["Mental Health", "Violence", "Abuse", "Suicide", "Substance Use"], "confidence": "high", "evidence": "Gwen II \"Hits Gwen across the face\", recounts that \"The girl went to school bruised\" while Gwen lay \"in a drunken stupor\", reads \"A serious personality disorder\" from the chart, and urges Gwen to \"Put a dignified end to this\" with a gun."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "A split self, a cold mother and a gun struggle with violent mood swings."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "One actor plays Gwen II and Mother, with business such as \"She shoots her\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Child abuse, suicidal urging, gun violence and profanity."},
+  "themes": {"value": ["Mental illness", "Guilt and self-hatred", "Motherhood and redemption", "Toxic parenting"], "confidence": "high", "evidence": "\"I am Gwen Kessler . . . and I have two children\"."},
+  "subject_matter": {"value": "Newly out of a group home, Gwen is tormented by a violent alter ego and a cold mother until she shoots the alter ego and calls her children.", "confidence": "high", "evidence": "\"Get out! Just get out of here!\" and \"I’m going to call my children!\""}
+ },
+ "IC-0592": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Samuel French play with labels NELL, LOUISE and BILLIE and directions such as \"rocking and flapping\"."},
+  "tone": {"value": ["Bittersweet", "Earnest"], "confidence": "high", "evidence": "Nell's hope (\"She wants to be extraordinary.\") against Billie's doubt."},
+  "content_warnings": {"value": ["Mental Health", "Self-harm"], "confidence": "medium", "evidence": "Louise is \"lost in her own mentally disabled word\" and on medication, and in distress begins \"banging her head against her chair\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One actor switches between disabled Louise, lucid Louise and Billie, including a flashback."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality", "Vocal Variety"], "confidence": "high", "evidence": "Louise's \"rocking and flapping\" and sing-song voice shift to a normal tone."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Disability and self-injury shown without graphic detail."},
+  "themes": {"value": ["Disability and caregiving", "A mother's hope", "Sibling doubt", "Art as connection"], "confidence": "high", "evidence": "\"I don’t write the haikus . . . Louise does\"."},
+  "subject_matter": {"value": "A nearly blind mother tells her skeptical daughter that her severely disabled sister composes haiku when her medicine is delayed, but the attempt to prove it ends in a screaming fit.", "confidence": "high", "evidence": "\"It’s my eyes.\" and \"She’s just repeating, Mother\"."}
+ },
+ "IC-0593": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play from Under Thirty with labels HARRIET and THERAPIST and directions such as \"pulls up the back\" of her shirt."},
+  "tone": {"value": ["Serious", "Dark"], "confidence": "high", "evidence": "Harriet's defiance (\"I got two rights\") against the therapist's account of atrocities."},
+  "content_warnings": {"value": ["Discrimination/Slurs", "Sexual Assault", "Violence", "Death", "Abuse"], "confidence": "high", "evidence": "Harriet says \"Cain't sell no nigga like me\", the therapist recounts men who \"took turns raping the twelve-year-old\", a child \"was already dead\" and \"the dogs tear my little sister to pieces\", and Harriet shows whip scars: \"You look at what de white man done\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Heavy written dialect, a feigned dull act, a trance and singing."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "Speech like \"Massuh Edward done sent me\", singing Go Down Moses and a narcoleptic fit."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "Rape, child deaths, slurs and torture under slavery."},
+  "themes": {"value": ["Slavery and resistance", "Survival vs freedom", "Complicity", "Trauma"], "confidence": "high", "evidence": "\"I teach them how to survive.\" versus \"Lib in de no'th or die in de South.\""},
+  "subject_matter": {"value": "An enslaved Harriet Tubman is sent to a therapist who urges acceptance and reveals her own trauma, then under hypnosis gives Harriet the escape route north.", "confidence": "high", "evidence": "\"You want the map? All right, Harriet Tubman, I'll give you the map\"."}
+ },
+ "IC-0594": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "Emily Mann's play (Dramatists Play Service) with labels SADIE and BESSIE and shared lines marked together."},
+  "tone": {"value": ["Earnest", "Serious", "Lighthearted"], "confidence": "medium", "evidence": "Wry humor (\"We are not old maids.\") sits beside accounts of Jim Crow and lynching."},
+  "content_warnings": {"value": ["Discrimination/Slurs", "Violence", "Death", "Substance Use"], "confidence": "high", "evidence": "A drunk white man shouts \"The nigger bitch insulted me\" (\"He was drunk, and he smelled bad\"), and Bessie describes a lynching where men \"slit her abdomen open\" and \"she and her unborn baby just died\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two voices sharing long narration, with timed joint lines."},
+  "performance_demands": {"value": ["Character Differentiation", "Pacing/Timing Control"], "confidence": "medium", "evidence": "Calm Sadie and fiery Bessie trade and share lines such as \"Still here!\""},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "high", "evidence": "A graphic lynching description and racial slurs."},
+  "themes": {"value": ["Jim Crow racism", "Sisterhood", "Family values", "Resilience and longevity"], "confidence": "high", "evidence": "Papa's motto that their mission \"is to help somebody\" runs through their story of racism and service."},
+  "subject_matter": {"value": "Centenarian sisters Sadie and Bessie Delany recount their family, Jim Crow, lynchings and teaching in the rural South, including Bessie's near-lynching at a Georgia station.", "confidence": "high", "evidence": "\"She is 101 years old, and I am 103\" and the Waycross story."}
+ },
+ "IC-0595": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A screenplay cut with labels SKEETER, AIBILEEN, MINNY and HILLY and page cues."},
+  "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "high", "evidence": "\"You is kind.\" frames Aibileen's love for a child she must leave."},
+  "content_warnings": {"value": ["Discrimination/Slurs", "Death", "Grief", "Violence"], "confidence": "high", "evidence": "Hilly says Black maids \"carry different diseases than we do\", Aibileen recounts \"They killed my son.\" and \"He died right in front of me.\", and Minny reports that they \"set off a bomb\" at Medgar Evers' house."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two actors cover nine roles with Southern dialect and grief."},
+  "performance_demands": {"value": ["Dialect", "Character Differentiation", "Physicality"], "confidence": "high", "evidence": "Written dialect such as \"I done raised seventeen kids\" and business like Mae Mobley beating on the window."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Racism, a recounted death and some profanity."},
+  "themes": {"value": ["Racism in 1960s Mississippi", "Telling the truth", "Courage", "Love across lines"], "confidence": "high", "evidence": "\"No one had ever asked me what it felt like to be me.\""},
+  "subject_matter": {"value": "An aspiring writer persuades Black maids in 1963 Jackson to tell their stories for a book, which is published anonymously and costs Aibileen her job.", "confidence": "high", "evidence": "\"I want to interview you\" and \"you are fired, Aibileen\"."}
+ },
+ "IC-0596": {
+  "literary_form": {"value": "Prose", "confidence": "medium", "evidence": "A cutting of Gary E. Parker's novel (Fleming H. Revell) with added labels GLADYS and ALLIE and narrative directions."},
+  "tone": {"value": ["Earnest", "Bittersweet"], "confidence": "high", "evidence": "\"I wish he could be here for my wedding\" amid warm teasing."},
+  "content_warnings": {"value": ["War/Trauma", "Substance Use", "Mental Health"], "confidence": "high", "evidence": "The father \"came back from Vietnam a broken man\", \"Suffered nightmares, sweats, the shakes\" and \"took to drinking, maybe some drugs too\"."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two characters move from light banter to painful questions."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "Gladys is \"reaching for the photos Allie is now holding\" over her head."},
+  "audience_level": {"value": "High School", "confidence": "high", "evidence": "War trauma and addiction are mentioned briefly."},
+  "themes": {"value": ["Absent father", "Legacy of war", "Mother-daughter bond", "Letting go of the past"], "confidence": "high", "evidence": "\"Maybe he left us because he loved us.\""},
+  "subject_matter": {"value": "Weeks before her wedding Allie cleans out her childhood room with her mother and finds photos of the father who came back broken from Vietnam and left when she was four.", "confidence": "high", "evidence": "\"It's Dad.\" and \"a wedding in three weeks\"."}
+ },
+ "IC-0597": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A comic play from Laugh Lines with labels REBEKAH, NPO 1 and NPO 2 and directions such as \"attacks her mass of thick curls\"."},
+  "tone": {"value": ["Satirical", "Lighthearted"], "confidence": "high", "evidence": "A hair police squad led by \"Nap Patrol Officer Shateequa Williams\" spoofs beauty pressure."},
+  "content_warnings": {"value": [], "confidence": "medium", "evidence": "No sensitive content; the relaxer burn (\"MY SCALP IS ON FIRE\") and officers' squabbling are slapstick."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Three roles with broad comic voices and physical struggle."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Physicality"], "confidence": "high", "evidence": "Written dialect such as \"Giiiirrrrl, I know you did not\" and Rebekah who \"attacks her mass of thick curls\"."},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Mild profanity in a comic sketch."},
+  "themes": {"value": ["Black hair and identity", "Mixed-race heritage", "Beauty standards", "Self-acceptance"], "confidence": "high", "evidence": "\"you are going to be proud of your beautiful black hair-i-tage\"."},
+  "subject_matter": {"value": "A biracial sixteen-year-old struggling with her curls is raided by the comic Nap Patrol, who force a painful chemical relaxer on her while preaching about heritage.", "confidence": "high", "evidence": "\"Girlfriend needs a relaxer\" and \"I DON'T WANT STRAIGHT HAIR!\""}
+ },
+ "IC-0598": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Dramatists Play Service play with a CHORUS, goddesses and directions such as \"With strong Southern accent.\""},
+  "tone": {"value": ["Satirical", "Lighthearted", "Ironic"], "confidence": "high", "evidence": "Greek-tragedy form is applied to politics, with Hillary's mantra \"Emotions are stupid and I am smart\"."},
+  "content_warnings": {"value": ["Sexual Content"], "confidence": "medium", "evidence": "Gennifer Flowers claims \"We have made sweet sweet love in my bedroom\" and Bill denies \"sexual relations with Ms. Lewinsky\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "Two actors play chorus, goddesses, Hillary, Bill and a newscaster across decades."},
+  "performance_demands": {"value": ["Character Differentiation", "Vocal Variety", "Dialect"], "confidence": "high", "evidence": "Rapid role changes including Aphrodite speaking \"With strong Southern accent.\""},
+  "audience_level": {"value": "High School", "confidence": "medium", "evidence": "Affair references are comic and not explicit."},
+  "themes": {"value": ["Women and political power", "Ambition vs love", "Public humiliation", "Gender barriers"], "confidence": "high", "evidence": "\"Why can't I have both, just like men do?\""},
+  "subject_matter": {"value": "A mock Greek chorus tells Hillary Clinton's life as a contest between Athena and Aphrodite, from her rejected astronaut letter through Bill's scandals to her Senate win.", "confidence": "high", "evidence": "\"girls could not apply\" and \"New York's next senator\"."}
+ },
+ "IC-0599": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A Smith and Kraus duo play with labels MARCIE and DENISE and directions such as \"puts her arms straight down in candy cane form\"."},
+  "tone": {"value": ["Lighthearted", "Satirical"], "confidence": "high", "evidence": "Actor earnestness is mocked, as Marcie worries she is not \"feeling very stripy\"."},
+  "content_warnings": {"value": [], "confidence": "high", "evidence": "No sensitive content; the Princess's habit to \"light a cigarette\" is tobacco only."},
+  "difficulty": {"value": "Intermediate", "confidence": "medium", "evidence": "Two comic characters build a conspiracy with physical bits."},
+  "performance_demands": {"value": ["Character Differentiation", "Physicality"], "confidence": "medium", "evidence": "Marcie \"puts her arms straight down in candy cane form\" while Denise plots."},
+  "audience_level": {"value": "Middle School", "confidence": "high", "evidence": "Clean comedy with mild insults."},
+  "themes": {"value": ["Actors' egos", "Workplace politics", "Ambition", "Friendship"], "confidence": "high", "evidence": "\"We could overthrow her. A coup, a coup.\""},
+  "subject_matter": {"value": "Two struggling actresses working a mall Christmas display plot to get the badly behaved Snow Princess fired so the understudy Snowflake can take over.", "confidence": "high", "evidence": "\"We get her fired by presenting some incriminating evidence.\""}
+ },
+ "IC-0600": {
+  "literary_form": {"value": "Drama", "confidence": "high", "evidence": "A play from The Best Short Plays 1978 with labels FURIES, MARY and WARDER and directions such as \"strains against her bonds\"."},
+  "tone": {"value": ["Dark", "Serious"], "confidence": "high", "evidence": "It ends in despair: \"Damn you, God. I damn you!\""},
+  "content_warnings": {"value": ["Abuse", "Mental Health", "Discrimination/Slurs"], "confidence": "medium", "evidence": "Mary says \"My husband abuses me.\" and is strapped into the \"Tranquilizing Chair\" in \"the ward fer the mentally deranged\", where the warder says committal \"Seems to happen more to women folks\"."},
+  "difficulty": {"value": "Advanced", "confidence": "high", "evidence": "One actor plays the Furies, Warder, Mrs. Lum and Stephen against Mary's escalating desperation."},
+  "performance_demands": {"value": ["Character Differentiation", "Dialect", "Vocal Variety", "Physicality"], "confidence": "high", "evidence": "The Warder's dialect (\"I calls ye Mary\"), the fragmented Furies and Mary bound as she \"strains against her bonds\"."},
+  "audience_level": {"value": "Upper High School (mature content)", "confidence": "medium", "evidence": "Spousal abuse, institutional cruelty and adultery."},
+  "themes": {"value": ["Women's rights", "Institutional abuse", "Sanity and power", "Marriage and control"], "confidence": "high", "evidence": "\"It isn't my child that is loathsome to you, Mr. Girard, but the freedom of my mind.\""},
+  "subject_matter": {"value": "Committed to an asylum by her husband, Mary Girard is taunted by the Furies, rebuked by her mother and rejected by her husband, and is told she will die there.", "confidence": "high", "evidence": "\"Mr. Girard had you admitted\" and \"You'll never leave these walls.\""}
+ }
+}

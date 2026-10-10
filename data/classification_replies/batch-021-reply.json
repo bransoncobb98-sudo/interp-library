@@ -1,0 +1,2279 @@
+{
+   "IC-0801" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild profanity such as \"is a load of crap\" and talk of cheating, with no mature content beyond that.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Cheating and mild profanity such as \"a load of crap\" are discussed, but nothing in the listed categories occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two performers trade advice and voice several letter writers such as \"Dear Greg: A guy who I'm going out with\" in a light, steady register.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A relationship advice book cut into duo form, with letters such as \"Dear Greg: I'm dating this guy\" and page citations.",
+         "value" : "Nonfiction"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "The actors shift between narrators and letter writers and land punch lines such as \"Hanging out is not dating!\".",
+         "value" : [
+            "Character Differentiation",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "Letters such as \"Dear Greg: I've been dating a guy for six months\" receive blunt replies.",
+         "value" : "Two advisers answer women's letters about men who do not call, cheat, break up repeatedly or yell, concluding each time that he is just not that into you."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"He is a man made up entirely of your excuses\" and \"There is no excuse for cheating.\"",
+         "value" : [
+            "Self-worth in relationships",
+            "Excuses for bad behavior",
+            "Infidelity",
+            "Dating advice"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Comic jabs like \"Men know how to use the phone\" lead to the sincere \"You're a beautiful, smart, funny woman who deserves better.\"",
+         "value" : [
+            "Lighthearted",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0802" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Only gentle teasing and a bully who stomps off, as in \"West she stomped.\"",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "Classmates mock Wodney's speech impediment (\"All of this teasing day in and day out\"), a gentle picture-book form of bullying.",
+         "value" : [
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Each performer plays several animal characters, including the r-less Wodney and the loud Camilla shouting \"FOUR!\".",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A children's picture book told by narrators (\"His real name was Rodney Rat\") with dialogue split among speakers.",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stage notes such as \"demonstrate a rodent eating lunch\" and voices ranging from a \"(squeak)\" to Camilla yelling \"Wake up!\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Wodney says go west!\" sends Camilla off \"Forever.\"",
+         "value" : "Wodney Rat, teased for his speech, leads Simon Says and his mispronounced commands confuse the bully Camilla Capybara until she marches away for good."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"the shyest rodent in his elementary school\" becomes \"their hero\".",
+         "value" : [
+            "Embracing differences",
+            "Bullying",
+            "Confidence",
+            "Speech impediments"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Wordplay such as \"A twain twavels on twain twacks\" and the cheer \"Whoot! Whoot! Wooty-toot-toot!\"",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0803" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's story with no mature content; the hunters \"dropped their three guns\".",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Hunters aim at Horton (\"Three rifles were aiming\") but \"the men didn't shoot!\", so nothing sensitive actually happens.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two performers share narration and voices for Horton, Mayzie, the hunters and the crowds.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Dr. Seuss rhymed verse in lines such as \"I meant what I said\" and \"And I said what I meant\".",
+         "value" : "Poetry"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Rhythmic passages such as \"And he sat\" repeated and quick handoffs between voices drive the piece.",
+         "value" : [
+            "Character Differentiation",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I'll sit on your egg and I'll try not to break it\" and \"It's an elephant-bird!!\"",
+         "value" : "Horton the elephant keeps a promise to sit on lazy Mayzie's egg through storms, mockery, capture and a circus tour until it hatches into an elephant-bird."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I meant what I said\" and the hatching of a baby with \"a trunk just like his!\"",
+         "value" : [
+            "Faithfulness",
+            "Keeping one's word",
+            "Parenthood",
+            "Perseverance"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Playful rhymes about an \"elephant-bird\" carry the sincere refrain \"An elephant's faithful\".",
+         "value" : [
+            "Whimsical",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0804" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "The gun and hangover are played for laughs (\"No biggie.\") and there is no strong profanity.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Cal's old roommate \"fired - the gun\" at him, he cooked while \"tired, and hung-over\", and Dorrine is in therapy and \"on - medication!\" for nerves.",
+         "value" : [
+            "Violence",
+            "Substance Use",
+            "Mental Health"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters move from direct address to a scene with comic beats and Dorrine's shift from \"My point is that you are not calm!!!!\" to attraction.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A scene from a duo scene collection with speaker labels DORRINE and CAL and directions such as \"(Beat.)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Many written \"(Beat.)\" marks and stated business such as \"(Massaging her shoulders.)\"",
+         "value" : [
+            "Pacing/Timing Control",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"You are not female. You're an actor. You smoke.\"",
+         "value" : "Fussy Dorrine interviews Cal, a smoking actor in a band who is everything she said she did not want in a roommate, yet her cat and she both warm to him."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"You're the opposite of what I want!!\" ends with \"when do you move in?\"",
+         "value" : [
+            "Opposites attract",
+            "Control and spontaneity",
+            "Roommates",
+            "First impressions"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Comic mismatches such as \"Yeah, I'm an actor\" answering \"absolutely no actors!\"",
+         "value" : [
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0805" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Racist and homophobic remarks are satirized and the death is farcical (\"Muthah-ra-Gawd, he's dead.\").",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Norman spouts prejudice (\"Yuh stay wit yuh own kind\"), then \"(He dies.)\", and beer and \"Bahbra's terrible drinkin' problem\" are mentioned.",
+         "value" : [
+            "Discrimination/Slurs",
+            "Death",
+            "Substance Use"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Two performers cover eight characters in a written Boston dialect such as \"My ahm's cot in da kah dewah.\"",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A comic play with speaker labels and stage directions such as \"(MARTY enters).\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Phonetic dialect throughout, many roles, and business such as \"(He crawls to the exit, the car door dragging.)\"",
+         "value" : [
+            "Dialect",
+            "Character Differentiation",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"A black man who likes da Yankees\" and \"I'm gay.\"",
+         "value" : "A South Boston father with his arm caught in a car door learns his daughter is marrying a Black Yankees fan and his son is gay, rants against everyone, and collapses and dies."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"No tollarinse in dis house\" as each family member reveals something new.",
+         "value" : [
+            "Intolerance",
+            "Prejudice",
+            "Family secrets",
+            "Sports rivalry",
+            "Identity"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Norman's bigotry is mocked in over-the-top lines such as \"We doan tolerate nobidy heah!\"",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0806" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Clean comedy with only mild phrases such as \"the reason I'm screwed up\".",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Killing and stealing are only joked about as hypotheticals (\"won't hypnotize me into stealing\"), so nothing sensitive occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters with shifts into a robotic trance voice (\"Yesss.\") and Edson's nervous unraveling.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A duo scene with speaker labels EDSON and JANIS and directions such as \"(Sitting.)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions such as \"She freezes\" and \"(Robotically.) Yesss\" alongside many fumbled lines and beats.",
+         "value" : [
+            "Physicality",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I just wanna play softball!\" after \"Stephanie is outside the door with a camcorder\".",
+         "value" : "Janis asks a hypnotist to reprogram her whole life; flustered by a supposed video camera, he scrambles the suggestions and she leaves craving softball."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"I can't help you to like something you don't really like\" versus her demand to be reprogrammed.",
+         "value" : [
+            "Self-improvement",
+            "Quick fixes",
+            "Control and trust",
+            "Nervousness"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "The botched hypnosis ends with \"Your third favorite food is eyebrows!\"",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0807" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "A child's accidental death is recounted without graphic detail (\"she didn't say anything\").",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Jim insists \"Lela is dead!\" while Faye, a patient in an institution, cares for a doll as if it were her daughter.",
+         "value" : [
+            "Death",
+            "Grief",
+            "Mental Health"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Faye moves from childlike questions to reliving the accident (\"NO! NO! Oh, God NO!\") and back into denial.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels FAYE and JIM and bracketed stage directions such as \"[both sit down on the bench.\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated pantomime such as \"[pantomimes starting a fire]\" and building pauses in \"I . . . I . . . I heard a sound\".",
+         "value" : [
+            "Physicality",
+            "Pacing/Timing Control",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"This is not Lela! This is a doll.\"",
+         "value" : "Visiting his institutionalized wife, Jim tries to make Faye face that their daughter Lela was killed in the road a year ago, but she retreats to the doll in her carriage."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"It's time to face up to the fact\" against \"My Lela's taking a nap!\"",
+         "value" : [
+            "Grief and denial",
+            "Loss of a child",
+            "Marriage under strain",
+            "Memory"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Fond memories of Hawaii give way to \"our Lela is dead and has been for a year\".",
+         "value" : [
+            "Serious",
+            "Bittersweet"
+         ]
+      }
+   },
+   "IC-0808" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Holocaust deaths and beatings are described (\"beaten and left for dead\") but without graphic sexual content or profanity.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Children are listed as \"perished at Auschwitz\", a child recalls \"undeserved slaps, blows, and executions\", and \"learning was a crime—for Jews\".",
+         "value" : [
+            "Death",
+            "Grief",
+            "Violence",
+            "War/Trauma",
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "One performer plays Raja across years while the other voices the Loudspeaker, Irena, Honza and two children, from cold announcements to tender farewells.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels such as RAJA, IRENA and LOUDSPEAKER and stage directions such as \"(lights down on scene)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "The \"arrogant, military voice\" of the Loudspeaker contrasts with Raja's halting \"My . . . name . . . is . . . Raja\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Irena Synkova, perished at Auschwitz\" and \"And I have survived.\"",
+         "value" : "Raja, a Jewish girl in the Terezin ghetto, recalls her teacher Irena, her friend Honza and the children deported to Auschwitz, and how she survived when they did not."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I survived Terezin\" and \"the poetry and the drawings—that was part of our survival.\"",
+         "value" : [
+            "Holocaust",
+            "Survival",
+            "Hope amid despair",
+            "Memory and witness",
+            "Education as resistance",
+            "Loss of loved ones"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Sober testimony such as \"perished at Auschwitz\" ends in the resolve \"not alone, and not afraid.\"",
+         "value" : [
+            "Serious",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0809" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild profanity such as \"who really gives a damn\" and one crude insult, with no other mature content.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "Walton says \"Cheerleaders are sluts\" and Nella was mocked for weight when a boy \"mooed\"; otherwise only mild language such as \"college sucks\".",
+         "value" : [
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Both roles need written Texas and Arkansas speech and Nella's tangled syntax such as \"To where are you goin' to?\" plus sharp comic shifts.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A one-act play with speaker labels WALTON and NELLA and directions such as \"(He yanks off another bite.)\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Dialect such as \"Stupidest critters in Texas\", stated business like jingling quarters and chewing jerky, and many written pauses.",
+         "value" : [
+            "Dialect",
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Ya hated ... football players?\" after his talk of the Redskins and Broncos.",
+         "value" : "On a bus to Dallas, a dropout who dreams of playing for the Dallas Cowboys and an awkward Arkansas freshman bond, until she reveals she hates football players."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I wanna be a Cowboy\" against \"'Cause I'm stupid\" and \"I was too fat, though.\"",
+         "value" : [
+            "Dreams and self-doubt",
+            "Misunderstanding",
+            "Loneliness",
+            "Self-image",
+            "Belonging"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Walton means the Dallas Cowboys while Nella hears cowboys, and she ends by declaring \"football players are stupid!\"",
+         "value" : [
+            "Lighthearted",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0810" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Serious illness is present but nothing graphic; the language is mild.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "The gravely ill painter recalls that his parrot \"He died but sometimes he visits\" and tells of an emperor who \"ate one and died\"; his own death does not occur.",
+         "value" : [
+            "Death"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters with physical weakness, struggles over alarms and a sudden emotional break in Monica's \"Oh Lord . . .\".",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A ten-minute play with speaker labels ROOSTER and MONICA and stage directions such as \"(He presses a hand alarm, which blares.\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Directions such as \"They struggle for the alarm\" and overlapping lines (\"She speaks continuously, overlapping him\").",
+         "value" : [
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I asked for a male nurse\" and \"He has closed his eyes and gone to sleep.\"",
+         "value" : "A dying young painter fights off a determined new nurse who has nowhere else to go, until he tires and lets her tuck him in."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "\"If I could paint rain the way it is\" and \"I'll be flying off soon.\"",
+         "value" : [
+            "Terminal illness",
+            "Art and mortality",
+            "Loneliness",
+            "Unexpected connection"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Barbed humor like \"Click your heels and go back to OZ\" sits beside his fading energy (\"My energy didn't hold out\").",
+         "value" : [
+            "Bittersweet",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0811" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Emotional abuse of a disabled son, drunkenness and implied harm (\"Do you think I'd go that far?\") are central.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Ma says \"Roger is really a dog\", is \"drunk, but not noticeably so\", recounts that \"Pa was dead\" of a heart attack, and calls her disabled son \"that idiot\".",
+         "value" : [
+            "Abuse",
+            "Substance Use",
+            "Death",
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Both actors first voice Roger, then play a drunk, manipulative mother and a psychiatrist who escalates to \"WHAT DID YOU DO TO HIM?\"",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A one-act play with speaker labels MA and DR. GREEN and directions such as \"(Clings fiercely to him.)\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "The shift from Roger's \"I'm not stupid!\" to the adults, and written overlaps (\"They overlap for next few lines\").",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I gave him the hammer\" and \"I'm going to the junkyard.\"",
+         "value" : "A psychiatrist looking for his disabled patient Roger confronts Roger's drunk, bitter mother, whose sudden claims of change make him fear she has harmed her son."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Now he's dead because of him\" and \"All Roger is, is one big dollar sign.\"",
+         "value" : [
+            "Parental resentment",
+            "Disability and dignity",
+            "Grief turned to blame",
+            "Manipulation",
+            "Greed"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A drunk mother calls her son \"a talking, walking, big ol' dumb dog\" and the scene ends in dread over what she did.",
+         "value" : [
+            "Dark",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0812" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild language such as \"Oh, crap\" and one bigoted remark, with no graphic content.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Zack's grandmother chokes on hearing April is Jewish and then says \"at least you don't look Jewish\"; April's kidnapping story is admitted as \"I'm lying.\"",
+         "value" : [
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Each actor plays several roles (Grandma, Evil Counter Woman, Game Show Host) and the piece moves from farce to a quiet breakup.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A short play with speaker labels APRIL, ZACK and GRANDMA and stage directions such as \"(slams down the phone)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Scene shifts marked \"Freeze.\", the stated Heimlich business, and Zack \"Making loud chicken sounds\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "The flashback ends \"I'm such a doofus. Well, you have a nice day.\"",
+         "value" : "April tells how a spilled mocha led to three years with Zack, through his family, a disastrous trip and constant fights, to their breakup, then replays the meeting without the romance."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"one little choice or accident or joke can change our lives forever\" and \"falling out hurts\".",
+         "value" : [
+            "Opposites attract",
+            "Falling out of love",
+            "Chance encounters",
+            "Family expectations"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Comic sketches like \"Who's the Crappiest Couple?\" lead to the breakup line \"I don't love you, Zack. I'm sorry.\"",
+         "value" : [
+            "Bittersweet",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0813" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "School comedy; the only dark material is the melodramatic plot of a made-up book.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "The invented book's plot is retold: a husband \"gets drunk a lot and beats her\" and the heroine \"gasps (gasps) and dies\"; these happen only in a fake novel.",
+         "value" : [
+            "Death",
+            "Abuse",
+            "Substance Use"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Dennis narrates and plays himself while the other performer covers Ariel, her French accent and Mr. Frazetti.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A short story from a story collection told in Dennis's first-person narration (\"I was in the non-silent study area\") with dialogue split between speakers.",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Directions such as \"(with a French accent)\", \"(puckers up at the thought)\" and \"(covering his eyes, dramatically)\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Well, maybe because I made it up.\"",
+         "value" : "Underachiever Dennis lets his crush Ariel tell him the plot of a French novel for a last-minute book report, only to get an F because she invented the book as payback."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"F as in FAKE!!\" and \"my legendary reputation for practical jokes!\"",
+         "value" : [
+            "Practical jokes",
+            "Academic dishonesty",
+            "Crushes",
+            "Getting what you deserve"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "The prankster is pranked: \"there really is no such book as Madame de Maupassant.\"",
+         "value" : [
+            "Lighthearted",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0814" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "A mass shooting and the gunman's suicide are recounted, with some profanity (\"No s***!\").",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "A gunman \"shot nine Sikh neighbors. . . my father too\" and \"Shot himself when he heard sirens\", a customer jokes \"Dots or Feathers?\", and Boz serves IPAs in her bar.",
+         "value" : [
+            "Violence",
+            "Death",
+            "Suicide",
+            "Grief",
+            "War/Trauma",
+            "Discrimination/Slurs",
+            "Substance Use"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "One actor voices six roles and the other moves from pirate comedy to grief over a hate crime.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play cutting with speaker labels such as BOZ, SUNNY and VISHAL, page citations and stage directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Boz's written pirate speech (\"Oi want to open me own bar\"), many roles, and a stated folk dance.",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"A bunch of people were shot at services\" and \"Ma needs me.\"",
+         "value" : "Boz Batra leaves her Sikh family in Wisconsin to open a bar, fields ignorant questions from a customer, and returns home after a white supremacist's attack on the gurdwara kills her father."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"it's easier to forget than to fear being killed\" and \"What has to change?\"",
+         "value" : [
+            "Sikh American identity",
+            "Hate crimes",
+            "Family and leaving home",
+            "Immigrant belonging",
+            "Grief",
+            "Fear and community"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Pirate-talking family comedy turns to \"A lone man, a white man, a man full of hate.\"",
+         "value" : [
+            "Bittersweet",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0815" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Comic animal violence and mild profanity such as \"Oh sh**, a cat.\"",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Samantha toys with and kills a mouse (\"eventually I killed it\") and bites Shuman's arm; the language includes \"GOD DAMN IT\".",
+         "value" : [
+            "Violence"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "One actor plays Shuman, the Mouse and Oscar while Samantha moves between direct address, cat behavior and emotional confrontation.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels SAMANTHA, SHUMAN, MOUSE and OSCAR and stage directions such as \"(SAMANTHA chases the MOUSE)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated business such as \"SAMANTHA does a bizarre running pattern\" and \"Meow wowo, memeo, meowwww\".",
+         "value" : [
+            "Physicality",
+            "Character Differentiation",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Samantha, if you want to go. . Go.\" and \"I knew then that this was my home.\"",
+         "value" : "Samantha, a shelter cat adopted by sensitive Shuman, discovers her hunting instincts and an alley cat named Oscar, rebels to get outside, and chooses home once Shuman lets her go."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"by letting me outside, Shuman had told me that he loved me unconditionally\".",
+         "value" : [
+            "Unconditional love",
+            "Freedom versus security",
+            "Being understood",
+            "Instinct",
+            "Home"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A cat narrates her love life: \"I suppose this is as good a time as any to tell you . . . I'm a cat.\"",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0816" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Fairy-tale mischief with no mature content beyond a snatched cape and a scream.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "The baker \"lost his mother and father in a baking accident\", and the Wife yanks Rapunzel's hair until \"Rapunzel screams\", both played as fairy-tale comedy.",
+         "value" : [
+            "Death",
+            "Violence"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Each performer plays four characters, from the Witch's rap to Jack, Little Red and Cinderella, with quick scene changes.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A musical's book scenes with speaker labels such as BAKER, WITCH and WIFE and directions such as \"(the witch disappears in a puff of smoke)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Many roles, a rhythmic rap, and stated business such as \"the Wife mimes feeding the items to the cow\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"One: the cow as white as milk, Two: the cape as red as blood\".",
+         "value" : "A childless baker and his wife gather a cow, a red cape, golden hair and a slipper from fairy-tale characters to lift a witch's curse, which returns her beauty but takes her power."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"It's not what I wish. It's what you wish.\" and \"We must life the spell together.\"",
+         "value" : [
+            "Wishes and consequences",
+            "Marriage and teamwork",
+            "Curses",
+            "Fairy tales"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Fairy-tale quests and a rapping witch: \"Don't ever never ever / Mess around with my greens!\"",
+         "value" : [
+            "Whimsical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0817" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Hate speech, domestic abuse, an honor killing and profanity such as \"throwing s***\" appear in the text.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Graffiti reads \"All Muslims must die\", Jorah describes his father's \"pattern of abuse\" (\"Mom was holding her face\"), a family \"murdered their two daughters\", and the Holocaust ovens are discussed.",
+         "value" : [
+            "Discrimination/Slurs",
+            "Abuse",
+            "Violence",
+            "Death",
+            "War/Trauma"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Each actor plays several roles plus narrating \"Let's say\" voices, moving from sarcasm to Jorah's account of domestic violence.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels such as FATIMA, JORAH and ACTOR 1/3 and stage directions such as \"(Fatima starts to leave)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Rapid narrator handoffs (\"Let's say Fatima's only been\") and many written \"(Beat)\" marks.",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"My Muslim ex-girlfriend takes off her hijab\" appears on a new Facebook page.",
+         "value" : "Fatima, a hijab-wearing Muslim girl at a new school, warms to troubled Jorah, whose father went to prison for abuse, until he posts their private chats online."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I know what it's like to have people think you're a freak\" and \"They're not all the same.\"",
+         "value" : [
+            "Islamophobia",
+            "Prejudice and assumptions",
+            "Trust and betrayal",
+            "Faith and identity",
+            "Domestic abuse",
+            "Teen romance"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Teen banter gives way to \"Both are smothered by assumptions and preconceptions.\"",
+         "value" : [
+            "Serious",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0818" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Clean romantic comedy; the strongest language is \"come Hell or high water\".",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Childhood crushes, a first kiss and a prom question; nothing in the listed categories occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Both characters age from seven to adulthood across flashbacks while Brian keeps addressing the audience.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels BRIAN and BETH and directions such as \"(FLASHBACK)\" and \"(Dials phone)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Shifts between \"(PRESENT – To Audience)\" and childhood flashbacks, and timed asides such as \"(to audience) Nope.\"",
+         "value" : [
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I think your best friend has set you up\" and \"You asked me to my face.\"",
+         "value" : "Brian recounts years of failing to talk to his best friend's sister Beth until a fake engagement story from her brother pushes him to ask her out face to face."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"All I had to do was come up with the right words. But the words got in the way.\"",
+         "value" : [
+            "First love",
+            "Shyness",
+            "Friendship",
+            "Growing up",
+            "Finding the right words"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Awkward comedy like \"Then I threw up\" builds to the sincere \"Will you go out with me sometime?\"",
+         "value" : [
+            "Lighthearted",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0819" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "An execution is discussed with dark humor but not graphically, and there is no profanity.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Joan faces execution (\"to be burned at the stake\"), the Priest reports \"it was all over\", and she confesses \"I did slay many in battle.\"",
+         "value" : [
+            "Death",
+            "Violence",
+            "War/Trauma"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters; Joan swings between gallows humor, nostalgia and an angry \"diatribe\".",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A two-character play with speaker labels JOAN and PRIEST and directions such as \"(Turning to face her)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Written pauses and whispered asides such as \"(Whispering to her) It is an honor\", and business such as standing on tiptoes at the window.",
+         "value" : [
+            "Pacing/Timing Control",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"So I am to die tomorrow?\" and \"nothing at all, except her heart\".",
+         "value" : "On the night before her burning, Joan of Arc talks with a timid priest about weather, family and the real reasons for her sentence, and he later tells of her heart surviving the flames."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I am being burned not for being dressed as a man, but for having the courage to act as one.\"",
+         "value" : [
+            "Courage and conviction",
+            "Gender roles",
+            "Faith and authority",
+            "Facing death",
+            "Injustice"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Joan jokes about being \"barbequed\" while protesting that she is burned \"for having the courage to act as one\".",
+         "value" : [
+            "Ironic",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0820" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Disability slurs and dark humor, with references to promiscuity but nothing explicit.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Disability is described with slurs and mockery such as \"one kind of cripple\" and \"a kind of living parsnip\".",
+         "value" : [
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Both actors step in and out of sketches, play doctors and a vicar, and move from jokes to Bri's quiet decision to leave.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels BRI and SHEILA and directions such as \"(Sheila mimes holding a baby)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Bri's written \"music-hall German accent\" and mimed business such as \"mimes dialing\".",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"So now it was a question of how to tell her I was leaving her.\"",
+         "value" : "Bri and Sheila act out the doctors and vicar who handled their severely disabled daughter Joe, reveal their opposite responses, and Bri slips away to leave the marriage."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I join in these jokes to please him\" and \"He lives with despair.\"",
+         "value" : [
+            "Disability and caregiving",
+            "Humor as coping",
+            "Faith versus despair",
+            "Marriage under strain",
+            "Guilt"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "The parents turn their disabled daughter's diagnosis into music-hall sketches such as \"your daughter vos a wegetable\".",
+         "value" : [
+            "Dark",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0821" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Antisemitic hate speech, wartime death and Hitler's suicide are spoken in the text, with crude jokes.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "A teacher says \"the Jew is the offspring of Satan\", explosions engulf the street, Elsa's parents \"went to a place you don't come back from\", and \"He gave up and blew his brains out\".",
+         "value" : [
+            "Discrimination/Slurs",
+            "War/Trauma",
+            "Violence",
+            "Death",
+            "Suicide"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "The two actors cover fourteen roles, from an imaginary Hitler to Elsa, moving from slapstick to loss.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A screenplay cutting with speaker labels such as JOJO, ELSA and ADOLF and scene headings such as \"Hitlerjugend Camp\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "A \"comedic German accent\", many roles, and business such as \"Elsa has Jojo in a headlock\".",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"It's an expose on Jews\" and \"he kicks Adolf as hard has he can\".",
+         "value" : "Ten-year-old Jojo, a Hitler Youth recruit with an imaginary Adolf, interrogates Elsa, the Jewish girl his mother hides, until the war ends and he rejects Adolf to dance with her."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"You're not a Nazi, Jojo\" and \"What is the first thing you'll do when you're free?\"",
+         "value" : [
+            "Indoctrination",
+            "Antisemitism",
+            "Childhood and war",
+            "Empathy over hate",
+            "Freedom"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Nazi ideology is mocked (\"a pathetic little man who can't even grow a full moustache\") and the cutting ends with Jojo and Elsa dancing.",
+         "value" : [
+            "Satirical",
+            "Bittersweet"
+         ]
+      }
+   },
+   "IC-0822" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Abduction and abuse are referred to rather than shown, with mild profanity such as \"the damn field!\"",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Star is \"a Cherokee woman kidnapped by Michael Rowen\" with a scarred, injured leg, and Star says Michael's son \"licks the hand that beats him\".",
+         "value" : [
+            "Abuse"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Written Cherokee phrases and frontier dialect plus a slow turn from teasing to manipulation.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play cutting with speaker labels STAR and PATRICK and directions such as \"(Beat.)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Lines such as \"Ostas hindhalid? [Good hunting?]\", stated business like kneading \"her scarred calf\", and many beats.",
+         "value" : [
+            "Dialect",
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Ask him for your share and see what he says.\"",
+         "value" : "In 1792 Kentucky, a Cherokee mother hears her son's plea for help marrying a neighbor girl and instead stirs his fear that his father will deny him the land."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"More land! Why?\" and \"Not to forget who you are, that is the point.\"",
+         "value" : [
+            "Family resentment",
+            "Land and inheritance",
+            "Cultural identity",
+            "Manipulation",
+            "Father and son"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Tender moments give way to \"'Cause he hates you\" and \"Not till you bury him\".",
+         "value" : [
+            "Serious",
+            "Dark"
+         ]
+      }
+   },
+   "IC-0823" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Childhood cancer is handled gently through play, with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Leukemia treatment is central, but no death, violence or other listed content occurs; the Ice Queen's threat to \"kill all the happy people\" is fantasy.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Both actors switch among fantasy villains, secret agents, doctors and nurses, with roles like \"DOCTOR/5\" changing mid-scene.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels such as KEVIN, ICE QUEEN and DOCTOR/5 and scene headings such as \"SCENE 2\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated business such as \"KEVIN ducks many in slow motion\" and voices from a villainess to Kevin's \"high-pitched voice\".",
+         "value" : [
+            "Character Differentiation",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I'm not sick. They made this cancer thing up.\" and \"I'm going to have a bone marrow transplant\".",
+         "value" : "Kevin, a boy with leukemia, imagines his doctors as villains and spies until new patient Melissa and the staff join his fantasy to help him accept treatment."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Our enemy isn't human, Kevin\" and \"How about equal partner?\"",
+         "value" : [
+            "Childhood cancer",
+            "Imagination as coping",
+            "Trust in caregivers",
+            "Friendship",
+            "Courage"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A boy recasts chemotherapy as superhero fantasy (\"I am Invincible Boy, Defender of Youth!\") while facing a bone marrow transplant.",
+         "value" : [
+            "Whimsical",
+            "Bittersweet"
+         ]
+      }
+   },
+   "IC-0824" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Adult talk about sex and mild profanity such as \"Big cities are a bitch\", with nothing explicit.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Sex is discussed in general terms (\"You can call for sex\") but nothing explicit or otherwise sensitive occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters on a phone line whose guarded banter must carry layered loneliness and attraction.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A one-act play with speaker labels DANIEL and THEA and directions such as \"(He hangs up, returns to bus stop\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Frequent \"(A moment)\" pauses and stated phone business such as \"He stares at phone, daring it to ring\".",
+         "value" : [
+            "Pacing/Timing Control",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"You can see me, can't you?\" and \"I'm not going to invite you up.\"",
+         "value" : "On a holiday weekend, a woman watching through a telescope keeps ringing a pay phone until a stranded businessman talks with her about loneliness, sex and the stars."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Why is there always such a distance between what we want to be and what we are?\"",
+         "value" : [
+            "Loneliness",
+            "Connection with strangers",
+            "Isolation in the city",
+            "Control and vulnerability"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Witty sparring (\"Voyeurism. Sex.\") covers loneliness in lines such as \"We live by ourselves, with ourselves\".",
+         "value" : [
+            "Serious",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0825" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "An abortion is described (\"There'll be some slight discomfort\") and the 9/11 death closes the piece.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "He dies in the attack (\"He never did\" pick up), she is left \"missing him. Both of them\", and he had \"snagged a few bills out for the bar\" the night before.",
+         "value" : [
+            "Death",
+            "Grief",
+            "War/Trauma",
+            "Substance Use"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Interlocking direct-address monologues demand subtext: her numbness about the abortion against his glib jokes, then sudden loss.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A short play with speaker labels MAN and WOMAN and directions such as \"Silence. Darkness.\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Many written \"(Beat.)\" marks and the final silence after \"Do you hear that?\"",
+         "value" : [
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Up here, in these cloud-capped towers\" and \"I still have that message he left me\".",
+         "value" : "A couple recount the morning of September 11, 2001: she goes alone to a clinic for an abortion while he goes to work in the towers and leaves a voicemail she still plays."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"we can go ahead and just keep the thing\" arrives \"Too late ... it's too late.\"",
+         "value" : [
+            "Abortion",
+            "Regret",
+            "September 11 attacks",
+            "Communication in relationships",
+            "Loss"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "The man's flip talk (\"in essence, a paper cut!\") turns tragic when \"the earsplitting sound of Jet aircraft\" hits his tower.",
+         "value" : [
+            "Dark",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0826" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Suicide methods are described (\"In the mouth. Blows the brains right out.\") along with sexual references.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Both plan to jump (\"Of course I'm going to jump!\"), Mary aims Tom's gun and \"pulls the trigger\", and he says \"I'm losing my erection.\"",
+         "value" : [
+            "Suicide",
+            "Violence",
+            "Sexual Content"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters with rapid swings from bickering to tears to tenderness.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A one-act play with speaker labels TOM and MARY and directions such as \"She slips. He grabs her.\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Constant ledge business such as \"They're belly to belly, face to face\" and many \"(Several beats)\".",
+         "value" : [
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"The window fell shut.\" and \"It locks automatically.\"",
+         "value" : "Two strangers who each climbed onto a forty-first-floor ledge to jump argue over who goes first, fall for each other, and are locked out when the window shuts."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I don't want to die\" and \"I hadn't met you.\"",
+         "value" : [
+            "Suicide and the will to live",
+            "Loneliness",
+            "Gender resentment",
+            "Unexpected connection"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Two would-be suicides squabble over \"This is my ledge\" and end up shouting \"Help!\"",
+         "value" : [
+            "Dark",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0827" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "A children's book with no mature content.",
+         "value" : "Middle School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Sibling squabbles and a stern librarian; the threatened \"potato shooter\" is never fired.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "The two actors cover nine roles, including a lisping toddler (\"Yeth, Nithe knowing you\") and Spud's rusty voice.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A children's novel cut by chapter (\"(Chapter 1)\") with Will narrating to the audience and dialogue split among characters.",
+         "value" : "Prose"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Many roles and stated business such as \"she rolls the stamp on Marty forearm\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"He switched almost every single book in the section.\"",
+         "value" : "Brothers Will and Marty are sent to the library for the summer, where the feared librarian Spud Murphy catches Marty switching books and outwits him."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"The trouble with little brothers\" and \"Stay on the carpet or there will be trouble.\"",
+         "value" : [
+            "Sibling rivalry",
+            "Fear of the unknown",
+            "Libraries and reading",
+            "Troublemaking"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Comic dread of a librarian with a \"gas-powered spud gun\" ends with the stamp \"I LOVE BARBIE!\"",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0828" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild language such as \"trying like hell to be reasonable\" and no mature content.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The man smashes the stand and insults her (\"What looney farm did you escape from?\"), but no one is hurt and nothing in the listed categories occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters; the man moves from breezy charm to rage to apology.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A one-act play with speaker labels MAN and WOMAN and directions such as \"(Takes out coin purse.)\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated business such as \"MAN kicks at one of the corners of the lemonade stand\" and building pauses before \"Tears.\"",
+         "value" : [
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"A bank. It's a foreclosure.\" and \"What was in the lemonade?\"",
+         "value" : "A man scouting a foreclosed house is offered a woman's last glass of lemonade for seven thousand dollars, and his frustration ends with him wrecking her stand."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"On your terms. At your convenience. For your entertainment.\"",
+         "value" : [
+            "Wealth and poverty",
+            "Foreclosure",
+            "Charity and dignity",
+            "Worth and value"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "A seven-thousand-dollar glass of lemonade becomes a parable ending \"You give too little.\"",
+         "value" : [
+            "Serious",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0829" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild profanity such as \"What the hell happened to us?\"",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Only jokes, such as attic squirrels that \"are junkies\", and mild language; nothing in the listed categories really occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two voices across three comic episodes, with Jenny's run-on rants and Victor's deadpan.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "Comic memoir chapters with page citations, including \"Phone Conversation I Had with My Husband\", spoken as ME and VICTOR.",
+         "value" : "Nonfiction"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Capitalized outbursts such as \"WHAT IS WRONG WITH YOU?!\" and timed silences such as \"[stunned silence]\".",
+         "value" : [
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Turn left at that Sonic you like\" and \"Zombies need brains.\"",
+         "value" : "Jenny gets lost and pitches a landmark GPS, imagines being rejected for free squirrels, and argues with her husband Victor about zombies and organ donation."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"I wonder if this is the weirdest fight we've ever had.\"",
+         "value" : [
+            "Marriage",
+            "Quirky humor",
+            "Miscommunication",
+            "Everyday absurdity"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Absurd marital arguments such as \"GPS for stupid people\" and whether zombies need brains.",
+         "value" : [
+            "Lighthearted",
+            "Whimsical"
+         ]
+      }
+   },
+   "IC-0830" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Strong profanity (\"You had no fucking clue!\") alongside alcoholism.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Jason's alcoholism drives the story: \"I'm in Detroit drying out\" and \"I was drunk.\"",
+         "value" : [
+            "Substance Use"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters, with Kara narrating to the audience and building to the outburst \"Why the hell did you go???\"",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A scene with speaker labels JASON and KARA and directions such as \"(to the audience)\" and \"(the date)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Written beats such as \"(A long beat)\" and the repeated cycle that opens and closes with \"Honey, I'm home!\"",
+         "value" : [
+            "Pacing/Timing Control",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Kara, will you do me the honor of being my wife?\" and \"The answer is no.\"",
+         "value" : "Jason, an alcoholic who walked out three years earlier, returns and proposes again; Kara refuses, he relapses, and she imagines accepting the next time the cycle repeats."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"And the cycle had begun all over again.\"",
+         "value" : [
+            "Addiction",
+            "Abandonment",
+            "Cycles in relationships",
+            "Second chances",
+            "Single parenthood"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Warm memories on the date give way to \"I love you, Jason, but I can't do it again.\"",
+         "value" : [
+            "Bittersweet",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0831" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Mild insults such as \"You're an idiot, John\" and no mature content.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Terrorism is only a misheard report and \"Or I'll kill you\" is an empty outburst; nothing in the listed categories occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters, but the comedy depends on precise delayed responses and overlapping lines.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A screenplay sketch with speaker labels JOHN and LINDA and directions such as \"(PAUSE, THEN SIMULTANEOUS)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Constant \"(PAUSE)\" marks and simultaneous lines, with Linda escalating to \"Shut up while I'm talking.\"",
+         "value" : [
+            "Pacing/Timing Control",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I don't know about terrorists but there's a planeload of tourists\".",
+         "value" : "An NPR anchor tries to get a breaking report on terrorists from a correspondent abroad, but satellite delay and his confusion reveal it is a planeload of Iowa tourists."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"It's this satellite connection, Linda. There's a delay\".",
+         "value" : [
+            "Media sensationalism",
+            "Miscommunication",
+            "Technology failures",
+            "Frustration"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Breathless crisis news collapses into satellite-delay farce and \"a planeload of tourists\".",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0832" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Infidelity and partial undressing are central, with language such as \"Screw you.\"",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "The breakup follows infidelity (\"You slept with my brother\") and ends as Patricia exposes her mastectomy scars and he touches her chest.",
+         "value" : [
+            "Sexual Content"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters playing heavy subtext, awkward silences and a sudden emotional confrontation.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A ten-minute play with speaker labels JONATHAN and PATRICIA and stage directions such as \"(JONATHAN exits.\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Interruption marks and beats such as \"(Beat. Then . . . )\" and stated business such as \"PATRICIA begins to open her blouse\".",
+         "value" : [
+            "Pacing/Timing Control",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"the tests, the insurance forms, the surgery\" and \"Prove it.\"",
+         "value" : "Moving out after their breakup, Patricia confronts Jonathan, who stood by her through cancer surgery but cannot look at her scars, and dares him to prove he still loves her."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"it's me you can't look at, can't touch, can't love.\"",
+         "value" : [
+            "Breast cancer survival",
+            "Body image",
+            "Infidelity",
+            "Love and rejection",
+            "Breakups"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Wry banter about an unlicensed therapist turns to \"At least he could look at my scars without flinching.\"",
+         "value" : [
+            "Bittersweet",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0833" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Drug jokes, a dead-baby joke and a slur are played for comedy, with nothing graphic.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Ben jokes he \"got stoned for a week\" and drinks beer, has \"an anxiety attack\", and mock-shouts \"Homo! Homo!\" in a parenting game.",
+         "value" : [
+            "Substance Use",
+            "Mental Health",
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "The couple move from comedy to a fight, a nightmare fantasy with Joanie as a doctor, and back.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels BEN and JOANIE and directions such as \"(Ben kneels, putting his ear against her belly)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated business such as \"begins jogging frantically in place\" and Joanie playing \"Dr. Latimer\" in the fantasy.",
+         "value" : [
+            "Physicality",
+            "Vocal Variety",
+            "Character Differentiation"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"OH MY GOD, MY SON IS AN EYEBALL!\" and \"I shouldn't have said what I said about Flipper.\"",
+         "value" : "Painting a nursery for their first child, joking Ben and anxious Joanie fight over his tasteless humor, his nightmare fantasy sends him into panic, and they reconcile."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"The Unprepared attempting the Impossible for the sake of the Ungrateful.\"",
+         "value" : [
+            "Impending parenthood",
+            "Fear of responsibility",
+            "Marriage",
+            "Humor as defense"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Ben's antics (\"BURRRRRRRRRRUP!\") and the couple's playful rehearsal ends in a warm embrace.",
+         "value" : [
+            "Lighthearted",
+            "Earnest"
+         ]
+      }
+   },
+   "IC-0834" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Drug jokes, an angry mention of abortion and language such as \"for Christ's sake\", with nothing graphic.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Ben says he \"got stoned for a week\" and sips beer, and Joanie identifies \"an anxiety attack\" he has had before.",
+         "value" : [
+            "Substance Use",
+            "Mental Health"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Wide range from slapstick and a fantasy doctor scene to Ben's tirade and the line \"Knock you out and drag you to the abortion?\"",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play with speaker labels BEN and JOANIE and directions such as \"(Joanie freezes)\".",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated business such as \"kicking at the discarded stencils\" and Joanie's role switch into the doctor.",
+         "value" : [
+            "Physicality",
+            "Vocal Variety",
+            "Character Differentiation"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"I never wanted this kid! Never!\" and \"Get out of here.\"",
+         "value" : "Painting the nursery, Ben's jokes and resentment about the coming baby turn into a bitter fight, and Joanie walks out on him."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"Every day you get bigger, and we get smaller!\"",
+         "value" : [
+            "Impending parenthood",
+            "Resentment in marriage",
+            "Fear of change",
+            "Self-doubt"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Comic nursery painting collapses into \"Not this time, Ben.\"",
+         "value" : [
+            "Bittersweet",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0835" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Predatory innuendo toward a child (\"Should I get undressed?\") and violent comedy.",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "The Wolf \"eats her\" and the Hunter blasts the room until the Wolf says \"I'm dead\", after a suggestive scene in which he says \"Slide down the sock.\"",
+         "value" : [
+            "Violence",
+            "Death",
+            "Sexual Content"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Two actors play five characters, from the deadpan Wolf to the ranting Hunter and the spitting Grandmother.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A short play in labeled scenes (\"SCENE 2 LITTLE RED RIDING HOOD and the BIG BAD WOLF\") with bracketed directions.",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Rapid-fire monologues for the Hunter and stated business such as \"RED slaps her ankle\".",
+         "value" : [
+            "Character Differentiation",
+            "Vocal Variety",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"When I'm in your stomach will I be alive?\" and \"Live happily ever after, I guess.\"",
+         "value" : "In an absurd Little Red Riding Hood, a resentful mother sends Red to Grandmom, the Wolf flirts with and swallows them both, and after the Hunter's rescue Red begs to be eaten again."
+      },
+      "themes" : {
+         "confidence" : "medium",
+         "evidence" : "The mother's mixed messages (\"Then smash her head with a chair\") and Red's longing for the Wolf.",
+         "value" : [
+            "Twisted fairy tale",
+            "Dysfunctional family",
+            "Temptation and danger",
+            "Desire"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "The fairy tale is twisted: Red asks the Wolf \"Please eat me again, Mister Wolf.\"",
+         "value" : [
+            "Dark",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0836" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Racial condescension and a violent dream image, with no profanity or graphic content.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Miles condescends to his Black date: \"it's important for blacks to assimilate themselves into the high culture\"; the stabbing occurs only in a dream.",
+         "value" : [
+            "Discrimination/Slurs"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters whose surface courtesy must carry growing menace and Paula's rising anger.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A play scene with speaker labels PAULA and MILES and directions such as \"(He writes this down.)\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Written pauses such as \"(Pause, cold.) Maybe.\" and Miles's repeated note-taking business.",
+         "value" : [
+            "Pacing/Timing Control",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"this is the first time I've dated a woman of color\" and \"Actually, I've had that dream several times.\"",
+         "value" : "On a lavish blind date, a wealthy white man interrogates his Black psychologist date about race and her work while taking notes, then describes a violent recurring dream."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"That's the beauty of America, isn't it? Social mobility.\"",
+         "value" : [
+            "Racism",
+            "Power and privilege",
+            "Assimilation",
+            "Manipulation",
+            "Dating"
+         ]
+      },
+      "tone" : {
+         "confidence" : "medium",
+         "evidence" : "Polite date talk masks hostility, ending with Miles's dream of a black rat \"covered in blood because I've stabbed her\".",
+         "value" : [
+            "Dark",
+            "Ironic"
+         ]
+      }
+   },
+   "IC-0837" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Stereotypes are presented satirically and the knife swing is comic; no profanity in English.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "Ethnic stereotypes such as \"Fifteen thousand dollars? For a Mexican!!!!\" and the Pachuco \"pulls out a switchblade and swings at SECRETARY\".",
+         "value" : [
+            "Discrimination/Slurs",
+            "Violence"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Two actors play six roles with Spanish and Caló lines and mechanical, puppet-like shifts.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "An acto with speaker labels such as SANCHO, SECRETARY and JOHNNY and directions such as \"(Snaps his fingers.)\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Spanish lines such as \"Bueno, bueno, mis monos\", stated business like \"FARMWORKER picks faster\", and a \"Mousey voice\" for the Revolucionario.",
+         "value" : [
+            "Character Differentiation",
+            "Dialect",
+            "Physicality",
+            "Vocal Variety"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"¡Chicano power!\" and \"He's the best model we got!\"",
+         "value" : "A governor's secretary shops at Honest Sancho's Used Mexican Lot for a token Mexican, buys the Mexican-American model, and flees when it calls for revolution; the models turn out to be running the con."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"we need a brown face in the crowd\" and \"They think we're machines.\"",
+         "value" : [
+            "Ethnic stereotypes",
+            "Assimilation",
+            "Tokenism",
+            "Exploitation of labor",
+            "Chicano identity"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "Stereotypes are sold as car models (\"the Volkswagen of Mexicans\") to mock how Mexican Americans are seen.",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0838" : {
+      "audience_level" : {
+         "confidence" : "high",
+         "evidence" : "Child rape, a child's suicide, beatings and strong profanity such as \"Where the fuck is it?\"",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "high",
+         "evidence" : "\"She hits him in the back with the baseball bat\", \"My son was raped with his own baseball bat\", the boy chose \"to leave this world\", she takes \"Atavan. Sometimes Xanax\", and Bob \"served in the Gulf\".",
+         "value" : [
+            "Violence",
+            "Sexual Assault",
+            "Abuse",
+            "Suicide",
+            "Death",
+            "Grief",
+            "Mental Health",
+            "War/Trauma"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "high",
+         "evidence" : "Rapid shifts from menace to violence to breakdown to tentative kindness, with an ambiguous reversal at the end.",
+         "value" : "Advanced"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A ten-minute play with speaker labels MAUREEN and BOB and bracketed directions such as \"[She threatens him with a baseball bat.]\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Stated fight business such as \"He puts the large end of the bat to her throat\" and a long pause before the final discovery.",
+         "value" : [
+            "Physicality",
+            "Vocal Variety",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"She pulls out a baseball, and finally a baseball card.\"",
+         "value" : "A grieving mother lures an online predator to a lake and beats him with a bat, believes his denials and shares her son's story, then finds a baseball card in the tackle box he left."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"You thought you were talking to an eight year old, right?\"",
+         "value" : [
+            "Child sexual abuse",
+            "Grief and revenge",
+            "Online predators",
+            "Parental guilt",
+            "Deception"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A vigilante ambush gives way to grief and a final chilling discovery in the tackle box.",
+         "value" : [
+            "Dark",
+            "Serious"
+         ]
+      }
+   },
+   "IC-0839" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Satire with planned affairs and a joking suicide contingency, and only \"Damn\" for profanity.",
+         "value" : "High School"
+      },
+      "content_warnings" : {
+         "confidence" : "low",
+         "evidence" : "The man coolly lists \"suicide in the event of not achieving my goal\" as a contingency plan, played as satire.",
+         "value" : [
+            "Suicide"
+         ]
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters sustaining clipped corporate deadpan, with physical comedy in his failed attempts to say the word.",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A one-act play with speaker labels WOMAN and MAN and directions such as \"(Checks his watch again.)\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "high",
+         "evidence" : "Written pauses and business such as \"goes through some sort of athletic warm-up ritual\" and her \"savage dance of joy\".",
+         "value" : [
+            "Pacing/Timing Control",
+            "Physicality"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Shall I mention the M word now?\" and \"I've taken the liberty of drawing up a preliminary proposal\".",
+         "value" : "Two status-obsessed coworkers negotiate children, money and a planned mid-life crisis before he finally manages to propose that they merge."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"one of the things I value in our relationship is the complete lack of spontaneity\"",
+         "value" : [
+            "Marriage as business",
+            "Ambition",
+            "Emotional detachment",
+            "Yuppie culture"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "A proposal pitched as a business merger: \"Would you like to merge?\"",
+         "value" : [
+            "Satirical",
+            "Lighthearted"
+         ]
+      }
+   },
+   "IC-0840" : {
+      "audience_level" : {
+         "confidence" : "medium",
+         "evidence" : "Repeated strong profanity such as \"Fuck you.\"",
+         "value" : "Upper High School (mature content)"
+      },
+      "content_warnings" : {
+         "confidence" : "medium",
+         "evidence" : "Strong profanity such as \"YOU GOT ON THAT FUCKING BOAT\" but nothing in the listed categories occurs.",
+         "value" : []
+      },
+      "difficulty" : {
+         "confidence" : "medium",
+         "evidence" : "Two characters moving from banter to fury to Eric's tearful confession \"I can't dance, Gail.\"",
+         "value" : "Intermediate"
+      },
+      "literary_form" : {
+         "confidence" : "high",
+         "evidence" : "A ten-minute play with speaker labels GAIL and ERIC and directions such as \"(ERIC walks to the crib.\"",
+         "value" : "Drama"
+      },
+      "performance_demands" : {
+         "confidence" : "medium",
+         "evidence" : "Stated business such as \"ERIC lifts her into his arms\" and the closing slow dance after \"Just one minute.\"",
+         "value" : [
+            "Physicality",
+            "Pacing/Timing Control"
+         ]
+      },
+      "subject_matter" : {
+         "confidence" : "high",
+         "evidence" : "\"Eric, you are Fred Astaire.\"",
+         "value" : "At Gail's house, her ex Eric meets her baby daughter, they fight over why he left, and he confesses he cannot dance before she slowly coaxes him into dancing."
+      },
+      "themes" : {
+         "confidence" : "high",
+         "evidence" : "\"The love of my life got married to another man.\"",
+         "value" : [
+            "Lost love",
+            "Regret",
+            "Vulnerability",
+            "Choices and their costs",
+            "Intimacy"
+         ]
+      },
+      "tone" : {
+         "confidence" : "high",
+         "evidence" : "An angry reckoning between former lovers ends with \"He is dancing.\"",
+         "value" : [
+            "Bittersweet",
+            "Earnest"
+         ]
+      }
+   }
+}
